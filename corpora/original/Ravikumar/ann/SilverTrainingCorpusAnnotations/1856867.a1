@@ -1,0 +1,84 @@
+T1	Protein 0 14	Beta-lactamase
+T2	Organism 18 40	Bacillus licheniformis
+T3	Unknown 41 46	749/C
+T4	Process 48 58	Refinement
+T5	Value 62 65	2 A
+T6	Parameter 66 76	resolution
+T7	Technique 82 90	analysis
+T8	Process 94 103	hydration
+T9	Technique 109 125	crystallographic
+T10	Geometrical_part 140 149	structure
+T11	Protein 157 179	class A beta-lactamase
+T12	Protein 181 194	penicillinase
+T13	Organism 199 221	Bacillus licheniformis
+T14	Unknown 222 227	749/C
+T15	Technique 250 267	X-ray diffraction
+T16	Value 276 279	2 A
+T17	Parameter 280 290	resolution
+T18	Value 300 306	27,330
+T19	Parameter 317 318	F
+T20	Value 319 345	greater than or equal to 3
+T21	Unknown 346 354	sigma(F)
+T22	Parameter 360 368	R factor
+T23	Value 372 376	0.15
+T24	Value 386 392	30,090
+T25	Unknown 399 400	R
+T26	Value 404 408	0.16
+T27	Value 445 451	0.15 A
+T28	Process 477 486	deviation
+T29	Chemical 490 504	covalent bonds
+T30	Parameter 509 515	angles
+T31	Value 533 540	0.012 A
+T32	Value 545 556	2.2 degrees
+T33	Molecule 595 604	molecules
+T34	Value 608 622	29,500 daltons
+T35	Geometrical_part 654 671	space group P2(1)
+T36	Chemical 677 692	water molecules
+T37	Chemical 713 726	buffer anions
+T38	Protein 747 764	protein molecules
+T39	Parameter 778 794	root-mean-square
+T40	Process 795 805	difference
+T41	Value 809 815	0.17 A
+T42	Value 820 826	0.41 A
+T43	Chemical 831 849	alpha-carbon atoms
+T44	Chemical 862 867	atoms
+T45	Chemical 894 909	water molecules
+T46	Value 922 928	0.25 A
+T47	Chemical 941 956	water molecules
+T48	Protein 984 1000	protein molecule
+T49	Protein_part 1015 1020	Ser70
+T50	Protein_part 1043 1048	helix
+T51	Protein_part 1056 1066	N terminus
+T52	Protein_part 1079 1090	alpha-helix
+T53	Chemical 1104 1114	penicillin
+T54	Protein_part 1123 1127	site
+T55	Protein_part 1139 1144	helix
+T56	Chemical 1169 1184	water molecules
+T57	Chemical 1191 1201	penicillin
+T58	Process 1202 1207	entry
+T59	Chemical 1211 1225	water molecule
+T60	Chemical 1233 1241	oxyanion
+T61	Chemical 1248 1256	hydrogen
+T62	Protein_part 1276 1286	N terminus
+T63	Protein_part 1290 1295	helix
+T64	Protein_part 1308 1319	beta-strand
+T65	Chemical 1357 1368	oxygen atom
+T66	Chemical 1376 1396	beta-lactam carbonyl
+T67	Molecular_Part 1397 1402	group
+T68	Molecule 1418 1426	molecule
+T69	Chemical 1430 1435	water
+T70	Chemical 1468 1473	water
+T71	Chemical 1487 1497	penicillin
+T72	Process 1498 1508	hydrolysis
+T73	Chemical 1514 1519	water
+T74	Chemical 1523 1531	hydrogen
+T75	Protein_part 1542 1548	Glu166
+T76	Protein_part 1562 1569	residue
+T77	Protein 1577 1592	beta-lactamases
+T78	Value 1606 1609	3 A
+T79	Body_part 1619 1629	alpha-face
+T80	Chemical 1654 1664	penicillin
+T81	Chemical 1687 1699	water-Glu166
+T82	Protein_part 1726 1737	active site
+T83	Chemical 1743 1759	cis peptide bond
+T84	Protein_part 1763 1769	Pro167

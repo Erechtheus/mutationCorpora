@@ -1,0 +1,54 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein 22 25	p53
+T3	Protein_part 31 37	domain
+T4	Process 50 55	basis
+T5	Value 81 87	25-kDa
+T6	Protein_part 93 99	domain
+T7	Protein 107 127	tumor suppressor p53
+T8	Body_part 175 179	body
+T9	Parameter 180 191	temperature
+T10	Physiology 223 232	oncogenic
+T11	Process 233 242	mutations
+T12	State 278 287	stability
+T13	Geometrical_part 303 316	its structure
+T14	Chemical 320 328	solution
+T15	Technique 361 380	labeling techniques
+T16	Technique 385 401	NMR spectroscopy
+T17	Process 405 415	complement
+T18	Geometrical_part 420 437	crystal structure
+T19	Unknown 443 452	structure
+T20	Unknown 486 493	crystal
+T21	Technique 569 572	NMR
+T22	Unknown 588 599	environment
+T23	Molecular_Part 624 630	groups
+T24	Technique 688 704	NMR spectroscopy
+T25	Molecule 733 740	protons
+T26	Chemical 757 765	hydroxyl
+T27	Chemical 770 780	sulfhydryl
+T28	Molecular_Part 781 787	groups
+T29	Chemical 809 822	hydrogen-bond
+T30	Physiology 823 831	networks
+T31	Protein_part 866 873	Tyr-236
+T32	Protein_part 879 886	Thr-253
+T33	Protein_part 890 897	Phe-236
+T34	Protein_part 902 909	Ile-253
+T35	Protein 927 935	paralogs
+T36	Protein 936 939	p63
+T37	Protein 944 947	p73
+T38	Protein 965 968	p53
+T39	Value 972 984	1.6 kcal/mol
+T40	Process 1003 1014	differences
+T41	State 1022 1034	conformation
+T42	Geometrical_part 1048 1052	loop
+T43	Process 1076 1085	existence
+T44	State 1126 1139	conformations
+T45	Process 1145 1152	effects
+T46	Parameter 1156 1167	temperature
+T47	Protein_part 1196 1204	residues
+T48	Protein 1224 1231	protein
+T49	Process 1265 1274	processes
+T50	Process 1304 1312	presence
+T51	Chemical 1328 1341	hydrogen-bond
+T52	Protein 1358 1365	protein
+T53	Location 1366 1374	interior
+T54	Protein 1376 1379	p53

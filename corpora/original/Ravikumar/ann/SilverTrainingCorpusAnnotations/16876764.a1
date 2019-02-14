@@ -1,0 +1,99 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 42	acetylcholinesterase
+T3	Category 46 53	complex
+T4	Unknown 59 63	HI-6
+T5	Unknown 65 72	Ortho-7
+T6	Chemical 77 86	obidoxime
+T7	Process 99 104	basis
+T8	Process 109 120	differences
+T9	Chemical 150 166	tabun conjugates
+T10	Process 168 178	Inhibition
+T11	Protein 182 209	acetylcholinesterase (AChE)
+T12	Chemical 213 245	organophosphorus compounds (OPs)
+T13	Chemical 254 264	pesticides
+T14	Chemical 269 281	nerve agents
+T15	Physiology 289 303	acute toxicity
+T16	Physiology 307 312	death
+T17	Organism 332 342	individual
+T18	Protein 358 362	AChE
+T19	Chemical 393 399	oximes
+T20	Process 426 435	treatment
+T21	Chemical 439 441	OP
+T22	Geometrical_part 457 475	Crystal structures
+T23	Chemical 483 489	oximes
+T24	Unknown 490 494	HI-6
+T25	Unknown 496 503	Ortho-7
+T26	Chemical 508 517	obidoxime
+T27	Category 521 528	complex
+T28	Organism 534 537	Mus
+T29	Protein 538 575	musculus acetylcholinesterase (mAChE)
+T30	Process 583 592	different
+T31	Process 593 598	roles
+T32	Protein_part 606 635	peripheral anionic site (PAS)
+T33	Process 643 650	binding
+T34	Chemical 658 664	oximes
+T35	Process 687 693	change
+T36	Protein_part 701 713	side  chains
+T37	Protein_part 717 723	Trp286
+T38	Protein_part 728 733	Asp74
+T39	Process 750 763	intercalation
+T40	Chemical 771 802	4-carboxylamide pyridinium ring
+T41	Unknown 806 810	HI-6
+T42	Protein_part 823 834	side chains
+T43	Protein_part 838 844	Tyr124
+T44	Protein_part 849 855	Trp286
+T45	Chemical 861 891	2-carboxyimino pyridinium ring
+T46	Unknown 895 899	HI-6
+T47	Location 923 931	entrance
+T48	Protein_part 939 953	catalytic site
+T49	Chemical 981 994	hydrogen bond
+T50	Chemical 1002 1026	main-chain nitrogen atom
+T51	Protein_part 1030 1036	Phe295
+T52	Unknown 1053 1057	HI-6
+T53	Process 1063 1075	coordination
+T54	Chemical 1079 1086	Ortho-7
+T55	Chemical 1091 1100	obidoxime
+T56	Protein_part 1112 1115	PAS
+T57	Process 1157 1163	change
+T58	Protein_part 1167 1173	Trp286
+T59	Chemical 1197 1226	carboxyimino pyridinium rings
+T60	Chemical 1237 1246	cation-pi
+T61	Process 1247 1258	interaction
+T62	Molecular_Part 1277 1283	groups
+T63	Protein_part 1287 1292	Tyr72
+T64	Protein_part 1297 1303	Trp286
+T65	Protein 1309 1322	central chain
+T66	Unknown 1326 1333	Ortho-7
+T67	Chemical 1338 1347	obidoxime
+T68	Protein_part 1378 1389	active-site
+T69	Chemical 1416 1444	carboxyimino pyridinium ring
+T70	Location 1468 1476	vicinity
+T71	Chemical 1484 1495	phenol ring
+T72	Protein_part 1499 1505	Tyr337
+T73	Process 1550 1562	coordination
+T74	Chemical 1566 1573	Ortho-7
+T75	Chemical 1578 1587	obidoxime
+T76	Protein_part 1599 1610	active-site
+T77	Protein 1620 1624	AChE
+T78	Process 1626 1635	Different
+T79	Protein 1659 1663	AChE
+T80	Chemical 1677 1682	tabun
+T81	Process 1705 1717	reactivation
+T82	Process 1718 1729	experiments
+T83	Unknown 1736 1740	HI-6
+T84	Unknown 1742 1749	Ortho-7
+T85	Chemical 1754 1763	obidoxime
+T86	Parameter 1774 1784	efficiency
+T87	Value 1791 1793	45
+T88	Value 1798 1801	38%
+T89	Parameter 1825 1835	efficiency
+T90	Unknown 1839 1843	HI-6
+T91	Value 1866 1872	higher
+T92	Parameter 1873 1883	efficiency
+T93	Unknown 1888 1895	Ortho-7
+T94	Chemical 1900 1909	obidoxime
+T95	Process 1934 1954	differential binding
+T96	Chemical 1962 1968	oximes
+T97	Protein_part 1976 1979	PAS
+T98	Protein_part 1984 1995	active-site
+T99	Protein 2005 2009	AChE

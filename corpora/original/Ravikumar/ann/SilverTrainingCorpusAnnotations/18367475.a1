@@ -1,0 +1,77 @@
+T1	Unknown 0 9	Structure
+T2	Molecule 17 20	DNA
+T3	Protein_part 29 35	domain
+T4	Protein 39 45	NgTRF1
+T5	Organism 73 78	plant
+T6	Protein_part 79 87	telomere
+T7	Protein 96 104	proteins
+T8	Protein_part 106 115	Telomeres
+T9	Protein 120 140	protein-DNA elements
+T10	Geometrical_part 165 169	ends
+T11	Organism 180 190	eukaryotic
+T12	Protein 191 202	chromosomes
+T13	Protein_part 228 236	telomere
+T14	Protein 245 253	proteins
+T15	Process 278 282	role
+T16	Protein 286 292	genome
+T17	State 293 302	stability
+T18	Unknown 322 331	structure
+T19	Molecule 339 342	DNA
+T20	Protein_part 351 357	domain
+T21	Protein 361 367	NgTRF1
+T22	Protein_part 387 395	telomere
+T23	Protein 404 411	protein
+T24	Organism 415 422	tobacco
+T25	Technique 447 463	NMR spectroscopy
+T26	Technique 468 489	X-ray crystallography
+T27	Molecule 495 498	DNA
+T28	Protein_part 507 513	domain
+T29	Protein 517 523	NgTRF1
+T30	Unknown 538 541	Myb
+T31	Protein_part 547 553	domain
+T32	Protein_part 558 568	C-terminal
+T33	Process 569 582	Myb-extension
+T34	Organism 609 614	plant
+T35	Protein_part 631 639	telomere
+T36	Protein 648 656	proteins
+T37	Protein_part 673 710	amino acids 561-681 (NgTRF1(561-681))
+T38	Protein_part 735 748	alpha-helices
+T39	Unknown 773 782	structure
+T40	Protein_part 786 801	NgTRF1(561-681)
+T41	Organism 812 817	plant
+T42	Protein_part 818 827	telomeric
+T43	Molecule 828 831	DNA
+T44	Protein_part 855 874	amino acid residues
+T45	Molecule 905 908	DNA
+T46	Process 930 934	role
+T47	Process 942 949	binding
+T48	Protein 953 959	NgTRF1
+T49	Protein_part 963 971	telomere
+T50	Technique 979 1004	site-directed mutagenesis
+T51	Process 1028 1038	comparison
+T52	Molecule 1046 1049	DNA
+T53	Protein_part 1058 1065	domains
+T54	Protein 1069 1075	NgTRF1
+T55	Protein 1080 1098	human TRF1 (hTRF1)
+T56	Protein 1100 1106	NgTRF1
+T57	Molecule 1135 1138	DNA
+T58	Parameter 1147 1157	properties
+T59	Process 1159 1170	Interaction
+T60	Unknown 1174 1177	Myb
+T61	Protein_part 1183 1189	domain
+T62	Protein_part 1195 1204	telomeric
+T63	Protein_part 1205 1214	sequences
+T64	Protein_part 1238 1253	NgTRF1(561-681)
+T65	Molecule 1263 1266	DNA
+T66	Protein_part 1275 1281	domain
+T67	Unknown 1285 1290	hTRF1
+T68	Process 1296 1307	interaction
+T69	Protein_part 1311 1318	Arg-638
+T70	Protein_part 1328 1337	telomeric
+T71	Molecule 1338 1341	DNA
+T72	Protein_part 1362 1377	NgTRF1(561-681)
+T73	Protein 1441 1447	NgTRF1
+T74	Organism 1455 1460	plant
+T75	Protein_part 1461 1469	telomere
+T76	Protein_part 1470 1479	sequences
+T77	Protein_part 1481 1493	(TTTAGGG)(n)

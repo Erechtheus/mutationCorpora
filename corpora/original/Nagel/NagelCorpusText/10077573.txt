@@ -1,0 +1,7 @@
+Vaccinia virus early, intermediate, and late stage genes are sequentially transcribed by the viral RNA polymerase within the cytoplasm of infected cells . 
+We found that the 34- and 45-kDa polypeptides encoded by vaccinia virus ORFs A8R and A23R, respectively, were necessary to reconstitute transcription of a template with an intermediate stage promoter . 
+Coexpression of the A8R and A23R genes in Escherichia coli was required for in vitro activity . 
+In addition, the two polypeptides copurified, indicating their association as protein subunits of a vaccinia virus intermediate transcription factor . 
+This factor, which we named VITF-3, complemented three viral proteins-namely, the RNA polymerase, capping enzyme, and a 30-kDa protein called VITF-1 that is also a subunit of the RNA polymerase-and an unidentified cell factor called VITF-2 . 
+Expression of the A8R and A23R genes occurred between 1 and 5 h after vaccinia virus infection and was not prevented by an inhibitor of DNA replication, consistent with a role for VITF-3 in specifically regulating intermediate transcription in vivo . 
+The vaccinia virus A8R and A23R genes are highly conserved among vertebrate poxviruses, but no other viral or cellular homologs were identified . 

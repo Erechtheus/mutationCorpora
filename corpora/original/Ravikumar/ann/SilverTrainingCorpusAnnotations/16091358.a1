@@ -1,0 +1,88 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Unknown 36 45	Michaelis
+T3	Category 46 53	complex
+T4	Chemical 62 73	thiouronium
+T5	Process 74 82	reaction
+T6	Molecule 83 95	intermediate
+T7	Organism 99 121	Pseudomonas aeruginosa
+T8	Protein 122 140	arginine deiminase
+T9	Protein 142 168	L-arginine deiminase (ADI)
+T10	Process 196 206	hydrolysis
+T11	Chemical 210 220	L-arginine
+T12	Chemical 224 234	citrulline
+T13	Chemical 239 246	ammonia
+T14	Geometrical_part 276 285	structure
+T15	Protein 289 295	apoADI
+T16	Organism 301 323	Pseudomonas aeruginosa
+T17	Protein_part 334 342	residues
+T18	Protein_part 367 372	motif
+T19	Protein_part 392 398	Cys406
+T20	Protein_part 400 406	His278
+T21	Protein_part 408 414	Asp280
+T22	Protein_part 420 426	Asp166
+T23	Process 432 440	function
+T24	Protein_part 444 450	Cys406
+T25	Process 467 476	catalysis
+T26	Parameter 512 519	kinetic
+T27	Geometrical_part 548 557	structure
+T28	Protein_part 565 577	C406A mutant
+T29	Category 581 588	complex
+T30	Chemical 594 604	L-arginine
+T31	Category 663 670	complex
+T32	Process 684 694	comparison
+T33	Geometrical_part 702 712	structures
+T34	Protein 716 725	apoenzyme
+T35	Category 730 739	substrate
+T36	Protein 746 752	enzyme
+T37	Category 756 765	substrate
+T38	State 774 788	conformational
+T39	Process 789 799	transition
+T40	Process 831 835	role
+T41	Parameter 839 847	activity
+T42	Process 848 858	regulation
+T43	Chemical 909 920	guanidinium
+T44	Molecular_Part 921 926	group
+T45	Category 940 949	substrate
+T46	Protein_part 966 977	side chains
+T47	Protein_part 981 987	His278
+T48	Protein_part 989 995	Asp280
+T49	Protein_part 1001 1007	Asp166
+T50	Protein_part 1029 1037	residues
+T51	Molecule 1055 1061	proton
+T52	Process 1062 1071	transfers
+T53	Protein_part 1073 1079	His278
+T54	Protein_part 1084 1090	Asp280
+T55	Chemical 1129 1146	water nucleophile
+T56	Process 1154 1164	hydrolysis
+T57	Chemical 1172 1203	S-alkylthiouronium intermediate
+T58	Protein_part 1224 1231	alanine
+T59	Molecule 1249 1261	intermediate
+T60	Unknown 1266 1275	structure
+T61	Unknown 1296 1306	structures
+T62	Protein_part 1326 1331	H278A
+T63	Protein_part 1336 1349	D280A mutants
+T64	Chemical 1371 1381	L-arginine
+T65	Chemical 1408 1433	S-alkylthiouronium adduct
+T66	Protein_part 1454 1460	Cys406
+T67	Chemical 1468 1486	guanidinium carbon
+T68	Chemical 1490 1500	L-arginine
+T69	Process 1517 1528	elimination
+T70	Chemical 1533 1540	ammonia
+T71	Protein_part 1542 1548	Asp280
+T72	Protein_part 1553 1559	Asp166
+T73	Process 1576 1588	interactions
+T74	Chemical 1598 1609	guanidinium
+T75	Molecular_Part 1610 1615	group
+T76	Protein 1623 1632	C406A ADI
+T77	Chemical 1634 1654	L-arginine structure
+T78	Process 1676 1684	reaction
+T79	Molecule 1711 1717	proton
+T80	Process 1718 1726	transfer
+T81	Unknown 1728 1737	Structure
+T82	Protein_part 1755 1760	D166A
+T83	Protein 1774 1786	apoD166A ADI
+T84	Unknown 1806 1816	structures
+T85	Protein 1897 1900	ADI
+T86	Category 1901 1910	substrate
+T87	Process 1911 1922	recognition
+T88	Process 1927 1936	catalysis

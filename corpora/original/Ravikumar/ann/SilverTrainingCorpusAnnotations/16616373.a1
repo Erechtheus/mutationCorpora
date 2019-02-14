@@ -1,0 +1,81 @@
+T1	Process 18 22	role
+T2	Chemical 26 36	nucleotide
+T3	State 47 61	conformational
+T4	Process 62 68	change
+T5	Protein 72 83	nitrogenase
+T6	Process 84 93	catalysis
+T7	Process 106 122	characterization
+T8	Protein 130 152	nitrogenase Fe protein
+T9	Protein_part 154 160	Leu127
+T10	Process 161 169	deletion
+T11	Unknown 170 177	variant
+T12	Chemical 189 194	MgATP
+T13	Geometrical_part 238 247	structure
+T14	Protein 255 266	nitrogenase
+T15	Protein_part 267 274	Leu 127
+T16	Protein 275 302	deletion variant Fe protein
+T17	Chemical 308 313	MgATP
+T18	Parameter 345 352	density
+T19	Technique 371 383	calculations
+T20	Process 414 419	roles
+T21	Chemical 423 428	MgATP
+T22	Protein 436 447	nitrogenase
+T23	Process 448 456	reaction
+T24	Process 457 466	mechanism
+T25	Process 468 478	Comparison
+T26	Chemical 486 491	MgATP
+T27	Unknown 498 507	structure
+T28	Protein 516 526	Fe protein
+T29	Chemical 534 549	nucleotide-free
+T30	Process 574 581	binding
+T31	Chemical 585 590	MgATP
+T32	Unknown 618 627	structure
+T33	Unknown 635 642	variant
+T34	Process 673 684	differences
+T35	State 692 704	conformation
+T36	Protein_part 708 719	amino acids
+T37	Process 730 737	contact
+T38	Chemical 757 772	MgATP molecules
+T39	Chemical 829 837	[4Fe-4S]
+T40	Unknown 856 862	2Fe-2S
+T41	Process 907 914	binding
+T42	Chemical 915 920	MgATP
+T43	Parameter 922 929	Density
+T44	Molecular_Part 960 965	probe
+T45	Process 970 980	assignment
+T46	Category 984 991	ligands
+T47	Unknown 1004 1010	2Fe-2S
+T48	Chemical 1024 1030	Mg(2+)
+T49	Unknown 1031 1042	environment
+T50	Chemical 1050 1055	MgATP
+T51	Geometrical_part 1062 1071	structure
+T52	Protein_part 1079 1085	Leu127
+T53	Protein 1086 1105	deletion Fe protein
+T54	Protein 1142 1152	Fe protein
+T55	Protein 1160 1182	nitrogenase Fe protein
+T56	Protein 1184 1196	MoFe protein
+T57	Category 1197 1204	complex
+T58	Chemical 1219 1224	MgADP
+T59	Chemical 1229 1249	tetrafluoroaluminate
+T60	State 1278 1292	conformational
+T61	Process 1293 1299	change
+T62	Protein 1320 1330	Fe protein
+T63	Process 1354 1361	changes
+T64	Chemical 1369 1375	Mg(2+)
+T65	Process 1376 1388	coordination
+T66	Chemical 1432 1437	MgATP
+T67	State 1454 1463	stability
+T68	State 1470 1487	open conformation
+T69	Protein 1501 1513	intersubunit
+T70	Process 1514 1526	interactions
+T71	Chemical 1568 1578	nucleotide
+T72	Process 1579 1589	hydrolysis
+T73	Process 1627 1634	control
+T74	Chemical 1638 1643	MgATP
+T75	Process 1644 1654	hydrolysis
+T76	Protein 1675 1686	nitrogenase
+T77	Category 1687 1694	complex
+T78	Molecule 1748 1756	electron
+T79	Parameter 1757 1761	flow
+T80	Category 1769 1778	substrate
+T81	Process 1779 1788	reduction

@@ -1,0 +1,73 @@
+T1	Unknown 0 9	Structure
+T2	Organism 15 29	cyanobacterial
+T3	Protein 30 42	BLUF protein
+T4	Protein 44 51	Tll0078
+T5	Chemical 72 75	FAD
+T6	Geometrical_part 95 101	sensor
+T7	Protein_part 102 108	domain
+T8	Geometrical_part 114 120	sensor
+T9	Protein 121 129	proteins
+T10	Chemical 155 165	FAD (BLUF)
+T11	Protein_part 166 172	domain
+T12	Unknown 193 199	family
+T13	Protein 207 229	photoreceptor proteins
+T14	Chemical 238 256	flavin chromophore
+T15	Unknown 279 287	families
+T16	Protein 292 304	phototropins
+T17	Protein 309 322	cryptochromes
+T18	Unknown 337 346	structure
+T19	Protein_part 356 367	BLUF domain
+T20	Geometrical_part 392 409	crystal structure
+T21	Protein 417 432	Tll0078 protein
+T22	Organism 438 467	Thermosynechococcus elongatus
+T23	Protein 468 472	BP-1
+T24	Protein_part 491 502	BLUF domain
+T25	Chemical 512 515	FAD
+T26	Protein_part 520 522	2A
+T27	Parameter 523 533	resolution
+T28	Protein 540 556	Tll0078 monomers
+T29	Value 601 607	5-fold
+T30	Location 608 612	axis
+T31	Chemical 623 631	pentamer
+T32	Chemical 641 650	pentamers
+T33	Value 662 668	2-fold
+T34	Geometrical_part 690 698	symmetry
+T35	Process 716 724	assembly
+T36	Protein 730 737	monomer
+T37	Protein_part 754 761	domains
+T38	Protein_part 767 778	BLUF domain
+T39	Protein_part 786 803	N-terminal region
+T40	Protein_part 812 829	C-terminal domain
+T41	Geometrical_part 843 852	structure
+T42	Protein_part 860 871	BLUF domain
+T43	Protein_part 906 916	beta-sheet
+T44	Protein_part 926 939	alpha-helices
+T45	Geometrical_part 948 956	parallel
+T46	Chemical 970 988	isoalloxazine ring
+T47	Chemical 992 995	FAD
+T48	Geometrical_part 1017 1023	pocket
+T49	Protein_part 1059 1078	amino acid residues
+T50	Protein_part 1086 1097	BLUF domain
+T51	Protein_part 1132 1140	residues
+T52	Protein_part 1142 1147	Asn31
+T53	Protein_part 1149 1154	Asn32
+T54	Protein_part 1159 1164	Gln50
+T55	Protein_part 1188 1191	Ala
+T56	Protein 1193 1209	Mutant  proteins
+T57	Protein_part 1213 1217	N31A
+T58	Protein_part 1222 1226	N32A
+T59	Value 1250 1254	10nm
+T60	Process 1264 1269	shift
+T61	Chemical 1277 1283	flavin
+T62	Process 1289 1301	illumination
+T63	Protein_part 1313 1324	Q50A mutant
+T64	Process 1348 1353	shift
+T65	Process 1369 1374	basis
+T66	Geometrical_part 1382 1399	crystal structure
+T67	Process 1425 1429	role
+T68	Protein_part 1433 1438	Gln50
+T69	Protein_part 1504 1508	Tyr8
+T70	Chemical 1510 1524	FAD-Gln50-Tyr8
+T71	Physiology 1525 1532	network
+T72	Process 1577 1582	shift
+T73	Protein 1591 1604	BLUF proteins

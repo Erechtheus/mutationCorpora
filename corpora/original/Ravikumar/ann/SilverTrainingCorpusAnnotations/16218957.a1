@@ -1,0 +1,108 @@
+T1	Process 10 15	basis
+T2	Category 20 29	substrate
+T3	Process 30 41	recognition
+T4	Chemical 46 50	drug
+T5	Parameter 51 61	resistance
+T6	Value 67 70	1.1
+T7	Value 74 87	1.6 angstroms
+T8	Parameter 88 98	resolution
+T9	Geometrical_part 99 117	crystal structures
+T10	Organism 121 126	HIV-1
+T11	Protein 127 143	protease mutants
+T12	Category 149 158	substrate
+T13	Unknown 160 167	analogs
+T14	Organism 169 174	HIV-1
+T15	Protein 175 188	protease (PR)
+T16	Chemical 197 201	drug
+T17	Protein 212 224	variants--PR
+T18	Protein_part 234 238	V82A
+T19	Process 239 247	mutation
+T20	Protein 249 257	PR(V82A)
+T21	Protein 263 265	PR
+T22	Protein_part 275 279	I84V
+T23	Process 280 288	mutation
+T24	Protein 290 298	PR(I84V)
+T25	Protein_part 328 343	peptide analogs
+T26	Process 360 368	cleavage
+T27	Protein_part 369 374	sites
+T28	Protein 376 381	CA-p2
+T29	Protein 383 388	p2-NC
+T30	Protein 390 398	p6pol-PR
+T31	Protein 400 405	p1-p6
+T32	Unknown 410 415	NC-p1
+T33	Parameter 450 457	kinetic
+T34	Process 458 465	changes
+T35	Chemical 478 482	drug
+T36	Process 493 502	mutations
+T37	Chemical 503 507	V82A
+T38	Chemical 512 516	I84V
+T39	Protein_part 523 531	residues
+T40	Category 544 553	substrate
+T41	Protein_part 562 566	site
+T42	Geometrical_part 574 592	crystal structures
+T43	Process 609 620	resolutions
+T44	Value 624 635	1.10-1.60 A
+T45	Process 637 648	Differences
+T46	Unknown 656 665	PR-analog
+T47	Process 666 678	interactions
+T48	Protein_part 695 711	peptide sequence
+T49	Process 750 760	inhibition
+T50	Unknown 762 779	Analog p6(pol)-PR
+T51	Chemical 792 806	hydrogen bonds
+T52	Protein_part 810 816	P2 Asn
+T53	Protein 822 824	PR
+T54	Unknown 835 848	van der Waals
+T55	Process 849 857	contacts
+T56	Protein_part 862 869	P1' Pro
+T57	Protein 900 905	CA-p2
+T58	Protein 909 914	p2-NC
+T59	Protein 918 920	PR
+T60	Category 921 930	complexes
+T61	Protein_part 936 942	P3 Gly
+T62	Protein 947 952	p1-p6
+T63	Unknown 968 981	van der Waals
+T64	Process 982 990	contacts
+T65	Chemical 995 1009	hydrogen bonds
+T66	Chemical 1013 1018	P2-P3
+T67	Chemical 1028 1033	water
+T68	Process 1043 1055	interactions
+T69	Protein 1057 1065	PR(I84V)
+T70	Unknown 1081 1094	van der Waals
+T71	Process 1095 1107	interactions
+T72	Category 1113 1122	inhibitor
+T73	Protein 1137 1139	PR
+T74	Parameter 1167 1174	kinetic
+T75	Unknown 1185 1195	structures
+T76	Parameter 1213 1229	binding affinity
+T77	Molecule 1234 1241	mutants
+T78	State 1262 1276	conformational
+T79	Category 1296 1305	substrate
+T80	Unknown 1306 1313	analogs
+T81	Category 1319 1328	complexes
+T82	Protein 1332 1340	PR(V82A)
+T83	Process 1356 1362	shifts
+T84	Protein_part 1370 1380	main chain
+T85	Chemical 1381 1386	atoms
+T86	Protein_part 1390 1395	Ala82
+T87	Protein 1408 1410	PR
+T88	Process 1421 1429	movement
+T89	Protein_part 1437 1451	peptide analog
+T90	Category 1465 1474	complexes
+T91	Category 1489 1499	inhibitors
+T92	Protein 1501 1509	PR(V82A)
+T93	Process 1541 1545	loss
+T94	Process 1549 1560	interaction
+T95	Category 1566 1575	inhibitor
+T96	Process 1586 1594	mutation
+T97	Parameter 1614 1621	kinetic
+T98	Category 1632 1641	substrate
+T99	Unknown 1642 1649	analogs
+T100	Chemical 1681 1686	drugs
+T101	Process 1717 1724	changes
+T102	Process 1735 1743	mutation
+T103	Unknown 1758 1768	structures
+T104	Organism 1789 1792	HIV
+T105	Chemical 1805 1809	drug
+T106	Parameter 1810 1820	resistance
+T107	Protein 1852 1854	PR
+T108	Category 1876 1886	substrates

@@ -1,0 +1,64 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 38 50	antithrombin
+T3	Geometrical_part 67 87	reactive center loop
+T4	State 88 100	conformation
+T5	Parameter 111 130	inhibitory activity
+T6	Protein 146 163	antithrombin (AT)
+T7	Process 184 193	formation
+T8	Body_part 197 202	blood
+T9	Physiology 203 208	clots
+T10	Protein_part 212 217	sites
+T11	Body_part 221 229	vascular
+T12	Category 262 271	inhibitor
+T13	Protein 279 300	coagulation proteases
+T14	Process 312 319	binding
+T15	Chemical 334 357	heparin pentasaccharide
+T16	State 376 388	conformation
+T17	Geometrical_part 396 422	reactive center loop (RCL)
+T18	Process 438 443	basis
+T19	Process 452 462	activation
+T20	Body_part 481 486	heart
+T21	Process 494 504	regulation
+T22	Process 509 519	hemostasis
+T23	Parameter 555 565	properties
+T24	Protein 577 603	molecular  weight heparins
+T25	Geometrical_part 622 632	structures
+T26	Protein 636 638	AT
+T27	State 661 673	conformation
+T28	Geometrical_part 681 684	RCL
+T29	Unknown 738 745	crystal
+T30	Process 746 753	contact
+T31	Geometrical_part 766 769	RCL
+T32	Geometrical_part 831 857	crystallographic structure
+T33	Unknown 863 870	variant
+T34	State 894 907	native  state
+T35	Geometrical_part 913 916	RCL
+T36	Value 925 943	approximately 20 A
+T37	Chemical 951 962	salt bridge
+T38	Protein_part 988 998	P1 residue
+T39	Protein_part 1000 1007	Arg-393
+T40	Protein_part 1013 1020	Glu-237
+T41	Process 1027 1034	contact
+T42	Process 1048 1054	effect
+T43	Process 1058 1067	mutations
+T44	Protein_part 1075 1077	P1
+T45	Parameter 1094 1102	affinity
+T46	Chemical 1113 1120	heparin
+T47	Parameter 1134 1144	properties
+T48	Protein 1148 1156	AT-Truro
+T49	Protein 1158 1163	E237K
+T50	State 1196 1208	conformation
+T51	Process 1230 1241	mutagenesis
+T52	Unknown 1265 1275	structures
+T53	Unknown 1288 1295	variant
+T54	Process 1299 1308	different
+T55	Unknown 1309 1316	crystal
+T56	Parameter 1350 1369	inhibitory activity
+T57	Protein 1397 1399	AT
+T58	Process 1441 1449	contacts
+T59	Geometrical_part 1468 1471	RCL
+T60	Protein_part 1484 1494	P1 residue
+T61	Protein 1515 1524	proteases
+T62	Protein_part 1553 1560	exosite
+T63	Protein 1573 1581	protease
+T64	Process 1582 1593	recognition

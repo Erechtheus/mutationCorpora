@@ -1,0 +1,67 @@
+T1	Protein 4 21	plant homeodomain
+T2	Body_part 22 28	finger
+T3	Protein 32 36	RAG2
+T4	Protein 48 58	histone H3
+T5	Protein_part 78 86	lysine-4
+T6	Chemical 91 101	arginine-2
+T7	Protein 103 140	Recombination activating gene (RAG) 1
+T8	Protein 145 149	RAG2
+T9	Protein 168 178	V(D)J gene
+T10	Process 179 192	rearrangement
+T11	Body_part 196 207	lymphocytes
+T12	Process 233 241	assembly
+T13	Process 246 256	maturation
+T14	Protein 261 278	antigen receptors
+T15	Protein 280 284	RAG2
+T16	Protein 296 319	plant homeodomain (PHD)
+T17	Protein_part 329 339	C terminus
+T18	Protein 341 349	RAG2-PHD
+T19	Protein 367 377	histone H3
+T20	Protein_part 392 409	lysine 4 (H3K4me)
+T21	Protein 425 430	V(D)J
+T22	Process 431 444	recombination
+T23	Geometrical_part 461 479	crystal structures
+T24	Protein 483 491	RAG2-PHD
+T25	Protein_part 531 542	H3 peptides
+T26	Protein 559 567	RAG2-PHD
+T27	Process 594 601	absence
+T28	Protein_part 618 625	peptide
+T29	Protein_part 629 647	peptide N-terminal
+T30	Protein 651 659	RAG2-PHD
+T31	Category 673 682	substrate
+T32	Protein_part 691 695	site
+T33	Process 733 742	mechanism
+T34	Protein_part 773 780	H3K4me3
+T35	Protein_part 789 800	PHD domains
+T36	Protein 802 810	RAG2-PHD
+T37	Chemical 825 836	carboxylate
+T38	Chemical 857 867	arginine 2
+T39	Chemical 869 871	R2
+T40	Protein_part 880 883	Tyr
+T41	Process 898 905	binding
+T42	Protein_part 909 916	H3K4me3
+T43	Process 959 972	dimethylation
+T44	Chemical 976 978	R2
+T45	Protein_part 985 993	residues
+T46	Protein 1006 1016	histone H3
+T47	Process 1017 1028	recognition
+T48	Physiology 1052 1091	severe combined immunodeficiency (SCID)
+T49	Organism 1092 1100	patients
+T50	Process 1102 1112	Disruption
+T51	Protein 1120 1128	RAG2-PHD
+T52	Geometrical_part 1129 1138	structure
+T53	Process 1162 1169	absence
+T54	Body_part 1173 1174	T
+T55	Body_part 1179 1192	B lymphocytes
+T56	Protein_part 1218 1225	H3K4me3
+T57	Unknown 1239 1244	Omenn
+T58	Physiology 1245 1253	Syndrome
+T59	Process 1286 1291	basis
+T60	Protein 1296 1320	chromatin-dependent gene
+T61	Process 1321 1334	recombination
+T62	Protein 1358 1365	protein
+T63	Protein_part 1366 1372	domain
+T64	Protein 1417 1424	histone
+T65	Process 1425 1438	modifications
+T66	Protein 1500 1507	histone
+T67	Process 1508 1521	modifications

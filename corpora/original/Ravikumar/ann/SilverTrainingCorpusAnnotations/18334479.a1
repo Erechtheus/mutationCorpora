@@ -1,0 +1,88 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Process 22 29	fission
+T3	Organism 30 35	yeast
+T4	Protein 36 58	histone chaperone Asf1
+T5	Protein_part 78 91	Hip1 B-domain
+T6	Protein 99 103	Cac2
+T7	Value 104 105	C
+T8	Protein_part 106 114	terminus
+T9	Process 120 128	assembly
+T10	Protein 137 145	histones
+T11	Organism 151 161	eukaryotic
+T12	Molecule 162 165	DNA
+T13	Protein 190 207	histone chaperone
+T14	Category 208 217	complexes
+T15	Category 229 233	Asf1
+T16	Category 235 240	CAF-1
+T17	Category 246 250	HIRA
+T18	Protein 252 256	Asf1
+T19	Protein 269 286	histone chaperone
+T20	Process 317 328	replication
+T21	Process 343 354	replication
+T22	Process 367 375	pathways
+T23	Geometrical_part 396 414	crystal structures
+T24	State 422 430	apo-form
+T25	Process 434 441	fission
+T26	Organism 442 447	yeast
+T27	Protein 448 457	Asf1/Cia1
+T28	Unknown 459 466	SpAsf1N
+T29	Protein_part 468 482	residues 1-161
+T30	Category 499 508	complexes
+T31	Protein_part 518 526	B-domain
+T32	Process 534 541	fission
+T33	Organism 542 547	yeast
+T34	Protein 548 568	HIRA orthologue Hip1
+T35	Protein 570 575	Hip1B
+T36	Protein_part 585 602	C-terminal region
+T37	Protein 610 622	Cac2 subunit
+T38	Unknown 626 639	CAF-1 (Cac2C)
+T39	Process 657 664	fission
+T40	Organism 665 670	yeast
+T41	Unknown 671 682	Asf1N-Hip1B
+T42	Process 683 694	recognition
+T43	Organism 721 726	human
+T44	Protein 727 736	Asf1-HIRA
+T45	Process 737 748	recognition
+T46	Unknown 766 771	Asf1N
+T47	Process 772 783	recognition
+T48	Unknown 787 797	Hip1B/HIRA
+T49	Organism 816 821	yeast
+T50	Organism 825 832	mammals
+T51	Protein 849 854	Hip1B
+T52	Protein 859 864	Cac2C
+T53	Process 889 900	interaction
+T54	Protein 912 916	Asf1
+T55	Process 922 929	binding
+T56	Protein 938 943	Asf1N
+T57	Protein 948 953	Hip1B
+T58	Protein_part 993 997	D37A
+T59	Protein_part 1002 1011	L60A/V62A
+T60	Process 1012 1021	mutations
+T61	Unknown 1025 1030	Asf1N
+T62	Process 1056 1060	role
+T63	Chemical 1064 1075	salt bridge
+T64	Chemical 1080 1093	van der Waals
+T65	Process 1094 1102	contacts
+T66	Process 1118 1127	formation
+T67	Protein 1170 1174	Asf1
+T68	Process 1175 1184	mutations
+T69	Process 1215 1222	binding
+T70	Unknown 1226 1231	Cac2C
+T71	Process 1268 1273	basis
+T72	Protein 1299 1303	Asf1
+T73	Protein 1321 1326	CAF-1
+T74	Protein 1331 1340	HIRA/Hip1
+T75	Protein 1351 1355	Asf1
+T76	Protein 1360 1365	CAF-1
+T77	Protein 1375 1389	histones H3/H4
+T78	Protein 1391 1398	H3.1/H4
+T79	Organism 1402 1413	vertebrates
+T80	Process 1420 1431	replication
+T81	Process 1442 1449	pathway
+T82	Protein 1459 1463	Asf1
+T83	Protein 1468 1477	HIRA/Hip1
+T84	Protein 1487 1501	histones H3/H4
+T85	Protein 1503 1510	H3.3/H4
+T86	Organism 1514 1525	vertebrates
+T87	Process 1532 1543	replication
+T88	Process 1556 1563	pathway

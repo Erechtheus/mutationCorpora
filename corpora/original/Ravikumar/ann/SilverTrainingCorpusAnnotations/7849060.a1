@@ -1,0 +1,81 @@
+T1	Technique 3 6	NMR
+T2	Molecule 18 29	sarafotoxin
+T3	Molecule 30 34	SRTb
+T4	Protein 51 70	endothelin receptor
+T5	Category 71 78	agonist
+T6	Molecule 84 92	IRL 1620
+T7	Protein 97 109	ETB receptor
+T8	Category 119 126	agonist
+T9	Chemical 128 130	1H
+T10	Technique 131 134	NMR
+T11	Protein 163 182	endothelin receptor
+T12	Category 183 190	agonist
+T13	Molecule 191 202	sarafotoxin
+T14	Chemical 203 207	SRTb
+T15	Protein_part 226 231	helix
+T16	Protein_part 240 248	residues
+T17	Protein_part 249 252	Asp
+T18	Protein_part 259 265	His 16
+T19	Protein_part 273 282	beta-turn
+T20	Protein_part 293 307	residues Cys 3
+T21	Protein_part 311 316	Met 6
+T22	Protein_part 354 364	C-terminal
+T23	Protein_part 370 378	residues
+T24	Parameter 427 434	average
+T25	Unknown 435 439	RMSD
+T26	Unknown 475 485	structures
+T27	Parameter 493 500	average
+T28	Unknown 501 510	structure
+T29	Protein_part 516 529	residues 1-16
+T30	Value 535 550	0.78 +/- 0.18 A
+T31	Geometrical_part 559 567	backbone
+T32	Chemical 568 573	atoms
+T33	Value 578 593	1.39 +/- 0.22 A
+T34	Chemical 602 607	atoms
+T35	Parameter 613 627	torsion angles
+T36	Protein_part 628 633	Cys 3
+T37	Protein 634 649	psi/Lys 4 theta
+T38	Protein_part 651 656	Thr 7
+T39	Protein 657 672	psi/Asp 8 theta
+T40	Protein_part 677 683	Gln 17
+T41	Protein 684 689	theta
+T42	Protein_part 709 714	sites
+T43	State 718 732	conformational
+T44	Process 733 744	variability
+T45	Process 746 757	Differences
+T46	Unknown 782 792	structures
+T47	Geometrical_part 809 813	loop
+T48	Protein_part 814 820	region
+T49	Chemical 825 829	SRTb
+T50	Molecule 855 858	ET1
+T51	Protein 881 889	receptor
+T52	Category 890 897	agonist
+T53	Process 930 941	differences
+T54	Protein_part 962 970	peptides
+T55	State 976 988	conformation
+T56	Protein 995 1007	ETB receptor
+T57	Category 1017 1024	agonist
+T58	Molecule 1026 1034	IRL 1620
+T59	Protein_part 1052 1062	N-terminal
+T60	Protein_part 1069 1077	residues
+T61	Chemical 1090 1111	intrachain disulfides
+T62	Technique 1126 1129	NMR
+T63	Technique 1134 1165	circular dichroism spectroscopy
+T64	Parameter 1225 1233	affinity
+T65	Protein 1243 1255	ETB receptor
+T66	Chemical 1278 1281	ET1
+T67	Technique 1298 1306	analysis
+T68	Technique 1314 1317	NMR
+T69	Process 1340 1348	presence
+T70	Unknown 1362 1372	structures
+T71	Protein_part 1387 1392	helix
+T72	Geometrical_part 1401 1405	part
+T73	Protein_part 1413 1421	sequence
+T74	Geometrical_part 1443 1450	helical
+T75	Protein_part 1451 1457	region
+T76	Organism 1465 1471	parent
+T77	Protein_part 1472 1480	peptides
+T78	State 1513 1533	helical conformation
+T79	Category 1554 1560	ligand
+T80	Protein 1576 1588	ETB receptor
+T81	Protein 1607 1619	ETA receptor

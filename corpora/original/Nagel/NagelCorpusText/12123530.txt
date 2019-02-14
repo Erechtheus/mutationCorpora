@@ -1,0 +1,8 @@
+BACKGROUND: Intronic DNA sequences of the canine arrestin (SAG) gene was screened to identify potential disease causing mutations in dogs with generalized progressive retinal atrophy (gPRA) . 
+The intronic sequences flanking each of the 16 exons were obtained from clones of a canine genomic library . 
+RESULTS: Using polymerase chain reaction-single strand conformation polymorphism (PCR-SSCP) and DNA sequence analyses we screened affected and unaffected dogs of 23 breeds with presumed autosomal recessively (ar) transmitted gPRA . 
+In the coding region of the SAG gene 12 nucleotide exchanges were identified, 5 of which lead to amino acid substitutions ( H14C; A111V; A113T; D259T; A379E) . 
+7 other exonic substitutions represent silent polymorphisms (C132C; Q199Q; H225H; V247V; P264P; T288T and L293L) . 
+16 additional sequence variations were observed in intronic regions of different dog breeds . 
+CONCLUSIONS: In several breeds, these polymorphisms were found in homozygous state in unaffected and in heterozygous state in affected animals . 
+Consequently these informative substitutions provide evidence to exclude mutations in the SAG gene as causing retinal degeneration in 14 of the 23 dog breeds with presumed ar transmitted gPRA . 

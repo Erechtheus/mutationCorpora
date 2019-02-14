@@ -1,0 +1,74 @@
+T1	Process 0 8	Assembly
+T2	Chemical 12 23	chloroplast
+T3	Process 31 42	recognition
+T4	Unknown 43 51	particle
+T5	Process 72 85	rearrangement
+T6	Process 89 96	cpSRP43
+T7	Process 98 149	Signal recognition particle in chloroplasts (cpSRP)
+T8	Process 192 198	target
+T9	Protein 211 219	proteins
+T10	Body_part 227 245	thylakoid membrane
+T11	Location 254 263	cytosolic
+T12	Unknown 264 268	SRPs
+T13	Organism 272 283	prokaryotes
+T14	Organism 288 298	eukaryotes
+T15	Process 300 305	cpSRP
+T16	Protein 315 318	RNA
+T17	Molecular_Part 319 325	moiety
+T18	Protein 345 356	heterodimer
+T19	Protein 381 412	54-kDa guanosine triphosphatase
+T20	Process 414 421	cpSRP54
+T21	Protein 436 450	43-kDa subunit
+T22	Process 452 459	cpSRP43
+T23	Process 462 470	Assembly
+T24	Protein 478 495	cpSRP heterodimer
+T25	Process 537 546	targeting
+T26	Parameter 547 557	activities
+T27	Process 582 594	interactions
+T28	Protein_part 603 636	chromatin modifier domain 2 (CD2)
+T29	Process 640 647	cpSRP43
+T30	Protein_part 661 681	10-amino-acid region
+T31	Process 685 707	cpSRP54 (cpSRP54(pep))
+T32	Technique 739 755	NMR spectroscopy
+T33	Process 801 809	assembly
+T34	Unknown 814 823	structure
+T35	Process 831 846	cpSRP43-cpSRP54
+T36	Protein_part 877 880	CD2
+T37	Process 884 891	cpSRP43
+T38	Process 901 913	cpSRP54(pep)
+T39	Value 919 922	1:1
+T40	Technique 923 936	stoichiometry
+T41	Parameter 945 958	apparent K(d)
+T42	Value 963 985	approximately 1.06 muM
+T43	Parameter 987 999	Steady-state
+T44	Technique 1000 1012	fluorescence
+T45	Technique 1017 1042	far-UV circular dichroism
+T46	Process 1065 1081	CD2-cpSRP54(pep)
+T47	Process 1082 1093	interaction
+T48	State 1113 1127	conformational
+T49	Process 1128 1135	changes
+T50	Protein_part 1144 1147	CD2
+T51	Protein_part 1156 1163	peptide
+T52	Process 1165 1175	Comparison
+T53	Chemical 1201 1220	solution structures
+T54	Protein_part 1224 1227	CD2
+T55	Category 1241 1248	complex
+T56	Process 1254 1266	cpSRP54(pep)
+T57	Process 1301 1308	changes
+T58	Protein_part 1324 1327	CD2
+T59	Process 1352 1359	binding
+T60	Protein_part 1392 1400	residues
+T61	Protein_part 1408 1426	N-terminal segment
+T62	Protein_part 1430 1433	CD2
+T63	Protein_part 1435 1445	Phe5-Val10
+T64	Chemical 1454 1462	arginine
+T65	Protein_part 1472 1478	Arg536
+T66	Protein_part 1483 1489	Arg537
+T67	Process 1498 1505	cpSRP54
+T68	Protein_part 1506 1513	peptide
+T69	Process 1574 1583	mechanism
+T70	Process 1587 1592	cpSRP
+T71	Process 1593 1601	assembly
+T72	Parameter 1621 1627	forces
+T73	Process 1669 1684	cpSRP43-cpSRP54
+T74	Process 1685 1696	interaction

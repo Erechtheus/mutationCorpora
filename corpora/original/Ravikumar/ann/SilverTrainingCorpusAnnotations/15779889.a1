@@ -1,0 +1,91 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Chemical 22 27	deoxy
+T3	Unknown 32 34	CO
+T4	Unknown 41 48	bjFixLH
+T5	Category 67 73	ligand
+T6	Process 74 85	recognition
+T7	Process 90 99	signaling
+T8	Process 132 142	expression
+T9	Protein 146 151	genes
+T10	Chemical 175 183	nitrogen
+T11	Process 184 192	fixation
+T12	Process 196 204	response
+T13	Chemical 208 214	oxygen
+T14	Parameter 215 228	concentration
+T15	Geometrical_part 237 243	sensor
+T16	Protein 244 256	protein FixL
+T17	Protein_part 262 283	N-terminal PAS domain
+T18	Protein 287 291	FixL
+T19	Protein_part 303 312	histidine
+T20	Chemical 325 329	heme
+T21	Parameter 348 356	activity
+T22	Protein_part 373 379	domain
+T23	Protein 383 410	C-terminal histidine kinase
+T24	Process 416 424	response
+T25	Process 428 435	binding
+T26	Chemical 439 445	oxygen
+T27	Category 456 463	ligands
+T28	Chemical 471 475	heme
+T29	Category 500 506	ligand
+T30	Process 515 525	inhibition
+T31	Protein 529 533	FixL
+T32	Geometrical_part 558 576	crystal structures
+T33	Protein_part 584 595	heme domain
+T34	Chemical 608 613	deoxy
+T35	State 614 619	state
+T36	Chemical 633 648	carbon monoxide
+T37	Category 657 666	inhibitor
+T38	Protein 670 681	FixL kinase
+T39	Parameter 682 690	activity
+T40	Unknown 692 702	Structures
+T41	Value 716 720	room
+T42	Parameter 722 733	temperature
+T43	State 756 761	state
+T44	Technique 771 787	crystallographic
+T45	Molecular_Part 794 800	groups
+T46	Value 804 807	1.8
+T47	Value 812 815	2 A
+T48	Parameter 816 826	resolution
+T49	Unknown 834 844	structures
+T50	Process 852 864	displacement
+T51	Protein_part 872 880	residues
+T52	Unknown 888 895	H(beta)
+T53	Parameter 900 907	I(beta)
+T54	Protein_part 908 915	strands
+T55	Protein_part 919 925	Leu236
+T56	Unknown 931 933	CO
+T57	Process 934 941	binding
+T58	Process 963 969	change
+T59	Value 981 995	more than 15 A
+T60	Protein_part 1001 1007	region
+T61	Unknown 1015 1024	structure
+T62	Process 1039 1058	signal transduction
+T63	Protein 1062 1074	PAS proteins
+T64	Process 1076 1088	Displacement
+T65	Protein_part 1092 1107	residues Ile215
+T66	Protein_part 1109 1115	Ile216
+T67	Protein_part 1121 1127	Gly217
+T68	Geometrical_part 1135 1142	FG loop
+T69	Process 1179 1187	movement
+T70	Chemical 1191 1208	heme propionate 6
+T71	Process 1214 1220	change
+T72	Chemical 1224 1228	iron
+T73	Process 1229 1237	ligation
+T74	Unknown 1239 1241	CO
+T75	Process 1242 1249	binding
+T76	Parameter 1264 1283	temperature factors
+T77	Geometrical_part 1291 1298	FG loop
+T78	Protein 1306 1313	protein
+T79	Physiology 1318 1327	disorders
+T80	Protein_part 1332 1342	side chain
+T81	Protein_part 1346 1352	Arg206
+T82	Protein_part 1366 1373	residue
+T83	Geometrical_part 1390 1397	FG loop
+T84	Process 1398 1404	switch
+T85	Process 1405 1414	mechanism
+T86	Process 1454 1461	changes
+T87	Chemical 1471 1474	PAS
+T88	Geometrical_part 1475 1481	sensor
+T89	Protein_part 1482 1489	domains
+T90	Process 1500 1511	involvement
+T91	Process 1525 1532	control

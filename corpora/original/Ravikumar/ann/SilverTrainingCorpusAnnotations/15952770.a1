@@ -1,0 +1,64 @@
+T1	Process 11 16	basis
+T2	Process 25 39	retroreduction
+T3	Protein 55 69	peroxiredoxins
+T4	Organism 73 78	human
+T5	Chemical 79 91	sulfiredoxin
+T6	Protein 93 105	Sufiredoxins
+T7	Organism 107 110	Srx
+T8	Process 112 118	repair
+T9	Protein 152 180	two-Cys peroxiredoxins (Prx)
+T10	Chemical 195 212	hydrogen peroxide
+T11	Body_part 222 226	cell
+T12	Process 227 236	signaling
+T13	Process 242 251	reduction
+T14	Chemical 259 281	cysteine sulfinic acid
+T15	Molecular_Part 282 288	moiety
+T16	Protein_part 300 311	active site
+T17	Protein 319 322	Prx
+T18	Organism 326 329	Srx
+T19	Chemical 345 351	sulfur
+T20	Chemical 377 380	ATP
+T21	Chemical 385 391	Mg(2+)
+T22	Value 397 403	1.65 A
+T23	Geometrical_part 404 421	crystal structure
+T24	Organism 425 441	human Srx (hSrx)
+T25	Protein 457 464	protein
+T26	Geometrical_part 465 469	fold
+T27	Chemical 483 493	nucleotide
+T28	Process 494 501	binding
+T29	Protein_part 502 507	motif
+T30	Protein_part 523 557	Gly98-Cys99-His100-Arg101 sequence
+T31	Protein_part 565 575	N-terminus
+T32	Protein_part 582 593	alpha-helix
+T33	Technique 595 608	HPLC analysis
+T34	Process 616 624	reaction
+T35	Category 625 633	products
+T36	Protein_part 658 662	site
+T37	Chemical 666 669	ATP
+T38	Process 670 678	cleavage
+T39	Chemical 694 699	beta-
+T40	Chemical 704 719	gamma-phosphate
+T41	Molecular_Part 720 726	groups
+T42	Protein_part 728 733	Cys99
+T43	Chemical 742 757	gamma-phosphate
+T44	Chemical 761 764	ATP
+T45	Protein_part 785 796	active site
+T46	Value 804 809	2.0 A
+T47	Chemical 810 813	ADP
+T48	Category 814 821	product
+T49	Geometrical_part 830 839	structure
+T50	Location 845 853	adjacent
+T51	Geometrical_part 863 870	surface
+T52	Process 871 882	depressions
+T53	Protein_part 915 923	residues
+T54	Process 974 984	remodeling
+T55	Protein 992 995	Prx
+T56	Geometrical_part 996 1005	structure
+T57	Process 1023 1035	interactions
+T58	Organism 1044 1048	hSrx
+T59	Protein 1061 1073	two-Cys Prxs
+T60	Geometrical_part 1110 1115	shape
+T61	Organism 1123 1127	hSrx
+T62	Protein_part 1128 1147	active site surface
+T63	Geometrical_part 1208 1215	surface
+T64	Protein 1233 1244	Prx decamer

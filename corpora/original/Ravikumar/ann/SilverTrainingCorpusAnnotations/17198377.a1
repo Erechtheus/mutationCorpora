@@ -1,0 +1,70 @@
+T1	Technique 0 19	Mutational analysis
+T2	Organism 23 39	Escherichia coli
+T3	Protein 40 44	MoeA
+T4	Parameter 61 71	activities
+T5	Protein_part 83 94	active site
+T6	Geometrical_part 95 100	cleft
+T7	Chemical 106 116	molybdenum
+T8	Category 117 125	cofactor
+T9	Process 159 166	pathway
+T10	Organism 171 175	Moco
+T11	Process 176 188	biosynthesis
+T12	Protein_part 215 222	domains
+T13	Organism 304 308	Moco
+T14	Process 309 321	biosynthesis
+T15	Process 323 331	ligation
+T16	Chemical 335 340	metal
+T17	Protein 344 357	molybdopterin
+T18	Parameter 371 380	component
+T19	Category 388 396	cofactor
+T20	Category 417 425	cofactor
+T21	Organism 430 446	Escherichia coli
+T22	Protein 452 464	MoeA protein
+T23	Process 474 482	ligation
+T24	Chemical 486 488	Mo
+T25	Protein 492 505	molybdopterin
+T26	Protein 516 528	MogA protein
+T27	Process 543 550	process
+T28	Chemical 557 560	ATP
+T29	Technique 583 607	X-ray crystal structures
+T30	Protein 617 625	proteins
+T31	Protein_part 682 695	MogA residues
+T32	Protein_part 697 702	Asp49
+T33	Protein_part 707 712	Asp82
+T34	Technique 742 761	mutational analysis
+T35	Protein 769 781	MoeA protein
+T36	Unknown 783 791	Variants
+T37	Protein_part 805 813	residues
+T38	Protein_part 830 841	active site
+T39	Protein 845 849	MoeA
+T40	Process 870 874	loss
+T41	Process 878 886	function
+T42	Process 894 903	different
+T43	Technique 926 932	assays
+T44	Unknown 948 958	moeA-crude
+T45	Unknown 1002 1008	system
+T46	Process 1020 1031	correlation
+T47	Parameter 1057 1065	activity
+T48	Technique 1077 1083	assays
+T49	Parameter 1148 1160	relationship
+T50	Parameter 1173 1181	activity
+T51	Technique 1190 1195	assay
+T52	Organism 1197 1209	Moco binding
+T53	Process 1237 1248	correlation
+T54	Unknown 1259 1268	variant's
+T55	Organism 1285 1289	Moco
+T56	Parameter 1298 1306	activity
+T57	Parameter 1323 1332	component
+T58	Technique 1333 1338	assay
+T59	Geometrical_part 1340 1358	Crystal structures
+T60	Protein 1393 1406	MoeA variants
+T61	Process 1436 1443	changes
+T62	Process 1476 1487	differences
+T63	Process 1512 1522	disruption
+T64	Protein 1530 1537	protein
+T65	Geometrical_part 1538 1547	structure
+T66	Process 1556 1561	basis
+T67	Process 1584 1593	different
+T68	Parameter 1605 1610	areas
+T69	Protein_part 1628 1635	regions
+T70	Protein_part 1651 1673	MoeA active site cleft

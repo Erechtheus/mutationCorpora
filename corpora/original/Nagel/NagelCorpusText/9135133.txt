@@ -1,0 +1,9 @@
+The central reaction in the process of N-linked protein glycosylation in eukaryotic cells, the transfer of the oligosaccharide Glc(3)Man(9)GlcNAc(2) from the lipid dolicholpyrophosphate to selected asparagine residues, is catalyzed by the oligosaccharyltransferase (OTase) . 
+This enzyme consists of multiple subunits; however, purification of the complex has revealed different results with respect to its protein composition . 
+To determine how many different loci are required for OTase activity in vivo, we performed a novel, specific screen for mutants with altered OTase activity . 
+Based on the synthetic lethal phenotype of OTase mutants in combination with a deficiency of dolicholphosphoglucose biosynthesis which results in non-glucosylated lipid-linked oligosaccharide, we identified seven complementation groups with decreased OTase activity . 
+Beside the known OTase loci, STT3, OST1, WBP1, OST3, SWP1 and OST2, a novel locus, OST5, was identified . 
+OST5 is an intron-containing gene encoding a putative membrane protein of 9.5 kDa present in highly purified OTase preparations . 
+OST5 protein is not essential for growth but its depletion results in a reduced OTase activity . 
+Suppression of an ost1 mutation by overexpression of OST5 indicates that this small membrane protein directly interacts with other OTase components, most likely with Ost1p . 
+A strong genetic interaction with a stt3 mutation implies a role in complex assembly . 

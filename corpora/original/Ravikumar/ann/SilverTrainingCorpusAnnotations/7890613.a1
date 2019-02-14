@@ -1,0 +1,78 @@
+T1	Chemical 0 12	Methotrexate
+T2	Unknown 23 31	variants
+T3	Organism 35 40	human
+T4	Protein 41 64	dihydrofolate reductase
+T5	Process 70 83	substitutions
+T6	Protein_part 87 97	leucine 22
+T7	Parameter 99 107	Kinetics
+T8	Technique 109 124	crystallography
+T9	Parameter 130 139	potential
+T10	Molecule 154 161	markers
+T11	Process 172 184	substitution
+T12	Protein_part 188 196	tyrosine
+T13	Protein_part 198 211	phenylalanine
+T14	Protein_part 213 223	tryptophan
+T15	Chemical 228 236	arginine
+T16	Protein_part 241 251	leucine 22
+T17	Organism 255 260	human
+T18	Protein 261 284	dihydrofolate reductase
+T19	Chemical 299 306	hydride
+T20	Process 307 315	transfer
+T21	Process 333 337	loss
+T22	Parameter 349 357	activity
+T23	Parameter 359 363	kcat
+T24	Parameter 368 370	pH
+T25	Value 371 375	7.65
+T26	Protein_part 392 403	arginine 22
+T27	Unknown 405 412	variant
+T28	Parameter 419 421	Km
+T29	Chemical 426 439	dihydrofolate
+T30	Chemical 444 449	NADPH
+T31	Process 492 498	effect
+T32	Process 510 517	binding
+T33	Chemical 521 533	methotrexate
+T34	Chemical 541 553	enzyme-NADPH
+T35	Category 554 561	complex
+T36	Value 573 584	28,000-fold
+T37	Process 600 608	increase
+T38	Parameter 616 620	rate
+T39	Chemical 624 636	methotrexate
+T40	Process 637 649	dissociation
+T41	Unknown 663 671	variants
+T42	Molecule 702 709	markers
+T43	Parameter 711 721	Affinities
+T44	Category 737 747	inhibitors
+T45	Process 776 783	Binding
+T46	Chemical 787 799	methotrexate
+T47	Protein 803 812	apoenzyme
+T48	Value 858 866	120-fold
+T49	Process 869 876	binding
+T50	Chemical 880 896	tetrahydrofolate
+T51	Value 921 928	23-fold
+T52	Process 934 941	binding
+T53	Chemical 945 958	dihydrofolate
+T54	Geometrical_part 993 1011	Crystal structures
+T55	Category 1015 1032	ternary complexes
+T56	Unknown 1049 1057	variants
+T57	Process 1072 1081	mutations
+T58	Process 1095 1107	perturbation
+T59	Protein 1115 1122	protein
+T60	Protein_part 1136 1147	side chains
+T61	Protein_part 1157 1177	active site residues
+T62	Category 1191 1200	inhibitor
+T63	Process 1225 1235	deviations
+T64	Category 1249 1264	ternary complex
+T65	Chemical 1272 1288	arginine variant
+T66	Protein_part 1292 1306	residues 21-27
+T67	Process 1318 1329	orientation
+T68	Chemical 1338 1350	methotrexate
+T69	Protein_part 1352 1363	Tyrosine 22
+T70	Protein_part 1368 1379	arginine 22
+T71	Process 1394 1402	contacts
+T72	Chemical 1406 1418	methotrexate
+T73	Chemical 1423 1428	NADPH
+T74	Parameter 1446 1457	probability
+T75	State 1458 1471	conformations
+T76	Protein_part 1501 1517	phenylalanine 22
+T77	Chemical 1525 1535	piritrexim
+T78	Category 1536 1543	complex

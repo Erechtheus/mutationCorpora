@@ -1,0 +1,88 @@
+T1	Technique 0 25	Crystallographic analysis
+T2	Chemical 40 45	metal
+T3	Process 46 53	binding
+T4	Protein_part 76 82	Asp153
+T5	Protein_part 85 88	Gly
+T6	Organism 93 109	Escherichia coli
+T7	Protein 110 130	alkaline phosphatase
+T8	Geometrical_part 160 178	crystal structures
+T9	Process 188 197	different
+T10	State 198 220	conformational  states
+T11	Protein_part 228 234	Asp153
+T12	Protein_part 237 240	Gly
+T13	Molecule 241 247	mutant
+T14	Molecule 249 254	D153G
+T15	Protein 259 284	alkaline phosphatase (AP)
+T16	Protein 288 301	metalloenzyme
+T17	Organism 307 323	Escherichia coli
+T18	State 333 338	state
+T19	Unknown 357 364	crystal
+T20	Value 372 379	3 month
+T21	Parameter 380 386	period
+T22	Chemical 390 395	metal
+T23	Process 396 405	depletion
+T24	Protein 413 423	holoenzyme
+T25	Geometrical_part 424 432	crystals
+T26	Chemical 452 458	metals
+T27	State 495 500	state
+T28	Parameter 506 510	time
+T29	Unknown 571 579	crystals
+T30	Molecule 596 609	intermediates
+T31	Value 649 655	2 week
+T32	Molecule 657 669	intermediate
+T33	Unknown 670 671	I
+T34	Value 679 686	2 month
+T35	Molecule 693 705	intermediate
+T36	Unknown 706 708	II
+T37	Unknown 721 729	crystals
+T38	Chemical 735 739	Mg2+
+T39	Chemical 744 748	Zn2+
+T40	Geometrical_part 793 811	crystal structures
+T41	Parameter 824 825	R
+T42	Value 828 833	18.1%
+T43	Molecule 836 848	intermediate
+T44	Unknown 849 850	I
+T45	Parameter 852 853	R
+T46	Value 856 861	19.5%
+T47	Molecule 868 880	intermediate
+T48	Unknown 881 883	II
+T49	Parameter 885 886	R
+T50	Value 889 894	19.9%
+T51	Protein 903 915	D153G enzyme
+T52	Unknown 956 966	structures
+T53	State 996 1010	conformational
+T54	Process 1011 1018	changes
+T55	Protein_part 1040 1058	mutant active site
+T56	Geometrical_part 1062 1069	surface
+T57	Geometrical_part 1070 1075	loops
+T58	Value 1086 1090	20 A
+T59	Unknown 1121 1130	structure
+T60	Unknown 1156 1165	structure
+T61	Unknown 1171 1180	structure
+T62	Molecule 1184 1196	intermediate
+T63	Unknown 1197 1198	I
+T64	Parameter 1209 1217	recovery
+T65	Protein 1232 1238	enzyme
+T66	State 1264 1276	conformation
+T67	Process 1287 1296	exception
+T68	Protein_part 1300 1308	residues
+T69	Protein_part 1309 1312	Asp
+T70	Protein_part 1321 1328	Asp 369
+T71	Protein_part 1336 1347	active site
+T72	Geometrical_part 1356 1363	surface
+T73	Geometrical_part 1364 1368	loop
+T74	Geometrical_part 1422 1449	three-dimensional structure
+T75	Molecule 1453 1465	intermediate
+T76	Unknown 1466 1468	II
+T77	Protein_part 1475 1481	Asp 51
+T78	Protein_part 1486 1493	Asp 369
+T79	State 1527 1539	conformation
+T80	Protein_part 1549 1559	main chain
+T81	Protein_part 1563 1579	residues 406-408
+T82	Geometrical_part 1591 1595	loop
+T83	Protein 1628 1648	D153G mutant protein
+T84	Parameter 1676 1680	time
+T85	Chemical 1691 1696	metal
+T86	Process 1697 1704	binding
+T87	Chemical 1708 1716	solution
+T88	State 1740 1745	state

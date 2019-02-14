@@ -1,0 +1,143 @@
+T1	Process 11 21	refinement
+T2	Technique 26 34	analysis
+T3	Organism 38 49	Mengo virus
+T4	Unknown 55 64	structure
+T5	Organism 68 97	Mengo encephalomyelitis virus
+T6	Value 113 116	3 A
+T7	Parameter 117 127	resolution
+T8	Parameter 141 149	R-factor
+T9	Value 153 158	0.221
+T10	Parameter 165 191	root-mean-square deviation
+T11	Parameter 207 219	bond lengths
+T12	Value 223 230	0.019 A
+T13	Value 235 239	10 A
+T14	Value 243 246	3 A
+T15	Parameter 257 258	F
+T16	Value 259 285	greater than or equal to 3
+T17	Unknown 286 294	sigma(F)
+T18	Unknown 300 319	Hendrickson-Konnert
+T19	Process 320 330	refinement
+T20	State 353 359	phases
+T21	Process 377 398	molecular replacement
+T22	Technique 409 418	procedure
+T23	Geometrical_part 454 462	symmetry
+T24	Organism 470 475	virus
+T25	Organism 481 486	virus
+T26	Protein 502 511	protomers
+T27	Protein 536 544	subunits
+T28	Protein 546 549	VP1
+T29	Protein 551 554	VP2
+T30	Protein 559 562	VP3
+T31	Location 587 595	internal
+T32	Protein 596 603	protein
+T33	Protein 606 609	VP4
+T34	Protein 627 635	subunits
+T35	Protein_part 664 675	beta-barrel
+T36	Unknown 676 686	structures
+T37	Process 688 699	Alterations
+T38	Protein_part 716 724	sequence
+T39	Location 739 750	position 45
+T40	Protein 754 757	VP1
+T41	Protein_part 759 762	Arg
+T42	Protein_part 766 769	Ala
+T43	Location 778 789	position 58
+T44	Protein 793 796	VP3
+T45	Protein_part 798 801	Met
+T46	Protein_part 805 808	Val
+T47	Protein_part 815 823	residues
+T48	Geometrical_part 827 834	loops I
+T49	Geometrical_part 839 841	II
+T50	Protein 845 848	VP1
+T51	Unknown 866 871	"FMDV
+T52	Protein 881 884	VP1
+T53	Geometrical_part 912 916	loop
+T54	Protein 920 923	VP3
+T55	Protein 940 948	receptor
+T56	Process 949 959	attachment
+T57	Protein_part 960 964	site
+T58	Protein_part 993 1013	terminal regions 260
+T59	Protein 1024 1027	VP1
+T60	Protein 1043 1046	VP2
+T61	Protein 1063 1066	VP4
+T62	Protein_part 1093 1100	regions
+T63	Parameter 1109 1116	density
+T64	Process 1122 1131	variation
+T65	Parameter 1135 1154	temperature factors
+T66	Process 1174 1184	refinement
+T67	Value 1212 1213	2
+T68	Value 1217 1222	80 A2
+T69	Location 1245 1250	outer
+T70	Location 1255 1260	inner
+T71	Protein_part 1261 1268	regions
+T72	Geometrical_part 1297 1300	cis
+T73	Protein_part 1301 1317	proline residues
+T74	Protein 1327 1330	VP1
+T75	Protein 1346 1349	VP2
+T76	Protein 1360 1363	VP3
+T77	Chemical 1391 1407	disulfide bridge
+T78	Protein_part 1409 1414	Cys86
+T79	Protein_part 1418 1423	Cys88
+T80	Protein 1427 1430	VP3
+T81	Chemical 1459 1472	phosphate ion
+T82	Chemical 1481 1486	water
+T83	Process 1518 1528	refinement
+T84	Chemical 1556 1565	phosphate
+T85	Protein 1589 1597	receptor
+T86	Process 1598 1608	attachment
+T87	Protein_part 1609 1613	site
+T88	Chemical 1635 1643	hydrogen
+T89	Physiology 1652 1660	networks
+T90	Chemical 1671 1684	solvent atoms
+T91	Protein 1709 1717	subunits
+T92	Protein 1723 1731	protomer
+T93	Protein 1762 1771	protomers
+T94	Chemical 1777 1785	pentamer
+T95	Parameter 1791 1803	distribution
+T96	Chemical 1807 1811	atom
+T97	Geometrical_part 1841 1849	symmetry
+T98	Geometrical_part 1850 1854	axes
+T99	Value 1870 1876	5-fold
+T100	Protein 1877 1884	channel
+T101	Geometrical_part 1925 1936	3-fold axis
+T102	Protein_part 1969 1977	residues
+T103	Geometrical_part 1989 2000	2-fold axis
+T104	Technique 2006 2014	analysis
+T105	Process 2018 2026	contacts
+T106	Process 2039 2048	different
+T107	Protein 2049 2057	subunits
+T108	Process 2071 2081	assignment
+T109	Protein 2115 2124	protomers
+T110	Chemical 2139 2149	pentameric
+T111	Process 2176 2188	interactions
+T112	Protein 2211 2222	VP4 protein
+T113	Protein_part 2231 2244	amino termini
+T114	Protein 2248 2251	VP1
+T115	Protein 2256 2259	VP3
+T116	Chemical 2265 2274	pentamers
+T117	Protein_part 2306 2327	amino-terminal region
+T118	Protein 2335 2347	VP2 subunits
+T119	Protein_part 2353 2366	beta F strand
+T120	Protein 2374 2386	VP3 subunits
+T121	Protein_part 2392 2402	C terminus
+T122	Protein 2410 2422	VP4 subunits
+T123	Geometrical_part 2445 2452	helical
+T124	Protein 2454 2461	alpha A
+T125	Protein 2479 2491	VP2 subunits
+T126	Geometrical_part 2515 2526	2-fold axes
+T127	Process 2532 2545	superposition
+T128	Protein 2567 2575	subunits
+T129	Organism 2579 2590	Mengo virus
+T130	Organism 2592 2608	human rhinovirus
+T131	Organism 2625 2642	bean mosaic virus
+T132	Protein_part 2668 2676	sequence
+T133	Process 2677 2686	alignment
+T134	Process 2711 2721	similarity
+T135	Protein 2737 2749	VP3 subunits
+T136	Organism 2753 2764	Mengo virus
+T137	Organism 2769 2779	rhinovirus
+T138	Process 2797 2807	similarity
+T139	Protein 2823 2835	VP1 subunits
+T140	Process 2861 2871	insertions
+T141	Process 2879 2888	different
+T142	Protein 2889 2897	subunits
+T143	Process 2941 2953	requirements

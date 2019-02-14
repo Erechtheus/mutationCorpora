@@ -1,0 +1,13 @@
+The human S100 gene family encodes the EF-hand superfamily of calcium-binding proteins, with at least 14 family members clustered relatively closely together on chromosome 1q21 . 
+We have analyzed the most recently available genomic sequence of the human S100 gene cluster for evidence of tandem gene duplications during primate evolutionary history . 
+The sequences obtained from both GenBank and GoldenPath were analyzed in detail using various comparative sequence analysis tools . 
+We found that of the S100A genes clustered relatively closely together within a genomic region of 260 kb, only the S100A7 (psoriasin) gene region showed evidence of recent duplications . 
+The S100A7 gene duplicated region is composed of three distinct genomic regions, 33, 11, and 31 kb, respectively, that together harbor at least five identifiable S100A7-like genes . 
+Regions 1 and 3 are in opposite orientation to each other, but each region carries two S100A7-like genes separated by an 11-kb intergenic region (region 2) that has only one S100A7-like gene, providing limited sequence resemblance to regions 1 and 3 . 
+The duplicated genomic regions 1 and 3 share a number of different retroelements including five Alu subfamily members that serve as molecular clocks . 
+The shared (paralogous) Alu S insertions suggest that regions 1 and 3 were probably duplicated during or after the phase of AluS amplification some 30-40 mya . 
+We used PCR to amplify an indel within intron 1 of the S100A7a and S100A7c genes that gave the same two expected product sizes using 40 human DNA samples and 1 chimpanzee sample, therefore confirming the presence of the region 1 and 3 duplication in these species . 
+Comparative genomic analysis of the other S100 gene members shows no similarity between intergenic regions, suggesting that they diverged long before the emergence of the primates . 
+This view was supported by the phylogenetic analysis of different human S100 proteins including the human S100A7 protein members . 
+The S100A7 protein, also known as psoriasin, has important functions as a mediator and regulator in skin differentiation and disease (psoriasis), in breast cancer, and as a chemotactic factor for inflammatory cells . 
+This is the first report of five copies of the S100A7 gene in the human genome, which may impact on our understanding of the possible dose effects of these genes in inflammation and normal skin development and pathogenesis . 

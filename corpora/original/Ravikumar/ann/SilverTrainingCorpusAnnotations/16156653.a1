@@ -1,0 +1,79 @@
+T1	Process 0 14	Identification
+T2	Unknown 18 25	variant
+T3	Molecule 26 35	molecules
+T4	Protein 39 78	Bacillus thermoproteolyticus ferredoxin
+T5	Geometrical_part 80 97	crystal structure
+T6	Chemical 112 122	coenzyme A
+T7	Chemical 141 149	[3Fe-4S]
+T8	Chemical 186 194	[4Fe-4S]
+T9	Category 195 201	ligand
+T10	Protein_part 202 207	motif
+T11	Process 220 232	purification
+T12	Protein 248 294	Bacillus thermoproteolyticus ferredoxin (BtFd)
+T13	Organism 300 316	Escherichia coli
+T14	Protein 342 355	Fe-S proteins
+T15	Protein 436 440	BtFd
+T16	Chemical 452 460	[4Fe-4S]
+T17	Unknown 476 484	variants
+T18	Protein 514 526	Fe-S protein
+T19	Protein_part 527 537	components
+T20	Unknown 553 556	V-I
+T21	Unknown 558 562	V-II
+T22	Unknown 568 573	V-III
+T23	Technique 587 612	chromatography procedures
+T24	Technique 614 620	UV-vis
+T25	Technique 625 651	EPR spectroscopic analyses
+T26	Unknown 681 689	variants
+T27	Chemical 705 713	[3Fe-4S]
+T28	Parameter 728 732	mass
+T29	Protein 751 758	protein
+T30	Technique 759 776	sequence analyses
+T31	Chemical 802 809	SDS gel
+T32	Technique 810 825	electrophoresis
+T33	Unknown 847 850	V-I
+T34	Unknown 855 859	V-II
+T35	Protein_part 872 883	polypeptide
+T36	Protein 887 891	BtFd
+T37	Protein 908 934	acyl carrier protein (ACP)
+T38	Protein 944 960	coenzyme A (CoA)
+T39	Unknown 985 990	V-III
+T40	Protein 996 1006	BtFd dimer
+T41	Chemical 1019 1033	disulfide bond
+T42	Geometrical_part 1039 1056	crystal structure
+T43	Protein 1064 1072	BtFd-CoA
+T44	Category 1073 1080	complex
+T45	Category 1082 1086	V-II
+T46	Value 1102 1107	1.6 A
+T47	Parameter 1108 1118	resolution
+T48	Category 1151 1160	complexes
+T49	Technique 1168 1184	crystallographic
+T50	Chemical 1213 1221	[3Fe-4S]
+T51	Protein_part 1253 1260	Cys(11)
+T52	Protein_part 1262 1269	Cys(17)
+T53	Protein_part 1275 1282	Cys(61)
+T54	Protein 1288 1305	polypeptide chain
+T55	Category 1314 1321	complex
+T56	Chemical 1366 1374	[4Fe-4S]
+T57	Protein 1375 1379	BtFd
+T58	Protein_part 1395 1402	segment
+T59	Protein_part 1414 1421	Cys(14)
+T60	Category 1434 1440	ligand
+T61	Chemical 1448 1456	[4Fe-4S]
+T62	Protein 1468 1472	BtFd
+T63	Unknown 1481 1488	variant
+T64	Molecule 1489 1498	molecules
+T65	Protein_part 1504 1514	side chain
+T66	Protein_part 1518 1525	Cys(14)
+T67	Geometrical_part 1559 1566	surface
+T68	Chemical 1578 1592	disulfide bond
+T69	Chemical 1602 1621	terminal sulfhydryl
+T70	Molecular_Part 1622 1627	group
+T71	Protein 1631 1634	CoA
+T72	Process 1650 1662	modification
+T73	Process 1713 1721	assembly
+T74	Chemical 1729 1737	[4Fe-4S]
+T75	Organism 1773 1792	Desulfovibrio gigas
+T76	Protein 1793 1803	ferredoxin
+T77	Unknown 1838 1845	variant
+T78	Molecule 1846 1855	molecules
+T79	Body_part 1874 1878	cell

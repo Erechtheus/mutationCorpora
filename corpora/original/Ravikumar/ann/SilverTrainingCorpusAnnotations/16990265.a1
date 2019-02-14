@@ -1,0 +1,52 @@
+T1	Process 11 25	rearrangements
+T2	Protein 29 84	sucrose phosphorylase from Bifidobacterium adolescentis
+T3	Chemical 92 99	sucrose
+T4	Process 100 110	conversion
+T5	Process 116 124	reaction
+T6	Process 125 134	mechanism
+T7	Protein 138 200	sucrose phosphorylase from Bifidobacterium adolescentis (BiSP)
+T8	Technique 216 241	site-directed mutagenesis
+T9	Technique 246 267	x-ray crystallography
+T10	Molecule 281 287	mutant
+T11	Protein 291 295	BiSP
+T12	Protein 297 302	E232Q
+T13	Chemical 329 336	sucrose
+T14	Unknown 342 351	structure
+T15	Category 363 372	substrate
+T16	Chemical 429 436	sucrose
+T17	Protein 444 451	enzymes
+T18	Protein 453 467	Wild-type BiSP
+T19	Process 497 505	presence
+T20	Chemical 509 516	sucrose
+T21	Geometrical_part 525 542	dimeric structure
+T22	Molecule 564 576	intermediate
+T23	Molecule 595 603	molecule
+T24	Protein 611 621	BiSP dimer
+T25	Process 633 643	hydrolysis
+T26	Molecule 660 672	intermediate
+T27	Chemical 676 690	beta-D-glucose
+T28	Category 691 698	product
+T29	Category 699 706	complex
+T30	Molecule 731 739	molecule
+T31	Geometrical_part 763 772	structure
+T32	Protein 780 806	BiSP-glucosyl intermediate
+T33	Category 807 814	complex
+T34	Protein 841 860	BiSP(E232Q)-sucrose
+T35	Category 861 868	complex
+T36	Chemical 874 881	glucose
+T37	Category 882 889	complex
+T38	Process 906 917	differences
+T39	Geometrical_part 921 925	loop
+T40	State 926 939	conformations
+T41	Geometrical_part 945 950	loops
+T42	Protein_part 952 968	residues 336-344
+T43	Protein_part 973 980	132-137
+T44	Protein_part 1006 1017	active site
+T45	Value 1029 1031	16
+T46	Value 1036 1039	4 A
+T47	Process 1062 1067	basis
+T48	Process 1107 1115	reaction
+T49	Process 1156 1165	movements
+T50	Protein_part 1173 1184	active-site
+T51	Location 1185 1193	entrance
+T52	Geometrical_part 1194 1199	loops

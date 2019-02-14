@@ -1,0 +1,52 @@
+T1	Process 11 16	basis
+T2	Protein 21 30	ubiquitin
+T3	Process 31 42	recognition
+T4	Protein_part 46 57	SH3 domains
+T5	Protein_part 63 73	SH3 domain
+T6	Protein 79 94	protein-protein
+T7	Process 95 106	interaction
+T8	Location 132 145	intracellular
+T9	Process 146 155	signaling
+T10	Protein 160 176	adaptor proteins
+T11	Protein_part 182 193	SH3 domains
+T12	Body_part 206 215	endocytic
+T13	Protein 216 224	proteins
+T14	Protein 258 275	binding ubiquitin
+T15	Body_part 314 332	cellular processes
+T16	Protein 343 347	gene
+T17	Process 348 358	regulation
+T18	Body_part 360 369	endosomal
+T19	Process 370 377	sorting
+T20	Protein 383 390	protein
+T21	Process 391 402	destruction
+T22	Chemical 425 433	solution
+T23	Technique 434 437	NMR
+T24	Geometrical_part 438 447	structure
+T25	Protein 451 460	ubiquitin
+T26	Category 464 471	complex
+T27	Protein_part 480 490	SH3 domain
+T28	Organism 508 513	yeast
+T29	Protein 514 536	endocytic protein Sla1
+T30	Protein 542 551	ubiquitin
+T31	Geometrical_part 560 567	surface
+T32	Protein_part 575 590	Sla1 SH3 domain
+T33	Process 633 640	binding
+T34	Geometrical_part 641 648	surface
+T35	Protein_part 653 660	proline
+T36	Category 666 673	ligands
+T37	Protein 691 700	ubiquitin
+T38	Protein_part 709 715	motifs
+T39	Protein_part 721 731	SH3 domain
+T40	Protein_part 744 749	Ile44
+T41	Technique 762 767	patch
+T42	Protein 771 780	ubiquitin
+T43	Protein_part 784 805	phenylalanine residue
+T44	Body_part 821 826	heart
+T45	Protein 834 843	ubiquitin
+T46	Geometrical_part 852 859	surface
+T47	Protein_part 867 877	SH3 domain
+T48	Unknown 923 932	structure
+T49	Protein 940 953	SH3-ubiquitin
+T50	Category 954 961	complex
+T51	Protein_part 988 999	SH3 domains
+T52	Process 1034 1042	function

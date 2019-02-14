@@ -1,0 +1,84 @@
+T1	Process 0 13	Stabilization
+T2	Protein 28 35	protein
+T3	Geometrical_part 36 40	loop
+T4	State 41 53	conformation
+T5	Protein 62 69	protein
+T6	Organism 83 97	Staphylococcal
+T7	Protein 98 106	nuclease
+T8	Geometrical_part 123 143	folded conformations
+T9	Process 163 176	isomerization
+T10	Protein_part 184 199	Lys 116-Pro 117
+T11	Chemical 200 212	peptide bond
+T12	Process 231 240	different
+T13	State 241 254	conformations
+T14	Protein_part 262 277	residue 112-117
+T15	Geometrical_part 278 282	loop
+T16	Geometrical_part 288 291	cis
+T17	Geometrical_part 317 322	trans
+T18	Value 344 347	90%
+T19	Process 358 369	mutagenesis
+T20	Protein_part 399 406	Lys 116
+T21	Chemical 422 429	glycine
+T22	Geometrical_part 433 438	trans
+T23	State 439 451	conformation
+T24	Geometrical_part 482 485	cis
+T25	State 486 498	conformation
+T26	Process 506 513	release
+T27	Geometrical_part 517 523	steric
+T28	Parameter 524 530	strain
+T29	Geometrical_part 538 543	trans
+T30	Protein_part 564 571	Lys 116
+T31	Protein_part 589 596	alanine
+T32	Unknown 612 619	variant
+T33	Protein 620 627	protein
+T34	Protein 648 665	wild-type protein
+T35	Geometrical_part 669 682	its structure
+T36	Geometrical_part 711 714	cis
+T37	Process 715 728	configuration
+T38	Protein 778 794	nuclease variant
+T39	Protein_part 802 821	non-glycine residue
+T40	Location 825 837	position 116
+T41	Geometrical_part 860 863	cis
+T42	Geometrical_part 880 886	steric
+T43	Process 887 899	requirements
+T44	Chemical 907 918	beta-carbon
+T45	Technique 977 985	analysis
+T46	Protein 994 1011	nuclease variants
+T47	Process 1017 1030	substitutions
+T48	Location 1034 1046	position 116
+T49	Unknown 1052 1060	variants
+T50	Protein 1062 1067	K116E
+T51	Protein 1072 1077	K116M
+T52	Chemical 1090 1103	"beta-carbon"
+T53	Geometrical_part 1132 1135	cis
+T54	Geometrical_part 1159 1176	crystal structure
+T55	Protein 1180 1185	K116E
+T56	Protein 1221 1238	wild-type protein
+T57	Unknown 1255 1263	variants
+T58	Protein 1265 1270	K116D
+T59	Protein 1275 1280	K116N
+T60	Process 1290 1300	exceptions
+T61	Chemical 1316 1329	"beta-carbon"
+T62	Geometrical_part 1347 1352	trans
+T63	State 1353 1365	conformation
+T64	Geometrical_part 1396 1399	cis
+T65	Process 1400 1413	configuration
+T66	Process 1423 1436	substitutions
+T67	Technique 1438 1454	Crystallographic
+T68	Process 1479 1492	stabilization
+T69	Process 1517 1525	addition
+T70	Process 1538 1550	interactions
+T71	Protein_part 1563 1573	side chain
+T72	Location 1577 1590	position  116
+T73	Protein 1612 1619	protein
+T74	Chemical 1624 1639	water structure
+T75	Geometrical_part 1654 1659	trans
+T76	State 1660 1672	conformation
+T77	Unknown 1680 1693	K116D variant
+T78	Geometrical_part 1723 1728	trans
+T79	State 1729 1741	conformation
+T80	Unknown 1758 1771	K116G variant
+T81	Process 1799 1808	mutations
+T82	State 1829 1841	conformation
+T83	Process 1854 1863	different
+T84	Process 1864 1874	mechanisms

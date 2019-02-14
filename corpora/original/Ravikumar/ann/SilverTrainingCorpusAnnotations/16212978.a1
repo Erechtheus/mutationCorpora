@@ -1,0 +1,42 @@
+T1	Geometrical_part 25 35	structures
+T2	Protein 41 61	GH39 beta-xylosidase
+T3	Chemical 67 97	Geobacillus stearothermophilus
+T4	Protein 99 117	Beta-D-Xylosidases
+T5	Protein 122 142	glycoside hydrolases
+T6	Process 161 168	release
+T7	Chemical 172 178	xylose
+T8	Chemical 196 216	xylooligosaccharides
+T9	Organism 259 264	plant
+T10	Body_part 265 274	cell-wall
+T11	Chemical 275 289	hemicelluloses
+T12	Protein 291 309	beta-D-Xylosidases
+T13	Protein 323 353	glycoside hydrolase families 3
+T14	Geometrical_part 384 401	crystal structure
+T15	Protein 407 427	GH39 beta-xylosidase
+T16	Protein_part 439 451	multi-domain
+T17	Process 452 464	organization
+T18	Protein_part 474 490	catalytic domain
+T19	Geometrical_part 512 532	(beta/alpha)8 barrel
+T20	Geometrical_part 533 537	fold
+T21	Geometrical_part 559 576	crystal structure
+T22	Protein 584 637	GH39 Geobacillus stearothermophilus beta-D-xylosidase
+T23	Process 656 670	point mutation
+T24	Protein 686 695	acid-base
+T25	Protein_part 696 709	residue E160A
+T26	Category 714 721	complex
+T27	Physiology 731 742	chromogenic
+T28	Category 743 752	substrate
+T29	Molecule 753 761	molecule
+T30	Chemical 762 795	2,5-dinitrophenyl-beta-D-xyloside
+T31	Protein_part 828 840	active sites
+T32	Technique 856 872	crystallographic
+T33	Protein 918 946	glycosyl-enzyme intermediate
+T34	Category 994 1003	substrate
+T35	Process 1020 1036	characterization
+T36	Organism 1059 1066	species
+T37	Process 1077 1085	reaction
+T38	Protein 1105 1111	enzyme
+T39	Protein_part 1127 1135	residues
+T40	Geometrical_part 1165 1171	pocket
+T41	Chemical 1207 1215	aglycone
+T42	Process 1216 1227	recognition

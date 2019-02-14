@@ -1,0 +1,14 @@
+The alpha-subunit of Escherichia coli F1-ATPase contains an adenine-specific noncatalytic nucleotide-binding domain . 
+A recent proposal (Maggio, M . 
+B., Pagan, J., Parsonage, D., Hatch, L., and Senior, A . 
+E . 
+(1987) J . 
+Biol . 
+Chem . 
+262, 8981-8984) suggested that this domain is formed by residues 160-340, approximately, in alpha-subunit . 
+Within this proposed domain is a sequence Gly-X-X-X-X-Gly-Lys which is conserved in a large and diverse group of nucleotide-binding proteins and is thought to interact with phosphate groups of bound nucleotide . 
+In this work, residue alpha Lys-175, the terminal residue of the above conserved sequence in F1-alpha-subunit, was mutagenized to Ile or Glu . 
+The specific activity of purified mutant F1-ATPase was reduced by 2.5-fold (Ile) or 3-fold (Glu) . 
+Apparent binding of ATP to alpha-subunit, as measured by the centrifuge column procedure, was strongly impaired and ATP-induced conformational change in alpha-subunit, as measured by protection against trypsin proteolysis, was nearly abolished in both mutants . 
+The results suggest that residue alpha Lys-175 is located within the nucleotide-binding domain of alpha-subunit, and that this residue is functionally involved in nucleotide binding . 
+The results support previous suggestions that the alpha-subunit nucleotide-binding site is not involved, directly or indirectly, in catalysis . 

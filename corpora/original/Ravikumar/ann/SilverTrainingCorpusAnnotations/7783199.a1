@@ -1,0 +1,118 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 23 39	pyrimidine dimer
+T3	Process 49 57	excision
+T4	Process 58 64	repair
+T5	Protein 65 71	enzyme
+T6	Organism 77 93	bacteriophage T4
+T7	Process 95 105	refinement
+T8	Value 109 115	1.45 A
+T9	Technique 120 134	X-ray analysis
+T10	Protein_part 148 159	active site
+T11	Molecule 160 167	mutants
+T12	Technique 169 185	Crystallographic
+T13	Organism 195 211	bacteriophage T4
+T14	Protein 212 226	endonuclease V
+T15	Protein 273 289	pyrimidine dimer
+T16	Process 299 307	excision
+T17	Process 308 314	repair
+T18	Process 315 322	pathway
+T19	Process 385 394	different
+T20	Protein 395 409	mutant enzymes
+T21	Protein 416 422	enzyme
+T22	Process 437 445	cleavage
+T23	Chemical 453 468	N-glycosyl bond
+T24	Geometrical_part 476 483	5'-side
+T25	Protein 491 507	pyrimidine dimer
+T26	Chemical 538 557	phosphodiester bond
+T27	Protein_part 579 583	site
+T28	Protein 594 598	beta
+T29	Process 611 619	reaction
+T30	Geometrical_part 625 634	structure
+T31	Protein 642 658	wild-type enzyme
+T32	Value 670 676	1.45 A
+T33	Parameter 677 687	resolution
+T34	Geometrical_part 719 731	architecture
+T35	Protein 737 743	enzyme
+T36	Protein_part 776 782	domain
+T37	Protein 801 810	all-alpha
+T38	Geometrical_part 811 820	structure
+T39	Molecule 826 834	molecule
+T40	Geometrical_part 865 882	hydrophobic cores
+T41	Protein_part 919 929	side-chain
+T42	Process 930 942	interactions
+T43	Unknown 948 957	structure
+T44	Process 972 979	folding
+T45	Protein_part 980 985	motif
+T46	Protein_part 997 1019	amino-terminal segment
+T47	Protein_part 1049 1062	alpha-helices
+T48	Process 1089 1096	contact
+T49	Protein_part 1156 1163	helices
+T50	Protein 1168 1175	protein
+T51	Process 1176 1183	folding
+T52	Geometrical_part 1197 1204	surface
+T53	Value 1224 1232	positive
+T54	Parameter 1233 1240	charges
+T55	Molecule 1267 1270	DNA
+T56	Process 1271 1278	binding
+T57	Protein 1284 1295	glycosylase
+T58	Location 1296 1312	catalytic center
+T59	Protein_part 1330 1335	Glu23
+T60	Protein_part 1356 1375	basic residues Arg3
+T61	Protein_part 1377 1382	Arg22
+T62	Protein_part 1387 1392	Arg26
+T63	Geometrical_part 1412 1419	surface
+T64	Geometrical_part 1426 1444	crystal structures
+T65	Protein_part 1458 1469	active-site
+T66	Molecule 1470 1477	mutants
+T67	Protein_part 1488 1493	Glu23
+T68	Unknown 1511 1520	Gln(E23Q)
+T69	Protein_part 1525 1528	Asp
+T70	Protein_part 1530 1534	E23D
+T71	Protein_part 1555 1559	Arg3
+T72	Protein_part 1563 1566	Gln
+T73	Protein_part 1568 1571	R3Q
+T74	Parameter 1605 1615	resolution
+T75	Unknown 1630 1640	structures
+T76	Protein_part 1648 1652	E23Q
+T77	Protein_part 1657 1668	R3Q mutants
+T78	Protein_part 1729 1733	E23D
+T79	Process 1734 1742	mutation
+T80	Process 1777 1783	change
+T81	Unknown 1800 1809	structure
+T82	Process 1822 1830	increase
+T83	Protein_part 1858 1866	H1 helix
+T84	Protein_part 1870 1875	Pro25
+T85	Location 1884 1900	catalytic center
+T86	Protein 1908 1919	glycosylase
+T87	Process 1942 1951	mutations
+T88	Process 1976 1985	movements
+T89	Chemical 1989 2002	protein atoms
+T90	Process 2027 2033	shifts
+T91	Chemical 2048 2063	water molecules
+T92	Process 2086 2097	differences
+T93	Protein_part 2173 2179	region
+T94	Chemical 2202 2210	chemical
+T95	Molecular_Part 2211 2217	groups
+T96	Process 2265 2275	difference
+T97	Technique 2276 2294	circular dichroism
+T98	Process 2295 2307	measurements
+T99	Chemical 2372 2380	carboxyl
+T100	Molecular_Part 2381 2386	group
+T101	Protein_part 2390 2395	Glu23
+T102	Process 2417 2425	cleavage
+T103	Chemical 2433 2448	N-glycosyl bond
+T104	Chemical 2482 2491	guanidino
+T105	Molecular_Part 2492 2497	group
+T106	Protein_part 2501 2505	Arg3
+T107	Category 2529 2538	substrate
+T108	Molecule 2542 2545	DNA
+T109	Protein 2566 2582	pyrimidine dimer
+T110	Protein_part 2588 2602	amino terminal
+T111	Chemical 2603 2614	alpha-amino
+T112	Molecular_Part 2615 2620	group
+T113	Value 2646 2665	approximately 4.4 A
+T114	Chemical 2680 2688	carboxyl
+T115	Molecular_Part 2689 2694	group
+T116	Protein_part 2698 2703	Glu23
+T117	Process 2766 2774	reaction
+T118	Unknown 2794 2800	Dodson

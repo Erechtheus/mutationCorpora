@@ -1,0 +1,68 @@
+T1	Process 11 18	insight
+T2	Process 28 37	mechanism
+T3	Category 41 50	substrate
+T4	Protein 72 99	kynurenine aminotransferase
+T5	Organism 101 106	Aedes
+T6	Protein 107 150	aegypti kynurenine aminotransferase (AeKAT)
+T7	Protein 172 188	aminotransferase
+T8	Process 207 221	transamination
+T9	Protein_part 237 248	amino acids
+T10	Chemical 286 302	alpha-keto acids
+T11	Chemical 306 311	amino
+T12	Molecular_Part 312 317	group
+T13	Category 318 327	acceptors
+T14	Protein 329 334	AeKAT
+T15	Protein 346 377	cysteine S-conjugate beta-lyase
+T16	Process 398 406	function
+T17	Protein 410 415	AeKAT
+T18	Process 423 435	biosynthesis
+T19	Chemical 439 453	kynurenic acid
+T20	Category 465 475	antagonist
+T21	Protein 479 483	NMDA
+T22	Protein 488 528	alpha7-nicotinic acetylcholine receptors
+T23	Geometrical_part 550 568	crystal structures
+T24	Protein 573 578	AeKAT
+T25	Category 582 589	complex
+T26	Protein_part 604 614	amino acid
+T27	Category 615 625	substrates
+T28	Chemical 627 636	glutamine
+T29	Protein_part 641 649	cysteine
+T30	Chemical 652 661	Glutamine
+T31	Protein 679 687	subunits
+T32	Protein 706 711	dimer
+T33	Protein_part 717 725	cysteine
+T34	Protein 753 761	subunits
+T35	Category 768 778	substrates
+T36	Location 784 792	external
+T37	Chemical 808 829	pyridoxal 5-phosphate
+T38	Unknown 837 847	structures
+T39	Protein 890 918	pyridoxal 5-phosphate enzyme
+T40	Protein_part 946 954	cysteine
+T41	Chemical 958 967	glutamine
+T42	Location 976 984	external
+T43	Category 994 1003	complexes
+T44	Protein_part 1005 1014	cysteinyl
+T45	Chemical 1028 1038	glutaminyl
+T46	Category 1069 1078	substrate
+T47	State 1090 1109	closed conformation
+T48	Category 1137 1146	substrate
+T49	Process 1192 1199	binding
+T50	Category 1203 1212	substrate
+T51	State 1225 1237	conformation
+T52	Process 1238 1244	change
+T53	Protein 1248 1253	AeKAT
+T54	Protein_part 1272 1293	active site  residues
+T55	Protein 1301 1315	AeKAT-cysteine
+T56	Geometrical_part 1316 1325	structure
+T57	Organism 1344 1349	human
+T58	Protein_part 1350 1369	KAT I-phenylalanine
+T59	Unknown 1370 1379	structure
+T60	Protein_part 1400 1406	Tyr286
+T61	Protein 1410 1415	AeKAT
+T62	Protein_part 1430 1436	Phe278
+T63	Organism 1440 1445	human
+T64	Unknown 1446 1451	KAT I
+T65	Protein 1475 1480	AeKAT
+T66	Protein_part 1507 1518	amino acids
+T67	Organism 1541 1546	human
+T68	Unknown 1547 1552	KAT I

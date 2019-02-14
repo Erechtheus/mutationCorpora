@@ -1,0 +1,56 @@
+T1	Unknown 14 19	COPII
+T2	Process 25 35	nucleation
+T3	Unknown 45 54	structure
+T4	Unknown 58 68	Sec23.Sar1
+T5	Unknown 95 103	fragment
+T6	Protein 107 112	Sec31
+T7	Unknown 118 123	COPII
+T8	Body_part 152 173	endoplasmic reticulum
+T9	Chemical 179 187	Sar1-GTP
+T10	Protein 189 197	Sec23/24
+T11	Protein 202 218	Sec13/31 protein
+T12	Protein 219 227	subunits
+T13	Process 249 260	interaction
+T14	Protein 269 282	Sec23/24.Sar1
+T15	Protein 287 295	Sec13/31
+T16	Unknown 312 334	residue Sec31 fragment
+T17	Geometrical_part 343 360	crystal structure
+T18	Category 368 383	ternary complex
+T19	Protein 385 390	Sec31
+T20	Protein_part 412 423	polypeptide
+T21	Geometrical_part 443 450	surface
+T22	Protein 458 463	Sec23
+T23	Chemical 468 486	Sar1-GTP molecules
+T24	Protein 525 538	Sec23/24.Sar1
+T25	Protein 543 551	Sec13/31
+T26	Process 552 563	recruitment
+T27	Body_part 571 579	membrane
+T28	Unknown 585 599	Sec31 fragment
+T29	Unknown 611 614	GAP
+T30	Parameter 615 623	activity
+T31	Protein 627 635	Sec23/24
+T32	Protein 658 663	Sec31
+T33	Protein_part 668 682	Sec23 residues
+T34	Protein 690 701	Sar1 GTPase
+T35	Protein_part 702 713	active site
+T36	Chemical 727 730	GTP
+T37	Process 731 741	hydrolysis
+T38	Unknown 766 771	COPII
+T39	Process 777 788	disassembly
+T40	Protein 794 799	Sec31
+T41	Unknown 807 815	fragment
+T42	Process 837 844	binding
+T43	Geometrical_part 845 851	groove
+T44	Protein_part 873 893	Sec23 residue Phe380
+T45	Process 895 907	Substitution
+T46	Protein_part 929 942	residue F382L
+T47	Organism 946 951	human
+T48	Unknown 952 958	Sec23A
+T49	Physiology 991 1000	dysplasia
+T50	Process 1027 1035	mutation
+T51	Process 1049 1059	nucleation
+T52	Unknown 1063 1068	COPII
+T53	Protein 1074 1082	proteins
+T54	Body_part 1086 1107	endoplasmic reticulum
+T55	Location 1108 1112	exit
+T56	Protein_part 1113 1118	sites

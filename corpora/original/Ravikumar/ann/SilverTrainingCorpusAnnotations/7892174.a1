@@ -1,0 +1,51 @@
+T1	Geometrical_part 2 9	surface
+T2	Molecule 10 16	mutant
+T3	Molecule 18 22	G82R
+T4	Organism 29 34	human
+T5	Protein 35 66	alpha-glutathione S-transferase
+T6	State 83 100	thermal stability
+T7	Process 119 140	molecular association
+T8	Unknown 148 155	crystal
+T9	Protein 168 174	enzyme
+T10	Protein 176 182	GST121
+T11	Organism 191 196	human
+T12	Protein 197 236	alpha-glutathione S-transferases GST1-1
+T13	Unknown 241 247	GST2-2
+T14	Parameter 278 288	efficiency
+T15	Organism 329 335	parent
+T16	Protein 336 344	proteins
+T17	Geometrical_part 373 384	space group
+T18	Unknown 428 436	crystals
+T19	Unknown 440 446	GST1-1
+T20	Protein_part 459 470	single-site
+T21	Protein_part 472 476	G82R
+T22	Molecule 478 484	mutant
+T23	Protein 488 494	GST121
+T24	Process 525 534	reduction
+T25	Protein 564 571	protein
+T26	Unknown 595 603	crystals
+T27	Unknown 635 641	GST1-1
+T28	Protein 647 661	mutant protein
+T29	Geometrical_part 678 703	space group P2(1)2(1)2(1)
+T30	Body_part 710 714	cell
+T31	Parameter 715 725	dimensions
+T32	Parameter 726 727	a
+T33	Value 730 734	49.5
+T34	Parameter 736 737	b
+T35	Value 740 744	92.9
+T36	Parameter 746 747	c
+T37	Value 750 757	115.9 A
+T38	Protein 767 772	dimer
+T39	Technique 806 822	crystallographic
+T40	Process 843 851	mutation
+T41	Geometrical_part 859 866	surface
+T42	Protein_part 867 879	residue  Gly
+T43	Protein_part 911 918	residue
+T44	Chemical 930 942	salt bridges
+T45	Protein 966 976	GST dimers
+T46	Protein_part 998 1009	G82R mutant
+T47	Protein 1049 1055	GST121
+T48	Chemical 1059 1067	solution
+T49	Process 1084 1090	change
+T50	Chemical 1098 1106	solution
+T51	Parameter 1107 1117	properties

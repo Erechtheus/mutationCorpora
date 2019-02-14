@@ -1,0 +1,93 @@
+T1	Unknown 0 9	Structure
+T2	Process 14 33	catalytic mechanism
+T3	Organism 37 47	eukaryotic
+T4	Protein 48 71	selenocysteine synthase
+T5	Organism 76 86	eukaryotes
+T6	Organism 91 98	Archaea
+T7	Protein 100 130	selenocysteine synthase (SecS)
+T8	Chemical 140 162	O-phospho-L-seryl-tRNA
+T9	Unknown 163 171	[Ser]Sec
+T10	Chemical 177 195	selenocysteyl-tRNA
+T11	Unknown 196 204	[Ser]Sec
+T12	Chemical 211 226	selenophosphate
+T13	Chemical 234 242	selenium
+T14	Category 243 248	donor
+T15	Chemical 249 257	compound
+T16	Process 263 283	molecular mechanisms
+T17	Protein 295 299	SecS
+T18	Parameter 300 308	activity
+T19	Protein_part 353 364	450-residue
+T20	Organism 374 379	mouse
+T21	Protein 380 384	SecS
+T22	Chemical 406 424	selenocysteyl-tRNA
+T23	Unknown 425 433	[Ser]Sec
+T24	Process 434 443	synthesis
+T25	Parameter 444 452	activity
+T26	Geometrical_part 473 490	crystal structure
+T27	Value 494 500	1.65 A
+T28	Parameter 501 511	resolution
+T29	Protein 513 517	SecS
+T30	Protein_part 533 540	domains
+T31	Geometrical_part 562 566	fold
+T32	Unknown 567 580	type I family
+T33	Chemical 584 609	pyridoxal phosphate (PLP)
+T34	Protein 620 627	enzymes
+T35	Protein 633 646	SecS monomers
+T36	Protein_part 703 715	active sites
+T37	Chemical 723 726	PLP
+T38	Protein 732 743	Schiff-base
+T39	Protein_part 744 751	linkage
+T40	Protein_part 758 768	lysine 284
+T41	Protein 774 785	SecS dimers
+T42	Protein 814 826	homotetramer
+T43	Protein_part 832 843	N  terminus
+T44	Protein 860 868	tetramer
+T45	Process 869 878	formation
+T46	Process 892 901	insertion
+T47	Protein_part 921 932	active site
+T48	Protein 937 941	SecS
+T49	Unknown 959 966	members
+T50	Unknown 974 980	family
+T51	Protein_part 986 997	active site
+T52	Process 999 1008	insertion
+T53	Chemical 1024 1027	PLP
+T54	Process 1028 1035	binding
+T55	Chemical 1052 1061	glutamate
+T56	Chemical 1074 1077	PLP
+T57	Category 1100 1110	substrates
+T58	Chemical 1123 1137	alpha-carboxyl
+T59	Molecular_Part 1138 1143	group
+T60	Protein 1161 1165	SecS
+T61	Chemical 1187 1205	O-phospho-l-serine
+T62	Unknown 1220 1228	crystals
+T63	Chemical 1232 1241	phosphate
+T64	Geometrical_part 1275 1279	loop
+T65	Protein_part 1291 1302	active site
+T66	Process 1303 1312	insertion
+T67	Chemical 1335 1344	phosphate
+T68	Process 1345 1352	binding
+T69	Protein_part 1353 1357	site
+T70	Protein_part 1359 1367	Residues
+T71	Protein 1399 1413	SecS orthologs
+T72	Unknown 1418 1425	variant
+T73	Protein 1437 1444	enzymes
+T74	Chemical 1460 1469	phosphate
+T75	Process 1479 1487	mutation
+T76	Protein 1496 1500	SecS
+T77	Parameter 1501 1509	activity
+T78	Chemical 1539 1553	phosphate loop
+T79	Chemical 1571 1586	gamma-phosphate
+T80	Molecular_Part 1587 1593	moiety
+T81	Chemical 1597 1619	O-phospho-l-seryl-tRNA
+T82	Unknown 1620 1628	[Ser]Sec
+T83	Chemical 1640 1649	phosphate
+T84	Process 1650 1661	elimination
+T85	Chemical 1669 1684	selenophosphate
+T86	Chemical 1720 1737	aminoacrylyl-tRNA
+T87	Molecule 1738 1759	[Ser]Sec intermediate
+T88	Parameter 1795 1803	activity
+T89	Process 1816 1825	mechanism
+T90	Category 1832 1842	inhibitors
+T91	Process 1864 1872	reaction
+T92	Process 1873 1882	mechanism
+T93	Protein 1891 1897	enzyme

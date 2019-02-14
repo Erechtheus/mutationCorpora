@@ -1,0 +1,81 @@
+T1	Technique 0 16	Crystallographic
+T2	Unknown 17 26	structure
+T3	Organism 30 35	human
+T4	Protein 36 50	gamma-thrombin
+T5	Unknown 76 84	crystals
+T6	Geometrical_part 103 112	structure
+T7	Protein 116 130	alpha-thrombin
+T8	Protein_part 156 163	peptide
+T9	Category 164 173	inhibitor
+T10	Category 175 184	MDL-28050
+T11	Protein_part 193 200	hirudin
+T12	Protein_part 207 227	COOH-terminal region
+T13	Unknown 256 264	crystals
+T14	Category 287 294	complex
+T15	Protein 302 316	gamma-thrombin
+T16	Technique 318 337	Gel electrophoresis
+T17	Process 370 381	degradation
+T18	Process 404 419	crystallization
+T19	Protein_part 421 442	NH2-terminal sequence
+T20	Technique 443 451	analysis
+T21	Unknown 471 480	fragments
+T22	Protein 495 509	gamma-thrombin
+T23	Category 510 517	product
+T24	Process 519 528	cleavages
+T25	Protein_part 532 543	Arg75-Tyr76
+T26	Protein_part 551 563	Arg77A-Asn78
+T27	Unknown 569 583	Lys149E-Gly150
+T28	Protein 585 601	chymotrypsinogen
+T29	Process 644 653	autolysis
+T30	Category 654 661	product
+T31	Protein 663 676	beta-thrombin
+T32	Process 688 697	cleavages
+T33	Unknown 715 724	structure
+T34	Parameter 732 740	R-factor
+T35	Value 745 750	0.156
+T36	Unknown 755 764	7.0-2.5-A
+T37	Chemical 788 803	water molecules
+T38	Process 807 817	comparison
+T39	Protein 821 835	gamma-thrombin
+T40	Protein 845 853	thrombin
+T41	Geometrical_part 854 863	structure
+T42	Unknown 871 893	alpha-thrombin-hirugen
+T43	Category 894 901	complex
+T44	Unknown 925 935	structures
+T45	Parameter 956 961	delta
+T46	Value 964 970	0.39 A
+T47	Protein_part 975 985	main chain
+T48	Unknown 1000 1010	structures
+T49	Protein_part 1031 1043	active sites
+T50	Process 1054 1065	disposition
+T51	Protein_part 1073 1097	catalytic triad residues
+T52	Molecule 1123 1131	electron
+T53	Parameter 1132 1139	density
+T54	Location 1147 1155	vicinity
+T55	Protein 1163 1177	gamma-thrombin
+T56	Process 1178 1186	cleavage
+T57	Protein_part 1187 1194	regions
+T58	Protein_part 1243 1251	residues
+T59	Process 1282 1290	cleavage
+T60	Protein_part 1291 1296	sites
+T61	Physiology 1312 1320	disorder
+T62	Protein_part 1355 1371	Lys70-Glu80 loop
+T63	Protein_part 1373 1379	region
+T64	Geometrical_part 1400 1404	part
+T65	Molecule 1412 1420	molecule
+T66	Process 1446 1455	autolysis
+T67	Protein_part 1474 1481	exosite
+T68	Process 1482 1491	functions
+T69	Protein 1530 1544	gamma-thrombin
+T70	Process 1552 1561	autolysis
+T71	Process 1586 1600	reorganization
+T72	Geometrical_part 1608 1624	folded structure
+T73	Protein 1628 1642	alpha-thrombin
+T74	Process 1683 1694	interaction
+T75	Protein 1698 1706	thrombin
+T76	Category 1707 1716	substrate
+T77	Protein 1722 1737	thrombin enzyme
+T78	Process 1781 1788	docking
+T79	Protein_part 1793 1807	exosite region
+T80	Molecule 1815 1823	molecule
+T81	Protein_part 1831 1842	active site

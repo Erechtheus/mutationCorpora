@@ -1,0 +1,55 @@
+T1	Process 17 29	interactions
+T2	Unknown 31 40	Structure
+T3	Organism 44 49	human
+T4	Protein 50 70	carbonic anhydrase I
+T5	Chemical 87 98	bicarbonate
+T6	Unknown 104 113	structure
+T7	Unknown 117 127	HCAI-HCO3-
+T8	Category 128 135	complex
+T9	Value 158 165	10-1.6A
+T10	Technique 166 183	X-ray diffraction
+T11	Parameter 195 202	R-value
+T12	Value 206 211	17.7%
+T13	Unknown 217 226	structure
+T14	Chemical 235 246	monodentate
+T15	Process 247 254	binding
+T16	Chemical 262 273	HCO3- anion
+T17	Location 280 286	apical
+T18	Chemical 315 323	zinc ion
+T19	Process 329 336	binding
+T20	Process 346 358	interactions
+T21	Chemical 362 367	HCO3-
+T22	Unknown 371 375	HCAI
+T23	Unknown 396 401	HCAII
+T24	Parameter 407 415	activity
+T25	Unknown 423 430	H2O/OH-
+T26	Molecular_Part 431 436	group
+T27	Unknown 449 453	HCAI
+T28	Chemical 473 481	hydroxyl
+T29	Molecular_Part 482 487	group
+T30	Chemical 496 513	bicarbonate anion
+T31	Process 541 554	rearrangement
+T32	Chemical 568 573	HCO3-
+T33	Technique 607 618	microscopic
+T34	Process 650 658	reaction
+T35	Geometrical_part 669 677	geometry
+T36	Chemical 685 692	H-bonds
+T37	Protein_part 701 714	Glu106-Thr199
+T38	Protein_part 724 737	Glu117-His119
+T39	Protein_part 750 764	glutamic acids
+T40	Chemical 803 810	H-bonds
+T41	Chemical 857 868	HCO3- anion
+T42	Process 889 894	basis
+T43	Molecule 898 904	proton
+T44	Process 905 917	localization
+T45	Protein_part 921 927	His119
+T46	Protein_part 935 948	Glu117-His119
+T47	Protein_part 1011 1024	Glu117-His119
+T48	Chemical 1052 1056	Zn2+
+T49	Parameter 1065 1081	binding strength
+T50	Chemical 1085 1096	HCO3- anion
+T51	Chemical 1100 1116	pi hydrogen bond
+T52	Chemical 1139 1144	water
+T53	Chemical 1149 1155	phenyl
+T54	Geometrical_part 1156 1160	ring
+T55	Protein_part 1168 1182	Tyr114 residue

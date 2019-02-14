@@ -1,0 +1,85 @@
+T1	Geometrical_part 16 43	three-dimensional structure
+T2	Organism 47 52	horse
+T3	Body_part 53 58	heart
+T4	Protein 59 71	cytochrome c
+T5	Value 77 83	1.94 A
+T6	Parameter 84 94	resolution
+T7	Geometrical_part 95 122	three-dimensional structure
+T8	Organism 135 140	horse
+T9	Body_part 141 146	heart
+T10	Protein 147 159	cytochrome c
+T11	Parameter 203 211	R-factor
+T12	Value 215 219	0.17
+T13	Process 253 263	assessment
+T14	Protein 299 306	protein
+T15	Process 322 330	presence
+T16	Geometrical_part 334 353	secondary structure
+T17	Chemical 355 363	hydrogen
+T18	Chemical 385 389	heme
+T19	Geometrical_part 390 398	geometry
+T20	Technique 416 424	analysis
+T21	Process 443 454	differences
+T22	Organism 463 468	horse
+T23	Body_part 469 474	heart
+T24	Protein 475 487	cytochrome c
+T25	Organism 504 514	eukaryotic
+T26	Protein 515 528	cytochromes c
+T27	Geometrical_part 539 565	high-resolution structures
+T28	Organism 581 586	yeast
+T29	Unknown 587 592	iso-1
+T30	Food 600 604	rice
+T31	State 644 658	conformational
+T32	Process 659 670	differences
+T33	Protein 685 693	proteins
+T34	Protein_part 709 716	regions
+T35	Protein_part 739 750	residues 22
+T36	Protein_part 809 816	regions
+T37	Geometrical_part 820 824	part
+T38	Geometrical_part 830 837	surface
+T39	Geometrical_part 838 847	beta-loop
+T40	Location 892 900	adjacent
+T41	Chemical 908 912	heme
+T42	Molecular_Part 913 918	group
+T43	Organism 958 963	horse
+T44	Protein 964 976	cytochrome c
+T45	Protein_part 982 992	side-chain
+T46	Protein_part 996 1001	Phe82
+T47	Chemical 1051 1055	heme
+T48	State 1061 1073	conformation
+T49	Protein 1108 1121	cytochromes c
+T50	Protein_part 1147 1154	residue
+T51	Chemical 1229 1244	water molecules
+T52	Unknown 1279 1289	structures
+T53	Organism 1293 1298	horse
+T54	Body_part 1299 1304	heart
+T55	Organism 1306 1311	yeast
+T56	Unknown 1312 1317	iso-1
+T57	Food 1328 1332	rice
+T58	Protein 1333 1346	cytochromes c
+T59	Geometrical_part 1374 1381	surface
+T60	Protein 1389 1396	protein
+T61	Protein 1425 1442	polypeptide chain
+T62	State 1443 1456	conformations
+T63	Location 1480 1490	internally
+T64	Process 1532 1543	interaction
+T65	Protein_part 1556 1579	invariant residue Arg38
+T66	Chemical 1593 1608	heme propionate
+T67	Chemical 1654 1668	heme iron atom
+T68	Chemical 1676 1684	hydrogen
+T69	Protein_part 1709 1723	residues Asn52
+T70	Protein_part 1725 1730	Tyr67
+T71	Protein_part 1735 1740	Thr78
+T72	Chemical 1771 1785	water molecule
+T73	Process 1786 1792	shifts
+T74	Process 1821 1827	change
+T75	State 1831 1846	oxidation state
+T76	Protein 1850 1862	cytochrome c
+T77	Unknown 1863 1873	structures
+T78	Process 1914 1926	conservation
+T79	Chemical 1985 1999	heme iron atom
+T80	Location 2024 2032	internal
+T81	Chemical 2033 2047	water molecule
+T82	Process 2071 2075	role
+T83	Process 2083 2092	mechanism
+T84	Process 2096 2102	action
+T85	Protein 2106 2118	cytochrome c

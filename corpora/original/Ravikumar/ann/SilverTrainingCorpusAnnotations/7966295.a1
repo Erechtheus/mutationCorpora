@@ -1,0 +1,71 @@
+T1	Geometrical_part 0 28	Three-dimensional structures
+T2	Protein 49 56	antigen
+T3	Protein_part 67 70	Fab
+T4	Protein 76 115	monoclonal anti-lysozyme antibody D44.1
+T5	Geometrical_part 121 149	three-dimensional structures
+T6	Protein 166 173	antigen
+T7	Protein_part 184 188	Fabs
+T8	Organism 199 204	mouse
+T9	Protein 216 224	anti-hen
+T10	Organism 225 228	egg
+T11	Protein 235 258	lysozyme antibody D44.1
+T12	Technique 292 325	X-ray crystallographic techniques
+T13	Unknown 331 339	crystals
+T14	Protein 356 364	lysozyme
+T15	Protein_part 371 375	Fabs
+T16	Technique 424 441	X-ray diffraction
+T17	Value 465 468	2.1
+T18	Value 473 478	2.5 A
+T19	Molecule 498 507	molecules
+T20	Protein 516 528	Fab-lysozyme
+T21	Category 529 536	complex
+T22	Unknown 567 575	crystals
+T23	State 598 611	conformations
+T24	Unknown 670 686	antigen-antibody
+T25	Chemical 711 726	water molecules
+T26	Geometrical_part 739 746	surface
+T27	Chemical 792 806	hydrogen bonds
+T28	Category 824 831	complex
+T29	Chemical 935 952	solvent molecules
+T30	Protein_part 978 991	site residues
+T31	Unknown 1009 1017	FabD44.1
+T32	Parameter 1034 1053	temperature factors
+T33	Protein_part 1086 1089	Fab
+T34	Process 1110 1123	perturbations
+T35	Process 1148 1162	rearrangements
+T36	Protein_part 1166 1177	side-chains
+T37	Protein_part 1195 1199	site
+T38	Process 1216 1229	rearrangement
+T39	Protein_part 1246 1253	domains
+T40	Unknown 1268 1270	VL
+T41	Protein 1287 1289	VH
+T42	Protein 1291 1297	chains
+T43	Protein_part 1308 1311	Fab
+T44	Process 1312 1325	accommodation
+T45	Protein 1339 1347	lysozyme
+T46	Protein_part 1353 1372	amino acid sequence
+T47	Protein_part 1380 1389	VH domain
+T48	Protein 1406 1413	epitope
+T49	Protein 1417 1425	lysozyme
+T50	Protein 1440 1445	D44.1
+T51	Molecule 1498 1517	monoclonal antibody
+T52	Molecule 1518 1525	HyHEL-5
+T53	Category 1552 1560	FabD44.1
+T54	Category 1565 1575	FabHyHEL-5
+T55	Category 1576 1585	complexes
+T56	Protein 1591 1599	lysozyme
+T57	Chemical 1610 1622	salt bridges
+T58	Protein_part 1631 1655	VH glutamate residues 35
+T59	Protein_part 1660 1662	50
+T60	Protein_part 1667 1696	lysozyme arginine residues 45
+T61	Protein_part 1701 1703	68
+T62	Process 1709 1717	presence
+T63	Chemical 1731 1743	salt bridges
+T64	Protein 1751 1765	D44.1-lysozyme
+T65	Chemical 1797 1802	bonds
+T66	Value 1831 1840	1000-fold
+T67	Process 1841 1849	increase
+T68	Parameter 1853 1861	affinity
+T69	Protein 1866 1874	lysozyme
+T70	Molecule 1880 1887	HyHEL-5
+T71	Protein 1909 1914	D44.1

@@ -1,0 +1,41 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein_part 22 34	S120G mutant
+T3	Organism 52 57	human
+T4	Protein 58 90	nucleoside diphosphate  kinase A
+T5	Category 94 101	complex
+T6	Chemical 107 110	ADP
+T7	Unknown 112 116	Nm23
+T8	Physiology 131 141	metastasis
+T9	Protein 142 157	suppressor gene
+T10	Protein 175 179	gene
+T11	Protein 190 200	NDP kinase
+T12	Parameter 226 236	properties
+T13	Protein 242 266	histidine protein kinase
+T14	Process 271 283	interactions
+T15	Protein 289 297	proteins
+T16	Molecule 302 305	DNA
+T17	Protein_part 311 323	S120G mutant
+T18	Unknown 327 333	NDPK-A
+T19	Physiology 368 382	neuroblastomas
+T20	Physiology 416 426	metastasis
+T21	Molecule 427 437	suppressor
+T22	Process 438 444	effect
+T23	Unknown 448 452	Nm23
+T24	Process 481 492	differences
+T25	Protein_part 523 535	S120G mutant
+T26	Unknown 560 569	structure
+T27	Unknown 589 605	wild type NDPK-A
+T28	Category 609 616	complex
+T29	Chemical 622 625	ADP
+T30	Process 676 683	changes
+T31	Protein 700 706	enzyme
+T32	Process 707 715	versions
+T33	Protein_part 758 767	histidine
+T34	Protein 789 799	NDP kinase
+T35	Parameter 800 808	activity
+T36	Protein_part 833 838	S120G
+T37	Process 839 847	mutation
+T38	Protein 868 875	protein
+T39	Parameter 876 884	property
+T40	Protein 890 900	NDP kinase
+T41	Parameter 901 909	activity

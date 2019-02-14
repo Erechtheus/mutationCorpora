@@ -1,0 +1,83 @@
+T1	Process 26 42	characterization
+T2	Organism 46 66	Escherichia coli UMP
+T3	Protein 67 73	kinase
+T4	Category 77 84	complex
+T5	Molecule 105 114	regulator
+T6	Chemical 115 118	GTP
+T7	Organism 120 129	Bacterial
+T8	Protein 130 141	UMP kinases
+T9	Protein 156 163	enzymes
+T10	Process 190 199	synthesis
+T11	Chemical 203 206	UTP
+T12	Protein 217 225	hexamers
+T13	Chemical 239 242	GTP
+T14	Category 255 264	activator
+T15	Chemical 270 273	UTP
+T16	Category 275 284	inhibitor
+T17	Value 308 321	2.8 angstroms
+T18	Geometrical_part 322 339	crystal structure
+T19	Organism 343 364	Escherichia  coli UMP
+T20	Protein 365 371	kinase
+T21	Chemical 381 384	GTP
+T22	Chemical 390 393	GTP
+T23	Protein_part 402 406	site
+T24	Value 420 432	15 angstroms
+T25	Chemical 442 445	UMP
+T26	Protein_part 454 458	site
+T27	Value 466 478	24 angstroms
+T28	Chemical 488 491	ATP
+T29	Protein_part 500 504	site
+T30	Protein 538 544	dimers
+T31	Unknown 558 567	structure
+T32	Chemical 602 605	UMP
+T33	Chemical 607 610	UDP
+T34	Chemical 615 618	UTP
+T35	Process 628 641	rearrangement
+T36	Geometrical_part 649 669	quaternary structure
+T37	Chemical 671 674	GTP
+T38	Value 687 697	11 degrees
+T39	Process 698 705	opening
+T40	Protein 713 723	UMP kinase
+T41	Protein 724 729	dimer
+T42	Protein 754 765	dimer-dimer
+T43	Process 766 777	interaction
+T44	Protein 781 807	nucleotide-free UMP kinase
+T45	Protein 808 813	dimer
+T46	Molecule 821 833	intermediate
+T47	Process 834 841	opening
+T48	Process 843 856	Superposition
+T49	Unknown 864 873	structure
+T50	Organism 887 895	archaeal
+T51	Protein 896 907	UMP kinases
+T52	Protein 925 933	hexamers
+T53	Geometrical_part 948 952	loop
+T54	Chemical 975 978	GTP
+T55	Process 979 986	binding
+T56	Protein 998 1005	enzymes
+T57	Process 1030 1037	absence
+T58	Process 1052 1058	effect
+T59	Chemical 1062 1065	GTP
+T60	Molecular_Part 1074 1079	group
+T61	Protein 1083 1094	UMP kinases
+T62	Chemical 1102 1105	GTP
+T63	Protein_part 1114 1122	residues
+T64	Protein_part 1128 1134	Asp-93
+T65	Organism 1160 1169	bacterial
+T66	Protein 1170 1181	UMP kinases
+T67	Unknown 1211 1221	structures
+T68	Organism 1225 1236	E. coli UMP
+T69	Protein 1237 1243	kinase
+T70	Protein_part 1250 1257	residue
+T71	Chemical 1286 1300	hydrogen bonds
+T72	Protein 1313 1321	subunits
+T73	Protein 1327 1332	dimer
+T74	Process 1338 1350	substitution
+T75	Protein_part 1357 1364	alanine
+T76	Chemical 1397 1400	UTP
+T77	Process 1401 1408	binding
+T78	Chemical 1440 1443	GTP
+T79	Chemical 1447 1450	UTP
+T80	Process 1451 1461	inhibition
+T81	Process 1518 1527	exclusion
+T82	Chemical 1541 1552	nucleotides
+T83	Protein_part 1568 1574	Asp-93

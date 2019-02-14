@@ -1,0 +1,91 @@
+T1	Process 0 10	Modulation
+T2	Protein 14 19	actin
+T3	Geometrical_part 20 29	structure
+T4	Process 34 42	function
+T5	Process 46 61	phosphorylation
+T6	Protein 65 71	Tyr-53
+T7	Protein 76 84	profilin
+T8	Process 85 92	binding
+T9	Process 97 107	starvation
+T10	Organism 109 122	Dictyostelium
+T11	Body_part 123 128	cells
+T12	Body_part 147 160	multicellular
+T13	Body_part 170 176	bodies
+T14	Body_part 188 194	spores
+T15	Chemical 230 238	nutrient
+T16	Body_part 244 250	medium
+T17	Protein 307 312	actin
+T18	Process 313 328	phosphorylation
+T19	Unknown 332 351	Tyr-53 (pY53-actin)
+T20	Body_part 369 385	vegetative cells
+T21	Body_part 412 418	spores
+T22	Geometrical_part 453 471	crystal structures
+T23	Protein 475 485	pY53-actin
+T24	Protein 490 512	unphosphorylated actin
+T25	Category 516 525	complexes
+T26	Protein_part 531 549	gelsolin segment 1
+T27	Protein 554 562	profilin
+T28	Geometrical_part 572 581	structure
+T29	Protein 585 595	pY53-actin
+T30	Chemical 601 610	phosphate
+T31	Molecular_Part 611 616	group
+T32	Unknown 620 626	Tyr-53
+T33	Chemical 633 641	hydrogen
+T34	Process 650 662	interactions
+T35	Protein_part 668 676	residues
+T36	Protein 684 691	DNase I
+T37	Geometrical_part 700 704	loop
+T38	Protein 717 722	actin
+T39	State 751 763	conformation
+T40	Unknown 771 777	D-loop
+T41	Chemical 790 817	unphosphorylated structures
+T42	Unknown 841 847	D-loop
+T43	Parameter 893 903	properties
+T44	Parameter 907 917	pY53-actin
+T45	Parameter 952 965	concentration
+T46	Process 970 984	polymerization
+T47	Parameter 994 999	rates
+T48	Process 1003 1013	nucleation
+T49	Process 1030 1040	elongation
+T50	Parameter 1051 1059	affinity
+T51	Protein 1064 1071	DNase I
+T52	Process 1091 1106	phosphorylation
+T53	Unknown 1110 1116	Tyr-53
+T54	Protein 1126 1136	subtilisin
+T55	Process 1137 1145	cleavage
+T56	Unknown 1153 1159	D-loop
+T57	Parameter 1176 1180	rate
+T58	Chemical 1184 1194	nucleotide
+T59	Process 1195 1203	exchange
+T60	Protein 1207 1212	actin
+T61	Geometrical_part 1218 1227	structure
+T62	Protein 1231 1259	profilin-Dictyostelium-actin
+T63	Unknown 1307 1317	structures
+T64	Unknown 1321 1340	profilin-beta-actin
+T65	Unknown 1345 1365	profilin-alpha-actin
+T66	Protein 1407 1421	profilin-actin
+T67	Geometrical_part 1422 1432	structures
+T68	Geometrical_part 1444 1454	structures
+T69	Protein 1458 1463	actin
+T70	Process 1482 1489	effects
+T71	Protein 1493 1501	profilin
+T72	Protein 1509 1514	actin
+T73	State 1515 1527	conformation
+T74	Protein 1536 1550	profilin-actin
+T75	Category 1551 1560	complexes
+T76	Protein_part 1562 1574	subdomains 1
+T77	Protein_part 1579 1580	3
+T78	Protein 1584 1589	actin
+T79	Protein 1603 1611	profilin
+T80	Value 1625 1636	4.7 degrees
+T81	Process 1637 1645	rotation
+T82	Protein_part 1663 1670	domains
+T83	Protein 1674 1679	actin
+T84	Chemical 1721 1737	nucleotide cleft
+T85	Protein 1774 1788	profilin-actin
+T86	Category 1789 1796	complex
+T87	Process 1822 1833	stimulation
+T88	Chemical 1837 1847	nucleotide
+T89	Process 1848 1856	exchange
+T90	Protein 1860 1865	actin
+T91	Protein 1869 1877	profilin

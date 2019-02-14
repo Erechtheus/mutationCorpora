@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 25	High-resolution structure
+T2	Parameter 33 44	temperature
+T3	Molecule 55 61	mutant
+T4	Organism 65 70	phage
+T5	Protein 71 79	lysozyme
+T6	Protein_part 82 95	Arg 96----His
+T7	Unknown 101 110	structure
+T8	Parameter 118 129	temperature
+T9	Protein 140 155	mutant lysozyme
+T10	Organism 159 175	bacteriophage T4
+T11	Chemical 185 193	arginine
+T12	Protein_part 212 221	histidine
+T13	Value 292 297	17.6%
+T14	Value 301 306	1.9-A
+T15	Parameter 307 317	resolution
+T16	Geometrical_part 332 359	three-dimensional structure
+T17	Protein 367 381	mutant protein
+T18	Process 441 452	distortions
+T19	Unknown 460 476	mutant structure
+T20	Protein_part 497 515	substituted His 96
+T21	Protein_part 516 523	residue
+T22	Organism 533 539	strain
+T23	Protein 623 641	wild-type lysozyme
+T24	Chemical 646 657	guanidinium
+T25	Protein_part 661 667	Arg 96
+T26	Protein_part 686 702	carboxy terminus
+T27	Protein_part 706 717	alpha-helix
+T28	Chemical 744 758	hydrogen bonds
+T29	Chemical 773 781	carbonyl
+T30	Molecular_Part 782 788	groups
+T31	Protein_part 813 818	helix
+T32	Process 824 828	loss
+T33	Process 852 863	interaction
+T34	Process 898 913	destabilization
+T35	Unknown 919 923	pKa*
+T36	Protein_part 927 933	His 96
+T37	Protein 941 956	mutant lysozyme
+T38	Technique 980 1006	nuclear magnetic resonance
+T39	Value 1023 1026	6.8
+T40	Value 1030 1042	10 degrees C
+T41	Parameter 1067 1072	value
+T42	Protein_part 1080 1089	histidine
+T43	Unknown 1090 1094	pKa*
+T44	State 1129 1147	unprotonated forms
+T45	Chemical 1155 1169	imidazole ring
+T46	Protein 1199 1206	protein
+T47	Unknown 1207 1218	environment
+T48	Protein 1247 1262	mutant lysozyme
+T49	Protein_part 1293 1302	histidine
+T50	Organism 1303 1310	species

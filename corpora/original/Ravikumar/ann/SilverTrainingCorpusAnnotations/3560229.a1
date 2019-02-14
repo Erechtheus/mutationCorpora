@@ -1,0 +1,106 @@
+T1	Technique 0 16	Crystallographic
+T2	Process 17 27	refinement
+T3	Unknown 32 41	structure
+T4	Chemical 45 52	DNase I
+T5	Value 56 59	2 A
+T6	Parameter 60 70	resolution
+T7	Unknown 76 85	structure
+T8	Organism 89 95	bovine
+T9	Body_part 96 106	pancreatic
+T10	Chemical 107 136	deoxyribonuclease I (DNase I)
+T11	Value 157 160	2 A
+T12	Parameter 161 171	resolution
+T13	Parameter 193 202	parameter
+T14	Technique 229 238	procedure
+T15	Unknown 242 253	Hendrickson
+T16	Unknown 258 265	Konnert
+T17	Parameter 284 292	R-factor
+T18	Value 297 303	16,104
+T19	Parameter 304 315	reflections
+T20	Unknown 321 322	I
+T21	Parameter 348 355	3 sigma
+T22	Unknown 357 358	I
+T23	Value 365 368	6.0
+T24	Value 372 377	2.0 A
+T25	Parameter 378 388	resolution
+T26	Value 392 397	0.157
+T27	Parameter 399 411	Bond lengths
+T28	Parameter 416 422	angles
+T29	Unknown 438 447	structure
+T30	Parameter 467 473	values
+T31	Parameter 479 515	root-mean-square (r.m.s.) deviations
+T32	Value 519 526	0.023 A
+T33	Value 531 542	1.4 degrees
+T34	Parameter 562 578	r.m.s. deviation
+T35	Process 599 607	contacts
+T36	Body_part 624 644	van der Waals' radii
+T37	Value 648 654	0.18 A
+T38	Process 660 671	orientation
+T39	Protein_part 675 686	side-chains
+T40	Parameter 710 722	distribution
+T41	Protein 726 738	chi 1-angles
+T42	Value 742 753	-60 degrees
+T43	Value 755 766	180 degrees
+T44	Value 768 778	60 degrees
+T45	State 835 848	conformations
+T46	Protein_part 876 884	sequence
+T47	Process 928 938	correction
+T48	Process 948 957	insertion
+T49	Protein_part 965 987	tripeptide Ile-Val-Arg
+T50	Protein_part 996 1001	Arg27
+T51	Protein_part 1006 1011	Arg28
+T52	Protein_part 1022 1041	hydrophobic regions
+T53	Location 1068 1072	side
+T54	Protein 1106 1110	beta
+T55	Protein_part 1119 1125	sheets
+T56	Parameter 1161 1168	average
+T57	Parameter 1179 1197	temperature factor
+T58	Value 1201 1208	11.9 A2
+T59	Chemical 1222 1235	protein atoms
+T60	Geometrical_part 1258 1262	loop
+T61	Protein_part 1263 1269	region
+T62	Protein_part 1278 1283	Gly97
+T63	Protein_part 1288 1294	Gly102
+T64	Protein_part 1296 1301	Glu99
+T65	Protein_part 1306 1312	Ser100
+T66	Protein_part 1337 1360	carbohydrate side-chain
+T67	Protein 1393 1408	solvent channel
+T68	Geometrical_part 1427 1431	loop
+T69	Protein_part 1432 1437	Arg70
+T70	Protein_part 1441 1446	Lys74
+T71	Protein_part 1505 1512	helices
+T72	Chemical 1516 1523	DNase I
+T73	Value 1547 1550	26%
+T74	Unknown 1559 1568	structure
+T75	Value 1576 1585	22 degree
+T76	Protein_part 1611 1633	alpha-helical segments
+T77	Protein_part 1635 1647	residues 136
+T78	Protein_part 1651 1654	144
+T79	Protein_part 1659 1662	145
+T80	Protein_part 1666 1669	155
+T81	Unknown 1686 1699	3(10)-helical
+T82	Chemical 1706 1725	DNase I fragments 1
+T83	Geometrical_part 1786 1797	2-fold axis
+T84	Parameter 1799 1815	r.m.s. deviation
+T85	Value 1816 1822	1.49 A
+T86	Location 1841 1858	C alpha positions
+T87	Protein 1881 1887	enzyme
+T88	Protein 1911 1915	gene
+T89	Process 1916 1927	duplication
+T90	Chemical 1937 1941	Ca2+
+T91	Chemical 1951 1958	DNase I
+T92	Process 1965 1980	crystallization
+T93	Geometrical_part 2054 2061	surface
+T94	Geometrical_part 2062 2066	loop
+T95	Protein_part 2067 2073	Asp198
+T96	Protein_part 2077 2083	Thr204
+T97	Protein_part 2101 2107	region
+T98	Geometrical_part 2149 2153	loop
+T99	Protein_part 2157 2171	residues Gly97
+T100	Protein_part 2175 2181	Gly102
+T101	Protein_part 2187 2219	N-linked carbohydrate side-chain
+T102	Protein_part 2232 2237	Asn18
+T103	Chemical 2248 2260	high-mannose
+T104	Protein_part 2296 2311	mannose residue
+T105	Unknown 2360 2365	CRDT-
+T106	Value 2374 2382	05 00:00

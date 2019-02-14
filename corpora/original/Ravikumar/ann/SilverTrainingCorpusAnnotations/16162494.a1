@@ -1,0 +1,56 @@
+T1	Organism 0 22	Pseudomonas aeruginosa
+T2	Protein 23 42	LD-carboxypeptidase
+T3	Protein 46 62	serine peptidase
+T4	Chemical 70 87	Ser-His-Glu triad
+T5	Body_part 107 112	elbow
+T6	Protein 114 134	LD-Carboxypeptidases
+T7	Protein 136 148	EC 3.4.17.13
+T8	Chemical 188 199	amide bonds
+T9	Chemical 215 228	d-amino acids
+T10	Organism 255 264	bacterial
+T11	Protein 265 278	peptidoglycan
+T12	Process 306 310	link
+T13	Chemical 319 343	meso-diaminopimelic acid
+T14	Protein_part 348 357	d-alanine
+T15	Protein_part 380 407	GlcNAc-MurNAc tetrapeptides
+T16	Protein_part 429 440	tripeptides
+T17	Protein_part 454 465	tripeptides
+T18	Protein 483 496	peptidoglycan
+T19	Protein 514 534	ld-carboxypeptidases
+T20	Process 557 561	role
+T21	Protein 565 578	peptidoglycan
+T22	Process 579 588	recycling
+T23	Protein 629 642	peptidoglycan
+T24	Process 643 655	biosynthesis
+T25	Geometrical_part 661 665	fold
+T26	Protein 688 708	ld-carboxypeptidases
+T27	Protein_part 770 788	open reading frame
+T28	Organism 792 814	Pseudomonas aeruginosa
+T29	Protein 819 838	ld-carboxypeptidase
+T30	Parameter 839 847	activity
+T31	Geometrical_part 864 881	crystal structure
+T32	Protein 890 896	enzyme
+T33	Unknown 902 911	structure
+T34	Protein 927 933	enzyme
+T35	Protein_part 949 970	N-terminal beta-sheet
+T36	Protein_part 977 1006	C-terminal beta-barrel domain
+T37	Protein_part 1036 1043	domains
+T38	Protein_part 1045 1053	Ser(115)
+T39	State 1079 1091	conformation
+T40	Protein_part 1112 1135	strand-turn-helix motif
+T41	Protein 1183 1203	alphabeta-hydrolases
+T42	Protein_part 1205 1213	Ser(115)
+T43	Chemical 1218 1226	hydrogen
+T44	Protein_part 1239 1256	histidine residue
+T45	Protein_part 1281 1298	glutamate residue
+T46	Protein_part 1310 1318	residues
+T47	Protein_part 1345 1356	Ser-Glu-His
+T48	Protein_part 1364 1383	amino acid sequence
+T49	Protein 1431 1451	ld-carboxypeptidases
+T50	Protein_part 1478 1486	alanines
+T51	Process 1495 1499	loss
+T52	Parameter 1503 1511	activity
+T53	Protein 1530 1550	ld-carboxypeptidases
+T54	Protein 1555 1572	serine peptidases
+T55	Protein_part 1578 1589	Ser-His-Glu
+T56	Protein_part 1590 1606	catalytic triads

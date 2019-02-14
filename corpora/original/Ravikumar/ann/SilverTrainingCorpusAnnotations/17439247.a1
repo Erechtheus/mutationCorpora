@@ -1,0 +1,73 @@
+T1	Unknown 4 13	structure
+T2	Body_part 17 23	testis
+T3	Protein 24 53	angiotensin-converting enzyme
+T4	Category 57 64	complex
+T5	Protein_part 74 82	C domain
+T6	Category 92 101	inhibitor
+T7	Molecule 102 109	RXPA380
+T8	Protein 111 148	Angiotensin I-converting enzyme (ACE)
+T9	Process 167 177	regulation
+T10	Protein 185 209	renin-angiotensin system
+T11	Process 235 241	target
+T12	Physiology 256 268	hypertension
+T13	Physiology 281 304	cardiovascular diseases
+T14	Chemical 326 331	drugs
+T15	Protein_part 343 355	active sites
+T16	Protein_part 378 385	domains
+T17	Protein_part 428 435	domains
+T18	Process 436 444	function
+T19	Geometrical_part 486 504	crystal structures
+T20	Protein_part 513 520	domains
+T21	Unknown 528 529	C
+T22	Protein_part 552 558	domain
+T23	Category 568 577	inhibitor
+T24	Process 610 621	differences
+T25	Protein_part 646 658	active sites
+T26	Geometrical_part 686 703	crystal structure
+T27	Parameter 709 719	resolution
+T28	Value 723 729	2.25 A
+T29	Body_part 733 739	testis
+T30	Protein 740 743	ACE
+T31	Protein_part 762 770	C domain
+T32	Body_part 774 781	somatic
+T33	Protein 782 785	ACE
+T34	Protein_part 803 811	C-domain
+T35	Chemical 821 831	phosphinic
+T36	Category 832 841	inhibitor
+T37	Molecule 843 850	RXPA380
+T38	Body_part 852 858	Testis
+T39	Protein 859 862	ACE
+T40	State 880 892	conformation
+T41	Category 926 935	inhibitor
+T42	Category 936 945	complexes
+T43	Molecule 955 962	RXPA380
+T44	State 980 992	conformation
+T45	Category 1030 1039	inhibitor
+T46	Chemical 1040 1049	captopril
+T47	Chemical 1055 1066	enalaprilat
+T48	Molecule 1072 1088	RXPA380 molecule
+T49	Protein_part 1103 1111	subsites
+T50	Body_part 1119 1125	testis
+T51	Protein_part 1126 1141	ACE active site
+T52	Category 1173 1183	inhibitors
+T53	Molecular_Part 1204 1212	moieties
+T54	Protein_part 1234 1237	S2'
+T55	Protein_part 1242 1253	S2 subsites
+T56	Parameter 1270 1278	affinity
+T57	Molecule 1282 1289	RXPA380
+T58	Body_part 1298 1304	testis
+T59	Protein_part 1305 1329	ACE/somatic ACE C domain
+T60	Process 1350 1361	interaction
+T61	Molecular_Part 1377 1385	moieties
+T62	Protein_part 1391 1399	residues
+T63	Protein_part 1416 1423	domains
+T64	Protein_part 1438 1445	Phe 391
+T65	Protein_part 1447 1454	Val 379
+T66	Protein_part 1460 1467	Val 380
+T67	Protein_part 1495 1503	N domain
+T68	Process 1509 1525	characterization
+T69	Protein_part 1542 1553	active site
+T70	Process 1562 1569	binding
+T71	Protein_part 1582 1590	C-domain
+T72	Category 1601 1610	inhibitor
+T73	Protein_part 1670 1676	domain

@@ -1,0 +1,97 @@
+T1	Category 16 25	substrate
+T2	Chemical 36 46	compound I
+T3	Process 47 56	formation
+T4	Process 61 70	reduction
+T5	Protein 74 98	catalase-peroxidase KatG
+T6	Organism 104 129	Burkholderia pseudomallei
+T7	Protein_part 136 144	residues
+T8	Protein 168 192	catalase-peroxidase KatG
+T9	Organism 196 208	Burkholderia
+T10	Protein 240 248	catalase
+T11	Protein 258 268	peroxidase
+T12	Parameter 270 278	activity
+T13	Protein_part 280 286	Asp141
+T14	Protein 313 321	catalase
+T15	Protein_part 331 339	residues
+T16	Molecule 370 376	adduct
+T17	Protein 386 391	KatGs
+T18	Protein_part 428 435	residue
+T19	Protein 444 452	catalase
+T20	Parameter 453 461	activity
+T21	Value 465 467	5%
+T22	Protein_part 507 532	catalytic residue  Arg108
+T23	Process 542 551	reduction
+T24	Protein 555 563	catalase
+T25	Parameter 564 572	activity
+T26	Value 576 579	35%
+T27	Unknown 608 615	variant
+T28	Protein_part 626 632	Asp141
+T29	Protein_part 637 643	Arg108
+T30	Protein 674 682	catalase
+T31	Parameter 683 691	activity
+T32	Value 693 696	82%
+T33	Process 722 731	synergism
+T34	Process 739 744	roles
+T35	Protein_part 756 764	residues
+T36	Protein 779 787	catalase
+T37	Parameter 788 796	activity
+T38	Protein 804 810	enzyme
+T39	Protein_part 822 837	Asp141 variants
+T40	Protein_part 839 844	D141E
+T41	Protein 875 883	catalase
+T42	Parameter 884 892	activity
+T43	Parameter 911 919	kinetics
+T44	Chemical 947 957	compound I
+T45	Process 958 967	formation
+T46	Chemical 987 997	compound I
+T47	Process 998 1007	reduction
+T48	Geometrical_part 1013 1030	crystal structure
+T49	Unknown 1038 1051	D141E variant
+T50	Value 1075 1080	1.8-A
+T51	Parameter 1081 1091	resolution
+T52	Chemical 1112 1123	carboxylate
+T53	Protein_part 1127 1133	Glu141
+T54	Protein_part 1171 1177	Asp141
+T55	Chemical 1195 1208	hydrogen bond
+T56	Process 1209 1220	interaction
+T57	Protein_part 1230 1240	main chain
+T58	Chemical 1241 1249	nitrogen
+T59	Protein_part 1253 1259	Ile237
+T60	Parameter 1282 1293	temperature
+T61	Chemical 1294 1309	ferric Electron
+T62	Technique 1310 1332	Paramagnetic Resonance
+T63	Parameter 1333 1340	spectra
+T64	Protein_part 1348 1353	D141A
+T65	Protein_part 1355 1360	R108A
+T66	Unknown 1366 1386	R108A/D141A variants
+T67	Process 1408 1421	modifications
+T68	Chemical 1429 1434	water
+T69	Body_part 1435 1441	matrix
+T70	Protein_part 1481 1495	distal residue
+T71	Protein_part 1496 1507	side chains
+T72	Process 1514 1521	changes
+T73	Process 1534 1543	reduction
+T74	Protein 1547 1555	catalase
+T75	Parameter 1556 1564	activity
+T76	Protein_part 1587 1606	variant R108A/D141A
+T77	Process 1612 1620	pathways
+T78	Chemical 1624 1632	hydrogen
+T79	Chemical 1640 1647	solvent
+T80	Location 1662 1670	entrance
+T81	Protein 1671 1678	channel
+T82	Protein_part 1688 1704	heme active site
+T83	Protein_part 1726 1732	Asp141
+T84	Protein_part 1737 1743	Arg108
+T85	Protein_part 1767 1773	Asp141
+T86	Protein_part 1782 1792	main chain
+T87	Chemical 1793 1798	atoms
+T88	Protein_part 1802 1818	residues 237-239
+T89	Process 1840 1847	binding
+T90	Category 1851 1860	substrate
+T91	Unknown 1861 1869	H(2)O(2)
+T92	Protein_part 1873 1879	Asp141
+T93	Protein_part 1884 1890	Arg108
+T94	Unknown 1900 1908	H(2)O(2)
+T95	Protein_part 1923 1939	heme active site
+T96	Protein 1964 1972	catalase
+T97	Process 1973 1981	reaction

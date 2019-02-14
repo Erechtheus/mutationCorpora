@@ -1,0 +1,49 @@
+T1	Process 11 16	basis
+T2	Process 35 46	recognition
+T3	Protein_part 54 69	Ede1 UBA domain
+T4	Process 71 89	Monoubiquitination
+T5	Process 103 112	mechanism
+T6	Parameter 136 144	activity
+T7	Body_part 148 152	cell
+T8	Geometrical_part 153 160	surface
+T9	Protein 161 170	receptors
+T10	Protein 191 199	proteins
+T11	Body_part 204 212	lysosome
+T12	Process 222 233	degradation
+T13	Body_part 247 256	endocytic
+T14	Process 257 264	pathway
+T15	Organism 270 275	yeast
+T16	Protein 276 288	Ede1 protein
+T17	Process 289 298	functions
+T18	Process 306 321	internalization
+T19	Process 330 341	endocytosis
+T20	Protein 370 378	proteins
+T21	Protein_part 390 423	ubiquitin associated (UBA) domain
+T22	Protein_part 425 436	UBA domains
+T23	Protein 467 484	cellular proteins
+T24	Protein 538 547	ubiquitin
+T25	Process 549 560	recognition
+T26	Geometrical_part 617 635	solution structure
+T27	Protein_part 643 658	Ede1 UBA domain
+T28	Category 662 669	complex
+T29	Protein_part 694 709	Ede1 UBA domain
+T30	Protein_part 718 746	three-helix bundle structure
+T31	Protein 757 766	ubiquitin
+T32	Geometrical_part 797 804	surface
+T33	Protein 836 844	Dsk2 UBA
+T34	Protein_part 873 889	Cue2 CUE domains
+T35	Geometrical_part 901 927	high-resolution structures
+T36	Process 962 973	interaction
+T37	Protein_part 1029 1047	hHR23A UBA domains
+T38	Protein_part 1081 1086	Lys48
+T39	Technique 1111 1130	mutational analyses
+T40	Protein 1138 1146	Ede1 UBA
+T41	Process 1164 1175	interaction
+T42	Parameter 1195 1203	affinity
+T43	Value 1238 1246	negative
+T44	Parameter 1247 1255	affinity
+T45	Protein 1275 1297	wild-type Ede1 protein
+T46	Process 1327 1339	interactions
+T47	Process 1382 1390	function
+T48	Body_part 1416 1425	endocytic
+T49	Protein 1426 1434	proteins

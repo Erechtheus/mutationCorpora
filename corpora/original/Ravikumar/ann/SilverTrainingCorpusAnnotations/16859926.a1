@@ -1,0 +1,83 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Process 33 43	signalling
+T3	Protein 44 56	glycoprotein
+T4	Organism 62 67	sheep
+T5	Value 71 75	2.0A
+T6	Parameter 76 86	resolution
+T7	Protein 90 108	40kDa glycoprotein
+T8	Process 118 127	secretion
+T9	Organism 131 136	sheep
+T10	Process 156 165	signaling
+T11	Protein 166 172	factor
+T12	Protein 189 195	SPS-40
+T13	Protein 202 209	protein
+T14	State 244 249	phase
+T15	Process 253 263	involution
+T16	Body_part 281 287	tissue
+T17	Process 288 298	remodeling
+T18	Body_part 313 326	mammary gland
+T19	Protein 328 334	SPS-40
+T20	Organism 353 358	sheep
+T21	Process 363 373	secretions
+T22	Chemical 410 416	vapour
+T23	Process 417 426	diffusion
+T24	Unknown 439 447	crystals
+T25	Geometrical_part 471 496	space group P2(1)2(1)2(1)
+T26	Body_part 502 506	cell
+T27	Parameter 507 517	dimensions
+T28	Parameter 519 520	a
+T29	Value 521 526	62.7A
+T30	Parameter 528 529	b
+T31	Value 530 535	66.4A
+T32	Parameter 537 538	c
+T33	Value 539 545	107.5A
+T34	Protein 551 558	protein
+T35	Protein_part 613 632	amino acid sequence
+T36	Geometrical_part 638 665	three-dimensional structure
+T37	Protein 669 675	SPS-40
+T38	Technique 694 716	X-ray crystallographic
+T39	Value 727 731	2.0A
+T40	Parameter 732 742	resolution
+T41	Unknown 748 757	structure
+T42	Process 771 779	presence
+T43	Protein 786 807	N-linked glycan chain
+T44	Protein_part 811 816	Asn39
+T45	Protein 822 829	protein
+T46	State 839 851	conformation
+T47	Geometrical_part 869 896	(beta/alpha)(8)-barrel fold
+T48	Protein 900 931	triosephosphate isomerase (TIM)
+T49	Protein_part 933 947	residues 1-237
+T50	Protein_part 952 959	310-360
+T51	Process 969 978	insertion
+T52	Protein 991 1001	alpha+beta
+T53	Protein_part 1003 1009	domain
+T54	Protein_part 1011 1019	residues
+T55	Protein 1058 1068	chitinases
+T56	Protein_part 1083 1086	Leu
+T57	Process 1087 1099	substitution
+T58	Protein_part 1104 1107	Glu
+T59	Protein_part 1136 1144	sequence
+T60	Protein 1148 1154	SPS-40
+T61	Process 1164 1168	loss
+T62	Protein 1172 1181	chitinase
+T63	Parameter 1182 1190	activity
+T64	Chemical 1209 1214	sugar
+T65	Geometrical_part 1223 1229	groove
+T66	Protein 1233 1239	SPS-40
+T67	Protein 1284 1290	chitin
+T68	Protein_part 1299 1303	site
+T69	Protein 1307 1324	chitinase enzymes
+T70	Process 1339 1346	binding
+T71	Protein 1350 1356	chitin
+T72	Chemical 1362 1378	oligosaccharides
+T73	Geometrical_part 1411 1418	surface
+T74	Geometrical_part 1419 1424	loops
+T75	Protein_part 1426 1439	His188-His197
+T76	Protein_part 1441 1454	Phe202-Arg212
+T77	Protein_part 1459 1472	Phe244-Pro260
+T78	Parameter 1497 1503	values
+T79	Parameter 1508 1517	B-factors
+T80	Parameter 1519 1526	average
+T81	Value 1527 1535	70.5A(2)
+T82	Process 1553 1561	presence
+T83	Protein_part 1580 1586	region

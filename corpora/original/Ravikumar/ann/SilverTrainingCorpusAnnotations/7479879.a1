@@ -1,0 +1,78 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 43	Pseudomonas aeruginosa
+T3	Physiology 44 53	catabolic
+T4	Protein 54 81	ornithine transcarbamoylase
+T5	Value 85 90	3.0-A
+T6	Parameter 91 101	resolution
+T7	Process 105 114	different
+T8	Process 126 138	organization
+T9	Protein 146 170	transcarbamoylase family
+T10	Geometrical_part 176 193	crystal structure
+T11	Protein_part 201 208	Glu-105
+T12	Protein_part 211 214	Gly
+T13	Molecule 215 221	mutant
+T14	Physiology 225 234	catabolic
+T15	Protein 235 262	ornithine transcarbamoylase
+T16	Protein 264 270	OTCase
+T17	Chemical 272 291	carbamoyl phosphate
+T18	Chemical 294 305	L-ornithine
+T19	Value 308 322	orthophosphate
+T20	Chemical 325 337	L-citrulline
+T21	Protein 339 349	EC 2.1.3.3
+T22	Organism 356 378	Pseudomonas aeruginosa
+T23	Value 402 407	3.0-A
+T24	Parameter 408 418	resolution
+T25	Unknown 457 458	R
+T26	State 469 474	state
+T27	Unknown 480 489	structure
+T28	Process 508 529	molecular replacement
+T29	Protein 589 595	trimer
+T30	Protein 613 620	subunit
+T31	Protein 632 649	transcarbamoylase
+T32	Protein 667 711	studied aspartate transcarbamoylase (ATCase)
+T33	Organism 717 733	Escherichia coli
+T34	State 790 796	phases
+T35	Value 800 803	8-A
+T36	Parameter 804 814	resolution
+T37	Value 839 842	3-A
+T38	Geometrical_part 866 874	symmetry
+T39	State 891 896	phase
+T40	Process 897 907	extensions
+T41	Molecule 935 943	electron
+T42	Parameter 944 951	density
+T43	Unknown 1019 1028	structure
+T44	Protein_part 1045 1053	residues
+T45	Value 1075 1078	3-A
+T46	Technique 1096 1112	crystallographic
+T47	Parameter 1113 1120	R value
+T48	Value 1124 1129	0.216
+T49	Chemical 1134 1151	solvent molecules
+T50	Physiology 1186 1195	catabolic
+T51	Protein 1196 1202	OTCase
+T52	Protein 1208 1217	dodecamer
+T53	Protein 1235 1242	trimers
+T54	Protein 1284 1291	monomer
+T55	Protein_part 1311 1318	domains
+T56	Chemical 1324 1343	carbamoyl phosphate
+T57	Protein_part 1352 1358	domain
+T58	Protein 1414 1420	ATCase
+T59	Protein_part 1421 1425	part
+T60	Protein_part 1450 1456	domain
+T61	Process 1483 1490	binding
+T62	Category 1505 1514	substrate
+T63	Chemical 1516 1525	ornithine
+T64	Protein 1530 1536	OTCase
+T65	Chemical 1541 1550	aspartate
+T66	Protein 1555 1561	ATCase
+T67	Geometrical_part 1588 1609	quaternary structures
+T68	Protein 1634 1652	transcarbamoylases
+T69	Organism 1678 1685	E. coli
+T70	Protein 1686 1692	ATCase
+T71	Chemical 1697 1706	pseudo-32
+T72	Geometrical_part 1719 1727	symmetry
+T73	Protein 1768 1774	chains
+T74	Physiology 1780 1789	catabolic
+T75	Protein 1790 1796	OTCase
+T76	Geometrical_part 1817 1825	symmetry
+T77	Protein 1845 1851	chains
+T78	Protein 1867 1874	enzymes

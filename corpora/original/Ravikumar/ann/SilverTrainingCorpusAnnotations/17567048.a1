@@ -1,0 +1,94 @@
+T1	Location 32 43	mononuclear
+T2	Location 48 57	binuclear
+T3	Protein_part 58 70	active sites
+T4	Protein 74 120	N-acetyl-D-glucosamine-6-phosphate deacetylase
+T5	Protein 122 126	NagA
+T6	Process 141 151	hydrolysis
+T7	Chemical 155 189	N-acetyl-d-glucosamine-6-phosphate
+T8	Chemical 193 218	d-glucosamine-6-phosphate
+T9	Chemical 223 230	acetate
+T10	Molecule 232 237	X-ray
+T11	Geometrical_part 238 256	crystal structures
+T12	Protein 260 264	NagA
+T13	Organism 270 286	Escherichia coli
+T14	Process 331 339	ligation
+T15	Process 356 363	binding
+T16	Chemical 367 371	zinc
+T17	Protein_part 379 390	active site
+T18	Process 412 434	molecular interactions
+T19	Protein 447 454	protein
+T20	Category 459 468	substrate
+T21	Geometrical_part 474 502	three-dimensional structures
+T22	Unknown 511 519	apo-NagA
+T23	Chemical 521 528	Zn-NagA
+T24	Protein 538 557	D273N mutant enzyme
+T25	Process 565 573	presence
+T26	Chemical 593 644	N-methylhydroxyphosphinyl-d-glucosamine-6-phosphate
+T27	Category 645 654	inhibitor
+T28	Unknown 677 686	structure
+T29	Chemical 694 701	Zn-NagA
+T30	Protein 721 727	enzyme
+T31	Chemical 743 758	divalent cation
+T32	Protein 766 770	beta
+T33	Protein_part 787 798	active site
+T34	Process 803 811	ligation
+T35	Protein_part 815 822	Glu-131
+T36	Protein_part 825 832	His-195
+T37	Protein_part 838 845	His-216
+T38	Chemical 849 863	water molecule
+T39	Process 878 886	ligation
+T40	Chemical 926 934	hydrogen
+T41	Protein_part 945 952	Asp-273
+T42	Geometrical_part 961 970	structure
+T43	Protein 974 978	NagA
+T44	Process 998 1005	binding
+T45	Category 1006 1015	inhibitor
+T46	Category 1021 1027	mimics
+T47	Molecule 1044 1056	intermediate
+T48	Chemical 1062 1080	methyl phosphonate
+T49	Molecular_Part 1081 1087	moiety
+T50	Chemical 1117 1131	water molecule
+T51	Chemical 1167 1171	zinc
+T52	Protein_part 1183 1194	active site
+T53	Protein_part 1200 1210	side chain
+T54	Protein_part 1214 1221	Asp-273
+T55	Chemical 1263 1277	water molecule
+T56	Chemical 1282 1294	general base
+T57	Process 1296 1305	catalysis
+T58	Molecule 1326 1332	proton
+T59	Chemical 1340 1345	amino
+T60	Molecular_Part 1346 1351	group
+T61	Process 1357 1365	cleavage
+T62	Chemical 1373 1383	amide bond
+T63	Category 1391 1400	substrate
+T64	Protein_part 1402 1409	His-143
+T65	Chemical 1445 1453	carbonyl
+T66	Molecular_Part 1455 1460	group
+T67	Category 1468 1477	substrate
+T68	Process 1481 1492	conjunction
+T69	Chemical 1498 1508	Lewis acid
+T70	Process 1509 1518	catalysis
+T71	Chemical 1532 1536	zinc
+T72	Category 1542 1551	inhibitor
+T73	State 1568 1587	alpha-configuration
+T74	Chemical 1604 1610	carbon
+T75	Chemical 1621 1637	hydrogen bonding
+T76	Process 1638 1649	interaction
+T77	Chemical 1657 1665	hydroxyl
+T78	Molecular_Part 1666 1671	group
+T79	Unknown 1675 1678	C-1
+T80	Protein_part 1688 1698	side chain
+T81	Protein_part 1702 1709	His-251
+T82	Chemical 1715 1724	phosphate
+T83	Molecular_Part 1725 1730	group
+T84	Category 1738 1747	inhibitor
+T85	Chemical 1764 1772	hydroxyl
+T86	Unknown 1776 1779	C-6
+T87	Chemical 1783 1786	ion
+T88	Protein_part 1799 1806	Arg-227
+T89	Location 1816 1824	adjacent
+T90	Protein 1825 1832	subunit
+T91	Protein 1834 1838	NagA
+T92	Organism 1844 1863	Thermotoga maritima
+T93	Chemical 1894 1909	divalent cation
+T94	Parameter 1929 1937	activity

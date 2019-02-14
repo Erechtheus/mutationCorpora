@@ -1,0 +1,49 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 25 48	Mycobacterium fortuitum
+T3	Protein 49 71	class A beta-lactamase
+T4	Process 84 89	basis
+T5	Category 100 109	substrate
+T6	Protein 123 138	beta-Lactamases
+T7	Process 152 157	cause
+T8	Organism 161 170	bacterial
+T9	Parameter 171 181	resistance
+T10	Chemical 185 196	penicillins
+T11	Chemical 201 215	cephalosporins
+T12	Protein 217 240	Class A beta-lactamases
+T13	Molecular_Part 254 259	group
+T14	Protein 263 278	beta-lactamases
+T15	Organism 304 321	bacterial strains
+T16	Organism 333 345	mycobacteria
+T17	Protein 360 374	beta-lactamase
+T18	Geometrical_part 375 384	structure
+T19	Geometrical_part 419 436	crystal structure
+T20	Protein 444 466	class A beta-lactamase
+T21	Organism 472 501	Mycobacterium fortuitum (MFO)
+T22	Value 522 528	2.13-A
+T23	Parameter 529 539	resolution
+T24	Protein 545 551	enzyme
+T25	Protein 594 608	beta-lactamase
+T26	Parameter 618 635	specific activity
+T27	Chemical 639 649	cefotaxime
+T28	Protein_part 676 687	active site
+T29	Protein 695 717	class A beta-lactamase
+T30	Organism 723 735	M. fortuitum
+T31	Protein_part 781 787	Arg278
+T32	Protein_part 792 798	Ser237
+T33	Protein 805 821	cephalosporinase
+T34	Parameter 822 830	activity
+T35	Category 859 868	substrate
+T36	Parameter 869 877	activity
+T37	Organism 883 886	MFO
+T38	Protein_part 887 898	active site
+T39	Process 908 920	similarities
+T40	Unknown 930 935	CTX-M
+T41	Protein 959 974	beta-lactamases
+T42	Protein 1013 1020	enzymes
+T43	Protein_part 1026 1036	VNYN motif
+T44	Protein_part 1038 1050	residues 103
+T45	Protein_part 1054 1057	106
+T46	Unknown 1077 1087	CTX-M-type
+T47	Protein 1106 1121	beta-lactamases
+T48	Protein 1139 1151	cefotaximase
+T49	Parameter 1152 1160	activity

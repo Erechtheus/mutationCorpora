@@ -1,0 +1,79 @@
+T1	Unknown 0 9	Structure
+T2	Parameter 24 34	properties
+T3	Protein 52 63	heterodimer
+T4	Protein 67 74	enolase
+T5	Protein 115 122	subunit
+T6	Protein 124 131	Enolase
+T7	Protein 137 151	dimeric enzyme
+T8	Process 171 186	interconversion
+T9	Chemical 190 211	2-phospho-D-glycerate
+T10	Chemical 216 235	phosphoenolpyruvate
+T11	Physiology 253 264	dehydration
+T12	Protein 288 297	acid-base
+T13	Process 298 307	catalysis
+T14	Protein_part 336 342	Lys345
+T15	Protein_part 347 353	Glu211
+T16	Unknown 365 371	system
+T17	Protein 375 384	enolase 1
+T18	Organism 390 395	yeast
+T19	Geometrical_part 402 419	crystal structure
+T20	Protein 436 449	E211Q enolase
+T21	Protein 465 472	protein
+T22	Unknown 502 515	K345 variants
+T23	Process 582 597	crystallization
+T24	Protein 615 626	heterodimer
+T25	Protein 630 637	enolase
+T26	Protein 643 654	heterodimer
+T27	Protein 683 690	subunit
+T28	Protein 702 707	K345A
+T29	Process 708 716	mutation
+T30	Protein 731 738	subunit
+T31	Geometrical_part 748 752	N80D
+T32	Geometrical_part 757 770	N126D surface
+T33	Process 771 780	mutations
+T34	Chemical 795 807	ion-exchange
+T35	Process 824 834	separation
+T36	Protein 848 863	dimeric species
+T37	Unknown 869 878	structure
+T38	Unknown 901 908	variant
+T39	Category 913 920	complex
+T40	Value 961 967	1.85 A
+T41	Parameter 969 979	resolution
+T42	Unknown 985 994	structure
+T43	Geometrical_part 1017 1026	structure
+T44	Protein 1030 1047	wild-type enolase
+T45	Unknown 1062 1070	crystals
+T46	Geometrical_part 1093 1104	space group
+T47	Protein 1106 1123	Asymmetric dimers
+T48	Protein 1135 1142	subunit
+T49	Protein_part 1171 1182	active site
+T50	Geometrical_part 1183 1188	loops
+T51	State 1195 1212	open conformation
+T52	State 1232 1244	conformation
+T53	Geometrical_part 1262 1267	loops
+T54	Unknown 1290 1300	structures
+T55	Protein 1306 1319	K345A subunit
+T56	Protein 1327 1338	heterodimer
+T57	Geometrical_part 1349 1353	loop
+T58	State 1361 1373	conformation
+T59	Chemical 1379 1398	Calpha carbon atoms
+T60	Protein 1440 1447	subunit
+T61	Protein 1451 1468	wild-type enolase
+T62	Process 1488 1497	deviation
+T63	Value 1501 1507	0.23 A
+T64	Parameter 1514 1518	kcat
+T65	Parameter 1523 1537	kcat/Km values
+T66	Protein 1545 1556	heterodimer
+T67	Protein 1593 1613	N80D/N126D homodimer
+T68	Protein 1639 1647	subunits
+T69	Chemical 1651 1659	solution
+T70	Process 1691 1701	comparison
+T71	Protein 1705 1712	enolase
+T72	Geometrical_part 1713 1723	structures
+T73	Unknown 1738 1746	crystals
+T74	Process 1760 1769	different
+T75	Molecular_Part 1776 1782	groups
+T76	Protein 1797 1814	asymmetric dimers
+T77	Process 1825 1836	consequence
+T78	Protein 1874 1882	subunits
+T79	Unknown 1894 1901	crystal

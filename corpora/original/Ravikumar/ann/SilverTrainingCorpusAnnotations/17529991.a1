@@ -1,0 +1,47 @@
+T1	Process 11 16	basis
+T2	Protein 20 27	histone
+T3	Process 28 41	demethylation
+T4	Protein 45 49	LSD1
+T5	Process 70 82	inactivation
+T6	Protein 84 91	Histone
+T7	Process 92 103	methylation
+T8	Protein 122 131	chromatin
+T9	Process 142 151	processes
+T10	Process 163 176	transcription
+T11	Protein 212 254	histone lysine-specific demethylase (LSD1)
+T12	Protein 291 298	histone
+T13	Process 299 310	methylation
+T14	Physiology 326 336	epigenetic
+T15	Protein 343 347	LSD1
+T16	Chemical 353 386	flavin adenine dinucleotide (FAD)
+T17	Protein 398 411	amine oxidase
+T18	Protein 430 453	histone H3 Lys4 (H3-K4)
+T19	Process 468 477	mechanism
+T20	Protein 487 491	LSD1
+T21	Category 505 514	substrate
+T22	Geometrical_part 553 570	crystal structure
+T23	Organism 574 579	human
+T24	Protein 580 584	LSD1
+T25	Chemical 592 606	propargylamine
+T26	Protein_part 619 629	H3 peptide
+T27	Chemical 653 656	FAD
+T28	Protein_part 658 660	H3
+T29	Protein_part 718 728	side chain
+T30	Parameter 729 736	spacing
+T31	Protein_part 753 763	N terminus
+T32	Geometrical_part 780 786	pocket
+T33	Chemical 801 812	methyl-Lys4
+T34	Chemical 818 821	FAD
+T35	Process 826 835	catalysis
+T36	Protein_part 841 857	LSD1 active site
+T37	Protein_part 906 914	residues
+T38	Protein_part 922 932	N-terminal
+T39	Location 933 937	side
+T40	Chemical 945 957	methyllysine
+T41	Protein 974 979	H3-K4
+T42	State 1014 1026	conformation
+T43	Protein 1030 1034	LSD1
+T44	Protein_part 1041 1043	H3
+T45	Protein 1085 1089	LSD1
+T46	Category 1090 1100	inhibitors
+T47	Parameter 1118 1127	potential

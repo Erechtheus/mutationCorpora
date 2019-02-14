@@ -1,0 +1,96 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Chemical 31 39	solution
+T3	Protein_part 47 58	polypeptide
+T4	Body_part 59 66	cardiac
+T5	Chemical 67 76	stimulant
+T6	Unknown 77 91	anthopleurin-A
+T7	Geometrical_part 97 124	three-dimensional structure
+T8	Chemical 128 144	aqueous solution
+T9	Protein 152 196	49-residue polypeptide anthopleurin-A (AP-A)
+T10	Organism 219 245	Anthopleura xanthogrammica
+T11	Chemical 273 275	1H
+T12	Technique 276 279	NMR
+T13	Parameter 332 340	distance
+T14	Chemical 366 370	NOEs
+T15	Protein_part 394 404	side chain
+T16	Parameter 414 419	angle
+T17	Unknown 436 445	spin-spin
+T18	Process 446 454	coupling
+T19	Parameter 455 464	constants
+T20	Process 516 523	absence
+T21	Chemical 527 531	NOEs
+T22	Parameter 539 546	spectra
+T23	Parameter 570 578	distance
+T24	Technique 579 600	geometry calculations
+T25	Unknown 604 609	DIANA
+T26	Parameter 649 655	energy
+T27	Process 656 668	minimization
+T28	Unknown 672 678	X-PLOR
+T29	Process 695 706	assignments
+T30	Chemical 714 728	beta-methylene
+T31	Unknown 775 785	structures
+T32	Parameter 790 794	mean
+T33	Unknown 804 807	rms
+T34	Process 808 819	differences
+T35	Molecule 835 843	molecule
+T36	Value 847 853	2.04 A
+T37	Chemical 877 882	atoms
+T38	Protein 887 895	C  alpha
+T39	Protein 901 902	C
+T40	Value 908 914	2.59 A
+T41	Chemical 929 934	atoms
+T42	Protein_part 957 963	region
+T43	Protein_part 977 989	residues 2-7
+T44	Protein_part 994 999	17-49
+T45	Parameter 1019 1025	values
+T46	Value 1031 1035	0.82
+T47	Value 1040 1047	1.27  A
+T48	Protein 1063 1067	AP-A
+T49	Unknown 1085 1094	structure
+T50	Protein_part 1120 1127	strands
+T51	Geometrical_part 1131 1143	antiparallel
+T52	Protein_part 1144 1154	beta-sheet
+T53	Protein_part 1156 1168	residues 2-4
+T54	Protein_part 1170 1175	20-23
+T55	Protein_part 1177 1182	34-37
+T56	Protein_part 1188 1193	45-48
+T57	Geometrical_part 1214 1219	loops
+T58	Geometrical_part 1231 1235	loop
+T59	Protein_part 1253 1269	type I beta-turn
+T60	Protein_part 1300 1312	Asp residues
+T61	Geometrical_part 1319 1323	loop
+T62	Protein_part 1350 1356	region
+T63	Protein 1364 1371	protein
+T64	Protein_part 1384 1393	beta-turn
+T65	Protein_part 1404 1418	residues 13-16
+T66	Unknown 1450 1460	structures
+T67	Geometrical_part 1466 1470	loop
+T68	Protein_part 1483 1489	second
+T69	Protein_part 1494 1507	third strands
+T70	Chemical 1536 1550	disulfide bond
+T71	Value 1564 1572	two well
+T72	Protein_part 1581 1591	beta-turns
+T73	Geometrical_part 1609 1613	loop
+T74	Protein_part 1627 1647	Gly40-Pro41 sequence
+T75	Protein_part 1693 1697	site
+T76	Chemical 1726 1737	carboxylate
+T77	Molecular_Part 1738 1743	group
+T78	Protein_part 1747 1751	Asp7
+T79	Chemical 1768 1784	epsilon-ammonium
+T80	Molecular_Part 1785 1790	group
+T81	Protein_part 1794 1799	Lys37
+T82	Chemical 1833 1844	salt bridge
+T83	Parameter 1848 1850	pH
+T84	Process 1851 1860	titration
+T85	Technique 1874 1880	2D NMR
+T86	Protein_part 1911 1915	Asp7
+T87	Parameter 1926 1929	pKa
+T88	Protein_part 1956 1962	region
+T89	Molecule 1970 1978	molecule
+T90	Protein_part 1994 2007	residues Asp9
+T91	Protein_part 2012 2017	His39
+T92	Geometrical_part 2023 2027	part
+T93	Geometrical_part 2045 2052	surface
+T94	Organism 2078 2087	mammalian
+T95	Body_part 2088 2095	cardiac
+T96	Protein 2096 2110	sodium channel

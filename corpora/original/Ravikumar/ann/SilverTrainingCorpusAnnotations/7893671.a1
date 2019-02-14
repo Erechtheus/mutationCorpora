@@ -1,0 +1,87 @@
+T1	Process 8 17	synthesis
+T2	Process 23 39	characterization
+T3	Protein 52 68	xylose isomerase
+T4	Category 69 78	inhibitor
+T5	Chemical 80 104	D-threonohydroxamic acid
+T6	Technique 126 148	X-ray crystallographic
+T7	Unknown 149 158	structure
+T8	Category 183 190	complex
+T9	Process 196 203	binding
+T10	Category 216 225	inhibitor
+T11	Protein 233 258	enzyme D-xylose isomerase
+T12	Organism 264 276	Streptomyces
+T13	Protein 277 293	olivochromogenes
+T14	Parameter 310 318	kinetics
+T15	Technique 323 344	X-ray crystallography
+T16	Category 350 359	inhibitor
+T17	Chemical 360 390	D-threonohydroxamic acid (THA)
+T18	Category 407 412	mimic
+T19	State 426 442	transition state
+T20	Process 450 463	isomerization
+T21	Protein 486 492	enzyme
+T22	Category 500 509	substrate
+T23	Chemical 510 516	xylose
+T24	Chemical 518 521	THA
+T25	Category 582 591	inhibitor
+T26	Category 601 610	substrate
+T27	Chemical 611 618	glucose
+T28	Parameter 624 626	Ki
+T29	Value 634 640	100 nM
+T30	Value 658 670	million-fold
+T31	Parameter 685 687	KM
+T32	Chemical 692 699	glucose
+T33	Technique 705 727	X-ray crystallographic
+T34	Geometrical_part 728 737	structure
+T35	Protein 741 757	xylose isomerase
+T36	Chemical 763 766	THA
+T37	Unknown 783 791	crystals
+T38	Parameter 793 806	concentration
+T39	Value 809 815	1000Ki
+T40	Value 833 838	1.6-A
+T41	Parameter 839 849	resolution
+T42	Parameter 868 876	R factor
+T43	Value 880 885	21.6%
+T44	Protein 896 902	enzyme
+T45	Protein 911 917	enzyme
+T46	Chemical 925 945	xylose isomerase-THA
+T47	Category 946 953	complex
+T48	Process 985 996	differences
+T49	Chemical 998 1001	THA
+T50	Chemical 1035 1042	glucose
+T51	State 1056 1068	conformation
+T52	Category 1078 1085	ligands
+T53	Chemical 1091 1095	Mg-1
+T54	Chemical 1100 1104	Mg-2
+T55	Chemical 1109 1123	hydrogen bonds
+T56	Protein_part 1129 1134	His53
+T57	Protein_part 1139 1145	Lys182
+T58	Process 1154 1159	basis
+T59	Process 1169 1181	similarities
+T60	Chemical 1185 1192	glucose
+T61	Process 1193 1200	binding
+T62	Process 1217 1227	inhibition
+T63	Chemical 1245 1248	THA
+T64	State 1263 1279	transition state
+T65	Protein 1288 1294	enzyme
+T66	Chemical 1305 1312	hydride
+T67	Process 1313 1321	transfer
+T68	Process 1322 1330	reaction
+T69	Chemical 1336 1351	THA C2 hydroxyl
+T70	Category 1370 1376	ligand
+T71	Chemical 1385 1389	Mg-1
+T72	Chemical 1394 1398	Mg-2
+T73	Process 1474 1492	catalytic reaction
+T74	Protein_part 1494 1496	C2
+T75	Category 1504 1513	substrate
+T76	Chemical 1514 1521	glucose
+T77	Molecule 1527 1533	proton
+T78	Chemical 1580 1591	C1 hydroxyl
+T79	Chemical 1609 1616	hydride
+T80	Process 1617 1625	transfer
+T81	Chemical 1648 1653	metal
+T82	Process 1654 1662	movement
+T83	Process 1670 1679	catalysis
+T84	Process 1686 1699	deprotonation
+T85	Chemical 1707 1718	C2 hydroxyl
+T86	Process 1729 1738	formation
+T87	Category 1753 1759	ligand

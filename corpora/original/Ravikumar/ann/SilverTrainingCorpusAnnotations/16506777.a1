@@ -1,0 +1,71 @@
+T1	Process 4 15	deacylation
+T2	Process 16 25	mechanism
+T3	Protein 29 48	AmpC beta-lactamase
+T4	Parameter 62 72	resolution
+T5	Protein 74 89	Beta-lactamases
+T6	Organism 97 106	bacterial
+T7	Parameter 107 117	resistance
+T8	Chemical 121 144	beta-lactam antibiotics
+T9	Chemical 154 165	penicillins
+T10	Protein 186 213	class C beta-lactamase AmpC
+T11	Process 228 236	reaction
+T12	Protein_part 254 262	residues
+T13	Protein_part 273 278	Ser64
+T14	Protein_part 280 286	Tyr150
+T15	Protein_part 292 297	Lys67
+T16	Value 319 325	1.07 A
+T17	Technique 326 348	X-ray crystallographic
+T18	Geometrical_part 349 358	structure
+T19	Protein 362 381	AmpC beta-lactamase
+T20	Category 385 392	complex
+T21	Chemical 408 412	acid
+T22	Process 413 424	deacylation
+T23	State 425 441	transition-state
+T24	Unknown 442 450	analogue
+T25	Molecule 476 484	electron
+T26	Parameter 485 492	density
+T27	Molecule 530 536	proton
+T28	Molecule 552 558	proton
+T29	Chemical 566 581	Tyr150 hydroxyl
+T30	Molecular_Part 582 587	group
+T31	Chemical 637 643	oxygen
+T32	Process 658 669	deacylation
+T33	Chemical 670 675	water
+T34	Chemical 688 708	Lys67 hydrogen bonds
+T35	Chemical 714 725	Ser64Ogamma
+T36	Chemical 727 740	Asn152Odelta1
+T37	Chemical 759 765	oxygen
+T38	Protein_part 769 775	Ala220
+T39	Protein_part 801 808	residue
+T40	Chemical 856 869	hydrogen bond
+T41	Protein_part 875 881	Tyr150
+T42	Protein 894 905	acyl-enzyme
+T43	Category 906 913	complex
+T44	Geometrical_part 914 924	structures
+T45	Technique 965 968	NMR
+T46	Protein_part 1011 1017	Tyr150
+T47	Process 1047 1055	reaction
+T48	Process 1080 1090	mechanisms
+T49	Protein_part 1113 1123	tyrosinate
+T50	Chemical 1131 1143	general base
+T51	Process 1148 1159	deacylation
+T52	Chemical 1173 1181	hydroxyl
+T53	Protein_part 1185 1191	Tyr150
+T54	Value 1257 1265	negative
+T55	Parameter 1266 1272	charge
+T56	Molecule 1312 1324	intermediate
+T57	Unknown 1331 1340	structure
+T58	Process 1379 1388	mechanism
+T59	Protein_part 1406 1412	Tyr150
+T60	Process 1453 1464	conjunction
+T61	Protein_part 1480 1485	Lys67
+T62	Chemical 1493 1508	lactam nitrogen
+T63	Chemical 1517 1529	general base
+T64	Process 1539 1550	mutagenesis
+T65	Protein_part 1572 1577	Lys67
+T66	Chemical 1600 1608	arginine
+T67	Chemical 1626 1640	conjugate base
+T68	Process 1641 1650	mechanism
+T69	Unknown 1749 1754	pK(a)
+T70	Protein_part 1758 1763	Lys67
+T71	Process 1774 1782	reaction

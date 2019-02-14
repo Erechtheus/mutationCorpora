@@ -1,0 +1,87 @@
+T1	Molecule 22 29	mutants
+T2	Protein 37 45	lysozyme
+T3	Organism 49 65	bacteriophage T4
+T4	Parameter 71 82	temperature
+T5	Protein 93 107	mutant protein
+T6	Protein_part 108 121	Thr157----Ile
+T7	Process 141 146	roles
+T8	Protein_part 161 172	amino acids
+T9	Process 180 187	folding
+T10	State 192 201	stability
+T11	Protein 214 222	proteins
+T12	Technique 248 256	analysis
+T13	Molecule 260 267	mutants
+T14	Protein 275 283	lysozyme
+T15	Organism 287 303	bacteriophage T4
+T16	Process 329 338	isolation
+T17	Process 340 356	characterization
+T18	Technique 358 374	crystallographic
+T19	Process 375 385	refinement
+T20	Technique 401 409	analysis
+T21	Parameter 415 426	temperature
+T22	Protein 437 445	lysozyme
+T23	Protein_part 455 464	threonine
+T24	Protein_part 465 468	157
+T25	Protein_part 484 494	isoleucine
+T26	Process 519 527	mutation
+T27	Parameter 540 551	temperature
+T28	Process 586 606	thermal denaturation
+T29	Process 607 617	transition
+T30	Unknown 624 629	deg.C
+T31	Parameter 633 635	pH
+T32	Value 636 639	2.0
+T33	Molecule 641 649	Electron
+T34	Parameter 650 657	density
+T35	Process 671 682	differences
+T36	Technique 709 716	mutant 
+T37	Molecule 716 721	X-ray
+T38	Process 784 796	substitution
+T39	Protein_part 800 813	threonine 157
+T40	Protein_part 817 827	isoleucine
+T41	Process 845 855	difference
+T42	Molecule 856 864	electron
+T43	Parameter 865 872	density
+T44	Molecule 897 905	molecule
+T45	Process 938 945	changes
+T46	Protein_part 967 971	site
+T47	Process 979 987	mutation
+T48	Technique 1005 1021	crystallographic
+T49	Process 1022 1032	refinement
+T50	Protein 1040 1055	mutant lysozyme
+T51	Geometrical_part 1056 1065	structure
+T52	Protein 1102 1120	wild-type lysozyme
+T53	State 1134 1148	conformational
+T54	Process 1149 1160	differences
+T55	Chemical 1172 1184	gamma-carbon
+T56	Protein_part 1188 1199	residue 157
+T57	Protein_part 1211 1221	side-chain
+T58	Protein_part 1225 1231	Asp159
+T59	Process 1239 1244	shift
+T60	Value 1245 1250	1.0 A
+T61	Value 1255 1260	1.1 A
+T62	Protein 1283 1299	wild-type enzyme
+T63	Chemical 1305 1319	gamma-hydroxyl
+T64	Molecular_Part 1320 1325	group
+T65	Protein_part 1329 1335	Thr157
+T66	Physiology 1354 1361	network
+T67	Chemical 1365 1380	hydrogen  bonds
+T68	Process 1382 1394	Substitution
+T69	Protein_part 1398 1404	Thr157
+T70	Protein_part 1413 1423	isoleucine
+T71	Chemical 1445 1459	hydrogen bonds
+T72	Chemical 1463 1477	water molecule
+T73	Location 1491 1499	vicinity
+T74	Protein_part 1503 1509	Thr155
+T75	Chemical 1533 1546	hydrogen bond
+T76	Physiology 1547 1554	network
+T77	Unknown 1562 1578	mutant structure
+T78	Chemical 1595 1611	main-chain amide
+T79	Protein_part 1615 1621	Asp159
+T80	Chemical 1636 1649	hydrogen bond
+T81	Category 1650 1658	acceptor
+T82	Chemical 1677 1685	hydrogen
+T83	Parameter 1694 1703	potential
+T84	Process 1739 1748	reduction
+T85	State 1752 1761	stability
+T86	Parameter 1769 1780	temperature
+T87	Protein 1791 1805	mutant protein

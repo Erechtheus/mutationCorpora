@@ -1,0 +1,109 @@
+T1	Unknown 0 9	Structure
+T2	Technique 19 27	analysis
+T3	Protein 38 49	phosphatase
+T4	Protein_part 50 59	component
+T5	Protein 63 100	T4 polynucleotide  kinase/phosphatase
+T6	Protein 102 145	T4 polynucleotide kinase/phosphatase (Pnkp)
+T7	Unknown 160 166	family
+T8	Protein 184 191	enzymes
+T9	Protein 197 206	5'-kinase
+T10	Protein 214 225	phosphatase
+T11	Parameter 226 236	activities
+T12	Chemical 254 266	nucleic acid
+T13	Process 267 273	repair
+T14	Protein 275 282	T4 Pnkp
+T15	Protein 288 300	homotetramer
+T16	Value 306 312	301-aa
+T17	Protein_part 313 324	polypeptide
+T18	Protein 347 364	N-terminal kinase
+T19	Protein_part 365 371	domain
+T20	Protein 379 416	P-loop phosphotransferase superfamily
+T21	Protein 423 445	C-terminal phosphatase
+T22	Protein_part 446 452	domain
+T23	Protein 460 491	DxD acylphosphatase superfamily
+T24	Protein 497 509	homotetramer
+T25	Protein 533 556	phosphatase-phosphatase
+T26	Protein 561 584	kinase-kinase homodimer
+T27	Location 619 623	side
+T28	Unknown 624 637	chains-Asp187
+T29	Protein_part 639 645	Ser211
+T30	Protein_part 647 653	Lys258
+T31	Unknown 659 670	Asp277-that
+T32	Protein 691 702	phosphatase
+T33	Parameter 703 711	activity
+T34	Protein_part 713 720	Alanine
+T35	Process 721 730	mutations
+T36	Protein 760 771	phosphatase
+T37	Parameter 772 780	activity
+T38	Protein 799 805	kinase
+T39	Process 806 814	function
+T40	Process 819 834	tetramerization
+T41	Process 849 862	substitutions
+T42	Protein_part 866 876	asparagine
+T43	Chemical 880 889	glutamate
+T44	Protein_part 894 900	Asp187
+T45	Protein 923 934	phosphatase
+T46	Chemical 944 952	arginine
+T47	Chemical 956 965	glutamine
+T48	Process 966 979	substitutions
+T49	Protein_part 984 990	Lys258
+T50	Protein_part 992 1001	Threonine
+T51	Protein_part 1013 1019	Ser211
+T52	Chemical 1024 1033	glutamate
+T53	Protein_part 1045 1051	Asp277
+T54	Parameter 1066 1074	activity
+T55	Protein_part 1084 1094	asparagine
+T56	Location 1098 1110	position 277
+T57	Process 1127 1133	effect
+T58	Value 1147 1152	3.0 A
+T59	Geometrical_part 1153 1170	crystal structure
+T60	Protein 1178 1191	Pnkp tetramer
+T61	Chemical 1204 1215	sulfate ion
+T62	Protein_part 1239 1245	Arg246
+T63	Protein_part 1250 1256	Arg279
+T64	Category 1287 1293	mimics
+T65	Chemical 1317 1332	phosphodiesters
+T66	Unknown 1334 1345	5'NpNpNp-3'
+T67	Chemical 1354 1368	polynucleotide
+T68	Unknown 1369 1377	3'-PO(4)
+T69	Category 1378 1387	substrate
+T70	Process 1458 1477	catalytic mechanism
+T71	Protein 1486 1497	phosphatase
+T72	Process 1521 1530	catalysis
+T73	Protein_part 1536 1542	Asp165
+T74	Protein 1553 1562	acid-base
+T75	Process 1563 1572	catalysis
+T76	Protein_part 1578 1584	Asp167
+T77	Chemical 1587 1592	metal
+T78	Process 1594 1606	coordination
+T79	Protein_part 1611 1617	Asp165
+T80	Protein_part 1619 1625	Asp277
+T81	Protein_part 1630 1636	Asp278
+T82	State 1643 1659	transition state
+T83	Process 1660 1673	stabilization
+T84	Protein_part 1679 1685	Lys258
+T85	Protein_part 1687 1693	Ser211
+T86	Chemical 1704 1710	amides
+T87	Chemical 1720 1735	divalent cation
+T88	Protein_part 1753 1764	side chains
+T89	Process 1784 1789	roles
+T90	Protein_part 1791 1797	Arg176
+T91	Protein_part 1799 1805	Asp187
+T92	Protein_part 1807 1813	Arg213
+T93	Protein_part 1815 1821	Asp254
+T94	Molecular_Part 1827 1832	probe
+T95	Process 1837 1841	role
+T96	Process 1845 1860	oligomerization
+T97	Protein 1864 1875	phosphatase
+T98	Process 1876 1884	function
+T99	Protein_part 1904 1918	double-alanine
+T100	Process 1927 1936	mutations
+T101	Protein 1944 1967	phosphatase-phosphatase
+T102	Protein_part 1968 1974	domain
+T103	Protein_part 2000 2011	R297A-Q295A
+T104	Protein_part 2016 2027	E292A-D300A
+T105	Protein 2039 2043	Pnkp
+T106	Protein 2051 2059	tetramer
+T107	Protein 2065 2070	dimer
+T108	Protein 2083 2094	phosphatase
+T109	Parameter 2095 2103	activity

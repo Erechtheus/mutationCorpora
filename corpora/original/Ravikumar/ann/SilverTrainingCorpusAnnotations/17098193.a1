@@ -1,0 +1,55 @@
+T1	Chemical 0 19	Solution structures
+T2	Protein_part 27 39	SURP domains
+T3	Process 65 74	mechanism
+T4	Protein 86 106	splicing factor SF3a
+T5	Category 107 114	complex
+T6	Value 118 124	17S U2
+T7	Protein 125 130	snRNP
+T8	Unknown 136 140	SF3a
+T9	Category 141 148	complex
+T10	Unknown 164 170	SF3a60
+T11	Unknown 172 178	SF3a66
+T12	Unknown 184 191	SF3a120
+T13	Value 196 202	17S U2
+T14	Protein 203 208	snRNP
+T15	Process 236 244	assembly
+T16	Unknown 246 253	SF3a120
+T17	Protein_part 274 286	SURP domains
+T18	Protein_part 288 293	SURP1
+T19	Protein_part 298 303	SURP2
+T20	Protein_part 310 315	SURP2
+T21	Process 335 342	binding
+T22	Unknown 346 352	SF3a60
+T23	Unknown 372 386	SURP2 fragment
+T24	Category 402 409	complex
+T25	Unknown 418 433	SF3a60 fragment
+T26	Protein_part 435 450	residues 71-107
+T27	Geometrical_part 463 476	its structure
+T28	Technique 480 496	NMR spectroscopy
+T29	Protein_part 498 503	SURP2
+T30	Geometrical_part 515 519	fold
+T31	Protein 527 553	alpha1-alpha2-3(10)-alpha3
+T32	Unknown 572 587	SF3a60 fragment
+T33	Protein_part 609 620	alpha helix
+T34	Protein 643 649	alpha1
+T35	Protein_part 653 658	SURP2
+T36	Protein 679 684	SURP1
+T37	Geometrical_part 685 694	structure
+T38	Geometrical_part 715 719	fold
+T39	Protein_part 723 728	SURP2
+T40	Protein 734 741	protein
+T41	Protein_part 763 768	SURP2
+T42	Geometrical_part 807 814	surface
+T43	Protein 818 823	SURP1
+T44	Protein_part 840 859	amino acid residues
+T45	Protein_part 874 880	Leu169
+T46	Protein_part 903 916	SF3a120 SURP2
+T47	Protein_part 923 935	SURP domains
+T48	Physiology 937 948	Mutagenesis
+T49	Protein_part 973 984	Leu residue
+T50	Process 1025 1034	formation
+T51	Protein 1054 1061	protein
+T52	Process 1062 1073	recognition
+T53	Process 1074 1083	mechanism
+T54	Protein 1091 1098	subunit
+T55	Process 1099 1107	assembly

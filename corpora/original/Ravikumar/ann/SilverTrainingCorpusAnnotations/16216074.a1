@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Technique 18 26	analysis
+T3	Chemical 30 63	phosphatidylcholine-GM2-activator
+T4	Category 64 71	product
+T5	Category 72 81	complexes
+T6	Protein 96 105	hydrolase
+T7	Parameter 106 114	activity
+T8	Protein 116 145	GM2-activator protein (GM2AP)
+T9	Body_part 151 160	lysosomal
+T10	Chemical 161 166	lipid
+T11	Protein 167 183	transfer protein
+T12	Process 210 215	roles
+T13	Chemical 219 230	ganglioside
+T14	Physiology 231 241	catabolism
+T15	Chemical 243 255	phospholipid
+T16	Process 256 266	metabolism
+T17	Body_part 272 278	T-cell
+T18	Process 279 289	activation
+T19	Geometrical_part 311 329	crystal structures
+T20	Protein 333 338	GM2AP
+T21	Category 373 379	ligand
+T22	Protein 380 383	GM2
+T23	Protein 388 420	platelet activating factor (PAF)
+T24	Process 432 439	binding
+T25	Geometrical_part 493 499	pocket
+T26	Process 516 522	effect
+T27	Chemical 546 552	lipids
+T28	Process 584 589	basis
+T29	Chemical 593 605	phospholipid
+T30	Process 606 613	binding
+T31	Protein 623 628	GM2AP
+T32	Chemical 653 677	phosphatidylcholine (PC)
+T33	Protein 702 707	GM2AP
+T34	Technique 709 717	Analysis
+T35	Unknown 727 734	crystal
+T36	Process 750 757	binding
+T37	Chemical 768 780	chain lipids
+T38	Chemical 785 796	fatty acids
+T39	Chemical 830 832	PC
+T40	Protein_part 838 845	regions
+T41	Molecule 862 870	electron
+T42	Parameter 871 878	density
+T43	Process 903 911	presence
+T44	Chemical 915 922	lyso-PC
+T45	Chemical 927 937	oleic acid
+T46	Process 956 967	deacylation
+T47	Category 968 976	products
+T48	Chemical 980 982	PC
+T49	Protein_part 990 1000	acyl tails
+T50	Process 1017 1024	contact
+T51	Molecular_Part 1057 1066	stretches
+T52	Molecule 1070 1078	electron
+T53	Parameter 1079 1086	density
+T54	Chemical 1115 1126	fatty acids
+T55	Protein 1132 1137	GM2AP
+T56	Parameter 1160 1168	activity
+T57	Chemical 1184 1191	lyso-PC
+T58	Technique 1217 1234	mass spectrometry
+T59	Protein 1239 1248	enzymatic
+T60	Technique 1249 1255	assays
+T61	Unknown 1284 1294	structures
+T62	Protein_part 1302 1314	mutant Y137S
+T63	Process 1330 1334	role
+T64	Protein_part 1338 1344	Tyr137
+T65	Chemical 1348 1353	lipid
+T66	Process 1354 1362	transfer
+T67	Geometrical_part 1383 1388	cleft
+T68	Protein 1409 1414	GM2AP
+T69	Geometrical_part 1440 1446	pocket
+T70	Process 1466 1473	opening
+T71	Process 1539 1548	functions
+T72	Protein 1552 1557	GM2AP
+T73	Process 1572 1578	effect
+T74	Chemical 1598 1603	lipid
+T75	Process 1604 1612	transfer
+T76	Parameter 1613 1623	properties
+T77	Process 1637 1649	implications
+T78	Body_part 1653 1661	cellular
+T79	Process 1662 1671	signaling

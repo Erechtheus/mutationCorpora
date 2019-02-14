@@ -1,0 +1,70 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 28 38	eukaryotic
+T3	Protein 39 64	iron superoxide dismutase
+T4	Protein 74 86	intersubunit
+T5	Process 87 98	cooperation
+T6	Process 106 115	catalysis
+T7	Protein 117 145	Superoxide dismutases (SODs)
+T8	Unknown 152 158	family
+T9	Protein 162 176	metalloenzymes
+T10	Process 195 206	dismutation
+T11	Chemical 210 235	superoxide anion radicals
+T12	Chemical 241 257	molecular oxygen
+T13	Chemical 262 279	hydrogen peroxide
+T14	Protein 281 307	Iron superoxide dismutases
+T15	Protein 309 315	FeSODs
+T16	Organism 344 355	prokaryotes
+T17	Organism 360 366	plants
+T18	Protein 392 397	FeSOD
+T19	Body_part 414 425	subcellular
+T20	Process 426 438	localization
+T21	Organism 475 498	plant Vigna unguiculata
+T22	Organism 500 506	cowpea
+T23	Protein 514 521	protein
+T24	Protein 537 546	homodimer
+T25	Unknown 577 584	members
+T26	Protein 592 602	SOD family
+T27	Body_part 624 631	cytosol
+T28	Geometrical_part 637 654	crystal structure
+T29	Protein 675 681	enzyme
+T30	Value 723 729	1.97 A
+T31	Parameter 730 740	resolution
+T32	Chemical 746 762	superoxide anion
+T33	Process 763 770	binding
+T34	Protein_part 771 775	site
+T35	Geometrical_part 792 797	cleft
+T36	Protein 812 817	dimer
+T37	Process 833 845	coordination
+T38	Geometrical_part 846 854	geometry
+T39	Protein_part 862 869	Fe site
+T40	Process 906 917	arrangement
+T41	Location 925 930	axial
+T42	Category 931 938	ligands
+T43	Protein_part 943 948	His43
+T44	Chemical 955 971	solvent molecule
+T45	Category 992 999	ligands
+T46	Protein_part 1004 1009	His95
+T47	Protein_part 1011 1017	Asp195
+T48	Protein_part 1023 1029	His199
+T49	Process 1033 1043	comparison
+T50	Organism 1074 1080	cowpea
+T51	Protein 1081 1086	FeSOD
+T52	Protein 1112 1116	SODs
+T53	Process 1133 1144	differences
+T54	Protein 1162 1175	metal-protein
+T55	Process 1176 1188	interactions
+T56	Process 1207 1216	existence
+T57	Protein_part 1224 1231	regions
+T58	Category 1264 1273	substrate
+T59	Category 1278 1285	product
+T60	Chemical 1308 1310	Fe
+T61	Process 1311 1318	binding
+T62	Protein_part 1319 1323	site
+T63	Protein 1344 1349	dimer
+T64	Process 1378 1390	conservation
+T65	Process 1405 1417	interactions
+T66	Protein 1426 1434	monomers
+T67	Protein_part 1450 1462	active sites
+T68	Protein 1481 1488	subunit
+T69	Process 1489 1500	cooperation
+T70	Process 1508 1517	catalysis

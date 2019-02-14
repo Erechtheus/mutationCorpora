@@ -1,0 +1,66 @@
+T1	Process 0 10	Inhibition
+T2	Protein 14 28	beta-lactamase
+T3	Chemical 32 43	clavulanate
+T4	Molecule 53 66	intermediates
+T5	Technique 100 116	Crystallographic
+T6	Category 132 139	complex
+T7	Protein 148 162	beta-lactamase
+T8	Chemical 167 178	clavulanate
+T9	Unknown 188 197	structure
+T10	Protein 205 217	acyl-enzymes
+T11	Chemical 223 237	covalent bonds
+T12	Protein_part 245 262	active site Ser70
+T13	Process 281 290	different
+T14	Category 301 310	inhibitor
+T15	Process 311 322	degradation
+T16	Protein_part 349 360	active site
+T17	Molecule 432 440	electron
+T18	Parameter 441 448	density
+T19	Value 468 473	2.2 A
+T20	Parameter 474 484	resolution
+T21	Chemical 486 497	cis enamine
+T22	Chemical 512 523	carboxylate
+T23	Molecular_Part 524 529	group
+T24	Chemical 537 557	clavulanate molecule
+T25	Chemical 566 578	salt  bridge
+T26	Protein_part 584 590	Lys234
+T27	Protein 594 608	beta-lactamase
+T28	Chemical 625 638	trans enamine
+T29	Protein_part 668 674	Lys234
+T30	Protein 685 697	acyl-enzymes
+T31	Chemical 703 723	carbonyl oxygen atom
+T32	Chemical 731 736	ester
+T33	Molecular_Part 737 742	group
+T34	Chemical 756 764	oxyanion
+T35	Category 807 816	inhibitor
+T36	Protein 828 844	serine proteases
+T37	Chemical 858 869	oxygen atom
+T38	Geometrical_part 877 882	trans
+T39	Category 883 890	product
+T40	Chemical 922 930	oxyanion
+T41	Geometrical_part 949 952	cis
+T42	Category 953 960	product
+T43	Chemical 978 1002	main-chain nitrogen atom
+T44	Protein_part 1006 1011	Ser70
+T45	Chemical 1020 1036	beta-carbon atom
+T46	Location 1044 1052	adjacent
+T47	Protein_part 1053 1058	Ala69
+T48	Geometrical_part 1075 1078	cis
+T49	Geometrical_part 1082 1087	trans
+T50	Process 1088 1101	isomerization
+T51	Chemical 1105 1113	solution
+T52	Geometrical_part 1132 1138	steric
+T53	Parameter 1139 1145	strain
+T54	Geometrical_part 1160 1163	cis
+T55	Chemical 1164 1175	double bond
+T56	Protein 1226 1233	factors
+T57	Process 1252 1256	role
+T58	Chemical 1262 1273	salt bridge
+T59	State 1287 1296	stability
+T60	Geometrical_part 1304 1307	cis
+T61	Category 1308 1315	product
+T62	Geometrical_part 1327 1333	steric
+T63	Parameter 1334 1340	strain
+T64	Process 1365 1373	contacts
+T65	Protein 1383 1390	protein
+T66	State 1403 1412	stability

@@ -1,0 +1,44 @@
+T1	Process 11 16	basis
+T2	Protein_part 21 44	phosphotyrosine peptide
+T3	Process 45 56	recognition
+T4	Protein 60 91	protein tyrosine phosphatase 1B
+T5	Geometrical_part 97 115	crystal structures
+T6	Protein_part 121 133	cysteine-215
+T7	Protein_part 136 142	serine
+T8	Molecule 143 149	mutant
+T9	Protein 153 184	protein tyrosine phosphatase 1B
+T10	Protein_part 214 221	peptide
+T11	Category 222 232	substrates
+T12	Process 253 272	autophosphorylation
+T13	Protein_part 273 277	site
+T14	Protein 285 308	epidermal growth factor
+T15	Protein 309 317	receptor
+T16	Protein_part 335 342	Peptide
+T17	Protein 358 377	protein phosphatase
+T18	State 399 413	conformational
+T19	Process 414 420	change
+T20	Geometrical_part 426 433	surface
+T21	Geometrical_part 434 438	loop
+T22	Chemical 454 469	phosphotyrosine
+T23	Process 470 481	recognition
+T24	Geometrical_part 482 488	pocket
+T25	Protein 539 545	enzyme
+T26	Chemical 552 567	phosphotyrosine
+T27	Protein_part 568 578	side chain
+T28	Parameter 600 606	period
+T29	Protein_part 623 630	peptide
+T30	Category 631 640	substrate
+T31	Process 648 655	binding
+T32	Protein_part 656 660	site
+T33	Chemical 662 676	Hydrogen bonds
+T34	Protein_part 685 692	peptide
+T35	Chemical 693 709	main-chain atoms
+T36	Protein 718 725	protein
+T37	Parameter 740 756	binding affinity
+T38	Process 771 783	interactions
+T39	Protein_part 787 802	acidic residues
+T40	Protein_part 810 817	peptide
+T41	Protein_part 823 837	basic residues
+T42	Geometrical_part 845 852	surface
+T43	Protein 860 866	enzyme
+T44	Protein_part 874 882	sequence

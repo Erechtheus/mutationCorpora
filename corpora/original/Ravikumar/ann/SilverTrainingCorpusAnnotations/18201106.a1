@@ -1,0 +1,63 @@
+T1	Process 0 7	Binding
+T2	Process 12 21	reduction
+T3	Chemical 25 32	sulfite
+T4	Protein 36 66	cytochrome c nitrite reductase
+T5	Protein 68 116	Pentaheme cytochrome c nitrite reductase (ccNiR)
+T6	Process 144 153	reduction
+T7	Chemical 157 164	nitrite
+T8	Chemical 168 175	ammonia
+T9	Process 215 222	pathway
+T10	Chemical 226 233	nitrate
+T11	Process 234 248	ammonification
+T12	Chemical 283 290	sulfite
+T13	Chemical 294 301	sulfide
+T14	Process 331 335	link
+T15	Chemical 373 381	nitrogen
+T16	Chemical 390 396	sulfur
+T17	Protein 416 433	sulfite reductase
+T18	Parameter 434 442	activity
+T19	Protein 446 451	ccNiR
+T20	Organism 457 466	Wolinella
+T21	Protein 467 479	succinogenes
+T22	Protein 517 534	nitrite reductase
+T23	Parameter 535 543	activity
+T24	Value 555 568	several times
+T25	Protein 638 656	sulfite reductases
+T26	Protein 673 690	sulfite reductase
+T27	Parameter 691 699	activity
+T28	Protein 703 708	ccNiR
+T29	Chemical 735 742	nitrite
+T30	Process 743 752	reduction
+T31	Process 772 779	binding
+T32	Chemical 788 795	sulfite
+T33	Chemical 813 817	heme
+T34	Protein 828 833	ccNiR
+T35	Protein 839 854	W. succinogenes
+T36	Parameter 860 870	resolution
+T37	Value 874 879	1.7 A
+T38	Chemical 881 888	Sulfite
+T39	Chemical 893 900	nitrite
+T40	Molecule 924 933	electrons
+T41	Chemical 959 963	bond
+T42	Protein_part 971 990	Fe(III) active site
+T43	Protein 998 1004	enzyme
+T44	Chemical 1014 1026	oxygen atoms
+T45	Chemical 1030 1037	sulfite
+T46	Protein_part 1075 1086	active site
+T47	Protein 1087 1094	protein
+T48	Protein_part 1095 1103	residues
+T49	Protein 1125 1138	enzyme family
+T50	Protein_part 1179 1204	active site variant Y218F
+T51	Protein 1208 1213	ccNiR
+T52	Process 1248 1252	loss
+T53	Protein 1257 1274	nitrite reductase
+T54	Parameter 1275 1283	activity
+T55	Chemical 1291 1298	sulfite
+T56	Process 1299 1308	reduction
+T57	Process 1364 1371	insight
+T58	Process 1381 1385	role
+T59	Protein 1409 1416	protein
+T60	Category 1418 1425	ligands
+T61	Protein_part 1433 1444	active site
+T62	Protein 1448 1453	ccNiR
+T63	Process 1454 1463	catalysis

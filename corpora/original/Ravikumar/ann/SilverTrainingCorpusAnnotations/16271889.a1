@@ -1,0 +1,35 @@
+T1	Organism 0 6	Bovine
+T2	Body_part 7 20	mitochondrial
+T3	Protein 21 38	peroxiredoxin III
+T4	Geometrical_part 68 85	crystal structure
+T5	Protein_part 106 118	C168S mutant
+T6	Protein 132 165	2-Cys peroxiredoxin III (Prx III)
+T7	Organism 171 177	bovine
+T8	Body_part 178 190	mitochondria
+T9	Parameter 196 206	resolution
+T10	Value 210 215	3.3 A
+T11	Protein 217 224	Prx III
+T12	Geometrical_part 245 249	ring
+T13	Location 369 377	external
+T14	Parameter 378 386	diameter
+T15	Value 390 395	150 A
+T16	Body_part 414 428	central cavity
+T17	Value 437 441	70 A
+T18	Parameter 445 450	width
+T19	Protein 469 479	dodecamers
+T20	Parameter 499 504	angle
+T21	Value 508 518	55 degrees
+T22	Process 544 551	contact
+T23	Geometrical_part 552 559	surface
+T24	Geometrical_part 572 577	rings
+T25	Protein 579 590	Dimer-dimer
+T26	Process 591 599	contacts
+T27	Process 620 629	formation
+T28	Parameter 672 677	areas
+T29	Process 681 688	contact
+T30	Geometrical_part 709 714	rings
+T31	Process 732 744	interactions
+T32	Protein 771 778	subunit
+T33	Process 779 790	interaction
+T34	Process 832 842	mechanisms
+T35	Process 855 864	formation

@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 50	gamma-glutamyltranspeptidase
+T3	Organism 56 72	Escherichia coli
+T4	Protein 80 86	enzyme
+T5	Chemical 90 101	glutathione
+T6	Process 102 112	metabolism
+T7	Process 122 130	reaction
+T8	Molecule 131 143	intermediate
+T9	Protein 145 179	Gamma-glutamyltranspeptidase (GGT)
+T10	Protein 197 203	enzyme
+T11	Unknown 231 240	precursor
+T12	Protein 241 248	protein
+T13	Process 304 314	hydrolysis
+T14	Chemical 318 338	gamma-glutamyl bonds
+T15	Chemical 342 366	gamma-glutamyl compounds
+T16	Chemical 375 386	glutathione
+T17	Process 398 406	transfer
+T18	Chemical 414 428	gamma-glutamyl
+T19	Molecular_Part 429 434	group
+T20	Protein_part 444 455	amino acids
+T21	Protein_part 461 469	peptides
+T22	Geometrical_part 494 511	crystal structure
+T23	Protein 515 518	GGT
+T24	Organism 524 540	Escherichia coli
+T25	Unknown 541 545	K-12
+T26	Value 549 555	1.95 A
+T27	Parameter 556 566	resolution
+T28	Protein 568 571	GGT
+T29	Geometrical_part 605 609	fold
+T30	Protein 635 649	small subunits
+T31	Geometrical_part 666 671	folds
+T32	Unknown 680 687	members
+T33	Protein 696 740	N-terminal nucleophile hydrolase superfamily
+T34	Protein_part 746 765	active site Thr-391
+T35	Protein_part 771 789	N-terminal residue
+T36	Protein 797 810	small subunit
+T37	Geometrical_part 830 836	groove
+T38	Geometrical_part 853 859	pocket
+T39	Chemical 864 878	gamma-glutamyl
+T40	Molecular_Part 879 885	moiety
+T41	Process 886 893	binding
+T42	Geometrical_part 935 944	structure
+T43	Protein 952 986	gamma-glutamyl-enzyme intermediate
+T44	Protein 1017 1020	GGT
+T45	Geometrical_part 1021 1028	crystal
+T46	Chemical 1039 1059	glutathione solution
+T47	Geometrical_part 1068 1077	structure
+T48	Protein 1081 1084	GGT
+T49	Category 1088 1095	complex
+T50	Chemical 1101 1112	l-glutamate
+T51	Unknown 1120 1130	structures
+T52	Chemical 1148 1162	gamma-glutamyl
+T53	Molecular_Part 1163 1169	moiety
+T54	Chemical 1174 1185	l-glutamate
+T55	Protein 1208 1214	enzyme
+T56	Chemical 1218 1232	water molecule
+T57	Chemical 1249 1264	carbonyl carbon
+T58	Chemical 1272 1306	gamma-glutamyl-Thr-391 Ogamma bond
+T59	Molecule 1314 1326	intermediate
+T60	Protein_part 1365 1373	residues
+T61	Protein 1388 1391	GGT
+T62	Parameter 1392 1400	activity
+T63	Protein_part 1402 1409	Arg-114
+T64	Protein_part 1411 1418	Asp-433
+T65	Protein_part 1420 1427	Ser-462
+T66	Protein_part 1433 1440	Ser-463
+T67	Organism 1444 1455	E. coli GGT
+T68	Technique 1466 1491	site-directed mutagenesis
+T69	Organism 1495 1500	human
+T70	Protein 1501 1504	GGT
+T71	Process 1529 1536	binding
+T72	Chemical 1544 1558	gamma-glutamyl
+T73	Molecular_Part 1559 1565	moiety
+T74	Unknown 1571 1580	structure
+T75	Organism 1584 1595	E. coli GGT
+T76	Protein_part 1626 1634	sequence
+T77	Process 1635 1644	alignment
+T78	Protein 1648 1652	GGTs
+T79	Protein 1705 1712	genetic
+T80	Protein 1727 1731	GGTs

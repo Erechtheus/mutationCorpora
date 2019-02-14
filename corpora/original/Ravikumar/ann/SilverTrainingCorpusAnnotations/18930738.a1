@@ -1,0 +1,76 @@
+T1	Unknown 2 11	D-pathway
+T2	Process 12 20	mutation
+T3	Organism 35 45	Paracoccus
+T4	Protein 46 72	denitrificans cytochrome c
+T5	Protein 73 80	oxidase
+T6	Protein_part 98 108	side-chain
+T7	Process 109 120	orientation
+T8	Chemical 144 153	glutamate
+T9	Protein_part 155 169	Asparagine 131
+T10	Location 188 208	cytoplasmic entrance
+T11	Unknown 216 225	D-pathway
+T12	Protein 229 238	subunit I
+T13	Organism 246 256	Paracoccus
+T14	Protein 257 289	denitrificans aa(3) cytochrome c
+T15	Protein 290 297	oxidase
+T16	Protein_part 304 311	residue
+T17	Molecule 324 330	proton
+T18	Chemical 360 369	aspartate
+T19	Protein 375 388	mutant enzyme
+T20	Protein 435 447	cytochrome c
+T21	Process 448 457	oxidation
+T22	Parameter 458 466	activity
+T23	Protein 480 492	pump protons
+T24	Physiology 503 512	phenotype
+T25	Process 539 552	substitutions
+T26	Protein_part 571 576	N131E
+T27	Protein_part 581 586	N131C
+T28	Process 612 623	replacement
+T29	Chemical 627 636	glutamine
+T30	Parameter 650 660	activities
+T31	Protein 668 674	enzyme
+T32	Protein 680 701	N131D variant oxidase
+T33	Geometrical_part 723 736	its structure
+T34	Value 751 757	2.32-A
+T35	Parameter 758 768	resolution
+T36	Process 803 809	change
+T37	Protein 817 824	protein
+T38	Geometrical_part 825 834	structure
+T39	Protein 858 872	wild type (WT)
+T40	Process 900 911	orientation
+T41	Protein_part 919 934	E278 side chain
+T42	Protein 954 956	WT
+T43	State 957 969	conformation
+T44	Process 992 1003	differences
+T45	Protein 1041 1046	chain
+T46	Chemical 1050 1065	water molecules
+T47	Unknown 1073 1082	D-pathway
+T48	Unknown 1101 1108	variant
+T49	Chemical 1115 1130	water molecules
+T50	Protein 1156 1167	water chain
+T51	Protein_part 1176 1180	N131
+T52	Protein_part 1185 1189	E278
+T53	Protein 1197 1199	WT
+T54	Geometrical_part 1200 1209	structure
+T55	Unknown 1233 1240	variant
+T56	Chemical 1280 1295	water molecules
+T57	Technique 1324 1341	Fourier transform
+T58	Process 1351 1361	difference
+T59	Parameter 1362 1369	spectra
+T60	Molecule 1383 1390	mutants
+T61	Process 1408 1419	protonation
+T62	State 1420 1425	state
+T63	Protein_part 1429 1433	E278
+T64	Process 1456 1465	mutations
+T65	Process 1490 1502	perturbation
+T66	Chemical 1510 1518	hydrogen
+T67	Unknown 1527 1538	environment
+T68	Protein_part 1547 1554	residue
+T69	Chemical 1591 1602	carboxylate
+T70	Protein_part 1603 1613	side chain
+T71	Protein_part 1621 1633	N131D mutant
+T72	Process 1711 1723	implications
+T73	Molecule 1728 1734	proton
+T74	Unknown 1755 1764	D-pathway
+T75	Protein 1768 1780	cytochrome c
+T76	Protein 1781 1788	oxidase

@@ -1,0 +1,98 @@
+T1	Process 18 23	basis
+T2	Process 31 50	catalytic mechanism
+T3	Process 59 69	regulation
+T4	Protein 77 90	alpha subunit
+T5	Protein 94 113	tryptophan synthase
+T6	Organism 119 141	Salmonella typhimurium
+T7	Protein 146 149	BX1
+T8	Organism 155 160	maize
+T9	Protein 189 196	enzymes
+T10	Chemical 198 204	Indole
+T11	Process 210 218	reaction
+T12	Molecule 219 231	intermediate
+T13	Process 261 269	pathways
+T14	Organism 273 278	maize
+T15	Process 306 316	metabolism
+T16	Protein 322 335	alpha-subunit
+T17	Protein 337 340	TSA
+T18	Protein 362 388	tryptophan synthase (TRPS)
+T19	Process 403 411	cleavage
+T20	Chemical 415 449	indole 3-glycerol phosphate  (IGP)
+T21	Chemical 453 459	indole
+T22	Chemical 464 498	d-glyceraldehyde 3-phosphate (G3P)
+T23	Chemical 514 520	indole
+T24	Geometrical_part 553 559	tunnel
+T25	Protein 567 571	beta
+T26	Protein_part 579 583	site
+T27	Protein_part 611 617	serine
+T28	Protein_part 626 636	tryptophan
+T29	Chemical 641 646	water
+T30	Organism 652 657	maize
+T31	Protein 658 664	enzyme
+T32	Protein 666 669	BX1
+T33	Protein 673 680	homolog
+T34	Protein 684 687	TSA
+T35	Chemical 702 705	IGP
+T36	Chemical 709 712	G3P
+T37	Chemical 717 723	indole
+T38	Chemical 733 739	indole
+T39	Chemical 764 815	2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one
+T40	Organism 829 834	plant
+T41	Chemical 835 845	metabolite
+T42	Protein 847 850	BX1
+T43	Chemical 859 862	IGP
+T44	Chemical 887 890	G3P
+T45	Chemical 895 901	indole
+T46	Protein 912 915	TSA
+T47	Process 936 945	different
+T48	Process 957 966	functions
+T49	Protein 999 1006	enzymes
+T50	Process 1103 1112	mechanism
+T51	Chemical 1116 1119	IGP
+T52	Process 1120 1128	cleavage
+T53	Protein 1132 1135	TSA
+T54	State 1163 1179	transition state
+T55	Unknown 1180 1188	analogue
+T56	Process 1210 1218	reaction
+T57	Chemical 1222 1235	2-aminophenol
+T58	Chemical 1240 1243	G3P
+T59	Geometrical_part 1249 1266	crystal structure
+T60	Category 1274 1281	complex
+T61	Unknown 1292 1295	sp3
+T62	Chemical 1307 1311	atom
+T63	Location 1333 1344	C3 position
+T64	Chemical 1348 1351	IGP
+T65	Unknown 1367 1377	alphaGlu49
+T66	Unknown 1407 1410	sp3
+T67	Chemical 1422 1426	atom
+T68	Chemical 1438 1446	hydroxyl
+T69	Molecular_Part 1447 1452	group
+T70	Molecule 1487 1493	proton
+T71	Category 1494 1499	donor
+T72	Category 1504 1512	acceptor
+T73	Protein 1520 1525	alpha
+T74	Protein_part 1557 1564	residue
+T75	Unknown 1566 1576	alphaAsp60
+T76	Chemical 1596 1600	atom
+T77	Chemical 1623 1639	indolyl nitrogen
+T78	Geometrical_part 1673 1685	loop alphaL6
+T79	Parameter 1709 1717	activity
+T80	State 1718 1730	conformation
+T81	Process 1732 1742	Comparison
+T82	Protein 1750 1753	TSA
+T83	Protein 1758 1761	TSA
+T84	State 1773 1778	state
+T85	Unknown 1779 1798	analogue structures
+T86	Geometrical_part 1808 1825	crystal structure
+T87	Protein 1829 1832	BX1
+T88	Parameter 1868 1872	rate
+T89	Protein 1876 1879	BX1
+T90	Process 1896 1909	stabilization
+T91	State 1917 1936	active conformation
+T92	Geometrical_part 1938 1950	loop alphaL6
+T93	Chemical 1979 1988	glutamate
+T94	State 1999 2018	active conformation
+T95	Process 2046 2058	substitution
+T96	Protein_part 2066 2074	residues
+T97	State 2094 2115	inactive conformation
+T98	Protein 2119 2123	TRPS

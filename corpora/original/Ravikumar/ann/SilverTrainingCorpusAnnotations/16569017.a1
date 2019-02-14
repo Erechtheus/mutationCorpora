@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Chemical 35 40	water
+T3	Protein 51 66	protein crambin
+T4	Chemical 70 100	dodecylphosphocholine micelles
+T5	Chemical 117 124	solvent
+T6	Geometrical_part 133 140	surface
+T7	Protein 151 158	crambin
+T8	Chemical 178 183	water
+T9	Protein 194 201	protein
+T10	Organism 231 236	seeds
+T11	Organism 244 267	plant Crambe abyssinica
+T12	Technique 284 287	NMR
+T13	Process 288 302	investigations
+T14	Body_part 307 315	membrane
+T15	Protein 327 335	proteins
+T16	Unknown 370 381	crambin(P22
+T17	Protein_part 382 386	L25)
+T18	Unknown 388 395	variant
+T19	Protein 399 406	crambin
+T20	Protein_part 418 423	Pro22
+T21	Protein_part 428 433	Leu25
+T22	Process 450 456	fusion
+T23	Organism 462 476	staphylococcal
+T24	Protein 477 485	nuclease
+T25	Protein 503 510	protein
+T26	Process 562 572	production
+T27	Protein 576 584	proteins
+T28	Chemical 599 614	disulfide bonds
+T29	Technique 624 640	NMR spectroscopy
+T30	Geometrical_part 658 685	three-dimensional structure
+T31	Protein 693 700	protein
+T32	Process 725 737	environments
+T33	Chemical 766 773	solvent
+T34	Value 775 782	75%/25%
+T35	Chemical 784 797	acetone/water
+T36	Chemical 806 818	DPC micelles
+T37	Chemical 849 856	solvent
+T38	Unknown 888 896	>NH...OC
+T39	Chemical 899 913	hydrogen bonds
+T40	Process 930 939	detection
+T41	Unknown 943 953	(h3)J(NC)'
+T42	Process 954 963	couplings
+T43	Chemical 965 972	H-bonds
+T44	Process 1021 1031	refinement
+T45	Technique 1039 1042	NMR
+T46	Protein 1051 1058	protein
+T47	Geometrical_part 1059 1069	structures
+T48	Protein 1080 1087	protein
+T49	Chemical 1091 1127	DPC (dodecylphosphocholine) micelles
+T50	Chemical 1147 1150	ion
+T51	Molecular_Part 1178 1183	probe
+T52	Geometrical_part 1201 1208	surface
+T53	Protein 1212 1219	crambin
+T54	Chemical 1244 1253	detergent
+T55	Process 1264 1273	exception
+T56	Chemical 1281 1296	aqueous solvent
+T57	Geometrical_part 1305 1309	loop
+T58	Protein_part 1321 1332	residues 20
+T59	Protein_part 1337 1339	21
+T60	Protein 1345 1352	protein
+T61	Geometrical_part 1353 1360	surface
+T62	Chemical 1378 1381	DPC
+T63	Protein 1406 1413	protein
+T64	Body_part 1457 1466	membranes
+T65	Process 1504 1514	expression
+T66	Unknown 1519 1528	structure
+T67	Protein 1546 1553	crambin
+T68	Body_part 1615 1623	membrane
+T69	Molecule 1631 1637	toxins
+T70	Protein 1648 1665	membrane proteins

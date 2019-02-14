@@ -1,0 +1,13 @@
+Isozyme 4 of rabbit liver microsomal cytochrome P-450 was shown earlier in this laboratory to contain multiple NH2-terminal residues, whereas isozymes 2, 3a, 3b, and 3c have single, unique NH2-terminal sequences . 
+Similar results were obtained with isozyme 4 obtained from animals that were untreated, treated with phenobarbital (which does not induce this isozyme), or induced with beta-naphthoflavone or isosafrole . 
+With the use of selective chemical blocking at seryl or at nonprolyl residues, the complexity of the NH2-terminal sequence has now been shown to be due to the presence of three forms of the cytochrome differing only in the absence of the first or the first two residues: NH2-Ala-Met-Ser-Pro-Ala-Ala-Pro-, NH2-Met-Ser-Pro-Ala-Ala-Pro-, and NH2-Ser-Pro-Ala-Ala-Pro- . 
+These forms may result from variable biological processing . 
+Peptides containing the seven cysteine residues were sequenced and compared with similar peptides reported for other P-450 cytochromes; homology was extensive with respect to two of the cysteine regions in isozyme 4, and a third cysteine region showed partial identity . 
+The sequence of peptides representing about two-thirds of the amino acids in isosafrole-induced cytochrome P-450 isozyme 4 was determined . 
+Comparison with phenobarbital-induced rabbit cytochrome P-450 isozyme 2 indicated about 25% homology . 
+In contrast, comparison of isozyme 4 with rat cytochrome P-450d, which is also induced by isosafrole and for which the sequence has recently been deduced from cDNA [Kawajiri, K., Gotoh, O., Sogawa, K., Tagashira, Y., Muramatsu, M. &amp; Fujii-Kuriyama, Y . 
+(1984) Proc . 
+Natl . 
+Acad . 
+Sci . 
+USA 81, 1649-1653], showed about 70% homology . 

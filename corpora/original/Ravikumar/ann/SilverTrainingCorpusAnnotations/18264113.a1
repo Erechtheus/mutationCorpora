@@ -1,0 +1,47 @@
+T1	Protein_part 4 19	ankyrin repeats
+T2	Protein 23 26	G9a
+T3	Protein 31 61	GLP histone methyltransferases
+T4	Chemical 76 90	dimethyllysine
+T5	Process 91 98	binding
+T6	Protein 108 115	Histone
+T7	Process 116 129	modifications
+T8	Process 145 150	roles
+T9	Process 170 177	control
+T10	Process 179 186	mitosis
+T11	Protein 191 206	heterochromatin
+T12	Process 207 216	formation
+T13	Protein 218 221	G9a
+T14	Protein 226 248	G9a-like protein (GLP)
+T15	Protein 253 264	euchromatin
+T16	Protein 276 294	methyltransferases
+T17	Process 308 321	transcription
+T18	Protein 349 359	histone H3
+T19	Protein_part 363 367	Lys9
+T20	Protein_part 369 373	H3K9
+T21	Protein_part 405 427	ankyrin repeat domains
+T22	Protein 431 434	G9a
+T23	Protein 439 442	GLP
+T24	Protein_part 474 496	N-terminal H3 peptides
+T25	Chemical 517 525	dimethyl
+T26	Chemical 526 528	K9
+T27	Technique 530 551	X-ray crystallography
+T28	Process 565 570	basis
+T29	Process 575 586	recognition
+T30	Protein_part 594 611	methylated lysine
+T31	Protein_part 653 664	tryptophans
+T32	Protein_part 673 687	acidic residue
+T33	Process 689 701	Substitution
+T34	Protein_part 709 717	residues
+T35	Protein_part 745 752	H3 tail
+T36	Process 753 764	interaction
+T37	Protein 773 776	G9a
+T38	Protein 781 784	GLP
+T39	Chemical 807 819	methyllysine
+T40	Process 820 827	binding
+T41	Protein_part 840 862	ankyrin repeat domains
+T42	Protein 894 901	protein
+T43	Protein 903 910	histone
+T44	Protein 912 930	methyltransferases
+T45	Protein_part 953 964	polypeptide
+T46	Parameter 969 979	activities
+T47	Physiology 1012 1022	epigenetic

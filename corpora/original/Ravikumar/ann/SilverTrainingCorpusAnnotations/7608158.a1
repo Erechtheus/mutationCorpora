@@ -1,0 +1,96 @@
+T1	Process 0 10	Alteration
+T2	Location 14 19	axial
+T3	Process 20 32	coordination
+T4	Protein 36 43	protein
+T5	Protein 59 68	myoglobin
+T6	Chemical 70 82	Bisimidazole
+T7	Process 83 91	ligation
+T8	Unknown 99 116	His64-->Val/Val68
+T9	Protein_part 119 122	His
+T10	Molecule 123 136	double mutant
+T11	Organism 138 141	Pig
+T12	Organism 146 151	human
+T13	Protein 152 161	myoglobin
+T14	Location 215 221	distal
+T15	Protein_part 222 231	histidine
+T16	Protein_part 236 242	valine
+T17	Unknown 249 260	His64(E7)--
+T18	Protein_part 261 264	Val
+T19	Unknown 269 281	Val68(E11)--
+T20	Protein_part 282 285	His
+T21	Technique 288 301	Spectroscopic
+T22	Category 306 312	ligand
+T23	Parameter 313 331	binding properties
+T24	Organism 355 360	human
+T25	Organism 365 368	pig
+T26	Protein 370 389	H64V/V68H myoglobin
+T27	Unknown 399 408	structure
+T28	Organism 416 419	pig
+T29	Molecule 420 429	H64V/V68H
+T30	Molecule 430 443	double mutant
+T31	Value 467 473	2.07-A
+T32	Parameter 474 484	resolution
+T33	Technique 488 509	x-ray crystallography
+T34	Geometrical_part 515 532	crystal structure
+T35	Chemical 548 557	N epsilon
+T36	Protein_part 561 566	His68
+T37	Value 578 583	2.3 A
+T38	Chemical 598 607	heme iron
+T39	Process 626 635	formation
+T40	Organism 656 663	species
+T41	Chemical 669 678	imidazole
+T42	Protein_part 688 693	His68
+T43	Chemical 720 724	heme
+T44	Protein_part 772 777	His93
+T45	Chemical 825 831	J., La
+T46	Unknown 832 870	Mar, G. N., Dou, Y., Admiraal, S. J., 
+T47	Unknown 874 889	Ikeda-Saito, M.
+T48	Unknown 897 911	J. Biol. Chem.
+T49	Parameter 942 954	temperatures
+T50	Chemical 960 969	heme iron
+T51	State 987 992	state
+T52	Unknown 1030 1033	EPR
+T53	Parameter 1034 1042	spectrum
+T54	Parameter 1044 1046	g1
+T55	Value 1049 1053	3.34
+T56	Parameter 1055 1057	g2
+T57	Value 1060 1063	2.0
+T58	Parameter 1069 1071	g3
+T59	Chemical 1111 1120	imidazole
+T60	Category 1121 1128	complex
+T61	Protein 1132 1144	metmyoglobin
+T62	Parameter 1150 1154	mean
+T63	Chemical 1156 1169	iron-nitrogen
+T64	Parameter 1170 1178	distance
+T65	Value 1182 1188	2.01 A
+T66	Chemical 1206 1212	ferric
+T67	State 1213 1218	state
+T68	Technique 1236 1254	x-ray spectroscopy
+T69	Chemical 1260 1267	ferrous
+T70	Protein 1276 1295	H64V/V68H myoglobin
+T71	Parameter 1313 1321	spectrum
+T72	Protein 1349 1367	b-type cytochromes
+T73	Protein 1407 1425	bisimidazole hemin
+T74	Geometrical_part 1426 1435	structure
+T75	Technique 1454 1475	x-ray crystallography
+T76	Process 1488 1496	mutation
+T77	Chemical 1508 1522	ferric/ferrous
+T78	Parameter 1530 1548	midpoint potential
+T79	Value 1554 1560	+54 mV
+T80	Protein 1568 1585	wild-type protein
+T81	Value 1589 1596	-128 mV
+T82	Protein 1598 1625	Ferrous H64V/V68H myoglobin
+T83	Unknown 1632 1634	CO
+T84	Unknown 1639 1641	NO
+T85	Category 1657 1666	complexes
+T86	Process 1676 1684	reaction
+T87	Chemical 1690 1692	O2
+T88	Process 1712 1725	autooxidation
+T89	Chemical 1733 1747	ferric species
+T90	Protein_part 1822 1827	His64
+T91	Protein_part 1832 1837	Val68
+T92	Protein 1845 1864	wild-type myoglobin
+T93	Chemical 1889 1897	chemical
+T94	Protein_part 1912 1923	side chains
+T95	Chemical 1951 1953	O2
+T96	Process 1977 1990	autooxidation

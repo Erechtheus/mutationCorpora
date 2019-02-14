@@ -1,0 +1,48 @@
+T1	Process 43 52	catalysis
+T2	Organism 58 63	viral
+T3	Protein 64 74	histone H3
+T4	Protein 75 102	lysine 27 methyltransferase
+T5	Protein 104 140	SET domain lysine methyltransferases
+T6	Protein_part 163 167	site
+T7	State 172 177	state
+T8	Process 187 198	methylation
+T9	Protein_part 202 217	lysine residues
+T10	Protein 221 229	histones
+T11	Physiology 254 264	epigenetic
+T12	Process 265 275	regulation
+T13	Protein 279 283	gene
+T14	Process 284 294	activation
+T15	Organism 312 332	eukaryotic organisms
+T16	Geometrical_part 371 389	solution structure
+T17	Protein 397 447	SET domain histone lysine methyltransferase (vSET)
+T18	Organism 453 488	Paramecium bursaria chlorella virus
+T19	Category 501 509	cofactor
+T20	Chemical 510 535	S-adenosyl-L-homocysteine
+T21	Protein_part 542 560	histone H3 peptide
+T22	Protein_part 576 597	-methylated lysine 27
+T23	Geometrical_part 603 620	dimeric structure
+T24	Category 661 668	complex
+T25	Process 692 697	basis
+T26	Category 705 714	substrate
+T27	Process 731 742	methylation
+T28	Protein 763 769	enzyme
+T29	Process 788 799	mutagenesis
+T30	Protein 804 810	enzyme
+T31	Parameter 811 819	kinetics
+T32	Technique 820 828	analyses
+T33	Chemical 842 854	general base
+T34	Process 855 864	mechanism
+T35	Protein_part 884 890	lysine
+T36	Process 891 902	methylation
+T37	Protein_part 906 917	SET domains
+T38	Protein_part 937 979	invariant active site residue tyrosine 105
+T39	Protein 983 987	vSET
+T40	Chemical 1000 1006	methyl
+T41	Process 1007 1015	transfer
+T42	Category 1021 1029	cofactor
+T43	Category 1037 1046	substrate
+T44	Protein_part 1047 1053	lysine
+T45	Process 1081 1093	interactions
+T46	Protein_part 1101 1107	lysine
+T47	Protein 1115 1122	channel
+T48	Protein 1130 1136	enzyme

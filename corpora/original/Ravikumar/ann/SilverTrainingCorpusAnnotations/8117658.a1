@@ -1,0 +1,91 @@
+T1	Chemical 3 8	anion
+T2	Process 9 16	binding
+T3	Protein_part 17 21	site
+T4	Protein 31 47	aldose reductase
+T5	Process 61 73	implications
+T6	Process 82 89	binding
+T7	Chemical 93 100	citrate
+T8	Chemical 118 137	glucose 6-phosphate
+T9	Chemical 139 145	Aldose
+T10	Protein 146 155	reductase
+T11	Chemical 161 166	NADPH
+T12	Protein 177 196	aldo-keto reductase
+T13	Physiology 213 225	pathogenesis
+T14	Physiology 234 242	diabetic
+T15	Chemical 247 259	galactosemic
+T16	Physiology 260 273	complications
+T17	Geometrical_part 289 306	crystal structure
+T18	Organism 310 315	human
+T19	Chemical 316 322	aldose
+T20	Protein 323 332	reductase
+T21	Protein 355 362	Science
+T22	Molecule 407 415	electron
+T23	Parameter 416 423	density
+T24	Protein_part 446 457	active site
+T25	Geometrical_part 458 464	pocket
+T26	Chemical 476 493	nicotinamide ring
+T27	Chemical 501 506	NADPH
+T28	Protein_part 521 541	active site residues
+T29	Protein_part 543 548	Tyr48
+T30	Protein_part 550 556	His110
+T31	Protein_part 562 568	Cys298
+T32	Molecule 601 609	electron
+T33	Parameter 610 617	density
+T34	Chemical 621 628	citrate
+T35	Process 654 669	crystallization
+T36	Parameter 678 680	pH
+T37	Value 681 684	5.0
+T38	Parameter 730 737	kinetic
+T39	Technique 742 758	crystallographic
+T40	Process 759 770	experiments
+T41	Chemical 772 779	Citrate
+T42	Category 800 809	inhibitor
+T43	Process 825 833	reaction
+T44	Chemical 850 858	aldehyde
+T45	Process 860 869	reduction
+T46	Chemical 873 881	aldehyde
+T47	Category 910 919	inhibitor
+T48	Chemical 936 943	alcohol
+T49	Process 960 968	reaction
+T50	Process 970 979	oxidation
+T51	Chemical 983 990	alcohol
+T52	Chemical 1031 1053	enzyme-NADP(+)-product
+T53	Category 1054 1061	complex
+T54	Chemical 1063 1070	Citrate
+T55	Protein 1106 1112	enzyme
+T56	Category 1113 1120	complex
+T57	Chemical 1138 1157	glucose 6-phosphate
+T58	Unknown 1164 1173	structure
+T59	Category 1191 1200	complexes
+T60	Molecule 1220 1228	molecule
+T61	Protein_part 1242 1253	active site
+T62	Unknown 1266 1276	structures
+T63	Parameter 1311 1321	resolution
+T64	Value 1325 1331	1.76 A
+T65	Parameter 1347 1356	R-factors
+T66	Value 1357 1366	below 18%
+T67	Protein_part 1409 1420	active site
+T68	Process 1431 1446	crystallization
+T69	Protein 1484 1500	wild-type enzyme
+T70	Chemical 1504 1512	solution
+T71	Chemical 1514 1533	Glucose 6-phosphate
+T72	Category 1549 1558	substrate
+T73	Protein 1563 1579	aldose reductase
+T74	Value 1609 1617	negative
+T75	Parameter 1618 1625	charges
+T76	Chemical 1629 1636	citrate
+T77	Chemical 1654 1673	glucose 6-phosphate
+T78	Protein_part 1685 1696	active site
+T79	Chemical 1709 1714	anion
+T80	Protein_part 1723 1727	site
+T81	Protein_part 1746 1749	C4N
+T82	Chemical 1753 1765	nicotinamide
+T83	Protein_part 1771 1773	OH
+T84	Protein_part 1777 1782	Tyr48
+T85	Chemical 1792 1801	N epsilon
+T86	Protein_part 1805 1811	His110
+T87	Chemical 1829 1836	citrate
+T88	Process 1837 1844	binding
+T89	Protein_part 1852 1863	active site
+T90	Process 1885 1904	catalytic mechanism
+T91	Protein 1909 1925	aldose reductase

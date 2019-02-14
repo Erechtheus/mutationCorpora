@@ -1,0 +1,67 @@
+T1	Protein 33 40	epitope
+T2	Organism 51 56	human
+T3	Physiology 57 66	influenza
+T4	Organism 67 72	virus
+T5	Protein 73 86	neuraminidase
+T6	Chemical 102 110	hydrated
+T7	Protein 128 139	NA-antibody
+T8	Category 140 147	complex
+T9	Geometrical_part 153 170	crystal structure
+T10	Category 178 185	complex
+T11	Protein 194 212	neuraminidase (NA)
+T12	Physiology 216 225	influenza
+T13	Organism 226 231	virus
+T14	Unknown 232 247	A/Memphis/31/98
+T15	Chemical 249 253	H3N2
+T16	Protein_part 259 262	Fab
+T17	Molecule 266 285	monoclonal antibody
+T18	Molecule 286 290	Mem5
+T19	Value 314 318	2.1A
+T20	Parameter 319 329	resolution
+T21	Process 359 371	interactions
+T22	Protein 391 397	NA-Fab
+T23	Geometrical_part 398 408	structures
+T24	Parameter 439 443	area
+T25	Value 447 454	2400 A2
+T26	Geometrical_part 464 472	surfaces
+T27	Chemical 538 546	hydrated
+T28	Chemical 561 576	water molecules
+T29	Parameter 594 596	or
+T30	Value 597 600	95%
+T31	Chemical 618 625	solvent
+T32	Chemical 672 687	water molecules
+T33	Physiology 727 734	network
+T34	Chemical 738 743	water
+T35	Chemical 753 767	hydrogen bonds
+T36	Category 811 818	complex
+T37	Protein_part 820 826	Glu199
+T38	Protein 830 832	NA
+T39	Protein_part 852 862	side-chain
+T40	Process 870 881	interaction
+T41	Technique 924 932	analysis
+T42	Process 952 960	mutation
+T43	Protein_part 990 996	island
+T44	Protein_part 998 1004	Glu199
+T45	Protein_part 1022 1030	residues
+T46	Geometrical_part 1051 1061	major part
+T47	Protein 1069 1076	antigen
+T48	Geometrical_part 1084 1091	surface
+T49	Category 1099 1106	complex
+T50	Organism 1123 1128	human
+T51	Physiology 1129 1138	influenza
+T52	Organism 1139 1146	viruses
+T53	Molecule 1184 1188	Mem5
+T54	Physiology 1231 1240	antigenic
+T55	Protein_part 1241 1245	site
+T56	Molecule 1264 1272	antibody
+T57	Protein 1286 1297	NA variants
+T58	Parameter 1315 1324	component
+T59	Physiology 1335 1344	antigenic
+T60	Organism 1354 1359	human
+T61	Chemical 1360 1364	H3N2
+T62	Physiology 1365 1374	influenza
+T63	Organism 1375 1382	viruses
+T64	Physiology 1410 1419	influenza
+T65	Chemical 1420 1428	vaccines
+T66	Protein 1444 1446	NA
+T67	Protein 1462 1475	hemagglutinin

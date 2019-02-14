@@ -1,0 +1,80 @@
+T1	Value 12 17	2.2-A
+T2	Value 19 26	0.22-nm
+T3	Technique 28 51	X-ray crystal structure
+T4	Category 59 74	ternary complex
+T5	Organism 85 91	bovine
+T6	Protein 92 103	trypsinogen
+T7	Protein_part 105 118	valine-valine
+T8	Protein_part 127 141	Arg15 analogue
+T9	Organism 145 151	bovine
+T10	Body_part 152 162	pancreatic
+T11	Protein 164 171	trypsin
+T12	Category 172 181	inhibitor
+T13	Unknown 202 210	crystals
+T14	Category 218 225	complex
+T15	Organism 236 242	bovine
+T16	Protein 243 254	trypsinogen
+T17	Organism 286 292	bovine
+T18	Body_part 293 303	pancreatic
+T19	Protein 304 311	trypsin
+T20	Category 312 321	inhibitor
+T21	Protein_part 331 359	reactive-site lysine residue
+T22	Unknown 456 464	crystals
+T23	Protein 468 483	PTI-trypsinogen
+T24	Unknown 491 507	W., Schwager, P.
+T25	Unknown 512 521	Huber, R.
+T26	Unknown 529 542	J. Mol. Biol.
+T27	Technique 561 584	X-ray crystal structure
+T28	Category 592 607	ternary complex
+T29	Unknown 611 633	trypsinogen-[Arg15]PTI
+T30	Protein_part 643 660	dipeptide Val-Val
+T31	Technique 684 689	X-ray
+T32	Value 698 703	2.2-A
+T33	Value 705 712	0.22-nm
+T34	Parameter 714 724	resolution
+T35	Process 737 747	difference
+T36	Unknown 748 755	Fourier
+T37	Parameter 818 825	R-value
+T38	Value 829 833	0.17
+T39	Process 835 846	Replacement
+T40	Protein_part 854 873	reactive-site Lys15
+T41	Protein_part 880 896	arginine residue
+T42	Category 919 926	complex
+T43	Process 936 945	movements
+T44	Location 955 959	side
+T45	Protein 971 978	trypsin
+T46	Chemical 992 1009	solvent molecules
+T47	Geometrical_part 1033 1039	pocket
+T48	Chemical 1046 1062	solvent molecule
+T49	Protein_part 1067 1069	OH
+T50	Chemical 1089 1102	hydrogen bond
+T51	Process 1103 1115	interactions
+T52	Protein_part 1124 1132	Lys15 NZ
+T53	Chemical 1137 1155	Asp189 carboxylate
+T54	Chemical 1195 1203	guanidyl
+T55	Molecular_Part 1204 1209	group
+T56	Chemical 1227 1238	carboxylate
+T57	Protein_part 1244 1261	dipeptide Val-Val
+T58	Geometrical_part 1275 1281	pocket
+T59	Protein_part 1296 1314	Ile-Val N-terminus
+T60	Protein 1318 1325	trypsin
+T61	Body_part 1331 1337	cavity
+T62	Location 1338 1342	left
+T63	Chemical 1350 1359	CD-methyl
+T64	Molecular_Part 1360 1365	group
+T65	Protein_part 1369 1374	Ile16
+T66	Process 1380 1391	replacement
+T67	Protein_part 1397 1411	valine residue
+T68	Process 1447 1461	rearrangements
+T69	Protein_part 1478 1485	peptide
+T70	Protein_part 1486 1497	side chains
+T71	Geometrical_part 1499 1503	Part
+T72	Value 1511 1519	positive
+T73	Parameter 1520 1531	free energy
+T74	Process 1532 1538	change
+T75	Process 1553 1564	replacement
+T76	Protein_part 1568 1575	Ile-Val
+T77	Process 1594 1605	maintenance
+T78	Body_part 1614 1620	cavity
+T79	Unknown 1622 1627	CRDT-
+T80	Value 1636 1644	01 00:00

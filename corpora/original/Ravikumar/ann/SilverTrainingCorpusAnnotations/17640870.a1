@@ -1,0 +1,63 @@
+T1	Protein 11 36	helix-turn-helix protease
+T2	Protein_part 48 53	motif
+T3	Protein 65 72	trypsin
+T4	Category 73 82	inhibitor
+T5	Organism 88 93	seeds
+T6	Organism 97 105	Veronica
+T7	Organism 107 127	Veronica hederifolia
+T8	Organism 128 130	L.
+T9	Process 137 144	storage
+T10	Body_part 145 152	tissues
+T11	Organism 161 167	plants
+T12	Protein 176 184	protease
+T13	Category 185 195	inhibitors
+T14	Process 236 240	role
+T15	Organism 258 263	plant
+T16	Process 269 277	invasion
+T17	Organism 281 286	pests
+T18	Organism 291 300	pathogens
+T19	Category 322 331	inhibitor
+T20	Molecule 332 341	molecules
+T21	Unknown 386 394	families
+T22	Process 417 426	isolation
+T23	Process 428 440	purification
+T24	Parameter 450 471	inhibitory properties
+T25	Geometrical_part 477 504	three-dimensional structure
+T26	Category 516 575	trypsin inhibitor from seeds of Veronica hederifolia (VhTI)
+T27	Category 581 585	VhTI
+T28	Protein_part 586 593	peptide
+T29	Protein 603 610	trypsin
+T30	Parameter 632 645	apparent K(i)
+T31	Protein 681 710	trypsin-like serine proteases
+T32	Category 712 716	VhTI
+T33	Unknown 741 750	structure
+T34	Unknown 781 789	families
+T35	Protein 793 800	trypsin
+T36	Category 801 811	inhibitors
+T37	Protein_part 829 851	helix-turn-helix motif
+T38	Protein_part 866 879	alpha helices
+T39	Chemical 906 921	disulfide bonds
+T40	Category 951 958	complex
+T41	Protein 990 1014	acyl-enzyme intermediate
+T42	Chemical 1024 1037	scissile bond
+T43	Category 1045 1049	VhTI
+T44	Category 1050 1059	inhibitor
+T45	Protein_part 1087 1097	N-terminal
+T46	Category 1113 1122	inhibitor
+T47	Protein 1150 1157	trypsin
+T48	Protein_part 1168 1178	serine 195
+T49	Chemical 1185 1195	ester bond
+T50	Category 1235 1239	VhTI
+T51	Protein_part 1240 1247	peptide
+T52	Protein 1296 1303	trypsin
+T53	Category 1384 1391	complex
+T54	Protein 1397 1404	trypsin
+T55	Category 1410 1414	VhTI
+T56	Protein_part 1415 1422	peptide
+T57	Protein 1444 1450	enzyme
+T58	Category 1451 1461	inhibitors
+T59	Geometrical_part 1493 1500	helical
+T60	Protein_part 1501 1507	motifs
+T61	Geometrical_part 1527 1535	scaffold
+T62	Protein 1573 1588	serine protease
+T63	Category 1589 1599	inhibitors

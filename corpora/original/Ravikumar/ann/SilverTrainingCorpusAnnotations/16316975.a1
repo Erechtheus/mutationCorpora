@@ -1,0 +1,69 @@
+T1	Chemical 9 12	ion
+T2	Process 13 21	pathways
+T3	Protein 27 43	Cl-/H+ exchanger
+T4	Unknown 45 52	CLC-ec1
+T5	Organism 58 69	prokaryotic
+T6	Chemical 70 87	CLC-type Cl(-)/H+
+T7	Protein 88 108	exchange transporter
+T8	Process 137 146	mechanism
+T9	Chemical 150 152	H+
+T10	Chemical 165 168	Cl-
+T11	Protein_part 181 198	glutamate residue
+T12	Protein_part 200 204	E148
+T13	Chemical 246 254	Cl(-)/H+
+T14	Process 255 263	exchange
+T15	Molecule 277 283	proton
+T16	Process 284 292	transfer
+T17	Protein 305 312	protein
+T18	Location 321 334	extracellular
+T19	Chemical 335 343	solution
+T20	Chemical 374 376	H+
+T21	Category 377 385	acceptor
+T22	Location 402 420	intracellular side
+T23	Protein 428 435	protein
+T24	Process 452 463	mutagenesis
+T25	Location 472 478	inward
+T26	Chemical 486 494	carboxyl
+T27	Protein_part 503 511	residues
+T28	Protein_part 527 531	E203
+T29	Protein_part 546 553	residue
+T30	Process 560 574	neutralization
+T31	Chemical 585 587	H+
+T32	Chemical 601 604	Cl-
+T33	Process 605 614	transport
+T34	Chemical 616 625	Glutamate
+T35	Protein 678 682	CLCs
+T36	Protein 690 701	transporter
+T37	Protein_part 718 724	valine
+T38	Protein 749 761	CLC channels
+T39	Molecule 767 772	x-ray
+T40	Geometrical_part 773 790	crystal structure
+T41	Protein_part 798 810	E203Q mutant
+T42	Protein 837 854	wild-type protein
+T43	Chemical 856 859	Cl-
+T44	Process 860 869	transport
+T45	Parameter 870 874	rate
+T46	Protein_part 878 883	E203Q
+T47	Value 900 907	neutral
+T48	Parameter 908 910	pH
+T49	Molecule 920 933	double mutant
+T50	Molecule 935 946	E148A/E203Q
+T51	Chemical 962 965	Cl-
+T52	Process 966 975	transport
+T53	Parameter 992 994	pH
+T54	Protein_part 1008 1027	single mutant E148A
+T55	Category 1052 1061	substrate
+T56	Process 1062 1070	exchange
+T57	Unknown 1074 1081	CLC-ec1
+T58	Process 1130 1140	permeation
+T59	Process 1141 1149	pathways
+T60	Chemical 1160 1163	Cl-
+T61	Chemical 1176 1178	H+
+T62	Process 1186 1194	pathways
+T63	Protein 1218 1227	protein's
+T64	Location 1228 1241	extracellular
+T65	Geometrical_part 1242 1249	surface
+T66	Protein_part 1253 1257	E148
+T67	Location 1305 1323	intracellular side
+T68	Process 1348 1357	transport
+T69	Process 1358 1367	mechanism

@@ -1,0 +1,81 @@
+T1	Process 11 16	basis
+T2	Protein_part 33 43	amino acid
+T3	Process 44 58	discrimination
+T4	Protein 66 87	valyl-tRNA synthetase
+T5	Protein_part 96 102	domain
+T6	Protein_part 116 122	domain
+T7	Protein 126 155	valyl-tRNA synthetase (ValRS)
+T8	Chemical 168 177	deacylate
+T9	Unknown 198 211	Thr-tRNA(Val)
+T10	Unknown 261 274	1.7-Angstroms
+T11	Parameter 275 285	resolution
+T12	Geometrical_part 286 303	crystal structure
+T13	Organism 311 331	Thermus thermophilus
+T14	Protein 332 337	ValRS
+T15	Protein_part 346 352	domain
+T16	Process 356 366	comparison
+T17	Unknown 374 383	structure
+T18	Protein 413 417	tRNA
+T19	Geometrical_part 426 435	structure
+T20	State 445 459	conformational
+T21	Process 460 467	changes
+T22	Protein_part 483 489	domain
+T23	Process 495 508	accommodation
+T24	Protein_part 516 528	terminal A76
+T25	Unknown 534 538	"GTG
+T26	Geometrical_part 565 571	pocket
+T27	Protein_part 581 591	side chain
+T28	Protein_part 595 602	Phe-264
+T29	Geometrical_part 610 618	GTG loop
+T30	Chemical 648 664	A76 adenine ring
+T31	State 675 689	conformational
+T32	Process 690 697	changes
+T33	Chemical 718 721	C75
+T34	Chemical 726 729	A76
+T35	Protein 738 742	tRNA
+T36	Protein_part 760 767	Phe-264
+T37	Process 786 795	mechanism
+T38	Protein_part 803 823	threonine side-chain
+T39	Process 824 835	recognition
+T40	Geometrical_part 855 872	crystal structure
+T41	Protein_part 888 894	domain
+T42	Chemical 906 941	[N-(L-threonyl)-sulfamoyl]adenosine
+T43	Unknown 945 958	1.7-Angstroms
+T44	Parameter 959 969	resolution
+T45	Chemical 975 983	gamma-OH
+T46	Protein_part 991 999	threonyl
+T47	Molecular_Part 1000 1006	moiety
+T48	Protein_part 1028 1035	Lys-270
+T49	Protein_part 1037 1044	Thr-272
+T50	Protein_part 1050 1057	Asp-279
+T51	Protein_part 1058 1069	side chains
+T52	Chemical 1100 1105	valyl
+T53	Molecular_Part 1106 1112	moiety
+T54	Protein 1127 1140	ValRS mutants
+T55	Protein_part 1149 1152	Ala
+T56	Process 1153 1165	substitution
+T57	Protein_part 1170 1177	Lys-270
+T58	Protein_part 1181 1188	Asp-279
+T59	Unknown 1224 1237	Thr-tRNA(Val)
+T60	Unknown 1255 1268	Thr-tRNA(Val)
+T61	Protein 1303 1318	wild-type ValRS
+T62	Parameter 1351 1359	activity
+T63	Protein_part 1392 1395	Ala
+T64	Process 1396 1409	substitutions
+T65	Protein_part 1414 1421	Lys-270
+T66	Protein_part 1426 1433	Asp-279
+T67	Protein_part 1470 1477	Arg-216
+T68	Protein_part 1479 1486	Phe-264
+T69	Protein_part 1492 1499	Thr-272
+T70	Protein_part 1534 1542	threonyl
+T71	Molecular_Part 1543 1549	moiety
+T72	Chemical 1554 1557	A76
+T73	Unknown 1561 1574	Thr-tRNA(Val)
+T74	Protein_part 1597 1604	Lys-270
+T75	Protein_part 1606 1613	Thr-272
+T76	Protein_part 1619 1626	Asp-279
+T77	Protein_part 1627 1638	side chains
+T78	Protein_part 1650 1657	Phe-264
+T79	Protein_part 1658 1668	side chain
+T80	Protein 1691 1696	ValRS
+T81	Protein_part 1705 1711	domain

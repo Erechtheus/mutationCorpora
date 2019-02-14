@@ -1,0 +1,89 @@
+T1	Process 11 27	characterization
+T2	Organism 31 44	mycobacterial
+T3	Chemical 45 75	phosphatidylinositol mannoside
+T4	Organism 87 92	mouse
+T5	Unknown 93 97	CD1d
+T6	Organism 99 112	Mycobacterial
+T7	Chemical 113 156	phosphatidylinositol tetramannosides (PIM4)
+T8	Category 161 169	agonists
+T9	Organism 199 214	invariant human
+T10	Organism 216 224	Valpha24
+T11	Organism 230 246	mouse (Valpha14)
+T12	Body_part 247 256	NKT cells
+T13	Unknown 276 280	CD1d
+T14	Geometrical_part 300 317	crystal structure
+T15	Value 321 326	2.6-A
+T16	Parameter 327 337	resolution
+T17	Organism 341 346	mouse
+T18	Unknown 347 351	CD1d
+T19	Chemical 373 389	dipalmitoyl-PIM2
+T20	Chemical 399 403	PIM2
+T21	Chemical 427 437	fatty acid
+T22	Process 438 449	composition
+T23	Unknown 468 477	precursor
+T24	Chemical 481 485	PIM4
+T25	Chemical 487 491	PIM6
+T26	Chemical 493 503	lipomannan
+T27	Chemical 509 526	lipoarabinomannan
+T28	Chemical 532 536	PIM2
+T29	Molecular_Part 537 546	headgroup
+T30	Chemical 548 568	inositol-dimannoside
+T31	Category 582 589	complex
+T32	Unknown 625 629	CD1d
+T33	Category 630 637	ligands
+T34	Unknown 671 675	CD1d
+T35	Process 676 683	binding
+T36	Geometrical_part 684 690	groove
+T37	Chemical 703 711	hydrogen
+T38	Physiology 720 727	network
+T39	Chemical 736 740	PIM2
+T40	Unknown 745 749	CD1d
+T41	Molecular_Part 762 771	headgroup
+T42	Process 793 800	binding
+T43	Geometrical_part 802 808	groove
+T44	Geometrical_part 823 832	A' pocket
+T45	Protein_part 867 880	CD1d residues
+T46	Protein_part 882 885	Asp
+T47	Protein_part 892 900	Thr(156)
+T48	Protein_part 902 909	Ser(76)
+T49	Protein_part 911 918	Arg(79)
+T50	Chemical 939 948	phosphate
+T51	Chemical 950 958	inositol
+T52	Protein 964 977	alpha1-alpha6
+T53	Chemical 985 992	mannose
+T54	Molecular_Part 1000 1009	headgroup
+T55	Protein 1050 1057	alpha1-
+T56	Protein 1062 1068	alpha2
+T57	Chemical 1076 1083	mannose
+T58	Protein_part 1100 1108	Thr(159)
+T59	Chemical 1129 1137	mannoses
+T60	Chemical 1141 1145	PIM4
+T61	Chemical 1159 1163	PIM2
+T62	Location 1184 1190	distal
+T63	Chemical 1194 1200	carbon
+T64	Protein 1208 1221	alpha1-alpha6
+T65	Chemical 1229 1236	mannose
+T66	Unknown 1269 1273	CD1d
+T67	Process 1274 1281	binding
+T68	Geometrical_part 1282 1288	groove
+T69	Process 1293 1304	interaction
+T70	Unknown 1314 1317	TCR
+T71	Chemical 1339 1367	CD1d-sphingolipid structures
+T72	Chemical 1369 1373	PIM2
+T73	Process 1407 1419	interactions
+T74	Molecular_Part 1433 1442	headgroup
+T75	Molecular_Part 1447 1450	CD1
+T76	Chemical 1484 1498	diacylglycerol
+T77	Geometrical_part 1499 1507	backbone
+T78	Body_part 1521 1529	NKT cell
+T79	Category 1530 1538	agonists
+T80	Process 1569 1582	substitutions
+T81	Molecular_Part 1590 1599	headgroup
+T82	Protein 1624 1635	lipid chain
+T83	Parameter 1636 1642	length
+T84	Unknown 1651 1654	OCH
+T85	Unknown 1659 1665	PBS-25
+T86	Unknown 1678 1686	variants
+T87	Body_part 1713 1731	invariant NKT cell
+T88	Category 1733 1740	agonist
+T89	Chemical 1741 1765	alpha-galactosylceramide

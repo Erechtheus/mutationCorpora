@@ -1,0 +1,53 @@
+T1	Geometrical_part 4 22	solution structure
+T2	Protein_part 30 41	F42A mutant
+T3	Organism 45 50	human
+T4	Protein 51 64	interleukin 2
+T5	Protein 66 86	Interleukin 2 (IL-2)
+T6	Protein 107 116	cytokines
+T7	Body_part 129 142	T lymphocytes
+T8	Process 146 154	response
+T9	Protein 158 165	antigen
+T10	Process 182 188	growth
+T11	Protein 193 215	differentiation factor
+T12	Protein_part 274 291	four-helix bundle
+T13	Unknown 292 298	family
+T14	Protein 302 311	cytokines
+T15	Process 313 321	Mutation
+T16	Protein_part 325 338	residue Phe42
+T17	Protein_part 342 345	Ala
+T18	Process 356 363	binding
+T19	Protein 371 382	alpha chain
+T20	Protein 403 416	IL-2 receptor
+T21	Geometrical_part 422 449	three-dimensional structure
+T22	Protein 457 473	F42A mutant IL-2
+T23	Technique 513 516	NMR
+T24	Geometrical_part 544 553	structure
+T25	Protein 557 571	wild-type IL-2
+T26	Technique 586 607	X-ray crystallography
+T27	Unknown 641 651	structures
+T28	Process 674 685	differences
+T29	Unknown 698 708	structures
+T30	Physiology 724 727	ill
+T31	Geometrical_part 736 741	loops
+T32	Protein_part 757 764	helices
+T33	Protein_part 773 779	region
+T34	Protein 787 794	protein
+T35	Protein 833 844	alpha-chain
+T36	Protein 852 860	receptor
+T37	Process 872 880	mutation
+T38	Protein_part 884 889	Phe42
+T39	Protein_part 893 896	Ala
+T40	Geometrical_part 926 953	three-dimensional structure
+T41	Protein 957 961	IL-2
+T42	Process 1006 1013	binding
+T43	Protein_part 1014 1019	sites
+T44	Protein 1028 1032	beta
+T45	Protein 1037 1049	gamma chains
+T46	Protein 1057 1065	receptor
+T47	Process 1082 1093	differences
+T48	Process 1135 1146	replacement
+T49	Protein_part 1150 1155	Phe42
+T50	Protein_part 1161 1164	Ala
+T51	Protein_part 1207 1218	side-chains
+T52	Protein 1258 1269	alpha-chain
+T53	Protein 1277 1285	receptor

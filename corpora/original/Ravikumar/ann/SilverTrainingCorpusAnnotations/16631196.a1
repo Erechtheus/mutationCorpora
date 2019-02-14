@@ -1,0 +1,87 @@
+T1	Unknown 4 13	structure
+T2	Protein 30 50	GH43 beta-xylosidase
+T3	Chemical 56 86	Geobacillus stearothermophilus
+T4	Category 96 105	substrate
+T5	Process 118 122	role
+T6	Protein_part 146 154	residues
+T7	Protein 156 174	beta-D-Xylosidases
+T8	Protein 179 199	glycoside hydrolases
+T9	Process 218 225	release
+T10	Chemical 229 235	xylose
+T11	Chemical 253 273	xylooligosaccharides
+T12	Organism 316 321	plant
+T13	Body_part 322 331	cell-wall
+T14	Chemical 332 345	hemicellulose
+T15	Geometrical_part 385 402	crystal structure
+T16	Unknown 419 428	family 43
+T17	Protein 429 444	beta-xylosidase
+T18	Chemical 451 481	Geobacillus stearothermophilus
+T19	Unknown 482 485	T-6
+T20	Protein 487 492	XynB3
+T21	Protein 500 523	XynB3 monomeric subunit
+T22	Protein_part 545 552	domains
+T23	Protein_part 557 567	N-terminal
+T24	Protein_part 595 611	catalytic domain
+T25	Geometrical_part 619 632	beta-sandwich
+T26	Protein_part 633 639	domain
+T27	Protein_part 645 656	active site
+T28	Geometrical_part 669 675	pocket
+T29	Protein_part 738 753	domain residues
+T30	Location 777 781	side
+T31	Geometrical_part 787 791	loop
+T32	Geometrical_part 817 830	beta-sandwich
+T33	Protein_part 831 837	domain
+T34	Geometrical_part 844 848	loop
+T35	Parameter 863 869	length
+T36	Chemical 873 879	xylose
+T37	Protein_part 905 916	active site
+T38	Process 950 956	action
+T39	Protein 964 970	enzyme
+T40	Unknown 972 982	Structures
+T41	Category 1020 1027	complex
+T42	Process 1054 1058	role
+T43	Protein_part 1082 1090	residues
+T44	Chemical 1096 1102	xylose
+T45	Molecular_Part 1103 1109	moiety
+T46	Protein_part 1117 1127	-1 subsite
+T47	Chemical 1157 1171	hydrogen bonds
+T48	Chemical 1190 1198	hydroxyl
+T49	Chemical 1206 1212	xylose
+T50	Protein_part 1228 1235	subsite
+T51	Chemical 1247 1261	hydrogen bonds
+T52	Protein 1271 1277	enzyme
+T53	Chemical 1283 1295	general base
+T54	Protein_part 1297 1302	Asp15
+T55	Chemical 1343 1360	xylose sugar ring
+T56	Value 1362 1365	5.2
+T57	Unknown 1366 1375	Angstroms
+T58	Chemical 1394 1400	carbon
+T59	Chemical 1441 1455	water molecule
+T60	Process 1462 1481	single-displacement
+T61	Chemical 1505 1511	carbon
+T62	Physiology 1526 1535	inversion
+T63	Process 1552 1565	configuration
+T64	Protein_part 1567 1573	Glu187
+T65	Chemical 1587 1591	acid
+T66	Value 1596 1599	2.4
+T67	Chemical 1619 1641	glycosidic oxygen atom
+T68	Chemical 1672 1679	aglycon
+T69	Chemical 1701 1716	carboxylic acid
+T70	Protein_part 1718 1724	Asp128
+T71	Unknown 1731 1740	Angstroms
+T72	Chemical 1758 1762	acid
+T73	Unknown 1779 1784	pK(a)
+T74	Process 1815 1826	orientation
+T75	Category 1843 1852	substrate
+T76	Protein_part 1867 1873	Asp128
+T77	Process 1893 1897	role
+T78	Category 1901 1910	substrate
+T79	Process 1911 1918	binding
+T80	Unknown 1927 1930	2-O
+T81	Chemical 1938 1944	glycon
+T82	State 1973 1989	transition-state
+T83	Process 1990 2003	stabilization
+T84	Process 2032 2037	roles
+T85	Protein_part 2050 2056	Asp128
+T86	Unknown 2063 2072	invariant
+T87	Protein 2110 2130	glycoside hydrolases

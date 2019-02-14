@@ -1,0 +1,101 @@
+T1	Protein_part 2 19	histidine residue
+T2	Protein_part 44 48	site
+T3	Chemical 53 61	dioxygen
+T4	Process 62 71	reduction
+T5	Molecule 76 82	proton
+T6	Protein 94 106	cytochrome c
+T7	Protein 107 114	oxidase
+T8	Protein 116 128	Cytochrome c
+T9	Protein 129 136	oxidase
+T10	Process 137 146	transfers
+T11	Molecule 147 156	electrons
+T12	Molecule 161 168	protons
+T13	Chemical 173 181	dioxygen
+T14	Process 182 191	reduction
+T15	Molecule 205 211	proton
+T16	Molecule 227 235	electron
+T17	Molecule 240 246	proton
+T18	Process 247 256	transfers
+T19	Parameter 311 317	energy
+T20	Process 318 330	transduction
+T21	Process 351 361	mechanisms
+T22	Process 381 389	coupling
+T23	Process 390 399	mechanism
+T24	Protein_part 405 414	histidine
+T25	Protein_part 416 423	His-503
+T26	Location 433 441	entrance
+T27	Molecule 447 453	proton
+T28	Process 454 462	transfer
+T29	Process 463 470	pathway
+T30	Chemical 478 486	dioxygen
+T31	Process 487 496	reduction
+T32	Protein_part 497 501	site
+T33	Organism 518 524	bovine
+T34	Body_part 525 530	heart
+T35	Protein 531 543	cytochrome c
+T36	Protein 544 551	oxidase
+T37	State 568 573	state
+T38	Chemical 577 591	water molecule
+T39	Chemical 604 618	hydrogen bonds
+T40	Protein_part 627 634	His-503
+T41	Protein_part 639 645	Asp-91
+T42	Unknown 653 662	D-pathway
+T43	Chemical 685 690	water
+T44	Technique 691 697	arrays
+T45	Geometrical_part 725 732	surface
+T46	Location 738 754	microenvironment
+T47	Protein_part 759 765	Asp-91
+T48	Molecule 781 786	x-ray
+T49	Unknown 787 796	structure
+T50	Molecule 807 813	proton
+T51	Parameter 814 822	affinity
+T52	Protein_part 842 849	His-503
+T53	Protein_part 857 863	Asp-91
+T54	Protein_part 868 875	His-503
+T55	Chemical 909 923	water molecule
+T56	Molecule 929 935	proton
+T57	Chemical 968 973	water
+T58	Technique 974 980	arrays
+T59	Geometrical_part 1000 1007	surface
+T60	Process 1012 1021	oxidation
+T61	Chemical 1027 1044	His-503 imidazole
+T62	Value 1062 1073	180 degrees
+T63	Chemical 1087 1100	hydrogen bond
+T64	Chemical 1119 1124	water
+T65	Molecule 1142 1148	proton
+T66	Protein_part 1152 1158	Asp-91
+T67	Process 1163 1172	reduction
+T68	Protein_part 1174 1180	Asp-91
+T69	Molecule 1193 1199	proton
+T70	Chemical 1207 1215	dioxygen
+T71	Process 1216 1225	reduction
+T72	Protein_part 1226 1230	site
+T73	Unknown 1243 1252	D-pathway
+T74	Molecule 1258 1264	proton
+T75	Protein_part 1290 1297	His-503
+T76	Molecule 1323 1331	electron
+T77	Process 1332 1340	transfer
+T78	Process 1341 1351	inhibition
+T79	Process 1355 1362	binding
+T80	Chemical 1366 1370	Zn2+
+T81	Chemical 1375 1379	Cd2+
+T82	Protein_part 1383 1390	His-503
+T83	Molecule 1398 1403	x-ray
+T84	Unknown 1404 1414	structures
+T85	Parameter 1430 1432	Kd
+T86	Chemical 1437 1441	Zn2+
+T87	Protein_part 1453 1460	His-503
+T88	Molecule 1469 1474	x-ray
+T89	Unknown 1475 1484	structure
+T90	Parameter 1517 1519	Kd
+T91	Molecule 1533 1539	proton
+T92	Process 1548 1558	inhibition
+T93	Chemical 1562 1566	Zn2+
+T94	Unknown 1574 1612	A, Ostermann T, Muller H, Ruitenberg M
+T95	Unknown 1620 1629	FEBS Lett
+T96	Protein_part 1671 1678	His-503
+T97	Molecule 1691 1697	proton
+T98	Process 1698 1706	transfer
+T99	Chemical 1711 1719	dioxygen
+T100	Process 1720 1729	reduction
+T101	Molecule 1739 1745	proton

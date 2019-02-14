@@ -1,0 +1,83 @@
+T1	Process 11 20	mechanism
+T2	Process 45 56	recognition
+T3	Body_part 64 69	Golgi
+T4	Body_part 82 91	gamma-ear
+T5	Protein 104 127	ADP-ribosylation-factor
+T6	Protein 136 144	proteins
+T7	Body_part 150 155	Golgi
+T8	Body_part 167 176	gamma-ear
+T9	Protein 189 218	Arf (ADP-ribosylation factor)
+T10	Protein 229 232	GGA
+T11	Protein 234 242	proteins
+T12	Protein 247 264	clathrin adaptors
+T13	Process 282 289	sorting
+T14	Molecule 313 322	molecules
+T15	Body_part 330 341	trans-Golgi
+T16	Physiology 342 349	network
+T17	Body_part 354 363	endosomes
+T18	Protein 371 379	proteins
+T19	Protein 405 408	GGA
+T20	Process 409 416	pathway
+T21	Process 433 442	different
+T22	Process 453 460	sorting
+T23	Protein_part 470 501	acidic cluster-dileucine motifs
+T24	Process 515 527	modification
+T25	Protein 531 540	ubiquitin
+T26	Process 553 565	modification
+T27	Protein 587 591	GGAs
+T28	Process 600 607	binding
+T29	Protein_part 617 620	GAT
+T30	Protein 622 625	GGA
+T31	Protein_part 630 649	TOM (target of Myb)
+T32	Protein_part 651 657	domain
+T33	Geometrical_part 678 695	crystal structure
+T34	Protein_part 703 713	GAT domain
+T35	Organism 717 722	human
+T36	Protein 723 727	GGA3
+T37	Value 733 736	1:1
+T38	Category 737 744	complex
+T39	Protein 750 759	ubiquitin
+T40	Value 763 768	2.8-A
+T41	Parameter 769 779	resolution
+T42	Protein 781 790	Ubiquitin
+T43	Chemical 818 824	acidic
+T44	Technique 825 830	patch
+T45	Protein 834 848	helices alpha1
+T46	Protein 853 859	alpha2
+T47	Protein_part 867 889	GAT three-helix bundle
+T48	Protein_part 904 911	Asn-223
+T49	Protein_part 913 920	Leu-227
+T50	Protein_part 922 929	Glu-230
+T51	Protein_part 931 938	Met-231
+T52	Protein_part 940 947	Asp-244
+T53	Protein_part 949 956	Glu-246
+T54	Protein_part 958 965	Leu-247
+T55	Protein_part 967 974	Glu-250
+T56	Protein_part 980 987	Leu-251
+T57	Protein_part 993 996	GAT
+T58	Geometrical_part 1005 1012	surface
+T59	Protein 1016 1025	ubiquitin
+T60	Technique 1043 1048	patch
+T61	Protein_part 1061 1067	Ile-44
+T62	Process 1097 1104	binding
+T63	Protein 1116 1125	ubiquitin
+T64	Protein 1141 1150	ubiquitin
+T65	Protein_part 1159 1163	site
+T66	Unknown 1180 1187	crystal
+T67	Protein 1209 1219	Rabaptin-5
+T68	Protein_part 1228 1232	site
+T69	Protein 1236 1250	helices alpha2
+T70	Protein 1255 1261	alpha3
+T71	Protein_part 1269 1279	GAT domain
+T72	Technique 1281 1300	Mutational analysis
+T73	Unknown 1321 1345	ubiquitin-Rabaptin-5-GAT
+T74	Category 1346 1361	ternary complex
+T75	Protein 1378 1387	ubiquitin
+T76	Protein 1392 1402	Rabaptin-5
+T77	Protein_part 1419 1429	GAT domain
+T78	Process 1437 1446	different
+T79	Protein_part 1447 1452	sites
+T80	Geometrical_part 1465 1471	steric
+T81	Protein_part 1510 1520	GAT domain
+T82	Process 1534 1546	interactions
+T83	Process 1573 1584	trafficking

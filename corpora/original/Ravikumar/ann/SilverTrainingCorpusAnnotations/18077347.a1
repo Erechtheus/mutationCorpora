@@ -1,0 +1,69 @@
+T1	Process 0 16	Characterization
+T2	Protein 53 55	N-
+T3	Protein 60 81	O-glucosyltransferase
+T4	Chemical 94 104	xenobiotic
+T5	Process 105 115	metabolism
+T6	Organism 119 125	plants
+T7	Process 131 144	glucosylation
+T8	Chemical 162 183	pesticide metabolites
+T9	Organism 187 193	plants
+T10	Process 229 238	formation
+T11	Protein_part 253 270	chemical residues
+T12	Organism 282 308	plant Arabidopsis thaliana
+T13	Parameter 309 317	contains
+T14	Value 318 322	>100
+T15	Protein 323 349	glycosyltransferases (GTs)
+T16	Process 378 389	conjugation
+T17	Protein 415 422	enzymes
+T18	Unknown 436 437	O
+T19	Chemical 455 474	chlorinated phenols
+T20	Unknown 486 493	UGT72B1
+T21	Unknown 513 514	N
+T22	Parameter 529 537	activity
+T23	Chemical 545 559	chloroanilines
+T24	Unknown 561 568	UGT72B1
+T25	Protein 587 614	O-glucosyltransferase (OGT)
+T26	Protein 619 646	N-glucosyltransferase (NGT)
+T27	Parameter 681 689	activity
+T28	Geometrical_part 695 704	structure
+T29	Protein 712 719	protein
+T30	Process 735 746	resolutions
+T31	Value 754 760	1.45 A
+T32	Unknown 793 802	Michaelis
+T33	Category 803 810	complex
+T34	Category 823 828	donor
+T35	Unknown 829 835	analog
+T36	Chemical 840 855	trichlorophenol
+T37	Category 856 864	acceptor
+T38	Process 870 889	catalytic mechanism
+T39	Process 894 899	basis
+T40	Unknown 904 907	O/N
+T41	Process 934 945	mutagenesis
+T42	Protein_part 950 956	domain
+T43	Protein 987 993	enzyme
+T44	Organism 999 1021	Brassica napus (BnUGT)
+T45	Protein 1044 1047	OGT
+T46	Parameter 1048 1056	activity
+T47	Process 1058 1066	Mutation
+T48	Organism 1070 1075	BnUGT
+T49	Protein_part 1099 1104	D312N
+T50	Protein_part 1109 1114	F315Y
+T51	Protein 1141 1144	NGT
+T52	Parameter 1145 1153	activity
+T53	Protein_part 1209 1217	residues
+T54	Protein_part 1221 1224	H19
+T55	Unknown 1228 1235	UGT72B1
+T56	Process 1246 1257	mutagenesis
+T57	Protein 1279 1282	NGT
+T58	Parameter 1283 1291	activity
+T59	Organism 1299 1310	Arabidopsis
+T60	Protein 1311 1317	enzyme
+T61	Process 1351 1362	conjugation
+T62	Category 1377 1387	substrates
+T63	Organism 1391 1396	plant
+T64	Protein 1397 1400	GTs
+T65	Process 1419 1439	catalytic plasticity
+T66	Protein 1448 1454	enzyme
+T67	Process 1511 1519	transfer
+T68	Chemical 1523 1531	nitrogen
+T69	Category 1538 1547	acceptors

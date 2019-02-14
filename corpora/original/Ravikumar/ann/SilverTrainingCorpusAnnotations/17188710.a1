@@ -1,0 +1,74 @@
+T1	Process 0 15	Point mutations
+T2	Protein 23 28	HIV-1
+T3	Body_part 29 35	matrix
+T4	Protein 36 43	protein
+T5	Process 66 72	switch
+T6	State 90 95	phase
+T7	Protein 99 142	human immunodeficiency virus type-1 (HIV-1)
+T8	Process 143 154	replication
+T9	Organism 174 184	retroviral
+T10	Protein 185 197	Gag proteins
+T11	Body_part 214 224	lipid raft
+T12	Protein_part 225 232	regions
+T13	Body_part 245 263	cellular membranes
+T14	Body_part 289 292	bud
+T15	Organism 305 310	virus
+T16	Unknown 311 320	particles
+T17	Protein 322 325	Gag
+T18	Body_part 354 374	plasma membrane (PM)
+T19	Body_part 383 407	hematopoietic cell types
+T20	Process 411 418	process
+T21	Process 431 443	interactions
+T22	Body_part 456 467	cellular PM
+T23	Molecule 468 474	marker
+T24	Chemical 475 514	phosphatidylinositol-(4,5)-bisphosphate
+T25	Unknown 516 518	PI
+T26	Value 519 522	4,5
+T27	Unknown 522 527	)P(2)
+T28	Body_part 533 577	Gag's N-terminally myristoylated matrix (MA)
+T29	Protein_part 578 584	domain
+T30	Chemical 616 627	PI(4,5)P(2)
+T31	Geometrical_part 639 654	conserved cleft
+T32	Body_part 658 660	MA
+T33	Chemical 674 683	myristate
+T34	Process 684 692	exposure
+T35	Process 707 711	role
+T36	Body_part 729 737	membrane
+T37	Geometrical_part 738 744	anchor
+T38	Process 758 764	switch
+T39	Chemical 792 803	PI(4,5)P(2)
+T40	Body_part 834 836	MA
+T41	Protein 837 845	proteins
+T42	Process 857 872	point mutations
+T43	Body_part 886 894	membrane
+T44	Process 895 902	binding
+T45	Body_part 936 939	V7R
+T46	Body_part 941 944	L8A
+T47	Body_part 949 952	L8I
+T48	Molecule 969 976	mutants
+T49	Chemical 992 1003	PI(4,5)P(2)
+T50	Parameter 1008 1021	concentration
+T51	Chemical 1032 1041	myristate
+T52	Process 1042 1050	exposure
+T53	Technique 1052 1055	NMR
+T54	Body_part 1067 1070	V7R
+T55	Body_part 1075 1081	L8A MA
+T56	Process 1107 1114	changes
+T57	Chemical 1165 1203	myristate-sequestered (myr(s)) species
+T58	Process 1219 1227	exposure
+T59	Molecular_Part 1256 1261	group
+T60	Molecule 1277 1283	mutant
+T61	Body_part 1296 1298	PM
+T62	Parameter 1309 1319	properties
+T63	Body_part 1321 1324	V7R
+T64	Protein_part 1325 1329	L21K
+T65	Chemical 1378 1389	PI(4,5)P(2)
+T66	Process 1390 1397	binding
+T67	Chemical 1417 1428	PI(4,5)P(2)
+T68	Value 1434 1448	twofold higher
+T69	Parameter 1449 1457	affinity
+T70	Protein 1483 1490	protein
+T71	Parameter 1505 1514	potential
+T72	Process 1528 1537	mechanism
+T73	Body_part 1542 1550	membrane
+T74	Process 1551 1558	binding

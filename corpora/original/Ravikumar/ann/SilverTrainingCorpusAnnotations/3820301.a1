@@ -1,0 +1,83 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 15	structure
+T3	Process 20 30	refinement
+T4	Chemical 34 47	carbon-monoxy
+T5	Chemical 49 51	Fe
+T6	Chemical 52 54	II
+T7	Protein 55 65	-myoglobin
+T8	Value 69 74	1.5 A
+T9	Parameter 75 85	resolution
+T10	Unknown 91 100	structure
+T11	Chemical 104 117	carbon-monoxy
+T12	Chemical 119 121	Fe
+T13	Chemical 122 124	II
+T14	Protein 126 135	myoglobin
+T15	Value 139 144	260 K
+T16	Parameter 166 176	resolution
+T17	Value 180 185	1.5 A
+T18	Technique 189 206	X-ray diffraction
+T19	Technique 239 244	X-ray
+T20	Unknown 283 285	CO
+T21	Category 286 292	ligand
+T22	State 338 350	conformation
+T23	Chemical 365 374	compounds
+T24	State 389 402	conformations
+T25	Chemical 409 417	Fe--C--O
+T26	Parameter 418 424	angles
+T27	Value 428 439	140 degrees
+T28	Value 444 455	120 degrees
+T29	Unknown 483 489	system
+T30	Chemical 495 506	heme pocket
+T31	Protein 539 554	deoxy-myoglobin
+T32	Protein_part 567 582	distal residues
+T33	Category 607 613	ligand
+T34	Process 627 639	displacement
+T35	Location 655 661	distal
+T36	Protein_part 662 682	histidine side-chain
+T37	Value 696 711	more than 1.4 A
+T38	Category 715 721	ligand
+T39	Process 722 729	binding
+T40	Protein_part 735 745	side-chain
+T41	Protein_part 749 754	Arg45
+T42	Protein_part 755 756	(
+T43	Protein_part 756 759	CD3
+T44	Protein_part 759 760	)
+T45	State 822 835	conformations
+T46	Process 869 875	motion
+T47	Location 883 889	distal
+T48	Protein_part 890 899	histidine
+T49	Process 911 918	binding
+T50	Geometrical_part 919 925	pocket
+T51	Process 940 949	mechanism
+T52	Category 954 960	ligand
+T53	Process 961 966	entry
+T54	Chemical 972 976	heme
+T55	Molecular_Part 977 982	group
+T56	Parameter 994 1020	root-mean-square deviation
+T57	Value 1039 1045	0.08 A
+T58	Chemical 1069 1076	pyrrole
+T59	Molecular_Part 1077 1083	groups
+T60	Protein 1089 1104	Fe--N epsilon 2
+T61	Protein_part 1106 1111	His93
+T62	Parameter 1113 1124	bond length
+T63	Value 1128 1133	2.2 A
+T64	Chemical 1142 1152	Fe--C bond
+T65	Parameter 1153 1159	length
+T66	Unknown 1167 1169	CO
+T67	Category 1170 1177	complex
+T68	Value 1181 1186	1.9 A
+T69	Chemical 1192 1196	iron
+T70	Geometrical_part 1218 1223	plane
+T71	Chemical 1231 1235	heme
+T72	Location 1259 1267	proximal
+T73	Protein_part 1268 1277	histidine
+T74	Value 1288 1293	0.4 A
+T75	Protein 1322 1337	deoxy-myoglobin
+T76	Process 1344 1349	shift
+T77	Process 1386 1392	change
+T78	Location 1403 1411	proximal
+T79	Geometrical_part 1412 1416	part
+T80	Molecule 1424 1432	molecule
+T81	Chemical 1456 1460	heme
+T82	Unknown 1468 1473	CRDT-
+T83	Value 1482 1490	05 00:00

@@ -1,0 +1,45 @@
+T1	Process 11 16	basis
+T2	Process 25 36	methylation
+T3	Protein_part 37 41	site
+T4	Unknown 57 63	SET7/9
+T5	Organism 65 70	Human
+T6	Unknown 71 77	SET7/9
+T7	Protein 83 122	protein lysine methyltransferase (PKMT)
+T8	Protein 139 149	histone H3
+T9	Protein 155 175	tumor suppressor p53
+T10	Protein 184 187	TBP
+T11	Protein 199 211	factor TAF10
+T12	Category 250 259	substrate
+T13	Protein 292 300	enzyme's
+T14	Unknown 301 310	structure
+T15	Protein_part 322 335	TAF10 peptide
+T16	Protein 374 385	histone  H3
+T17	Protein 387 392	TAF10
+T18	Protein 397 400	p53
+T19	Category 401 411	substrates
+T20	Process 427 436	mutations
+T21	Process 449 462	modifications
+T22	Process 487 498	methylation
+T23	Protein_part 499 504	sites
+T24	Unknown 541 547	SET7/9
+T25	Protein_part 571 586	K/R-S/T/A motif
+T26	Protein_part 601 607	lysine
+T27	Category 608 617	substrate
+T28	Protein_part 648 658	aspartates
+T29	Protein_part 663 674	asparagines
+T30	Protein_part 682 692	C-terminal
+T31	Location 693 697	side
+T32	Protein_part 705 711	lysine
+T33	Process 712 718	target
+T34	Protein_part 735 743	sequence
+T35	Protein_part 769 774	motif
+T36	Category 793 803	substrates
+T37	Protein 813 817	PKMT
+T38	Process 838 845	targets
+T39	Protein 849 853	TAF7
+T40	Protein_part 878 882	Lys5
+T41	Protein 890 896	enzyme
+T42	Parameter 948 953	value
+T43	Protein_part 971 976	motif
+T44	Category 998 1008	substrates
+T45	Unknown 1013 1019	SET7/9

@@ -1,0 +1,56 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 23 27	Y35G
+T3	Molecule 28 34	mutant
+T4	Category 38 73	bovine pancreatic trypsin inhibitor
+T5	Geometrical_part 79 88	structure
+T6	Protein_part 94 98	Y35G
+T7	Molecule 99 105	mutant
+T8	Category 109 151	bovine pancreatic trypsin inhibitor (BPTI)
+T9	Process 167 188	molecular replacement
+T10	Value 265 270	1.8 A
+T11	Parameter 271 281	resolution
+T12	Unknown 287 295	crystals
+T13	Geometrical_part 310 328	space group P42212
+T14	Geometrical_part 335 344	unit cell
+T15	Parameter 345 355	dimensions
+T16	Parameter 360 361	b
+T17	Value 364 371	46.75 A
+T18	Parameter 373 374	c
+T19	Value 377 384	50.61 A
+T20	Parameter 396 404	R-factor
+T21	Value 408 413	0.159
+T22	Process 422 431	deviation
+T23	Chemical 450 454	bond
+T24	Parameter 455 464	distances
+T25	Value 468 474	0.02 A
+T26	Unknown 480 489	structure
+T27	Protein 536 543	protein
+T28	Parameter 564 589	root-mean-square (r.m.s.)
+T29	Process 590 600	difference
+T30	Value 604 610	1.86 A
+T31	Chemical 615 631	main-chain atoms
+T32	Process 646 652	change
+T33	Parameter 702 715	r.m.s. values
+T34	Value 719 725	2.04 A
+T35	Value 730 734	3.93
+T36	Protein_part 735 737	A)
+T37	Protein_part 746 756	C terminus
+T38	Value 765 769	6.79
+T39	Unknown 770 772	A)
+T40	Protein 796 803	protein
+T41	Value 830 834	0.45
+T42	Unknown 835 837	A)
+T43	Process 843 849	change
+T44	Geometrical_part 857 861	loop
+T45	Protein_part 862 869	regions
+T46	Process 904 912	mutation
+T47	Process 923 933	difference
+T48	Protein_part 941 951	C terminus
+T49	Process 976 985	different
+T50	Unknown 986 993	crystal
+T51	Process 994 1001	packing
+T52	Chemical 1011 1026	water molecules
+T53	Geometrical_part 1097 1113	native structure
+T54	Parameter 1123 1133	parameters
+T55	Process 1153 1164	correlation
+T56	Category 1197 1201	BPTI

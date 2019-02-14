@@ -1,0 +1,51 @@
+T1	Process 15 24	mechanism
+T2	Process 32 46	autoactivation
+T3	Protein 54 77	complement protease C1r
+T4	Protein_part 86 88	C1
+T5	Category 89 96	complex
+T6	Unknown 98 107	structure
+T7	Protein_part 132 138	region
+T8	Protein 142 145	C1r
+T9	Protein 147 150	C1r
+T10	Protein 164 179	serine protease
+T11	Parameter 208 217	component
+T12	Protein_part 225 227	C1
+T13	Category 229 236	complex
+T14	Process 254 261	pathway
+T15	Body_part 269 286	complement system
+T16	Geometrical_part 317 334	crystal structure
+T17	Protein_part 366 372	region
+T18	Organism 376 381	human
+T19	Protein 382 385	C1r
+T20	Unknown 393 401	fragment
+T21	Protein_part 415 453	C-terminal serine protease (SP) domain
+T22	Protein 476 508	complement control protein (CCP)
+T23	Protein 532 553	CCP1-CCP2-SP fragment
+T24	Protein 565 570	dimer
+T25	Protein_part 576 588	head-to-tail
+T26	Protein 639 646	zymogen
+T27	Unknown 660 669	structure
+T28	Process 711 723	interactions
+T29	Unknown 742 749	crystal
+T30	Parameter 785 797	relationship
+T31	Molecule 810 823	C1r molecules
+T32	Protein 839 845	dimers
+T33	Category 867 874	complex
+T34	Chemical 896 913	S1-P1 salt bridge
+T35	Protein_part 922 928	Asp631
+T36	Protein_part 934 949	Arg446 residues
+T37	Process 970 981	interaction
+T38	Protein 994 998	CCP2
+T39	Protein_part 1014 1023	SP domain
+T40	Process 1121 1135	autoactivation
+T41	Protein 1143 1146	C1r
+T42	Process 1269 1283	autoactivation
+T43	Protein 1287 1290	C1r
+T44	Process 1321 1329	movement
+T45	Unknown 1333 1336	C1q
+T46	State 1376 1385	stability
+T47	Protein_part 1393 1395	C1
+T48	Category 1396 1403	complex
+T49	Process 1411 1421	activation
+T50	Process 1434 1444	complement
+T51	Geometrical_part 1445 1455	components

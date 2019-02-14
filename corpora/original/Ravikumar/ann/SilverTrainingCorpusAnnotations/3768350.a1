@@ -1,0 +1,68 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 36 54	Pseudomonas putida
+T3	Protein 55 71	cytochrome P-450
+T4	Geometrical_part 77 94	crystal structure
+T5	Organism 98 116	Pseudomonas putida
+T6	Protein 117 136	cytochrome P-450cam
+T7	Value 184 190	2.20-A
+T8	Parameter 191 201	resolution
+T9	Category 222 231	substrate
+T10	Protein 250 256	enzyme
+T11	Process 265 272	absence
+T12	Category 280 289	substrate
+T13	Chemical 290 297	camphor
+T14	Chemical 304 327	P-450cam heme iron atom
+T15	Chemical 355 366	sulfur atom
+T16	Protein_part 370 377	Cys-357
+T17	Location 392 397	axial
+T18	Chemical 398 402	heme
+T19	Category 403 409	ligand
+T20	Chemical 416 430	water molecule
+T21	Chemical 434 447	hydroxide ion
+T22	Location 468 473	axial
+T23	Category 474 480	ligand
+T24	Physiology 484 491	network
+T25	Chemical 495 503	hydrogen
+T26	Chemical 511 528	solvent molecules
+T27	Category 542 551	substrate
+T28	Geometrical_part 552 558	pocket
+T29	Chemical 578 582	iron
+T30	Category 595 601	ligand
+T31	Chemical 610 626	camphor molecule
+T32	Protein_part 638 649	active site
+T33	Chemical 650 656	waters
+T34	Category 676 682	ligand
+T35	Chemical 713 728	pentacoordinate
+T36	Chemical 739 753	heme iron atom
+T37	Technique 755 763	Analysis
+T38	Chemical 771 782	Fno camphor
+T39	Chemical 787 794	camphor
+T40	Process 795 805	difference
+T41	Unknown 806 813	Fourier
+T42	Process 833 843	comparison
+T43	Unknown 863 873	structures
+T44	State 900 914	conformational
+T45	Process 915 921	change
+T46	Chemical 935 942	camphor
+T47	Process 943 950	binding
+T48	Protein_part 989 1002	phenylalanine
+T49	Protein_part 1003 1013	side chain
+T50	Process 1019 1027	contacts
+T51	Chemical 1032 1048	camphor molecule
+T52	Process 1065 1074	decreases
+T53	Parameter 1082 1106	mean temperature factors
+T54	Protein_part 1125 1133	segments
+T55	Protein 1141 1148	protein
+T56	Protein_part 1161 1167	Tyr-96
+T57	Protein_part 1169 1176	Thr-185
+T58	Protein_part 1182 1189	Asp-251
+T59	Chemical 1202 1209	camphor
+T60	Process 1210 1217	binding
+T61	Chemical 1239 1246	camphor
+T62	Process 1247 1254	binding
+T63	Protein_part 1296 1303	regions
+T64	Molecule 1311 1328	P-450cam molecule
+T65	Parameter 1350 1354	mean
+T66	Chemical 1371 1376	atoms
+T67	Unknown 1387 1392	CRDT-
+T68	Value 1401 1409	09 00:00

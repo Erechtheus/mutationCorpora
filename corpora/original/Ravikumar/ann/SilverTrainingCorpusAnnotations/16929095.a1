@@ -1,0 +1,99 @@
+T1	Unknown 0 9	Structure
+T2	Organism 15 21	bovine
+T3	Process 32 42	signalling
+T4	Protein 43 55	glycoprotein
+T5	Protein 57 63	SPC-40
+T6	Value 68 71	2.1
+T7	Unknown 72 80	Angstrom
+T8	Parameter 82 92	resolution
+T9	Protein 129 149	40 kDa glycoproteins
+T10	Parameter 164 173	component
+T11	Protein 191 199	proteins
+T12	Process 211 221	secretions
+T13	Chemical 225 238	non-lactating
+T14	Organism 239 246	animals
+T15	Protein 254 262	proteins
+T16	Process 292 302	signalling
+T17	Protein 303 310	factors
+T18	Body_part 332 337	cells
+T19	Process 364 373	processes
+T20	Body_part 385 391	tissue
+T21	Process 392 403	remodelling
+T22	Process 432 436	role
+T23	Process 444 455	remodelling
+T24	Body_part 459 473	mammary glands
+T25	Geometrical_part 488 515	three-dimensional structure
+T26	Organism 523 529	bovine
+T27	Process 530 540	signalling
+T28	Protein 541 553	glycoprotein
+T29	Protein 555 561	SPC-40
+T30	Technique 589 610	X-ray crystallography
+T31	Protein 612 618	SPC-40
+T32	Organism 637 643	bovine
+T33	Process 649 659	secretions
+T34	Chemical 700 716	vapour-diffusion
+T35	Unknown 729 737	crystals
+T36	Geometrical_part 765 790	space group P2(1)2(1)2(1)
+T37	Body_part 797 806	unit-cell
+T38	Parameter 807 817	parameters
+T39	Parameter 818 819	a
+T40	Value 822 826	62.6
+T41	Parameter 828 829	b
+T42	Value 832 836	67.4
+T43	Parameter 838 839	c
+T44	Value 842 847	106.9
+T45	Unknown 848 856	Angstrom
+T46	Protein 862 869	protein
+T47	Protein_part 921 940	amino-acid sequence
+T48	Geometrical_part 946 973	three-dimensional structure
+T49	Value 1008 1011	2.1
+T50	Unknown 1012 1020	Angstrom
+T51	Parameter 1021 1031	resolution
+T52	Protein_part 1037 1056	amino-acid sequence
+T53	Protein 1074 1080	SPC-40
+T54	Process 1103 1118	N-glycosylation
+T55	Protein_part 1119 1124	sites
+T56	Protein_part 1128 1133	Asn39
+T57	Protein_part 1138 1144	Asn345
+T58	Molecule 1150 1158	electron
+T59	Parameter 1159 1166	density
+T60	Protein 1173 1185	glycan chain
+T61	Protein_part 1206 1211	Asn39
+T62	Protein 1217 1224	protein
+T63	State 1234 1246	conformation
+T64	Geometrical_part 1266 1293	(beta/alpha)(8)-barrel fold
+T65	Protein 1297 1322	triosephosphate isomerase
+T66	Geometrical_part 1324 1334	TIM barrel
+T67	Protein_part 1336 1350	residues 1-237
+T68	Protein_part 1355 1362	310-360
+T69	Process 1373 1382	insertion
+T70	Protein_part 1394 1411	alpha+beta domain
+T71	Protein_part 1413 1421	residues
+T72	Protein 1459 1469	chitinases
+T73	Process 1484 1496	substitution
+T74	Protein_part 1500 1503	Leu
+T75	Protein_part 1508 1511	Glu
+T76	Protein_part 1539 1547	sequence
+T77	Protein 1551 1557	SPC-40
+T78	Process 1567 1571	loss
+T79	Protein 1575 1584	chitinase
+T80	Parameter 1586 1594	activity
+T81	Protein 1613 1619	chitin
+T82	Geometrical_part 1628 1634	groove
+T83	Protein 1638 1644	SPC-40
+T84	State 1693 1706	conformations
+T85	Protein_part 1718 1726	residues
+T86	Protein_part 1738 1743	Trp78
+T87	Protein_part 1745 1751	Tyr120
+T88	Protein_part 1753 1759	Asp186
+T89	Protein_part 1764 1770	Arg242
+T90	Geometrical_part 1778 1785	surface
+T91	Geometrical_part 1786 1791	loops
+T92	Protein_part 1793 1806	His188-His197
+T93	Protein_part 1808 1821	Phe202-Arg212
+T94	Protein_part 1826 1839	Tyr244-Pro260
+T95	Parameter 1865 1874	B factors
+T96	Technique 1912 1924	Fluorescence
+T97	Chemical 1955 1961	sugars
+T98	Protein 1970 1976	SPC-40
+T99	Parameter 1986 1996	affinities

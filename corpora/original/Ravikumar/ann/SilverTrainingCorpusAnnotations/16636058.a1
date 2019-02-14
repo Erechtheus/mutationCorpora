@@ -1,0 +1,66 @@
+T1	Process 0 13	Contributions
+T2	Protein_part 17 34	phenylalanine 335
+T3	Category 38 44	ligand
+T4	Process 45 56	recognition
+T5	Organism 60 65	human
+T6	Protein 66 86	surfactant protein D
+T7	Geometrical_part 88 92	ring
+T8	Process 93 105	interactions
+T9	Protein 111 115	SP-D
+T10	Category 116 123	ligands
+T11	Protein 125 152	Surfactant protein D (SP-D)
+T12	Body_part 166 172	immune
+T13	Chemical 202 215	antimicrobial
+T14	Physiology 216 228	host defense
+T15	Body_part 233 239	immune
+T16	Process 240 250	regulation
+T17	Process 252 264	Interactions
+T18	Protein 268 272	SP-D
+T19	Organism 278 292	microorganisms
+T20	Protein 305 313	antigens
+T21	Chemical 333 348	glycoconjugates
+T22	Protein_part 356 407	C-type lectin carbohydrate recognition domain (CRD)
+T23	Protein 411 434	trimeric fusion protein
+T24	Organism 448 453	human
+T25	Protein_part 454 462	neck+CRD
+T26	Chemical 476 526	aromatic glycoside p-nitrophenyl-alpha-D-maltoside
+T27	Value 550 556	higher
+T28	Parameter 557 565	affinity
+T29	Chemical 571 578	maltose
+T30	Chemical 609 620	Maltotriose
+T31	Protein_part 641 648	linkage
+T32	Molecule 686 698	intermediate
+T33	Parameter 699 707	affinity
+T34	Protein_part 709 713	Site
+T35	Process 723 735	substitution
+T36	Protein_part 739 746	leucine
+T37	Protein_part 751 768	phenylalanine 335
+T38	Protein_part 770 777	Phe-335
+T39	Parameter 789 799	affinities
+T40	Chemical 823 834	maltotriose
+T41	Parameter 870 878	affinity
+T42	Chemical 883 890	maltose
+T43	Chemical 894 901	glucose
+T44	Process 907 919	substitution
+T45	Protein_part 923 931	tyrosine
+T46	Protein_part 935 945	tryptophan
+T47	Protein_part 950 957	leucine
+T48	Chemical 991 1002	maltotriose
+T49	Molecule 1024 1030	mutant
+T50	Protein_part 1036 1043	alanine
+T51	Chemical 1079 1085	mannan
+T52	Chemical 1089 1108	maltose-substituted
+T53	Technique 1125 1150	Crystallographic analysis
+T54	Organism 1158 1163	human
+T55	Protein_part 1164 1172	neck+CRD
+T56	Chemical 1188 1199	maltotriose
+T57	Chemical 1203 1226	p-nitrophenyl-maltoside
+T58	Chemical 1250 1266	terminal glucose
+T59	Chemical 1270 1286	nitrophenyl ring
+T60	Geometrical_part 1305 1309	ring
+T61	Protein_part 1313 1320	Phe-335
+T62	Protein_part 1348 1355	Phe-335
+T63	Protein 1404 1409	SP-Ds
+T64	Process 1445 1450	roles
+T65	Protein 1454 1458	SP-D
+T66	Process 1459 1467	function

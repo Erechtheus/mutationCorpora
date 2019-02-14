@@ -1,0 +1,73 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Organism 31 38	porcine
+T3	Protein 39 60	procarboxypeptidase B
+T4	Process 75 80	basis
+T5	Protein 101 122	Procarboxypeptidase B
+T6	Protein 160 178	carboxypeptidase B
+T7	Process 191 202	proteolysis
+T8	Protein 216 223	trypsin
+T9	Protein_part 243 253	N-terminal
+T10	Process 254 264	activation
+T11	Protein_part 265 272	segment
+T12	Protein_part 279 290	amino acids
+T13	Geometrical_part 314 331	crystal structure
+T14	Protein 335 356	procarboxypeptidase B
+T15	Organism 362 369	porcine
+T16	Body_part 370 378	pancreas
+T17	Value 402 407	2.3 A
+T18	Parameter 408 418	resolution
+T19	Technique 436 452	crystallographic
+T20	Parameter 453 461	R-factor
+T21	Value 465 470	0.169
+T22	Protein 507 516	enzymatic
+T23	Process 539 549	activation
+T24	Process 561 572	proteolysis
+T25	Process 602 612	activation
+T26	Protein_part 613 620	segment
+T27	Protein_part 632 647	globular region
+T28	Food 661 669	sandwich
+T29	Protein 670 706	antiparallel-alpha antiparallel-beta
+T30	Protein_part 725 747	C terminal alpha-helix
+T31	Protein 773 779	enzyme
+T32	Molecular_Part 780 786	moiety
+T33	Protein_part 792 816	globular region (A7-A82)
+T34	Protein_part 839 850	active site
+T35	Process 877 889	interactions
+T36	Protein_part 895 903	residues
+T37	Category 918 927	substrate
+T38	Process 928 939	recognition
+T39	Unknown 941 947	AspA41
+T40	Chemical 956 967	salt bridge
+T41	Protein_part 973 979	Arg145
+T42	Protein 997 1013	carboxypeptidase
+T43	Chemical 1024 1043	C-terminal carboxyl
+T44	Molecular_Part 1044 1049	group
+T45	Category 1053 1062	substrate
+T46	Molecule 1063 1072	molecules
+T47	Protein_part 1078 1095	connecting region
+T48	Category 1127 1136	substrate
+T49	Process 1137 1144	binding
+T50	Protein_part 1145 1149	site
+T51	Chemical 1164 1176	peptide bond
+T52	Protein 1188 1195	trypsin
+T53	Process 1203 1213	activation
+T54	Process 1235 1243	cleavage
+T55	Process 1257 1264	release
+T56	Process 1272 1282	activation
+T57	Protein_part 1283 1290	segment
+T58	Process 1298 1306	exposure
+T59	Category 1314 1323	substrate
+T60	Process 1324 1331	binding
+T61	Protein_part 1332 1336	site
+T62	Process 1355 1362	folding
+T63	Protein 1402 1410	proteins
+T64	Protein 1415 1422	protein
+T65	Protein_part 1423 1430	domains
+T66	Protein_part 1451 1470	C-terminal fragment
+T67	Protein 1474 1480	L7/L12
+T68	Body_part 1484 1493	ribosomal
+T69	Protein 1494 1501	protein
+T70	Organism 1507 1523	Escherichia coli
+T71	Process 1564 1574	activation
+T72	Protein_part 1575 1581	domain
+T73	Protein 1585 1604	procarboxypeptidase

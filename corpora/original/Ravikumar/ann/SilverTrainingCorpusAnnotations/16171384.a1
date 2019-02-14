@@ -1,0 +1,65 @@
+T1	Unknown 4 13	structure
+T2	Process 18 34	characterization
+T3	Protein 48 71	endo-beta-1,4-mannanase
+T4	Organism 77 94	Cellulomonas fimi
+T5	Protein 100 123	endo-beta-1,4-mannanase
+T6	Organism 138 165	bacterium Cellulomonas fimi
+T7	Organism 179 184	plant
+T8	Body_part 185 194	cell wall
+T9	Protein 205 211	enzyme
+T10	Process 228 238	hydrolysis
+T11	Chemical 258 264	mannan
+T12	Chemical 291 306	polysaccharides
+T13	Physiology 329 336	network
+T14	Organism 344 349	plant
+T15	Body_part 350 359	cell wall
+T16	Geometrical_part 365 382	crystal structure
+T17	Protein 410 433	endo-beta-1,4-mannanase
+T18	Organism 439 461	C. fimi (CfMan26A-50K)
+T19	Technique 480 501	X-ray crystallography
+T20	Value 505 511	2.25 A
+T21	Parameter 512 522	resolution
+T22	Process 533 554	molecular replacement
+T23	Technique 555 564	technique
+T24	Geometrical_part 578 587	structure
+T25	Protein 595 601	enzyme
+T26	Unknown 621 641	(beta/alpha)8-barrel
+T27	Chemical 682 686	GH-A
+T28	Molecular_Part 705 711	linker
+T29	Protein 718 732	immunoglobulin
+T30	Process 756 764	function
+T31	Category 768 775	complex
+T32	Chemical 785 812	oligosaccharide mannotriose
+T33	Value 816 821	2.9 A
+T34	Parameter 822 832	resolution
+T35	Geometrical_part 867 883	native structure
+T36	Category 892 899	complex
+T37	Chemical 918 921	ion
+T38	Protein_part 935 945	-1 subsite
+T39	Protein_part 953 961	subsites
+T40	Chemical 993 1004	mannotriose
+T41	Category 1012 1019	complex
+T42	Protein 1021 1027	Enzyme
+T43	Parameter 1029 1036	kinetic
+T44	Technique 1037 1045	analysis
+T45	Technique 1054 1062	analysis
+T46	Process 1066 1076	hydrolysis
+T47	Category 1077 1085	products
+T48	Chemical 1091 1113	manno-oligosaccharides
+T49	Chemical 1118 1131	mannopentitol
+T50	Protein_part 1155 1172	active-site cleft
+T51	Protein_part 1173 1181	subsites
+T52	Organism 1183 1195	CfMan26A-50K
+T53	Parameter 1207 1215	affinity
+T54	Protein_part 1216 1226	-3 subsite
+T55	Protein_part 1232 1238	Phe325
+T56	Chemical 1284 1291	mannose
+T57	Parameter 1302 1310	property
+T58	Protein 1318 1324	enzyme
+T59	Process 1337 1348	differences
+T60	Protein 1369 1419	Cellvibrio japonicus beta-1,4-mannanase (CjMan26A)
+T61	Protein_part 1434 1445	-3 subsites
+T62	Process 1467 1478	performance
+T63	Molecule 1482 1490	CfMan26A
+T64	Molecule 1491 1498	mutants
+T65	Chemical 1502 1518	"glycosynthases"

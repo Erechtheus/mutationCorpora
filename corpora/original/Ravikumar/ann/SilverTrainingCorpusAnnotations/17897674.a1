@@ -1,0 +1,93 @@
+T1	Category 18 27	substrate
+T2	Process 44 59	oligomerisation
+T3	Protein 67 82	leader protease
+T4	Body_part 86 90	foot
+T5	Body_part 95 100	mouth
+T6	Physiology 101 108	disease
+T7	Organism 109 114	virus
+T8	Technique 121 124	NMR
+T9	Protein 130 153	leader protease (Lbpro)
+T10	Physiology 172 179	disease
+T11	Organism 180 185	virus
+T12	Process 206 217	translation
+T13	Organism 227 232	viral
+T14	Protein 233 244	polyprotein
+T15	Process 248 256	cleavage
+T16	Protein_part 273 283	C terminus
+T17	Protein_part 292 302	N terminus
+T18	Protein 321 328	protein
+T19	Protein 330 333	VP4
+T20	Protein 335 340	Lbpro
+T21	Organism 371 375	host
+T22	Protein 376 423	proteins eukaryotic initiation factor (eIF) 4GI
+T23	Unknown 428 432	4GII
+T24	Organism 449 453	host
+T25	Body_part 454 458	cell
+T26	Protein 459 466	protein
+T27	Process 467 476	synthesis
+T28	Technique 486 489	NMR
+T29	Protein 511 516	Lbpro
+T30	Organism 541 548	species
+T31	Protein_part 561 591	C-terminal amino acid residues
+T32	Protein 593 599	sLbpro
+T33	Process 617 626	mechanism
+T34	Geometrical_part 651 671	quaternary structure
+T35	Category 680 689	substrate
+T36	Protein 708 713	Lbpro
+T37	Unknown 734 743	structure
+T38	Chemical 747 755	solution
+T39	Unknown 766 773	crystal
+T40	Geometrical_part 782 800	solution structure
+T41	Protein 804 810	sLbpro
+T42	Protein_part 819 837	residue C-terminal
+T43	Process 838 847	extension
+T44	Protein_part 897 915	residue C-terminal
+T45	Process 916 925	extension
+T46	Protein 942 947	Lbpro
+T47	Category 965 974	substrate
+T48	Protein_part 983 987	site
+T49	Molecule 1006 1014	molecule
+T50	Process 1033 1042	formation
+T51	Protein 1055 1060	dimer
+T52	Chemical 1064 1072	solution
+T53	Protein 1078 1089	Lbpro dimer
+T54	Parameter 1133 1147	ionic strength
+T55	Process 1154 1162	dilution
+T56	Process 1177 1186	titration
+T57	Protein_part 1198 1206	peptides
+T58	Category 1221 1231	substrates
+T59	Protein 1250 1255	dimer
+T60	Protein 1291 1296	dimer
+T61	Protein_part 1302 1310	peptides
+T62	Protein 1335 1341	sLbpro
+T63	Category 1359 1368	substrate
+T64	Process 1369 1376	binding
+T65	Protein_part 1377 1381	site
+T66	Protein_part 1383 1390	Peptide
+T67	Process 1391 1398	binding
+T68	Chemical 1412 1420	chemical
+T69	Process 1421 1427	shifts
+T70	Protein_part 1431 1439	residues
+T71	Protein 1451 1457	sLbpro
+T72	Category 1458 1467	substrate
+T73	Process 1468 1475	binding
+T74	Protein_part 1476 1480	site
+T75	Process 1482 1488	Shifts
+T76	Protein_part 1492 1498	Asn146
+T77	Protein_part 1503 1509	Glu147
+T78	Protein_part 1531 1539	residues
+T79	Unknown 1555 1563	enzyme's
+T80	Protein_part 1564 1572	S1' site
+T81	Protein_part 1595 1615	P1' arginine residue
+T82	Protein 1623 1629	eIF4GI
+T83	Process 1630 1638	cleavage
+T84	Protein_part 1639 1643	site
+T85	Process 1659 1670	differences
+T86	Category 1674 1683	substrate
+T87	Protein 1704 1710	sLbpro
+T88	Protein 1715 1720	Lbpro
+T89	Protein 1758 1765	protein
+T90	Process 1780 1791	involvement
+T91	Protein_part 1799 1809	C terminus
+T92	Category 1813 1822	substrate
+T93	Process 1823 1834	recognition

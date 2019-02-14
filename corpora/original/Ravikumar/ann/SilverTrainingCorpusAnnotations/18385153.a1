@@ -1,0 +1,46 @@
+T1	Chemical 11 15	dNTP
+T2	Process 16 29	incorporation
+T3	Protein 33 52	DNA polymerase beta
+T4	Process 83 92	different
+T5	State 93 107	conformational
+T6	Process 108 116	pathways
+T7	Protein 136 151	DNA polymerases
+T8	Process 152 159	control
+T9	Process 178 189	elucidation
+T10	Process 197 207	mechanisms
+T11	Chemical 234 238	dNTP
+T12	Process 239 253	incorporations
+T13	Category 307 316	complexes
+T14	Parameter 373 408	small-angle X-ray scattering (SAXS)
+T15	Molecular_Part 436 441	probe
+T16	State 446 459	conformations
+T17	Process 463 472	different
+T18	Molecule 473 485	intermediate
+T19	State 486 492	states
+T20	Organism 496 505	mammalian
+T21	Protein 506 536	DNA polymerase beta (Pol beta)
+T22	Unknown 573 580	variant
+T23	Unknown 582 587	I260Q
+T24	Category 641 656	ternary complex
+T25	Unknown 749 751	WT
+T26	Unknown 776 781	I260Q
+T27	Process 790 795	basis
+T28	Process 824 842	over-stabilization
+T29	Category 857 872	ternary complex
+T30	Unknown 876 881	I260Q
+T31	Process 902 911	formation
+T32	Chemical 917 933	hydrogen bonding
+T33	Physiology 934 941	network
+T34	Protein_part 954 965	side chains
+T35	Protein_part 969 977	Gln(260)
+T36	Protein_part 979 987	Tyr(296)
+T37	Protein_part 989 997	Glu(295)
+T38	Protein_part 1002 1010	Arg(258)
+T39	Protein_part 1023 1031	Asp(192)
+T40	Chemical 1046 1052	MgdNTP
+T41	Chemical 1125 1129	dNTP
+T42	Process 1130 1144	incorporations
+T43	State 1154 1168	conformational
+T44	Chemical 1216 1220	dNTP
+T45	Process 1221 1234	incorporation
+T46	State 1248 1262	conformational

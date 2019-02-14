@@ -1,0 +1,75 @@
+T1	Process 18 27	mechanism
+T2	Geometrical_part 48 66	crystal structures
+T3	Body_part 74 84	peroxisome
+T4	Molecule 85 97	proliferator
+T5	Protein 108 122	receptor gamma
+T6	Category 123 129	ligand
+T7	Protein_part 138 144	domain
+T8	Category 152 159	complex
+T9	Category 182 189	ligands
+T10	Protein 195 246	peroxisome proliferator-activated receptors (PPARs)
+T11	Molecule 251 277	transcriptional regulators
+T12	Chemical 281 288	glucose
+T13	Chemical 293 298	lipid
+T14	Process 299 309	metabolism
+T15	Category 341 348	ligands
+T16	Chemical 358 369	fatty acids
+T17	Process 384 391	targets
+T18	Physiology 405 417	antidiabetic
+T19	Chemical 437 442	drugs
+T20	Body_part 453 457	cell
+T21	Protein_part 464 472	reporter
+T22	Technique 473 479	assays
+T23	Process 496 511	transactivation
+T24	Parameter 512 520	activity
+T25	Chemical 541 554	ureidofibrate
+T26	Unknown 560 571	derivatives
+T27	Protein 605 617	R-enantiomer
+T28	Protein 619 624	(R)-1
+T29	Category 636 643	agonist
+T30	Protein 647 656	PPARgamma
+T31	Protein 670 682	S-enantiomer
+T32	Parameter 684 689	(S)-1
+T33	Category 716 723	agonist
+T34	Molecule 757 762	x-ray
+T35	Geometrical_part 763 781	crystal structures
+T36	Protein 789 798	PPARgamma
+T37	Category 799 805	ligand
+T38	Process 806 813	binding
+T39	Protein_part 814 820	domain
+T40	Protein 840 842	R-
+T41	Protein 851 863	S-enantiomer
+T42	Technique 883 891	analysis
+T43	Geometrical_part 903 921	crystal structures
+T44	Process 937 946	different
+T45	Process 957 970	stabilization
+T46	Protein_part 978 986	helix 12
+T47	Category 1002 1008	ligand
+T48	Physiology 1024 1032	behavior
+T49	Category 1052 1059	agonist
+T50	Geometrical_part 1069 1086	crystal structure
+T51	Protein 1094 1109	PPARgamma.(S)-1
+T52	Category 1110 1117	complex
+T53	Parameter 1149 1153	time
+T54	Category 1161 1167	ligand
+T55	Process 1192 1202	comparison
+T56	Geometrical_part 1214 1224	structures
+T57	Category 1232 1241	complexes
+T58	Category 1259 1266	agonist
+T59	Process 1287 1298	differences
+T60	Chemical 1349 1357	solution
+T61	Protein_part 1408 1416	helix 12
+T62	Process 1424 1432	presence
+T63	Category 1446 1453	agonist
+T64	Process 1455 1463	Mutation
+T65	Technique 1464 1472	analysis
+T66	Process 1486 1496	importance
+T67	Protein_part 1500 1508	Leu(465)
+T68	Protein_part 1510 1518	Leu(469)
+T69	Protein_part 1524 1532	Ile(472)
+T70	Process 1540 1550	activation
+T71	Protein 1554 1559	(R)-1
+T72	Process 1584 1588	role
+T73	Protein_part 1592 1600	Gln(286)
+T74	Protein 1608 1617	PPARgamma
+T75	Parameter 1618 1626	activity

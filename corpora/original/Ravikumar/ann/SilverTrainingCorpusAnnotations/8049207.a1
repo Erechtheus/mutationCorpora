@@ -1,0 +1,80 @@
+T1	Molecule 0 5	X-ray
+T2	Geometrical_part 6 15	structure
+T3	Protein 19 48	nucleoside diphosphate kinase
+T4	Chemical 64 85	thymidine diphosphate
+T5	Chemical 90 94	Mg2+
+T6	Value 98 101	2-A
+T7	Parameter 102 112	resolution
+T8	Geometrical_part 128 145	crystal structure
+T9	Protein 149 191	nucleoside diphosphate kinase (NDP kinase)
+T10	Organism 197 221	Dictyostelium discoideum
+T11	Chemical 227 255	thymidine diphosphate (dTDP)
+T12	Chemical 260 264	Mg2+
+T13	Protein_part 278 289	active site
+T14	Unknown 295 304	structure
+T15	Parameter 328 336	R-factor
+T16	Value 340 345	18.3%
+T17	Value 349 352	2-A
+T18	Parameter 353 363	resolution
+T19	Geometrical_part 397 401	ring
+T20	Protein_part 405 411	Phe 64
+T21	Protein 421 428	protein
+T22	Geometrical_part 429 436	surface
+T23	Protein_part 463 474	side chains
+T24	Protein_part 478 484	Phe 64
+T25	Protein_part 489 496	Val 116
+T26	Chemical 502 507	sugar
+T27	Chemical 516 529	pyrophosphate
+T28	Protein 552 559	protein
+T29	Chemical 578 585	H-bonds
+T30	Protein 591 598	protein
+T31	Protein_part 599 610	side chains
+T32	Process 633 644	interaction
+T33	Chemical 654 664	nucleotide
+T34	Chemical 668 676	Mg2+ ion
+T35	Chemical 689 695	alpha-
+T36	Chemical 700 715	beta-phosphates
+T37	Protein 739 746	protein
+T38	Chemical 751 766	water molecules
+T39	Protein 768 778	NDP kinase
+T40	Chemical 811 826	ribonucleotides
+T41	Chemical 831 851	deoxyribonucleotides
+T42	Parameter 858 866	property
+T43	Protein 884 890	enzyme
+T44	Process 902 910	function
+T45	Geometrical_part 949 967	crystal structures
+T46	Chemical 977 980	ADP
+T47	Chemical 994 998	dTDP
+T48	Protein 1007 1014	enzymes
+T49	Process 1037 1048	differences
+T50	Protein_part 1064 1078	residues 60-64
+T51	State 1098 1110	conformation
+T52	Protein_part 1120 1126	Phe 64
+T53	Process 1172 1179	binding
+T54	Process 1199 1206	absence
+T55	Process 1216 1227	interaction
+T56	Chemical 1249 1262	protein atoms
+T57	Chemical 1268 1274	ribose
+T58	Chemical 1278 1281	ADP
+T59	Chemical 1290 1301	deoxyribose
+T60	Chemical 1305 1309	dTDP
+T61	Chemical 1342 1350	hydroxyl
+T62	Molecular_Part 1351 1357	groups
+T63	Protein_part 1375 1381	Lys 16
+T64	Protein_part 1386 1393	Asn 119
+T65	Chemical 1399 1405	H-bond
+T66	Protein_part 1414 1420	Lys 16
+T67	Chemical 1429 1441	O2' hydroxyl
+T68	Chemical 1445 1448	ADP
+T69	Process 1474 1485	interaction
+T70	Chemical 1493 1507	water molecule
+T71	Chemical 1515 1519	dTDP
+T72	Category 1520 1527	complex
+T73	Chemical 1534 1548	beta-phosphate
+T74	Chemical 1574 1577	ADP
+T75	Chemical 1582 1586	dTDP
+T76	Process 1608 1617	mechanism
+T77	Chemical 1621 1630	phosphate
+T78	Process 1631 1639	transfer
+T79	Category 1660 1670	substrates
+T80	Protein 1671 1683	ofNDP kinase

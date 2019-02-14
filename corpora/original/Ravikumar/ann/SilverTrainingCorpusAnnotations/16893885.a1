@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 53	unsaturated glucuronyl hydrolase
+T3	Category 69 78	substrate
+T4	Process 108 126	catalytic reaction
+T5	Process 127 136	mechanism
+T6	Protein 138 176	Unsaturated glucuronyl hydrolase (UGL)
+T7	Unknown 189 195	member
+T8	Unknown 199 232	glycoside hydrolase  family GH-88
+T9	Organism 239 248	bacterial
+T10	Protein 249 255	enzyme
+T11	Organism 270 279	mammalian
+T12	Chemical 280 298	glycosaminoglycans
+T13	Organism 303 312	bacterial
+T14	Physiology 313 321	biofilms
+T15	Protein 327 333	enzyme
+T16	Chemical 349 377	unsaturated oligosaccharides
+T17	Chemical 386 406	alpha-glycoside bond
+T18	Organism 419 428	microbial
+T19	Protein 429 450	polysaccharide lyases
+T20	Organism 467 476	bacterial
+T21	Process 477 485	invasion
+T22	Organism 489 493	host
+T23	Body_part 494 499	cells
+T24	Chemical 525 561	4-deoxy-l-threo-5-hexosulose-uronate
+T25	Chemical 563 590	unsaturated glucuronic acid
+T26	Unknown 595 604	DeltaGlcA
+T27	Chemical 611 621	saccharide
+T28	Protein_part 645 653	terminus
+T29	Chemical 673 688	glycosidic bond
+T30	Geometrical_part 704 722	crystal structures
+T31	Protein 745 755	mutant UGL
+T32	Organism 759 767	Bacillus
+T33	Unknown 772 775	GL1
+T34	Category 784 791	complex
+T35	Category 799 808	substrate
+T36	Chemical 822 846	chondroitin disaccharide
+T37	Protein_part 858 878	active site residues
+T38	Process 896 904	reaction
+T39	Process 905 914	mechanism
+T40	Protein 929 932	UGL
+T41	Process 951 960	hydration
+T42	Chemical 968 979	vinyl ether
+T43	Molecular_Part 980 985	group
+T44	Unknown 989 998	DeltaGlcA
+T45	Technique 1024 1032	analysis
+T46	Category 1057 1064	complex
+T47	Technique 1069 1089	biochemical analysis
+T48	Process 1104 1123	catalytic mechanism
+T49	Protein 1127 1130	UGL
+T50	Protein 1159 1171	glycosidases
+T51	Process 1192 1201	mechanism
+T52	Protein_part 1203 1210	Asp-149
+T53	Chemical 1229 1233	acid
+T54	Chemical 1238 1251	base catalyst
+T55	Chemical 1269 1286	DeltaGlcA C4 atom
+T56	Chemical 1311 1325	water molecule
+T57	Chemical 1344 1358	water molecule
+T58	Chemical 1371 1388	DeltaGlcA C5 atom
+T59	Process 1451 1461	conversion
+T60	Chemical 1468 1476	aldehyde
+T61	Chemical 1478 1514	4-deoxy-l-threo-5-hexosulose-uronate
+T62	Chemical 1520 1530	saccharide
+T63	Chemical 1539 1549	hemiacetal
+T64	Process 1550 1559	formation
+T65	Process 1564 1572	cleavage
+T66	Chemical 1580 1595	glycosidic bond
+T67	Protein 1597 1600	UGL
+T68	Protein 1624 1655	alpha(6)/alpha(6)-barrel enzyme
+T69	Protein_part 1662 1675	aspartic acid
+T70	Protein 1691 1709	acid/base catalyst

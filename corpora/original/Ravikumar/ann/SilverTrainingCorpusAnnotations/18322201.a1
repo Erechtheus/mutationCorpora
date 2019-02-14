@@ -1,0 +1,62 @@
+T1	Process 26 31	basis
+T2	Protein 35 38	CTL
+T3	Organism 49 60	coronavirus
+T4	Organism 70 74	mice
+T5	Body_part 76 98	Cytotoxic T lymphocyte
+T6	Organism 121 126	human
+T7	Physiology 127 137	infections
+T8	Organism 150 154	mice
+T9	Organism 173 183	JHM strain
+T10	Organism 187 192	mouse
+T11	Physiology 193 202	hepatitis
+T12	Organism 203 208	virus
+T13	Protein 224 227	CTL
+T14	Unknown 235 243	variants
+T15	Process 249 258	mutations
+T16	Protein 271 278	epitope
+T17	Protein 288 306	spike glycoprotein
+T18	Protein_part 308 312	S510
+T19	Protein 322 334	CTL epitopes
+T20	Unknown 383 391	variants
+T21	Process 439 446	changes
+T22	Process 485 492	evasion
+T23	Body_part 500 506	T cell
+T24	Process 507 515	response
+T25	Process 557 566	mutations
+T26	Organism 588 593	virus
+T27	Process 632 637	basis
+T28	Technique 683 705	x-ray crystallographic
+T29	Unknown 721 732	MHC class I
+T30	Unknown 738 744	)/S510
+T31	Category 745 754	complexes
+T32	Organism 760 765	viral
+T33	Unknown 807 810	TCR
+T34	Process 811 818	contact
+T35	Protein_part 819 826	residue
+T36	Protein_part 828 838	tryptophan
+T37	Process 870 879	mutations
+T38	Process 902 910	mutation
+T39	Organism 961 965	mice
+T40	Protein_part 967 977	tryptophan
+T41	Chemical 981 989	arginine
+T42	Category 1029 1036	complex
+T43	Process 1079 1088	mutations
+T44	Protein_part 1097 1104	residue
+T45	Protein 1130 1133	CTL
+T46	Process 1134 1142	response
+T47	Organism 1206 1211	virus
+T48	Organism 1240 1247	animals
+T49	Protein 1280 1283	CTL
+T50	Process 1284 1292	response
+T51	Technique 1317 1325	analyses
+T52	Unknown 1333 1342	S510/D(b)
+T53	Category 1343 1350	complex
+T54	Process 1368 1373	basis
+T55	Protein 1387 1390	CTL
+T56	Unknown 1398 1406	variants
+T57	Protein 1448 1455	factors
+T58	Process 1467 1474	effects
+T59	Organism 1478 1483	virus
+T60	Process 1503 1518	diversification
+T61	Body_part 1522 1532	CD8 T cell
+T62	Protein 1533 1541	epitopes

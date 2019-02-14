@@ -1,0 +1,82 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Technique 20 33	spectroscopic
+T3	Parameter 58 68	properties
+T4	Chemical 72 82	cobalt(II)
+T5	Chemical 84 94	copper(II)
+T6	Chemical 96 106	nickel(II)
+T7	Chemical 112 135	mercury(II) derivatives
+T8	Protein 143 161	zinc endopeptidase
+T9	Process 173 184	correlation
+T10	Unknown 188 197	structure
+T11	Parameter 214 222	activity
+T12	Chemical 238 246	zinc ion
+T13	Protein 274 291	metalloproteinase
+T14	Organism 297 305	crayfish
+T15	Chemical 331 337	Co(II)
+T16	Chemical 339 345	Cu(II)
+T17	Chemical 347 353	Hg(II)
+T18	Chemical 359 365	Ni(II)
+T19	Molecular_Part 379 384	probe
+T20	Process 389 393	role
+T21	Chemical 401 406	metal
+T22	Process 416 425	catalysis
+T23	Unknown 430 439	structure
+T24	Chemical 453 467	Zn(II)-astacin
+T25	Unknown 469 476	Co(II)-
+T26	Chemical 481 495	Cu(II)-astacin
+T27	Protein 504 513	enzymatic
+T28	Parameter 514 524	activities
+T29	Value 528 538	about  140
+T30	Value 543 546	37%
+T31	Chemical 568 575	Ni(II)-
+T32	Chemical 580 594	Hg(II)-astacin
+T33	Molecule 621 629	electron
+T34	Technique 643 652	resonance
+T35	Parameter 653 661	spectrum
+T36	Chemical 665 679	Cu(II)-astacin
+T37	Value 694 700	5-fold
+T38	Chemical 713 723	copper(II)
+T39	Parameter 741 758	absorption maxima
+T40	Value 762 765	445
+T41	Value 770 776	325 nm
+T42	Chemical 797 809	ligand-metal
+T43	Process 826 837	transitions
+T44	Protein_part 848 855	Tyr-149
+T45	Protein_part 862 869	residue
+T46	Technique 904 925	x-ray crystallography
+T47	Protein 934 945	zinc enzyme
+T48	Chemical 951 955	zinc
+T49	Category 956 962	ligand
+T50	Chemical 985 995	imidazoles
+T51	Protein_part 1002 1016	glutamic  acid
+T52	Chemical 1023 1037	water molecule
+T53	Molecule 1082 1087	x-ray
+T54	Geometrical_part 1088 1106	crystal structures
+T55	Chemical 1110 1117	Cu(II)-
+T56	Chemical 1119 1126	Co(II)-
+T57	Chemical 1132 1146	Ni(II)-astacin
+T58	Protein 1184 1191	protein
+T59	Unknown 1229 1239	structures
+T60	Chemical 1243 1250	Zn(II)-
+T61	Chemical 1262 1276	Hg(II)-astacin
+T62	Unknown 1281 1288	Co(II)-
+T63	Chemical 1293 1307	Cu(II)-astacin
+T64	Chemical 1313 1318	metal
+T65	Chemical 1322 1327	penta
+T66	Protein 1364 1375	zinc enzyme
+T67	Chemical 1384 1401	Ni(II) derivative
+T68	Chemical 1427 1443	solvent molecule
+T69	Chemical 1456 1461	metal
+T70	Process 1462 1474	coordination
+T71	Chemical 1498 1508	octahedral
+T72	Category 1509 1515	ligand
+T73	Geometrical_part 1516 1524	geometry
+T74	Chemical 1535 1549	Hg(II)-astacin
+T75	Chemical 1562 1578	solvent molecule
+T76	Location 1605 1610	inner
+T77	Process 1611 1623	coordination
+T78	Chemical 1638 1643	metal
+T79	Process 1668 1679	correlation
+T80	Parameter 1698 1708	properties
+T81	Chemical 1726 1731	metal
+T82	Process 1732 1744	coordination

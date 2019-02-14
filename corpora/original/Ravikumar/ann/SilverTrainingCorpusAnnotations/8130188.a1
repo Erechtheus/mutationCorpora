@@ -1,0 +1,72 @@
+T1	Geometrical_part 18 36	solution structure
+T2	Organism 40 56	Escherichia coli
+T3	Location 57 68	periplasmic
+T4	Chemical 69 80	cyclophilin
+T5	Geometrical_part 86 104	solution structure
+T6	Location 112 123	periplasmic
+T7	Chemical 124 135	cyclophilin
+T8	Protein 151 176	peptidyl-prolyl isomerase
+T9	Organism 182 198	Escherichia coli
+T10	Protein_part 204 212	residues
+T11	Parameter 214 216	MW
+T12	Value 217 225	> 18.200
+T13	Location 270 283	heteronuclear
+T14	Technique 284 300	NMR spectroscopy
+T15	Parameter 305 313	distance
+T16	Technique 314 335	geometry calculations
+T17	Unknown 341 350	structure
+T18	Technique 393 396	NMR
+T19	Parameter 422 430	distance
+T20	Protein 435 442	101 phi
+T21	Parameter 450 469	chi 1 torsion angle
+T22	Parameter 490 498	distance
+T23	Geometrical_part 499 507	geometry
+T24	Unknown 508 518	structures
+T25	Parameter 544 584	average root-mean-square (rms) deviation
+T26	Parameter 595 599	mean
+T27	Value 633 648	0.84 +/- 0.18 A
+T28	Geometrical_part 657 665	backbone
+T29	Chemical 666 671	atoms
+T30	Protein_part 675 689	residues 5-165
+T31	Geometrical_part 711 738	three-dimensional structure
+T32	Organism 742 749	E. coli
+T33	Chemical 750 761	cyclophilin
+T34	Geometrical_part 792 804	antiparallel
+T35	Protein_part 805 822	beta-sheet barrel
+T36	Protein_part 833 846	alpha-helices
+T37	Parameter 852 859	average
+T38	Geometrical_part 879 887	backbone
+T39	Chemical 888 893	atoms
+T40	Protein_part 906 914	residues
+T41	Organism 918 925	E. coli
+T42	Chemical 926 937	cyclophilin
+T43	Parameter 946 959	rms deviation
+T44	Value 963 969	1.44 A
+T45	Protein_part 976 993	conserved regions
+T46	Geometrical_part 1001 1018	crystal structure
+T47	Organism 1032 1037	human
+T48	Body_part 1038 1044	T cell
+T49	Chemical 1045 1056	cyclophilin
+T50	Unknown 1057 1060	[Ke
+T51	Protein_part 1106 1113	regions
+T52	Location 1114 1122	proximal
+T53	Protein_part 1130 1141	active site
+T54	Protein 1181 1188	protein
+T55	Category 1189 1198	substrate
+T56	Parameter 1212 1223	sensitivity
+T57	Chemical 1227 1240	cyclosporin A
+T58	Protein 1260 1272	drug:protein
+T59	Geometrical_part 1273 1280	surface
+T60	Protein 1301 1312	calcineurin
+T61	Protein_part 1316 1323	residue
+T62	Protein 1338 1347	isomerase
+T63	Parameter 1348 1356	activity
+T64	Organism 1360 1365	human
+T65	Body_part 1366 1372	T cell
+T66	Chemical 1373 1384	cyclophilin
+T67	Protein_part 1386 1392	His126
+T68	Protein_part 1409 1415	Tyr122
+T69	Organism 1419 1426	E. coli
+T70	Chemical 1427 1438	cyclophilin
+T71	Protein 1457 1466	enzymatic
+T72	Parameter 1467 1475	activity

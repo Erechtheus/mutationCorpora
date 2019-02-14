@@ -1,0 +1,71 @@
+T1	Unknown 0 7	Crystal
+T2	Unknown 22 31	structure
+T3	Organism 35 40	human
+T4	Protein_part 41 62	plasminogen kringle 4
+T5	Value 74 79	1.9-A
+T6	Parameter 80 90	resolution
+T7	Geometrical_part 96 113	crystal structure
+T8	Organism 117 122	human
+T9	Protein_part 123 151	plasminogen kringle 4 (PGK4)
+T10	Process 171 192	molecular replacement
+T11	Organism 203 209	bovine
+T12	Protein_part 210 238	prothrombin kringle 1 (PTK1)
+T13	Geometrical_part 239 248	structure
+T14	Parameter 315 323	R factor
+T15	Value 327 332	14.2%
+T16	Value 336 341	1.9-A
+T17	Parameter 342 352	resolution
+T18	Protein 358 360	K4
+T19	Geometrical_part 361 370	structure
+T20	Protein_part 393 397	PTK1
+T21	Process 406 415	insertion
+T22	Protein_part 423 430	residue
+T23	Location 434 445	position 59
+T24	Process 472 478	effect
+T25	Protein 486 493	protein
+T26	Process 494 501	folding
+T27	Protein_part 507 511	PGK4
+T28	Geometrical_part 512 521	structure
+T29	Location 549 557	internal
+T30	Geometrical_part 558 574	hydrophobic core
+T31	Chemical 592 600	hydrogen
+T32	Physiology 609 616	network
+T33	Protein_part 640 647	kringle
+T34	Chemical 658 674	cis peptide bond
+T35	Protein_part 678 683	Pro30
+T36	Process 692 700	presence
+T37	Process 755 767	orientations
+T38	Protein_part 776 781	Cys75
+T39	Protein_part 782 792	side chain
+T40	Protein_part 798 807	K4 lysine
+T41	Protein_part 816 820	site
+T42	Protein_part 868 873	Trp62
+T43	Chemical 878 896	Trp72 indole rings
+T44	Protein_part 912 923	Asp55/Asp57
+T45	Protein_part 939 950	Lys35/Arg71
+T46	Parameter 952 958	charge
+T47	Location 990 998	adjacent
+T48	Protein_part 999 1003	Asp5
+T49	Protein_part 1008 1022	Arg32 residues
+T50	Parameter 1086 1088	pH
+T51	Unknown 1092 1100	crystals
+T52	Value 1104 1107	6.0
+T53	Protein_part 1172 1177	Trp72
+T54	Protein_part 1178 1188	side chain
+T55	Molecule 1210 1216	marker
+T56	Process 1224 1231	binding
+T57	Protein_part 1232 1236	site
+T58	Geometrical_part 1244 1254	K4 surface
+T59	Category 1258 1265	complex
+T60	Process 1281 1292	interaction
+T61	Process 1312 1319	binding
+T62	Protein_part 1320 1325	sites
+T63	Geometrical_part 1329 1337	symmetry
+T64	Molecule 1346 1355	molecules
+T65	Chemical 1383 1396	sulfate anion
+T66	Process 1400 1409	solvation
+T67	Protein_part 1423 1428	Arg32
+T68	Protein_part 1429 1439	side chain
+T69	Protein_part 1457 1464	kringle
+T70	Process 1478 1485	binding
+T71	Protein_part 1486 1490	site

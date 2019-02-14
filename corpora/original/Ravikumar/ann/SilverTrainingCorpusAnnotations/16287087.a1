@@ -1,0 +1,67 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Unknown 25 27	Aq
+T3	Organism 59 84	bacteria Aquifex aeolicus
+T4	Protein 104 111	histone
+T5	Geometrical_part 112 116	fold
+T6	Unknown 122 131	structure
+T7	Protein 162 169	protein
+T8	Organism 193 218	bacteria Aquifex aeolicus
+T9	Value 243 248	1.9 A
+T10	Process 258 302	multi-wavelength anomalous diffraction (MAD)
+T11	Protein_part 325 344	amino acid sequence
+T12	Technique 345 353	analysis
+T13	Unknown 365 367	Aq
+T14	Process 391 401	similarity
+T15	Protein 405 413	proteins
+T16	Unknown 427 436	structure
+T17	Process 441 449	function
+T18	Unknown 455 464	structure
+T19	Process 465 475	comparison
+T20	Unknown 489 493	Dali
+T21	Protein 532 539	histone
+T22	Geometrical_part 545 549	fold
+T23	Protein 586 609	nuclear histone protein
+T24	Protein 611 614	PDB
+T25	Protein 620 624	1F1E
+T26	Value 639 642	8.1
+T27	Unknown 647 651	RMSD
+T28	Value 652 657	3.6 A
+T29	Protein_part 668 676	residues
+T30	Process 680 693	sedimentation
+T31	Process 694 705	equilibrium
+T32	Process 706 716	experiment
+T33	Unknown 732 734	Aq
+T34	Protein 744 751	monomer
+T35	Chemical 755 763	solution
+T36	Parameter 773 806	average sedimentation coefficient
+T37	Value 810 813	2.4
+T38	Parameter 821 846	apparent molecular weight
+T39	Value 850 862	about 20 kDa
+T40	Geometrical_part 876 888	architecture
+T41	Unknown 892 894	Aq
+T42	Protein_part 928 943	histone domains
+T43	Protein_part 947 960	tandem repeat
+T44	Protein 977 982	chain
+T45	Organism 1002 1012	eukaryotic
+T46	Protein 1013 1024	heterodimer
+T47	Unknown 1026 1033	H2A/H2B
+T48	Unknown 1038 1043	H3/H4
+T49	Protein 1052 1092	archaeal histone heterodimer (HMfA/HMfB)
+T50	Protein_part 1098 1106	sequence
+T51	Process 1107 1118	comparisons
+T52	Protein_part 1135 1150	histone domains
+T53	Protein 1154 1156	Aq
+T54	Protein 1189 1197	histones
+T55	Protein_part 1237 1245	residues
+T56	Unknown 1264 1266	Aq
+T57	Geometrical_part 1271 1283	architecture
+T58	Geometrical_part 1337 1349	antiparallel
+T59	Protein_part 1350 1365	histone domains
+T60	Chemical 1390 1402	salt bridges
+T61	Unknown 1410 1419	structure
+T62	Protein 1445 1454	protein's
+T63	Process 1487 1499	similarities
+T64	Protein 1509 1530	histone-like proteins
+T65	Parameter 1532 1552	molecular properties
+T66	Process 1568 1576	function
+T67	Unknown 1580 1582	Aq

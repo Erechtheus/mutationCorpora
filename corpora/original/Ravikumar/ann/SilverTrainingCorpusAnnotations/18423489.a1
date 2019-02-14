@@ -1,0 +1,71 @@
+T1	Chemical 0 9	Porphyrin
+T2	Process 10 17	binding
+T3	Process 22 32	distortion
+T4	Category 37 46	substrate
+T5	Protein 66 80	ferrochelatase
+T6	Process 82 90	reaction
+T7	Process 96 100	role
+T8	Protein_part 104 124	active site residues
+T9	Process 139 148	insertion
+T10	Chemical 154 172	divalent metal ion
+T11	Chemical 178 202	tetrapyrrole macrocycles
+T12	Molecular_Part 221 226	group
+T13	Protein 230 237	enzymes
+T14	Protein 245 255	chelatases
+T15	Process 257 267	Distortion
+T16	Chemical 275 287	tetrapyrrole
+T17	Parameter 325 334	component
+T18	Process 342 351	mechanism
+T19	Process 355 366	metallation
+T20	Unknown 383 393	structures
+T21	Process 401 410	different
+T22	Category 411 420	inhibitor
+T23	Category 421 430	complexes
+T24	Chemical 436 466	N-methylmesoporphyrin (N-MeMP)
+T25	Protein_part 476 493	His183Ala variant
+T26	Organism 497 514	Bacillus subtilis
+T27	Protein 515 529	ferrochelatase
+T28	Protein 566 572	enzyme
+T29	Chemical 595 640	IX 2,4-disulfonic acid dihydrochloride (dSDP)
+T30	Technique 642 650	Analysis
+T31	Unknown 658 668	structures
+T32	Chemical 691 704	N-MeMP isomer
+T33	Protein 748 755	protein
+T34	Chemical 786 792	isomer
+T35	Protein 831 847	wild-type enzyme
+T36	Process 851 861	comparison
+T37	Process 869 879	distortion
+T38	Chemical 888 897	porphyrin
+T39	Chemical 909 918	porphyrin
+T40	Category 919 928	complexes
+T41	Protein 932 946	ferrochelatase
+T42	Molecule 963 971	antibody
+T43	Protein 977 991	ferrochelatase
+T44	Parameter 992 1000	activity
+T45	Process 1036 1049	decomposition
+T46	Process 1081 1091	distortion
+T47	Category 1121 1130	complexes
+T48	Chemical 1151 1155	dSDP
+T49	Protein 1183 1190	protein
+T50	Geometrical_part 1191 1198	surface
+T51	Chemical 1211 1217	N-MeMP
+T52	Process 1240 1250	distortion
+T53	Process 1256 1263	binding
+T54	Protein 1271 1278	protein
+T55	Chemical 1318 1327	porphyrin
+T56	Protein_part 1339 1350	active site
+T57	Geometrical_part 1351 1357	pocket
+T58	Process 1388 1398	distortion
+T59	Chemical 1412 1417	metal
+T60	Process 1418 1427	insertion
+T61	Protein 1462 1478	wild-type enzyme
+T62	Chemical 1480 1486	Cu(2+)
+T63	Protein_part 1502 1519	His183Ala variant
+T64	Category 1520 1527	complex
+T65	Chemical 1556 1565	porphyrin
+T66	Process 1566 1577	metallation
+T67	Process 1637 1641	role
+T68	Protein_part 1649 1669	active site residues
+T69	Protein 1673 1687	ferrochelatase
+T70	Process 1722 1732	distortion
+T71	Process 1737 1748	metallation

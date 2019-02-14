@@ -1,0 +1,10 @@
+Familial neurohypophyseal diabetes insipidus in humans is a rare disease transmitted as an autosomal dominant trait . 
+Affected individuals have very low or undetectable levels of circulating vasopressin and suffer from polydipsia and polyuria . 
+An obvious candidate gene for the disease is the vasopressin-neurophysin (AVP-NP) precursor gene on human chromosome 20 . 
+The 2 kb gene with three exons encodes a composite precursor protein consisting of the neuropeptide vasopressin and two associated proteins, neurophysin and a glycopeptide . 
+Cloning and nucleotide sequence analysis of both alleles of the AVP-NP gene present in a Dutch ADNDI family reveals a point mutation in one allele of the affected family members . 
+Comparison of the nucleotide sequences shows a G----T transversion within the neurophysin-encoding exon B . 
+This missense mutation converts a highly conserved glycine (Gly17 of neurophysin) to a valine residue . 
+RFLP analysis of six related family members indicates cosegregation of the mutant allele with the DI phenotype . 
+The mutation is not present in 96 chromosomes of an unrelated control group . 
+These data suggest that a single amino acid exchange within a highly conserved domain of the human vasopressin-associated neurophysin is the primary cause of one form of ADNDI . 

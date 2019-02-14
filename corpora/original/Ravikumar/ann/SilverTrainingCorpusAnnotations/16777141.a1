@@ -1,0 +1,67 @@
+T1	Process 12 21	mechanism
+T2	Unknown 25 28	GSH
+T3	Process 29 39	activation
+T4	Organism 43 66	Schistosoma haematobium
+T5	Protein 67 92	glutathione-S-transferase
+T6	Technique 96 121	site-directed mutagenesis
+T7	Technique 126 147	X-ray crystallography
+T8	Process 156 164	turnover
+T9	Protein_part 180 196	tyrosine residue
+T10	Protein_part 198 203	Tyr10
+T11	Protein 212 223	sigma class
+T12	Organism 224 247	Schistosoma haematobium
+T13	Protein 248 283	wild-type glutathione-S-transferase
+T14	Protein_part 344 377	glutathione-binding site (G-site)
+T15	Protein 383 401	Tyrout10 conformer
+T16	Chemical 410 419	pi-cation
+T17	Process 420 431	interaction
+T18	Chemical 441 452	guanidinium
+T19	Molecular_Part 453 458	group
+T20	Protein_part 462 467	Arg21
+T21	Protein 489 515	glutathione-S-transferases
+T22	Protein_part 531 534	Tyr
+T23	Parameter 545 548	pKa
+T24	Value 552 555	7.2
+T25	Process 595 599	role
+T26	Protein_part 603 608	Tyr10
+T27	Process 644 649	roles
+T28	Protein_part 653 658	Arg21
+T29	Protein_part 701 706	Arg21
+T30	Molecule 707 714	mutants
+T31	Molecule 716 720	R21L
+T32	Molecule 725 729	R21Q
+T33	Protein_part 737 742	Tyr10
+T34	Molecule 743 749	mutant
+T35	Protein_part 751 755	Y10F
+T36	Technique 761 777	crystallographic
+T37	Protein_part 796 801	Arg21
+T38	Molecule 802 809	mutants
+T39	Unknown 833 841	Tyrout10
+T40	State 842 854	conformation
+T41	Process 889 893	role
+T42	Protein_part 897 902	Arg21
+T43	Process 910 923	stabilisation
+T44	State 935 947	conformation
+T45	Protein_part 958 963	Arg21
+T46	Parameter 1034 1037	pKa
+T47	Protein_part 1041 1046	Tyr10
+T48	Process 1053 1063	comparison
+T49	Chemical 1107 1118	glutathione
+T50	Category 1129 1138	inhibitor
+T51	Protein 1145 1162	wild-type enzymes
+T52	Process 1189 1201	orientations
+T53	Protein_part 1205 1210	Tyr10
+T54	Protein_part 1215 1220	Arg35
+T55	Category 1250 1256	ligand
+T56	Process 1257 1264	binding
+T57	Process 1272 1286	rearrangements
+T58	Protein_part 1310 1318	residues
+T59	Protein_part 1327 1338	active site
+T60	Geometrical_part 1339 1343	loop
+T61	Process 1351 1365	rearrangements
+T62	Technique 1392 1402	rigid-body
+T63	Process 1403 1412	movements
+T64	Protein 1420 1425	dimer
+T65	Process 1440 1451	alterations
+T66	Process 1459 1471	localisation
+T67	Protein_part 1500 1517	C-terminal domain

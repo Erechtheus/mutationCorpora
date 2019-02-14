@@ -1,0 +1,73 @@
+T1	Unknown 0 9	Structure
+T2	Molecule 13 38	human parathyroid hormone
+T3	Chemical 47 55	solution
+T4	Molecule 57 89	Human parathyroid hormone (hPTH)
+T5	Protein_part 91 107	amino acids Ser1
+T6	Protein_part 111 116	Leu37
+T7	Protein 162 170	receptor
+T8	Process 171 178	binding
+T9	Process 183 193	activation
+T10	Protein 197 214	adenylate cyclase
+T11	Body_part 233 238	serum
+T12	Chemical 239 246	calcium
+T13	Parameter 247 260	concentration
+T14	Molecule 273 276	DNA
+T15	Process 277 286	synthesis
+T16	Process 309 316	pathway
+T17	Unknown 338 347	structure
+T18	Molecule 351 361	hPTH(1-37)
+T19	Chemical 365 384	H2O/buffer solution
+T20	Parameter 430 432	pH
+T21	Value 433 436	6.0
+T22	Value 441 447	270 mM
+T23	Chemical 448 452	salt
+T24	Technique 458 476	circular dichroism
+T25	Process 478 497	ultracentrifugation
+T26	Technique 499 538	nuclear magnetic resonance spectroscopy
+T27	Technique 563 575	calculations
+T28	Protein_part 586 594	sequence
+T29	Process 604 615	assignments
+T30	Chemical 623 625	1H
+T31	Chemical 661 663	1H
+T32	Technique 680 683	NMR
+T33	Process 684 696	measurements
+T34	Technique 733 745	spectroscopy
+T35	Technique 747 793	nuclear Overhauser effect spectroscopy (NOESY)
+T36	Process 805 816	correlation
+T37	Technique 817 829	spectroscopy
+T38	Process 835 846	suppression
+T39	Technique 850 860	NOESY-type
+T40	Parameter 873 880	spectra
+T41	Molecule 883 893	hPTH(1-37)
+T42	Geometrical_part 903 920	helical structure
+T43	Process 944 956	interactions
+T44	Geometrical_part 968 986	tertiary structure
+T45	Protein_part 992 1004	NH2-terminal
+T46	Protein_part 1010 1021	amino acids
+T47	Molecule 1025 1035	hPTH(1-37)
+T48	State 1058 1070	conformation
+T49	Protein_part 1088 1108	alpha-helical region
+T50	Protein_part 1117 1121	Ile5
+T51	Protein_part 1126 1131	Asn10
+T52	Protein_part 1148 1154	region
+T53	Process 1182 1186	link
+T54	Protein_part 1188 1193	Gly12
+T55	Protein_part 1195 1200	Lys13
+T56	Protein_part 1226 1232	region
+T57	Protein_part 1234 1239	His14
+T58	Protein_part 1243 1248	Ser17
+T59	Process 1291 1303	interactions
+T60	Protein_part 1312 1317	Trp23
+T61	Protein_part 1322 1327	Leu15
+T62	Protein_part 1329 1334	Ser17
+T63	Protein_part 1352 1357	Leu28
+T64	Protein_part 1368 1379	alpha-helix
+T65	Protein_part 1381 1386	Arg20
+T66	Protein_part 1391 1396	Lys27
+T67	Protein_part 1432 1437	His14
+T68	Protein_part 1441 1446	Ser17
+T69	Chemical 1448 1460	Unrestrained
+T70	Process 1480 1491	simulations
+T71	Unknown 1512 1521	structure
+T72	Value 1540 1546	200 ps
+T73	Parameter 1547 1551	time

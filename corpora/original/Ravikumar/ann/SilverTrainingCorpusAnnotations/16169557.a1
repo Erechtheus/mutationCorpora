@@ -1,0 +1,82 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 36	biotin protein
+T3	Protein 37 43	ligase
+T4	Organism 49 74	Pyrococcus horikoshii OT3
+T5	Category 83 92	complexes
+T6	Process 105 110	basis
+T7	Protein 114 120	biotin
+T8	Process 121 131	activation
+T9	Protein 133 147	Biotin protein
+T10	Protein 148 154	ligase
+T11	Protein 156 167	EC 6.3.4.15
+T12	Process 183 192	synthesis
+T13	Protein 218 224	biotin
+T14	Chemical 226 241	biotinyl-5'-AMP
+T15	Category 248 258	substrates
+T16	Protein 259 265	biotin
+T17	Chemical 270 273	ATP
+T18	Process 286 299	biotinylation
+T19	Protein 307 338	biotin carboxyl carrier protein
+T20	Protein 339 346	subunit
+T21	Protein 350 372	acetyl-CoA carboxylase
+T22	Geometrical_part 378 405	three-dimensional structure
+T23	Protein 409 423	biotin protein
+T24	Protein 424 430	ligase
+T25	Organism 436 461	Pyrococcus horikoshii OT3
+T26	Technique 485 502	X-ray diffraction
+T27	Value 506 510	1.6A
+T28	Parameter 511 521	resolution
+T29	Unknown 527 536	structure
+T30	Protein 547 556	homodimer
+T31	Protein 586 593	subunit
+T32	Protein_part 607 614	domains
+T33	Protein_part 625 635	N-terminal
+T34	Protein_part 636 652	catalytic domain
+T35	Protein_part 668 685	C-terminal domain
+T36	Protein_part 717 728	active site
+T37	Geometrical_part 771 789	crystal structures
+T38	Category 793 802	complexes
+T39	Protein 810 816	enzyme
+T40	Protein 822 828	biotin
+T41	Chemical 830 833	ADP
+T42	Process 842 850	reaction
+T43	Molecule 851 863	intermediate
+T44	Chemical 864 879	biotinyl-5'-AMP
+T45	Parameter 890 900	resolution
+T46	Geometrical_part 943 953	structures
+T47	Protein 957 971	biotin protein
+T48	Protein 972 978	ligase
+T49	Chemical 984 994	nucleotide
+T50	Chemical 999 1014	biotinyl-5'-AMP
+T51	Unknown 1020 1030	structures
+T52	Protein_part 1118 1129	active site
+T53	Geometrical_part 1130 1134	loop
+T54	Category 1140 1146	ligand
+T55	Process 1148 1155	binding
+T56	Process 1157 1174	Catalytic binding
+T57	Protein_part 1175 1180	sites
+T58	State 1219 1233	conformational
+T59	Process 1234 1241	changes
+T60	Process 1262 1270	reaction
+T61	Protein 1291 1297	biotin
+T62	Chemical 1302 1312	nucleotide
+T63	Location 1335 1343	adjacent
+T64	Geometrical_part 1363 1368	cleft
+T65	Protein_part 1376 1392	catalytic domain
+T66	Geometrical_part 1401 1407	pocket
+T67	Chemical 1412 1427	biotinyl-5'-AMP
+T68	Process 1428 1435	binding
+T69	Category 1436 1442	mimics
+T70	Category 1475 1485	substrates
+T71	Category 1514 1521	ligands
+T72	Protein_part 1530 1550	active site residues
+T73	Process 1615 1623	reaction
+T74	Protein 1639 1653	biotin protein
+T75	Protein 1654 1660	ligase
+T76	Chemical 1693 1706	epsilon-amino
+T77	Molecular_Part 1707 1712	group
+T78	Protein_part 1716 1722	Lys111
+T79	Chemical 1767 1786	ATP alpha-phosphate
+T80	Molecular_Part 1787 1792	group
+T81	Chemical 1800 1827	biotin carboxyl oxygen atom
+T82	Molecule 1866 1879	intermediates

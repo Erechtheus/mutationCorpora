@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 23 41	prolactin receptor
+T3	Category 42 52	antagonist
+T4	Location 66 79	extracellular
+T5	Protein_part 80 86	domain
+T6	Protein 94 112	prolactin receptor
+T7	Geometrical_part 118 135	crystal structure
+T8	Category 143 150	complex
+T9	Unknown 162 174	N-terminally
+T10	Organism 185 196	G129R human
+T11	Protein 197 212	prolactin (PRL)
+T12	Unknown 213 220	variant
+T13	Location 229 242	extracellular
+T14	Protein_part 243 249	domain
+T15	Organism 257 262	human
+T16	Protein 263 288	prolactin receptor (PRLR)
+T17	Value 307 311	2.5A
+T18	Parameter 312 322	resolution
+T19	Technique 326 347	x-ray crystallography
+T20	Unknown 355 364	structure
+T21	Unknown 399 408	structure
+T22	Protein 424 435	PRL variant
+T23	Protein 458 466	receptor
+T24	Process 472 479	binding
+T25	Protein 483 495	PRL variants
+T26	Protein 503 507	PRLR
+T27	Location 508 521	extracellular
+T28	Protein_part 522 528	domain
+T29	Chemical 566 574	solution
+T30	State 575 580	state
+T31	Technique 581 591	techniques
+T32	Chemical 593 601	hydrogen
+T33	Process 602 610	exchange
+T34	Technique 611 628	mass spectrometry
+T35	Technique 634 650	NMR spectroscopy
+T36	Process 670 677	binding
+T37	Process 701 712	mutagenesis
+T38	Process 758 768	definition
+T39	Protein 772 775	PRL
+T40	Process 776 783	binding
+T41	Protein_part 784 790	site 1
+T42	Protein_part 821 829	residues
+T43	Protein_part 846 861	N-terminal part
+T44	Geometrical_part 865 871	loop 1
+T45	Protein_part 883 893	C terminus
+T46	Process 895 905	Comparison
+T47	Geometrical_part 913 922	structure
+T48	Protein 930 938	receptor
+T49	Protein 945 956	PRL variant
+T50	Unknown 966 975	structure
+T51	Unknown 1020 1028	analogue
+T52	Unknown 1039 1082	J. B., Tallet, E.,  Broutin, I., Hoos, S., 
+T53	Unknown 1082 1158	van Agthoven, J., Ducruix, A., Kelly, P. A., Kragelund, B. B., England, P., 
+T54	Unknown 1162 1172	Goffin, V.
+T55	Unknown 1180 1194	J. Biol. Chem.
+T56	Protein 1232 1240	receptor
+T57	Process 1249 1256	changes
+T58	Protein_part 1280 1297	four-helix bundle
+T59	Process 1330 1344	rearrangements
+T60	Protein_part 1383 1398	N-terminal part
+T61	Geometrical_part 1402 1408	loop 1
+T62	Chemical 1410 1418	Hydrogen
+T63	Process 1419 1427	exchange
+T64	Technique 1428 1445	mass spectrometry
+T65	Protein_part 1483 1500	four-helix bundle
+T66	Chemical 1504 1512	solution
+T67	Protein 1546 1554	receptor
+T68	Process 1555 1566	interaction
+T69	Process 1570 1577	binding
+T70	Protein_part 1578 1584	site 1

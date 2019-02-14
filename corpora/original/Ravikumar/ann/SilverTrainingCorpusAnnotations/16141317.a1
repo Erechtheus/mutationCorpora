@@ -1,0 +1,42 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 25 31	GTPase
+T3	Protein_part 32 38	domain
+T4	Organism 42 45	rat
+T5	Protein 46 55	dynamin 1
+T6	Value 78 83	1.9-A
+T7	Geometrical_part 84 101	crystal structure
+T8	Protein 109 131	nucleotide-free GTPase
+T9	Protein_part 132 138	domain
+T10	Protein 142 151	dynamin 1
+T11	Organism 157 174	Rattus norvegicus
+T12	Unknown 180 189	structure
+T13	Geometrical_part 208 221	extended form
+T14	Protein 239 245	GTPase
+T15	Geometrical_part 246 250	fold
+T16	Protein 263 275	Ras proteins
+T17	Chemical 282 292	nucleotide
+T18	Process 301 307	switch
+T19	Protein_part 308 314	motifs
+T20	State 343 356	conformations
+T21	Chemical 381 384	GTP
+T22	State 391 396	state
+T23	Protein 425 448	nucleotide-free GTPases
+T24	Chemical 471 480	arginines
+T25	Protein_part 482 488	Arg-66
+T26	Protein_part 493 499	Arg-67
+T27	Process 535 541	switch
+T28	Unknown 542 543	I
+T29	Chemical 602 612	nucleotide
+T30	State 613 618	state
+T31	Geometrical_part 628 633	parts
+T32	Protein 641 648	protein
+T33	Protein_part 694 710	I residue Arg-59
+T34	Chemical 717 720	GTP
+T35	Process 721 728	binding
+T36	Process 735 743	assembly
+T37	Protein 769 775	GTPase
+T38	Protein_part 785 791	domain
+T39	Process 808 816	assembly
+T40	Protein 827 833	GTPase
+T41	Protein 845 852	protein
+T42	Unknown 871 884	RGS-type GAPs

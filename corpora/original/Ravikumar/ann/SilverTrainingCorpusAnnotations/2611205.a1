@@ -1,0 +1,53 @@
+T1	Technique 0 25	Crystallographic analysis
+T2	Process 33 43	inhibition
+T3	Protein 47 74	porcine pancreatic elastase
+T4	Chemical 80 88	peptidyl
+T5	Chemical 97 101	acid
+T6	Unknown 103 112	structure
+T7	Process 118 126	reaction
+T8	Molecule 127 139	intermediate
+T9	Geometrical_part 145 162	crystal structure
+T10	Protein 166 199	porcine pancreatic elastase (PPE)
+T11	Chemical 213 262	carbobenzoxy-alanylisoleucine-boronic acid (ZAIB)
+T12	Value 278 284	2.09-A
+T13	Parameter 285 295	resolution
+T14	Parameter 314 322	R factor
+T15	Value 326 330	0.15
+T16	Technique 370 378	analysis
+T17	Protein 382 385	PPE
+T18	Protein_part 394 404	isoleucine
+T19	Geometrical_part 439 445	pocket
+T20	Process 478 490	displacement
+T21	Category 498 507	inhibitor
+T22	Protein_part 519 530	active site
+T23	Value 555 560	2.2 A
+T24	Process 569 576	contact
+T25	Unknown 585 586	B
+T26	Chemical 588 598	boron atom
+T27	Category 606 615	inhibitor
+T28	Chemical 621 630	N epsilon
+T29	Protein_part 634 640	His-57
+T30	Process 663 670	bonding
+T31	Value 672 677	1.5 A
+T32	Chemical 682 689	O gamma
+T33	Protein_part 693 700	Ser-195
+T34	Process 719 728	mechanism
+T35	Process 732 742	inhibition
+T36	Protein 746 749	PPE
+T37	Chemical 753 757	ZAIB
+T38	Process 773 783	comparison
+T39	Protein 791 825	peptidyl difluoromethyl ketone-PPE
+T40	Category 826 833	complex
+T41	Parameter 835 837	Ki
+T42	Value 840 851	9.5 microns
+T43	Process 883 893	inhibition
+T44	Protein 897 900	PPE
+T45	Chemical 904 908	ZAIB
+T46	Parameter 910 912	Ki
+T47	Value 915 925	0.3 micron
+T48	Unknown 971 980	structure
+T49	Process 1011 1019	reaction
+T50	Molecule 1020 1032	intermediate
+T51	Process 1050 1057	insight
+T52	Parameter 1075 1085	dimensions
+T53	Protein 1099 1108	enzymatic

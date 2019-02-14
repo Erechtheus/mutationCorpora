@@ -1,0 +1,54 @@
+T1	Protein 0 7	Trypsin
+T2	Process 8 18	inhibition
+T3	Protein_part 24 31	peptide
+T4	Molecule 32 39	hormone
+T5	Geometrical_part 41 58	crystal structure
+T6	Protein 62 81	trypsin-vasopressin
+T7	Category 82 89	complex
+T8	Protein 112 127	serine protease
+T9	Category 128 138	inhibitors
+T10	Body_part 179 186	tissues
+T11	Organism 188 202	microorganisms
+T12	Organism 204 210	plants
+T13	Process 236 240	role
+T14	Protein 271 278	enzymes
+T15	Technique 284 292	analysis
+T16	Category 315 324	complexes
+T17	Process 353 362	mechanism
+T18	Process 366 372	action
+T19	Category 398 408	inhibitors
+T20	Protein 410 421	Vasopressin
+T21	Protein_part 426 451	anti-diuretic nonapeptide
+T22	Molecule 452 459	hormone
+T23	Category 490 499	inhibitor
+T24	Protein 503 510	trypsin
+T25	Parameter 519 529	K(i) value
+T26	Value 533 537	5 nM
+T27	Geometrical_part 543 560	crystal structure
+T28	Protein 569 588	trypsin-vasopressin
+T29	Category 589 596	complex
+T30	Protein 611 622	vasopressin
+T31	Process 649 661	interactions
+T32	Category 669 678	inhibitor
+T33	Process 692 697	break
+T34	Chemical 714 726	peptide bond
+T35	Chemical 755 771	disulfide bridge
+T36	Protein_part 780 784	Cys1
+T37	Protein_part 789 793	Cys6
+T38	Protein 797 808	vasopressin
+T39	Physiology 829 837	rigidity
+T40	Protein_part 845 852	peptide
+T41	Molecule 853 860	hormone
+T42	Protein 866 873	trypsin
+T43	Protein_part 882 886	site
+T44	Protein_part 905 915	C terminus
+T45	Protein 927 938	neurophysin
+T46	Protein_part 948 952	site
+T47	Protein_part 963 973	N terminus
+T48	Protein 977 988	vasopressin
+T49	Protein_part 1030 1037	peptide
+T50	Category 1038 1048	inhibitors
+T51	Protein 1075 1086	vasopressin
+T52	Process 1087 1097	inhibition
+T53	Protein 1101 1108	trypsin
+T54	Process 1140 1152	implications

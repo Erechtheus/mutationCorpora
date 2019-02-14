@@ -1,0 +1,88 @@
+T1	Protein_part 11 19	exo-site
+T2	Process 20 30	inhibition
+T3	Organism 34 39	human
+T4	Protein 40 46	factor
+T5	Parameter 47 49	Xa
+T6	Geometrical_part 51 60	structure
+T7	Protein 64 78	des-Gla factor
+T8	Parameter 79 81	Xa
+T9	Protein 95 99	NAP5
+T10	Organism 110 118	nematode
+T11	Protein 133 140	protein
+T12	Organism 146 165	Ancylostoma caninum
+T13	Organism 167 176	Hookworms
+T14	Organism 195 204	nematodes
+T15	Process 216 222	growth
+T16	Process 224 235	development
+T17	Organism 262 266	host
+T18	Unknown 267 274	systems
+T19	Organism 283 289	humans
+T20	Organism 300 307	mammals
+T21	Organism 384 393	hookworms
+T22	Body_part 402 424	gastrointestinal blood
+T23	Process 425 429	loss
+T24	Chemical 434 438	iron
+T25	Process 439 449	deficiency
+T26	Physiology 450 456	anemia
+T27	Organism 476 504	hookworm Ancylostoma caninum
+T28	Unknown 516 522	family
+T29	Chemical 533 542	disulfide
+T30	Protein 550 557	protein
+T31	Protein_part 580 599	amino acid residues
+T32	Organism 615 623	nematode
+T33	Protein 638 646	proteins
+T34	Protein 648 652	NAP5
+T35	Chemical 667 677	amidolytic
+T36	Parameter 678 705	activity of factor Xa (fXa)
+T37	Parameter 711 715	K(i)
+T38	Value 716 721	43 pM
+T39	Parameter 754 757	fXa
+T40	Category 758 767	inhibitor
+T41	Geometrical_part 793 810	crystal structure
+T42	Protein_part 814 818	NAP5
+T43	Protein_part 832 843	active site
+T44	Protein 847 904	gamma-carboxyglutamic acid domainless factor Xa (des-fXa)
+T45	Value 929 934	3.1 A
+T46	Parameter 935 945	resolution
+T47	Protein_part 968 974	Asp189
+T48	Parameter 976 979	fXa
+T49	Protein_part 981 991	S1 subsite
+T50	Protein_part 1002 1007	Arg40
+T51	Protein_part 1009 1013	NAP5
+T52	Protein_part 1015 1022	P1 site
+T53	Protein 1057 1069	BPTI/trypsin
+T54	Process 1070 1081	interaction
+T55	Chemical 1096 1104	hydroxyl
+T56	Molecular_Part 1105 1110	group
+T57	Protein_part 1114 1119	Ser39
+T58	Protein 1123 1127	NAP5
+T59	Chemical 1149 1162	hydrogen bond
+T60	Value 1164 1169	2.5 A
+T61	Protein_part 1176 1181	His57
+T62	Unknown 1182 1185	NE2
+T63	Protein_part 1193 1208	catalytic triad
+T64	Chemical 1224 1237	hydrogen bond
+T65	Protein_part 1241 1250	Ser195 OG
+T66	Geometrical_part 1272 1288	native structure
+T67	Process 1306 1317	interaction
+T68	Protein_part 1370 1380	C-terminal
+T69	Process 1381 1390	extension
+T70	Protein 1394 1398	NAP5
+T71	Parameter 1431 1434	fXa
+T72	Protein_part 1435 1442	exosite
+T73	Molecule 1468 1476	molecule
+T74	Protein_part 1508 1519	beta-strand
+T75	Unknown 1539 1548	structure
+T76	Parameter 1556 1565	NAPc2/fXa
+T77	Category 1566 1573	complex
+T78	Protein 1595 1599	NAP5
+T79	Parameter 1612 1615	fXa
+T80	Protein_part 1623 1634	active site
+T81	Protein_part 1643 1650	exosite
+T82	Unknown 1659 1661	fX
+T83	Protein_part 1669 1676	exosite
+T84	Unknown 1694 1699	NAPc2
+T85	Protein 1701 1705	NAP5
+T86	Unknown 1723 1728	fVIIa
+T87	Unknown 1736 1744	fVIIa/TF
+T88	Category 1745 1752	complex

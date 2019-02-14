@@ -1,0 +1,78 @@
+T1	Molecule 0 8	Electron
+T2	Parameter 9 16	density
+T3	Technique 17 29	calculations
+T4	Process 36 45	extension
+T5	Protein 49 56	protein
+T6	Geometrical_part 57 66	structure
+T7	Process 67 77	refinement
+T8	Organism 79 99	Streptomyces griseus
+T9	Protein 100 110	protease A
+T10	Value 114 119	1.5 A
+T11	Parameter 120 130	resolution
+T12	Technique 161 173	calculations
+T13	Molecule 214 222	electron
+T14	Parameter 223 243	density distribution
+T15	Protein 273 280	protein
+T16	Geometrical_part 281 290	structure
+T17	Molecule 345 353	electron
+T18	Parameter 354 361	density
+T19	Technique 447 463	crystallographic
+T20	Molecule 489 498	molecules
+T21	Parameter 514 521	density
+T22	Process 576 585	catalysis
+T23	Value 616 621	1.8 A
+T24	Value 626 631	1.5 A
+T25	Parameter 632 642	resolution
+T26	Process 643 654	refinements
+T27	Geometrical_part 662 679	crystal structure
+T28	Protein 683 693	protease A
+T29	Organism 699 719	Streptomyces griseus
+T30	Process 750 759	influence
+T31	Unknown 767 778	environment
+T32	Molecule 786 794	electron
+T33	Parameter 795 802	density
+T34	Protein_part 810 820	side-chain
+T35	Protein_part 828 849	active site histidine
+T36	Protein_part 851 856	His57
+T37	Protein_part 876 893	aspartic acid 102
+T38	Protein 910 916	factor
+T39	Unknown 924 935	environment
+T40	Technique 960 972	calculations
+T41	Protein_part 1006 1014	residues
+T42	Process 1077 1094	catalytic process
+T43	Process 1102 1108	effect
+T44	Protein_part 1114 1120	Asp102
+T45	Molecule 1132 1140	electron
+T46	Parameter 1141 1148	density
+T47	Protein_part 1156 1162	region
+T48	Chemical 1170 1188	imidazole nitrogen
+T49	Protein 1192 1201	epsilon 2
+T50	Location 1203 1211	adjacent
+T51	Protein_part 1219 1241	active site serine 195
+T52	Chemical 1269 1288	imidazolium species
+T53	Parameter 1301 1313	polarization
+T54	Chemical 1321 1339	N epsilon 2-H bond
+T55	Process 1354 1361	bonding
+T56	Parameter 1362 1369	density
+T57	Parameter 1402 1408	height
+T58	Parameter 1416 1422	energy
+T59	Molecule 1435 1441	proton
+T60	Process 1442 1450	transfer
+T61	Chemical 1469 1486	imidazole species
+T62	Protein_part 1505 1511	Asp102
+T63	Process 1521 1529	movement
+T64	Parameter 1533 1540	density
+T65	Protein_part 1560 1566	region
+T66	Protein 1574 1585	N epsilon 2
+T67	Protein 1595 1597	pi
+T68	Process 1598 1605	bonding
+T69	Protein_part 1606 1612	region
+T70	Geometrical_part 1633 1638	plane
+T71	Geometrical_part 1646 1650	ring
+T72	Process 1690 1696	effect
+T73	Protein_part 1705 1718	aspartic acid
+T74	Process 1742 1750	movement
+T75	Process 1775 1784	direction
+T76	Parameter 1792 1806	electric field
+T77	Unknown 1820 1825	CRDT-
+T78	Value 1834 1842	20 00:00

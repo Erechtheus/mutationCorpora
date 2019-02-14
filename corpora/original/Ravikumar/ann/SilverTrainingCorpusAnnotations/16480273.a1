@@ -1,0 +1,71 @@
+T1	Protein_part 17 27	nonpeptide
+T2	Category 37 46	inhibitor
+T3	Unknown 47 54	TMC-114
+T4	Organism 58 63	HIV-1
+T5	Protein 64 72	protease
+T6	Chemical 85 89	drug
+T7	Process 100 109	mutations
+T8	Chemical 110 114	D30N
+T9	Chemical 116 120	I50V
+T10	Chemical 126 130	L90M
+T11	Physiology 147 156	antiviral
+T12	Category 157 166	inhibitor
+T13	Unknown 167 174	TMC-114
+T14	Unknown 176 185	UIC-94017
+T15	Organism 190 195	HIV-1
+T16	Protein 196 209	protease (PR)
+T17	Protein 238 249	PR variants
+T18	Process 268 277	mutations
+T19	Protein_part 278 282	D30N
+T20	Protein_part 284 288	I50V
+T21	Protein_part 294 298	L90M
+T22	Parameter 314 324	resistance
+T23	Category 347 357	inhibitors
+T24	Parameter 363 390	inhibition constants (K(i))
+T25	Unknown 394 401	TMC-114
+T26	Protein 406 422	mutants PR(D30N)
+T27	Protein 424 432	PR(I50V)
+T28	Protein 438 446	PR(L90M)
+T29	Value 452 455	30-
+T30	Value 457 459	9-
+T31	Value 465 474	0.14-fold
+T32	Protein 502 514	wild-type PR
+T33	Process 530 535	basis
+T34	Process 544 554	inhibition
+T35	Value 591 602	1.22-1.45 A
+T36	Geometrical_part 604 622	crystal structures
+T37	Protein 626 635	PR mutant
+T38	Category 636 645	complexes
+T39	Unknown 651 658	TMC-114
+T40	Protein 663 671	PR(D30N)
+T41	Category 677 686	inhibitor
+T42	Chemical 694 699	water
+T43	Process 709 720	interaction
+T44	Protein_part 730 740	side chain
+T45	Protein_part 744 749	Asn30
+T46	Process 773 784	interaction
+T47	Protein 797 799	PR
+T48	Process 839 849	inhibition
+T49	Protein 865 873	PR(I50V)
+T50	Category 878 887	inhibitor
+T51	Process 916 928	interactions
+T52	Protein_part 938 948	side chain
+T53	Protein_part 952 957	Val50
+T54	Unknown 959 966	TMC-114
+T55	Unknown 982 995	van der Waals
+T56	Process 996 1004	contacts
+T57	Protein 1008 1026	PR(L90M) structure
+T58	Protein 1043 1045	PR
+T59	Geometrical_part 1046 1055	structure
+T60	Process 1078 1085	binding
+T61	Category 1094 1103	inhibitor
+T62	Process 1118 1125	changes
+T63	Protein 1129 1131	PR
+T64	Geometrical_part 1132 1141	structure
+T65	Parameter 1146 1154	activity
+T66	Process 1172 1180	relation
+T67	Parameter 1188 1197	potential
+T68	Process 1202 1213	development
+T69	Molecule 1227 1234	mutants
+T70	Process 1238 1246	exposure
+T71	Unknown 1250 1257	TMC-114

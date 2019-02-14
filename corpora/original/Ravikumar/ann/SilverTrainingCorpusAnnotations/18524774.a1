@@ -1,0 +1,62 @@
+T1	Process 11 16	basis
+T2	Process 21 28	sorting
+T3	Process 29 38	mechanism
+T4	Protein 42 45	p62
+T5	Physiology 59 68	autophagy
+T6	Physiology 70 80	Impairment
+T7	Physiology 84 94	autophagic
+T8	Process 95 106	degradation
+T9	Protein 114 124	ubiquitin-
+T10	Protein 129 132	LC3
+T11	Protein 141 154	protein "p62"
+T12	Process 168 177	formation
+T13	Location 181 192	cytoplasmic
+T14	Body_part 193 209	inclusion bodies
+T15	Process 247 254	sorting
+T16	Process 255 264	mechanism
+T17	Protein 268 271	p62
+T18	Physiology 275 285	autophagic
+T19	Process 286 297	degradation
+T20	Protein_part 320 325	motif
+T21	Organism 329 335	murine
+T22	Protein 336 339	p62
+T23	Protein_part 357 368	amino acids
+T24	Protein_part 370 383	Ser334-Ser344
+T25	Chemical 406 412	acidic
+T26	Protein_part 417 437	hydrophobic residues
+T27	Organism 445 452	species
+T28	Protein_part 460 490	LC3 recognition sequence (LRS)
+T29	Geometrical_part 496 513	crystal structure
+T30	Protein_part 521 528	LC3-LRS
+T31	Category 529 536	complex
+T32	Value 540 555	1.56  angstroms
+T33	Parameter 556 566	resolution
+T34	Process 576 587	interaction
+T35	Protein_part 591 597	Trp340
+T36	Protein_part 602 608	Leu343
+T37	Protein 612 615	p62
+T38	Process 621 630	different
+T39	Protein 658 667	ubiquitin
+T40	Geometrical_part 668 672	fold
+T41	Unknown 676 679	LC3
+T42	Technique 689 697	analyses
+T43	Protein 716 727	p62 mutants
+T44	Unknown 736 739	LC3
+T45	Process 740 747	binding
+T46	Body_part 792 806	autophagosomes
+T47	Body_part 814 823	cytoplasm
+T48	Protein 848 857	ubiquitin
+T49	Body_part 867 883	inclusion bodies
+T50	Physiology 890 899	autophagy
+T51	Body_part 910 915	cells
+T52	Location 952 965	intracellular
+T53	Protein 975 978	p62
+T54	Physiology 1003 1012	autophagy
+T55	Process 1032 1043	interaction
+T56	Unknown 1047 1050	LC3
+T57	Protein 1056 1059	p62
+T58	Process 1086 1094	turnover
+T59	Protein 1098 1101	p62
+T60	Physiology 1106 1115	autophagy
+T61	Body_part 1125 1139	inclusion body
+T62	Process 1140 1149	formation

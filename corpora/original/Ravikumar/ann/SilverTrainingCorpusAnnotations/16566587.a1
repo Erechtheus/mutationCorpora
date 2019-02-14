@@ -1,0 +1,83 @@
+T1	Chemical 0 17	Hydrogen peroxide
+T2	Chemical 27 36	isoniazid
+T3	Process 37 47	activation
+T4	Organism 61 87	Mycobacterium tuberculosis
+T5	Protein 88 114	catalase-peroxidase (KatG)
+T6	Protein_part 123 135	S315T mutant
+T7	Process 137 147	Inhibition
+T8	Protein 155 161	enzyme
+T9	Organism 162 188	Mycobacterium tuberculosis
+T10	Chemical 189 193	InhA
+T11	Protein 195 221	enoyl-acyl carrier protein
+T12	Protein 222 231	reductase
+T13	Process 240 249	formation
+T14	Molecule 256 289	isonicotinoyl-NAD adduct (IN-NAD)
+T15	Chemical 296 305	isoniazid
+T16	Chemical 307 310	INH
+T17	Chemical 316 349	nicotinamide adenine dinucleotide
+T18	Category 350 358	cofactor
+T19	Process 396 402	action
+T20	Chemical 406 409	INH
+T21	Body_part 413 423	first-line
+T22	Process 424 433	treatment
+T23	Physiology 438 460	tuberculosis infection
+T24	Chemical 462 465	INH
+T25	Process 466 472	action
+T26	Organism 481 493	mycobacteria
+T27	Protein 503 529	catalase-peroxidase (KatG)
+T28	Process 530 538	function
+T29	Molecule 544 557	IN-NAD adduct
+T30	Process 558 567	formation
+T31	Organism 593 608	M. tuberculosis
+T32	Protein 609 613	KatG
+T33	Process 692 699	process
+T34	Process 744 753	mechanism
+T35	Chemical 773 776	INH
+T36	Parameter 777 787	resistance
+T37	Chemical 810 814	drug
+T38	Organism 825 831	strain
+T39	Molecule 840 851	KatG[S315T]
+T40	Chemical 885 902	hydrogen peroxide
+T41	Parameter 926 940	concentrations
+T42	Chemical 944 950	ferric
+T43	Protein 951 955	KatG
+T44	Process 976 986	inhibition
+T45	Chemical 990 994	InhA
+T46	Process 1002 1011	formation
+T47	Molecule 1019 1032	IN-NAD adduct
+T48	Parameter 1038 1042	rate
+T49	Molecule 1046 1052	adduct
+T50	Process 1053 1062	formation
+T51	Unknown 1075 1089	wild-type KatG
+T52	Value 1100 1107	20-fold
+T53	Chemical 1128 1137	isoniazid
+T54	Molecule 1148 1159	KatG[S315T]
+T55	Molecule 1160 1166	mutant
+T56	Chemical 1193 1197	H2O2
+T57	Chemical 1218 1222	NAD+
+T58	Chemical 1227 1230	INH
+T59	Molecule 1238 1244	adduct
+T60	Process 1245 1254	formation
+T61	Chemical 1281 1285	NADH
+T62	Chemical 1290 1293	INH
+T63	Process 1302 1310	presence
+T64	Protein 1314 1318	KatG
+T65	Process 1331 1338	absence
+T66	Chemical 1348 1356	peroxide
+T67	Chemical 1376 1384	peroxide
+T68	Parameter 1395 1405	efficiency
+T69	Molecule 1413 1424	KatG[S315T]
+T70	Molecule 1425 1431	mutant
+T71	Parameter 1473 1486	concentration
+T72	Chemical 1490 1493	INH
+T73	Parameter 1533 1541	affinity
+T74	Chemical 1546 1549	INH
+T75	Protein 1573 1579	enzyme
+T76	Protein 1612 1631	enzyme intermediate
+T77	Chemical 1633 1643	Compound I
+T78	Chemical 1657 1661	drug
+T79	Parameter 1662 1672	resistance
+T80	Protein 1680 1705	KatG[S315T] mutant enzyme
+T81	Process 1751 1762	examination
+T82	Technique 1788 1811	X-ray crystal structure
+T83	Protein 1819 1832	mutant enzyme

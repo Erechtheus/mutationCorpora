@@ -1,0 +1,9 @@
+The primary structure of bovine liver UDP-glucose dehydrogenase (UDPGDH), a hexameric, NAD(+)-linked enzyme, has been determined at the protein level . 
+The 52-kDa subunits are composed of 468 amino acid residues, with a free N-terminus and a Ser/Asn microhetergeneity at one position . 
+The sequence shares 29.6% positional identity with GDP-mannose dehydrogenase from Pseudomonas, confirming a similarity earlier noted between active site peptides . 
+This degree of similarity is comparable to the 31.1% identity vs. the UDPGDH from type A Streptococcus . 
+Database searching also revealed similarities to a hypothetical sequence from Salmonella typhimurium and to &quot;UDP-N-acetyl-mannosaminuronic acid dehydrogenase&quot; from Escherichia coli . 
+Pairwise identities between bovine UDPGDH and each of these sequences were all in the range of approximately 26-34% . 
+Multiple alignment of all 5 sequences indicates common ancestry for these 4-electron-transferring enzymes . 
+There are 27 strictly conserved residues, including a cysteine residue at position 275, earlier identified by chemical modification as the expected catalytic residue of the second half-reaction (conversion of UDP-aldehydoglucose to UDP-glucuronic acid), and 2 lysine residues, at positions 219 and 338, one of which may be the expected catalytic residue for the first half-reaction (conversion of UDP-glucose to UDP-aldehydoglucose) . 
+A GXGXXG pattern characteristic of the coenzyme-binding fold is found at positions 11-16, close to the N-terminus as with &quot;short-chain&quot; alcohol dehydrogenases.(ABSTRACT TRUNCATED AT 250 WORDS) . 

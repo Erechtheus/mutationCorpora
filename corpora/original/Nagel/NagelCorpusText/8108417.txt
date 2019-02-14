@@ -1,0 +1,8 @@
+Pseudomonas aeruginosa possesses a multigene operon that includes phenylalanine hydroxylase (PhhA; phenylalanine 4-monooxygenase, EC 1.14.16.1) . 
+phhA encodes PhhA (M(r) = 30,288), phhB (M(r) = 13,333) encodes a homologue of mammalian 4 alpha-carbinolamine dehydratase/homeodomain protein transregulator, and phhC encodes an aromatic aminotransferase (M(r) = 43,237) . 
+The reading frames specifying phhB and phhC overlap by 2 bases . 
+The P. aeruginosa PhhA appears to contain iron and is pterin dependent . 
+Unlike the multimeric mammalian hydroxylase, the native P. aeruginosa enzyme is a monomer . 
+The P. aeruginosa PhhA is homologous with mammalian PhhA, tryptophan hydroxylase, and tyrosine hydroxylase . 
+Expression of PhhA from its native promoter required phhB . 
+This may suggest a positive regulatory role for phhB, consistent with the dual catalytic and regulatory roles of the corresponding mammalian homologue . 

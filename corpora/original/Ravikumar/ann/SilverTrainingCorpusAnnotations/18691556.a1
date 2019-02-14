@@ -1,0 +1,45 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 27	ST2348
+T3	Protein_part 31 41	CBS domain
+T4	Protein 42 49	protein
+T5	Organism 74 102	archaeon Sulfolobus tokodaii
+T6	Geometrical_part 108 125	crystal structure
+T7	Protein 144 158	protein ST2348
+T8	Body_part 160 162	GI
+T9	Organism 201 209	bacteria
+T10	Organism 210 229	Sulfolobus tokodaii
+T11	Technique 256 277	X-ray crystallography
+T12	Protein 283 290	protein
+T13	Protein_part 307 346	CBS (cystathione beta synthase) domains
+T14	Process 354 362	function
+T15	Body_part 400 409	PSI-BLAST
+T16	Process 418 430	conservation
+T17	Protein_part 439 445	domain
+T18	Value 449 458	about 100
+T19	Protein 459 467	proteins
+T20	Organism 479 486	species
+T21	Protein 509 523	close homologs
+T22	Protein 527 533	ST2348
+T23	Unknown 579 588	Structure
+T24	Protein_part 593 601	sequence
+T25	Process 602 612	comparison
+T26	Protein 616 622	ST2348
+T27	Organism 628 633	human
+T28	Protein 634 659	AMP-kinase gamma1 subunit
+T29	Protein_part 669 679	CBS domain
+T30	Organism 688 697	bacterial
+T31	Protein 698 715	IMP dehydrogenase
+T32	Process 737 744	binding
+T33	Chemical 748 751	AMP
+T34	Chemical 756 759	ATP
+T35	Protein_part 780 794	residue Asp118
+T36	Technique 828 833	patch
+T37	Category 843 849	ligand
+T38	Process 850 857	binding
+T39	Geometrical_part 858 863	cleft
+T40	Protein_part 882 886	site
+T41	Process 891 906	phosphorylation
+T42	Protein 954 966	protein CheY
+T43	Protein 979 985	ST2348
+T44	Process 1004 1023	signal transduction
+T45	Molecule 1024 1032	molecule

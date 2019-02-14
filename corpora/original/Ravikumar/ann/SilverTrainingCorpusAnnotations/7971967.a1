@@ -1,0 +1,35 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 36 53	chorismate mutase
+T3	Value 57 62	2.2-A
+T4	Parameter 63 73	resolution
+T5	Geometrical_part 79 96	crystal structure
+T6	Protein 114 131	chorismate mutase
+T7	Protein_part 137 144	Thr-226
+T8	Protein_part 147 150	Ile
+T9	Molecule 151 157	mutant
+T10	Organism 164 169	yeast
+T11	Organism 170 194	Saccharomyces cerevisiae
+T12	Value 218 223	2.2-A
+T13	Parameter 224 234	resolution
+T14	Process 269 280	replacement
+T15	Chemical 289 296	Solvent
+T16	Process 329 341	modification
+T17	State 359 364	phase
+T18	Process 365 376	improvement
+T19	Technique 390 406	crystallographic
+T20	Parameter 407 415	R factor
+T21	Value 419 424	0.196
+T22	Protein_part 466 474	residues
+T23	Chemical 482 497	water molecules
+T24	Protein_part 516 526	tryptophan
+T25	Molecule 527 536	molecules
+T26	Protein 578 586	monomers
+T27	Unknown 600 609	structure
+T28	Geometrical_part 652 661	structure
+T29	Protein 665 682	chorismate mutase
+T30	Organism 688 705	Bacillus subtilis
+T31	Unknown 712 721	structure
+T32	Value 729 732	71%
+T33	Protein_part 733 740	helices
+T34	Protein_part 762 772	beta-sheet
+T35	Geometrical_part 773 783	structures

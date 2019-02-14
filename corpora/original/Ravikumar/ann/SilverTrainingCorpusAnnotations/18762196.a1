@@ -1,0 +1,75 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Organism 24 38	cyanobacterial
+T3	Protein_part 39 61	phytochrome GAF domain
+T4	State 89 101	ground state
+T5	Process 127 137	absorption
+T6	Physiology 138 146	behavior
+T7	Protein 150 169	phytochromes (Phys)
+T8	Process 201 213	interactions
+T9	Chemical 226 243	bilin chromophore
+T10	Protein_part 263 274	polypeptide
+T11	Process 305 317	interactions
+T12	Technique 336 352	NMR spectroscopy
+T13	Geometrical_part 363 381	solution structure
+T14	Molecule 389 400	chromophore
+T15	Protein_part 409 463	cGMP phosphodiesterase/adenylcyclase/FhlA (GAF) domain
+T16	Organism 471 485	cyanobacterial
+T17	Protein 486 489	Phy
+T18	Chemical 505 520	phycocyanobilin
+T19	Chemical 522 525	PCB
+T20	Technique 550 553	NMR
+T21	Unknown 554 563	structure
+T22	Organism 567 580	Synechococcus
+T23	Protein 581 586	OS-B'
+T24	Organism 587 601	cyanobacterial
+T25	Protein 602 607	Phy 1
+T26	State 635 640	state
+T27	Unknown 644 653	Phy  (Pr)
+T28	Chemical 668 671	PCB
+T29	Protein_part 684 690	Cys138
+T30	Protein_part 698 708	GAF domain
+T31	Chemical 724 734	ethylidene
+T32	Protein_part 735 745	side chain
+T33	Protein_part 771 781	GAF domain
+T34	Unknown 787 802	ZZZsyn,syn,anti
+T35	Process 803 816	configuration
+T36	Geometrical_part 822 828	D ring
+T37	Molecule 836 847	chromophore
+T38	Geometrical_part 874 880	pocket
+T39	Value 898 922	approximately 80 degrees
+T40	Geometrical_part 939 948	B/C rings
+T41	Process 952 960	contacts
+T42	Protein_part 967 972	Lys52
+T43	Protein_part 977 983	His169
+T44	Geometrical_part 989 1007	solution structure
+T45	Chemical 1044 1047	PCB
+T46	Location 1061 1069	adjacent
+T47	Protein_part 1070 1081	amino acids
+T48	Molecule 1103 1117	Pr chromophore
+T49	Process 1142 1149	binding
+T50	Geometrical_part 1150 1156	pocket
+T51	Chemical 1179 1193	propionic acid
+T52	Protein_part 1194 1205	side chains
+T53	Protein_part 1215 1216	B
+T54	Protein_part 1221 1222	C
+T55	Protein_part 1227 1233	Arg101
+T56	Protein_part 1238 1244	Arg133
+T57	State 1334 1347	conformations
+T58	Physiology 1349 1358	Mutagenic
+T59	Chemical 1377 1386	arginines
+T60	Protein 1419 1434	Phy superfamily
+T61	Process 1469 1474	roles
+T62	Protein_part 1481 1487	Arg101
+T63	Protein_part 1492 1498	Arg133
+T64	State 1561 1566	state
+T65	Unknown 1570 1579	Phy (Pfr)
+T66	Organism 1619 1632	Synechococcus
+T67	Protein_part 1633 1649	OS-B' GAF domain
+T68	Protein 1679 1681	Pr
+T69	Protein 1687 1690	Pfr
+T70	Chemical 1691 1701	photocycle
+T71	Geometrical_part 1746 1764	solution structure
+T72	Molecule 1772 1787	Pfr chromophore
+T73	Geometrical_part 1804 1810	pocket
+T74	Protein 1822 1824	Pr
+T75	Unknown 1825 1834	structure

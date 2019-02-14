@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 27	HIV-1
+T3	Protein 28 31	Tat
+T4	Protein_part 40 62	nonapeptides Tat-(1-9)
+T5	Unknown 67 81	Trp2-Tat-(1-9)
+T6	Protein_part 95 106	active site
+T7	Protein 110 133	dipeptidyl-peptidase IV
+T8	Protein 135 139	CD26
+T9	Protein 142 146	CD26
+T10	Protein 150 181	dipeptidyl-peptidase IV (DPPIV)
+T11	Body_part 196 202	immune
+T12	Process 203 212	functions
+T13	Process 231 238	effects
+T14	Process 242 252	activation
+T15	Process 257 270	proliferation
+T16	Body_part 274 287	T lymphocytes
+T17	Process 289 296	binding
+T18	Protein 301 320	adenosine deaminase
+T19	Process 326 336	regulation
+T20	Protein 348 358	chemokines
+T21	Protein 363 372	cytokines
+T22	Protein 374 389	DPPIV peptidase
+T23	Parameter 390 398	activity
+T24	Protein 420 431	Tat protein
+T25	Organism 437 471	human immunodeficiency virus (HIV)
+T26	Protein_part 482 514	N-terminal nonapeptide Tat-(1-9)
+T27	Protein_part 520 549	amino acid sequence MDPVDPNIE
+T28	Protein 567 572	DPPIV
+T29	Process 600 607	effects
+T30	Protein 611 622	Tat protein
+T31	Value 628 632	2.0-
+T32	Value 637 643	3.15-A
+T33	Parameter 644 654	resolution
+T34	Geometrical_part 655 673	crystal structures
+T35	Category 688 695	complex
+T36	Organism 705 710	human
+T37	Protein 711 716	DPPIV
+T38	Protein_part 721 742	nonapeptide Tat-(1-9)
+T39	Category 751 766	ternary complex
+T40	Protein_part 779 796	variant MWPVDPNIE
+T41	Unknown 805 821	Trp(2)-Tat-(1-9)
+T42	Protein 827 832	DPPIV
+T43	Protein 842 861	adenosine deaminase
+T44	Unknown 872 881	Tat-(1-9)
+T45	Unknown 886 902	Trp(2)-Tat-(1-9)
+T46	Protein_part 922 933	active site
+T47	Protein 937 942	DPPIV
+T48	Process 948 959	interaction
+T49	Protein 971 976	DPPIV
+T50	Unknown 982 998	Trp(2)-Tat-(1-9)
+T51	Unknown 1026 1035	Tat-(1-9)
+T52	Parameter 1055 1082	inhibition constants (K(i))
+T53	Value 1086 1096	2 x 10(-6)
+T54	Value 1102 1116	250 x 10(-6) m
+T55	Protein_part 1137 1145	peptides
+T56	Protein 1167 1172	DPPIV
+T57	Process 1185 1192	binding
+T58	Protein_part 1208 1220	N-terminal 2
+T59	Protein_part 1221 1229	residues
+T60	Category 1269 1279	substrates
+T61	Chemical 1285 1306	N-terminal methionine
+T62	Geometrical_part 1332 1341	S1 pocket
+T63	Protein 1345 1350	DPPIV
+T64	Category 1378 1387	substrate
+T65	Protein_part 1415 1434	penultimate residue
+T66	Protein_part 1448 1467	N-terminal sequence
+T67	Protein 1475 1498	thromboxane A2 receptor
+T68	Protein_part 1513 1537	Trp(2)-Tat-(1-9) peptide
+T69	Process 1550 1561	interaction
+T70	Protein 1567 1572	DPPIV

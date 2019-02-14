@@ -1,0 +1,26 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 25 40	tyrosine kinase
+T3	Protein_part 41 47	domain
+T4	Organism 55 60	human
+T5	Protein 61 77	insulin receptor
+T6	Technique 83 106	X-ray crystal structure
+T7	Protein 114 129	tyrosine kinase
+T8	Protein_part 130 136	domain
+T9	Organism 144 149	human
+T10	Protein 150 166	insulin receptor
+T11	Process 216 227	diffraction
+T12	Value 251 256	2.1 A
+T13	Parameter 257 267	resolution
+T14	Unknown 273 282	structure
+T15	Category 311 320	substrate
+T16	Protein_part 337 345	tyrosine
+T17	Protein_part 358 364	serine
+T18	Protein_part 368 377	threonine
+T19	Process 390 404	autoinhibition
+T20	Process 405 414	mechanism
+T21	Protein_part 434 443	tyrosines
+T22	Process 475 483	response
+T23	Protein 487 494	insulin
+T24	Protein_part 496 499	Tyr
+T25	Value 500 505	1,162
+T26	Protein_part 523 534	active site

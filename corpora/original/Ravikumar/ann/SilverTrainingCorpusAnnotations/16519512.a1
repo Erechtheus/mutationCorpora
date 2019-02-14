@@ -1,0 +1,99 @@
+T1	Unknown 0 10	Structures
+T2	Chemical 14 23	thiolate-
+T3	Chemical 28 39	carboxylate
+T4	Protein 48 69	ferric H93G myoglobin
+T5	Protein 82 97	cytochrome P450
+T6	Chemical 106 114	oxyanion
+T7	Protein 121 134	heme proteins
+T8	Geometrical_part 136 154	Crystal structures
+T9	Protein 162 188	ferric H93G myoglobin (Mb)
+T10	Body_part 189 195	cavity
+T11	Molecule 196 202	mutant
+T12	Location 232 240	proximal
+T13	Chemical 241 256	thiolate sulfur
+T14	Category 257 262	donor
+T15	Chemical 268 286	carboxylate oxygen
+T16	Category 287 292	donor
+T17	Category 293 299	ligand
+T18	Value 316 319	1.7
+T19	Value 324 329	1.4 A
+T20	Parameter 330 340	resolution
+T21	Geometrical_part 360 377	crystal structure
+T22	Technique 391 409	circular dichroism
+T23	Parameter 410 417	spectra
+T24	Chemical 425 475	H93G Mb beta-mercaptoethanol (BME) thiolate adduct
+T25	Category 512 519	complex
+T26	Chemical 544 547	BME
+T27	Chemical 582 595	hydrogen bond
+T28	Chemical 610 624	alcohol proton
+T29	Chemical 641 656	thiolate sulfur
+T30	Location 686 694	proximal
+T31	Chemical 695 717	N-H...S hydrogen bonds
+T32	Protein 721 736	cytochrome P450
+T33	Chemical 742 744	Fe
+T34	Chemical 767 776	porphyrin
+T35	Value 786 791	0.5 A
+T36	Value 804 810	2.41 A
+T37	Chemical 811 820	Fe-S bond
+T38	Chemical 826 836	Fe(3+)-S-C
+T39	Parameter 837 842	angle
+T40	Value 846 857	111 degrees
+T41	Chemical 885 894	Fe-S bond
+T42	Unknown 900 905	sp(3)
+T43	Chemical 917 923	sulfur
+T44	Chemical 940 951	H93G Mb.BME
+T45	Category 952 959	complex
+T46	Protein 982 989	protein
+T47	Chemical 1029 1035	ferric
+T48	Protein 1036 1040	P450
+T49	Chemical 1061 1070	Fe-S bond
+T50	Chemical 1084 1090	ferric
+T51	Protein 1091 1099	P450-CAM
+T52	Geometrical_part 1125 1133	geometry
+T53	Protein_part 1179 1186	linkage
+T54	Protein_part 1194 1202	cysteine
+T55	Protein 1210 1217	protein
+T56	Process 1247 1256	evolution
+T57	Process 1278 1290	optimization
+T58	Location 1298 1306	proximal
+T59	Chemical 1307 1328	Fe-S(cysteinate) bond
+T60	Protein 1332 1336	P450
+T61	Geometrical_part 1342 1359	crystal structure
+T62	Parameter 1373 1383	properties
+T63	Chemical 1391 1413	H93G Mb acetate adduct
+T64	Category 1449 1456	complex
+T65	Location 1462 1470	proximal
+T66	Chemical 1471 1478	acetate
+T67	Location 1483 1489	distal
+T68	Chemical 1490 1495	water
+T69	Location 1496 1501	axial
+T70	Category 1502 1509	ligands
+T71	Location 1515 1521	distal
+T72	Protein_part 1522 1528	His-64
+T73	Chemical 1537 1550	hydrogen bond
+T74	Chemical 1566 1571	water
+T75	Chemical 1577 1587	Fe-acetate
+T76	Process 1588 1595	bonding
+T77	Geometrical_part 1596 1604	geometry
+T78	Molecule 1629 1637	electron
+T79	Chemical 1653 1662	Fe-O bond
+T80	Chemical 1670 1676	Fe-O-C
+T81	Parameter 1677 1682	angle
+T82	Value 1686 1697	152 degrees
+T83	Chemical 1706 1708	Fe
+T84	Geometrical_part 1725 1730	plane
+T85	Chemical 1738 1745	acetate
+T86	Chemical 1757 1761	Fe-O
+T87	Process 1762 1769	bonding
+T88	Protein 1784 1791	H93G Mb
+T89	Body_part 1792 1798	cavity
+T90	Molecule 1799 1805	mutant
+T91	Unknown 1853 1859	system
+T92	Category 1877 1883	ligand
+T93	Protein 1895 1908	heme proteins
+T94	Process 1915 1928	investigation
+T95	Chemical 1972 1984	nonimidazole
+T96	Category 1995 2002	ligands
+T97	Location 2015 2023	proximal
+T98	Process 2024 2032	ligation
+T99	Protein_part 2033 2037	site

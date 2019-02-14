@@ -1,0 +1,89 @@
+T1	Process 0 14	Rigidification
+T2	Protein 29 37	protease
+T3	Category 38 47	inhibitor
+T4	Molecule 48 55	variant
+T5	Process 61 68	binding
+T6	Protein 72 79	trypsin
+T7	Protein_part 85 90	Tyr35
+T8	Protein_part 93 96	Gly
+T9	Process 97 108	replacement
+T10	Category 112 154	bovine pancreatic trypsin inhibitor (BPTI)
+T11	Protein 228 235	trypsin
+T12	Protein_part 244 250	region
+T13	Category 263 272	inhibitor
+T14	Process 296 307	interaction
+T15	Protein 317 325	protease
+T16	Value 329 345	about 3 kcal/mol
+T17	Process 351 358	effects
+T18	Process 367 378	replacement
+T19	Process 403 414	interaction
+T20	Technique 444 465	X-ray crystallography
+T21	Technique 470 508	isothermal titration calorimetry (ITC)
+T22	Unknown 514 534	co-crystal structure
+T23	Protein_part 538 542	Y35G
+T24	Category 543 547	BPTI
+T25	Protein 557 564	trypsin
+T26	Value 586 592	1.65 A
+T27	Parameter 593 603	resolution
+T28	Technique 604 621	X-ray diffraction
+T29	Unknown 656 664	crystals
+T30	Geometrical_part 676 685	structure
+T31	Category 693 700	complex
+T32	Category 716 720	BPTI
+T33	Value 768 774	1.62 A
+T34	Unknown 788 798	structures
+T35	Protein 836 843	protein
+T36	Protein_part 845 849	Y35G
+T37	Category 850 854	BPTI
+T38	State 864 876	conformation
+T39	Protein 911 928	wild-type protein
+T40	Chemical 937 942	water
+T41	Body_part 950 956	cavity
+T42	Protein_part 981 995	Tyr side-chain
+T43	Technique 1001 1017	crystallographic
+T44	Parameter 1019 1038	temperature factors
+T45	Category 1051 1060	complexes
+T46	Category 1086 1095	inhibitor
+T47	Protein 1122 1139	wild-type protein
+T48	Protein 1154 1161	trypsin
+T49	Process 1176 1188	measurements
+T50	Process 1203 1209	change
+T51	Parameter 1213 1221	enthalpy
+T52	Process 1227 1239	dissociation
+T53	Category 1247 1254	complex
+T54	Value 1258 1270	2.5 kcal/mol
+T55	Category 1294 1301	complex
+T56	Protein_part 1313 1317	Y35G
+T57	Category 1318 1322	BPTI
+T58	Category 1336 1343	complex
+T59	Category 1363 1372	inhibitor
+T60	Process 1384 1399	destabilization
+T61	Category 1407 1414	complex
+T62	Protein_part 1434 1438	Y35G
+T63	Process 1439 1450	replacement
+T64	Process 1478 1484	change
+T65	Parameter 1488 1495	entropy
+T66	Process 1502 1514	dissociation
+T67	Parameter 1525 1533	capacity
+T68	Process 1534 1541	changes
+T69	Process 1546 1558	dissociation
+T70	Category 1587 1596	complexes
+T71	Process 1645 1652	effects
+T72	Process 1680 1689	solvation
+T73	Process 1690 1697	effects
+T74	Process 1729 1737	increase
+T75	Protein 1741 1748	protein
+T76	State 1749 1763	conformational
+T77	Parameter 1764 1771	entropy
+T78	Process 1777 1789	dissociation
+T79	Category 1804 1813	inhibitor
+T80	Process 1852 1856	role
+T81	Protein_part 1884 1891	residue
+T82	Protein 1913 1920	protein
+T83	Protein_part 1959 1964	Tyr35
+T84	Protein 1991 1998	trypsin
+T85	Category 2005 2009	BPTI
+T86	Geometrical_part 2010 2019	structure
+T87	Unknown 2053 2062	structure
+T88	Protein 2075 2082	protein
+T89	Parameter 2101 2117	binding affinity

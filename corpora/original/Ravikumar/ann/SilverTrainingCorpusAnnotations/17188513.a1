@@ -1,0 +1,88 @@
+T1	Chemical 0 12	Carbohydrate
+T2	Parameter 13 31	binding properties
+T3	Chemical 36 48	carbohydrate
+T4	State 57 71	conformational
+T5	Process 72 78	switch
+T6	Organism 82 87	sheep
+T7	Protein 98 110	glycoprotein
+T8	Protein 112 118	SPS-40
+T9	Geometrical_part 121 139	crystal structures
+T10	Category 148 157	complexes
+T11	Protein 161 167	SPS-40
+T12	Protein 173 179	chitin
+T13	Chemical 185 201	oligosaccharides
+T14	Geometrical_part 203 221	Crystal structures
+T15	Category 230 239	complexes
+T16	Organism 243 248	sheep
+T17	Protein 259 271	glycoprotein
+T18	Protein 273 279	SPS-40
+T19	Chemical 286 322	N-acetylglucosamine oligosaccharides
+T20	Chemical 324 330	GlcNAc
+T21	Parameter 330 332	(n
+T22	Value 338 343	3-6))
+T23	Process 377 388	resolutions
+T24	Process 394 401	binding
+T25	Protein 413 419	SPS-40
+T26	Technique 448 473	fluorescence spectroscopy
+T27	Technique 478 509	Surface Plasmon Resonance (SPR)
+T28	Unknown 512 521	Structure
+T29	Category 545 554	complexes
+T30	Process 574 581	binding
+T31	Molecule 594 613	GlcNAc(n) molecules
+T32	Protein 617 623	SPS-40
+T33	Process 670 681	recognition
+T34	Protein_part 682 688	region
+T35	Chemical 696 708	carbohydrate
+T36	Process 709 716	binding
+T37	Geometrical_part 717 723	groove
+T38	Protein 727 733	SPS-40
+T39	Protein_part 740 748	subsites
+T40	Protein_part 770 780	subsite -2
+T41	Process 802 814	interactions
+T42	Protein_part 820 842	carbohydrate  residues
+T43	Unknown 850 860	structures
+T44	Process 886 898	interactions
+T45	Chemical 902 909	GlcNAc3
+T46	Chemical 914 921	GlcNAc4
+T47	Protein 941 948	protein
+T48	Geometrical_part 949 958	structure
+T49	Chemical 972 979	GlcNAc5
+T50	State 996 1010	conformational
+T51	Process 1011 1018	changes
+T52	Chemical 1040 1047	GlcNAc6
+T53	Process 1069 1076	binding
+T54	Geometrical_part 1078 1084	groove
+T55	Protein 1119 1125	SPX-40
+T56	Geometrical_part 1126 1136	structures
+T57	Protein 1138 1144	SPS-40
+T58	Geometrical_part 1145 1154	structure
+T59	Geometrical_part 1191 1198	surface
+T60	Protein_part 1199 1207	segments
+T61	Protein_part 1209 1222	His188-His197
+T62	Protein_part 1224 1237	Phe202-Arg212
+T63	Protein_part 1242 1255	Phe244-Pro260
+T64	Protein_part 1277 1285	residues
+T65	Location 1297 1306	outwardly
+T66	Value 1332 1340	positive
+T67	Parameter 1341 1348	charges
+T68	Process 1431 1443	interactions
+T69	Protein 1450 1457	protein
+T70	Protein_part 1477 1482	Asn39
+T71	Protein 1507 1516	receptors
+T72	Chemical 1524 1529	sugar
+T73	Process 1530 1537	binding
+T74	Protein_part 1538 1543	sites
+T75	Protein 1561 1567	SPS-40
+T76	Chemical 1585 1597	carbohydrate
+T77	Protein 1602 1609	protein
+T78	Chemical 1635 1647	carbohydrate
+T79	Chemical 1708 1728	protein-carbohydrate
+T80	Category 1729 1738	complexes
+T81	Process 1760 1767	insight
+T82	Process 1778 1787	mechanism
+T83	Chemical 1791 1803	carbohydrate
+T84	Process 1804 1811	binding
+T85	Parameter 1849 1853	kind
+T86	Protein 1867 1880	glycoproteins
+T87	Process 1891 1903	interactions
+T88	Chemical 1909 1922	carbohydrates

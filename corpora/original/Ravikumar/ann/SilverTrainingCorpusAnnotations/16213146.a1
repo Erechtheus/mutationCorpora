@@ -1,0 +1,75 @@
+T1	Technique 0 16	Crystallographic
+T2	Unknown 45 54	analogues
+T3	Chemical 56 91	N-acetyl-beta-D-glucopyranosylamine
+T4	Chemical 96 140	N-trifluoroacetyl-beta-D-glucopyranosylamine
+T5	Category 149 159	inhibitors
+T6	Body_part 163 169	muscle
+T7	Protein 170 192	glycogen phosphorylase
+T8	Unknown 194 203	Structure
+T9	Category 210 219	inhibitor
+T10	Category 274 284	inhibitors
+T11	Protein 288 318	glycogen phosphorylase b (GPb)
+T12	Chemical 320 338	N-acyl derivatives
+T13	Chemical 342 368	beta-D-glucopyranosylamine
+T14	Protein_part 387 401	catalytic site
+T15	Protein 409 415	enzyme
+T16	Category 432 441	inhibitor
+T17	Chemical 459 468	compounds
+T18	Chemical 470 511	N-acetyl-beta-D-glucopyranosylamine (NAG)
+T19	Value 520 529	32 microM
+T20	Technique 597 613	crystallographic
+T21	Process 614 625	experiments
+T22	Value 629 643	2.3  angstroms
+T23	Parameter 644 654	resolution
+T24	Process 669 680	replacement
+T25	Chemical 688 694	acetyl
+T26	Molecular_Part 695 700	group
+T27	Chemical 704 719	trifluoroacetyl
+T28	Molecular_Part 720 725	group
+T29	Category 741 750	inhibitor
+T30	Chemical 752 803	N-trifluoroacetyl-beta-D-glucopyranosylamine (NFAG)
+T31	Parameter 812 816	K(i)
+T32	Value 819 828	75 microM
+T33	Process 859 864	basis
+T34	Category 907 913	ligand
+T35	Geometrical_part 914 923	structure
+T36	Category 927 934	complex
+T37	Protein 940 943	GPb
+T38	Value 947 960	1.8 angstroms
+T39	Parameter 961 971	resolution
+T40	Process 988 995	binding
+T41	Chemical 1004 1032	N-trifluoroacetyl derivative
+T42	Molecule 1055 1063	molecule
+T43	Unknown 1088 1097	structure
+T44	Chemical 1101 1108	GPb-NAG
+T45	Category 1109 1116	complex
+T46	Value 1122 1128	higher
+T47	Parameter 1129 1139	resolution
+T48	Value 1141 1154	1.9 angstroms
+T49	Chemical 1157 1161	NFAG
+T50	Protein_part 1189 1203	catalytic site
+T51	Protein 1207 1218	T-state GPb
+T52	Chemical 1265 1268	NAG
+T53	Unknown 1287 1294	T-state
+T54	State 1295 1307	conformation
+T55	Value 1315 1320	280 s
+T56	Geometrical_part 1321 1325	loop
+T57	Process 1355 1363	contacts
+T58	Protein_part 1367 1373	Asn284
+T59	Geometrical_part 1382 1386	loop
+T60	Process 1392 1402	difference
+T61	Parameter 1419 1430	K(i) values
+T62	Unknown 1442 1451	analogues
+T63	State 1490 1504	conformational
+T64	Process 1505 1512	changes
+T65	Protein 1516 1523	protein
+T66	Protein_part 1524 1532	residues
+T67	Process 1537 1543	shifts
+T68	Chemical 1547 1562	water molecules
+T69	Location 1570 1578	vicinity
+T70	Protein_part 1586 1600	catalytic site
+T71	Process 1602 1612	variations
+T72	Unknown 1616 1629	van der Waals
+T73	Process 1630 1641	interaction
+T74	Process 1647 1658	desolvation
+T75	Process 1659 1666	effects

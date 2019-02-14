@@ -1,0 +1,54 @@
+T1	Process 11 27	characterization
+T2	Process 48 55	effects
+T3	Protein 76 118	11beta-hydroxysteroid dehydrogenase type 1
+T4	Category 119 128	inhibitor
+T5	Protein 130 172	11Beta-hydroxysteroid dehydrogenase type 1
+T6	Chemical 183 197	glucocorticoid
+T7	Process 198 204	action
+T8	Process 209 219	inhibition
+T9	Protein 228 234	enzyme
+T10	Process 276 285	treatment
+T11	Physiology 289 304	type 2 diabetes
+T12	Physiology 313 331	metabolic syndrome
+T13	Protein 362 414	selective 11beta-hydroxysteroid dehydrogenase type 1
+T14	Category 415 424	inhibitor
+T15	Process 432 439	binding
+T16	Unknown 465 485	co-crystal structure
+T17	Organism 495 500	human
+T18	Protein 501 543	11beta-hydroxysteroid dehydrogenase type 1
+T19	Category 549 558	inhibitor
+T20	Chemical 575 582	steroid
+T21	Geometrical_part 591 597	pocket
+T22	Process 605 613	contacts
+T23	Location 623 639	catalytic center
+T24	Protein 648 664	solvent  channel
+T25	Category 670 679	inhibitor
+T26	Process 680 687	binding
+T27	Chemical 717 730	hydrogen bond
+T28	Process 731 743	interactions
+T29	Protein_part 754 765	Tyrosine183
+T30	Protein_part 783 802	motif Tyr-X-X-X-Lys
+T31	Protein_part 807 817	Alanine172
+T32	Category 836 845	inhibitor
+T33	Process 869 881	interactions
+T34	Protein 896 902	enzyme
+T35	Chemical 911 964	co-factor nicotinamide adenine dinucleotide phosphate
+T36	Organism 984 996	C57BL/6 mice
+T37	Chemical 1002 1010	compound
+T38	Protein 1050 1092	11beta-hydroxysteroid dehydrogenase type 1
+T39	Parameter 1093 1103	activities
+T40	Parameter 1109 1113	dose
+T41	Process 1147 1154	effects
+T42	Body_part 1174 1180	plasma
+T43	Chemical 1181 1189	compound
+T44	Parameter 1190 1204	concentrations
+T45	Parameter 1275 1287	relationship
+T46	Parameter 1311 1316	doses
+T47	Category 1374 1383	inhibitor
+T48	Process 1402 1412	activation
+T49	Location 1451 1455	axis
+T50	Organism 1468 1473	mouse
+T51	Chemical 1502 1510	compound
+T52	Process 1531 1538	effects
+T53	Process 1552 1556	risk
+T54	Location 1606 1610	axis

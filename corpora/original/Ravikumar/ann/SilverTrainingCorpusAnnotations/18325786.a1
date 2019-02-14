@@ -1,0 +1,67 @@
+T1	Parameter 15 22	kinetic
+T2	Process 23 36	contributions
+T3	Chemical 44 52	oxyanion
+T4	Process 53 60	binding
+T5	Protein_part 61 65	site
+T6	Parameter 83 91	activity
+T7	Protein 95 118	acylaminoacyl peptidase
+T8	Parameter 161 169	activity
+T9	Protein 173 189	serine proteases
+T10	Protein_part 215 226	Asp-His-Ser
+T11	Protein_part 227 242	catalytic triad
+T12	Protein_part 253 261	residues
+T13	Location 273 281	vicinity
+T14	Protein_part 290 295	motif
+T15	Protein_part 311 319	residues
+T16	Chemical 329 337	oxyanion
+T17	Process 338 345	binding
+T18	Protein_part 346 350	site
+T19	Molecule 383 395	intermediate
+T20	Chemical 399 415	hydrogen bonding
+T21	Chemical 442 450	oxyanion
+T22	Protein 455 478	acylaminoacyl peptidase
+T23	Organism 488 516	thermophile Aeropyrum pernix
+T24	Protein 527 535	chain NH
+T25	Molecular_Part 536 541	group
+T26	Protein_part 545 551	Gly369
+T27	Chemical 566 579	hydrogen bond
+T28	Category 580 586	donors
+T29	Chemical 599 607	oxyanion
+T30	Process 608 615	binding
+T31	Protein_part 616 620	site
+T32	Protein_part 626 636	side chain
+T33	Protein_part 640 646	His367
+T34	Protein_part 660 667	residue
+T35	Protein 671 695	acylaminoacyl peptidases
+T36	Organism 707 714	species
+T37	Geometrical_part 728 732	loop
+T38	Protein_part 742 748	Gly369
+T39	Geometrical_part 771 788	crystal structure
+T40	Protein_part 796 808	H367A mutant
+T41	Geometrical_part 829 833	loop
+T42	Protein_part 845 851	Gly369
+T43	Value 912 931	orders of magnitude
+T44	Process 932 940	decrease
+T45	Parameter 960 973	rate constant
+T46	Protein 983 999	wild-type enzyme
+T47	Organism 1005 1008	cat
+T48	Unknown 1008 1015	)/K(m))
+T49	Unknown 1020 1023	1/T
+T50	Parameter 1067 1071	rate
+T51	Process 1072 1083	enhancement
+T52	Parameter 1100 1111	temperature
+T53	Process 1120 1132	dissociation
+T54	Category 1158 1165	complex
+T55	Process 1184 1197	decomposition
+T56	Category 1201 1208	product
+T57	Protein 1227 1240	H367A variant
+T58	Unknown 1259 1268	Arrhenius
+T59	Process 1283 1291	reaction
+T60	Parameter 1325 1332	entropy
+T61	Process 1336 1346	activation
+T62	Protein_part 1374 1381	residue
+T63	Protein_part 1410 1421	active site
+T64	Parameter 1461 1469	activity
+T65	Protein 1473 1496	acylaminoacyl peptidase
+T66	Geometrical_part 1526 1535	structure
+T67	Protein 1543 1549	enzyme

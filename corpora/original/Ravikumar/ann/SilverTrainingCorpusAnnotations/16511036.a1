@@ -1,0 +1,50 @@
+T1	Protein_part 2 20	C-terminal segment
+T2	Protein 28 52	V1R vasopressin receptor
+T3	Geometrical_part 76 93	crystal structure
+T4	Molecule 101 108	chimera
+T5	Protein 118 141	maltose-binding protein
+T6	Protein 147 185	V1 vascular vasopressin receptor (V1R)
+T7	Protein 191 224	G-protein-coupled receptor (GPCR)
+T8	Process 241 251	regulation
+T9	Body_part 255 265	body-fluid
+T10	Parameter 266 276	osmolality
+T11	Body_part 278 283	blood
+T12	Parameter 284 290	volume
+T13	Body_part 295 300	blood
+T14	Parameter 301 309	pressure
+T15	Process 311 330	Signal transduction
+T16	Location 356 369	intracellular
+T17	Geometrical_part 370 374	loop
+T18	Body_part 383 402	seven-transmembrane
+T19	Protein 403 410	protein
+T20	Protein_part 429 459	C-terminal cytoplasmic segment
+T21	Molecule 463 470	chimera
+T22	Protein 478 507	maltose-binding protein (MBP)
+T23	Protein_part 516 534	C-terminal segment
+T24	Protein 538 541	V1R
+T25	Unknown 601 609	crystals
+T26	Geometrical_part 620 637	space group P2(1)
+T27	Body_part 644 653	unit-cell
+T28	Parameter 654 664	parameters
+T29	Parameter 665 666	a
+T30	Value 669 674	51.10
+T31	Parameter 676 677	b
+T32	Value 680 685	66.56
+T33	Parameter 687 688	c
+T34	Value 691 699	115.72 A
+T35	Parameter 702 706	beta
+T36	Value 709 722	95.99 degrees
+T37	Value 728 733	1.8 A
+T38	Geometrical_part 734 751	crystal structure
+T39	State 764 776	conformation
+T40	Protein 780 783	MBP
+T41	Geometrical_part 788 792	part
+T42	Molecular_Part 800 806	linker
+T43	Protein_part 807 813	region
+T44	Molecule 822 829	chimera
+T45	Protein_part 840 858	C-terminal segment
+T46	State 899 913	conformational
+T47	Process 914 924	plasticity
+T48	Protein_part 932 950	C-terminal segment
+T49	Process 984 992	function
+T50	Protein 996 999	V1R

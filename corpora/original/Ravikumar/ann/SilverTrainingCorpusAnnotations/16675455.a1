@@ -1,0 +1,62 @@
+T1	Chemical 0 4	Mg2+
+T2	Protein_part 15 21	lysine
+T3	Process 31 39	exchange
+T4	Parameter 40 48	activity
+T5	Organism 52 62	eukaryotic
+T6	Process 63 74	translation
+T7	Protein 75 92	elongation factor
+T8	Protein 93 101	1B alpha
+T9	Process 124 135	translation
+T10	Protein 137 187	eukaryotic elongation factor B alpha (eEF1B alpha)
+T11	Chemical 205 223	guanine nucleotide
+T12	Protein 224 239	exchange factor
+T13	Unknown 244 249	eEF1A
+T14	Parameter 264 272	kinetics
+T15	Chemical 283 323	or 3')-O-N-methylanthraniloyl (mant)-GDP
+T16	Process 343 350	release
+T17	Chemical 354 364	nucleotide
+T18	Unknown 370 375	eEF1A
+T19	Value 410 418	700-fold
+T20	Protein 422 433	eEF1B alpha
+T21	Protein 439 450	eEF1B alpha
+T22	Process 462 470	reaction
+T23	Chemical 488 492	Mg2+
+T24	Parameter 500 506	K(1/2)
+T25	Value 510 516	3.8 mM
+T26	Protein_part 560 575	Lys-205 residue
+T27	Protein 579 590	eEF1B alpha
+T28	Process 610 614	role
+T29	Chemical 628 638	nucleotide
+T30	Process 639 647	exchange
+T31	Chemical 666 670	Mg2+
+T32	Process 671 678	binding
+T33	Protein_part 679 683	site
+T34	Unknown 685 706	Co-crystal structures
+T35	Protein_part 721 733	K205A mutant
+T36	Protein_part 751 761	C terminus
+T37	Protein 765 776	eEF1B alpha
+T38	Unknown 782 787	eEF1A
+T39	Chemical 792 801	eEF1A.GDP
+T40	Process 861 867	defect
+T41	Protein_part 882 894	K205A mutant
+T42	Chemical 919 929	nucleotide
+T43	Process 930 938	exchange
+T44	Parameter 939 947	activity
+T45	Parameter 965 979	concentrations
+T46	Chemical 983 987	Mg2+
+T47	Protein 991 1015	K205R eEF1B alpha mutant
+T48	Chemical 1075 1095	wild-type nucleotide
+T49	Parameter 1096 1114	dissociation rates
+T50	Parameter 1130 1141	sensitivity
+T51	Chemical 1145 1149	Mg2+
+T52	Process 1190 1194	role
+T53	Chemical 1198 1202	Mg2+
+T54	Chemical 1210 1220	nucleotide
+T55	Process 1221 1229	exchange
+T56	Process 1230 1238	reaction
+T57	Protein 1242 1253	eEF1B alpha
+T58	Process 1272 1290	catalytic function
+T59	Protein_part 1294 1301	Lys-205
+T60	Chemical 1316 1320	Mg2+
+T61	Process 1330 1337	binding
+T62	Protein_part 1338 1342	site

@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein_part 17 37	Rb C-terminal domain
+T3	Process 47 55	E2F1-DP1
+T4	Process 59 68	mechanism
+T5	Process 73 88	phosphorylation
+T6	Protein 97 100	E2F
+T7	Process 101 108	release
+T8	Physiology 114 133	retinoblastoma (Rb)
+T9	Protein 134 141	protein
+T10	State 167 171	G1-S
+T11	Process 172 182	transition
+T12	Process 186 193	binding
+T13	Protein 201 226	E2F transcription factors
+T14	Protein 234 258	cyclin-dependent kinases
+T15	Physiology 273 275	Rb
+T16	Protein 285 288	E2F
+T17	Process 289 296	release
+T18	Physiology 302 304	Rb
+T19	Geometrical_part 305 311	pocket
+T20	Protein_part 312 318	domain
+T21	Protein 336 339	E2F
+T22	Process 341 348	binding
+T23	Protein_part 358 384	Rb C-terminal domain (RbC)
+T24	Process 406 412	growth
+T25	Process 413 424	suppression
+T26	Process 462 473	interaction
+T27	Protein_part 482 485	RbC
+T28	Protein 490 509	E2F-DP heterodimers
+T29	Physiology 524 526	Rb
+T30	Protein 531 549	E2F family members
+T31	Geometrical_part 555 572	crystal structure
+T32	Protein_part 579 591	RbC-E2F1-DP1
+T33	Category 592 599	complex
+T34	Protein 623 634	heterodimer
+T35	Protein_part 656 667	box domains
+T36	Protein 676 680	E2F1
+T37	Protein 685 688	DP1
+T38	Process 689 696	contact
+T39	Protein_part 697 700	RbC
+T40	Process 727 742	phosphorylation
+T41	Protein_part 746 749	RbC
+T42	Protein_part 753 764	serines 788
+T43	Protein_part 797 807	RbC-E2F-DP
+T44	Process 809 821	interactions
+T45	Process 838 853	phosphorylation
+T46	Protein_part 857 871	threonines 821
+T47	Process 906 917	interaction
+T48	Protein_part 926 929	RbC
+T49	Physiology 938 940	Rb
+T50	Geometrical_part 941 947	pocket
+T51	Process 980 992	interactions
+T52	Process 1030 1041	requirement
+T53	Protein_part 1045 1048	RbC
+T54	Protein 1067 1070	E2F
+T55	Process 1071 1078	binding
+T56	Process 1083 1089	growth
+T57	Process 1090 1101	suppression
+T58	Process 1118 1127	mechanism
+T59	Process 1136 1146	regulation
+T60	Physiology 1150 1156	Rb-E2F
+T61	Process 1157 1168	association
+T62	Process 1172 1187	phosphorylation

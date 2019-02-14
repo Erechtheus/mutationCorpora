@@ -1,0 +1,29 @@
+Cathepsin J has been partially purified [Liao, J . 
+C . 
+R. &amp; Lenney, J . 
+F . 
+(1984) Biochem . 
+Biophys . 
+Res . 
+Commun . 
+124, 909-916], but its detailed properties are still unknown . 
+In this study, we have purified cathepsin J completely and characterized it . 
+It was purified to homogeneity from the mitochondrial-lysosomal fraction of rat liver by acid treatment, followed by ammonium sulfate precipitation (20-65%), and chromatographies on S-Sepharose, ConA-Sepharose, Affi-gel 501, HPLC DEAE-5PW and HPLC TSK G3000SW . 
+Cathepsin J was found to be a lysosomal high-molecular-mass cysteine protease of about 160 kDa consisted of two different subunits . 
+One subunit (alpha subunit) was a glycoprotein with a molecular mass of 19-24 kDa which was reduced to 19 kDa by treatment with endoglycosidase F . 
+It has the amino acid sequence LPESWDWRNVR at its N-terminus, which was very similar to those at the N-termini of rat cathepsins B, H and L . 
+The other subunit (beta subunit) was a glycoprotein with a molecular mass of 17 kDa, which was reduced to 14 kDa by treatment with endoglycosidase F . 
+It had DTPANETYPDLLG at its N-terminus, which had no similarity with the N-terminal sequences of other cathepsins . 
+Cathepsin J showed strong affinity for synthetic substrates such as N-benzyloxycarbonyl-phenylalanyl-arginine 4-methyl-coumaryl-7-amide and glycyl-arginine beta-naphthylamide . 
+It was activated by thiol reagents and chloride ion and was inhibited by cysteine protease inhibitors . 
+However, its initial inhibition constant Ki(initial) by N-(L-3-trans-carboxyoxirane-2-carbonyl)-L-leucine-3- methylbutylamide (E-64-c) was 1800 nM, which was 100-500 times those of cathepsins B and L . 
+Many properties of cathepsin J were similar to those of cathepsin C (dipeptidylaminopeptidase I) reported as a lysosomal cysteine protease with dipeptidyl-aminopeptidase activity [McDonald, J . 
+K., Reilly, T . 
+J. &amp; Ellis, S . 
+(1964) Biochem . 
+Biophys . 
+Res . 
+Commun . 
+16, 135-140] . 
+Furthermore, antiserum against rat liver cathepsin C reacted with rat liver cathepsin J . 
+These findings suggested that cathepsin J is identical with cathepsin C . 

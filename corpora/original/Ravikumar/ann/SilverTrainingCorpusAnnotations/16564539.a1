@@ -1,0 +1,65 @@
+T1	Parameter 13 25	relationship
+T2	Protein 42 49	enzymes
+T3	Chemical 53 65	tetrapyrrole
+T4	Process 66 78	biosynthesis
+T5	Protein 80 127	Glutamate-1-semialdehyde 2,1-aminomutase (GSAM)
+T6	Protein 142 148	enzyme
+T7	Protein 156 160	C(5)
+T8	Process 162 169	pathway
+T9	Chemical 173 185	tetrapyrrole
+T10	Process 186 198	biosynthesis
+T11	Organism 213 221	bacteria
+T12	Organism 226 233	archaea
+T13	Organism 241 247	plants
+T14	Process 266 280	transamination
+T15	Chemical 284 308	glutamate-1-semialdehyde
+T16	Chemical 312 339	5-aminolevulinic acid (ALA)
+T17	Chemical 345 373	pyridoxal 5'-phosphate (PLP)
+T18	Geometrical_part 407 424	crystal structure
+T19	Protein 428 432	GSAM
+T20	Organism 455 499	cyanobacterium Thermosynechococcus elongatus
+T21	Protein 501 510	GSAM(Tel)
+T22	Chemical 519 522	PLP
+T23	Value 537 542	2.85A
+T24	Parameter 543 553	resolution
+T25	Protein 555 564	GSAM(Tel)
+T26	Protein 570 589	symmetric homodimer
+T27	Protein 599 634	GSAM from Synechococcus (GSAM(Syn))
+T28	Geometrical_part 673 681	symmetry
+T29	Protein 685 694	GSAM(Tel)
+T30	Protein 766 774	monomers
+T31	Protein 783 789	enzyme
+T32	Protein 804 813	GSAM(Tel)
+T33	Protein_part 844 850	region
+T34	Category 884 891	complex
+T35	Protein 895 899	GSAM
+T36	Protein 905 936	glutamyl-tRNA reductase (GluTR)
+T37	Protein 952 958	enzyme
+T38	Chemical 962 974	tetrapyrrole
+T39	Process 975 987	biosynthesis
+T40	Protein 1001 1010	GSAM(Syn)
+T41	Protein 1016 1024	monomers
+T42	Protein 1028 1037	GSAM(Tel)
+T43	Process 1081 1093	dimerization
+T44	Value 1107 1117	10 degrees
+T45	Protein 1150 1154	GSAM
+T46	Process 1184 1193	formation
+T47	Protein 1199 1204	GluTR
+T48	Protein 1242 1246	GSAM
+T49	Protein 1274 1307	5-aminolevulinate synthase (ALAS)
+T50	Chemical 1313 1316	ALA
+T51	Protein 1327 1333	enzyme
+T52	Protein 1341 1347	Shemin
+T53	Process 1348 1355	pathway
+T54	Organism 1359 1379	alpha-proteobacteria
+T55	Organism 1394 1404	eukaryotes
+T56	Parameter 1422 1434	relationship
+T57	Unknown 1469 1480	subfamilies
+T58	Chemical 1484 1487	PLP
+T59	Protein 1498 1505	enzymes
+T60	Unknown 1532 1545	CoA-subfamily
+T61	Protein 1557 1561	ALAS
+T62	Unknown 1571 1600	aminotransferase subfamily II
+T63	Protein 1612 1616	GSAM
+T64	Protein 1662 1666	ALAS
+T65	Protein 1694 1698	GSAM

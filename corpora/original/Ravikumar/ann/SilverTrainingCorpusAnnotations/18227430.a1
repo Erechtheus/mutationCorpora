@@ -1,0 +1,93 @@
+T1	Process 0 11	Involvement
+T2	Molecule 15 21	DPP-IV
+T3	Protein_part 32 40	residues
+T4	Chemical 44 62	enzyme-saxagliptin
+T5	Process 71 80	formation
+T6	Process 86 96	inhibition
+T7	Molecule 100 106	DPP-IV
+T8	Chemical 110 121	saxagliptin
+T9	Process 157 166	formation
+T10	Category 196 203	complex
+T11	Process 229 238	mechanism
+T12	Process 242 252	inhibition
+T13	Technique 272 295	X-ray crystal structure
+T14	Chemical 303 321	DPP-IV:saxagliptin
+T15	Category 322 329	complex
+T16	Unknown 336 345	structure
+T17	Process 363 373	attachment
+T18	Protein_part 382 386	S630
+T19	Category 395 404	inhibitor
+T20	Chemical 405 419	nitrile carbon
+T21	Protein_part 421 424	C-O
+T22	Parameter 425 433	distance
+T23	Value 434 440	<1.3 A
+T24	Protein_part 471 477	serine
+T25	Process 478 486	addition
+T26	Molecule 547 554	mutants
+T27	Molecule 558 564	DPP-IV
+T28	Protein_part 566 571	S630A
+T29	Protein_part 576 581	H740Q
+T30	Category 620 629	inhibitor
+T31	Unknown 631 643	DPP-IV H740Q
+T32	Chemical 650 661	saxagliptin
+T33	Value 670 693	approximately 1000-fold
+T34	Process 694 703	reduction
+T35	Parameter 707 715	affinity
+T36	Unknown 728 737	DPP-IV WT
+T37	Unknown 745 757	DPP-IV S630A
+T38	Process 781 788	binding
+T39	Category 789 798	inhibitor
+T40	Unknown 803 809	analog
+T41	Chemical 813 824	saxagliptin
+T42	Chemical 837 844	nitrile
+T43	Molecular_Part 845 850	group
+T44	Parameter 868 886	binding properties
+T45	Protein 899 914	mutant proteins
+T46	Process 943 947	role
+T47	Protein_part 948 952	S630
+T48	Protein_part 957 961	H740
+T49	Chemical 970 983	covalent bond
+T50	Process 984 993	formation
+T51	Protein_part 1002 1006	S630
+T52	Chemical 1011 1022	saxagliptin
+T53	Process 1043 1052	mechanism
+T54	Process 1059 1069	inhibition
+T55	Chemical 1073 1084	saxagliptin
+T56	Technique 1086 1089	NMR
+T57	Parameter 1090 1097	spectra
+T58	Chemical 1101 1119	enzyme-saxagliptin
+T59	Category 1120 1129	complexes
+T60	Process 1143 1151	presence
+T61	Protein 1191 1212	fractionation factors
+T62	Unknown 1231 1269	short and strong hydrogen bonds (SSHB)
+T63	Process 1271 1281	Comparison
+T64	Technique 1289 1292	NMR
+T65	Parameter 1293 1300	spectra
+T66	Category 1326 1346	mutant DPP-IV:ligand
+T67	Category 1347 1356	complexes
+T68	Process 1365 1375	assignment
+T69	Technique 1381 1390	resonance
+T70	Value 1394 1414	approximately 14 ppm
+T71	Protein_part 1418 1422	H740
+T72	Molecule 1439 1445	DPP-IV
+T73	Molecule 1446 1453	mutants
+T74	Protein_part 1455 1460	Y547F
+T75	Protein_part 1465 1470	Y547Q
+T76	Molecular_Part 1485 1490	probe
+T77	Process 1501 1514	stabilization
+T78	Category 1539 1546	complex
+T79	Protein_part 1555 1562	residue
+T80	Process 1581 1592	differences
+T81	Category 1596 1605	inhibitor
+T82	Process 1606 1613	binding
+T83	Chemical 1624 1627	ITC
+T84	Technique 1632 1635	NMR
+T85	Protein 1676 1685	enzymatic
+T86	Process 1711 1718	binding
+T87	Protein_part 1758 1767	histidine
+T88	Chemical 1777 1790	covalent bond
+T89	Process 1791 1800	formation
+T90	Chemical 1809 1829	S630 hydroxyl oxygen
+T91	Chemical 1838 1845	nitrile
+T92	Molecular_Part 1846 1851	group
+T93	Chemical 1855 1866	saxagliptin

@@ -1,0 +1,95 @@
+T1	Protein_part 0 10	Tryptophan
+T2	Process 26 32	switch
+T3	Process 51 59	function
+T4	Process 77 87	signalling
+T5	Protein 88 109	glycoprotein (SPS-40)
+T6	Body_part 115 129	mammary glands
+T7	Geometrical_part 131 140	structure
+T8	Protein 144 150	SPS-40
+T9	Chemical 166 190	2-methylpentane-2,4-diol
+T10	Value 194 199	1.6 A
+T11	Parameter 200 210	resolution
+T12	Value 216 222	40 kDa
+T13	Process 233 243	signalling
+T14	Protein 244 256	glycoprotein
+T15	Protein 258 264	SPS-40
+T16	Protein_part 292 297	Trp78
+T17	Process 318 330	orientations
+T18	State 346 351	state
+T19	State 367 379	conformation
+T20	State 396 408	conformation
+T21	Chemical 423 437	hexasaccharide
+T22	State 464 476	conformation
+T23	Chemical 495 525	2-methylpentane-2,4-diol (MPD)
+T24	Protein_part 527 532	Trp78
+T25	Chemical 563 568	sugar
+T26	Geometrical_part 577 583	groove
+T27	Chemical 589 635	hexasaccharide N-acetylglucosamine (GlcNAc(6))
+T28	Protein 662 668	SPS-40
+T29	State 696 708	conformation
+T30	Protein_part 712 717	Trp78
+T31	State 749 761	conformation
+T32	Protein 763 766	chi
+T33	Value 772 785	-65.5 degrees
+T34	Parameter 788 796	chi(2,1)
+T35	Value 799 812	-78.8 degrees
+T36	Parameter 815 823	chi(2,2)
+T37	Value 826 838	97.5 degrees
+T38	State 856 868	conformation
+T39	Protein 870 873	chi
+T40	Value 879 893	-170.0 degrees
+T41	Parameter 896 904	chi(2,1)
+T42	Value 907 921	-114.3 degrees
+T43	Parameter 924 932	chi(2,2)
+T44	Value 935 947	61.6 degrees
+T45	Process 959 966	binding
+T46	Process 967 978	experiments
+T47	Chemical 991 1001	saccharide
+T48	Process 1002 1009	binding
+T49	Process 1032 1040	presence
+T50	Value 1044 1047	20%
+T51	Chemical 1048 1051	MPD
+T52	Geometrical_part 1057 1074	crystal structure
+T53	Category 1096 1103	complex
+T54	Protein 1107 1113	SPS-40
+T55	Chemical 1119 1122	MPD
+T56	Process 1136 1144	presence
+T57	Chemical 1152 1166	MPD  molecules
+T58	Chemical 1174 1179	sugar
+T59	Geometrical_part 1188 1194	groove
+T60	Chemical 1219 1232	MPD molecules
+T61	Protein_part 1236 1247	subsites -2
+T62	Protein_part 1252 1254	-1
+T63	State 1299 1311	conformation
+T64	Protein_part 1315 1320	Trp78
+T65	Protein 1322 1325	chi
+T66	Value 1331 1343	55.9 degrees
+T67	Parameter 1346 1354	chi(2,1)
+T68	Value 1357 1369	90.2 degrees
+T69	Parameter 1372 1380	chi(2,2)
+T70	Value 1383 1396	-88.9 degrees
+T71	State 1430 1442	conformation
+T72	Process 1448 1455	binding
+T73	Chemical 1459 1472	MPD molecules
+T74	Protein_part 1491 1502	side chains
+T75	Protein_part 1506 1512	Glu269
+T76	Protein_part 1517 1523	Ile272
+T77	Protein_part 1544 1552	residues
+T78	Geometrical_part 1562 1566	part
+T79	Chemical 1574 1579	sugar
+T80	Geometrical_part 1588 1594	groove
+T81	State 1621 1633	conformation
+T82	Protein_part 1641 1651	side chain
+T83	Protein_part 1655 1660	Trp78
+T84	Unknown 1676 1685	structure
+T85	State 1723 1735	conformation
+T86	State 1758 1770	conformation
+T87	Chemical 1800 1814	hydrogen bonds
+T88	Protein_part 1823 1828	Trp78
+T89	Protein_part 1833 1838	Asn79
+T90	Chemical 1847 1862	water molecules
+T91	Protein_part 1863 1866	W49
+T92	Protein_part 1868 1872	W229
+T93	Protein_part 1874 1878	W269
+T94	Protein_part 1880 1884	W547
+T95	Protein_part 1889 1893	W557

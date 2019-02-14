@@ -1,0 +1,85 @@
+T1	Process 0 16	Characterization
+T2	Protein 20 23	Ehp
+T3	Process 36 46	complement
+T4	Protein 58 65	protein
+T5	Organism 71 92	Staphylococcus aureus
+T6	Process 127 143	characterization
+T7	Protein 147 150	Ehp
+T8	Organism 167 188	Staphylococcus aureus
+T9	Protein 189 196	protein
+T10	Protein 236 246	complement
+T11	Process 247 257	activation
+T12	Process 258 265	pathway
+T13	Unknown 267 270	Ehp
+T14	Protein 340 347	protein
+T15	Organism 353 362	S. aureus
+T16	Technique 368 382	immunoblotting
+T17	Organism 398 407	S. aureus
+T18	Body_part 408 422	culture medium
+T19	Protein 441 452	Ehp protein
+T20	Process 495 504	log-phase
+T21	Organism 505 514	bacterial
+T22	Process 515 521	growth
+T23	Protein_part 534 549	Ehp polypeptide
+T24	Protein_part 568 576	residues
+T25	Value 584 587	44%
+T26	Process 605 615	complement
+T27	Protein_part 627 633	domain
+T28	Organism 637 646	S. aureus
+T29	Protein 647 693	Efb (extracellular fibrinogen-binding protein)
+T30	Unknown 731 734	Ehp
+T31	Protein_part 760 762	C3
+T32	Unknown 788 791	C3b
+T33	Unknown 807 810	Ehp
+T34	Value 820 832	subnanomolar
+T35	Parameter 833 841	affinity
+T36	Category 842 849	complex
+T37	Protein_part 878 880	C3
+T38	Process 884 891	binding
+T39	Chemical 899 908	thioester
+T40	Protein_part 920 930	C3d domain
+T41	Technique 932 957	Site-directed mutagenesis
+T42	Protein_part 976 983	Arg(75)
+T43	Protein_part 988 995	Asn(82)
+T44	Unknown 1026 1033	Ehp.C3d
+T45	Category 1034 1041	complex
+T46	Process 1047 1051	loss
+T47	Protein_part 1061 1072	side chains
+T48	Protein 1100 1107	Ehp/C3d
+T49	Process 1108 1115	binding
+T50	Process 1136 1144	presence
+T51	Protein 1157 1160	C3d
+T52	Protein_part 1169 1173	site
+T53	Unknown 1177 1180	Ehp
+T54	Protein_part 1219 1230	Ehp Asn(63)
+T55	Protein 1271 1278	Ehp/C3d
+T56	Process 1279 1290	interaction
+T57	Value 1320 1325	2.7-A
+T58	Geometrical_part 1326 1343	crystal structure
+T59	Unknown 1350 1357	Ehp.C3d
+T60	Category 1358 1365	complex
+T61	Parameter 1383 1391	affinity
+T62	Protein_part 1392 1396	site
+T63	Unknown 1432 1435	Ehp
+T64	Unknown 1455 1458	C3b
+T65	Process 1459 1469	deposition
+T66	Geometrical_part 1486 1494	surfaces
+T67	Protein 1514 1524	complement
+T68	Process 1525 1535	activation
+T69	Process 1536 1543	pathway
+T70	Process 1550 1560	inhibition
+T71	Protein 1585 1592	Ehp/C3d
+T72	Process 1593 1600	binding
+T73	Protein 1640 1645	Efb-C
+T74	State 1658 1670	conformation
+T75	Unknown 1674 1677	Ehp
+T76	Protein_part 1684 1686	C3
+T77	Molecule 1703 1722	monoclonal antibody
+T78	Molecule 1723 1727	C3-9
+T79	Protein 1753 1763	neoantigen
+T80	Protein_part 1794 1796	C3
+T81	Unknown 1856 1859	Ehp
+T82	Protein 1872 1877	Efb-C
+T83	Value 1898 1907	second C3
+T84	Protein_part 1916 1920	site
+T85	Protein 1933 1940	protein

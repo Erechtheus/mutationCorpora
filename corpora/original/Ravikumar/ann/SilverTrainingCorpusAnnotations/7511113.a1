@@ -1,0 +1,38 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 25 30	human
+T3	Protein 31 37	CskSH3
+T4	Protein 69 75	RT-Src
+T5	Geometrical_part 80 90	n-Src loop
+T6	Protein_part 92 103	SH3 domains
+T7	Protein 137 145	proteins
+T8	Protein 160 182	cytoskeletal  proteins
+T9	Process 186 195	signaling
+T10	Protein 196 204	proteins
+T11	Protein 214 230	tyrosine kinases
+T12	Geometrical_part 236 253	crystal structure
+T13	Protein_part 261 271	SH3 domain
+T14	Protein 275 311	Csk (c-Src specific tyrosine kinase)
+T15	Parameter 334 344	resolution
+T16	Value 348 353	2.5 A
+T17	Parameter 363 371	R-factor
+T18	Value 375 380	22.4%
+T19	Unknown 386 395	structure
+T20	Unknown 420 444	FynSH3 crystal structure
+T21	Protein 461 467	CskSH3
+T22	Unknown 472 478	FynSH3
+T23	Parameter 514 520	charge
+T24	Process 521 532	differences
+T25	Geometrical_part 540 551	RT-Src loop
+T26	Geometrical_part 560 570	n-Src loop
+T27	Protein_part 591 596	Trp47
+T28	Process 613 622	different
+T29	Parameter 623 641	binding properties
+T30	Protein_part 651 662	SH3 domains
+T31	Unknown 668 677	structure
+T32	Process 678 688	comparison
+T33	Chemical 709 717	glycines
+T34	Protein_part 722 735	acid residues
+T35	Protein_part 774 787	SH3 sequences
+T36	State 810 819	stability
+T37	Protein_part 827 830	SH3
+T38	Value 831 835	fold

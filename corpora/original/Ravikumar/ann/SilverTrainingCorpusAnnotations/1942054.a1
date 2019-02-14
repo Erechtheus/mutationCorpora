@@ -1,0 +1,57 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 28	NADH peroxidase
+T3	Organism 34 61	Streptococcus faecalis 10C1
+T4	Value 73 79	2.16 A
+T5	Parameter 80 90	resolution
+T6	Geometrical_part 96 113	crystal structure
+T7	Protein 117 132	NADH peroxidase
+T8	Protein 134 145	EC 1.11.1.1
+T9	Organism 152 179	Streptococcus faecalis 10C1
+T10	Organism 181 202	Enterococcus faecalis
+T11	Parameter 226 236	resolution
+T12	Value 240 246	2.16 A
+T13	Technique 296 312	crystallographic
+T14	Parameter 313 321	R-factor
+T15	Value 325 330	17.7%
+T16	Parameter 351 367	resolution range
+T17	Value 368 369	7
+T18	Value 373 379	2.16 A
+T19	Parameter 385 404	standard deviations
+T20	Value 409 416	0.015 A
+T21	Parameter 420 432	bond lengths
+T22	Value 437 448	3.0 degrees
+T23	Parameter 452 463	bond angles
+T24	Protein_part 508 527	amino acid residues
+T25	Chemical 533 536	FAD
+T26	Chemical 545 560	water molecules
+T27	Protein 567 573	enzyme
+T28	Location 579 590	symmetrical
+T29	Protein 591 599	tetramer
+T30	Geometrical_part 605 619	point group D2
+T31	Geometrical_part 625 633	symmetry
+T32	Technique 637 653	crystallographic
+T33	Location 659 671	redox center
+T34	Protein 679 685	enzyme
+T35	Chemical 698 701	FAD
+T36	Protein_part 708 716	cysteine
+T37	Protein_part 718 723	Cys42
+T38	Chemical 740 753	sulfenic acid
+T39	Chemical 755 762	Cys-SOH
+T40	State 780 785	state
+T41	Protein_part 789 798	histidine
+T42	Protein_part 800 805	His10
+T43	Protein_part 816 821	Cys42
+T44	Chemical 845 861	active-site base
+T45	Unknown 879 886	crystal
+T46	Protein 892 898	enzyme
+T47	State 919 934	oxidation state
+T48	Protein_part 940 945	Cys42
+T49	Chemical 961 974	sulfonic acid
+T50	Unknown 975 983	Cys-SO3H
+T51	Protein 989 994	chain
+T52	Geometrical_part 995 999	fold
+T53	Protein 1003 1018	NADH peroxidase
+T54	Protein 1043 1068	disulfide oxidoreductases
+T55	Process 1072 1082	comparison
+T56	Protein 1088 1109	glutathione reductase
+T57	Protein 1136 1149	enzyme family

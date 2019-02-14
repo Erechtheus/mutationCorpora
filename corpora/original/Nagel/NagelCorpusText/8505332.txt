@@ -1,0 +1,8 @@
+The noncollagenous (NC1) domain of the human collagen alpha 3(IV)-chain is the primary target of autoantibodies produced in Goodpasture syndrome and, therefore, has been designated as the Goodpasture antigen . 
+In this report, we show that Goodpasture antigen mRNA undergoes processing to at least two alternatively spliced forms in a variety of human tissues, resulting in the exclusion of sequence encoded by either one or two exons . 
+Interestingly, no alternatively spliced forms were observed in bovine or rat tissues . 
+The derived amino acid sequences of the two variant mRNA forms are identical and significantly shorter than that arising from the complete Goodpasture antigen mRNA . 
+They lack the carboxyl-terminal region contributing to the formation of the Goodpasture epitope and all but one of the cysteines found in the complete form . 
+These sequence characteristics suggest that, if translated, the variant Goodpasture antigen is likely to be defective in triple helix formation and no longer reactive with Goodpasture autoantibodies . 
+Although each tissue expressing Goodpasture antigen displayed a specific mRNA pattern, the complete form was always the most abundant and was present at levels apparently unrelated to whether or not the organ of origin is a potential target in Goodpasture syndrome . 
+Furthermore, the antigen sequence was identical in the kidneys of normal and Goodpasture-affected individuals, and no major differences in the expression of the complete and spliced forms were observed . 

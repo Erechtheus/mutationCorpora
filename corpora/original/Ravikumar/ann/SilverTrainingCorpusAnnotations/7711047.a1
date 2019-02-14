@@ -1,0 +1,89 @@
+T1	Process 26 33	effects
+T2	Process 46 55	mutations
+T3	Protein_part 59 71	distal sites
+T4	Protein 75 87	cytochrome c
+T5	Process 98 107	mutations
+T6	Location 111 119	distally
+T7	Protein_part 128 133	sites
+T8	Organism 160 165	yeast
+T9	Protein 166 184	iso-1 cytochrome c
+T10	Process 202 215	contributions
+T11	Protein_part 225 236	amino acids
+T12	Parameter 270 280	properties
+T13	Protein 289 296	protein
+T14	Protein 302 317	mutant proteins
+T15	Geometrical_part 329 355	high-resolution structures
+T16	Process 415 428	substitutions
+T17	Protein_part 429 437	Arg38Ala
+T18	Protein_part 439 447	Asn52Ile
+T19	Protein_part 453 461	Phe82Ser
+T20	Protein_part 463 468	Arg38
+T21	Protein_part 470 475	Asn52
+T22	Protein_part 481 486	Phe82
+T23	Protein_part 512 529	primary sequences
+T24	Organism 533 543	eukaryotic
+T25	Protein 544 557	cytochromes c
+T26	Parameter 611 621	properties
+T27	Protein 631 639	proteins
+T28	Protein 651 658	protein
+T29	State 659 668	stability
+T30	Chemical 670 674	heme
+T31	Process 675 684	reduction
+T32	Parameter 685 694	potential
+T33	State 700 715	oxidation state
+T34	State 726 740	conformational
+T35	Process 741 748	changes
+T36	Process 795 807	consequences
+T37	Protein_part 816 826	amino acid
+T38	Process 827 839	substitution
+T39	Protein 857 872	mutant proteins
+T40	Protein 933 941	proteins
+T41	Process 972 978	effect
+T42	Process 987 995	mutation
+T43	Protein_part 996 1001	sites
+T44	Protein 1049 1056	protein
+T45	State 1057 1066	stability
+T46	Process 1072 1078	effect
+T47	Organism 1082 1092	individual
+T48	Process 1093 1102	mutations
+T49	Process 1141 1148	changes
+T50	State 1185 1194	stability
+T51	Process 1195 1202	effects
+T52	Process 1216 1224	mutation
+T53	Protein_part 1225 1230	sites
+T54	Protein 1281 1289	proteins
+T55	Process 1347 1354	changes
+T56	Location 1376 1384	distally
+T57	Process 1393 1401	mutation
+T58	Protein_part 1402 1407	sites
+T59	Chemical 1421 1425	heme
+T60	Process 1426 1435	reduction
+T61	Parameter 1436 1445	potential
+T62	Process 1450 1457	effects
+T63	Process 1476 1488	substitution
+T64	Protein_part 1492 1497	Phe82
+T65	Protein_part 1501 1507	serine
+T66	Process 1513 1522	mechanism
+T67	Process 1532 1541	reduction
+T68	Parameter 1542 1551	potential
+T69	Protein_part 1610 1615	Arg38
+T70	Protein_part 1623 1633	Asn52 site
+T71	Protein_part 1656 1663	residue
+T72	Process 1664 1676	replacements
+T73	Protein_part 1712 1717	Arg38
+T74	Protein_part 1722 1727	Asn52
+T75	Process 1741 1753	interactions
+T76	Process 1771 1780	reduction
+T77	Parameter 1781 1790	potential
+T78	Chemical 1820 1828	additive
+T79	Process 1829 1835	effect
+T80	Process 1839 1852	substitutions
+T81	Protein_part 1862 1870	residues
+T82	Process 1899 1910	interaction
+T83	Protein_part 1924 1935	amino acids
+T84	Chemical 1950 1962	heme element
+T85	Chemical 1976 1993	heme propionate A
+T86	Molecular_Part 1994 1999	group
+T87	Process 2073 2080	effects
+T88	Process 2093 2102	mutations
+T89	Protein 2112 2119	protein

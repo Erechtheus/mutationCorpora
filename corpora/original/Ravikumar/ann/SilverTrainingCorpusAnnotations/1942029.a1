@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Technique 18 26	analysis
+T3	Organism 39 61	Pseudomonas aeruginosa
+T4	Chemical 62 68	azurin
+T5	Parameter 72 74	pH
+T6	Value 75 78	5.5
+T7	Parameter 83 85	pH
+T8	Value 86 89	9.0
+T9	Parameter 93 95	pH
+T10	State 104 118	conformational
+T11	Process 119 129	transition
+T12	Chemical 141 153	peptide bond
+T13	Technique 164 187	X-ray crystal structure
+T14	Chemical 203 219	wild-type azurin
+T15	Organism 225 247	Pseudomonas aeruginosa
+T16	Process 266 276	difference
+T17	Technique 277 295	Fourier techniques
+T18	State 302 308	phases
+T19	Geometrical_part 326 335	structure
+T20	Protein_part 343 358	mutant His35Leu
+T21	Unknown 403 410	crystal
+T22	Chemical 423 429	azurin
+T23	Chemical 440 453	mother liquor
+T24	Parameter 466 468	pH
+T25	Value 469 472	5.5
+T26	Parameter 478 480	pH
+T27	Value 481 484	9.0
+T28	Value 525 531	1.93 A
+T29	Parameter 532 542	resolution
+T30	Parameter 552 554	pH
+T31	Technique 591 607	crystallographic
+T32	Parameter 608 617	R-factors
+T33	Value 621 626	17.6%
+T34	Parameter 628 630	pH
+T35	Value 631 634	5.5
+T36	Value 641 646	17.5%
+T37	Parameter 648 650	pH
+T38	Value 651 654	9.0
+T39	State 661 675	conformational
+T40	Process 676 686	transition
+T41	Process 716 741	protonation/deprotonation
+T42	Protein_part 745 758	residue His35
+T43	Parameter 760 763	pKa
+T44	Value 771 774	7.3
+T45	Parameter 776 783	pKa(ox)
+T46	Value 786 789	6.2
+T47	Protein 823 830	protein
+T48	Chemical 844 850	copper
+T49	Process 851 858	binding
+T50	Protein_part 859 863	site
+T51	Protein_part 888 899	Pro36-Gly37
+T52	Protein 900 910	main-chain
+T53	Chemical 911 923	peptide bond
+T54	Value 937 942	lower
+T55	Parameter 943 945	pH
+T56	Protein 962 981	imidazole N delta 1
+T57	Protein_part 985 990	His35
+T58	Chemical 1006 1019	hydrogen bond
+T59	Chemical 1029 1044	carbonyl oxygen
+T60	Protein_part 1050 1055	Pro36
+T61	Chemical 1066 1074	alkaline
+T62	Parameter 1075 1077	pH
+T63	Protein 1095 1104	N delta 1
+T64	Category 1117 1125	acceptor
+T65	Chemical 1136 1149	hydrogen bond
+T66	Protein_part 1155 1163	HN Gly37
+T67	Unknown 1169 1178	structure
+T68	Chemical 1203 1218	azurin molecule
+T69	Chemical 1234 1240	copper
+T70	Process 1241 1248	binding
+T71	Protein_part 1249 1253	site
+T72	Process 1293 1303	transition

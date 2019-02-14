@@ -1,0 +1,78 @@
+T1	Geometrical_part 0 26	High-resolution structures
+T2	Organism 30 35	HIV-1
+T3	Unknown 44 64	transcriptase/TMC278
+T4	Category 65 74	complexes
+T5	Parameter 123 133	resistance
+T6	Process 134 143	mutations
+T7	Protein 145 151	TMC278
+T8	Chemical 157 180	diarylpyrimidine (DAPY)
+T9	Category 181 234	nonnucleoside reverse transcriptase inhibitor (NNRTI)
+T10	Chemical 286 290	drug
+T11	Organism 301 306	HIV-1
+T12	Physiology 307 317	infections
+T13	Technique 321 336	clinical trials
+T14	Parameter 355 360	doses
+T15	Value 363 389	approximately 25-75 mg/day
+T16	Unknown 415 424	structure
+T17	Organism 438 443	HIV-1
+T18	Unknown 444 446	RT
+T19	Protein 462 468	TMC278
+T20	Value 472 477	1.8 A
+T21	Parameter 478 488	resolution
+T22	Unknown 499 509	RT crystal
+T23	Unknown 540 542	RT
+T24	Process 544 555	mutagenesis
+T25	Geometrical_part 562 587	high-resolution structure
+T26	Chemical 605 615	cyanovinyl
+T27	Molecular_Part 616 621	group
+T28	Protein 626 632	TMC278
+T29	Geometrical_part 664 670	tunnel
+T30	Category 686 691	NNRTI
+T31	Geometrical_part 700 706	pocket
+T32	Chemical 715 727	nucleic acid
+T33	Geometrical_part 736 741	cleft
+T34	Geometrical_part 747 765	crystal structures
+T35	Protein 769 775	TMC278
+T36	Category 779 788	complexes
+T37	Protein_part 799 824	double mutant K103N/Y181C
+T38	Value 826 831	2.1 A
+T39	Organism 837 854	L100I/K103N HIV-1
+T40	Unknown 855 858	RTs
+T41	Value 860 865	2.9 A
+T42	Protein 885 891	TMC278
+T43	Unknown 907 917	mutant RTs
+T44	Unknown 926 958	K103N/Y181C RT/TMC278  structure
+T45	Process 960 964	loss
+T46	Geometrical_part 981 985	ring
+T47	Process 986 997	interaction
+T48	Protein_part 1012 1017	Y181C
+T49	Process 1018 1026	mutation
+T50	Process 1050 1062	interactions
+T51	Chemical 1075 1085	cyanovinyl
+T52	Molecular_Part 1086 1091	group
+T53	Protein 1095 1101	TMC278
+T54	Protein_part 1119 1129	side chain
+T55	Protein_part 1133 1137	Y183
+T56	Value 1166 1185	approximately 1.5 A
+T57	Process 1186 1191	shift
+T58	Protein_part 1209 1224	Y(183)MDD motif
+T59	Unknown 1233 1264	L100I/K103N RT/TMC278 structure
+T60	Process 1270 1277	binding
+T61	Protein 1286 1292	TMC278
+T62	Chemical 1330 1334	drug
+T63	Process 1347 1354	changes
+T64	Process 1362 1369	binding
+T65	Geometrical_part 1370 1376	pocket
+T66	Protein_part 1401 1406	L100I
+T67	Process 1407 1415	mutation
+T68	Process 1430 1437	binding
+T69	Geometrical_part 1438 1444	pocket
+T70	Geometrical_part 1492 1497	shape
+T71	Protein 1529 1535	TMC278
+T72	Chemical 1553 1557	drug
+T73	Organism 1577 1582	HIV-1
+T74	Unknown 1583 1585	RT
+T75	Geometrical_part 1591 1609	crystal structures
+T76	Category 1670 1679	inhibitor
+T77	Chemical 1699 1714	drug-resistance
+T78	Process 1715 1724	mutations

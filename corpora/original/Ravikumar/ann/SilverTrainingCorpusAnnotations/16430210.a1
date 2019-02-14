@@ -1,0 +1,100 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 41	nitroalkane oxidase
+T3	Process 61 69	reaction
+T4	Process 70 79	mechanism
+T5	Category 87 103	covalent complex
+T6	Protein 111 122	flavoenzyme
+T7	Process 138 146	turnover
+T8	Protein 148 173	Nitroalkane oxidase (NAO)
+T9	Organism 179 187	Fusarium
+T10	Chemical 188 197	oxysporum
+T11	Process 212 221	oxidation
+T12	Chemical 233 245	nitroalkanes
+T13	Chemical 267 276	aldehydes
+T14	Chemical 280 287	ketones
+T15	Process 297 307	production
+T16	Chemical 311 319	H(2)O(2)
+T17	Chemical 324 331	nitrite
+T18	Protein 337 348	flavoenzyme
+T19	Unknown 358 364	member
+T20	Protein 372 408	acyl-CoA dehydrogenase (ACAD) family
+T21	Chemical 437 445	acyl-CoA
+T22	Category 446 456	substrates
+T23	Value 473 478	2.2 A
+T24	Parameter 479 489	resolution
+T25	Geometrical_part 490 507	crystal structure
+T26	Protein 511 514	NAO
+T27	Process 534 542	turnover
+T28	Chemical 546 557	nitroethane
+T29	Chemical 572 585	N5-FAD adduct
+T30	Chemical 587 590	ES*
+T31	Geometrical_part 597 621	homotetrameric structure
+T32	Unknown 625 628	ES*
+T33	Unknown 643 646	MAD
+T34	Protein_part 663 675	Se-Met sites
+T35	Geometrical_part 695 706	space group
+T36	Molecule 712 720	electron
+T37	Parameter 721 728	density
+T38	Chemical 737 770	N5-(2-nitrobutyl)-1,5-dihydro-FAD
+T39	Molecule 780 792	intermediate
+T40	Geometrical_part 819 828	structure
+T41	Protein 832 834	ES
+T42	Geometrical_part 857 874	crystal structure
+T43	Protein 887 890	NAO
+T44	Value 894 900	2.07 A
+T45	Parameter 901 911	resolution
+T46	Location 917 923	c axis
+T47	Geometrical_part 941 952	space group
+T48	Protein 965 968	NAO
+T49	Value 972 977	485 A
+T50	Protein 997 1005	subunits
+T51	Protein 1016 1027	holoenzymes
+T52	Protein_part 1065 1077	active sites
+T53	Chemical 1086 1094	spermine
+T54	Chemical 1096 1098	EI
+T55	Category 1120 1129	inhibitor
+T56	Chemical 1155 1163	spermine
+T57	Protein_part 1177 1188	active-site
+T58	Geometrical_part 1189 1199	structures
+T59	Chemical 1203 1208	E(ox)
+T60	Chemical 1210 1212	EI
+T61	Chemical 1218 1221	ES*
+T62	Protein 1231 1250	hydrophobic channel
+T63	Location 1273 1281	exterior
+T64	Protein 1289 1296	protein
+T65	Protein_part 1315 1321	Asp402
+T66	Location 1330 1341	N5 position
+T67	Body_part 1352 1356	face
+T68	Chemical 1364 1367	FAD
+T69	Protein_part 1375 1381	Asp402
+T70	Chemical 1426 1442	active-site base
+T71	Protein 1481 1493	alpha proton
+T72	Chemical 1507 1518	nitroalkane
+T73	Category 1519 1529	substrates
+T74	Unknown 1535 1545	structures
+T75	Protein 1551 1554	NAO
+T76	Unknown 1567 1574	members
+T77	Protein 1582 1593	ACAD family
+T78	Parameter 1607 1634	root-mean-square deviations
+T79	Value 1643 1646	1.7
+T80	Value 1651 1656	3.1 A
+T81	Protein_part 1673 1679	region
+T82	Value 1696 1709	more than 325
+T83	Protein_part 1710 1718	residues
+T84	Protein_part 1732 1738	Glu376
+T85	Chemical 1753 1769	active-site base
+T86	Unknown 1790 1796	member
+T87	Protein 1804 1815	ACAD family
+T88	Protein 1826 1829	NAO
+T89	Protein 1838 1843	ACADs
+T90	Process 1852 1863	differences
+T91	Chemical 1867 1875	hydrogen
+T92	Chemical 1916 1932	active-site base
+T93	Category 1934 1943	substrate
+T94	Molecule 1944 1953	molecules
+T95	Chemical 1959 1962	FAD
+T96	Protein 1991 1994	NAO
+T97	Protein 2004 2014	homologues
+T98	Process 2072 2080	reaction
+T99	Process 2081 2090	mechanism
+T100	Protein 2094 2097	NAO

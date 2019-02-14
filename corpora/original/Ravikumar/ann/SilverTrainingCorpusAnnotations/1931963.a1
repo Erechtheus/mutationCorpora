@@ -1,0 +1,77 @@
+T1	Process 11 16	basis
+T2	Protein 54 70	protease mutants
+T3	Process 72 79	Binding
+T4	Geometrical_part 80 86	pocket
+T5	Molecule 87 94	mutants
+T6	Protein 110 118	protease
+T7	Protein_part 120 134	Met 192----Ala
+T8	Protein_part 139 153	Met 213----Ala
+T9	Protein 211 219	protease
+T10	Protein_part 233 236	Met
+T11	Chemical 255 268	scissile bond
+T12	Process 279 287	mutation
+T13	Protein 300 309	proteases
+T14	Parameter 367 375	activity
+T15	Parameter 423 429	Nature
+T16	Process 474 479	basis
+T17	Molecule 530 537	mutants
+T18	Technique 555 579	X-ray crystal structures
+T19	Category 605 614	complexes
+T20	Molecule 623 629	mutant
+T21	Chemical 670 692	peptidylboronic  acids
+T22	Unknown 711 720	analogues
+T23	Process 736 744	reaction
+T24	Molecule 745 758	intermediates
+T25	Category 782 792	substrates
+T26	Process 798 807	different
+T27	Protein_part 808 819	side chains
+T28	Protein 838 844	enzyme
+T29	State 856 872	transition state
+T30	Unknown 882 892	structures
+T31	Chemical 979 992	hydrogen-bond
+T32	Parameter 993 1000	lengths
+T33	Geometrical_part 1021 1028	surface
+T34	Parameter 1029 1033	area
+T35	Body_part 1044 1050	cavity
+T36	Parameter 1051 1057	volume
+T37	Parameter 1067 1076	magnitude
+T38	Category 1080 1089	inhibitor
+T39	State 1105 1119	conformational
+T40	Process 1120 1131	adjustments
+T41	Protein_part 1153 1159	region
+T42	Process 1171 1178	binding
+T43	Geometrical_part 1179 1185	pocket
+T44	Protein_part 1186 1193	residue
+T45	Protein_part 1195 1198	Val
+T46	Protein_part 1199 1203	217A
+T47	Process 1206 1216	Comparison
+T48	Parameter 1231 1241	parameters
+T49	Parameter 1251 1253	Ki
+T50	Category 1262 1271	inhibitor
+T51	Parameter 1280 1284	kcat
+T52	Parameter 1289 1291	Km
+T53	Category 1309 1319	substrates
+T54	Parameter 1362 1371	parameter
+T55	Parameter 1401 1409	activity
+T56	Process 1413 1423	inhibition
+T57	Process 1481 1488	effects
+T58	Process 1516 1528	contribution
+T59	Protein 1564 1571	enzymes
+T60	State 1596 1610	conformational
+T61	Molecule 1630 1636	mutant
+T62	Technique 1668 1676	analysis
+T63	Protein 1695 1701	enzyme
+T64	Protein_part 1733 1739	region
+T65	Protein_part 1743 1746	Val
+T66	Protein_part 1747 1751	217A
+T67	Molecule 1837 1843	mutant
+T68	Category 1886 1895	substrate
+T69	Process 1949 1961	interactions
+T70	Category 1974 1983	substrate
+T71	Protein_part 1992 2000	residues
+T72	Geometrical_part 2024 2030	pocket
+T73	Process 2051 2063	interactions
+T74	Protein_part 2072 2090	peripheral regions
+T75	Protein 2098 2105	protein
+T76	Protein_part 2114 2132	active-site region
+T77	Protein_part 2156 2167	active-site

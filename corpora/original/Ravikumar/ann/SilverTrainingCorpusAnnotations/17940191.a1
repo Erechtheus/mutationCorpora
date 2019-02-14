@@ -1,0 +1,69 @@
+T1	Process 4 29	differential interactions
+T2	Body_part 33 43	peroxisome
+T3	Molecule 44 56	proliferator
+T4	Protein 67 81	receptor gamma
+T5	Category 82 89	ligands
+T6	Protein_part 95 101	Tyr473
+T7	Process 116 121	basis
+T8	Parameter 139 160	biological activities
+T9	Physiology 183 195	antidiabetic
+T10	Process 196 204	efficacy
+T11	Body_part 224 234	peroxisome
+T12	Molecule 235 247	proliferator
+T13	Protein 258 278	receptor (PPAR)gamma
+T14	Category 279 287	agonists
+T15	Body_part 317 331	cardiovascular
+T16	Process 332 339	effects
+T17	Molecule 371 416	selective PPARgamma modulators (SPPARgammaMs)
+T18	Physiology 448 460	antidiabetic
+T19	Process 461 469	efficacy
+T20	Category 491 499	agonists
+T21	Organism 542 549	species
+T22	Process 598 609	proposition
+T23	Molecule 615 627	SPPARgammaMs
+T24	Protein 642 651	PPARgamma
+T25	Category 674 682	agonists
+T26	Process 713 718	basis
+T27	Parameter 735 745	activities
+T28	Protein 775 784	PPARgamma
+T29	Category 786 792	ligand
+T30	Molecule 794 806	SPPARgammaM2
+T31	Chemical 813 821	compound
+T32	Category 836 843	agonist
+T33	Body_part 849 853	cell
+T34	Parameter 876 884	activity
+T35	Technique 885 890	assay
+T36	Physiology 908 918	adipogenic
+T37	Parameter 919 927	activity
+T38	Protein 946 950	gene
+T39	Geometrical_part 951 960	signature
+T40	Organism 973 978	human
+T41	Body_part 979 989	adipocytes
+T42	Technique 991 1014	X-ray cocrystallography
+T43	Chemical 1049 1062	rosiglitazone
+T44	Molecule 1064 1076	SPPARgammaM2
+T45	Protein_part 1103 1117	Tyr473 residue
+T46	Protein_part 1133 1141	helix 12
+T47	Protein_part 1149 1176	ligand binding domain (LBD)
+T48	Molecule 1187 1199	SPPARgammaM2
+T49	Organism 1234 1239	human
+T50	Protein 1240 1249	PPARgamma
+T51	Protein_part 1263 1277	Tyr473 residue
+T52	Protein_part 1298 1323	alanine (hPPARgammaY473A)
+T53	Protein 1375 1408	wild-type receptor (hPPARgammaWT)
+T54	Location 1451 1460	intrinsic
+T55	Process 1461 1468	binding
+T56	Molecule 1519 1531	SPPARgammaMs
+T57	Protein_part 1559 1564	Y473A
+T58	Process 1566 1574	mutation
+T59	Chemical 1601 1618	thiazolidinedione
+T60	Chemical 1620 1623	TZD
+T61	Protein 1629 1646	non-TZD PPARgamma
+T62	Category 1653 1661	agonists
+T63	Process 1749 1753	role
+T64	Protein_part 1757 1763	Tyr473
+T65	Process 1781 1792	interaction
+T66	Category 1801 1809	agonists
+T67	Molecule 1818 1830	SPPARgammaMs
+T68	Protein_part 1840 1853	PPARgamma LBD
+T69	Process 1915 1924	differing

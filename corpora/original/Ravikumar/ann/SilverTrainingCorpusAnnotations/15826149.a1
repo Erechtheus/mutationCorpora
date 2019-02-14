@@ -1,0 +1,43 @@
+T1	Chemical 0 8	Chemical
+T2	Process 9 21	confirmation
+T3	Chemical 27 50	pentavalent phosphorane
+T4	Category 54 61	complex
+T5	Protein 67 90	beta-phosphoglucomutase
+T6	Process 97 110	communication
+T7	Technique 123 146	X-ray crystal structure
+T8	Chemical 154 183	alpha-d-galactose-1-phosphate
+T9	Category 184 191	complex
+T10	Organism 205 223	Lactococcus lactis
+T11	Protein 224 258	beta-phosphoglucomutase (beta-PGM)
+T12	Process 279 287	presence
+T13	Chemical 291 295	Mg2+
+T14	Category 296 304	cofactor
+T15	Chemical 314 334	enzyme-to-phosphorus
+T16	Parameter 335 340	ratio
+T17	Protein 355 362	protein
+T18	Chemical 367 376	phosphate
+T19	Technique 377 385	analyses
+T20	Category 405 412	complex
+T21	Value 418 421	1:1
+T22	Parameter 422 427	ratio
+T23	Category 448 455	complex
+T24	Value 476 479	1:2
+T25	Parameter 480 485	ratio
+T26	Unknown 505 513	crystals
+T27	Protein 517 525	beta-PGM
+T28	Process 539 547	presence
+T29	Category 551 560	substrate
+T30	Chemical 565 569	Mg2+
+T31	Category 570 578	cofactor
+T32	Unknown 615 624	structure
+T33	Process 625 635	assignment
+T34	Category 651 658	complex
+T35	Chemical 666 684	phosphorane adduct
+T36	Process 704 711	bonding
+T37	Protein_part 724 735	active site
+T38	Chemical 736 752	Asp8 carboxylate
+T39	Chemical 760 774	C(1)phosphorus
+T40	Chemical 782 811	beta-glucose 1,6-bisphosphate
+T41	Category 812 818	ligand
+T42	Protein 851 887	beta-PGM-glucose-6-phosphate-1-MgF3-
+T43	Category 888 895	complex

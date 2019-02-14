@@ -1,0 +1,93 @@
+T1	Protein 25 28	TCR
+T2	Process 29 40	recognition
+T3	Protein 44 50	HLA-A2
+T4	Process 73 82	existence
+T5	Protein_part 86 93	peptide
+T6	Protein 106 109	TCR
+T7	Process 110 117	binding
+T8	Protein 132 153	T cell receptor (TCR)
+T9	Process 154 165	recognition
+T10	Protein_part 169 176	peptide
+T11	Category 211 249	major histocompatibility complex (MHC)
+T12	Molecule 250 258	molecule
+T13	Category 311 322	peptide/MHC
+T14	Geometrical_part 330 337	surface
+T15	Unknown 349 356	class I
+T16	Category 357 360	MHC
+T17	Protein 361 367	HLA-A2
+T18	Molecule 390 397	mutants
+T19	Geometrical_part 429 436	surface
+T20	Process 437 446	mutations
+T21	Protein 460 463	TCR
+T22	Process 464 475	recognition
+T23	Process 490 498	identity
+T24	Protein_part 506 513	peptide
+T25	Process 526 535	exception
+T26	Protein_part 539 544	Lys66
+T27	Protein_part 552 571	HLA-A2 alpha1 helix
+T28	Protein_part 595 602	alanine
+T29	Process 612 623	recognition
+T30	Value 628 631	93%
+T31	Process 644 653	different
+T32	Body_part 654 660	T cell
+T33	Protein 661 667	clones
+T34	Body_part 671 676	lines
+T35	Protein_part 699 706	peptide
+T36	Protein_part 723 728	Lys66
+T37	Protein_part 746 753	peptide
+T38	Protein 766 769	TCR
+T39	Process 770 777	binding
+T40	Process 818 822	role
+T41	Protein_part 826 831	Lys66
+T42	Protein 835 838	TCR
+T43	Process 839 850	recognition
+T44	Protein 854 860	HLA-A2
+T45	Unknown 876 885	structure
+T46	Molecule 891 914	peptide/HLA-A2 molecule
+T47	Protein_part 924 928	K66A
+T48	Process 929 937	mutation
+T49	Process 966 974	mutation
+T50	Process 1003 1010	changes
+T51	Process 1030 1038	exposure
+T52	Chemical 1063 1072	glutamate
+T53	Protein_part 1074 1079	Glu63
+T54	Protein_part 1092 1097	Lys66
+T55	Process 1110 1121	replacement
+T56	Protein_part 1125 1130	Glu63
+T57	Chemical 1136 1145	glutamine
+T58	Protein 1155 1158	TCR
+T59	Process 1159 1166	binding
+T60	Process 1171 1179	function
+T61	Body_part 1184 1191	T cells
+T62	Process 1210 1219	different
+T63	Protein_part 1220 1228	peptides
+T64	Protein 1242 1248	HLA-A2
+T65	Value 1260 1268	positive
+T66	Parameter 1269 1275	charge
+T67	Protein_part 1279 1284	Lys66
+T68	Protein 1313 1317	TCRs
+T69	Molecule 1327 1342	HLA-A2 molecule
+T70	Process 1379 1388	signaling
+T71	Technique 1417 1429	calculations
+T72	Protein_part 1444 1449	Lys66
+T73	State 1477 1486	stability
+T74	Protein 1494 1512	TCR-peptide/HLA-A2
+T75	Category 1513 1522	complexes
+T76	Protein 1578 1581	TCR
+T77	Chemical 1602 1610	solution
+T78	Category 1628 1639	peptide/MHC
+T79	Chemical 1673 1681	chemical
+T80	Protein_part 1719 1726	peptide
+T81	Location 1755 1764	intrinsic
+T82	Parameter 1765 1773	affinity
+T83	Protein 1777 1781	TCRs
+T84	Category 1786 1789	MHC
+T85	Molecule 1790 1799	molecules
+T86	Process 1831 1843	interactions
+T87	Protein 1853 1859	HLA-A2
+T88	Process 1911 1915	role
+T89	Category 1930 1933	MHC
+T90	Protein_part 1934 1955	amino acid side-chain
+T91	Protein 1967 1970	TCR
+T92	Process 1971 1978	binding
+T93	Protein_part 1984 1991	peptide

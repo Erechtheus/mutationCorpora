@@ -1,0 +1,58 @@
+T1	Parameter 0 7	Kinetic
+T2	Process 23 39	characterization
+T3	Process 43 52	mutations
+T4	Protein_part 56 67	glycine 216
+T5	Protein 83 91	protease
+T6	Process 99 105	target
+T7	Category 122 131	substrate
+T8	Protein_part 145 151	Gly216
+T9	Protein_part 159 170	active site
+T10	Molecule 195 200	MA190
+T11	Molecule 201 207	mutant
+T12	Protein 223 231	protease
+T13	Protein_part 276 286	amino acid
+T14	Process 287 300	substitutions
+T15	Protein_part 302 313	Side-chains
+T16	Protein_part 326 329	Trp
+T17	Category 361 370	substrate
+T18	Geometrical_part 379 385	pocket
+T19	Process 405 414	catalysis
+T20	Process 431 438	effects
+T21	Category 448 457	substrate
+T22	Protein 477 483	enzyme
+T23	Parameter 485 492	Kinetic
+T24	Process 493 509	characterization
+T25	Molecule 541 548	mutants
+T26	Category 574 584	substrates
+T27	Process 617 629	consequences
+T28	Process 637 650	substitutions
+T29	Location 654 666	position 216
+T30	Process 704 709	basis
+T31	Unknown 745 750	GA216
+T32	Molecule 753 758	MA190
+T33	Unknown 764 769	GL216
+T34	Molecule 772 777	MA190
+T35	Molecule 778 785	mutants
+T36	Protein_part 858 865	peptide
+T37	Chemical 874 878	acid
+T38	State 879 895	transition-state
+T39	Unknown 896 902	analog
+T40	Category 903 913	inhibitors
+T41	Process 928 939	description
+T42	Technique 971 979	analysis
+T43	Process 994 1003	variation
+T44	Protein 1016 1022	enzyme
+T45	Category 1024 1033	inhibitor
+T46	Category 1034 1043	complexes
+T47	Process 1062 1067	roles
+T48	Protein_part 1071 1082	active site
+T49	Process 1083 1093	plasticity
+T50	Protein 1122 1130	protease
+T51	Process 1131 1139	function
+T52	Category 1144 1153	substrate
+T53	Category 1219 1228	substrate
+T54	Protein 1270 1278	protease
+T55	Parameter 1296 1304	property
+T56	Protein_part 1312 1323	active site
+T57	Category 1328 1337	substrate
+T58	Molecule 1338 1346	molecule

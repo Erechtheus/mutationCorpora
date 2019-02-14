@@ -1,0 +1,84 @@
+T1	Process 15 21	action
+T2	Unknown 25 39	14-epi-analogs
+T3	Chemical 43 66	1,25-dihydroxyvitamin D
+T4	Protein 80 110	vitamin D receptor-coactivator
+T5	Process 111 122	interaction
+T6	Unknown 128 142	14-epi-analogs
+T7	Chemical 146 170	1,25-dihydroxyvitamin D3
+T8	Unknown 172 188	1,25-(OH)(2)D(3)
+T9	Unknown 191 232	19-nor-14-epi-23-yne-1,25-(OH)2D3 (TX522)
+T10	Unknown 237 284	19-nor-14,20-bisepi-23-yne-1,25-(OH)2D3 (TX527)
+T11	Physiology 300 317	antiproliferative
+T12	Value 329 336	10-fold
+T13	Process 366 373	effects
+T14	Unknown 415 427	1,25-(OH)2D3
+T15	Process 479 485	effect
+T16	Process 502 513	interaction
+T17	Protein 526 550	Vitamin D receptor (VDR)
+T18	Category 555 567	coactivators
+T19	Organism 569 578	Mammalian
+T20	Technique 590 596	assays
+T21	Chemical 602 606	VP16
+T22	Protein 613 616	VDR
+T23	Protein_part 621 644	GAL4-DNA-binding-domain
+T24	Category 651 689	steroid receptor coactivator 1 (SRC-1)
+T25	Protein 691 735	transcriptional intermediary factor 2 (Tif2)
+T26	Unknown 740 747	DRIP205
+T27	Unknown 759 773	14-epi-analogs
+T28	Protein 804 819	VDR-coactivator
+T29	Process 820 832	interactions
+T30	Unknown 838 850	1,25-(OH)2D3
+T31	Value 866 873	20-fold
+T32	Process 883 892	induction
+T33	Category 896 905	VDR-SRC-1
+T34	Process 906 917	interaction
+T35	Unknown 922 927	TX522
+T36	Unknown 932 937	TX527
+T37	Value 949 950	M
+T38	Technique 961 967	assays
+T39	Process 977 987	metabolism
+T40	Unknown 991 1003	1,25-(OH)2D3
+T41	Chemical 1021 1027	VID400
+T42	Category 1041 1050	inhibitor
+T43	Unknown 1058 1070	1,25-(OH)2D3
+T44	Protein 1084 1096	enzyme CYP24
+T45	Unknown 1140 1147	analogs
+T46	Protein 1164 1179	VDR-coactivator
+T47	Process 1180 1192	interactions
+T48	Parameter 1248 1258	resistance
+T49	Physiology 1262 1271	metabolic
+T50	Process 1272 1283	degradation
+T51	Process 1285 1300	Crystallization
+T52	Unknown 1304 1309	TX522
+T53	Category 1327 1333	ligand
+T54	Process 1334 1341	binding
+T55	Protein_part 1342 1348	domain
+T56	Organism 1356 1361	human
+T57	Protein 1362 1365	VDR
+T58	Protein_part 1410 1413	C14
+T59	Geometrical_part 1425 1432	CD ring
+T60	Category 1440 1446	ligand
+T61	Value 1459 1472	0.5 angstroms
+T62	Chemical 1495 1503	C12 atom
+T63	Process 1516 1523	contact
+T64	Protein_part 1529 1535	Val300
+T65	Protein_part 1547 1550	C22
+T66	Unknown 1554 1559	TX522
+T67	Process 1579 1586	contact
+T68	Chemical 1596 1604	CD1 atom
+T69	Protein_part 1608 1614	Ile268
+T70	Physiology 1630 1638	rigidity
+T71	Chemical 1653 1657	bond
+T72	Protein_part 1669 1679	side chain
+T73	State 1698 1710	conformation
+T74	Process 1718 1728	activation
+T75	Protein_part 1729 1738	helix H12
+T76	Protein 1742 1745	VDR
+T77	Process 1813 1820	insight
+T78	Process 1830 1837	docking
+T79	Unknown 1841 1846	TX522
+T80	Protein 1854 1857	LBP
+T81	Protein 1882 1897	VDR-coactivator
+T82	Process 1898 1910	interactions
+T83	Parameter 1939 1947	activity
+T84	Unknown 1959 1973	14-epi-analogs

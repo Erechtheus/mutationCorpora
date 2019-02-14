@@ -1,0 +1,76 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 25 63	gamma-glutamyltranspeptidase precursor
+T3	Protein 64 71	protein
+T4	Organism 77 93	Escherichia coli
+T5	Process 106 113	changes
+T6	Process 148 160	implications
+T7	Process 169 179	maturation
+T8	Process 180 189	mechanism
+T9	Protein 191 225	Gamma-glutamyltranspeptidase (GGT)
+T10	Location 232 245	extracellular
+T11	Protein 246 252	enzyme
+T12	Process 270 274	role
+T13	Chemical 278 289	glutathione
+T14	Process 290 300	metabolism
+T15	Protein 313 316	GGT
+T16	Protein 322 333	heterodimer
+T17	Unknown 348 350	L-
+T18	Protein 356 366	S-subunits
+T19	Process 406 414	cleavage
+T20	Chemical 422 434	peptide bond
+T21	Protein_part 443 450	Gln-390
+T22	Protein_part 455 462	Thr-391
+T23	Unknown 470 479	precursor
+T24	Protein 480 487	protein
+T25	Protein_part 489 496	Thr-391
+T26	Protein_part 516 534	N-terminal residue
+T27	Protein 542 551	S-subunit
+T28	Protein_part 565 579	active residue
+T29	Process 587 605	catalytic reaction
+T30	Geometrical_part 611 628	crystal structure
+T31	Protein 634 644	mutant GGT
+T32	Protein 646 651	T391A
+T33	Value 729 735	2.55-A
+T34	Parameter 736 746	resolution
+T35	Process 759 769	comparison
+T36	Unknown 777 786	precursor
+T37	Protein 787 794	protein
+T38	Protein 806 809	GGT
+T39	Unknown 832 842	structures
+T40	Protein_part 855 862	regions
+T41	Protein 874 882	proteins
+T42	Process 910 921	differences
+T43	Protein_part 941 952	active site
+T44	Unknown 976 985	precursor
+T45	Protein_part 992 999	segment
+T46	Protein_part 1021 1038	C-terminal region
+T47	Protein 1046 1055	L-subunit
+T48	Protein_part 1069 1073	site
+T49	Geometrical_part 1084 1088	loop
+T50	Protein_part 1090 1106	residues 438-449
+T51	Chemical 1129 1143	gamma-glutamyl
+T52	Molecular_Part 1144 1149	group
+T53	Geometrical_part 1158 1164	pocket
+T54	Protein 1179 1182	GGT
+T55	Process 1220 1228	cleavage
+T56	Chemical 1236 1259	N-terminal peptide bond
+T57	Protein_part 1263 1270	Thr-391
+T58	Protein_part 1291 1301	C terminus
+T59	Protein_part 1303 1319	residues 375-390
+T60	Protein_part 1353 1360	segment
+T61	Chemical 1373 1387	gamma-glutamyl
+T62	Molecular_Part 1388 1393	group
+T63	Geometrical_part 1402 1408	pocket
+T64	Molecule 1414 1422	electron
+T65	Parameter 1423 1430	density
+T66	Protein 1443 1456	T391A protein
+T67	Chemical 1475 1489	water molecule
+T68	Chemical 1499 1519	carbonyl carbon atom
+T69	Protein_part 1523 1530	Gln-390
+T70	Process 1544 1555	arrangement
+T71	Chemical 1567 1572	water
+T72	Protein_part 1577 1584	Thr-391
+T73	Chemical 1610 1622	peptide bond
+T74	Process 1648 1658	initiation
+T75	Unknown 1700 1707	members
+T76	Protein 1715 1759	N-terminal nucleophile hydrolase superfamily

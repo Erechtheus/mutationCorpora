@@ -1,0 +1,76 @@
+T1	Process 0 4	Role
+T2	Chemical 8 13	water
+T3	Physiology 17 22	aging
+T4	Protein 26 53	human butyrylcholinesterase
+T5	Chemical 67 80	echothiophate
+T6	Geometrical_part 86 103	crystal structure
+T7	Process 129 139	mechanisms
+T8	Physiology 143 148	aging
+T9	Chemical 150 179	Organophosphorus poisons (OP)
+T10	Protein_part 203 221	active-site serine
+T11	Protein 225 240	cholinesterases
+T12	Protein 256 262	enzyme
+T13	Chemical 304 316	nucleophiles
+T14	Chemical 325 331	oximes
+T15	Chemical 363 365	OP
+T16	Process 388 396	reaction
+T17	Physiology 405 410	aging
+T18	Protein 438 444	enzyme
+T19	Protein 449 484	human butyrylcholinesterase (hBChE)
+T20	Physiology 486 491	aging
+T21	Protein_part 505 520	residues His438
+T22	Protein_part 525 531	Glu197
+T23	Location 541 549	proximal
+T24	Protein_part 557 575	active-site serine
+T25	Protein_part 577 583	Ser198
+T26	Process 590 599	mechanism
+T27	Physiology 603 608	aging
+T28	Chemical 637 654	nerve gases soman
+T29	Chemical 656 661	sarin
+T30	Chemical 667 672	tabun
+T31	Chemical 688 721	pesticide metabolite isomalathion
+T32	Physiology 723 728	Aging
+T33	Chemical 743 748	sarin
+T34	Protein 759 779	acetylcholinesterase
+T35	Chemical 790 798	C-O bond
+T36	Process 799 807	cleavage
+T37	Chemical 836 848	isomalathion
+T38	Protein 859 879	acetylcholinesterase
+T39	Chemical 890 893	P-N
+T40	Chemical 898 906	P-S bond
+T41	Process 907 915	cleavage
+T42	Geometrical_part 949 967	crystal structures
+T43	Protein 971 976	hBChE
+T44	Body_part 994 1027	ophthalmic reagents echothiophate
+T45	Chemical 1051 1077	diisopropylfluorophosphate
+T46	Value 1112 1115	2.1
+T47	Value 1117 1121	2.25
+T48	Value 1127 1132	2.2 A
+T49	Parameter 1133 1143	resolution
+T50	Process 1174 1179	shift
+T51	Protein_part 1203 1228	catalytic triad histidine
+T52	Chemical 1271 1281	conjugates
+T53	Protein 1285 1290	hBChE
+T54	Process 1297 1304	absence
+T55	Process 1308 1313	shift
+T56	Geometrical_part 1350 1368	crystal structures
+T57	Organism 1372 1391	Torpedo californica
+T58	Protein 1392 1412	acetylcholinesterase
+T59	Chemical 1430 1441	nerve agent
+T60	Unknown 1442 1444	VX
+T61	Protein 1458 1463	hBChE
+T62	Geometrical_part 1464 1473	structure
+T63	Chemical 1484 1498	water molecule
+T64	Protein_part 1516 1522	Glu197
+T65	Protein_part 1531 1556	catalytic triad histidine
+T66	Protein_part 1558 1564	His438
+T67	Chemical 1587 1601	water molecule
+T68	Physiology 1635 1640	aging
+T69	Process 1648 1658	mechanisms
+T70	Chemical 1678 1686	C-O bond
+T71	Chemical 1692 1700	P-O bond
+T72	Chemical 1702 1712	Pesticides
+T73	Protein 1725 1738	stereoisomers
+T74	Chemical 1742 1754	nerve agents
+T75	Physiology 1779 1784	aging
+T76	Chemical 1801 1809	P-O bond

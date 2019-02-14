@@ -1,0 +1,44 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 16 33	antibody-lysozyme
+T3	Category 34 41	complex
+T4	Process 53 59	effect
+T5	Process 76 84	mutation
+T6	Geometrical_part 90 99	structure
+T7	Category 107 114	complex
+T8	Unknown 127 138	Fab HyHEL-5
+T9	Organism 143 150	chicken
+T10	Protein 151 159	lysozyme
+T11	Protein_part 187 193	region
+T12	Protein 208 216	lysozyme
+T13	Protein_part 224 236	Fab residues
+T14	Protein_part 238 243	Arg68
+T15	Protein 251 259	lysozyme
+T16	Technique 336 350	binding assays
+T17	Protein_part 359 362	Fab
+T18	Process 366 375	different
+T19	Organism 376 381	avian
+T20	Protein 382 391	lysozymes
+T21	Protein_part 424 440	arginine residue
+T22	Process 476 483	binding
+T23	Protein_part 489 494	Arg68
+T24	Protein_part 497 507	Lys mutant
+T25	Parameter 520 525	times
+T26	Unknown 543 554	HyHEL-5 Fab
+T27	Geometrical_part 585 602	crystal structure
+T28	Category 610 617	complex
+T29	Protein 626 641	mutant lysozyme
+T30	Protein_part 651 654	Fab
+T31	Process 666 673	changes
+T32	Chemical 719 733	water molecule
+T33	Chemical 771 787	hydrogen bonding
+T34	Process 788 800	interactions
+T35	Protein_part 813 819	lysine
+T36	Protein_part 824 832	residues
+T37	Protein_part 840 843	Fab
+T38	Process 879 886	effects
+T39	Process 898 905	changes
+T40	Process 913 923	inhibition
+T41	Protein 927 943	serine proteases
+T42	Protein 952 959	trypsin
+T43	Process 980 987	effects
+T44	Process 996 1008	substitution

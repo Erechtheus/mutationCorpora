@@ -1,0 +1,62 @@
+T1	Protein_part 13 28	residues Ala287
+T2	Protein_part 33 39	Ser290
+T3	Organism 47 70	Cryptosporidium hominis
+T4	Protein 71 91	thymidylate synthase
+T5	Protein_part 92 98	domain
+T6	Parameter 120 124	rate
+T7	Process 128 137	catalysis
+T8	Organism 139 162	Cryptosporidium hominis
+T9	Unknown 163 170	TS-DHFR
+T10	Parameter 198 202	rate
+T11	Process 206 215	catalysis
+T12	Protein_part 223 232	TS domain
+T13	Value 243 250	10-fold
+T14	Protein 279 289	TS enzymes
+T15	Technique 297 322	site-directed mutagenesis
+T16	Protein_part 340 355	residues Ala287
+T17	Protein_part 360 366	Ser290
+T18	Chemical 374 380	folate
+T19	Protein_part 389 394	helix
+T20	Protein_part 398 411	phenylalanine
+T21	Chemical 416 423	glycine
+T22	Protein_part 457 465	residues
+T23	Organism 469 474	human
+T24	Protein 490 500	TS enzymes
+T25	Protein_part 529 541	mutant A287F
+T26	Protein_part 547 559	mutant S290G
+T27	Molecule 569 582	double mutant
+T28	Parameter 600 610	affinities
+T29	Chemical 615 641	methylene tetrahydrofolate
+T30	Parameter 654 659	rates
+T31	Process 663 671	reaction
+T32	Protein_part 679 688	TS domain
+T33	Protein 709 728	S290G mutant enzyme
+T34	Protein 744 746	TS
+T35	Parameter 747 755	activity
+T36	Parameter 774 784	efficiency
+T37	Value 799 807	200-fold
+T38	Protein 831 845	wild type (WT)
+T39	Parameter 851 855	rate
+T40	State 859 873	conformational
+T41	Process 874 880	change
+T42	Protein_part 888 900	S290G mutant
+T43	Value 904 926	approximately 80 times
+T44	Protein 947 949	WT
+T45	Process 966 972	change
+T46	Chemical 1004 1011	hydride
+T47	Process 1012 1020	transfer
+T48	Process 1049 1058	formation
+T49	Geometrical_part 1083 1100	crystal structure
+T50	Category 1104 1110	ligand
+T51	Protein 1117 1136	S290G mutant enzyme
+T52	Process 1167 1173	effect
+T53	Process 1181 1189	mutation
+T54	Process 1196 1204	increase
+T55	Parameter 1212 1220	distance
+T56	Protein 1233 1235	TS
+T57	Category 1236 1243	ligands
+T58	Parameter 1249 1256	kinetic
+T59	Geometrical_part 1261 1278	crystal structure
+T60	Protein 1357 1359	TS
+T61	Parameter 1360 1364	rate
+T62	Organism 1368 1378	C. hominis

@@ -1,0 +1,55 @@
+T1	Unknown 0 9	Structure
+T2	Protein 21 34	photoreceptor
+T3	Protein_part 40 51	BLUF domain
+T4	Protein 55 59	AppA
+T5	Organism 65 88	Rhodobacter sphaeroides
+T6	Chemical 94 100	flavin
+T7	Protein_part 109 120	BLUF domain
+T8	Protein 124 128	AppA
+T9	Protein 160 180	light photoreceptors
+T10	Organism 213 222	bacterial
+T11	Organism 227 240	algal species
+T12	State 251 256	state
+T13	Technique 257 272	X-ray structure
+T14	Protein_part 281 287	domain
+T15	Value 306 311	2.3 A
+T16	Parameter 312 322	resolution
+T17	Protein_part 328 334	domain
+T18	Process 354 362	function
+T19	Protein 378 388	ferredoxin
+T20	Geometrical_part 394 398	fold
+T21	Protein_part 410 423	alpha-helices
+T22	Body_part 424 429	flank
+T23	Chemical 434 440	flavin
+T24	Chemical 466 484	isoalloxazine ring
+T25	Protein_part 518 528	beta-sheet
+T26	Chemical 534 547	hydrogen bond
+T27	Physiology 548 555	network
+T28	Protein 572 579	protein
+T29	Protein_part 596 607	BLUF domain
+T30	Protein_part 621 629	sequence
+T31	Food 631 635	bear
+T32	Process 641 652	resemblance
+T33	Protein_part 656 667	LOV domains
+T34	Protein_part 681 692	PAS domains
+T35	Process 712 721	signaling
+T36	Protein_part 734 742	residues
+T37	Protein_part 756 768	BLUF domains
+T38	Chemical 782 800	flavin chromophore
+T39	Chemical 845 858	hydrogen bond
+T40	Physiology 859 866	network
+T41	Process 868 883	Photoactivation
+T42	Process 897 910	rearrangement
+T43	Physiology 919 926	network
+T44	Process 931 944	reorientation
+T45	Protein_part 952 957	Gln63
+T46	Protein_part 958 968	side chain
+T47	Chemical 983 996	hydrogen bond
+T48	Chemical 1004 1013	flavin O4
+T49	Process 1029 1034	shift
+T50	Chemical 1054 1067	hydrogen bond
+T51	Protein_part 1075 1081	Trp104
+T52	Protein_part 1082 1092	side chain
+T53	Process 1119 1128	induction
+T54	Process 1150 1156	change
+T55	Protein 1160 1164	AppA

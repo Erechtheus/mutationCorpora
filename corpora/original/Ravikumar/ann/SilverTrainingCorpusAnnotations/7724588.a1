@@ -1,0 +1,91 @@
+T1	Process 0 9	Promotion
+T2	Chemical 13 30	purine nucleotide
+T3	Protein 42 62	thymidylate synthase
+T4	Chemical 75 81	folate
+T5	Unknown 82 90	analogue
+T6	Category 91 100	inhibitor
+T7	Category 102 109	1843U89
+T8	Chemical 113 119	folate
+T9	Unknown 120 128	analogue
+T10	Unknown 130 137	1843U89
+T11	Chemical 139 142	U89
+T12	Parameter 150 159	potential
+T13	Process 220 230	inhibition
+T14	Protein 234 254	thymidylate synthase
+T15	Protein 256 258	TS
+T16	Protein 260 271	EC 2.1.1.45
+T17	Process 305 312	binding
+T18	Chemical 316 365	5-fluoro-2'-deoxyuridine 5'-monophosphate (FdUMP)
+T19	Chemical 370 374	dUMP
+T20	Organism 378 397	Escherichia coli TS
+T21	Chemical 415 419	dGMP
+T22	Chemical 421 424	GMP
+T23	Chemical 426 430	dIMP
+T24	Chemical 436 439	IMP
+T25	Chemical 441 459	Guanine nucleotide
+T26	Process 460 467	binding
+T27	Technique 490 501	CD analysis
+T28	Parameter 527 535	spectrum
+T29	Chemical 544 555	TS-dGMP-U89
+T30	Category 556 571	ternary complex
+T31	Process 590 597	binding
+T32	Chemical 601 605	dGMP
+T33	Chemical 618 621	GMP
+T34	Chemical 623 628	FdUMP
+T35	Chemical 634 638	dUMP
+T36	Process 661 669	presence
+T37	Process 674 681	absence
+T38	Chemical 685 688	U89
+T39	Process 692 707	ultrafiltration
+T40	Technique 708 716	analysis
+T41	Process 752 759	binding
+T42	Chemical 763 766	GMP
+T43	Chemical 771 775	dGMP
+T44	Process 805 812	absence
+T45	Chemical 816 819	U89
+T46	Process 844 852	presence
+T47	Parameter 858 860	Kd
+T48	Chemical 865 869	dGMP
+T49	Chemical 901 905	dUMP
+T50	Chemical 910 915	FdUMP
+T51	Process 922 929	binding
+T52	Chemical 948 959	nucleotides
+T53	Value 979 1002	two orders of magnitude
+T54	Chemical 1006 1009	U89
+T55	Process 1034 1041	binding
+T56	Chemical 1045 1049	dGMP
+T57	Technique 1066 1083	x-ray diffraction
+T58	Process 1119 1127	stacking
+T59	Process 1128 1139	interaction
+T60	Chemical 1152 1159	guanine
+T61	Chemical 1163 1167	dGMP
+T62	Chemical 1176 1197	benzoquinazoline ring
+T63	Chemical 1201 1204	U89
+T64	Chemical 1209 1223	hydrogen bonds
+T65	Chemical 1253 1257	dUMP
+T66	Process 1258 1265	binding
+T67	Parameter 1280 1294	binding energy
+T68	Chemical 1319 1333	water molecule
+T69	Chemical 1346 1360	hydrogen bonds
+T70	Protein_part 1369 1371	N7
+T71	Chemical 1375 1379	dGMP
+T72	Chemical 1388 1396	hydroxyl
+T73	Protein_part 1400 1406	Tyr-94
+T74	Process 1408 1421	Accommodation
+T75	Chemical 1436 1449	dGMP molecule
+T76	Process 1477 1487	distortion
+T77	Protein_part 1495 1506	active site
+T78	Process 1513 1518	shift
+T79	Chemical 1526 1537	deoxyribose
+T80	Molecular_Part 1538 1544	moiety
+T81	Process 1570 1584	rearrangements
+T82	Process 1602 1609	binding
+T83	Chemical 1613 1616	GMP
+T84	Geometrical_part 1640 1646	pocket
+T85	Chemical 1655 1661	ribose
+T86	Chemical 1665 1673	hydroxyl
+T87	Molecular_Part 1674 1679	group
+T88	Protein 1703 1705	TS
+T89	Process 1706 1720	discrimination
+T90	Chemical 1729 1740	nucleotides
+T91	Chemical 1759 1767	hydroxyl

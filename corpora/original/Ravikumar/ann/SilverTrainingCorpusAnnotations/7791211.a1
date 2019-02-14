@@ -1,0 +1,71 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 25 30	human
+T3	Body_part 31 35	cell
+T4	Protein 42 56	protein CksHs1
+T5	Protein_part 65 71	domain
+T6	Process 82 92	similarity
+T7	Protein 96 102	kinase
+T8	Body_part 103 109	N-lobe
+T9	Protein_part 110 116	domain
+T10	Unknown 122 131	structure
+T11	Organism 139 144	human
+T12	Protein 145 159	CksHs1 homolog
+T13	Organism 167 172	yeast
+T14	Protein 195 208	proteins suc1
+T15	Protein 213 217	CKS1
+T16	Protein 247 254	subunit
+T17	Protein 262 293	cyclin-dependent kinases (Cdks)
+T18	Organism 316 321	yeast
+T19	Process 333 344	progression
+T20	Value 377 382	2.9 A
+T21	Parameter 383 393	resolution
+T22	Protein 399 405	CksHs1
+T23	Protein_part 413 431	polypeptide domain
+T24	Geometrical_part 432 436	fold
+T25	Protein_part 472 482	beta-sheet
+T26	Protein_part 499 512	alpha-helices
+T27	Protein 549 556	subunit
+T28	State 557 569	conformation
+T29	Process 574 582	assembly
+T30	Protein 601 607	CksHs2
+T31	Protein 639 642	Cdk
+T32	Body_part 643 649	N-lobe
+T33	Protein_part 650 661	domain fold
+T34	Protein 667 673	CksHs1
+T35	Geometrical_part 674 683	structure
+T36	Protein_part 695 703	sequence
+T37	Protein_part 714 722	residues
+T38	Protein_part 723 728	Glu61
+T39	Protein_part 732 737	His65
+T40	Protein_part 760 766	region
+T41	Geometrical_part 793 805	beta-hairpin
+T42	Protein 811 825	CksHs1 subunit
+T43	Geometrical_part 840 845	hinge
+T44	Protein_part 878 889	beta-strand
+T45	Process 890 898	exchange
+T46	Protein 911 926	CksHs2 subunits
+T47	Chemical 928 937	Phosphate
+T48	Chemical 946 975	phosphate analog metavanadate
+T49	Protein 981 987	CksHs1
+T50	Geometrical_part 1001 1007	pocket
+T51	Protein_part 1041 1049	residues
+T52	Protein_part 1051 1056	Lys11
+T53	Protein_part 1058 1063	Arg20
+T54	Protein_part 1065 1070	Ser51
+T55	Protein_part 1072 1077	Trp54
+T56	Protein_part 1082 1087	Arg71
+T57	Protein_part 1111 1131	Cks recognition site
+T58	Protein_part 1138 1164	phosphorylated Cdk residue
+T59	Process 1179 1186	changes
+T60	Protein 1194 1197	Cks
+T61	Process 1204 1212	assembly
+T62	Geometrical_part 1225 1242	conserved surface
+T63	Process 1260 1269	switching
+T64	Geometrical_part 1300 1305	hinge
+T65	State 1306 1319	conformations
+T66	Process 1354 1363	functions
+T67	Protein 1372 1383	Cks homolog
+T68	Parameter 1414 1424	activities
+T69	Process 1439 1448	different
+T70	Protein 1458 1465	genetic
+T71	Process 1466 1477	experiments

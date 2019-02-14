@@ -1,0 +1,9 @@
+Thrombomodulin (TM) is an endothelial cell thrombin receptor that converts thrombin from a procoagulant to an anticoagulant enzyme . 
+It has previously been shown that TM is expressed in both a high-M(r) form containing chondroitin sulphate and a low-M(r) form lacking this modification . 
+Site-directed mutagenesis of a soluble human TM derivative (TMD1) was employed to determine the attachment site(s) of this functionally important oligosaccharide on the core protein . 
+Although there are four serine residues within the Ser/Thr-rich domain of TMD1 that might support glycosaminoglycan assembly, our analysis demonstrates that the primary site of attachment is at Ser474, and evidence is presented for low levels of attachment at Ser472 . 
+It was possible to improve the overall degree of attachment by mutating Ser472 to glutamic acid (so as to conform Ser474 to the xylosyltransferase acceptor consensus acidic-Gly-Ser-Gly-acidic); however, a significant proportion (approx . 
+35%) of the total TM still lacked a glycosaminoglycan moiety . 
+Mutants that possess a substitution for Ser474 show an increased mobility of their low-M(r) form on SDS/PAGE compared with native TMD1 . 
+Isolation and sequencing of a C-terminal peptide demonstrated that this serine is modified in the low-M(r) form of native TMD1 . 
+An apparent 'acceptor consensus overlap' at Ser474 suggests that the mechanism behind the glycosaminoglycan split of TM may involve a competition for substrate between xylosyltransferase and N-acetylgalactosaminyltransferase . 

@@ -1,0 +1,53 @@
+T1	Technique 0 25	Site-directed mutagenesis
+T2	Organism 29 51	Azotobacter vinelandii
+T3	Protein 52 64	ferredoxin I
+T4	Protein_part 66 74	cysteine
+T5	Process 75 83	ligation
+T6	Chemical 91 99	[4Fe-4S]
+T7	Protein 113 120	protein
+T8	Process 121 134	rearrangement
+T9	Protein_part 153 159	serine
+T10	Process 160 168	ligation
+T11	Chemical 174 182	[4Fe-4S]
+T12	Organism 194 216	Azotobacter vinelandii
+T13	Protein 217 229	ferredoxin I
+T14	Category 257 264	ligands
+T15	Protein_part 272 308	Cys-Xaa-Xaa-Cys-Xaa-Xaa-Cys sequence
+T16	Location 312 327	positions 39-45
+T17	Category 345 351	ligand
+T18	Protein_part 353 358	Cys20
+T19	Location 377 383	distal
+T20	Protein_part 399 407	sequence
+T21	Process 455 463	mutation
+T22	Protein_part 467 472	Cys20
+T23	Protein_part 476 479	Ala
+T24	Protein 481 493	C20A protein
+T25	Process 511 520	formation
+T26	Chemical 530 538	[4Fe-4S]
+T27	Category 572 578	ligand
+T28	Protein_part 584 589	Cys24
+T29	Protein_part 598 606	cysteine
+T30	Geometrical_part 614 630	native structure
+T31	Category 637 643	ligand
+T32	Process 644 652	exchange
+T33	Protein 674 681	protein
+T34	Process 682 695	rearrangement
+T35	Process 716 726	conversion
+T36	Protein_part 730 735	Cys20
+T37	Protein_part 739 742	Ser
+T38	Protein 744 756	C20S protein
+T39	Protein 775 782	protein
+T40	Geometrical_part 820 836	native structure
+T41	Protein 849 862	Ser20 O gamma
+T42	Category 869 875	ligand
+T43	Protein_part 900 905	Cys24
+T44	Technique 907 928	X-ray crystallography
+T45	Protein 976 989	Ser20 O gamma
+T46	Category 995 1001	ligand
+T47	Protein_part 1031 1036	Cys24
+T48	Protein 1045 1057	C20S protein
+T49	Chemical 1062 1070	[4Fe-4S]
+T50	State 1091 1100	stability
+T51	Parameter 1105 1121	redox properties
+T52	Protein 1141 1145	C20A
+T53	Protein 1160 1167	protein

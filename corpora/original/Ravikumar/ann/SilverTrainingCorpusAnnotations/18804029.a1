@@ -1,0 +1,46 @@
+T1	Unknown 0 9	Structure
+T2	Unknown 16 26	dissection
+T3	Protein_part 34 45	active site
+T4	Protein 59 83	leukotriene A4 hydrolase
+T5	Process 85 97	implications
+T6	Protein 102 120	M1 aminopeptidases
+T7	Category 125 134	inhibitor
+T8	Protein 143 161	M1 aminopeptidases
+T9	Unknown 179 185	family
+T10	Protein 212 224	zinc enzymes
+T11	Protein_part 239 246	peptide
+T12	Process 247 255	turnover
+T13	Protein 263 265	M1
+T14	Protein 277 316	leukotriene A4 hydrolase/aminopeptidase
+T15	Process 329 334	shift
+T16	Category 338 347	substrate
+T17	Process 374 382	exchange
+T18	Chemical 386 390	zinc
+T19	Molecular_Part 404 410	groups
+T20	Process 442 454	coordination
+T21	Geometrical_part 456 464	geometry
+T22	State 470 486	transition state
+T23	Protein_part 504 512	residues
+T24	Unknown 529 539	M1 members
+T25	Process 557 565	reaction
+T26	Protein_part 572 579	Glu-296
+T27	Chemical 597 601	zinc
+T28	Process 602 609	binding
+T29	Protein_part 610 621	HEXXH motif
+T30	Molecule 633 639	proton
+T31	Chemical 660 665	water
+T32	Molecular_Part 673 686	leaving group
+T33	Protein_part 688 698	Tripeptide
+T34	Category 699 709	substrates
+T35	Protein_part 735 746	GXMEN motif
+T36	Parameter 772 780	distance
+T37	Protein_part 789 796	Glu-271
+T38	Protein_part 801 808	Arg-563
+T39	Protein_part 822 825	Arg
+T40	Geometrical_part 862 871	S1 pocket
+T41	Protein_part 884 891	Asp-375
+T42	Protein_part 936 947	active site
+T43	Protein 961 979	M1 aminopeptidases
+T44	Process 1000 1011	development
+T45	Protein 1021 1027	enzyme
+T46	Category 1028 1038	inhibitors

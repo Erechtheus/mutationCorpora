@@ -1,0 +1,50 @@
+T1	Unknown 0 9	Structure
+T2	Technique 25 33	analysis
+T3	Protein 41 53	IGF-II/IGF2R
+T4	Process 54 65	interaction
+T5	Body_part 67 76	Embryonic
+T6	Process 77 88	development
+T7	Process 100 106	growth
+T8	Process 125 132	control
+T9	Protein 136 170	insulin-like growth factors (IGFs)
+T10	Organism 175 182	mammals
+T11	Location 187 200	extracellular
+T12	Protein_part 201 207	region
+T13	Chemical 215 221	cation
+T14	Protein 234 262	mannose-6-phosphate receptor
+T15	Protein 277 283	IGF-II
+T16	Process 292 300	function
+T17	Protein 337 342	IGF2R
+T18	Protein 362 368	IGF-II
+T19	Physiology 390 397	cancers
+T20	Protein 402 407	IGF2R
+T21	Body_part 425 431	tumour
+T22	Process 432 443	suppression
+T23	Geometrical_part 455 473	crystal structures
+T24	Protein 477 482	IGF2R
+T25	Protein_part 483 496	domains 11-12
+T26	Protein 514 537	domains 11-12-13/IGF-II
+T27	Category 538 545	complex
+T28	Process 561 574	juxtaposition
+T29	Protein_part 584 591	domains
+T30	Protein 605 611	IGF-II
+T31	Protein_part 631 640	domain 11
+T32	Protein 667 673	IGF-II
+T33	Protein_part 678 687	domain 13
+T34	Process 699 706	binding
+T35	Protein_part 707 711	site
+T36	Category 729 736	complex
+T37	Protein_part 748 753	Phe19
+T38	Protein_part 758 763	Leu53
+T39	Protein 767 773	IGF-II
+T40	Geometrical_part 798 804	pocket
+T41	Protein_part 815 824	domain 11
+T42	Organism 828 837	mammalian
+T43	Protein 838 844	IGF2Rs
+T44	Physiology 846 857	Mutagenesis
+T45	Technique 858 866	analyses
+T46	Protein 880 886	IGF-II
+T47	Protein 921 924	IGF
+T48	Protein 933 941	proteins
+T49	Protein 946 951	IGF2R
+T50	Protein_part 993 997	site

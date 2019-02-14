@@ -1,0 +1,56 @@
+T1	Unknown 0 10	Structures
+T2	State 14 34	active conformations
+T3	Protein 38 48	Gi alpha 1
+T4	Process 57 66	mechanism
+T5	Chemical 70 73	GTP
+T6	Process 74 84	hydrolysis
+T7	Process 86 96	Mechanisms
+T8	Chemical 100 128	guanosine triphosphate (GTP)
+T9	Process 129 139	hydrolysis
+T10	Unknown 143 150	members
+T11	Protein 158 173	G protein alpha
+T12	Unknown 189 200	superfamily
+T13	Protein 204 229	guanosine triphosphatases
+T14	Molecule 311 316	x-ray
+T15	Geometrical_part 317 327	structures
+T16	Protein 335 346	GTP gamma S
+T17	Chemical 351 360	GDP.AlF4-
+T18	Category 361 370	complexes
+T19	Protein 385 405	G protein Gi alpha 1
+T20	Process 427 432	roles
+T21	State 436 452	transition-state
+T22	Process 453 466	stabilization
+T23	Protein_part 492 500	residues
+T24	Chemical 502 514	Glutamine204
+T25	Protein_part 516 521	Gln61
+T26	Protein 525 531	p21ras
+T27	Chemical 571 576	water
+T28	State 605 621	transition state
+T29	Protein_part 623 635	Arginine 178
+T30	Value 651 659	negative
+T31	Parameter 660 666	charge
+T32	Chemical 685 697	oxygen atoms
+T33	Chemical 705 743	pentacoordinate phosphate intermediate
+T34	Protein 767 781	G alpha family
+T35	Protein_part 788 795	residue
+T36	Parameter 834 838	rate
+T37	Protein 842 858	G alpha proteins
+T38	Unknown 884 905	p21ras family members
+T39	Geometrical_part 911 915	fold
+T40	Protein 919 929	Gi alpha 1
+T41	Protein 966 982	Gt alpha subunit
+T42	State 990 1002	conformation
+T43	Protein_part 1008 1028	helix-loop  sequence
+T44	Protein_part 1044 1064	alpha-helical domain
+T45	Protein 1097 1105	proteins
+T46	Protein_part 1112 1116	site
+T47	Process 1145 1152	binding
+T48	Chemical 1158 1172	amino-terminal
+T49	Protein_part 1176 1184	residues
+T50	Protein 1203 1225	GTP gamma S-Gi alpha 1
+T51	Process 1240 1249	mechanism
+T52	Process 1267 1274	release
+T53	Protein 1282 1300	beta gamma subunit
+T54	Category 1301 1308	complex
+T55	Protein 1318 1331	alpha subunit
+T56	Chemical 1348 1351	GTP

@@ -1,0 +1,31 @@
+T1	Protein 0 18	Carbonic anhydrase
+T2	Category 19 29	activators
+T3	Technique 41 63	X-ray crystallographic
+T4	Molecule 76 82	adduct
+T5	Molecule 86 93	isoform
+T6	Unknown 94 95	I
+T7	Technique 101 123	X-ray crystallographic
+T8	Unknown 124 133	structure
+T9	Molecule 142 148	adduct
+T10	Category 155 164	activator
+T11	Protein 170 212	human carbonic anhydrase isozyme I (hCA I)
+T12	Protein_part 226 237	L-Histidine
+T13	Protein 260 266	enzyme
+T14	Protein_part 267 278	active site
+T15	Physiology 299 306	network
+T16	Chemical 310 324	hydrogen bonds
+T17	Chemical 339 350	carboxylate
+T18	Molecular_Part 351 357	moiety
+T19	Chemical 366 370	zinc
+T20	Chemical 377 391	water molecule
+T21	Chemical 408 417	imidazole
+T22	Protein_part 421 427	His200
+T23	Unknown 438 451	van der Waals
+T24	Process 452 460	contacts
+T25	Protein_part 466 472	Thr199
+T26	Protein_part 474 480	His200
+T27	Protein_part 482 487	His64
+T28	Protein_part 494 499	His67
+T29	Process 506 513	binding
+T30	Location 561 570	cytosolic
+T31	Protein 572 586	isozyme hCA II

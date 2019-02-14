@@ -1,0 +1,112 @@
+T1	Chemical 0 7	Steroid
+T2	Process 8 19	recognition
+T3	Protein 23 56	chloramphenicol acetyltransferase
+T4	Technique 85 93	analysis
+T5	Parameter 104 112	affinity
+T6	Chemical 121 125	acid
+T7	Process 126 133	binding
+T8	Protein_part 134 138	site
+T9	Chemical 144 154	antibiotic
+T10	Chemical 163 167	acid
+T11	Chemical 206 215	compounds
+T12	Category 239 249	inhibitors
+T13	Protein 257 315	type I variant of chloramphenicol acetyltransferase (CATI)
+T14	Process 324 331	absence
+T15	Technique 335 351	crystallographic
+T16	Protein 361 365	CATI
+T17	Chemical 398 405	steroid
+T18	Process 406 413	binding
+T19	Process 437 449	construction
+T20	Protein 462 467	genes
+T21	Protein 487 494	enzymes
+T22	Protein_part 506 514	segments
+T23	Protein 518 522	CATI
+T24	Unknown 539 555	type III variant
+T25	Protein 557 563	CATIII
+T26	Technique 573 598	site-directed mutagenesis
+T27	Protein 606 610	gene
+T28	Protein 620 626	CATIII
+T29	Parameter 640 647	kinetic
+T30	Process 648 664	characterisation
+T31	Unknown 684 692	variants
+T32	Process 694 705	Replacement
+T33	Protein_part 714 722	residues
+T34	Protein 726 732	CATIII
+T35	Protein_part 734 739	Gln92
+T36	Protein_part 741 747	Asn146
+T37	Protein_part 749 755	Tyr168
+T38	Protein_part 760 766	Ile172
+T39	Protein 794 798	CATI
+T40	Protein 809 823	enzyme variant
+T41	Process 859 869	inhibition
+T42	Chemical 898 913	chloramphenicol
+T43	Parameter 915 917	Ki
+T44	Value 920 930	5.4 microM
+T45	Geometrical_part 937 946	structure
+T46	Category 954 961	complex
+T47	Unknown 982 1012	Q92C/N146F/Y168F/I172V variant
+T48	Value 1028 1033	2.2 A
+T49	Parameter 1034 1044	resolution
+T50	Technique 1048 1069	X-ray crystallography
+T51	Category 1083 1092	inhibitor
+T52	Chemical 1115 1130	chloramphenicol
+T53	Process 1131 1138	binding
+T54	Protein_part 1139 1143	site
+T55	Protein_part 1174 1184	side-chain
+T56	Protein_part 1188 1194	His195
+T57	Protein_part 1219 1226	residue
+T58	Protein_part 1241 1251	side-chain
+T59	Protein_part 1255 1261	Phe146
+T60	Geometrical_part 1294 1301	surface
+T61	Unknown 1333 1345	substituents
+T62	Chemical 1353 1360	steroid
+T63	Process 1382 1395	substitutions
+T64	Process 1444 1455	orientation
+T65	Protein_part 1459 1466	Phe 146
+T66	Process 1486 1498	interactions
+T67	Category 1514 1523	inhibitor
+T68	Process 1530 1542	substitution
+T69	Protein_part 1546 1551	Gln92
+T70	Protein_part 1555 1558	Cys
+T71	Chemical 1581 1594	hydrogen bond
+T72	Process 1595 1606	interaction
+T73	Geometrical_part 1627 1634	surface
+T74	Geometrical_part 1635 1639	loop
+T75	Protein_part 1641 1653	residues 137
+T76	Protein_part 1657 1660	142
+T77	Protein 1665 1681	wild-type CATIII
+T78	Protein 1735 1741	enzyme
+T79	Chemical 1752 1766	hydrogen bonds
+T80	Unknown 1787 1799	CAT-fusidate
+T81	Category 1800 1807	complex
+T82	Chemical 1823 1839	3-alpha-hydroxyl
+T83	Chemical 1863 1871	hydroxyl
+T84	Protein_part 1875 1880	Tyr25
+T85	Chemical 1885 1888	NE2
+T86	Protein_part 1892 1898	His195
+T87	Chemical 1935 1949	hydrogen bonds
+T88	Category 1955 1964	substrate
+T89	Protein 1972 1994	CATIII-chloramphenicol
+T90	Category 1995 2002	complex
+T91	Chemical 2012 2018	acetyl
+T92	Process 2019 2027	transfer
+T93	Process 2028 2036	reaction
+T94	Unknown 2055 2058	NE2
+T95	Protein_part 2063 2069	His195
+T96	Chemical 2082 2094	general base
+T97	Process 2102 2113	abstraction
+T98	Molecule 2119 2125	proton
+T99	Chemical 2135 2145	3-hydroxyl
+T100	Chemical 2149 2164	chloramphenicol
+T101	Chemical 2178 2186	chemical
+T102	Process 2195 2204	catalysis
+T103	Unknown 2210 2219	structure
+T104	Unknown 2227 2240	CAT-inhibitor
+T105	Category 2241 2248	complex
+T106	Process 2263 2276	deprotonation
+T107	Chemical 2284 2300	3-alpha-hydroxyl
+T108	Process 2327 2336	mechanism
+T109	Chemical 2354 2374	oxyanion nucleophile
+T110	Chemical 2404 2419	chloramphenicol
+T111	Chemical 2475 2493	thioester carbonyl
+T112	Chemical 2497 2507	acetyl-CoA

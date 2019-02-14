@@ -1,0 +1,92 @@
+T1	Process 11 16	basis
+T2	Process 20 32	interactions
+T3	Organism 41 46	human
+T4	Protein 47 76	glutamate carboxypeptidase II
+T5	Category 86 95	substrate
+T6	Unknown 96 103	analogs
+T7	Organism 105 110	Human
+T8	Protein 111 148	glutamate carboxypeptidase II (GCPII)
+T9	Body_part 164 172	neuronal
+T10	Process 173 192	signal transduction
+T11	Body_part 197 207	intestinal
+T12	Chemical 208 214	folate
+T13	Process 215 225	absorption
+T14	Process 242 252	hydrolysis
+T15	Category 272 282	substrates
+T16	Chemical 284 311	N-acetyl-aspartyl-glutamate
+T17	Chemical 316 343	folyl-poly-gamma-glutamates
+T18	Technique 438 446	analysis
+T19	Protein 450 455	GCPII
+T20	Geometrical_part 457 475	Crystal structures
+T21	Protein 479 484	GCPII
+T22	Category 488 495	complex
+T23	Category 509 516	ligands
+T24	Process 531 538	insight
+T25	Process 548 555	binding
+T26	Category 565 572	ligands
+T27	Protein_part 594 602	S1' site
+T28	Protein 610 616	enzyme
+T29	Process 663 679	characterization
+T30	Protein 683 688	GCPII
+T31	Protein_part 696 703	S1 site
+T32	Protein_part 714 723	dipeptide
+T33	Category 730 740	inhibitors
+T34	Protein_part 765 767	S1
+T35	Protein_part 772 781	S1' sites
+T36	Protein 790 796	enzyme
+T37	Geometrical_part 806 809	end
+T38	Geometrical_part 830 848	crystal structures
+T39	Organism 852 857	human
+T40	Protein 858 863	GCPII
+T41	Category 867 874	complex
+T42	Chemical 880 902	phosphapeptide analogs
+T43	Chemical 906 927	folyl-gamma-glutamate
+T44	Chemical 929 947	aspartyl-glutamate
+T45	Chemical 953 977	gamma-glutamyl-glutamate
+T46	Value 990 994	1.50
+T47	Value 996 1000	1.60
+T48	Value 1006 1012	1.67 A
+T49	Parameter 1013 1023	resolution
+T50	Geometrical_part 1043 1052	S1 pocket
+T51	Protein 1056 1061	GCPII
+T52	Parameter 1117 1121	time
+T53	Process 1149 1159	importance
+T54	Protein_part 1163 1169	Asn519
+T55	Protein_part 1171 1177	Arg463
+T56	Protein_part 1179 1185	Arg534
+T57	Protein_part 1191 1197	Arg536
+T58	Process 1202 1213	recognition
+T59	Protein_part 1240 1242	P1
+T60	Category 1244 1253	substrate
+T61	Protein_part 1254 1262	residues
+T62	Process 1271 1283	interactions
+T63	Chemical 1315 1326	guanidinium
+T64	Molecular_Part 1327 1333	groups
+T65	Protein_part 1337 1343	Arg534
+T66	Protein_part 1348 1354	Arg536
+T67	Protein_part 1361 1363	P1
+T68	Molecular_Part 1364 1370	moiety
+T69	Protein 1431 1436	GCPII
+T70	Protein_part 1452 1469	acidic dipeptides
+T71	State 1494 1508	conformational
+T72	Protein_part 1528 1534	Arg463
+T73	Protein_part 1539 1545	Arg536
+T74	Protein_part 1546 1557	side chains
+T75	Protein 1576 1581	GCPII
+T76	Parameter 1582 1590	affinity
+T77	Process 1598 1607	different
+T78	Category 1608 1618	inhibitors
+T79	Protein 1633 1638	GCPII
+T80	Category 1639 1648	substrate
+T81	Process 1666 1689	biochemical experiments
+T82	Process 1704 1714	hydrolysis
+T83	Protein 1726 1731	GCPII
+T84	Category 1732 1741	substrate
+T85	Unknown 1742 1753	derivatives
+T86	Protein_part 1770 1772	P1
+T87	Process 1821 1831	complement
+T88	Technique 1883 1891	analysis
+T89	Process 1933 1943	foundation
+T90	Protein 2008 2013	GCPII
+T91	Category 2014 2024	inhibitors
+T92	Technique 2029 2036	imaging

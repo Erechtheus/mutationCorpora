@@ -1,0 +1,71 @@
+T1	Chemical 24 36	misacylating
+T2	Protein 37 62	aminoacyl-tRNA synthetase
+T3	Process 76 84	transfer
+T4	Chemical 90 102	nucleic acid
+T5	Protein 106 113	protein
+T6	Protein 129 155	aminoacyl-tRNA synthetases
+T7	Protein_part 197 208	amino acids
+T8	Protein 214 227	transfer RNAs
+T9	Protein_part 245 253	sequence
+T10	Protein 291 315	tRNA synthetase families
+T11	Protein 340 346	enzyme
+T12	Geometrical_part 347 357	signatures
+T13	Protein_part 371 382	amino  acid
+T14	Parameter 383 396	selectivities
+T15	Protein_part 443 459	arginine residue
+T16	Protein 465 497	glutamyl-tRNA synthetase (GluRS)
+T17	Protein 501 535	glutaminyl-tRNA synthetase (GlnRS)
+T18	Parameter 549 553	K(M)
+T19	Protein 557 562	GlnRS
+T20	Chemical 578 587	glutamate
+T21	Geometrical_part 593 611	crystal structures
+T22	Protein 620 638	C229R GlnRS mutant
+T23	Chemical 663 693	twin-arginine GluRS amino acid
+T24	Parameter 694 702	identity
+T25	Geometrical_part 703 712	signature
+T26	Protein 741 746	GlnRS
+T27	Protein 778 785	protein
+T28	Unknown 797 805	elements
+T29	Protein 829 833	tRNA
+T30	Process 891 902	replacement
+T31	Process 920 927	binding
+T32	Protein_part 928 941	site residues
+T33	Protein 945 950	GlnRS
+T34	Protein 966 971	GluRS
+T35	Protein_part 1015 1032	GlnRS active site
+T36	Chemical 1048 1057	glutamate
+T37	Protein_part 1087 1097	amino acid
+T38	Process 1098 1110	replacements
+T39	Process 1119 1127	deletion
+T40	Process 1139 1151	substitution
+T41	Process 1174 1181	binding
+T42	Protein_part 1182 1186	site
+T43	Geometrical_part 1195 1202	surface
+T44	Geometrical_part 1203 1208	loops
+T45	Location 1209 1217	adjacent
+T46	Protein_part 1225 1231	region
+T47	Protein 1245 1250	C229R
+T48	Parameter 1265 1273	capacity
+T49	Organism 1277 1293	Escherichia coli
+T50	Protein 1294 1299	GlnRS
+T51	Chemical 1314 1325	misacylated
+T52	Unknown 1327 1340	Glu-tRNA(Gln)
+T53	Value 1344 1355	16,000-fold
+T54	Protein 1369 1375	enzyme
+T55	Process 1394 1402	function
+T56	Protein 1406 1432	misacylating GluRS enzymes
+T57	Organism 1442 1451	organisms
+T58	Unknown 1468 1481	Gln-tRNA(Gln)
+T59	Process 1500 1507	pathway
+T60	Protein 1538 1541	RNA
+T61	Protein_part 1542 1551	component
+T62	Protein 1572 1587	GlnRS-tRNA(Gln)
+T63	Category 1588 1595	complex
+T64	Protein_part 1609 1619	amino acid
+T65	Process 1638 1642	role
+T66	Protein 1647 1651	tRNA
+T67	Body_part 1689 1694	cells
+T68	Process 1708 1717	evolution
+T69	Protein 1725 1732	genetic
+T70	Protein 1752 1755	RNA
+T71	Chemical 1766 1780	amino acid-RNA

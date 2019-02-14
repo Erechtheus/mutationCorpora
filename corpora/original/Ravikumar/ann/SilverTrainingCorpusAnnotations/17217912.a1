@@ -1,0 +1,48 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 29	E. coli
+T3	Protein 38 42	CueO
+T4	Process 46 55	different
+T5	Chemical 56 62	copper
+T6	Parameter 63 77	concentrations
+T7	Protein 79 91	CueO protein
+T8	Organism 110 119	bacterial
+T9	Process 184 195	application
+T10	Protein 202 225	CueO crystal structures
+T11	Process 246 255	different
+T12	Chemical 256 262	copper
+T13	Parameter 263 277	concentrations
+T14	Chemical 283 289	copper
+T15	Unknown 303 311	apo-CueO
+T16	Chemical 321 327	copper
+T17	Process 328 342	reconstitution
+T18	Process 343 350	process
+T19	Protein 354 358	CueO
+T20	Chemical 374 380	copper
+T21	Chemical 436 442	copper
+T22	Protein 457 469	CueO oxidase
+T23	Parameter 470 478	activity
+T24	Process 491 501	comparison
+T25	Protein 510 514	CueO
+T26	Organism 531 537	fungal
+T27	Protein 546 554	proteins
+T28	Protein_part 570 576	Glu106
+T29	Protein 580 584	CueO
+T30	Process 626 640	reconstitution
+T31	Location 648 658	trinuclear
+T32	Protein_part 659 670	copper site
+T33	Process 672 680	Mutation
+T34	Protein_part 684 690	Glu106
+T35	Protein_part 696 699	Phe
+T36	Protein 709 713	CueO
+T37	Process 714 723	oxidation
+T38	Parameter 724 732	activity
+T39	Protein_part 786 797	alpha-helix
+T40	Protein_part 803 809	Leu351
+T41	Protein_part 813 819	Gly378
+T42	Category 827 836	substrate
+T43	Geometrical_part 844 850	pocket
+T44	Protein 854 858	CueO
+T45	Molecule 885 893	electron
+T46	Process 894 902	transfer
+T47	Category 908 917	substrate
+T48	Chemical 926 934	I copper

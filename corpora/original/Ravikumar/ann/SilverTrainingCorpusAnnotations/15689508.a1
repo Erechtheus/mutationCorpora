@@ -1,0 +1,77 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 25 31	rabbit
+T3	Protein 32 56	phosphoglucose isomerase
+T4	Chemical 72 94	D-sorbitol-6-phosphate
+T5	Unknown 99 105	analog
+T6	Protein 113 123	open chain
+T7	Chemical 132 153	D-glucose-6-phosphate
+T8	Protein 155 185	Phosphoglucose isomerase (PGI)
+T9	Process 200 213	isomerization
+T10	Chemical 217 244	D-glucose-6-phosphate (G6P)
+T11	Chemical 249 277	D-fructose-6-phosphate (F6P)
+T12	Process 281 291	glycolysis
+T13	Physiology 296 311	gluconeogenesis
+T14	Technique 313 321	Analysis
+T15	Technique 345 369	X-ray crystal structures
+T16	Protein 373 376	PGI
+T17	Category 386 392	ligand
+T18	Chemical 418 421	F6P
+T19	Category 431 441	inhibitors
+T20	Category 447 452	mimic
+T21	Molecule 469 481	intermediate
+T22	Process 498 508	mechanisms
+T23	Geometrical_part 517 521	ring
+T24	Process 522 529	opening
+T25	Process 534 547	isomerization
+T26	Process 571 590	catalytic mechanism
+T27	Process 634 643	mechanism
+T28	State 677 682	state
+T29	Protein 686 689	PGI
+T30	Geometrical_part 702 706	ring
+T31	Process 707 714	opening
+T32	Process 719 732	isomerization
+T33	Geometrical_part 758 767	structure
+T34	Protein 776 782	enzyme
+T35	Category 817 826	substrate
+T36	Unknown 833 839	analog
+T37	Geometrical_part 861 878	crystal structure
+T38	Organism 882 888	rabbit
+T39	Protein 889 892	PGI
+T40	Chemical 908 937	D-sorbitol-6-phosphate  (S6P)
+T41	Unknown 942 948	analog
+T42	Protein 956 966	open chain
+T43	Chemical 975 978	G6P
+T44	Value 983 988	2.0 A
+T45	Parameter 989 999	resolution
+T46	Chemical 1021 1038	PGI/F6P structure
+T47	Protein_part 1042 1047	helix
+T48	Protein_part 1059 1086	amino acid residues 512-520
+T49	Protein_part 1158 1169	active site
+T50	Category 1176 1185	substrate
+T51	Protein_part 1248 1253	helix
+T52	Geometrical_part 1265 1269	ring
+T53	Process 1270 1277	opening
+T54	Geometrical_part 1294 1298	ring
+T55	Process 1299 1306	closure
+T56	Chemical 1322 1325	S6P
+T57	Category 1326 1332	ligand
+T58	State 1342 1363	extended conformation
+T59	Category 1393 1400	ligands
+T60	Category 1406 1411	mimic
+T61	Molecule 1428 1440	intermediate
+T62	State 1446 1467	extended conformation
+T63	Category 1480 1486	ligand
+T64	Protein_part 1504 1510	Glu357
+T65	Molecule 1530 1536	proton
+T66	Process 1548 1561	isomerization
+T67	Protein 1572 1579	PGI/S6P
+T68	Geometrical_part 1580 1589	structure
+T69	State 1605 1617	conformation
+T70	Protein 1625 1631	enzyme
+T71	Category 1636 1645	substrate
+T72	Geometrical_part 1658 1662	ring
+T73	Process 1663 1670	opening
+T74	Geometrical_part 1675 1679	ring
+T75	Process 1702 1715	isomerization
+T76	Protein 1757 1762	PGI's
+T77	Process 1763 1782	catalytic mechanism

@@ -1,0 +1,128 @@
+T1	Technique 0 3	NMR
+T2	Technique 8 24	crystallographic
+T3	Process 25 41	characterization
+T4	Chemical 58 64	borate
+T5	Process 65 72	binding
+T6	Protein 76 83	trypsin
+T7	Chemical 92 95	11B
+T8	Technique 96 99	NMR
+T9	Process 115 124	formation
+T10	Category 128 145	ternary complexes
+T11	Protein 149 156	trypsin
+T12	Chemical 158 164	borate
+T13	Protein_part 171 173	S1
+T14	Chemical 182 190	alcohols
+T15	Process 227 234	binding
+T16	Process 235 246	interaction
+T17	Location 247 255	external
+T18	Protein 263 269	enzyme
+T19	Protein_part 270 281	active site
+T20	Process 305 312	binding
+T21	Process 313 324	interaction
+T22	Process 344 355	interaction
+T23	Chemical 359 365	borate
+T24	Category 379 386	ligands
+T25	Protein_part 392 400	residues
+T26	Protein 408 415	protein
+T27	Geometrical_part 416 423	surface
+T28	Technique 425 428	NMR
+T29	Protein 440 447	trypsin
+T30	Protein_part 461 472	active site
+T31	Protein 490 499	leupeptin
+T32	Category 525 534	inhibitor
+T33	Chemical 535 598	4-(2-aminoethyl) benzenesulfonyl fluoride hydrochloride (AEBSF)
+T34	Process 612 621	existence
+T35	Chemical 640 646	borate
+T36	Process 647 654	binding
+T37	Protein_part 655 659	site
+T38	Parameter 668 698	apparent dissociation constant
+T39	Value 702 707	97 mM
+T40	Parameter 721 723	pH
+T41	Value 724 727	8.0
+T42	Parameter 746 751	field
+T43	Parameter 770 779	frequency
+T44	Process 780 785	shift
+T45	Chemical 793 798	(11)B
+T46	Technique 799 808	resonance
+T47	Category 844 851	complex
+T48	Value 881 889	0.12 ppm
+T49	Process 891 896	shift
+T50	Process 897 907	difference
+T51	Chemical 915 921	borate
+T52	Value 945 950	11.75
+T53	Value 955 961	7.05 T
+T54	Process 991 999	coupling
+T55	Parameter 1000 1008	constant
+T56	Value 1012 1019	260 kHz
+T57	Value 1035 1042	2.0 ppm
+T58	Process 1043 1048	shift
+T59	Chemical 1068 1071	11B
+T60	Technique 1072 1075	NMR
+T61	Parameter 1076 1083	spectra
+T62	Protein 1087 1094	trypsin
+T63	Chemical 1110 1136	benzene boronic acid (BBA)
+T64	Process 1173 1181	coupling
+T65	Parameter 1182 1190	constant
+T66	Value 1194 1201	1.1 MHz
+T67	Category 1211 1218	complex
+T68	Technique 1220 1236	Crystallographic
+T69	Chemical 1265 1271	borate
+T70	Process 1272 1279	binding
+T71	Protein_part 1280 1284	site
+T72	Protein_part 1290 1296	serine
+T73	Protein_part 1302 1308	region
+T74	Geometrical_part 1316 1323	surface
+T75	Molecule 1331 1339	molecule
+T76	Category 1357 1364	complex
+T77	Parameter 1377 1379	pH
+T78	Value 1380 1384	10.6
+T79	Chemical 1393 1403	borate ion
+T80	Chemical 1429 1451	hydroxyl  oxygen atoms
+T81	Protein_part 1455 1461	Ser164
+T82	Protein_part 1466 1472	Ser167
+T83	Process 1490 1503	stabilization
+T84	Chemical 1521 1529	hydrogen
+T85	Process 1538 1550	interactions
+T86	Unknown 1562 1571	structure
+T87	Value 1602 1605	30%
+T88	Chemical 1626 1637	trypsin-BBA
+T89	Category 1638 1645	complex
+T90	Chemical 1665 1668	BBA
+T91	Protein_part 1693 1704	active site
+T92	Process 1730 1739	different
+T93	State 1740 1753	conformations
+T94	Protein_part 1762 1776	His57 Nepsilon
+T95	Protein_part 1781 1794	Ser195 Ogamma
+T96	Technique 1799 1807	analysis
+T97	Chemical 1820 1835	hydroxyl oxygen
+T98	Parameter 1836 1845	distances
+T99	Chemical 1880 1886	borate
+T100	Process 1887 1894	binding
+T101	Protein_part 1895 1899	site
+T102	Organism 1903 1910	porcine
+T103	Protein 1911 1918	trypsin
+T104	Process 1964 1974	prediction
+T105	Chemical 1978 1984	borate
+T106	Process 1985 1992	binding
+T107	Protein_part 1993 1998	sites
+T108	Geometrical_part 2006 2014	surfaces
+T109	Protein 2024 2032	proteins
+T110	Parameter 2047 2056	distances
+T111	Chemical 2069 2095	Ser164/Ser167 Ogamma atoms
+T112	Protein 2119 2134	trypsin crystal
+T113	Geometrical_part 2135 2145	structures
+T114	Chemical 2180 2186	Ogamma
+T115	Parameter 2187 2196	distances
+T116	Value 2200 2203	2.2
+T117	Value 2208 2221	1.9 angstroms
+T118	Protein 2238 2245	trypsin
+T119	Category 2246 2255	complexes
+T120	Chemical 2261 2267	borate
+T121	Chemical 2272 2275	BBA
+T122	Chemical 2317 2333	hydroxyl oxygens
+T123	Process 2364 2375	orientation
+T124	Chemical 2385 2394	bidentate
+T125	Process 2395 2403	ligation
+T126	Chemical 2431 2437	borate
+T127	Parameter 2438 2454	binding affinity
+T128	Protein_part 2477 2511	serine/threonine/tyrosine residues

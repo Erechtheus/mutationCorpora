@@ -1,0 +1,53 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Category 23 30	complex
+T3	Organism 39 58	Serratia marcescens
+T4	Protein 59 75	metallo-protease
+T5	Category 83 92	inhibitor
+T6	Organism 98 118	Erwinia chrysanthemi
+T7	Geometrical_part 124 141	crystal structure
+T8	Category 149 156	complex
+T9	Protein 169 198	50 kDa metallo-endoproteinase
+T10	Organism 204 229	Serratia marcescens (SMP)
+T11	Unknown 233 239	member
+T12	Protein 247 268	metzincin superfamily
+T13	Category 277 286	inhibitor
+T14	Organism 292 312	Erwinia chrysanthemi
+T15	Chemical 314 317	Inh
+T16	Process 333 354	molecular replacement
+T17	Unknown 371 380	structure
+T18	Organism 384 387	SMP
+T19	Value 404 410	2.30 A
+T20	Parameter 411 421	resolution
+T21	Technique 427 443	crystallographic
+T22	Parameter 444 452	R-factor
+T23	Value 456 461	0.195
+T24	Organism 467 482	E. chrysanthemi
+T25	Category 483 492	inhibitor
+T26	Geometrical_part 529 541	antiparallel
+T27	Protein_part 542 553	beta-barrel
+T28	Unknown 602 609	members
+T29	Chemical 617 624	retinol
+T30	Protein 625 647	binding protein family
+T31	Protein 678 686	protease
+T32	Protein_part 700 719	N-terminal residues
+T33	Protein_part 727 733	insert
+T34	Protein_part 743 754	active site
+T35	Geometrical_part 755 760	cleft
+T36	Protein_part 776 784	S' sites
+T37	Protein_part 790 814	first N-terminal residue
+T38	Protein_part 816 821	SerI1
+T39	Protein 855 863	protease
+T40	Protein_part 871 876	SerI2
+T41	Chemical 885 898	hydrogen bond
+T42	Protein_part 929 942	glutamic acid
+T43	Protein_part 944 950	Glu177
+T44	Protein 959 967	protease
+T45	Process 977 989	interactions
+T46	Geometrical_part 1011 1015	face
+T47	Category 1023 1032	inhibitor
+T48	Protein_part 1047 1057	strands s3
+T49	Unknown 1059 1061	s4
+T50	Unknown 1066 1068	s5
+T51	Protein_part 1077 1097	protease segment 218
+T52	Unknown 1160 1170	"Met-turn"
+T53	Protein 1178 1188	metzincins

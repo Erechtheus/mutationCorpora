@@ -1,0 +1,72 @@
+T1	Unknown 4 13	family 26
+T2	Protein 14 34	glycoside hydrolases
+T3	Process 47 56	catalysis
+T4	Process 60 69	different
+T5	Chemical 70 85	polysaccharides
+T6	Unknown 87 96	structure
+T7	Parameter 101 109	activity
+T8	Organism 115 139	Clostridium thermocellum
+T9	Protein 140 149	lichenase
+T10	Protein 152 160	CtLic26A
+T11	Protein 208 242	glycoside hydrolase families (GHs)
+T12	Process 287 296	different
+T13	Unknown 297 304	members
+T14	Unknown 317 323	family
+T15	Process 362 371	mechanism
+T16	Unknown 382 391	invariant
+T17	Protein 393 404	Family GH26
+T18	Protein 429 437	beta-1,4
+T19	Protein 438 448	mannanases
+T20	Organism 474 504	Clostridium  thermocellum GH26
+T21	Unknown 505 511	member
+T22	Protein 523 531	CtLic26A
+T23	Process 553 562	different
+T24	Protein 589 597	CtLic26A
+T25	Protein 603 612	lichenase
+T26	Chemical 633 666	(Glcbeta1,4Glcbeta1,4Glcbeta1,3)n
+T27	Chemical 678 693	polysaccharides
+T28	Parameter 711 719	activity
+T29	Category 740 750	substrates
+T30	Protein 754 782	beta-1,4-linked homopolymers
+T31	Chemical 786 793	glucose
+T32	Chemical 797 803	xylose
+T33	Geometrical_part 809 836	three-dimensional structure
+T34	Protein 859 867	CtLic26A
+T35	Value 887 893	1.50-A
+T36	Parameter 894 904	resolution
+T37	Geometrical_part 933 953	(beta/alpha)8 barrel
+T38	Protein_part 959 966	Glu-109
+T39	Protein_part 971 978	Glu-222
+T40	Protein 1003 1012	acid/base
+T41	Chemical 1017 1028	nucleophile
+T42	Process 1034 1053	double-displacement
+T43	Process 1054 1063	mechanism
+T44	Category 1069 1076	complex
+T45	Category 1098 1107	inhibitor
+T46	Protein 1109 1133	Glc-beta-1,3-isofagomine
+T47	Value 1138 1146	1 microm
+T48	Value 1152 1158	1.60 A
+T49	Category 1174 1183	substrate
+T50	Process 1184 1195	recognition
+T51	Protein_part 1210 1221	-1 subsites
+T52	Protein 1246 1252	enzyme
+T53	Category 1285 1295	substrates
+T54	Process 1297 1307	Hydrolysis
+T55	Chemical 1311 1326	beta-mannosides
+T56	Unknown 1330 1342	GH26 members
+T57	State 1373 1390	transition states
+T58	Unknown 1398 1402	B2,5
+T59	State 1410 1422	conformation
+T60	Process 1443 1454	distinction
+T61	Chemical 1458 1468	glucosides
+T62	Chemical 1476 1486	mannosides
+T63	Process 1504 1517	configuration
+T64	Protein_part 1521 1523	C2
+T65	Process 1532 1543	recognition
+T66	Chemical 1563 1565	O3
+T67	Unknown 1573 1577	B2,5
+T68	State 1578 1590	conformation
+T69	Process 1605 1614	different
+T70	State 1615 1629	conformational
+T71	Protein 1648 1660	GH26 enzymes
+T72	Category 1688 1698	substrates

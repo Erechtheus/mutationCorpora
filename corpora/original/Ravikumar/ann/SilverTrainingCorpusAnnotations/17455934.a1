@@ -1,0 +1,77 @@
+T1	Chemical 0 13	2-Aminopurine
+T2	Protein_part 31 42	active site
+T3	Chemical 50 57	adenine
+T4	Protein 67 95	DNA methyltransferase M.TaqI
+T5	Geometrical_part 97 115	crystal structures
+T6	Parameter 120 124	time
+T7	Technique 134 146	fluorescence
+T8	Geometrical_part 162 179	crystal structure
+T9	Molecule 187 190	DNA
+T10	Protein 191 219	adenine-N6 methyltransferase
+T11	Protein 221 227	M.TaqI
+T12	Molecule 245 248	DNA
+T13	Chemical 274 288	adenine analog
+T14	Chemical 290 303	2-aminopurine
+T15	Molecule 324 327	DNA
+T16	Protein_part 328 333	helix
+T17	Protein_part 383 394	active site
+T18	Process 410 416	target
+T19	Chemical 417 424	adenine
+T20	Parameter 426 430	Time
+T21	Technique 440 465	fluorescence spectroscopy
+T22	Category 485 492	complex
+T23	State 517 522	state
+T24	Process 560 564	loss
+T25	Value 585 604	approximately 50 ps
+T26	Parameter 606 624	lifetime component
+T27	Chemical 660 673	2-aminopurine
+T28	Molecule 677 680	DNA
+T29	Chemical 686 699	2-aminopurine
+T30	Protein 740 742	pi
+T31	Process 752 764	interactions
+T32	Protein_part 770 776	Tyr108
+T33	Protein_part 794 802	motif IV
+T34	Protein_part 804 808	NPPY
+T35	Chemical 823 836	2-aminopurine
+T36	Molecular_Part 857 862	probe
+T37	Chemical 893 899	M.TaqI
+T38	Protein_part 938 950	active sites
+T39	Molecule 954 957	DNA
+T40	Chemical 962 976	RNA adenine-N6
+T41	Molecule 988 991	DNA
+T42	Protein 992 1022	cytosine-N4 methyltransferases
+T43	Protein_part 1045 1053	motif IV
+T44	Chemical 1058 1066	solution
+T45	Technique 1089 1101	fluorescence
+T46	Process 1102 1110	response
+T47	Molecule 1145 1148	DNA
+T48	Protein_part 1193 1200	residue
+T49	Chemical 1222 1228	M.TaqI
+T50	Process 1234 1240	target
+T51	Chemical 1254 1261	thymine
+T52	Protein_part 1291 1302	site analog
+T53	Geometrical_part 1322 1341	cocrystal structure
+T54	Chemical 1348 1361	2-aminopurine
+T55	Protein_part 1369 1380	active site
+T56	Chemical 1384 1390	M.TaqI
+T57	Chemical 1423 1430	thymine
+T58	Unknown 1484 1493	structure
+T59	Process 1497 1502	shift
+T60	Process 1529 1535	target
+T61	Location 1558 1562	left
+T62	Process 1633 1637	role
+T63	Chemical 1661 1668	thymine
+T64	Parameter 1670 1674	Time
+T65	Technique 1684 1696	fluorescence
+T66	Chemical 1701 1711	acrylamide
+T67	Process 1722 1734	measurements
+T68	Chemical 1738 1744	M.TaqI
+T69	Category 1745 1754	complexes
+T70	Chemical 1758 1766	solution
+T71	Process 1803 1810	binding
+T72	Protein_part 1811 1815	site
+T73	Process 1838 1844	target
+T74	Chemical 1857 1863	M.TaqI
+T75	Chemical 1893 1900	thymine
+T76	Process 1927 1933	target
+T77	Protein_part 1948 1959	active site

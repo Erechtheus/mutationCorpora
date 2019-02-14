@@ -1,0 +1,97 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 33	Escherichia coli
+T3	Protein 34 61	O157:H7 heme oxygenase ChuS
+T4	Category 65 72	complex
+T5	Chemical 78 82	heme
+T6	Process 87 109	enzymatic inactivation
+T7	Process 113 121	mutation
+T8	Chemical 129 133	heme
+T9	Protein_part 147 162	residue His-193
+T10	Protein 164 179	Heme oxygenases
+T11	Process 193 202	oxidation
+T12	Chemical 206 210	heme
+T13	Chemical 214 224	biliverdin
+T14	Chemical 226 228	CO
+T15	Chemical 239 243	iron
+T16	Physiology 250 260	pathogenic
+T17	Organism 261 275	microorganisms
+T18	Chemical 277 281	heme
+T19	Process 282 288	uptake
+T20	Process 293 304	degradation
+T21	Process 318 328	mechanisms
+T22	Chemical 333 337	iron
+T23	Process 338 349	acquisition
+T24	Process 362 376	multiplication
+T25	Process 381 389	survival
+T26	Organism 397 402	hosts
+T27	Geometrical_part 441 458	crystal structure
+T28	Physiology 466 476	pathogenic
+T29	Organism 477 493	Escherichia coli
+T30	Protein 494 521	O157:H7 heme oxygenase ChuS
+T31	Category 525 532	complex
+T32	Chemical 538 542	heme
+T33	Value 546 552	1.45 A
+T34	Parameter 553 563	resolution
+T35	Protein 590 605	heme oxygenases
+T36	Protein 607 611	ChuS
+T37	Geometrical_part 625 629	fold
+T38	Protein_part 652 659	repeats
+T39	Protein_part 666 676	beta-sheet
+T40	Chemical 713 717	heme
+T41	Process 718 730	coordination
+T42	Protein 734 738	ChuS
+T43	Chemical 765 769	heme
+T44	Protein_part 795 803	residues
+T45	Protein_part 813 830	C-terminal domain
+T46	Chemical 854 862	arginine
+T47	Protein_part 872 889	N-terminal domain
+T48	Chemical 896 900	heme
+T49	Process 901 908	binding
+T50	State 928 942	conformational
+T51	Process 943 949	change
+T52	Process 966 972	tuning
+T53	Protein_part 982 991	histidine
+T54	Protein_part 993 1000	His-193
+T55	Protein_part 1002 1009	residue
+T56	Protein 1051 1066	heme oxygenases
+T57	Chemical 1072 1081	propionic
+T58	Protein_part 1082 1093	side chains
+T59	Chemical 1097 1101	heme
+T60	Protein 1128 1135	protein
+T61	Geometrical_part 1136 1140	core
+T62	Chemical 1166 1172	carbon
+T63	Unknown 1188 1192	O(2)
+T64	Chemical 1209 1213	heme
+T65	Process 1214 1225	degradation
+T66	Process 1239 1250	orientation
+T67	Process 1266 1278	presentation
+T68	Molecule 1285 1293	electron
+T69	Category 1294 1299	donor
+T70	Parameter 1338 1351	concentration
+T71	Chemical 1355 1368	ascorbic acid
+T72	Process 1384 1392	reaction
+T73	Chemical 1407 1426	ChuS-heme structure
+T74	Protein_part 1445 1462	histidine residue
+T75	Location 1479 1484	axial
+T76	Process 1485 1497	coordination
+T77	Chemical 1506 1510	heme
+T78	Molecular_Part 1511 1516	group
+T79	Protein_part 1523 1541	asparagine residue
+T80	Protein_part 1543 1548	H193N
+T81	Protein_part 1582 1591	histidine
+T82	Protein_part 1598 1613	alanine residue
+T83	Protein_part 1615 1619	H73A
+T84	Process 1625 1635	comparison
+T85	Technique 1667 1675	analysis
+T86	Unknown 1680 1682	CO
+T87	Process 1683 1694	measurement
+T88	Technique 1698 1716	gas chromatography
+T89	Process 1728 1737	catalysis
+T90	Protein 1741 1745	ChuS
+T91	Protein_part 1747 1752	H193N
+T92	Protein_part 1758 1762	H73A
+T93	Protein_part 1783 1790	His-193
+T94	Protein_part 1802 1809	residue
+T95	Chemical 1818 1822	heme
+T96	Parameter 1833 1841	activity
+T97	Protein 1845 1849	ChuS

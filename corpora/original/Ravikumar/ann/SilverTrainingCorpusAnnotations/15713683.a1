@@ -1,0 +1,56 @@
+T1	Process 11 24	investigation
+T2	Organism 28 48	Borrelia burgdorferi
+T3	Protein 49 53	OspB
+T4	Protein_part 70 73	Fab
+T5	Process 74 80	target
+T6	Molecule 90 98	antibody
+T7	Protein_part 99 112	Fab fragments
+T8	Protein_part 134 144	C terminus
+T9	Protein 148 178	outer surface protein B (OspB)
+T10	Protein 188 199	lipoprotein
+T11	Physiology 207 219	Lyme disease
+T12	Organism 220 230	spirochete
+T13	Organism 232 252	Borrelia burgdorferi
+T14	Parameter 271 279	property
+T15	Process 314 321	absence
+T16	Process 326 336	complement
+T17	Molecule 353 358	x-ray
+T18	Geometrical_part 359 377	crystal structures
+T19	Protein_part 383 402	C-terminal fragment
+T20	Organism 406 420	B. burgdorferi
+T21	Protein 421 425	OspB
+T22	Protein_part 439 455	residues 152-296
+T23	Value 466 471	2.0-A
+T24	Parameter 472 482	resolution
+T25	Category 494 501	complex
+T26	Unknown 524 533	Fab H6831
+T27	Value 537 542	2.6-A
+T28	Parameter 543 553	resolution
+T29	Protein 559 572	H6831 epitope
+T30	Protein 607 619	LA-2 epitope
+T31	Protein 623 627	OspA
+T32	Protein_part 651 663	OspB Lys-253
+T33	Protein_part 667 674	residue
+T34	Protein 689 694	H6831
+T35	Process 695 706	recognition
+T36	Protein_part 710 720	beta-sheet
+T37	Protein 741 754	OspB fragment
+T38	Process 790 801	proteolysis
+T39	Protein 810 815	H6831
+T40	Category 822 829	complex
+T41	State 837 851	conformational
+T42	Process 852 859	changes
+T43	Protein 877 882	H6831
+T44	Unknown 889 899	structures
+T45	Process 943 947	loss
+T46	Geometrical_part 957 975	crystal structures
+T47	Protein_part 977 1002	OspB C-terminal fragments
+T48	Protein 1019 1025	dimers
+T49	Protein_part 1054 1065	beta-sheets
+T50	Protein 1067 1071	OspB
+T51	Geometrical_part 1072 1081	structure
+T52	State 1083 1092	stability
+T53	Process 1107 1117	mechanisms
+T54	Process 1121 1128	killing
+T55	Protein 1132 1137	H6831
+T56	Protein_part 1161 1165	Fabs

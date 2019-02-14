@@ -1,0 +1,76 @@
+T1	Parameter 5 15	resolution
+T2	Unknown 16 25	structure
+T3	Organism 29 40	Deinococcus
+T4	Protein 49 60	phytochrome
+T5	Geometrical_part 99 111	architecture
+T6	Process 116 125	evolution
+T7	Protein 127 139	Phytochromes
+T8	Protein 175 189	photoreceptors
+T9	Organism 237 246	bacterial
+T10	Organism 248 254	fungal
+T11	Organism 260 265	plant
+T12	Protein_part 295 312	N-terminal domain
+T13	Chemical 337 354	bilin chromophore
+T14	Protein_part 361 378	C-terminal region
+T15	Protein 428 444	histidine kinase
+T16	Technique 458 479	x-ray crystallography
+T17	Geometrical_part 510 537	three-dimensional structure
+T18	Protein 543 554	phytochrome
+T19	Molecule 566 577	chromophore
+T20	Protein_part 586 592	domain
+T21	Organism 596 619	Deinococcus radiodurans
+T22	Organism 620 629	bacterial
+T23	Protein 630 641	phytochrome
+T24	Molecule 661 672	chromophore
+T25	Chemical 674 684	biliverdin
+T26	Unknown 685 692	IXalpha
+T27	Process 718 733	crystallization
+T28	Value 778 784	higher
+T29	Parameter 785 795	resolution
+T30	Value 808 813	1.45A
+T31	Parameter 814 824	resolution
+T32	Unknown 825 834	structure
+T33	Geometrical_part 870 877	surface
+T34	Unknown 886 893	crystal
+T35	Geometrical_part 894 902	symmetry
+T36	Process 974 982	ligation
+T37	Chemical 990 1002	C3(2) carbon
+T38	Chemical 1006 1016	biliverdin
+T39	Protein_part 1020 1027	Cys(24)
+T40	Molecule 1033 1044	chromophore
+T41	Protein_part 1079 1081	C2
+T42	Chemical 1097 1123	2(R),3(E)-phytochromobilin
+T43	Molecule 1184 1196	chromophores
+T44	Organism 1200 1214	cyanobacterial
+T45	Organism 1219 1224	plant
+T46	Protein 1225 1237	phytochromes
+T47	Process 1271 1280	evolution
+T48	Organism 1285 1294	bacterial
+T49	Protein 1295 1307	phytochromes
+T50	Organism 1326 1339	cyanobacteria
+T51	Organism 1351 1357	plants
+T52	Chemical 1413 1419	bilins
+T53	Chemical 1429 1444	phycocyanobilin
+T54	Process 1462 1468	switch
+T55	Process 1476 1486	attachment
+T56	Protein_part 1487 1491	site
+T57	Protein_part 1499 1507	cysteine
+T58	Protein_part 1517 1527	N terminus
+T59	Chemical 1556 1585	cGMP phosphodiesterase/adenyl
+T60	Protein_part 1586 1605	cyclase/FhlA domain
+T61	Technique 1612 1620	analysis
+T62	Molecule 1638 1645	mutants
+T63	Organism 1653 1667	D. radiodurans
+T64	Protein 1668 1679	phytochrome
+T65	Chemical 1699 1704	bilin
+T66	Process 1744 1750	change
+T67	Process 1754 1761	binding
+T68	Protein_part 1762 1766	site
+T69	Organism 1816 1825	organisms
+T70	Process 1841 1850	detection
+T71	Protein 1924 1937	bilin/protein
+T72	Process 1938 1950	interactions
+T73	Organism 1979 1984	plant
+T74	Protein 1985 1997	phytochromes
+T75	Organism 2011 2022	prokaryotic
+T76	Body_part 2023 2034	progenitors

@@ -1,0 +1,41 @@
+T1	Value 4 7	2-A
+T2	Parameter 8 18	resolution
+T3	Unknown 19 28	structure
+T4	Protein 47 61	ribonuclease A
+T5	Protein_part 94 111	lysine residues 7
+T6	Protein_part 116 118	41
+T7	Geometrical_part 124 141	crystal structure
+T8	Protein 145 204	Lys-7-(dinitrophenylene)-Lys-41-cross-linked ribonuclease A
+T9	Process 228 249	molecular replacement
+T10	Parameter 304 312	R factor
+T11	Value 316 320	0.18
+T12	Value 324 329	2.0-A
+T13	Parameter 330 340	resolution
+T14	Process 342 353	Diffraction
+T15	Parameter 354 363	intensity
+T16	Molecule 431 436	x-ray
+T17	Parameter 437 441	area
+T18	Process 452 462	Comparison
+T19	Protein 496 503	protein
+T20	Protein 519 525	enzyme
+T21	Unknown 572 575	rms
+T22	Process 576 586	difference
+T23	Chemical 603 619	side-chain atoms
+T24	Value 623 627	0.52
+T25	Value 632 638	1.34 A
+T26	Protein 674 682	proteins
+T27	Protein_part 717 730	solvent sites
+T28	Parameter 752 770	temperature factor
+T29	Physiology 771 779	behavior
+T30	Process 799 810	differences
+T31	Unknown 859 866	crystal
+T32	Parameter 867 869	pH
+T33	Process 882 894	interactions
+T34	Molecule 912 921	molecules
+T35	Protein 1033 1039	enzyme
+T36	Unknown 1041 1044	PMC
+T37	Unknown 1047 1060	PMC390938 OID
+T38	Unknown 1063 1066	NLM
+T39	Unknown 1068 1077	PMC390938
+T40	Unknown 1078 1083	CRDT-
+T41	Value 1092 1100	01 00:00

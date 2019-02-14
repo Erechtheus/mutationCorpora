@@ -1,0 +1,43 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 42	Staphylococcus aureus
+T3	Protein 43 72	tRNA adenosine deaminase TadA
+T4	Category 76 83	complex
+T5	Protein 89 92	RNA
+T6	Organism 94 103	Bacterial
+T7	Protein 104 137	tRNA adenosine deaminases (TadAs)
+T8	Process 151 173	hydrolytic deamination
+T9	Chemical 177 186	adenosine
+T10	Chemical 190 197	inosine
+T11	Process 224 234	tRNA(Arg2)
+T12	Process 238 245	process
+T13	Protein 271 275	tRNA
+T14	Process 295 304	different
+T15	Protein_part 305 320	arginine codons
+T16	Protein 324 328	mRNA
+T17	Chemical 343 350	inosine
+T18	Organism 405 415	eukaryotic
+T19	Protein 416 421	tRNAs
+T20	Protein 427 432	genes
+T21	Protein 448 458	deaminases
+T22	Organism 476 484	bacteria
+T23	Organism 489 494	yeast
+T24	Process 514 524	importance
+T25	Parameter 534 553	biological activity
+T26	Process 574 589	crystallization
+T27	Unknown 594 603	structure
+T28	Value 621 626	2.0 A
+T29	Organism 630 651	Staphylococcus aureus
+T30	Protein 652 656	TadA
+T31	Process 693 703	tRNA(Arg2)
+T32	Chemical 744 760	adenosine analog
+T33	Geometrical_part 790 809	cocrystal structure
+T34	Process 822 827	basis
+T35	Protein_part 837 845	sequence
+T36	Unknown 850 859	structure
+T37	Process 879 891	interactions
+T38	Protein 895 899	TadA
+T39	Protein 905 908	RNA
+T40	Process 939 946	insight
+T41	Protein_part 956 967	active site
+T42	Geometrical_part 968 980	architecture
+T43	Process 1005 1027	hydrolytic deamination

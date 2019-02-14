@@ -1,0 +1,81 @@
+T1	Process 26 42	characterization
+T2	Protein 70 101	progesterone receptor modulator
+T3	Molecule 103 153	Selective progesterone receptor modulators (SPRMs)
+T4	Process 200 209	treatment
+T5	Physiology 227 236	disorders
+T6	Molecule 247 251	SPRM
+T7	Technique 281 296	clinical trials
+T8	Process 301 310	treatment
+T9	Body_part 314 321	uterine
+T10	Physiology 335 348	endometriosis
+T11	Geometrical_part 365 383	crystal structures
+T12	Protein 387 413	progesterone receptor (PR)
+T13	Category 414 420	ligand
+T14	Process 421 428	binding
+T15	Protein_part 429 435	domain
+T16	Protein 483 518	nuclear receptor corepressor (NCoR)
+T17	Protein 523 527	SMRT
+T18	Protein 557 565	steroid 
+T19	Body_part 565 572	nuclear
+T20	Category 606 612	ligand
+T21	Unknown 637 647	structures
+T22	Protein 653 655	PR
+T23	Process 661 670	different
+T24	State 671 683	conformation
+T25	Protein 689 691	PR
+T26	Chemical 707 724	progesterone (P4)
+T27	Protein 752 754	PR
+T28	Technique 765 771	assays
+T29	Protein 798 800	PR
+T30	Process 811 820	mechanism
+T31	Process 824 830	action
+T32	Protein 927 931	PR-B
+T33	Process 932 944	transfection
+T34	Technique 945 950	assay
+T35	Body_part 959 982	T47D breast cancer cell
+T36	Protein 983 1003	alkaline phosphatase
+T37	Parameter 1004 1012	activity
+T38	Technique 1013 1018	assay
+T39	Unknown 1040 1045	RU486
+T40	Category 1068 1080	coactivators
+T41	Protein 1081 1086	SRC-1
+T42	Unknown 1091 1095	AIB1
+T43	Protein 1152 1156	NCoR
+T44	Unknown 1180 1185	RU486
+T45	Unknown 1194 1199	RU486
+T46	Protein 1201 1205	NCoR
+T47	Protein 1234 1236	PR
+T48	Parameter 1267 1275	affinity
+T49	Protein 1279 1283	NCoR
+T50	Protein_part 1288 1301	TIF2 peptides
+T51	Body_part 1346 1355	T47D cell
+T52	Protein 1356 1360	gene
+T53	Process 1361 1371	expression
+T54	Protein 1375 1380	Sgk-1
+T55	Protein 1385 1388	PPL
+T56	Chemical 1405 1407	P4
+T57	Process 1416 1426	expression
+T58	Protein 1435 1440	genes
+T59	Organism 1446 1449	rat
+T60	Physiology 1450 1459	leiomyoma
+T61	Body_part 1460 1470	ELT3 cells
+T62	Chemical 1504 1506	P4
+T63	Process 1512 1522	inhibition
+T64	Protein 1526 1546	cyclooxygenase (COX)
+T65	Protein 1547 1556	enzymatic
+T66	Parameter 1557 1565	activity
+T67	Protein 1570 1580	COX-2 gene
+T68	Process 1581 1591	expression
+T69	Organism 1600 1603	rat
+T70	Technique 1618 1623	assay
+T71	Chemical 1652 1654	P4
+T72	Chemical 1678 1686	estrogen
+T73	Category 1745 1757	coactivators
+T74	Chemical 1787 1792	RU486
+T75	Chemical 1796 1798	P4
+T76	Category 1818 1826	cofactor
+T77	Process 1827 1838	interaction
+T78	Physiology 1885 1895	estrogenic
+T79	Parameter 1896 1904	activity
+T80	Organism 1908 1911	rat
+T81	Body_part 1912 1918	uterus

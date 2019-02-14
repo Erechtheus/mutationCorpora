@@ -1,0 +1,63 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 33	terminal
+T3	Protein 34 43	oxygenase
+T4	Protein_part 44 53	component
+T5	Protein 64 75	dioxygenase
+T6	Organism 82 105	Pseudomonas fluorescens
+T7	Organism 106 110	IP01
+T8	Geometrical_part 116 133	crystal structure
+T9	Protein_part 141 149	terminal
+T10	Geometrical_part 150 159	component
+T11	Protein 174 185	dioxygenase
+T12	Protein 201 214	enzyme system
+T13	Organism 218 241	Pseudomonas fluorescens
+T14	Organism 242 254	IP01 (CumDO)
+T15	Parameter 275 285	resolution
+T16	Value 289 294	2.2 A
+T17	Process 307 328	molecular replacement
+T18	Geometrical_part 342 359	crystal structure
+T19	Protein_part 367 375	terminal
+T20	Protein 376 385	oxygenase
+T21	Protein_part 386 395	component
+T22	Protein 399 422	naphthalene dioxygenase
+T23	Organism 428 439	Pseudomonas
+T24	Organism 444 450	strain
+T25	Organism 451 455	NCIB
+T26	Protein 464 469	NphDO
+T27	Process 476 484	ligation
+T28	Location 497 514	catalytic centers
+T29	Organism 518 523	CumDO
+T30	Chemical 543 547	iron
+T31	Chemical 552 558	Rieske
+T32	Chemical 560 566	2Fe-2S
+T33	Protein 632 640	subunits
+T34	Chemical 644 658	hydrogen bonds
+T35	Protein_part 676 694	amino acid residue
+T36	Protein_part 696 702	Asp231
+T37	Protein 729 734	NphDO
+T38	Location 752 760	external
+T39	Category 761 767	ligand
+T40	Chemical 778 786	dioxygen
+T41	Protein_part 805 816	active site
+T42	Chemical 825 829	iron
+T43	Location 835 843	entrance
+T44	Protein_part 851 862	active site
+T45	Organism 866 871	CumDO
+T46	Location 894 902	entrance
+T47	Protein_part 910 921	active site
+T48	Protein 925 930	NphDO
+T49	Geometrical_part 943 948	loops
+T50	Process 979 988	deviation
+T51	Process 997 1002	basis
+T52	Geometrical_part 1018 1027	structure
+T53	Protein 1031 1036	NphDO
+T54	Chemical 1040 1048	biphenyl
+T55	Category 1049 1058	substrate
+T56	Category 1078 1087	substrate
+T57	Geometrical_part 1096 1102	pocket
+T58	Organism 1106 1111	CumDO
+T59	Protein_part 1117 1125	residues
+T60	Chemical 1150 1167	biphenyl molecule
+T61	Protein_part 1176 1184	residues
+T62	Category 1238 1247	substrate
+T63	Protein 1298 1319	biphenyl dioxygenases

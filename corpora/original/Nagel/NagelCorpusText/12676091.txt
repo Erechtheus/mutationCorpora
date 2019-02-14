@@ -1,0 +1,10 @@
+The spindle checkpoint inhibits anaphase until all chromosomes have established bipolar attachment . 
+Two kinetochore states trigger this checkpoint . 
+The absence of microtubules activates the attachment response, while the inability of attached microtubules to generate tension triggers the tension/orientation response . 
+The single aurora kinase of budding yeast, Ipl1, is required for the tension/orientation, but not attachment, response . 
+In contrast, we find that the single aurora kinase of fission yeast, Ark1, is required for the attachment response . 
+Having established that the initiator codon assigned to ark1(+) was incorrect and that Ark1-associated kinase activity depended upon survivin function and phosphorylation, we found that the loss of Ark1 from kinetochores by either depletion or use of a survivin mutant overides the checkpoint response to microtubule depolymerization . 
+Ark1/survivin function was not required for the association of Bub1 or Mad3 with the kinetochores . 
+However, it was required for two aspects of Mad2 function that accompany checkpoint activation: full-scale association with kinetochores and formation of a complex with Mad3 . 
+Neither the phosphorylation of histone H3 that accompanies chromosome condensation nor condensin recruitment to mitotic chromatin were seen when Ark1 function was compromised . 
+Cytokinesis was not affected by Ark1 depletion or expression of the &quot;kinase dead&quot; ark1.K118R mutant . 

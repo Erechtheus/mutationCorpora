@@ -1,0 +1,71 @@
+T1	Protein 0 32	D-ribose-5-phosphate isomerase B
+T2	Organism 38 54	Escherichia coli
+T3	Protein 76 106	D-allose-6-phosphate isomerase
+T4	Organism 118 144	Mycobacterium tuberculosis
+T5	Protein 145 151	enzyme
+T6	Process 160 175	Interconversion
+T7	Chemical 179 205	D-ribose-5-phosphate (R5P)
+T8	Chemical 210 232	D-ribulose-5-phosphate
+T9	Chemical 261 278	pentose phosphate
+T10	Process 279 286	pathway
+T11	Protein 302 309	enzymes
+T12	Protein 315 328	R5P isomerase
+T13	Parameter 329 337	activity
+T14	Organism 363 379	Escherichia coli
+T15	Protein 381 385	RpiA
+T16	Protein 390 394	RpiB
+T17	Organism 404 412	organism
+T18	Chemical 428 443	5-carbon sugars
+T19	Protein 476 480	RpiA
+T20	Process 500 504	role
+T21	Protein 508 512	RpiB
+T22	Process 541 556	interconversion
+T23	Chemical 570 585	6-carbon sugars
+T24	Chemical 586 614	D-allose-6-phosphate (All6P)
+T25	Chemical 619 641	D-allulose-6-phosphate
+T26	Organism 646 672	Mycobacterium tuberculosis
+T27	Protein 688 692	RpiB
+T28	Chemical 707 722	5-carbon sugars
+T29	Category 763 773	substrates
+T30	Parameter 792 799	kinetic
+T31	Protein 822 837	All6P isomerase
+T32	Parameter 838 846	activity
+T33	Protein 854 859	RpiBs
+T34	Organism 875 884	organisms
+T35	Organism 908 915	E. coli
+T36	Protein 916 922	enzyme
+T37	Process 940 948	reaction
+T38	Chemical 962 967	All6P
+T39	Category 987 996	inhibitor
+T40	Organism 1004 1019	M. tuberculosis
+T41	Protein 1020 1026	enzyme
+T42	Process 1034 1040	action
+T43	Chemical 1044 1047	R5P
+T44	Molecule 1049 1054	X-ray
+T45	Organism 1070 1085	M. tuberculosis
+T46	Protein 1086 1092	enzyme
+T47	Chemical 1114 1119	All6P
+T48	Chemical 1124 1161	5-deoxy-5-phospho-D-ribonohydroxamate
+T49	Category 1166 1175	inhibitor
+T50	Category 1188 1193	mimic
+T51	Chemical 1198 1212	6-carbon sugar
+T52	Process 1218 1228	comparison
+T53	Organism 1238 1245	E. coli
+T54	Protein 1246 1254	enzyme's
+T55	Unknown 1255 1264	structure
+T56	Process 1288 1299	differences
+T57	Protein_part 1307 1319	active sites
+T58	Parameter 1337 1344	kinetic
+T59	Unknown 1364 1374	structures
+T60	Organism 1393 1400	E. coli
+T61	Protein 1401 1405	RpiB
+T62	Protein_part 1416 1425	histidine
+T63	Protein_part 1426 1428	99
+T64	Protein_part 1444 1454	asparagine
+T65	Organism 1477 1492	M. tuberculosis
+T66	Protein 1493 1499	enzyme
+T67	Category 1531 1540	substrate
+T68	Chemical 1541 1559	ribose-5-phosphate
+T69	Process 1591 1599	reaction
+T70	Process 1600 1609	mechanism
+T71	Protein 1613 1618	RpiBs

@@ -1,0 +1,98 @@
+T1	Process 0 9	Chelation
+T2	Protein_part 13 22	serine 39
+T3	Chemical 26 30	Mg2+
+T4	Protein_part 53 64	active site
+T5	Protein 68 75	enolase
+T6	Unknown 77 86	structure
+T7	Chemical 94 103	bis(Mg2+)
+T8	Category 104 111	complex
+T9	Organism 115 120	yeast
+T10	Protein 121 128	enolase
+T11	Molecule 137 149	intermediate
+T12	Chemical 150 182	analog phosphonoacetohydroxamate
+T13	Value 186 191	2.1-A
+T14	Parameter 192 202	resolution
+T15	Unknown 208 217	structure
+T16	Unknown 227 234	crystal
+T17	Protein 243 250	enolase
+T18	Organism 264 269	yeast
+T19	Value 289 294	2.1-A
+T20	Parameter 295 305	resolution
+T21	Unknown 307 315	Crystals
+T22	Chemical 337 352	ethylene glycol
+T23	Chemical 358 361	KCl
+T24	Parameter 365 367	pH
+T25	Value 368 371	8.2
+T26	Process 379 387	presence
+T27	Chemical 391 395	Mg2+
+T28	Process 402 410	reaction
+T29	Molecule 411 423	intermediate
+T30	Unknown 424 430	analog
+T31	Chemical 432 464	phosphonoacetohydroxamate (PhAH)
+T32	Unknown 466 474	Crystals
+T33	Geometrical_part 485 499	space group C2
+T34	Geometrical_part 506 515	unit cell
+T35	Parameter 516 526	dimensions
+T36	Parameter 527 528	a
+T37	Value 531 538	123.5 A
+T38	Parameter 540 541	b
+T39	Value 544 550	73.9 A
+T40	Parameter 556 557	c
+T41	Value 560 566	94.8 A
+T42	Parameter 572 576	beta
+T43	Value 579 591	93.3 degrees
+T44	Protein 609 614	dimer
+T45	Unknown 640 649	structure
+T46	Process 664 686	molecular  replacement
+T47	Technique 696 701	X-ray
+T48	Protein 717 727	apoenolase
+T49	Unknown 760 773	J. Mol. Biol.
+T50	Chemical 804 823	divalent metal ions
+T51	Category 862 871	inhibitor
+T52	Chemical 881 890	Mg2+ ions
+T53	Value 895 901	4.05 A
+T54	Chemical 929 936	mu-oxyl
+T55	Category 937 943	ligand
+T56	Chemical 953 961	carbonyl
+T57	Molecular_Part 962 968	moiety
+T58	Chemical 972 976	PhAH
+T59	Chemical 998 1002	Mg2+
+T60	Chemical 1022 1033	carboxylate
+T61	Protein_part 1034 1045	side chains
+T62	Protein_part 1049 1056	Asp 246
+T63	Protein_part 1058 1065	Glu 295
+T64	Protein_part 1071 1078	Asp 320
+T65	Chemical 1084 1098	water molecule
+T66	Chemical 1108 1119	hydroxamate
+T67	Chemical 1124 1140	carbonyl oxygens
+T68	Chemical 1144 1148	PhAH
+T69	Chemical 1161 1165	Mg2+
+T70	Chemical 1183 1200	phosphonyl oxygen
+T71	Chemical 1206 1221	water molecules
+T72	Chemical 1241 1256	carbonyl oxygen
+T73	Chemical 1260 1264	PhAH
+T74	Process 1266 1278	Coordination
+T75	Chemical 1303 1307	PhAH
+T76	Chemical 1312 1317	water
+T77	Category 1318 1325	ligands
+T78	Chemical 1365 1369	Mn2+
+T79	Category 1370 1379	complexes
+T80	Unknown 1445 1457	Biochemistry
+T81	Category 1484 1491	ligands
+T82	Chemical 1507 1511	Mg2+
+T83	Chemical 1520 1535	carbonyl oxygen
+T84	Chemical 1540 1552	gamma-oxygen
+T85	Protein_part 1556 1562	Ser 39
+T86	Process 1564 1573	Chelation
+T87	Protein_part 1582 1593	Ser residue
+T88	Chemical 1597 1601	Mg2+
+T89	Geometrical_part 1635 1639	loop
+T90	Protein_part 1655 1661	Gly 37
+T91	Protein_part 1670 1676	His 43
+T92	Location 1696 1704	entrance
+T93	Protein_part 1712 1723	active site
+T94	Chemical 1752 1756	Mg2+
+T95	Protein_part 1764 1775	active site
+T96	Process 1789 1796	insight
+T97	Category 1825 1834	substrate
+T98	Process 1835 1842	binding

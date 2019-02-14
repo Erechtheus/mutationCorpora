@@ -1,0 +1,78 @@
+T1	State 0 14	Conformational
+T2	Process 15 22	changes
+T3	Protein 30 43	alpha-subunit
+T4	Process 55 62	binding
+T5	Protein 70 84	beta 2-subunit
+T6	Protein 88 107	tryptophan synthase
+T7	Organism 113 129	Escherichia coli
+T8	Geometrical_part 131 148	crystal structure
+T9	Protein 157 176	tryptophan synthase
+T10	Protein 177 190	alpha-subunit
+T11	Protein 207 226	tryptophan synthase
+T12	Protein 227 233	alpha-
+T13	Protein 238 254	beta(2)-subunits
+T14	Unknown 275 298	alpha(2)beta(2)-complex
+T15	Protein 304 313	enzymatic
+T16	Parameter 314 322	activity
+T17	Protein 331 338	subunit
+T18	Value 361 380	orders of magnitude
+T19	Process 410 415	basis
+T20	Process 431 441	activation
+T21	Unknown 476 486	structures
+T22	Protein 494 500	alpha-
+T23	Protein 505 518	beta-subunits
+T24	Unknown 547 570	alpha(2)beta(2)-complex
+T25	Geometrical_part 576 594	crystal structures
+T26	Protein 602 645	tryptophan synthase alpha(2)beta(2)-complex
+T27	Organism 651 700	Salmonella typhimurium (Stalpha(2)beta(2)-complex
+T28	Geometrical_part 744 754	structures
+T29	Protein 762 769	subunit
+T30	Organism 781 791	mesophiles
+T31	Geometrical_part 826 835	structure
+T32	Protein 843 862	tryptophan synthase
+T33	Protein 863 876	alpha-subunit
+T34	Organism 888 922	Escherichia coli (Ecalpha-subunit)
+T35	Technique 944 975	X-ray crystallographic analysis
+T36	Value 979 984	2.3 A
+T37	Protein 1020 1028	subunits
+T38	Organism 1044 1054	mesophiles
+T39	Process 1069 1079	difference
+T40	Unknown 1092 1102	structures
+T41	Organism 1110 1125	Ecalpha-subunit
+T42	Protein 1140 1153	alpha-subunit
+T43	Organism 1161 1186	Stalpha(2)beta(2)-complex
+T44	Protein 1188 1203	Stalpha-subunit
+T45	Protein_part 1222 1227	Helix
+T46	Protein 1238 1253	Stalpha-subunit
+T47	Protein_part 1268 1287	active site residue
+T48	Protein_part 1289 1294	Asp60
+T49	Geometrical_part 1323 1327	loop
+T50	Organism 1335 1350	Ecalpha-subunit
+T51	Process 1362 1372	conversion
+T52	Protein_part 1380 1385	helix
+T53	Geometrical_part 1391 1395	loop
+T54	Protein_part 1436 1447	active site
+T55	State 1448 1460	conformation
+T56	Protein_part 1467 1473	region
+T57	Geometrical_part 1495 1499	part
+T58	Process 1515 1525	activation
+T59	Organism 1533 1558	Stalpha(2)beta(2)-complex
+T60	Protein 1584 1596	beta-subunit
+T61	Process 1629 1638	formation
+T62	Protein_part 1642 1654	helix 2'that
+T63	Process 1676 1687	stimulation
+T64	Protein 1695 1704	enzymatic
+T65	Parameter 1705 1713	activity
+T66	Protein 1721 1734	alpha-subunit
+T67	State 1786 1800	conformational
+T68	Process 1801 1808	changes
+T69	Process 1814 1825	interaction
+T70	Protein 1838 1844	alpha-
+T71	Protein 1849 1862	beta-subunits
+T72	Process 1887 1897	prediction
+T73	State 1905 1919	conformational
+T74	Process 1920 1927	changes
+T75	Technique 1955 1963	analysis
+T76	Process 1972 1983	association
+T77	Protein 1996 2002	alpha-
+T78	Protein 2007 2020	beta-subunits

@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 36 48	cyclase AknH
+T3	Category 60 69	substrate
+T4	Category 74 81	product
+T5	Unknown 82 90	analogue
+T6	Process 92 104	implications
+T7	Process 109 128	catalytic mechanism
+T8	Category 133 140	product
+T9	Protein 160 164	AknH
+T10	Protein 187 194	cyclase
+T11	Process 214 221	closure
+T12	Chemical 236 247	carbon ring
+T13	Chemical 251 264	aclacinomycin
+T14	Process 265 277	biosynthesis
+T15	Organism 281 303	Streptomyces galilaeus
+T16	Chemical 326 343	acid methyl ester
+T17	Chemical 347 359	aklaviketone
+T18	Geometrical_part 365 382	crystal structure
+T19	Technique 383 391	analysis
+T20	Protein 400 406	enzyme
+T21	Category 411 418	complex
+T22	Category 424 433	substrate
+T23	Category 438 445	product
+T24	Unknown 446 454	analogue
+T25	Protein 530 543	cyclase SnoaL
+T26	Process 577 585	reaction
+T27	Process 593 605	biosynthesis
+T28	Chemical 609 620	nogalamycin
+T29	Process 622 632	Similarity
+T30	Protein 675 679	AknH
+T31	Chemical 702 719	acid methyl ester
+T32	Category 733 742	substrate
+T33	Protein 746 751	SnoaL
+T34	Chemical 756 768	auraviketone
+T35	Protein_part 785 795	constructs
+T36	Protein 878 885	enzymes
+T37	Process 891 899	reaction
+T38	Category 900 908	products
+T39	Protein 912 916	AknH
+T40	Protein 921 926	SnoaL
+T41	Category 981 990	substrate
+T42	Protein 992 996	AknH
+T43	Unknown 1006 1010	C9-R
+T44	Category 1011 1018	product
+T45	Unknown 1030 1037	members
+T46	Unknown 1046 1052	family
+T47	Protein 1067 1075	cyclases
+T48	Category 1089 1096	product
+T49	Protein 1100 1105	SnoaL
+T50	Chemical 1123 1127	C9-S
+T51	Process 1147 1157	comparison
+T52	Geometrical_part 1177 1195	crystal structures
+T53	Protein 1207 1214	enzymes
+T54	Process 1238 1249	mutagenesis
+T55	Protein_part 1280 1290	amino acid
+T56	Process 1291 1304	substitutions
+T57	Protein_part 1312 1325	active  sites
+T58	Category 1347 1354	product
+T59	Protein 1376 1380	AknH
+T60	Process 1382 1393	Replacement
+T61	Protein_part 1397 1411	residues Tyr15
+T62	Protein_part 1416 1421	Asn51
+T63	Protein 1425 1429	AknH
+T64	Location 1446 1454	vicinity
+T65	Protein_part 1467 1491	catalytic residue Asp121
+T66	Protein 1502 1507	SnoaL
+T67	Protein_part 1522 1535	phenylalanine
+T68	Protein_part 1540 1547	leucine
+T69	Process 1585 1589	loss
+T70	Category 1593 1600	product

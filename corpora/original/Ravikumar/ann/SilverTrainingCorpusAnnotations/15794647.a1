@@ -1,0 +1,51 @@
+T1	Molecule 0 6	Ligand
+T2	Process 7 16	migration
+T3	Protein 21 28	protein
+T4	Process 29 41	fluctuations
+T5	Protein 45 66	myoglobin mutant L29W
+T6	Technique 93 109	X-ray structures
+T7	Protein 113 134	myoglobin mutant L29W
+T8	Technique 193 206	spectroscopic
+T9	Process 207 218	experiments
+T10	Technique 274 290	X-ray structures
+T11	State 305 318	conformations
+T12	Protein 326 328	CO
+T13	Protein 337 344	protein
+T14	Process 369 373	rise
+T15	Chemical 401 405	heme
+T16	Protein 412 414	CO
+T17	Protein 419 428	L29W MbCO
+T18	Geometrical_part 429 437	crystals
+T19	Value 461 466	180 K
+T20	Chemical 470 483	deoxy species
+T21	Molecule 499 511	CO molecules
+T22	Location 527 540	proximal side
+T23	Chemical 548 552	heme
+T24	Chemical 589 592	Xe1
+T25	Body_part 593 599	cavity
+T26	Parameter 605 616	temperature
+T27	Process 617 625	decrease
+T28	Value 629 634	105 K
+T29	Unknown 640 649	structure
+T30	Process 699 710	equilibrium
+T31	Chemical 728 733	deoxy
+T32	Protein 734 736	Mb
+T33	Geometrical_part 737 746	structure
+T34	Parameter 755 766	temperature
+T35	Value 794 800	higher
+T36	Parameter 801 807	values
+T37	Protein 809 811	CO
+T38	Process 812 825	recombination
+T39	Molecule 845 857	intermediate
+T40	Unknown 858 868	structures
+T41	Process 911 918	process
+T42	Process 930 943	recombination
+T43	Value 962 967	180 K
+T44	Parameter 988 999	temperature
+T45	Process 1008 1013	onset
+T46	Protein 1017 1024	protein
+T47	Protein_part 1078 1092	residues His64
+T48	Protein_part 1097 1102	Trp29
+T49	Process 1119 1128	migration
+T50	Process 1129 1137	pathways
+T51	Molecule 1145 1156	CO molecule

@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 38	human neutrophil elastase
+T3	Category 42 49	complex
+T4	Chemical 57 84	peptide chloromethyl ketone
+T5	Category 85 94	inhibitor
+T6	Value 98 104	1.84-A
+T7	Parameter 105 115	resolution
+T8	Protein 117 148	Human neutrophil elastase (HNE)
+T9	Body_part 195 201	tissue
+T10	Process 202 213	destruction
+T11	Physiology 225 232	disease
+T12	State 233 239	states
+T13	Physiology 251 260	emphysema
+T14	Geometrical_part 266 275	structure
+T15	Protein 280 283	HNE
+T16	Value 288 295	neutral
+T17	Parameter 296 298	pH
+T18	Category 303 310	complex
+T19	Chemical 316 375	methoxysuccinyl-Ala-Ala-Pro-Ala chloromethyl ketone (MSACK)
+T20	Parameter 411 419	R factor
+T21	Value 423 428	16.4%
+T22	Value 433 439	1.84-A
+T23	Parameter 440 450	resolution
+T24	Process 503 512	mechanism
+T25	Chemical 516 543	peptide chloromethyl ketone
+T26	Process 544 554	inhibition
+T27	Protein 558 574	serine proteases
+T28	Chemical 585 590	MSACK
+T29	Protein_part 617 632	residues His-57
+T30	Protein_part 637 644	Ser-195
+T31	Unknown 650 659	structure
+T32	Chemical 667 676	HNE-MSACK
+T33	Category 677 684	complex
+T34	Organism 710 717	porcine
+T35	Body_part 718 728	pancreatic
+T36	Protein 729 737	elastase
+T37	Category 741 748	complex
+T38	Category 754 763	L-647,957
+T39	Chemical 767 778	beta-lactam
+T40	Category 779 788	inhibitor
+T41	Process 797 806	elastases
+T42	Parameter 812 824	distribution
+T43	Protein_part 847 855	residues
+T44	Protein 859 862	HNE
+T45	Process 899 903	role
+T46	Process 920 931	association
+T47	Protein 971 983	proteoglycan
+T48	Body_part 984 990	matrix
+T49	Body_part 998 1017	neutrophil granules
+T50	Protein 1031 1037	enzyme

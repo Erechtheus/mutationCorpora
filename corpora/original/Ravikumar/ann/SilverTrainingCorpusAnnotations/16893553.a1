@@ -1,0 +1,58 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 46 51	actin
+T3	Protein 57 70	actin crystal
+T4	Geometrical_part 71 81	structures
+T5	Protein 109 114	actin
+T6	Molecule 153 162	molecules
+T7	Process 180 194	polymerization
+T8	Protein 196 201	Actin
+T9	Protein 215 229	ECP32 protease
+T10	Protein_part 242 246	site
+T11	Protein_part 255 260	Gly42
+T12	Protein_part 265 270	Val43
+T13	Chemical 309 315	Ca-ATP
+T14	Chemical 371 373	Mg
+T15	Geometrical_part 394 411	crystal structure
+T16	Protein 419 467	true uncomplexed ECP32-cleaved actin (ECP-actin)
+T17	Value 478 483	1.9 A
+T18	Parameter 484 494	resolution
+T19	State 537 554	open conformation
+T20	Protein_part 562 584	ECP-actin's nucleotide
+T21	Process 585 592	binding
+T22	Geometrical_part 593 598	cleft
+T23	Chemical 602 610	solution
+T24	Geometrical_part 616 633	crystal structure
+T25	Protein 649 658	ECP-actin
+T26	Protein 668 673	actin
+T27	State 688 707	closed conformation
+T28	Protein 733 738	actin
+T29	Geometrical_part 739 749	structures
+T30	Geometrical_part 801 810	structure
+T31	Protein 814 829	monomeric actin
+T32	Protein 878 883	actin
+T33	Protein 892 900	proteins
+T34	Molecule 905 911	toxins
+T35	Protein 931 944	actin crystal
+T36	Geometrical_part 945 955	structures
+T37	Chemical 974 978	salt
+T38	Process 1010 1025	crystallization
+T39	Protein 1036 1041	actin
+T40	State 1070 1083	conformations
+T41	Geometrical_part 1100 1109	unit cell
+T42	Geometrical_part 1133 1145	antiparallel
+T43	Protein 1146 1157	actin dimer
+T44	Protein 1213 1220	F-actin
+T45	Process 1221 1231	nucleation
+T46	Geometrical_part 1260 1268	symmetry
+T47	Protein 1277 1288	actin-actin
+T48	Process 1289 1297	contacts
+T49	Body_part 1305 1309	head
+T50	Protein_part 1314 1318	tail
+T51	Protein 1319 1324	dimer
+T52	Location 1359 1371	longitudinal
+T53	Protein 1372 1377	dimer
+T54	Protein 1396 1410	Holmes F-actin
+T55	Process 1430 1438	rotation
+T56	Protein 1446 1454	monomers
+T57	Protein 1505 1518	actin crystal
+T58	Geometrical_part 1519 1529	structures

@@ -1,0 +1,84 @@
+T1	Location 0 6	Distal
+T2	Geometrical_part 7 13	pocket
+T3	Process 14 22	polarity
+T4	Category 26 32	ligand
+T5	Protein 44 53	myoglobin
+T6	Process 82 98	characterization
+T7	Protein_part 104 120	threonine68(E11)
+T8	Molecule 121 127	mutant
+T9	Technique 129 154	Site-directed mutagenesis
+T10	Location 187 193	distal
+T11	Protein_part 194 203	histidine
+T12	Protein 207 216	myoglobin
+T13	Chemical 234 236	O2
+T14	Chemical 240 256	hydrogen bonding
+T15	Chemical 314 323	imidazole
+T16	Protein_part 324 334	side chain
+T17	Parameter 351 355	size
+T18	Parameter 373 377	rate
+T19	Category 381 387	ligand
+T20	Process 388 393	entry
+T21	Protein 403 410	protein
+T22	Protein_part 440 445	Val68
+T23	Protein_part 449 452	Thr
+T24	Process 453 464	replacement
+T25	Organism 468 471	pig
+T26	Protein 472 481	myoglobin
+T27	Chemical 513 515	O2
+T28	Parameter 516 524	affinity
+T29	Chemical 576 584	hydrogen
+T30	Molecular_Part 593 598	group
+T31	Location 608 614	distal
+T32	Chemical 615 626	heme pocket
+T33	Process 651 660	influence
+T34	Process 664 672	polarity
+T35	Category 680 686	ligand
+T36	Parameter 687 700	binding rates
+T37	Value 722 727	1.9-A
+T38	Geometrical_part 728 745	crystal structure
+T39	Protein_part 749 754	Thr68
+T40	Protein 755 771	aquometmyoglobin
+T41	Protein 801 819	wild-type proteins
+T42	Chemical 872 879	beta-OH
+T43	Molecular_Part 880 885	group
+T44	Protein_part 889 894	Thr68
+T45	Chemical 920 928	hydrogen
+T46	Process 937 949	interactions
+T47	Chemical 976 990	water molecule
+T48	Protein_part 1004 1014	main chain
+T49	Chemical 1028 1031	C=O
+T50	Protein_part 1035 1045	residue 64
+T51	Parameter 1051 1055	rate
+T52	Chemical 1059 1064	azide
+T53	Chemical 1081 1087	ferric
+T54	Protein_part 1100 1105	Thr68
+T55	Molecule 1106 1112	mutant
+T56	Value 1117 1124	60-fold
+T57	Protein 1149 1166	wild-type protein
+T58	Process 1197 1210	stabilization
+T59	Chemical 1230 1244	water molecule
+T60	Chemical 1261 1263	O2
+T61	Chemical 1287 1294	ferrous
+T62	Protein 1307 1321	mutant protein
+T63	Value 1336 1343	17-fold
+T64	Chemical 1360 1362	O2
+T65	Parameter 1363 1371	affinity
+T66	Process 1381 1392	consequence
+T67	Chemical 1400 1408	hydrogen
+T68	Process 1417 1428	interaction
+T69	Protein_part 1446 1459	Thr68 beta-OH
+T70	Molecular_Part 1460 1465	group
+T71	Chemical 1474 1489	carbonyl oxygen
+T72	Protein_part 1493 1503	residue 64
+T73	Process 1513 1524	association
+T74	Parameter 1525 1539	rate constants
+T75	Chemical 1544 1546	O2
+T76	Chemical 1548 1550	NO
+T77	Chemical 1556 1572	alkyl isocyanide
+T78	Chemical 1584 1591	ferrous
+T79	Organism 1592 1595	pig
+T80	Protein 1596 1605	myoglobin
+T81	Value 1611 1620	3-10-fold
+T82	Protein 1658 1675	wild-type protein
+T83	Unknown 1694 1696	CO
+T84	Process 1697 1704	binding

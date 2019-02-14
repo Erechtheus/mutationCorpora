@@ -1,0 +1,83 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 15	structure
+T3	Chemical 19 45	4,4'-dihydroxybenzophenone
+T4	Chemical 56 62	sterol
+T5	Category 63 72	substrate
+T6	Protein_part 80 91	active site
+T7	Protein 95 121	sterol 14alpha-demethylase
+T8	Protein 123 128	CYP51
+T9	Process 155 167	biosynthesis
+T10	Body_part 171 179	membrane
+T11	Chemical 180 187	sterols
+T12	Chemical 192 208	steroid hormones
+T13	Process 217 234	oxidative removal
+T14	Chemical 242 256	14alpha-methyl
+T15	Molecular_Part 257 262	group
+T16	Chemical 268 285	sterol precursors
+T17	Protein 289 315	sterol 14alpha-demethylase
+T18	Protein 317 322	CYP51
+T19	Protein 330 336	enzyme
+T20	Process 350 356	target
+T21	Process 360 369	treatment
+T22	Organism 374 380	fungal
+T23	Physiology 381 391	infections
+T24	Organism 395 404	organisms
+T25	Organism 418 424	humans
+T26	Organism 428 434	plants
+T27	Process 440 451	development
+T28	Protein 482 487	CYP51
+T29	Category 488 498	inhibitors
+T30	Category 586 595	substrate
+T31	Category 600 609	inhibitor
+T32	Process 610 621	recognition
+T33	Protein 625 630	CYP51
+T34	Parameter 657 667	resolution
+T35	Value 671 676	1.95A
+T36	Unknown 682 691	structure
+T37	Unknown 695 744	CYP51 from Mycobacterium tuberculosis (CYP51(Mt))
+T38	Chemical 766 799	4,4'-dihydroxybenzophenone (DHBP)
+T39	Molecule 817 825	molecule
+T40	Unknown 858 864	type I
+T41	Unknown 908 917	CYP51(Mt)
+T42	Protein 940 954	CYP51(Mt)-DHBP
+T43	Geometrical_part 955 964	structure
+T44	Geometrical_part 1013 1021	template
+T45	Protein 1056 1069	CYP51 enzymes
+T46	Organism 1075 1081	fungal
+T47	Organism 1087 1108	prokaryotic pathogens
+T48	Unknown 1114 1123	structure
+T49	Process 1141 1150	induction
+T50	State 1154 1168	conformational
+T51	Protein 1189 1196	protein
+T52	Protein_part 1197 1204	regions
+T53	Process 1213 1225	interactions
+T54	Protein_part 1239 1245	Phe-89
+T55	Organism 1265 1271	fungal
+T56	Chemical 1272 1276	drug
+T57	Parameter 1277 1287	resistance
+T58	Process 1292 1310	catalytic function
+T59	Chemical 1363 1380	CYP51(Mt)-estriol
+T60	Category 1381 1388	complex
+T61	Protein 1390 1394	DHBP
+T62	Chemical 1408 1429	benzophenone scaffold
+T63	Process 1430 1437	binding
+T64	Protein_part 1445 1462	CYP51 active site
+T65	Unknown 1469 1475	type I
+T66	Process 1476 1485	mechanism
+T67	Molecule 1526 1531	CYP51
+T68	Category 1532 1542	inhibitors
+T69	Protein_part 1562 1569	regions
+T70	Process 1591 1609	catalytic function
+T71	Organism 1614 1623	bacterial
+T72	Protein 1625 1638	CYP51 enzymes
+T73	Parameter 1652 1661	potential
+T74	Chemical 1666 1686	hydroxybenzophenones
+T75	Unknown 1714 1725	environment
+T76	Chemical 1745 1751	sterol
+T77	Process 1752 1764	biosynthesis
+T78	Process 1787 1797	inhibition
+T79	Organism 1801 1816	M. tuberculosis
+T80	Process 1817 1823	growth
+T81	Protein 1827 1831	DHBP
+T82	Organism 1837 1842	mouse
+T83	Body_part 1843 1853	macrophage

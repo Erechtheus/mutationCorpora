@@ -1,0 +1,38 @@
+T1	Chemical 13 94	S-[5-amino-1-(4-fluorophenyl)-1H-pyrazol-4-yl]-[3-(2,3-dihydroxypropoxy)phenyl]me
+T2	Unknown 104 113	RO3201195
+T3	Category 160 169	inhibitor
+T4	Protein 173 187	p38 MAP kinase
+T5	Category 223 233	inhibitors
+T6	Protein 237 251	p38 MAP kinase
+T7	Process 288 297	screening
+T8	Process 303 312	synthesis
+T9	Process 317 329	optimization
+T10	Chemical 345 396	5-amino-N-phenyl-1H-pyrazol-4-yl-3-phenylmethanones
+T11	Technique 414 437	X-ray crystal structure
+T12	Chemical 466 469	ATP
+T13	Process 470 477	binding
+T14	Geometrical_part 478 484	pocket
+T15	Protein 488 513	unphosphorylated p38alpha
+T16	Process 530 538	presence
+T17	Chemical 551 564	hydrogen bond
+T18	Chemical 587 592	amine
+T19	Category 600 609	inhibitor
+T20	Protein_part 614 627	threonine 106
+T21	Parameter 660 671	selectivity
+T22	Protein 676 679	p38
+T23	Technique 685 701	crystallographic
+T24	Parameter 767 777	properties
+T25	Process 797 810	incorporation
+T26	Chemical 818 838	2,3-dihydroxypropoxy
+T27	Molecular_Part 839 845	moiety
+T28	Chemical 853 870	pyrazole scaffold
+T29	Chemical 885 893	compound
+T30	Chemical 909 913	drug
+T31	Parameter 919 929	properties
+T32	Body_part 945 949	oral
+T33	Parameter 950 965	bioavailability
+T34	Unknown 996 1005	RO3201195
+T35	Category 1054 1063	inhibitor
+T36	Protein 1067 1070	p38
+T37	Process 1094 1105	advancement
+T38	Technique 1111 1134	Phase I clinical trials

@@ -1,0 +1,65 @@
+T1	Process 0 7	Binding
+T2	Chemical 23 37	3'-nucleotides
+T3	Protein 41 55	ribonuclease A
+T4	Chemical 57 104	2'-Fluoro-2'-deoxyuridine 3'-phosphate (dU(F)MP
+T5	Chemical 110 137	arabinouridine 3'-phosphate
+T6	Chemical 140 146	araUMP
+T7	Chemical 165 179	furanose rings
+T8	Chemical 181 188	dU(F)MP
+T9	Chemical 193 199	araUMP
+T10	Chemical 217 225	chemical
+T11	Process 226 235	synthesis
+T12	Value 264 280	sevenfold higher
+T13	Parameter 281 289	affinity
+T14	Chemical 295 315	uridine 3'-phosphate
+T15	Chemical 317 323	3'-UMP
+T16	Chemical 328 363	2'-deoxyuridine 3'-phosphate (dUMP)
+T17	Protein 368 392	ribonuclease A (RNase A)
+T18	Process 400 411	differences
+T19	Chemical 446 456	phosphoryl
+T20	Molecular_Part 457 463	groups
+T21	Chemical 467 473	3'-UMP
+T22	Chemical 475 482	dU(F)MP
+T23	Chemical 488 494	araUMP
+T24	Parameter 496 498	pK
+T25	Value 504 507	5.9
+T26	Chemical 541 545	dUMP
+T27	Parameter 547 549	pK
+T28	Value 555 558	6.3
+T29	Geometrical_part 565 593	three-dimensional structures
+T30	Category 613 622	complexes
+T31	Protein 626 633	RNase A
+T32	Chemical 639 643	dUMP
+T33	Chemical 645 652	dU(F)MP
+T34	Chemical 657 663	araUMP
+T35	Value 683 690	< 1.7 A
+T36	Parameter 691 701	resolution
+T37	Technique 705 731	X-ray diffraction analysis
+T38	Unknown 748 758	structures
+T39	Chemical 765 771	uracil
+T40	Chemical 788 798	phosphoryl
+T41	Molecular_Part 799 805	groups
+T42	Protein 818 824	enzyme
+T43	Chemical 864 870	3'-UMP
+T44	Chemical 875 882	dU(F)MP
+T45	Chemical 884 888	dUMP
+T46	Chemical 893 899	araUMP
+T47	Chemical 916 930	furanose rings
+T48	Protein 963 977	RNase A.araUMP
+T49	Category 978 985	complex
+T50	Chemical 991 1002	2'-hydroxyl
+T51	Molecular_Part 1003 1008	group
+T52	Chemical 1027 1034	solvent
+T53	Chemical 1045 1059	3'-nucleotides
+T54	Protein 1081 1098	wild-type RNase A
+T55	Unknown 1111 1123	T45G variant
+T56	Protein_part 1141 1148	residue
+T57	Chemical 1186 1192	uracil
+T58	Process 1252 1263	interaction
+T59	Protein 1267 1274	RNase A
+T60	Chemical 1279 1293	3'-nucleotides
+T61	Chemical 1325 1339	furanose rings
+T62	Process 1357 1362	basis
+T63	Category 1379 1389	inhibitors
+T64	Process 1393 1402	catalysis
+T65	Protein 1406 1413	RNase A

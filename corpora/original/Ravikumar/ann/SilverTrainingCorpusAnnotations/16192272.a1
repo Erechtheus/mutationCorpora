@@ -1,0 +1,55 @@
+T1	Chemical 0 19	Solution structures
+T2	Protein 54 63	reductase
+T3	Organism 69 86	Bacillus subtilis
+T4	State 99 113	conformational
+T5	Process 114 120	switch
+T6	Process 146 155	reduction
+T7	Protein 166 175	reductase
+T8	Protein 203 212	arsC gene
+T9	Organism 216 233	Bacillus subtilis
+T10	Location 248 261	intracellular
+T11	Process 262 271	reduction
+T12	Chemical 287 295	arsenite
+T13	Body_part 325 330	cells
+T14	Process 365 374	transport
+T15	Unknown 375 381	system
+T16	Chemical 406 425	solution structures
+T17	Protein 500 509	reductase
+T18	Organism 515 526	B. subtilis
+T19	Unknown 540 550	structures
+T20	Organism 590 596	bovine
+T21	Protein 601 646	molecular weight protein-tyrosine phosphatase
+T22	Protein 660 669	reductase
+T23	Organism 675 696	Staphylococcus aureus
+T24	Geometrical_part 731 749	tertiary structure
+T25	Organism 827 838	B. subtilis
+T26	Protein 848 857	reductase
+T27	Protein_part 879 892	P-loop region
+T28	Protein_part 901 924	segment Cys(82)-Cys(89)
+T29	State 978 990	reduced form
+T30	Protein 1003 1012	reductase
+T31	State 1035 1049	conformational
+T32	Process 1050 1057	changes
+T33	Protein 1076 1082	P-loop
+T34	Protein_part 1087 1102	Cys(82)-Cys(89)
+T35	Process 1129 1138	formation
+T36	Molecule 1151 1164	intermediates
+T37	Process 1180 1189	reduction
+T38	State 1210 1223	oxidized form
+T39	Protein_part 1225 1240	Cys(82)-Cys(89)
+T40	Parameter 1326 1330	time
+T41	Process 1364 1373	reduction
+T42	Protein 1390 1396	enzyme
+T43	Chemical 1400 1411	thioredoxin
+T44	Protein 1438 1444	enzyme
+T45	Location 1459 1467	internal
+T46	Geometrical_part 1488 1498	structures
+T47	Protein 1506 1512	enzyme
+T48	Process 1539 1558	molecular mechanism
+T49	Process 1571 1580	reduction
+T50	State 1608 1622	conformational
+T51	Process 1623 1629	switch
+T52	Process 1634 1641	changes
+T53	Location 1645 1653	internal
+T54	Process 1654 1661	motions
+T55	Process 1682 1700	catalytic reaction

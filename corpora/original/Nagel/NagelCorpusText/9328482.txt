@@ -1,0 +1,11 @@
+Non-syndromic recessive deafness (NSRD) is the most common form of prelingual hereditary hearing loss . 
+To date, 10 autosomal NSRD loci (DFNBs) have been identified by genetic mapping; at least three times as many additional loci are expected to be identified . 
+We have performed linkage analyses in two inter-related inbred kindreds, comprised of &gt;50 affecteds, from a single Israeli-Arab village segregating NSRD . 
+Genetic mapping by two-point and multi-point linkage analysis in 10 candidate regions identified the segregating gene to be on human chromosome 13q11 (DFNB1) . 
+Haplotype analysis, using eight microsatellite markers spanning 15 cM in 13q11, suggested the segregation of two different mutations in this kindred: affected individuals were homozygotes for either haplotype or compound heterozygotes . 
+The gene for the connexin 26 gap junction protein, recently shown to be mutant in both dominant and recessive deafness, maps to this locus . 
+We identified two distinct mutations, W77R and Gdel35, both of which likely inactivate connexin 26 . 
+The Gdel35 change likely occurs at a mutational hotspot within the connexin 26 gene . 
+The recombination of marker alleles at the polymorphisms studied in 13q11, at known map distances from the mutations, allowed us to estimate the age of the mutations to be 3-5 generations (75-125 years) . 
+This study independently confirms the identity of connexin 26 as an NSRD gene . 
+Importantly, we demonstrate that in small populations with high rates of consanguinity, as compared with large outbred populations, recessive mutations may have very recent origin and show allelic diversity . 

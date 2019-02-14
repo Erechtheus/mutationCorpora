@@ -1,0 +1,92 @@
+T1	Process 0 10	Comparison
+T2	Geometrical_part 14 32	crystal structures
+T3	Organism 36 41	human
+T4	Protein 42 84	type 3 3alpha-hydroxysteroid dehydrogenase
+T5	Process 110 119	mechanism
+T6	Protein_part 136 147	basic motif
+T7	Process 164 171	binding
+T8	Chemical 175 183	androgen
+T9	Protein 189 214	aldo-keto reductase (AKR)
+T10	Organism 215 220	human
+T11	Protein 221 263	type 3 3alpha-hydroxysteroid dehydrogenase
+T12	Protein 265 277	h3alpha-HSD3
+T13	Protein 279 285	AKR1C2
+T14	Process 303 307	role
+T15	Process 315 325	regulation
+T16	Location 333 346	intracellular
+T17	Parameter 347 361	concentrations
+T18	Chemical 365 377	testosterone
+T19	Chemical 382 421	5alpha-dihydrotestosterone (5alpha-DHT)
+T20	Chemical 427 435	steroids
+T21	Process 459 467	etiology
+T22	Process 476 487	progression
+T23	Body_part 496 504	prostate
+T24	Physiology 505 513	diseases
+T25	Physiology 518 524	cancer
+T26	Protein 531 537	enzyme
+T27	Process 567 576	different
+T28	Molecule 577 586	molecules
+T29	Chemical 595 611	4-hydroxynonenal
+T30	Chemical 624 645	aromatic hydrocarbons
+T31	Process 679 688	mechanism
+T32	Process 704 714	plasticity
+T33	Category 722 731	substrate
+T34	Protein_part 740 744	site
+T35	Geometrical_part 775 784	structure
+T36	Chemical 788 808	h3alpha-HSD3-NADP(H)
+T37	Value 812 817	1.9 A
+T38	Parameter 818 828	resolution
+T39	Process 841 851	refinement
+T40	Process 852 859	process
+T41	Chemical 870 877	acetate
+T42	Chemical 882 899	citrate molecules
+T43	Chemical 923 930	steroid
+T44	Body_part 939 945	cavity
+T45	Process 947 962	Superimposition
+T46	Unknown 971 980	structure
+T47	Chemical 990 1031	h3alpha-HSD3-NADP(H)-testosterone/acetate
+T48	Geometrical_part 1048 1057	structure
+T49	Geometrical_part 1090 1095	loops
+T50	Process 1108 1115	binding
+T51	Body_part 1116 1122	cavity
+T52	Process 1141 1152	contraction
+T53	Process 1154 1162	movement
+T54	Chemical 1175 1191	citrate molecule
+T55	Protein_part 1202 1213	side chains
+T56	Protein_part 1222 1230	residues
+T57	State 1248 1262	conformational
+T58	Process 1263 1270	changes
+T59	Process 1302 1309	binding
+T60	Protein_part 1310 1314	site
+T61	Chemical 1323 1330	citrate
+T62	Process 1349 1356	changes
+T63	Process 1383 1392	reduction
+T64	Category 1400 1409	substrate
+T65	Body_part 1418 1424	cavity
+T66	Parameter 1425 1431	volume
+T67	Value 1438 1446	776 A(3)
+T68	Process 1454 1462	presence
+T69	Chemical 1466 1486	testosterone/acetate
+T70	Value 1490 1498	704 A(3)
+T71	Chemical 1506 1521	acetate/citrate
+T72	Category 1522 1529	complex
+T73	Process 1569 1578	mechanism
+T74	Chemical 1607 1613	aldose
+T75	Protein 1614 1623	reductase
+T76	Unknown 1633 1639	member
+T77	Protein 1647 1662	AKR superfamily
+T78	Process 1687 1698	replacement
+T79	Protein_part 1702 1719	residues Arg(301)
+T80	Protein_part 1724 1732	Arg(304)
+T81	Chemical 1753 1760	steroid
+T82	Body_part 1769 1775	cavity
+T83	Unknown 1803 1813	3alpha-HSD
+T84	Parameter 1814 1822	activity
+T85	Protein 1831 1837	enzyme
+T86	Chemical 1845 1855	5alpha-DHT
+T87	Unknown 1885 1895	17beta-HSD
+T88	Parameter 1896 1904	activity
+T89	Chemical 1908 1915	4-dione
+T90	Process 1973 1980	binding
+T91	Protein 1994 2000	enzyme
+T92	Chemical 2005 2014	androgens

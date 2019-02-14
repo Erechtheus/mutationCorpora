@@ -1,0 +1,76 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 25 29	CREG
+T3	Protein 42 54	glycoprotein
+T4	Body_part 67 75	cellular
+T5	Process 76 82	growth
+T6	Process 87 102	differentiation
+T7	Molecule 108 157	cellular repressor of E1A-stimulated genes (CREG)
+T8	Protein 172 184	glycoprotein
+T9	Process 200 213	proliferation
+T10	Process 227 242	differentiation
+T11	Organism 246 251	human
+T12	Body_part 252 277	embryonal carcinoma cells
+T13	Molecule 279 283	CREG
+T14	Chemical 297 303	cation
+T15	Protein 418 426	receptor
+T16	Molecule 461 465	CREG
+T17	Process 474 480	growth
+T18	Process 481 492	suppression
+T19	Molecule 515 519	CREG
+T20	Process 520 528	function
+T21	Body_part 532 540	cellular
+T22	Process 541 547	growth
+T23	Process 552 567	differentiation
+T24	Unknown 583 603	3D crystal structure
+T25	Protein 612 619	protein
+T26	Value 623 628	1.9-A
+T27	Parameter 629 639	resolution
+T28	Molecule 641 645	CREG
+T29	Category 661 680	homodimeric complex
+T30	Protein 686 699	CREG monomers
+T31	Protein_part 710 726	beta-barrel fold
+T32	Process 748 761	glycosylation
+T33	Protein_part 762 767	sites
+T34	Molecule 771 775	CREG
+T35	Technique 794 799	patch
+T36	Protein 813 818	dimer
+T37	Process 837 849	dimerization
+T38	Chemical 853 870	glycosylated CREG
+T39	Category 898 904	ligand
+T40	Protein 913 922	M6P/IGF2R
+T41	Protein 951 959	homologs
+T42	Molecule 963 967	CREG
+T43	Unknown 972 975	FMN
+T44	Geometrical_part 997 1001	fold
+T45	Protein 1002 1010	proteins
+T46	Chemical 1021 1042	flavin mononucleotide
+T47	Unknown 1048 1057	structure
+T48	Chemical 1073 1103	putative flavin mononucleotide
+T49	Geometrical_part 1112 1118	pocket
+T50	Molecule 1122 1126	CREG
+T51	Geometrical_part 1154 1158	loop
+T52	Protein_part 1181 1189	residues
+T53	Molecule 1193 1199	mutant
+T54	Molecule 1203 1207	CREG
+T55	Geometrical_part 1218 1222	part
+T56	Geometrical_part 1231 1235	loop
+T57	Unknown 1255 1264	structure
+T58	Process 1269 1281	dimerization
+T59	Protein 1294 1303	M6P/IGF2R
+T60	Process 1304 1311	binding
+T61	Process 1326 1332	growth
+T62	Process 1333 1344	suppression
+T63	Parameter 1345 1353	activity
+T64	Molecule 1357 1364	WT CREG
+T65	Technique 1372 1380	analysis
+T66	Unknown 1386 1395	structure
+T67	Molecule 1402 1408	mutant
+T68	Molecule 1412 1416	CREG
+T69	Process 1431 1438	binding
+T70	Protein 1442 1451	M6P/IGF2R
+T71	Molecule 1492 1496	CREG
+T72	Process 1505 1511	growth
+T73	Process 1512 1523	suppression
+T74	Molecule 1554 1558	CREG
+T75	Geometrical_part 1576 1580	fold
+T76	Process 1610 1618	function

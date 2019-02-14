@@ -1,0 +1,43 @@
+T1	Process 0 7	Effects
+T2	Chemical 22 34	salt bridges
+T3	State 42 51	stability
+T4	Protein 55 70	subtilisin BPN'
+T5	Unknown 72 80	Variants
+T6	Unknown 96 103	PROTEUS
+T7	Chemical 161 173	salt bridges
+T8	Protein 179 194	subtilisin BPN'
+T9	Molecule 204 211	mutants
+T10	Technique 227 252	site-directed mutagenesis
+T11	Organism 270 287	Bacillus subtilis
+T12	Protein_part 296 300	L75K
+T13	Protein_part 302 306	Q19E
+T14	Unknown 331 338	variant
+T15	Unknown 360 367	variant
+T16	Unknown 369 379	Q19E/Q271E
+T17	Chemical 411 422	salt bridge
+T18	Technique 432 455	X-ray crystal structure
+T19	Process 509 521	measurements
+T20	Molecule 536 549	double mutant
+T21	State 645 654	stability
+T22	Value 661 669	two-fold
+T23	Unknown 714 722	variants
+T24	Unknown 724 728	A98K
+T25	Unknown 730 734	S89E
+T26	Unknown 736 740	V26R
+T27	Unknown 745 750	L235R
+T28	State 802 819	thermal stability
+T29	Unknown 842 852	structures
+T30	Chemical 874 885	salt bridge
+T31	Process 886 895	formation
+T32	Unknown 897 911	Variants Q271E
+T33	Protein_part 913 917	V51K
+T34	Protein_part 922 927	T164R
+T35	Unknown 935 945	structures
+T36	Technique 1025 1033	computer
+T37	Technique 1043 1051	analysis
+T38	Unknown 1059 1066	PROTEUS
+T39	Process 1067 1078	predictions
+T40	Chemical 1114 1125	salt bridge
+T41	Process 1126 1135	formation
+T42	Geometrical_part 1228 1236	geometry
+T43	Process 1253 1265	interactions

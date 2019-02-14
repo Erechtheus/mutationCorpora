@@ -1,0 +1,82 @@
+T1	Technique 0 16	Crystallographic
+T2	Unknown 17 26	structure
+T3	Physiology 32 52	rheumatoid arthritis
+T4	Unknown 53 56	MHC
+T5	Process 57 71	susceptibility
+T6	Protein 72 78	allele
+T7	Protein 80 99	HLA-DR1 (DRB1*0101)
+T8	Organism 150 155	human
+T9	Protein 156 173	type  II collagen
+T10	Process 179 189	expression
+T11	Protein 193 212	HLA-DR1 (DRB1*0101)
+T12	Process 244 248	risk
+T13	Physiology 264 289	rheumatoid arthritis (RA)
+T14	Process 304 312	function
+T15	Geometrical_part 333 360	three-dimensional structure
+T16	Protein 364 371	HLA-DR1
+T17	Physiology 399 401	RA
+T18	Protein 402 413	autoantigen
+T19	Organism 419 429	human type
+T20	Protein_part 430 453	II collagen peptide CII
+T21	Protein_part 501 512	CII peptide
+T22	Protein_part 528 534	Phe263
+T23	Protein_part 542 544	P1
+T24	Protein_part 558 564	Glu266
+T25	Protein_part 568 570	P4
+T26	Protein_part 590 593	Lys
+T27	Protein_part 601 603	P2
+T28	Process 636 640	role
+T29	Protein_part 661 668	peptide
+T30	Process 669 676	binding
+T31	Process 681 693	interactions
+T32	Unknown 699 709	DRB1-His81
+T33	Protein_part 714 719	Asn82
+T34	Unknown 726 729	TCR
+T35	Process 730 741	interaction
+T36	Technique 763 769	assays
+T37	Protein_part 775 786	CII peptide
+T38	Protein_part 812 829	P4 Glu266 residue
+T39	Process 847 858	interaction
+T40	Protein_part 864 874	DRB1-Arg71
+T41	Protein_part 879 884	Glu28
+T42	Process 886 899	Participation
+T43	Unknown 903 913	DRB1-Arg71
+T44	Geometrical_part 943 947	part
+T45	Protein 962 969	epitope
+T46	Protein 986 993	alleles
+T47	Physiology 1010 1012	RA
+T48	Process 1013 1027	susceptibility
+T49	Parameter 1029 1038	Potential
+T50	Geometrical_part 1039 1045	anchor
+T51	Protein_part 1046 1054	residues
+T52	Protein_part 1058 1060	P6
+T53	Protein_part 1065 1067	P9
+T54	Protein_part 1075 1086	CII peptide
+T55	Protein_part 1096 1099	Gly
+T56	Process 1109 1113	lack
+T57	Protein_part 1117 1128	side chains
+T58	Process 1185 1192	binding
+T59	Geometrical_part 1193 1199	groove
+T60	Protein_part 1209 1216	peptide
+T61	Geometrical_part 1239 1245	groove
+T62	Geometrical_part 1254 1257	end
+T63	Molecule 1265 1277	DR1 molecule
+T64	Protein_part 1288 1291	TCR
+T65	Protein_part 1309 1318	P2-Lys264
+T66	Protein_part 1320 1329	P5-Arg267
+T67	Protein_part 1335 1353	P8-Lys270 residues
+T68	Process 1385 1392	binding
+T69	Geometrical_part 1393 1399	groove
+T70	Protein_part 1460 1463	CII
+T71	Unknown 1473 1476	TCR
+T72	Process 1477 1484	binding
+T73	Process 1486 1496	Comparison
+T74	Protein 1504 1511	DR1-CII
+T75	Geometrical_part 1512 1521	structure
+T76	Protein_part 1527 1562	DR1-hemagglutinin peptide structure
+T77	Process 1581 1588	binding
+T78	Protein_part 1602 1610	peptides
+T79	Process 1635 1644	different
+T80	Process 1664 1675	interaction
+T81	Chemical 1698 1700	Ag
+T82	Unknown 1710 1714	TCRs

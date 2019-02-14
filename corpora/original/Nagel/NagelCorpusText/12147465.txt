@@ -1,0 +1,11 @@
+Haloalkane dehalogenases are microbial enzymes that catalyze cleavage of the carbon-halogen bond by a hydrolytic mechanism . 
+Until recently, these enzymes have been isolated only from bacteria living in contaminated environments . 
+In this report we describe cloning of the dehalogenase gene dhmA from Mycobacterium avium subsp. avium N85 isolated from swine mesenteric lymph nodes . 
+The dhmA gene has a G+C content of 68.21% and codes for a polypeptide that is 301 amino acids long and has a calculated molecular mass of 34.7 kDa . 
+The molecular masses of DhmA determined by sodium dodecyl sulfate-polyacrylamide gel electrophoresis and by gel permeation chromatography are 34.0 and 35.4 kDa, respectively . 
+Many residues essential for the dehalogenation reaction are conserved in DhmA; the putative catalytic triad consists of Asp123, His279, and Asp250, and the putative oxyanion hole consists of Glu55 and Trp124 . 
+Trp124 should be involved in substrate binding and product (halide) stabilization, while the second halide-stabilizing residue cannot be identified from a comparison of the DhmA sequence with the sequences of three dehalogenases with known tertiary structures . 
+The haloalkane dehalogenase DhmA shows broad substrate specificity and good activity with the priority pollutant 1,2-dichloroethane . 
+DhmA is significantly less stable than other currently known haloalkane dehalogenases . 
+This study confirms that a hydrolytic dehalogenase is present in the facultative pathogen M. avium . 
+The presence of dehalogenase-like genes in the genomes of other mycobacteria, including the obligate pathogens Mycobacterium tuberculosis and Mycobacterium bovis, as well as in other bacterial species, including Mesorhizobium loti, Xylella fastidiosa, Photobacterium profundum, and Caulobacter crescentus, led us to speculate that haloalkane dehalogenases have some other function besides catalysis of hydrolytic dehalogenation of halogenated substances . 

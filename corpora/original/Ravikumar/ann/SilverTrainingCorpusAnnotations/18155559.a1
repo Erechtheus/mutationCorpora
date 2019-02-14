@@ -1,0 +1,67 @@
+T1	Chemical 0 5	Water
+T2	Chemical 15 34	protein-fluorophore
+T3	Process 35 47	interactions
+T4	Parameter 61 69	affinity
+T5	Chemical 76 94	ABC-ATPase/TNP-ADP
+T6	Category 95 102	complex
+T7	Unknown 104 107	TNP
+T8	Chemical 117 128	nucleotides
+T9	Chemical 165 183	protein-nucleotide
+T10	Process 184 196	interactions
+T11	Protein 213 224	ABC-ATPases
+T12	Process 226 237	application
+T13	Technique 256 261	tools
+T14	Value 315 321	higher
+T15	Parameter 322 330	affinity
+T16	Chemical 338 352	TNP-nucleotide
+T17	Protein 375 385	ABC-ATPase
+T18	Process 389 399	comparison
+T19	Chemical 420 431	nucleotides
+T20	Process 461 468	changes
+T21	Process 484 491	binding
+T22	Chemical 499 513	TNP-nucleotide
+T23	Protein 520 530	ABC-ATPase
+T24	Geometrical_part 555 572	crystal structure
+T25	Chemical 581 597	TNP-ADP/HlyB-NBD
+T26	Category 598 605	complex
+T27	Value 609 613	1.6A
+T28	Parameter 614 624	resolution
+T29	Value 638 644	higher
+T30	Parameter 645 653	affinity
+T31	Chemical 657 664	TNP-ADP
+T32	Protein 676 695	fluorophore-protein
+T33	Process 696 708	interactions
+T34	Chemical 744 749	water
+T35	Process 759 771	interactions
+T36	Unknown 798 801	TNP
+T37	Molecular_Part 802 808	moiety
+T38	Protein_part 813 821	Tyr(477)
+T39	Chemical 866 878	adenine ring
+T40	Protein_part 900 915	serine residues
+T41	Protein_part 917 920	Ser
+T42	Protein_part 930 938	Ser(509)
+T43	Protein_part 947 961	Walker A motif
+T44	Protein_part 982 993	side chains
+T45	Protein_part 1007 1022	serine residues
+T46	State 1035 1048	conformations
+T47	Chemical 1092 1105	ADP structure
+T48	Geometrical_part 1124 1141	crystal structure
+T49	Protein_part 1149 1161	S504A mutant
+T50	Chemical 1175 1182	TNP-ADP
+T51	Parameter 1196 1204	affinity
+T52	Protein 1212 1228	wild type enzyme
+T53	Chemical 1238 1247	TNP-water
+T54	Process 1248 1259	interaction
+T55	Protein_part 1288 1294	serine
+T56	Protein_part 1295 1305	side chain
+T57	Chemical 1318 1332	water molecule
+T58	Protein 1355 1371	wild type enzyme
+T59	Chemical 1405 1410	water
+T60	Process 1420 1432	interactions
+T61	Parameter 1484 1492	affinity
+T62	Chemical 1496 1511	TNP-nucleotides
+T63	Protein 1520 1531	ABC-ATPases
+T64	Process 1599 1606	docking
+T65	Chemical 1677 1681	ADP-
+T66	Unknown 1685 1696	ATP-analogs
+T67	Protein 1701 1712	ABC-ATPases

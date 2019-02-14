@@ -1,0 +1,68 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Category 25 32	complex
+T3	Protein 50 74	group I phospholipase A2
+T4	Chemical 102 112	fatty acid
+T5	Value 116 121	2.7 A
+T6	Parameter 122 132	resolution
+T7	Chemical 182 192	fatty acid
+T8	Protein 198 224	group I Phospholipase A(2)
+T9	Protein 226 232	PLA(2)
+T10	Protein 248 254	PLA(2)
+T11	Protein_part 260 266	Asp 49
+T12	Chemical 272 282	fatty acid
+T13	Chemical 297 315	n-tridecanoic acid
+T14	Category 335 344	substrate
+T15	Protein_part 345 361	recognition site
+T16	Protein 365 391	PLA(2) hydrophobic channel
+T17	Category 397 404	complex
+T18	Chemical 427 432	venom
+T19	Organism 436 454	Bungarus caeruleus
+T20	Organism 463 475	Indian Krait
+T21	Protein_part 482 498	primary sequence
+T22	Protein 506 512	PLA(2)
+T23	Molecule 538 542	cDNA
+T24	Geometrical_part 551 578	Three-dimensional structure
+T25	Process 603 624	molecular replacement
+T26	Body_part 654 657	CNS
+T27	Parameter 677 685	R factor
+T28	Value 689 694	19.8%
+T29	Parameter 715 731	resolution range
+T30	Value 737 741	20.0
+T31	Value 745 750	2.7 A
+T32	Chemical 796 809	protein atoms
+T33	Chemical 815 825	sodium ion
+T34	Molecule 831 839	molecule
+T35	Chemical 843 861	n-tridecanoic acid
+T36	Chemical 870 885	water molecules
+T37	Chemical 891 901	sodium ion
+T38	Chemical 920 927	calcium
+T39	Geometrical_part 936 940	loop
+T40	Geometrical_part 948 970	sevenfold coordination
+T41	Molecule 995 1003	electron
+T42	Parameter 1004 1011	density
+T43	Protein 1032 1051	hydrophobic channel
+T44	Protein 1059 1065	enzyme
+T45	Molecule 1080 1088	molecule
+T46	Chemical 1092 1110	n-tridecanoic acid
+T47	Technique 1135 1144	MALDI-TOF
+T48	Process 1145 1157	measurements
+T49	Unknown 1165 1173	crystals
+T50	Process 1199 1207	increase
+T51	Parameter 1215 1229	molecular mass
+T52	Protein 1233 1239	PLA(2)
+T53	Value 1243 1249	212 Da
+T54	Protein 1266 1272	PLA(2)
+T55	Geometrical_part 1276 1286	major part
+T56	Category 1294 1300	ligand
+T57	Physiology 1301 1305	fits
+T58	Process 1319 1326	binding
+T59	Geometrical_part 1327 1333	pocket
+T60	Protein_part 1362 1368	His 48
+T61	Protein_part 1373 1379	Asp 49
+T62	Unknown 1402 1411	structure
+T63	Protein 1415 1421	PLA(2)
+T64	Category 1437 1444	complex
+T65	Geometrical_part 1463 1479	native structure
+T66	Process 1530 1537	folding
+T67	Chemical 1545 1552	calcium
+T68	Geometrical_part 1561 1565	loop

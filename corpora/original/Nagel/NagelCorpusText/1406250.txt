@@ -1,0 +1,7 @@
+Arginine auxotrophs of the dinitrogen-fixing cyanobacterium Anabaena species strain PCC 7120 were isolated after ultraviolet light mutagenesis and penicillin enrichment . 
+Two of these auxotrophs were complemented by a cosmid gene library of the wild-type strain established in Escherichia coli that was transferred en masse to the mutants by conjugation . 
+The gene complementing one of those mutants was found to complement an E. coli argC mutant . 
+Sequencing analysis of the gene showed that it encodes a 322-residue polypeptide that is homologous to the ArgC protein of E. coli, Bacillus subtilis and Streptomyces clavuligerus and to the C-terminal moiety of the Saccharomyces cerevisiae ARG5,6 gene product, N-acetylglutamate semialdehyde dehydrogenase . 
+A cysteine residue present in a highly conserved domain in the five proteins is probably located in the active site of the enzyme . 
+Conserved among the ArgC proteins, sequences resembling the primary structure of nucleotide-binding domains are also found . 
+Downstream of the Anabaena argC gene seven nearly perfect repeats of a heptanucleotide (consensus sequence:5'-CTAATGA-3') are found . 

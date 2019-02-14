@@ -1,0 +1,72 @@
+T1	Unknown 0 9	Structure
+T2	Process 14 22	function
+T3	Protein_part 31 38	domains
+T4	Protein 42 46	ArnA
+T5	Protein 55 77	function decarboxylase
+T6	Protein 84 101	formyltransferase
+T7	Chemical 115 142	4-amino-4-deoxy-L-arabinose
+T8	Process 143 155	biosynthesis
+T9	Process 157 169	Modification
+T10	Chemical 177 184	lipid A
+T11	Molecular_Part 185 191	moiety
+T12	Chemical 195 213	lipopolysaccharide
+T13	Process 221 229	addition
+T14	Chemical 237 280	sugar 4-amino-4-deoxy-L-arabinose (L-Ara4N)
+T15	Physiology 306 316	pathogenic
+T16	Organism 317 339	Gram-negative bacteria
+T17	Protein_part 349 358	cationic 
+T18	Organism 358 371	antimicrobial
+T19	Body_part 404 417	immune system
+T20	Chemical 419 426	L-Ara4N
+T21	Process 427 439	biosynthesis
+T22	Parameter 455 464	potential
+T23	Process 480 486	target
+T24	Process 511 520	synthesis
+T25	Organism 542 551	pathogens
+T26	Body_part 574 587	immune system
+T27	Protein 606 617	enzyme ArnA
+T28	Chemical 641 648	L-Ara4N
+T29	Process 649 661	biosynthesis
+T30	Chemical 677 683	NAD(+)
+T31	Process 694 719	oxidative decarboxylation
+T32	Chemical 723 742	UDP-glucuronic acid
+T33	Chemical 757 782	UDP-4'-keto-pentose sugar
+T34	Process 802 810	transfer
+T35	Chemical 816 822	formyl
+T36	Molecular_Part 823 828	group
+T37	Chemical 834 861	N-10-formyltetrahydrofolate
+T38	Chemical 869 877	4'-amine
+T39	Chemical 881 892	UDP-L-Ara4N
+T40	Geometrical_part 912 929	crystal structure
+T41	Protein 937 965	N-terminal formyltransferase
+T42	Protein_part 966 972	domain
+T43	Category 978 985	complex
+T44	Chemical 991 1012	uridine monophosphate
+T45	Chemical 1017 1043	N-5-formyltetrahydrofolate
+T46	Unknown 1056 1065	structure
+T47	Protein_part 1083 1094	active site
+T48	Chemical 1098 1112	formyltransfer
+T49	Protein_part 1116 1120	ArnA
+T50	Protein_part 1140 1167	catalytic residues Asn(102)
+T51	Protein_part 1169 1177	His(104)
+T52	Protein_part 1183 1191	Asp(140)
+T53	Protein_part 1226 1243	residues Ser(433)
+T54	Protein_part 1248 1256	Glu(434)
+T55	Protein 1264 1277	decarboxylase
+T56	Protein_part 1278 1284	domain
+T57	Process 1306 1331	oxidative decarboxylation
+T58	Chemical 1335 1344	UDP-GlcUA
+T59	Protein_part 1349 1361	E434Q mutant
+T60	Chemical 1391 1399	chemical
+T61	Geometrical_part 1412 1418	steric
+T62	Parameter 1419 1429	properties
+T63	Protein_part 1438 1445	residue
+T64	Process 1465 1480	decarboxylation
+T65	Process 1481 1489	reaction
+T66	Protein 1517 1530	decarboxylase
+T67	Protein_part 1531 1537	domain
+T68	Chemical 1553 1560	hydride
+T69	Process 1561 1572	abstraction
+T70	Process 1574 1583	oxidation
+T71	Unknown 1594 1598	C-4'
+T72	Process 1627 1642	decarboxylation

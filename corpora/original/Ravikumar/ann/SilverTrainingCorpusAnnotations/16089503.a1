@@ -1,0 +1,71 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 15 33	pheromone receptor
+T3	Category 45 48	MHC
+T4	Molecule 49 57	molecule
+T5	Geometrical_part 82 88	groove
+T6	Body_part 90 97	Neurons
+T7	Organism 105 111	murine
+T8	Body_part 112 135	vomeronasal organ (VNO)
+T9	Unknown 146 152	family
+T10	Unknown 162 164	Ib
+T11	Category 165 204	major  histocompatibility complex (MHC)
+T12	Protein 205 213	proteins
+T13	Unknown 215 219	M10s
+T14	Protein_part 244 247	V2R
+T15	Body_part 257 260	VNO
+T16	Protein 261 270	receptors
+T17	Process 277 288	interaction
+T18	Process 307 311	role
+T19	Process 319 328	detection
+T20	Physiology 362 374	reproductive
+T21	Geometrical_part 406 423	crystal structure
+T22	Protein 427 432	M10.5
+T23	Unknown 437 454	M10 family member
+T24	Category 488 491	MHC
+T25	Molecule 492 501	molecules
+T26	Protein 516 521	M10.5
+T27	Category 541 544	MHC
+T28	Protein_part 545 552	peptide
+T29	Geometrical_part 561 567	groove
+T30	Unknown 612 621	structure
+T31	Unknown 634 641	class I
+T32	Category 642 645	MHC
+T33	Molecule 646 654	molecule
+T34	Category 673 676	MHC
+T35	Molecule 677 686	molecules
+T36	Protein_part 699 706	peptide
+T37	Category 714 717	MHC
+T38	Protein 718 726	proteins
+T39	Protein_part 732 743	non-peptide
+T40	Category 752 755	MHC
+T41	Protein 756 764	homologs
+T42	Protein 766 771	M10.5
+T43	Geometrical_part 815 821	groove
+T44	Protein 853 858	M10.5
+T45	Protein_part 884 892	peptides
+T46	Organism 911 920	mammalian
+T47	Body_part 921 926	cells
+T48	Unknown 956 963	class I
+T49	Protein_part 972 980	peptides
+T50	Geometrical_part 986 994	F pocket
+T51	Location 995 999	side
+T52	Geometrical_part 1007 1019	M10.5 groove
+T53	Category 1045 1052	ligands
+T54	Protein 1065 1081	8-10-mer class I
+T55	Protein_part 1090 1098	peptides
+T56	Geometrical_part 1133 1139	groove
+T57	Protein_part 1160 1168	residues
+T58	Geometrical_part 1187 1193	groove
+T59	Protein_part 1194 1201	helices
+T60	Geometrical_part 1227 1233	groove
+T61	Category 1250 1253	MHC
+T62	Geometrical_part 1254 1264	structures
+T63	Unknown 1291 1295	M10s
+T64	Process 1329 1340	recognition
+T65	Unknown 1344 1351	class I
+T66	Category 1352 1355	MHC
+T67	Protein_part 1364 1372	peptides
+T68	Process 1398 1405	binding
+T69	Category 1415 1422	ligands
+T70	Protein 1434 1442	proteins
+T71	Protein 1455 1459	V2Rs

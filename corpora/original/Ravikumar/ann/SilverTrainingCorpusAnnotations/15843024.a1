@@ -1,0 +1,73 @@
+T1	Chemical 25 37	fusidic acid
+T2	Parameter 38 48	resistance
+T3	Parameter 53 64	sensitivity
+T4	Protein 68 72	EF-G
+T5	Chemical 74 91	Fusidic acid (FA)
+T6	Chemical 97 115	steroid antibiotic
+T7	Unknown 138 142	Gram
+T8	Organism 152 161	bacterial
+T9	Physiology 162 172	infections
+T10	Protein 186 193	protein
+T11	Process 194 203	synthesis
+T12	Protein 216 242	elongation factor G (EF-G)
+T13	Body_part 250 258	ribosome
+T14	Process 265 278	translocation
+T15	Process 308 317	mutations
+T16	Chemical 336 338	FA
+T17	Parameter 339 349	resistance
+T18	Protein_part 393 402	domains G
+T19	Unknown 404 407	III
+T20	Unknown 412 413	V
+T21	Protein 417 421	EF-G
+T22	Process 463 472	mutations
+T23	Unknown 484 493	structure
+T24	Geometrical_part 547 565	crystal structures
+T25	Molecule 573 580	mutants
+T26	Organism 584 604	Thermus thermophilus
+T27	Protein 605 609	EF-G
+T28	Protein 611 615	G16V
+T29	Protein 620 624	T84A
+T30	Chemical 640 642	FA
+T31	Parameter 643 659	hypersensitivity
+T32	Parameter 664 674	resistance
+T33	Molecule 705 712	mutants
+T34	Value 734 739	lower
+T35	Parameter 740 748	affinity
+T36	Chemical 753 756	GTP
+T37	Protein 775 789	wild-type EF-G
+T38	Process 795 804	mutations
+T39	State 823 837	conformational
+T40	Process 838 845	changes
+T41	Process 853 859	switch
+T42	Geometrical_part 860 867	II loop
+T43	Process 887 894	effects
+T44	Protein_part 920 927	residue
+T45	Protein_part 929 934	Phe90
+T46	State 958 972	conformational
+T47	Process 973 980	changes
+T48	Process 1007 1017	importance
+T49	Protein_part 1021 1026	Phe90
+T50	Chemical 1030 1032	FA
+T51	Parameter 1033 1044	sensitivity
+T52	Unknown 1081 1091	structures
+T53	Process 1109 1119	importance
+T54	Unknown 1127 1155	domain G/domain III/domain V
+T55	Parameter 1176 1185	component
+T56	Chemical 1193 1195	FA
+T57	Process 1196 1203	binding
+T58	Protein_part 1204 1208	site
+T59	Process 1214 1223	mutations
+T60	Process 1242 1249	changes
+T61	Unknown 1257 1268	environment
+T62	Protein_part 1276 1291	"P-loop lysine"
+T63	Protein_part 1293 1298	Lys25
+T64	State 1327 1339	conformation
+T65	Protein_part 1358 1365	residue
+T66	Unknown 1373 1383	structures
+T67	Protein 1401 1408	GTPases
+T68	Protein 1430 1434	EF-G
+T69	Unknown 1439 1443	eEF2
+T70	Molecular_Part 1451 1456	group
+T71	Process 1505 1509	role
+T72	Protein_part 1513 1518	Lys25
+T73	Molecular_Part 1548 1554	groups

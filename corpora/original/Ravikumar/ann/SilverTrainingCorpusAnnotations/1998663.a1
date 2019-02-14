@@ -1,0 +1,69 @@
+T1	Process 9 23	simplification
+T2	Protein 31 38	protein
+T3	Process 39 46	folding
+T4	Protein_part 70 93	polyalanine alpha-helix
+T5	Protein 108 119	T4 lysozyme
+T6	Protein 151 158	protein
+T7	Process 159 166	folding
+T8	Process 212 216	role
+T9	Protein_part 220 227	alanine
+T10	Protein_part 233 238	helix
+T11	Protein_part 251 258	residue
+T12	Protein_part 272 280	alanines
+T13	Protein_part 307 318	alpha-helix
+T14	Protein_part 333 349	residues 126-134
+T15	Protein 354 365	T4 lysozyme
+T16	Protein 370 388	wild-type lysozyme
+T17	Protein_part 394 405	alpha-helix
+T18	Protein_part 415 431	alanine residues
+T19	Location 436 449	positions 129
+T20	Location 451 454	130
+T21	Location 460 463	134
+T22	Protein 465 481	Mutant lysozymes
+T23	Protein_part 487 495	alanines
+T24	Location 511 524	positions 128
+T25	Location 526 529	131
+T26	Location 531 534	132
+T27	Location 540 543	133
+T28	Process 562 575	substitutions
+T29	Chemical 625 640	oligonucleotide
+T30	Process 650 661	mutagenesis
+T31	Process 673 682	exception
+T32	Process 690 701	replacement
+T33	Protein_part 705 712	Leu 133
+T34	Geometrical_part 741 757	hydrophobic core
+T35	Protein 765 772	protein
+T36	Unknown 782 790	variants
+T37	Protein 813 831	wild-type lysozyme
+T38	Unknown 837 844	variant
+T39	Protein_part 850 858	alanines
+T40	Location 874 887	positions 128
+T41	Location 889 892	131
+T42	Location 898 901	132
+T43	Location 903 920	E128A/V131A/N132A
+T44	Protein_part 946 954	sequence
+T45	Protein_part 955 1011	Ala 128-Ala 129-Ala 130-Ala  131-Ala 132-Leu 133-Ala 134
+T46	Parameter 1019 1038	melting temperature
+T47	Value 1039 1052	3.3 degrees C
+T48	Protein 1067 1085	wild-type lysozyme
+T49	Geometrical_part 1108 1125	crystal structure
+T50	Protein 1134 1149	mutant lysozyme
+T51	Process 1165 1176	replacement
+T52	Protein_part 1180 1187	Glu 128
+T53	Protein_part 1189 1196	Val 131
+T54	Protein_part 1202 1209	Asn 132
+T55	Protein_part 1215 1222	alanine
+T56	Protein_part 1230 1241	alpha-helix
+T57	Value 1260 1271	3.4 degrees
+T58	Location 1281 1285	axis
+T59	Geometrical_part 1286 1294	parallel
+T60	Location 1306 1310	axis
+T61	Process 1317 1325	rotation
+T62	Process 1365 1369	loss
+T63	Chemical 1375 1388	hydrogen bond
+T64	Protein_part 1397 1404	Asn 132
+T65	Protein_part 1409 1416	Ser 117
+T66	Protein_part 1466 1477	side chains
+T67	Protein_part 1503 1514	alpha-helix
+T68	Location 1531 1539	adjacent
+T69	Protein_part 1540 1551	alpha-helix

@@ -1,0 +1,45 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 27	human
+T3	Unknown 28 38	HSP90alpha
+T4	Chemical 54 78	dihydroxyphenylpyrazoles
+T5	Chemical 92 125	dihydroxyphenylpyrazole compounds
+T6	Protein 174 179	Hsp90
+T7	Category 180 190	inhibitors
+T8	Geometrical_part 196 214	crystal structures
+T9	Chemical 242 251	compounds
+T10	Chemical 271 285	N-terminal ATP
+T11	Process 286 293	binding
+T12	Protein_part 294 300	domain
+T13	Organism 304 309	human
+T14	Unknown 310 320	Hsp90alpha
+T15	Chemical 342 362	dihydroxyphenyl ring
+T16	Chemical 370 379	compounds
+T17	Physiology 380 384	fits
+T18	Chemical 401 408	adenine
+T19	Process 409 416	binding
+T20	Geometrical_part 417 423	pocket
+T21	Chemical 433 444	C2 hydroxyl
+T22	Molecular_Part 445 450	group
+T23	Chemical 468 481	hydrogen bond
+T24	Protein_part 492 502	side chain
+T25	Protein_part 506 511	Asp93
+T26	Chemical 517 530	pyrazole ring
+T27	Chemical 537 551	hydrogen bonds
+T28	Chemical 568 576	carbonyl
+T29	Protein_part 580 585	Gly97
+T30	Chemical 591 599	hydroxyl
+T31	Molecular_Part 600 605	group
+T32	Protein_part 609 615	Thr184
+T33	Chemical 625 639	water molecule
+T34	Protein 682 687	HSP90
+T35	Geometrical_part 688 698	structures
+T36	Chemical 723 732	compounds
+T37	Parameter 754 773	cellular activities
+T38	Unknown 778 783	Her-2
+T39	Process 784 795	degradation
+T40	Process 800 810	activation
+T41	Protein_part 814 819	Hsp70
+T42	Protein_part 820 828	promoter
+T43	Process 850 860	inhibition
+T44	Body_part 864 878	cellular Hsp90
+T45	Process 879 888	functions

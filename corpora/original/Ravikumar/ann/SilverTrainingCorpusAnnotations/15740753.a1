@@ -1,0 +1,79 @@
+T1	Chemical 0 19	Solution structures
+T2	Protein 32 54	light-harvesting alpha
+T3	Protein_part 59 76	beta polypeptides
+T4	Organism 82 103	Rhodospirillum rubrum
+T5	Process 105 117	implications
+T6	Protein 126 141	pigment-protein
+T7	Protein 146 161	protein-protein
+T8	Process 162 174	interactions
+T9	Chemical 199 218	solution structures
+T10	Protein 231 259	light-harvesting (LH1) alpha
+T11	Protein_part 264 281	beta-polypeptides
+T12	Organism 319 350	bacterium Rhodospirillum rubrum
+T13	Technique 374 390	NMR spectroscopy
+T14	Protein_part 400 412	polypeptides
+T15	Protein_part 425 438	alpha helices
+T16	Chemical 442 458	organic solution
+T17	Geometrical_part 464 473	structure
+T18	Protein_part 477 494	alpha-polypeptide
+T19	Protein_part 514 519	helix
+T20	Protein_part 526 545	amino acid residues
+T21	Body_part 555 576	central transmembrane
+T22	Protein_part 577 583	domain
+T23	Geometrical_part 596 603	helical
+T24	Protein_part 604 611	segment
+T25	Protein_part 619 629	N terminus
+T26	Protein_part 652 670	three-residue loop
+T27	Chemical 672 679	Pigment
+T28	Protein_part 693 710	histidine residue
+T29	Protein_part 712 717	His29
+T30	Protein_part 726 743	alpha-polypeptide
+T31	Location 764 770	middle
+T32	Protein_part 778 791	central helix
+T33	Geometrical_part 797 806	structure
+T34	Protein_part 810 826	beta-polypeptide
+T35	Protein_part 842 847	helix
+T36	Protein_part 854 873	amino acid residues
+T37	Body_part 882 890	membrane
+T38	Protein_part 900 906	region
+T39	Chemical 916 923	pigment
+T40	Protein_part 937 954	histidine residue
+T41	Protein_part 956 961	His38
+T42	Protein_part 990 1004	C-terminal end
+T43	Protein_part 1012 1017	helix
+T44	Chemical 1026 1040	hydrogen bonds
+T45	Chemical 1079 1092	amide protons
+T46	Geometrical_part 1110 1117	helical
+T47	Protein_part 1118 1125	regions
+T48	Parameter 1146 1154	property
+T49	Protein_part 1166 1178	polypeptides
+T50	Unknown 1192 1202	structures
+T51	Organism 1210 1218	R.rubrum
+T52	Protein 1219 1228	LH1 alpha
+T53	Protein_part 1233 1250	beta-polypeptides
+T54	Protein_part 1304 1324	LH1 beta-polypeptide
+T55	Organism 1328 1351	Rhodobacter sphaeroides
+T56	Unknown 1381 1391	structures
+T57	Protein 1413 1422	LH2 alpha
+T58	Protein_part 1427 1444	beta-polypeptides
+T59	Technique 1459 1480	X-ray crystallography
+T60	Protein 1521 1528	subunit
+T61	Protein 1530 1534	B820
+T62	Protein 1539 1542	LH1
+T63	Category 1543 1550	complex
+T64	Chemical 1561 1580	solution structures
+T65	Process 1623 1635	interactions
+T66	Protein 1648 1657	LH1 alpha
+T67	Protein_part 1662 1679	beta-polypeptides
+T68	Protein_part 1705 1723	N-terminal regions
+T69	Protein_part 1735 1747	polypeptides
+T70	Protein 1769 1773	B820
+T71	Protein 1778 1781	LH1
+T72	Category 1782 1791	complexes
+T73	Process 1814 1825	experiments
+T74	Process 1852 1864	interactions
+T75	Protein_part 1883 1899	N-terminal helix
+T76	Protein_part 1901 1910	Trp2-Gln6
+T77	Protein_part 1915 1932	alpha-polypeptide
+T78	Protein_part 1939 1950	GxxxG motif
+T79	Protein_part 1958 1974	beta-polypeptide

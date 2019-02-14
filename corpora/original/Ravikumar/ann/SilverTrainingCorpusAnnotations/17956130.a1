@@ -1,0 +1,49 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 18	human
+T3	Protein 19 39	synaptotagmin 1 C2AB
+T4	Process 47 54	absence
+T5	Chemical 58 62	Ca2+
+T6	Protein_part 79 85	domain
+T7	Process 86 97	association
+T8	Process 99 106	Release
+T9	Chemical 110 126	neurotransmitter
+T10	Body_part 132 149	synaptic vesicles
+T11	Chemical 163 180	Ca2+/phospholipid
+T12	Protein 189 212	protein synaptotagmin 1
+T13	Process 250 261	cooperation
+T14	Protein_part 281 291	C2 domains
+T15	Protein 295 308	synaptotagmin
+T16	Process 314 325	requirement
+T17	Process 340 350	exocytosis
+T18	Process 406 417	interaction
+T19	Value 440 445	2.7 A
+T20	Geometrical_part 446 463	crystal structure
+T21	Location 471 480	cytosolic
+T22	Protein_part 481 488	domains
+T23	Organism 492 497	human
+T24	Protein 498 513	synaptotagmin 1
+T25	Process 521 528	absence
+T26	Chemical 532 536	Ca2+
+T27	State 553 572	closed conformation
+T28	Protein 580 587	protein
+T29	Protein 618 621	C2A
+T30	Protein_part 626 629	C2B
+T31	Physiology 649 656	network
+T32	Process 660 672	interactions
+T33	Protein_part 681 689	residues
+T34	Protein_part 697 719	C-terminal alpha-helix
+T35	Protein_part 727 737	C2B domain
+T36	Protein_part 742 750	residues
+T37	Geometrical_part 754 759	loops
+T38	Chemical 771 775	Ca2+
+T39	Protein_part 784 790	region
+T40	Protein 794 797	C2A
+T41	Process 805 817	interactions
+T42	Geometrical_part 836 841	shape
+T43	Chemical 849 853	Ca2+
+T44	Geometrical_part 862 868	pocket
+T45	Protein 872 875	C2A
+T46	Protein_part 893 896	C2B
+T47	Protein 904 927	synaptotagmin 1 C2A-C2B
+T48	Process 948 968	regulatory mechanism
+T49	Protein_part 981 990	C2 domain

@@ -1,0 +1,49 @@
+T1	Unknown 0 10	Mms2-Ubc13
+T2	Protein 31 40	ubiquitin
+T3	Process 64 69	basis
+T4	Protein_part 73 80	linkage
+T5	Protein 90 109	polyubiquitin chain
+T6	Process 110 119	formation
+T7	Protein_part 121 126	Lys63
+T8	Protein 134 154	polyubiquitin chains
+T9	Process 185 194	signaling
+T10	Process 195 203	pathways
+T11	Process 215 225	regulation
+T12	Physiology 229 239	DNA damage
+T13	Physiology 254 263	NF-kappaB
+T14	Process 264 274	activation
+T15	Protein 277 287	E2 enzymes
+T16	Protein 297 324	ubiquitin E2 variants (UEV)
+T17	Process 344 352	pathways
+T18	Protein_part 367 372	Lys63
+T19	Protein 380 400	polyubiquitin chains
+T20	Category 416 425	complexes
+T21	Protein_part 463 477	lysine linkage
+T22	Geometrical_part 520 537	crystal structure
+T23	Unknown 544 564	Mms2-Ubc13-ubiquitin
+T24	Protein 566 575	UEV-E2-Ub
+T25	Molecule 586 598	intermediate
+T26	Category 604 609	donor
+T27	Protein 610 619	ubiquitin
+T28	Protein_part 634 653	active site residue
+T29	Protein_part 657 662	Ubc13
+T30	Unknown 672 681	structure
+T31	Process 698 705	binding
+T32	Category 711 716	donor
+T33	Protein 717 726	ubiquitin
+T34	Unknown 734 747	Mms2-Ubc13-Ub
+T35	Category 748 755	complex
+T36	Category 763 771	acceptor
+T37	Protein_part 780 784	site
+T38	Unknown 788 798	Mms2-Ubc13
+T39	Location 805 813	adjacent
+T40	Category 814 821	complex
+T41	Parameter 856 866	resolution
+T42	Unknown 929 938	structure
+T43	Process 955 959	role
+T44	Unknown 963 967	Mms2
+T45	Process 990 999	insertion
+T46	Protein_part 1003 1008	Lys63
+T47	Protein_part 1018 1035	Ubc13 active site
+T48	Protein 1071 1090	polyubiquitin chain
+T49	Process 1091 1101	elongation

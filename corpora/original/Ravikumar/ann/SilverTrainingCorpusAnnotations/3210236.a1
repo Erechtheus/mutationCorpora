@@ -1,0 +1,123 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 13 19	azurin
+T3	Chemical 25 50	Alcaligenes denitrificans
+T4	Process 51 61	refinement
+T5	Value 65 70	1.8 A
+T6	Parameter 71 81	resolution
+T7	Process 86 96	comparison
+T8	Molecule 141 150	molecules
+T9	Unknown 156 165	structure
+T10	Chemical 178 199	copper protein azurin
+T11	Chemical 206 231	Alcaligenes denitrificans
+T12	Technique 251 267	crystallographic
+T13	Parameter 336 343	R value
+T14	Value 348 354	21,980
+T15	Process 364 375	reflections
+T16	Value 379 384	1.8 A
+T17	Value 386 387	1
+T18	Parameter 388 389	A
+T19	Value 392 398	0.1 nm
+T20	Parameter 400 410	resolution
+T21	Value 414 419	0.157
+T22	Unknown 448 455	crystal
+T23	Chemical 481 497	azurin molecules
+T24	Chemical 534 547	protein atoms
+T25	Chemical 569 579	SO2-4 ions
+T26	Chemical 589 604	water molecules
+T27	Process 606 616	Comparison
+T28	Molecule 628 637	molecules
+T29	Protein_part 689 697	residues
+T30	Protein 719 724	chain
+T31	Protein_part 725 732	termini
+T32	Protein_part 734 744	residues 1
+T33	Protein_part 748 749	2
+T34	Protein_part 754 757	128
+T35	Protein_part 761 764	129
+T36	Parameter 770 805	root-mean-square (r.m.s.) deviation
+T37	Chemical 809 824	main-chain atom
+T38	Value 838 844	0.27 A
+T39	Parameter 867 895	parameters r.m.s. deviations
+T40	Parameter 910 924	torsion angles
+T41	Value 925 936	6.5 degrees
+T42	Chemical 938 951	hydrogen bond
+T43	Parameter 952 959	lengths
+T44	Value 960 966	0.12 A
+T45	Chemical 968 973	bonds
+T46	Chemical 977 983	copper
+T47	Value 984 990	0.04 A
+T48	Parameter 995 1006	bond angles
+T49	Chemical 1014 1020	copper
+T50	Value 1021 1032	3.9 degrees
+T51	Process 1055 1066	differences
+T52	Protein 1078 1083	chain
+T53	Protein_part 1084 1091	termini
+T54	Geometrical_part 1107 1112	loops
+T55	Unknown 1149 1156	crystal
+T56	Process 1157 1164	packing
+T57	Process 1165 1172	effects
+T58	Process 1223 1233	Refinement
+T59	Chemical 1257 1263	copper
+T60	Process 1264 1277	co-ordination
+T61	Chemical 1347 1352	bonds
+T62	Protein_part 1356 1361	His46
+T63	Value 1362 1363	N
+T64	Protein 1364 1371	delta 1
+T65	Protein_part 1373 1379	His117
+T66	Value 1380 1381	N
+T67	Protein 1382 1389	delta 1
+T68	Protein_part 1394 1400	Cys112
+T69	Value 1401 1402	S
+T70	Protein 1403 1408	gamma
+T71	Location 1427 1432	axial
+T72	Process 1433 1445	interactions
+T73	Protein_part 1451 1457	Met121
+T74	Value 1458 1459	S
+T75	Protein 1460 1465	delta
+T76	Protein_part 1470 1475	Gly45
+T77	Value 1476 1477	C
+T78	Unknown 1480 1481	O
+T79	Chemical 1487 1509	N-H...S hydrogen bonds
+T80	Protein_part 1523 1529	Cys112
+T81	Value 1530 1531	S
+T82	Protein 1532 1537	gamma
+T83	Chemical 1543 1551	thiolate
+T84	Parameter 1552 1556	(S-)
+T85	Chemical 1557 1564	sulphur
+T86	Process 1595 1605	absorption
+T87	Chemical 1615 1620	Atoms
+T88	Protein_part 1639 1650	copper site
+T89	Protein_part 1699 1706	regions
+T90	Molecule 1714 1722	molecule
+T91	Protein 1731 1736	chain
+T92	Protein_part 1737 1744	termini
+T93	Geometrical_part 1772 1777	loops
+T94	Unknown 1796 1814	structure elements
+T95	Geometrical_part 1851 1854	end
+T96	Protein_part 1872 1883	copper site
+T97	Protein 1885 1895	Main-chain
+T98	Chemical 1899 1924	side-chain hydrogen bonds
+T99	Process 1954 1966	interactions
+T100	Geometrical_part 1985 1988	end
+T101	Geometrical_part 1990 1997	Surface
+T102	Technique 2031 2036	patch
+T103	Protein_part 2044 2050	His117
+T104	Molecule 2075 2083	electron
+T105	Process 2084 2092	transfer
+T106	Protein_part 2098 2108	SO2-4 site
+T107	Protein_part 2112 2117	His83
+T108	Process 2135 2142	absence
+T109	Chemical 2146 2155	ion pairs
+T110	Process 2169 2177	presence
+T111	Protein_part 2194 2213	amino acid residues
+T112	Chemical 2223 2238	water molecules
+T113	Value 2265 2286	approximately twofold
+T114	Location 2315 2323	internal
+T115	Chemical 2324 2339	water molecules
+T116	Protein_part 2345 2356	water sites
+T117	Chemical 2372 2388	azurin molecules
+T118	Geometrical_part 2406 2413	surface
+T119	Process 2449 2456	contact
+T120	Protein_part 2457 2464	regions
+T121	Parameter 2516 2526	parameters
+T122	Protein 2540 2547	protein
+T123	Process 2548 2556	contacts

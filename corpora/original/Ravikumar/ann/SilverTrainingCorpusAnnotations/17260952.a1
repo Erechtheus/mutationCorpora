@@ -1,0 +1,67 @@
+T1	Process 22 33	description
+T2	Organism 60 65	yeast
+T3	Protein 66 81	pyrophosphatase
+T4	Unknown 106 116	structures
+T5	Protein_part 144 164	active site variants
+T6	Organism 168 173	yeast
+T7	Protein 174 199	inorganic pyrophosphatase
+T8	Protein 201 206	PPase
+T9	Process 215 223	presence
+T10	Chemical 227 231	Mg2+
+T11	Chemical 236 245	phosphate
+T12	Process 287 298	description
+T13	Protein 323 329	PPases
+T14	Process 343 353	hydrolysis
+T15	Chemical 357 370	pyrophosphate
+T16	Chemical 388 410	divalent metal cations
+T17	Process 415 424	catalysis
+T18	Chemical 426 435	magnesium
+T19	Parameter 457 465	activity
+T20	Unknown 471 478	crystal
+T21	Protein 505 513	monomers
+T22	Molecule 574 587	intermediates
+T23	Protein_part 605 626	wild-type active site
+T24	Category 643 650	product
+T25	Chemical 651 661	phosphates
+T26	Unknown 697 710	D115E variant
+T27	State 718 730	conformation
+T28	Chemical 761 774	two-phosphate
+T29	Protein_part 794 811	water active site
+T30	Process 817 826	mutations
+T31	Chemical 834 839	metal
+T32	Process 840 847	binding
+T33	Chemical 856 872	hydrogen bonding
+T34	Physiology 873 880	network
+T35	Protein_part 889 900	active site
+T36	Process 929 936	effects
+T37	Process 940 949	mutations
+T38	Protein_part 968 972	Y93F
+T39	Protein_part 974 977	F93
+T40	Geometrical_part 1009 1015	pocket
+T41	Process 1023 1030	absence
+T42	Category 1034 1043	substrate
+T43	Chemical 1056 1072	hydrogen bonding
+T44	Protein_part 1080 1091	active site
+T45	Process 1124 1131	changes
+T46	Chemical 1135 1143	solution
+T47	Parameter 1144 1154	properties
+T48	Process 1180 1188	presence
+T49	Category 1192 1201	substrate
+T50	Protein_part 1208 1211	F93
+T51	Protein_part 1236 1247	active site
+T52	Process 1261 1268	changes
+T53	Parameter 1291 1297	energy
+T54	State 1347 1360	conformations
+T55	Protein 1368 1374	enzyme
+T56	Unknown 1380 1390	structures
+T57	Chemical 1418 1423	metal
+T58	Parameter 1424 1441	binding constants
+T59	Protein_part 1454 1459	sites
+T60	Unknown 1492 1505	D152E variant
+T61	Chemical 1516 1529	phosphate ion
+T62	Location 1530 1538	adjacent
+T63	Protein_part 1546 1557	active site
+T64	Parameter 1581 1585	time
+T65	Category 1590 1597	product
+T66	Protein 1620 1627	channel
+T67	Protein_part 1649 1660	side chains

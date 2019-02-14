@@ -1,0 +1,65 @@
+T1	Process 0 19	Molecular mechanism
+T2	Chemical 23 34	thioredoxin
+T3	Process 35 45	regulation
+T4	Protein 64 109	A2B2-glyceraldehyde-3-phosphate dehydrogenase
+T5	Protein 111 171	Chloroplast glyceraldehyde-3-phosphate dehydrogenase (GAPDH)
+T6	Chemical 194 201	NAD(P)H
+T7	Protein 212 218	enzyme
+T8	Organism 231 236	plant
+T9	Chemical 252 258	carbon
+T10	Process 259 268	reduction
+T11	Organism 298 307	organisms
+T12	Protein 328 338	A(4)-GAPDH
+T13	Protein 351 364	GAPDH isoform
+T14	Organism 373 379	plants
+T15	Protein 400 410	B subunits
+T16	Process 436 462	C-terminal extension (CTE)
+T17	Process 480 500	regulatory functions
+T18	Protein 522 530	AB-GAPDH
+T19	State 546 557	redox state
+T20	Protein_part 571 580	cysteines
+T21	Process 588 591	CTE
+T22	Chemical 610 624	disulfide bond
+T23	Process 631 638	control
+T24	Chemical 642 655	thioredoxin f
+T25	Process 678 688	inhibition
+T26	Chemical 696 701	NADPH
+T27	Parameter 712 720	activity
+T28	Geometrical_part 741 750	structure
+T29	Protein 754 768	A(2)B(2)-GAPDH
+T30	Organism 774 781	spinach
+T31	Chemical 782 794	chloroplasts
+T32	State 825 830	state
+T33	Chemical 848 857	disulfide
+T34	Process 869 872	CTE
+T35	Geometrical_part 895 900	cleft
+T36	Protein 925 935	B subunits
+T37	Unknown 941 950	structure
+T38	Process 958 961	CTE
+T39	Technique 979 995	crystallographic
+T40	Technique 1045 1070	site-specific mutagenesis
+T41	Technique 1083 1091	analysis
+T42	Protein 1104 1118	A(2)B(2)-GAPDH
+T43	Protein 1132 1155	mutant [A+CTE](4)-GAPDH
+T44	Protein_part 1170 1176	Arg-77
+T45	Protein 1201 1209	coenzyme
+T46	Chemical 1231 1236	NADPH
+T47	Parameter 1247 1255	activity
+T48	Chemical 1280 1284	NADP
+T49	Protein 1316 1331	GAPDH tetramers
+T50	Protein_part 1369 1377	residues
+T51	Process 1390 1393	CTE
+T52	Process 1408 1415	changes
+T53	Protein_part 1419 1436	catalytic domains
+T54	State 1450 1462	conformation
+T55	Protein 1470 1479	tetramers
+T56	Protein 1505 1519	A(2)B(2)-GAPDH
+T57	Protein 1524 1540	[A+CTE](4)-GAPDH
+T58	Protein 1569 1579	A(4)-GAPDH
+T59	Process 1585 1588	CTE
+T60	Protein_part 1624 1641	regulatory domain
+T61	Protein 1651 1665	force AB-GAPDH
+T62	State 1695 1707	conformation
+T63	Chemical 1714 1723	oxidizing
+T64	Process 1765 1777	inactivation
+T65	Protein 1785 1791	enzyme

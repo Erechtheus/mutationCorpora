@@ -1,0 +1,60 @@
+T1	Process 10 15	basis
+T2	Protein 19 25	gyrase
+T3	Physiology 26 35	poisoning
+T4	Process 43 52	addiction
+T5	Molecule 53 58	toxin
+T6	Protein 59 63	CcdB
+T7	Protein 65 71	Gyrase
+T8	Organism 89 98	bacterial
+T9	Protein 99 105	enzyme
+T10	Molecule 144 147	DNA
+T11	Molecule 155 158	DNA
+T12	Process 159 170	replication
+T13	Process 175 188	transcription
+T14	Process 200 206	target
+T15	Molecule 214 219	toxin
+T16	Protein 220 224	CcdB
+T17	Body_part 241 248	plasmid
+T18	Process 249 258	addiction
+T19	Unknown 259 266	systems
+T20	Organism 279 288	bacterial
+T21	Unknown 289 312	toxin-antitoxin systems
+T22	Geometrical_part 318 335	crystal structure
+T23	Protein 339 343	CcdB
+T24	Process 352 364	dimerization
+T25	Protein_part 365 371	domain
+T26	Protein 381 388	subunit
+T27	Protein 392 407	gyrase (GyrA14)
+T28	State 420 437	open conformation
+T29	Protein_part 446 462	catalytic domain
+T30	Protein 466 472	gyrase
+T31	Protein 478 482	CcdB
+T32	Process 497 503	action
+T33	Protein 507 511	CcdB
+T34	Geometrical_part 524 529	wedge
+T35	Molecule 566 583	gyrase:DNA adduct
+T36	Protein 594 598	CcdB
+T37	Protein 603 609	GyrA14
+T38	Category 636 643	complex
+T39	Geometrical_part 654 669	two 2-fold axes
+T40	Protein 678 684	dimers
+T41	Category 696 703	complex
+T42	Process 755 766	interaction
+T43	Protein_part 767 771	site
+T44	Protein_part 778 783	Trp99
+T45	Protein 792 796	CcdB
+T46	Protein_part 813 819	Arg462
+T47	Protein 828 834	GyrA14
+T48	Protein_part 855 864	Arg462Cys
+T49	Process 865 873	mutation
+T50	Protein 883 890	subunit
+T51	Protein 894 900	gyrase
+T52	Parameter 909 919	resistance
+T53	Protein 923 927	CcdB
+T54	Process 929 943	Overexpression
+T55	Protein 947 953	GyrA14
+T56	Organism 963 979	Escherichia coli
+T57	Body_part 980 985	cells
+T58	Protein 994 998	CcdB
+T59	Process 1015 1021	action
+T60	Protein 1038 1042	CcdA

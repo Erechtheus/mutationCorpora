@@ -1,0 +1,122 @@
+T1	Process 0 9	Detection
+T2	Protein_part 20 28	peptides
+T3	Category 39 49	inhibitors
+T4	Protein 53 60	enzymes
+T5	Geometrical_part 62 79	Crystal structure
+T6	Category 87 94	complex
+T7	Organism 118 124	bovine
+T8	Protein 125 143	alpha-chymotrypsin
+T9	Unknown 178 186	fragment
+T10	Unknown 188 243	IIe-Val-Asn-Gly-Glu-Glu-Ala-Val-Pro-Gly-Ser-Trp-Pro-Trp
+T11	Value 248 261	2.2 angstroms
+T12	Parameter 262 272	resolution
+T13	Protein 274 286	Chymotrypsin
+T14	Unknown 302 308	member
+T15	Unknown 316 322	family
+T16	Protein 326 342	serine proteases
+T17	Process 380 388	presence
+T18	Unknown 401 409	fragment
+T19	Protein_part 424 432	residues
+T20	Protein_part 438 443	Ile16
+T21	Protein_part 447 452	Trp29
+T22	Protein 456 474	alpha-chymotrypsin
+T23	Protein 489 501	chymotrypsin
+T24	Protein_part 509 520	active site
+T25	Parameter 548 556	affinity
+T26	Value 560 583	2.7 +/- 0.3 x 10(-11) M
+T27	Category 630 639	inhibitor
+T28	Protein 668 686	alpha-chymotrypsin
+T29	Body_part 711 748	three phase partitioning system (TPP)
+T30	Protein 762 768	enzyme
+T31	Parameter 798 806	activity
+T32	Protein_part 815 831	residue fragment
+T33	Process 848 861	autodigestion
+T34	Body_part 867 870	TPP
+T35	Protein 879 897	alpha-chymotrypsin
+T36	Process 912 927	crystallization
+T37	Process 928 935	process
+T38	Value 948 969	more than four months
+T39	Protein 983 989	enzyme
+T40	Process 1016 1031	crystallization
+T41	Chemical 1038 1044	vapour
+T42	Process 1049 1058	diffusion
+T43	Value 1069 1074	295 K
+T44	Value 1076 1093	Twenty milligrams
+T45	Protein 1109 1116	protein
+T46	Value 1135 1139	1 mL
+T47	Value 1143 1148	25 mM
+T48	Chemical 1149 1163	sodium acetate
+T49	Parameter 1172 1174	pH
+T50	Value 1175 1178	4.8
+T51	Value 1235 1240	1.2 M
+T52	Chemical 1241 1257	ammonium sulfate
+T53	Unknown 1275 1283	crystals
+T54	Parameter 1293 1303	dimensions
+T55	Value 1307 1311	0.24
+T56	Protein_part 1312 1313	x
+T57	Value 1314 1331	0.15 x 0.10 mm(3)
+T58	Technique 1351 1356	X-ray
+T59	Parameter 1357 1366	intensity
+T60	Value 1390 1403	2.2 angstroms
+T61	Parameter 1404 1414	resolution
+T62	Unknown 1423 1432	structure
+T63	Parameter 1451 1459	R-factor
+T64	Value 1463 1468	0.192
+T65	Molecule 1479 1487	electron
+T66	Parameter 1488 1495	density
+T67	Process 1516 1523	binding
+T68	Protein_part 1524 1528	site
+T69	Protein 1532 1550	alpha-chymotrypsin
+T70	Protein_part 1590 1606	residue fragment
+T71	Protein 1610 1628	alpha-chymotrypsin
+T72	Unknown 1646 1708	Ile-Val-Asn-Gly-Glu-Glu-Ala-Val-Pro-Gly-Ser-Trp-Pro-Trp(16-29)
+T73	Molecule 1715 1723	electron
+T74	Parameter 1724 1731	density
+T75	Protein_part 1746 1754	residues
+T76	Protein_part 1762 1772	C-terminus
+T77	Protein_part 1779 1790	Ala22-Trp29
+T78	Process 1829 1836	binding
+T79	Geometrical_part 1837 1842	cleft
+T80	Protein 1850 1856	enzyme
+T81	Protein_part 1895 1906	side chains
+T82	Protein_part 1922 1930	residues
+T83	Protein_part 1988 1996	residues
+T84	Protein_part 2006 2016	N-terminus
+T85	Protein_part 2018 2029	Ile16-Glu21
+T86	Geometrical_part 2063 2071	backbone
+T87	Parameter 2072 2079	density
+T88	Molecule 2113 2121	electron
+T89	Parameter 2122 2129	density
+T90	Parameter 2133 2142	3.0 sigma
+T91	Protein_part 2155 2180	active site Ser195 Ogamma
+T92	Chemical 2189 2209	carbonyl carbon atom
+T93	Protein_part 2213 2218	Trp29
+T94	Unknown 2226 2234	fragment
+T95	Parameter 2275 2283	distance
+T96	Value 2287 2301	1.35 angstroms
+T97	Protein_part 2310 2323	Ser195 Ogamma
+T98	Protein_part 2328 2333	Trp29
+T99	Value 2334 2335	C
+T100	Process 2352 2360	presence
+T101	Protein_part 2375 2382	linkage
+T102	Protein 2395 2401	enzyme
+T103	Unknown 2417 2425	fragment
+T104	Protein 2447 2453	enzyme
+T105	Chemical 2464 2481	acyl intermediate
+T106	Protein_part 2504 2524	fragment Ile16-Trp29
+T107	Chemical 2545 2562	O-C covalent bond
+T108	Chemical 2583 2597	hydrogen bonds
+T109	Process 2614 2626	interactions
+T110	Protein 2639 2645	enzyme
+T111	Unknown 2661 2669	fragment
+T112	Unknown 2675 2683	fragment
+T113	Process 2723 2730	binding
+T114	Protein_part 2731 2735	site
+T115	Protein 2739 2757	alpha-chymotrypsin
+T116	Geometrical_part 2773 2777	part
+T117	Unknown 2785 2793	fragment
+T118	Geometrical_part 2844 2848	part
+T119	Organism 2852 2858	Turkey
+T120	Protein 2859 2868	ovomucoid
+T121	Category 2869 2878	inhibitor
+T122	Protein 2882 2900	alpha-chymotrypsin

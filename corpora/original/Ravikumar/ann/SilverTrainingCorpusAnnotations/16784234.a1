@@ -1,0 +1,76 @@
+T1	Value 4 10	1.48 A
+T2	Parameter 11 21	resolution
+T3	Geometrical_part 22 39	crystal structure
+T4	Protein 47 80	homotetrameric cytidine deaminase
+T5	Organism 87 92	mouse
+T6	Protein 94 118	Cytidine deaminase (CDA)
+T7	Chemical 124 128	zinc
+T8	Protein 139 145	enzyme
+T9	Process 165 176	deamination
+T10	Chemical 180 188	cytidine
+T11	Chemical 192 205	deoxycytidine
+T12	Chemical 214 221	uridine
+T13	Chemical 225 237	deoxyuridine
+T14	Geometrical_part 259 276	crystal structure
+T15	Organism 280 297	mouse CDA (MmCDA)
+T16	Chemical 321 344	tetrahydrouridine (THU)
+T17	Chemical 346 366	3-deazauridine (DAU)
+T18	Chemical 371 379	cytidine
+T19	Organism 388 397	MmCDA-DAU
+T20	Category 398 405	complex
+T21	Chemical 436 444	cytidine
+T22	Chemical 467 474	uridine
+T23	Unknown 482 489	4-NH(2)
+T24	Molecular_Part 490 495	group
+T25	Chemical 511 524	hydrogen bond
+T26	Category 525 530	donor
+T27	Organism 539 553	MmCDA-cytidine
+T28	Category 554 561	complex
+T29	Chemical 563 571	cytidine
+T30	Category 600 609	substrate
+T31	Category 636 643	product
+T32	Protein 665 673	subunits
+T33	Protein 696 703	subunit
+T34	Category 720 727	product
+T35	Chemical 728 735	uridine
+T36	Parameter 754 760	charge
+T37	Protein_part 774 779	Arg68
+T38	Organism 783 788	MmCDA
+T39	State 822 835	conformations
+T40	State 837 838	I
+T41	State 843 845	II
+T42	State 850 862	conformation
+T43	State 863 864	I
+T44	State 875 887	conformation
+T45	Protein 929 948	homotetrameric CDAs
+T46	Protein_part 950 977	Arg68  hydrogen bonds Cys65
+T47	Protein_part 982 988	Cys102
+T48	Geometrical_part 1001 1005	part
+T49	Value 1015 1023	negative
+T50	Parameter 1024 1031	charges
+T51	State 1045 1057	conformation
+T52	State 1058 1060	II
+T53	Protein_part 1065 1075	side chain
+T54	Protein_part 1079 1084	Arg68
+T55	Value 1093 1110	about 130 degrees
+T56	Chemical 1122 1140	Cgamma-Cdelta bond
+T57	Chemical 1161 1175	hydrogen bonds
+T58	Process 1181 1185	lack
+T59	Chemical 1189 1205	hydrogen bonding
+T60	Chemical 1232 1244	zinc-product
+T61	Process 1245 1256	interaction
+T62	Molecule 1271 1279	electron
+T63	Process 1280 1288	donation
+T64	Protein_part 1294 1302	cysteine
+T65	Chemical 1310 1318	zinc ion
+T66	Category 1339 1346	product
+T67	Process 1357 1366	mechanism
+T68	Process 1375 1380	basis
+T69	Unknown 1390 1400	structures
+T70	Technique 1413 1421	analysis
+T71	Protein 1456 1475	homotetrameric CDAs
+T72	Parameter 1532 1538	charge
+T73	Protein_part 1552 1568	arginine residue
+T74	Process 1570 1582	Implications
+T75	Protein 1587 1594	CDA-RNA
+T76	Process 1595 1606	interaction

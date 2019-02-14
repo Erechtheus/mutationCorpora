@@ -1,0 +1,65 @@
+T1	Unknown 4 13	structure
+T2	Protein 28 39	phytochrome
+T3	Physiology 40 47	sensory
+T4	Chemical 62 64	Pr
+T5	State 65 77	ground state
+T6	Protein 79 91	Phytochromes
+T7	Protein 121 147	biliprotein photoreceptors
+T8	Organism 158 164	plants
+T9	Organism 174 178	seed
+T10	Process 179 190	germination
+T11	Body_part 192 196	stem
+T12	Process 197 206	extension
+T13	Parameter 218 222	time
+T14	Process 246 253	effects
+T15	Process 289 294	basis
+T16	Protein 302 313	phytochrome
+T17	State 364 376	ground state
+T18	Unknown 377 386	structure
+T19	Physiology 403 410	sensory
+T20	Protein 421 437	Cph1 phytochrome
+T21	Organism 447 475	cyanobacterium Synechocystis
+T22	Chemical 495 510	phycocyanobilin
+T23	Chemical 512 515	PCB
+T24	Molecule 517 528	chromophore
+T25	Protein_part 544 551	Cys-259
+T26	Process 581 590	situation
+T27	Organism 594 599	plant
+T28	Protein 600 612	phytochromes
+T29	Unknown 666 672	ZZZssa
+T30	State 673 685	conformation
+T31	Technique 728 746	Raman spectroscopy
+T32	Protein_part 765 775	PHY domain
+T33	Protein 809 821	phytochromes
+T34	Unknown 841 847	member
+T35	Unknown 855 858	GAF
+T36	Chemical 860 891	cGMP phosphodiesterase/adenylyl
+T37	Unknown 892 904	cyclase/FhlA
+T38	Unknown 906 912	family
+T39	Unknown 926 936	tandem-GAF
+T40	Protein 960 971	phytochrome
+T41	Physiology 972 979	sensory
+T42	Protein_part 1017 1036	regulatory  domains
+T43	Protein 1040 1083	cyclic nucleotide (cNMP) phosphodiesterases
+T44	Protein 1088 1105	adenylyl cyclases
+T45	Protein 1131 1142	phytochrome
+T46	Geometrical_part 1143 1152	structure
+T47	Body_part 1164 1170	tongue
+T48	Process 1176 1186	protrusion
+T49	Protein_part 1196 1206	PHY domain
+T50	Food 1212 1217	seals
+T51	Molecule 1222 1233	chromophore
+T52	Geometrical_part 1234 1240	pocket
+T53	State 1293 1304	state (Pfr)
+T54	Body_part 1310 1316	tongue
+T55	Protein_part 1337 1348	PRxSF motif
+T56	Chemical 1364 1372	arginine
+T57	Body_part 1373 1379	finger
+T58	Molecule 1396 1407	chromophore
+T59	Geometrical_part 1408 1414	pocket
+T60	Geometrical_part 1424 1430	ring D
+T61	Chemical 1441 1452	salt bridge
+T62	Protein_part 1470 1487	aspartate residue
+T63	Unknown 1493 1502	structure
+T64	Process 1564 1576	transmission
+T65	Protein 1580 1592	phytochromes

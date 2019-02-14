@@ -1,0 +1,51 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 23	calmodulin
+T3	Parameter 49 51	IQ
+T4	Protein_part 52 58	domain
+T5	Body_part 66 73	cardiac
+T6	Protein 74 98	Ca(v)1.2 calcium channel
+T7	Process 100 133	Ca2+-dependent inactivation (CDI)
+T8	Process 138 150	facilitation
+T9	Process 152 155	CDF
+T10	Protein 164 185	Ca(v)1.2 Ca2+ channel
+T11	Protein 194 204	calmodulin
+T12	Parameter 227 229	IQ
+T13	Protein_part 230 235	motif
+T14	Protein_part 243 264	carboxy-terminal tail
+T15	Geometrical_part 272 276	pore
+T16	Protein 285 292	subunit
+T17	Value 309 315	1.45 A
+T18	Geometrical_part 316 333	crystal structure
+T19	Chemical 337 352	Ca2+-calmodulin
+T20	Protein_part 367 382	residue peptide
+T21	Parameter 404 406	IQ
+T22	Protein_part 407 413	domain
+T23	Protein 417 425	Ca(v)1.2
+T24	Unknown 432 441	structure
+T25	Geometrical_part 453 461	parallel
+T26	Process 462 469	binding
+T27	Protein 473 483	calmodulin
+T28	Parameter 491 493	IQ
+T29	Protein_part 494 500	domain
+T30	Process 528 540	interactions
+T31	Process 542 551	Mutations
+T32	Protein_part 555 569	residues I1672
+T33	Protein_part 574 579	Q1673
+T34	Protein_part 587 594	peptide
+T35	Protein_part 598 606	alanines
+T36	Process 622 625	CDI
+T37	Process 634 637	CDF
+T38	Protein 645 652	channel
+T39	Unknown 679 688	structure
+T40	Body_part 695 700	lobes
+T41	Chemical 704 708	Ca2+
+T42	Unknown 719 722	CaM
+T43	Parameter 736 738	IQ
+T44	Protein_part 739 746	peptide
+T45	Protein_part 751 766	isoleucine 1672
+T46	Process 802 813	interaction
+T47	Process 826 829	CDI
+T48	Unknown 875 884	structure
+T49	State 905 917	conformation
+T50	Protein 923 933	calmodulin
+T51	Process 945 948	CDF

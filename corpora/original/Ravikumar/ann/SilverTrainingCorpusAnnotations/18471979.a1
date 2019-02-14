@@ -1,0 +1,60 @@
+T1	Process 0 10	Regulation
+T2	Protein 14 37	estrogen receptor alpha
+T3	Protein 45 74	SET7 lysine methyltransferase
+T4	Protein 76 104	Estrogen receptor alpha (ER)
+T5	Category 110 116	ligand
+T6	Protein 127 147	transcription factor
+T7	Process 154 161	binding
+T8	Chemical 162 170	estrogen
+T9	Protein 172 174	ER
+T10	Category 184 195	coactivator
+T11	Category 196 205	complexes
+T12	Protein 211 236	histone acetyltransferase
+T13	Protein 240 257	methyltransferase
+T14	Parameter 258 268	activities
+T15	Process 292 298	target
+T16	Protein 299 304	genes
+T17	Protein 321 329	histones
+T18	Category 331 343	coactivators
+T19	Protein 355 357	ER
+T20	Protein 375 383	proteins
+T21	Process 391 406	transactivation
+T22	Category 407 414	complex
+T23	Protein 435 437	ER
+T24	Protein_part 464 474	lysine 302
+T25	Protein_part 476 480	K302
+T26	Protein 489 511	SET7 methyltransferase
+T27	Protein 513 517	SET7
+T28	Process 527 538	methylation
+T29	Protein 550 552	ER
+T30	Process 588 599	recruitment
+T31	Protein 603 605	ER
+T32	Process 613 619	target
+T33	Protein 620 625	genes
+T34	Process 640 655	transactivation
+T35	Protein 661 668	SET7-ER
+T36	Geometrical_part 677 686	structure
+T37	Process 709 714	basis
+T38	Protein_part 719 729	ER peptide
+T39	Process 730 741	recognition
+T40	Process 760 773	modifications
+T41	Process 777 786	mutations
+T42	Protein_part 797 805	residues
+T43	Protein_part 819 823	K302
+T44	Process 824 835	methylation
+T45	Body_part 847 853	breast
+T46	Physiology 854 860	cancer
+T47	Process 872 880	mutation
+T48	Protein_part 884 896	K303 (K303R)
+T49	Process 904 915	methylation
+T50	Protein_part 919 923	K302
+T51	Process 988 998	generation
+T52	Process 1001 1012	recognition
+T53	Process 1018 1025	removal
+T54	Process 1029 1042	modifications
+T55	Protein 1054 1056	ER
+T56	Geometrical_part 1057 1062	hinge
+T57	Protein_part 1063 1069	region
+T58	Protein 1079 1082	"ER
+T59	Process 1083 1095	modification
+T60	Process 1140 1149	signaling

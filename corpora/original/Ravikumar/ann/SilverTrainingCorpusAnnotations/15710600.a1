@@ -1,0 +1,79 @@
+T1	Protein_part 17 31	isoleucine 199
+T2	Process 78 88	inhibition
+T3	Organism 92 97	human
+T4	Protein 98 117	monoamine oxidase B
+T5	Category 141 151	inhibitors
+T6	Category 172 182	inhibitors
+T7	Organism 197 202	human
+T8	Protein 203 230	monoamine oxidase B (MAO B)
+T9	Molecule 251 256	MAO A
+T10	Chemical 310 319	compounds
+T11	Chemical 321 347	8-(3-chlorostyryl)caffeine
+T12	Chemical 349 370	1,4-diphenyl-2-butene
+T13	Chemical 376 396	trans,trans-farnesol
+T14	Organism 439 444	horse
+T15	Organism 446 449	rat
+T16	Organism 455 460	mouse
+T17	Protein 461 466	MAO B
+T18	Parameter 472 483	K(i) values
+T19	Value 495 511	micromolar range
+T20	Process 528 534	effect
+T21	Organism 545 551	bovine
+T22	Organism 555 560	sheep
+T23	Protein 561 566	MAO B
+T24	Organism 570 575	human
+T25	Molecule 576 581	MAO A
+T26	Category 623 632	inhibitor
+T27	Protein 659 664	MAO B
+T28	Molecule 669 674	MAO A
+T29	Parameter 688 698	affinities
+T30	Protein_part 700 708	Sequence
+T31	Process 709 719	alignments
+T32	Geometrical_part 728 746	crystal structures
+T33	Organism 750 755	human
+T34	Protein 756 761	MAO B
+T35	Category 765 772	complex
+T36	Chemical 778 799	1,4-diphenyl-2-butene
+T37	Chemical 808 828	trans,trans-farnesol
+T38	Category 888 898	inhibitors
+T39	Category 908 917	substrate
+T40	Location 922 930	entrance
+T41	Geometrical_part 931 939	cavities
+T42	Protein_part 949 959	side chain
+T43	Protein_part 963 970	Ile-199
+T44	State 997 1009	conformation
+T45	Protein_part 1026 1033	Ile-199
+T46	Category 1048 1057	substrate
+T47	Body_part 1058 1064	cavity
+T48	Protein_part 1066 1073	Ile-199
+T49	Protein_part 1100 1115	MAO B sequences
+T50	Organism 1123 1129	bovine
+T51	Protein 1130 1135	MAO B
+T52	Protein_part 1147 1150	Phe
+T53	Protein_part 1173 1181	sequence
+T54	Organism 1185 1190	sheep
+T55	Protein 1191 1196	MAO B
+T56	Protein_part 1210 1213	Phe
+T57	Protein_part 1256 1271	MAO A sequences
+T58	Organism 1277 1282	human
+T59	Protein 1283 1288	MAO B
+T60	Protein 1289 1309	I199F mutant protein
+T61	Protein 1313 1318	MAO B
+T62	Value 1343 1351	3 microM
+T63	Category 1374 1384	inhibitors
+T64	Geometrical_part 1403 1420	crystal structure
+T65	Protein_part 1458 1468	side chain
+T66	Protein_part 1472 1479	Phe-199
+T67	Process 1500 1507	binding
+T68	Chemical 1517 1526	compounds
+T69	Protein_part 1551 1558	Ile-199
+T70	Protein 1612 1617	MAO B
+T71	Category 1618 1628	inhibitors
+T72	Process 1654 1659	basis
+T73	Process 1668 1679	development
+T74	Protein 1683 1688	MAO B
+T75	Category 1709 1719	inhibitors
+T76	Molecule 1746 1751	MAO A
+T77	Process 1752 1760	function
+T78	Chemical 1764 1780	neurotransmitter
+T79	Process 1781 1791	metabolism

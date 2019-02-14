@@ -1,0 +1,74 @@
+T1	Process 27 43	characterization
+T2	Protein 51 81	EphB4*ephrinB2 protein-protein
+T3	Process 82 93	interaction
+T4	Protein 98 106	receptor
+T5	Process 155 166	interaction
+T6	Protein 174 188	EphB4 receptor
+T7	Category 208 214	ligand
+T8	Molecule 216 224	ephrinB2
+T9	Physiology 251 263	angiogenesis
+T10	Physiology 271 284	tumorigenesis
+T11	Protein 354 359	EphB4
+T12	Molecule 364 372	ephrinB2
+T13	Geometrical_part 392 409	crystal structure
+T14	Category 417 423	ligand
+T15	Process 424 431	binding
+T16	Protein_part 433 439	domain
+T17	Protein 443 448	EphB4
+T18	Category 452 459	complex
+T19	Location 469 482	extracellular
+T20	Protein_part 483 489	domain
+T21	Protein 493 501	ephrinB2
+T22	Technique 519 527	analysis
+T23	Protein_part 547 557	amino acid
+T24	Protein_part 559 565	Leu-95
+T25	Process 598 602	role
+T26	Category 655 661	ligand
+T27	Parameter 662 673	selectivity
+T28	Protein 677 682	EphB4
+T29	Protein 702 715	Eph receptors
+T30	Protein 747 754	ephrins
+T31	Chemical 773 781	arginine
+T32	Protein_part 815 821	Leu-95
+T33	Protein 825 830	EphB4
+T34	Protein_part 856 866	amino acid
+T35	Process 867 874	changes
+T36	Protein 882 887	EphB4
+T37	Category 888 894	ligand
+T38	Process 895 902	binding
+T39	Body_part 904 910	cavity
+T40	Process 930 940	comparison
+T41	Geometrical_part 950 967	crystal structure
+T42	Protein 992 1006	EphB2 receptor
+T43	Unknown 1014 1028	EphB4 variants
+T44	Parameter 1042 1058	binding affinity
+T45	Molecule 1063 1071	ephrinB2
+T46	Protein_part 1092 1099	peptide
+T47	Process 1112 1121	titration
+T48	Technique 1122 1133	calorimetry
+T49	Process 1134 1145	experiments
+T50	Protein_part 1154 1166	EphB4 Leu-95
+T51	Chemical 1170 1185	arginine mutant
+T52	Process 1200 1210	importance
+T53	Protein_part 1219 1229	amino acid
+T54	Parameter 1249 1257	affinity
+T55	Molecule 1274 1282	ephrinB2
+T56	Protein_part 1304 1311	peptide
+T57	Category 1312 1318	ligand
+T58	Process 1331 1340	titration
+T59	Technique 1341 1352	calorimetry
+T60	Process 1353 1365	measurements
+T61	Molecule 1429 1437	ephrinB2
+T62	Process 1438 1445	binding
+T63	Process 1479 1486	process
+T64	Protein_part 1492 1499	peptide
+T65	Process 1500 1507	binding
+T66	Process 1542 1549	process
+T67	Protein 1601 1624	EphB4*ephrinB2  protein
+T68	Process 1654 1665	interaction
+T69	Process 1689 1700	development
+T70	Molecule 1710 1718	molecule
+T71	Chemical 1719 1728	compounds
+T72	Protein 1744 1758	EphB4*ephrinB2
+T73	Process 1759 1770	interaction
+T74	Physiology 1780 1786	cancer

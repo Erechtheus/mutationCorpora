@@ -1,0 +1,73 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 40	human Papillomavirus E7
+T3	Protein 41 52	oncoprotein
+T4	Process 61 70	mechanism
+T5	Process 75 87	inactivation
+T6	Physiology 95 115	retinoblastoma tumor
+T7	Molecule 116 126	suppressor
+T8	Protein 132 146	E7 oncoprotein
+T9	Organism 152 178	human Papillomavirus (HPV)
+T10	Body_part 188 192	cell
+T11	Process 193 207	transformation
+T12	Process 219 226	binding
+T13	Organism 234 239	human
+T14	Protein 240 268	pRb tumor suppressor protein
+T15	Protein 273 298	E2F transcription factors
+T16	Process 317 329	dissociation
+T17	Body_part 333 336	pRb
+T18	Protein 342 367	E2F transcription factors
+T19	Body_part 386 390	cell
+T20	Process 391 402	progression
+T21	Process 412 419	S-phase
+T22	Physiology 428 438	cell cycle
+T23	Parameter 445 453	activity
+T24	Protein_part 473 484	LXCXE motif
+T25	Chemical 493 501	CR3 zinc
+T26	Process 502 509	binding
+T27	Protein_part 510 516	domain
+T28	Protein 524 534	E7 protein
+T29	Molecule 564 569	x-ray
+T30	Geometrical_part 570 587	crystal structure
+T31	Protein_part 596 606	CR3 region
+T32	Organism 610 616	HPV E7
+T33	Unknown 623 632	structure
+T34	Technique 639 658	mutational analysis
+T35	Body_part 686 689	pRb
+T36	Protein 694 697	E2F
+T37	Process 698 705	binding
+T38	Protein 710 713	E2F
+T39	Process 714 726	displacement
+T40	Body_part 732 735	pRb
+T41	Unknown 741 750	structure
+T42	Chemical 767 771	zinc
+T43	Protein 778 784	E7-CR3
+T44	Protein 794 803	homodimer
+T45	Geometrical_part 822 829	surface
+T46	Unknown 830 837	patches
+T47	Protein_part 841 849	sequence
+T48	Process 850 862	conservation
+T49	Process 864 872	Mutation
+T50	Protein_part 876 884	residues
+T51	Unknown 898 905	patches
+T52	Technique 923 928	patch
+T53	Body_part 945 948	pRb
+T54	Process 949 956	binding
+T55	Protein 992 995	E2F
+T56	Process 996 1003	binding
+T57	Protein 1028 1030	E7
+T58	Process 1040 1052	interactions
+T59	Unknown 1078 1085	pRb.E2F
+T60	Category 1086 1095	complexes
+T61	Protein 1160 1162	E7
+T62	Protein 1173 1176	E2F
+T63	Body_part 1182 1185	pRb
+T64	Protein_part 1199 1209	CR3 region
+T65	Organism 1213 1219	HPV E7
+T66	Organism 1256 1261	human
+T67	Protein 1262 1270	proteins
+T68	Unknown 1276 1285	structure
+T69	Molecule 1357 1365	molecule
+T70	Chemical 1366 1375	compounds
+T71	Organism 1389 1395	HPV-E7
+T72	Body_part 1405 1409	cell
+T73	Process 1410 1424	transformation

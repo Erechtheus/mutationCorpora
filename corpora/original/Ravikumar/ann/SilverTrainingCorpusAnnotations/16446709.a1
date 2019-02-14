@@ -1,0 +1,44 @@
+T1	Protein_part 29 54	protein alpha-helix C-cap
+T2	Process 55 66	termination
+T3	Protein 75 91	chemical protein
+T4	Process 92 101	synthesis
+T5	Protein_part 107 118	alpha-helix
+T6	Protein 136 143	protein
+T7	Protein_part 155 160	motif
+T8	Protein_part 195 210	glycine residue
+T9	Chemical 249 256	glycine
+T10	Geometrical_part 265 270	C-cap
+T11	Protein_part 271 279	terminal
+T12	Protein_part 292 305	alpha-helices
+T13	Protein_part 357 364	residue
+T14	Location 370 374	left
+T15	State 382 394	conformation
+T16	Process 407 416	solvation
+T17	Protein_part 424 431	peptide
+T18	Process 456 463	absence
+T19	Protein_part 469 479	side chain
+T20	Process 506 519	contributions
+T21	Process 533 540	effects
+T22	Protein 620 636	chemical protein
+T23	Process 637 646	synthesis
+T24	Process 672 677	basis
+T25	Protein_part 681 692	alpha-helix
+T26	Process 693 704	termination
+T27	Protein 730 748	ubiquitin variants
+T28	Chemical 763 775	L-amino acid
+T29	Chemical 797 809	D-amino acid
+T30	Geometrical_part 817 822	C-cap
+T31	Protein_part 823 828	Gly35
+T32	Chemical 839 852	D-Amino acids
+T33	Location 865 869	left
+T34	State 877 889	conformation
+T35	Process 925 938	contributions
+T36	State 942 956	conformational
+T37	Organism 957 963	strain
+T38	Process 977 986	solvation
+T39	Technique 1010 1018	Analysis
+T40	Chemical 1078 1085	glycine
+T41	Unknown 1093 1095	C'
+T42	Protein_part 1110 1115	helix
+T43	State 1135 1149	conformational
+T44	Process 1150 1156	effect

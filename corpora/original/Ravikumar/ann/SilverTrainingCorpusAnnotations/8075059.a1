@@ -1,0 +1,54 @@
+T1	Chemical 0 12	Nitric oxide
+T2	Process 13 26	recombination
+T3	Molecule 30 44	double mutants
+T4	Protein 48 57	myoglobin
+T5	Process 59 63	role
+T6	Category 67 73	ligand
+T7	Process 74 83	diffusion
+T8	Chemical 101 112	heme pocket
+T9	Process 125 138	recombination
+T10	Chemical 142 154	nitric oxide
+T11	Molecule 162 176	double mutants
+T12	Protein 180 189	myoglobin
+T13	Protein_part 191 208	His64Gly-Val68Ala
+T14	Unknown 213 230	His64Gly.Val68Ile
+T15	Protein_part 235 237	E7
+T16	Protein_part 242 245	E11
+T17	Process 286 297	computation
+T18	Protein_part 316 331	distal residues
+T19	Process 348 354	effect
+T20	Unknown 358 360	NO
+T21	Process 361 374	recombination
+T22	Process 376 389	Recombination
+T23	Molecule 397 404	mutants
+T24	Parameter 446 457	free volume
+T25	Unknown 462 471	structure
+T26	Chemical 479 490	heme pocket
+T27	Molecule 496 510	double mutants
+T28	Process 519 526	insight
+T29	Process 536 543	effects
+T30	Parameter 547 558	free volume
+T31	Geometrical_part 563 569	steric
+T32	Parameter 583 588	rates
+T33	Category 592 598	ligand
+T34	Process 619 629	photolysis
+T35	Chemical 631 646	Water molecules
+T36	Process 660 669	solvation
+T37	Geometrical_part 684 691	surface
+T38	Protein_part 692 700	residues
+T39	Process 712 720	mutation
+T40	Protein 757 764	protein
+T41	Geometrical_part 765 774	structure
+T42	Chemical 782 797	water molecules
+T43	Parameter 809 813	time
+T44	Category 827 834	ligands
+T45	Parameter 875 879	time
+T46	Chemical 943 954	heme pocket
+T47	Unknown 982 988	G64A68
+T48	Unknown 1030 1036	G64I68
+T49	Parameter 1038 1046	kinetics
+T50	Technique 1117 1131	Petrich et al.
+T51	Unknown 1223 1235	Biochemistry
+T52	Parameter 1284 1292	kinetics
+T53	Location 1296 1304	proximal
+T54	Process 1305 1312	effects

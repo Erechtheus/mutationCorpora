@@ -1,0 +1,11 @@
+The three-dimensional structure of a form of human apolactoferrin, in which one lobe (the N-lobe) has an open conformation and the other lobe (the C-lobe) is closed, has been refined at 2.0 A resolution . 
+The refinement, by restrained least-squares methods, used synchrotron radiation X-ray diffraction data combined with a lower resolution diffractometer data set . 
+The final refined model (5346 protein atoms from residues 1-691, two Cl- ions and 363 water molecules) gives a crystallographic R factor of 0.201 (Rfree = 0 . 
+286) for all 51305 reflections in the resolution range 10.0-2.0 A . 
+The conformational change in the N-lobe, which opens up the binding cleft, involves a 54 degrees rotation of the N2 domain relative to the N1 domain . 
+This also results in a small reorientation of the two lobes relative to one another with a further approximately 730 A2 of surface area being buried as the N2 domain contacts the C-lobe and the inter-lobe helix . 
+These new contacts also involve the C-terminal helix and provide a mechanism through which the conformational and iron-binding status of the N-lobe can be signalled to the C-lobe . 
+Surface-area calculations indicate a fine balance between open and closed forms of lactoferrin, which both have essentially the same solvent-accessible surface . 
+Chloride ions are bound in the anion-binding sites of both lobes, emphasizing the functional significance of these sites . 
+The closed configuration of the C-lobe, attributed in part to weak stabilization by crystal packing interactions, has important implications for lactoferrin dynamics . 
+It shows that a stable closed structure, essentially identical to that of the iron-bound form, can be formed in the absence of iron binding . 

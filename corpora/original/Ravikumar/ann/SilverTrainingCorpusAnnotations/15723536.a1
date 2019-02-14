@@ -1,0 +1,83 @@
+T1	Process 0 14	Identification
+T2	Chemical 20 29	disulfide
+T3	Process 30 36	switch
+T4	Protein 40 45	BsSco
+T5	Unknown 49 55	member
+T6	Protein 63 73	Sco family
+T7	Protein 77 89	cytochrome c
+T8	Protein 90 115	oxidase assembly proteins
+T9	Protein 117 122	BsSco
+T10	Body_part 128 136	membrane
+T11	Protein 148 155	protein
+T12	Organism 161 178	Bacillus subtilis
+T13	Protein_part 200 215	sequence CXXXCP
+T14	Organism 239 244	yeast
+T15	Organism 249 254	human
+T16	Body_part 255 268	mitochondrial
+T17	Protein 269 281	Sco proteins
+T18	Organism 293 302	bacterial
+T19	Protein 303 313	homologues
+T20	Protein 315 320	BsSco
+T21	Process 340 348	assembly
+T22	Unknown 356 361	Cu(A)
+T23	Protein 372 384	cytochrome c
+T24	Protein 385 392	oxidase
+T25	Process 408 412	role
+T26	Process 420 428	transfer
+T27	Chemical 432 438	copper
+T28	Protein_part 447 451	site
+T29	Protein_part 487 493	domain
+T30	Protein 497 502	BsSco
+T31	Technique 519 532	spectroscopic
+T32	Protein 569 574	BsSco
+T33	Chemical 591 599	solution
+T34	Protein_part 623 632	cysteines
+T35	Protein_part 667 674	cystine
+T36	Protein_part 687 694	cystine
+T37	Technique 725 756	circular dichroism spectroscopy
+T38	Process 778 785	changes
+T39	Geometrical_part 789 816	BsSco's secondary structure
+T40	Process 822 831	reduction
+T41	Geometrical_part 837 854	crystal structure
+T42	Protein 866 871	BsSco
+T43	Value 887 892	1.7 A
+T44	Parameter 893 903	resolution
+T45	Unknown 921 929	elements
+T46	Chemical 935 951	thioredoxin fold
+T47	Protein_part 957 969	CXXXCP motif
+T48	Protein_part 981 986	Cys45
+T49	Protein_part 991 996	Cys49
+T50	Unknown 1033 1042	structure
+T51	Geometrical_part 1050 1057	surface
+T52	Protein 1065 1072	protein
+T53	Protein_part 1096 1105	His135Ala
+T54	Molecule 1106 1112	mutant
+T55	Unknown 1113 1123	structures
+T56	Chemical 1130 1139	disulfide
+T57	Chemical 1151 1164	non-disulfide
+T58	Geometrical_part 1181 1187	CXXXCP
+T59	Chemical 1240 1246	copper
+T60	Protein_part 1285 1297	CXXXCP motif
+T61	Chemical 1313 1319	copper
+T62	Protein_part 1328 1332	site
+T63	Chemical 1352 1358	copper
+T64	Process 1359 1366	binding
+T65	Protein_part 1367 1374	residue
+T66	Protein_part 1376 1382	His135
+T67	Geometrical_part 1416 1420	loop
+T68	Geometrical_part 1421 1429	parallel
+T69	Geometrical_part 1437 1448	CXXXCP loop
+T70	Value 1456 1470	more than 10 A
+T71	Protein_part 1476 1481	Cys45
+T72	Protein_part 1486 1491	Cys49
+T73	Protein_part 1508 1516	residues
+T74	Chemical 1535 1541	copper
+T75	State 1545 1559	conformational
+T76	Process 1560 1566	change
+T77	Process 1596 1610	identification
+T78	Chemical 1616 1625	disulfide
+T79	Process 1626 1632	switch
+T80	Protein 1651 1656	BsSco
+T81	Process 1692 1696	role
+T82	Unknown 1700 1705	Cu(A)
+T83	Process 1706 1714	assembly

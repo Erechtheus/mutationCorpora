@@ -1,0 +1,58 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 38	Escherichia coli
+T3	Protein 39 53	KDO8P synthase
+T4	Category 54 63	complexes
+T5	Protein 116 174	enzyme 3-deoxy-D-manno-2-octulosonate-8-phosphate synthase
+T6	Protein 176 182	KDO8PS
+T7	Process 198 210	condensation
+T8	Chemical 214 241	arabinose 5-phosphate (A5P)
+T9	Chemical 246 272	phosphoenol pyruvate (PEP)
+T10	Chemical 283 325	3-deoxy-D-manno-2-octulosonate-8-phosphate
+T11	Chemical 327 332	KDO8P
+T12	Category 371 377	ligand
+T13	Process 378 385	binding
+T14	Protein 389 395	KDO8PS
+T15	Category 403 412	complexes
+T16	Technique 416 437	X-ray crystallography
+T17	Geometrical_part 439 449	Structures
+T18	Protein 457 467	apo-enzyme
+T19	Category 482 491	complexes
+T20	Category 501 510	substrate
+T21	Chemical 511 514	PEP
+T22	Category 520 527	product
+T23	Protein 528 533	KDO8P
+T24	Chemical 565 612	1-deoxy analog of arabinose 5-phosphate (1dA5P)
+T25	Protein_part 632 650	KDO8PS active site
+T26	Parameter 710 719	potential
+T27	Chemical 751 754	PEP
+T28	Protein_part 763 771	sub-site
+T29	Parameter 805 810	force
+T30	Chemical 838 847	phosphate
+T31	Molecular_Part 848 856	moieties
+T32	Category 864 871	ligands
+T33	Unknown 877 887	structures
+T34	Unknown 907 917	apo-KDO8PS
+T35	Category 933 940	complex
+T36	Category 950 957	product
+T37	Protein 958 963	KDO8P
+T38	Parameter 988 992	time
+T39	Process 997 1001	role
+T40	Protein_part 1005 1011	His202
+T41	Protein_part 1018 1029	active-site
+T42	Process 1036 1047	Examination
+T43	Geometrical_part 1056 1074	crystal structures
+T44	Protein 1078 1084	KDO8PS
+T45	Protein 1094 1099	KDO8P
+T46	Chemical 1103 1108	1dA5P
+T47	Category 1121 1128	ligands
+T48	Protein 1142 1148	enzyme
+T49	Chemical 1156 1159	PEP
+T50	Protein_part 1168 1176	sub-site
+T51	Protein_part 1205 1217	A5P sub-site
+T52	Unknown 1240 1250	structures
+T53	Protein 1304 1310	enzyme
+T54	Process 1311 1320	functions
+T55	Process 1354 1363	catalysis
+T56	Process 1377 1382	roles
+T57	Protein_part 1386 1406	active-site residues
+T58	Process 1452 1456	lack

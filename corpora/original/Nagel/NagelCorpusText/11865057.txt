@@ -1,0 +1,8 @@
+Mammalian Lin-2 (mLin-2)/CASK is a membrane-associated guanylate kinase (MAGUK) and contains multidomain modules that mediate protein-protein interactions important for the establishment and maintenance of neuronal and epithelial cell polarization . 
+The importance of mLin-2/CASK in mammalian development is demonstrated by the fact that mutations in mLin-2/CASK or SAP97, another MAGUK protein, lead to cleft palate in mice . 
+We recently identified a new protein-protein interaction domain, called the L27 domain, which is present twice in mLin-2/CASK . 
+In this report, we further define the binding of the L27C domain of mLin-2/CASK to the L27 domain of mLin-7 and identify the binding partner for L27N of mLin-2/CASK . 
+Biochemical analysis reveals that this L27N domain binds to the N terminus of SAP97, a region that was previously reported to be essential for the lateral membrane recruitment of SAP97 in epithelia . 
+Our colocalization studies, using dominant-negative mLin-2/CASK, show that the association with mLin-2/CASK is crucial for lateral localization of SAP97 in MDCK cells . 
+We also report the identification of a novel isoform of Discs Large, a Drosophila melanogaster orthologue of SAP97, which contains a region highly related to the SAP97 N terminus and which binds Camguk, a Drosophila orthologue of mLin-2/CASK . 
+Our data identify evolutionarily conserved protein-protein interaction domains that link mLin-2/CASK to SAP97 and account for their common phenotype when mutated in mice . 

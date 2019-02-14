@@ -1,0 +1,75 @@
+T1	Protein 0 14	Beta2 integrin
+T2	Process 15 30	phosphorylation
+T3	Protein_part 34 40	Thr758
+T4	Process 61 67	switch
+T5	Protein 91 98	filamin
+T6	Process 99 106	binding
+T7	Body_part 108 117	Leukocyte
+T8	Protein 118 127	integrins
+T9	Protein 135 147	beta2 family
+T10	Body_part 166 182	immune cell-cell
+T11	Process 183 191	adhesion
+T12	Body_part 206 211	cells
+T13	Protein 213 228	beta2 integrins
+T14	Location 255 266	cytoplasmic
+T15	Protein_part 267 273	Thr758
+T16	Protein 293 300	protein
+T17	Process 301 312	recruitment
+T18	Protein 320 325	beta2
+T19	Protein 326 334	integrin
+T20	Process 341 349	mutation
+T21	Process 358 373	phosphorylation
+T22	Protein_part 374 378	site
+T23	Body_part 387 391	cell
+T24	Process 392 400	adhesion
+T25	Protein 402 407	actin
+T26	Process 408 422	reorganization
+T27	Body_part 428 432	cell
+T28	Protein_part 444 450	Thr758
+T29	Protein_part 469 472	Thr
+T30	Protein 484 489	beta2
+T31	Process 509 516	binding
+T32	Protein 520 527	filamin
+T33	Process 555 562	binding
+T34	Protein 566 573	filamin
+T35	Protein 575 580	talin
+T36	Protein 593 601	proteins
+T37	Protein 624 657	unphosphorylated beta2  integrins
+T38	Technique 685 706	x-ray crystallography
+T39	Protein 715 723	proteins
+T40	Protein_part 742 785	phosphorylated integrin cytoplasmic peptide
+T41	Parameter 799 807	affinity
+T42	Value 815 821	261 nM
+T43	Protein 832 839	filamin
+T44	Protein_part 855 900	unphosphorylated integrin cytoplasmic peptide
+T45	Value 908 914	0.5 mM
+T46	Process 917 932	Phosphorylation
+T47	Protein 950 955	talin
+T48	Protein 967 972	beta2
+T49	Protein 1017 1022	talin
+T50	Process 1031 1038	binding
+T51	Protein 1042 1071	phosphorylated beta2 integrin
+T52	Technique 1073 1095	X-ray crystallographic
+T53	Process 1123 1138	phosphorylation
+T54	Protein 1150 1157	filamin
+T55	Process 1158 1165	binding
+T56	Protein 1185 1192	protein
+T57	Process 1193 1200	binding
+T58	Protein 1202 1209	Filamin
+T59	Process 1210 1219	knockdown
+T60	Body_part 1223 1230	T cells
+T61	Process 1241 1249	increase
+T62	Body_part 1264 1268	cell
+T63	Process 1269 1277	adhesion
+T64	Unknown 1281 1287	ICAM-1
+T65	Geometrical_part 1295 1303	surfaces
+T66	Process 1334 1349	phosphorylation
+T67	Protein 1353 1368	beta2 integrins
+T68	Protein_part 1372 1378	Thr758
+T69	Process 1399 1405	switch
+T70	Protein 1417 1424	filamin
+T71	Process 1425 1432	binding
+T72	Protein 1450 1457	protein
+T73	Protein_part 1473 1500	integrin cytoplasmic domain
+T74	Body_part 1521 1527	T-cell
+T75	Process 1528 1536	adhesion

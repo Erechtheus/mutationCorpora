@@ -1,0 +1,64 @@
+T1	Process 11 16	basis
+T2	Protein_part 20 24	site
+T3	Protein 34 41	histone
+T4	Process 42 53	recognition
+T5	Chemical 61 73	bromodomains
+T6	Organism 77 82	human
+T7	Category 83 95	coactivators
+T8	Protein 96 100	PCAF
+T9	Protein 105 113	CBP/p300
+T10	Protein_part 115 129	Histone lysine
+T11	Process 130 141	acetylation
+T12	Physiology 156 166	epigenetic
+T13	Process 167 174	control
+T14	Protein 178 182	gene
+T15	Process 183 196	transcription
+T16	Chemical 198 210	Bromodomains
+T17	Protein 214 234	chromosomal proteins
+T18	Chemical 247 260	acetyl-lysine
+T19	Process 267 274	binding
+T20	Protein_part 275 282	domains
+T21	Chemical 297 309	bromodomains
+T22	Protein_part 320 324	site
+T23	Protein 334 342	histones
+T24	Chemical 403 422	solution structures
+T25	Chemical 430 442	bromodomains
+T26	Organism 450 455	human
+T27	Category 472 484	coactivators
+T28	Protein 485 511	CREB-binding protein (CBP)
+T29	Protein 516 549	p300/CBP-associated factor (PCAF)
+T30	Protein_part 559 567	peptides
+T31	Protein 581 588	histone
+T32	Process 589 600	acetylation
+T33	Protein_part 601 606	sites
+T34	Protein_part 610 620	lysines 36
+T35	Protein_part 630 632	H3
+T36	Protein_part 638 647	lysine 20
+T37	Protein_part 651 653	H4
+T38	Process 675 694	biochemical binding
+T39	Technique 695 703	analyses
+T40	Protein 728 735	histone
+T41	Process 737 748	recognition
+T42	Chemical 756 768	bromodomains
+T43	Protein 772 776	PCAF
+T44	Protein 781 784	CBP
+T45	Process 806 815	different
+T46	Chemical 833 851	bromodomain family
+T47	Protein_part 861 881	bromodomain residues
+T48	Geometrical_part 889 891	ZA
+T49	Geometrical_part 896 904	BC loops
+T50	Protein 906 910	PCAF
+T51	Process 919 930	acetylation
+T52	Protein_part 931 936	sites
+T53	Protein_part 944 963	hydrophobic residue
+T54	Unknown 968 973	Kac+2
+T55	Protein_part 1021 1028	residue
+T56	Unknown 1033 1038	Kac+3
+T57	Protein 1049 1052	CBP
+T58	Protein_part 1066 1086	hydrophobic residues
+T59	Unknown 1091 1096	Kac+1
+T60	Unknown 1103 1108	Kac+2
+T61	Protein_part 1132 1139	residue
+T62	Unknown 1144 1149	Kac-1
+T63	Protein_part 1168 1175	residue
+T64	Unknown 1180 1185	Kac-2

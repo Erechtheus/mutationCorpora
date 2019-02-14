@@ -1,0 +1,64 @@
+T1	Protein 0 33	D-3-hydroxybutyrate dehydrogenase
+T2	Organism 39 56	Pseudomonas fragi
+T3	Technique 58 75	molecular cloning
+T4	Protein 83 94	enzyme gene
+T5	Geometrical_part 99 116	crystal structure
+T6	Protein 124 130	enzyme
+T7	Protein 136 140	gene
+T8	Protein 152 192	d-3-hydroxybutyrate dehydrogenase (HBDH)
+T9	Organism 209 226	Pseudomonas fragi
+T10	Protein_part 232 251	nucleotide sequence
+T11	Value 264 270	780 bp
+T12	Protein_part 271 289	open reading frame
+T13	Protein_part 306 324	amino acid residue
+T14	Protein 325 332	protein
+T15	Protein 350 356	enzyme
+T16	Organism 386 402	Escherichia coli
+T17	Body_part 403 408	cells
+T18	Protein 419 426	pHBDH11
+T19	Technique 472 480	SDS-PAGE
+T20	Protein 486 492	enzyme
+T21	Protein 534 546	D-enantiomer
+T22	Chemical 569 586	3-hydroxybutyrate
+T23	Category 592 601	substrate
+T24	Unknown 603 611	Crystals
+T25	Protein 631 635	HBDH
+T26	Chemical 647 658	enzyme-NAD+
+T27	Category 659 666	complex
+T28	Chemical 705 720	vapor-diffusion
+T29	Geometrical_part 733 750	crystal structure
+T30	Protein 758 762	HBDH
+T31	Process 807 818	diffraction
+T32	Unknown 836 841	SeMet
+T33	Protein 854 860	enzyme
+T34	Value 880 885	2.0 A
+T35	Parameter 886 896	resolution
+T36	Unknown 910 919	structure
+T37	Organism 923 930	P.fragi
+T38	Protein 931 935	HBDH
+T39	Protein_part 951 967	catalytic tetrad
+T40	Protein_part 971 977	Asn114
+T41	Protein_part 979 985	Ser142
+T42	Protein_part 987 993	Tyr155
+T43	Protein_part 999 1005	Lys159
+T44	Parameter 1021 1034	relationships
+T45	Unknown 1046 1053	members
+T46	Protein 1061 1109	short-chain dehydrogenase/reductase (SDR) family
+T47	Chemical 1124 1129	anion
+T48	Protein 1167 1173	enzyme
+T49	Chemical 1182 1193	enzyme-NAD+
+T50	Category 1194 1201	complex
+T51	Protein_part 1229 1245	catalytic tetrad
+T52	Chemical 1294 1298	NAD+
+T53	Chemical 1309 1328	D-3-hydroxybutyrate
+T54	Process 1329 1344	dehydrogenation
+T55	Parameter 1367 1375	Ki value
+T56	Value 1379 1385	5.6 mM
+T57	Process 1396 1408	interactions
+T58	Protein 1436 1442	enzyme
+T59	Category 1465 1474	substrate
+T60	Process 1511 1522	recognition
+T61	Chemical 1530 1538	3-methyl
+T62	Chemical 1543 1551	carboxyl
+T63	Molecular_Part 1552 1558	groups
+T64	Category 1566 1575	substrate

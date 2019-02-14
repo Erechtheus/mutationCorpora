@@ -1,0 +1,55 @@
+T1	Process 11 16	basis
+T2	Process 25 33	function
+T3	Body_part 41 50	ribosomal
+T4	Protein 51 56	L7/12
+T5	Protein 66 72	factor
+T6	Process 73 80	binding
+T7	Protein 86 92	GTPase
+T8	Process 93 103	activation
+T9	Protein 109 114	L7/12
+T10	Protein 128 141	large subunit
+T11	Organism 145 154	bacterial
+T12	Body_part 155 164	ribosomes
+T13	Protein 177 188	protein L10
+T14	Protein 212 217	L7/12
+T15	Geometrical_part 230 248	crystal structures
+T16	Organism 252 275	Thermotoga maritima L10
+T17	Category 279 286	complex
+T18	Protein 298 328	L7/12 N-terminal-domain dimers
+T19	Unknown 341 350	structure
+T20	Organism 357 365	archaeal
+T21	Protein_part 366 388	L10E N-terminal domain
+T22	Value 396 399	50S
+T23	Protein 400 407	subunit
+T24	Unknown 429 437	elements
+T25	Technique 441 466	cryo-electron-microscopic
+T26	Process 467 482	reconstructions
+T27	Organism 486 502	Escherichia coli
+T28	Body_part 503 512	ribosomes
+T29	Protein 525 548	C-terminal helix alpha8
+T30	Protein 552 555	L10
+T31	Protein 570 582	L7/12 dimers
+T32	Organism 586 597	T. maritima
+T33	Organism 609 616	E. coli
+T34	Process 642 651	different
+T35	Parameter 652 658	length
+T36	Protein_part 662 674	helix alpha8
+T37	Protein 678 681	L10
+T38	Organism 691 700	organisms
+T39	Geometrical_part 706 711	stalk
+T40	Unknown 736 744	elements
+T41	Protein_part 758 798	L10 helix alpha8-L7/12 N-terminal-domain
+T42	Category 799 806	complex
+T43	Protein_part 812 836	L7/12 C-terminal domains
+T44	Process 857 868	connections
+T45	Protein_part 884 908	L7/12 C-terminal domains
+T46	Process 917 928	recruitment
+T47	Protein 932 951	translation factors
+T48	Body_part 959 967	ribosome
+T49	Chemical 982 985	GTP
+T50	Process 986 996	hydrolysis
+T51	Body_part 1004 1012	ribosome
+T52	Protein 1019 1026	factors
+T53	Process 1035 1048	stabilization
+T54	Protein 1065 1071	GTPase
+T55	State 1072 1084	conformation

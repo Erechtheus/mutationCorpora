@@ -1,0 +1,76 @@
+T1	Process 11 18	changes
+T2	Protein 26 27	L
+T3	Protein 49 66	bacteriorhodopsin
+T4	Protein 72 73	L
+T5	Unknown 77 78	M
+T6	Process 79 87	reaction
+T7	Chemical 95 123	bacteriorhodopsin photocycle
+T8	Molecule 145 151	proton
+T9	Process 152 160	transfer
+T10	Body_part 170 177	retinal
+T11	Chemical 178 189	Schiff base
+T12	Protein_part 193 198	Asp85
+T13	Process 216 226	importance
+T14	State 234 241	L state
+T15	Process 276 285	transport
+T16	Process 286 295	mechanism
+T17	Protein 304 308	pump
+T18	Process 322 335	disagreements
+T19	Geometrical_part 362 389	crystallographic structures
+T20	Protein 393 394	L
+T21	Technique 444 461	X-ray diffraction
+T22	Geometrical_part 462 471	structure
+T23	State 479 486	L state
+T24	Value 491 502	1.53-1.73 A
+T25	Process 503 514	resolutions
+T26	Unknown 573 581	crystals
+T27	Process 629 639	refinement
+T28	Process 645 656	diffraction
+T29	Parameter 657 668	intensities
+T30	Unknown 683 691	crystals
+T31	Process 714 726	illumination
+T32	State 750 757	L state
+T33	Parameter 800 809	distances
+T34	Parameter 815 826	bond angles
+T35	Process 831 839	torsions
+T36	Body_part 847 854	retinal
+T37	Unknown 919 925	13-cis
+T38	Body_part 926 933	retinal
+T39	Protein 937 938	L
+T40	Chemical 957 962	C(13)
+T41	Chemical 963 968	C(14)
+T42	Chemical 973 978	C(15)
+T43	Chemical 979 994	NZ double-bonds
+T44	Chemical 1004 1015	Schiff base
+T45	Process 1034 1044	connection
+T46	Unknown 1048 1054	Wat402
+T47	Molecule 1078 1084	proton
+T48	Category 1086 1094	acceptor
+T49	Protein_part 1095 1100	Asp85
+T50	Process 1106 1117	protonation
+T51	Protein_part 1121 1126	Asp85
+T52	Chemical 1134 1145	Schiff base
+T53	Protein 1153 1156	L--
+T54	Unknown 1157 1158	M
+T55	Process 1159 1167	reaction
+T56	Unknown 1203 1209	Wat402
+T57	Unknown 1234 1243	structure
+T58	State 1251 1258	L state
+T59	State 1272 1286	conformational
+T60	Process 1287 1294	changes
+T61	Chemical 1305 1313	hydrogen
+T62	Protein_part 1322 1330	residues
+T63	Chemical 1341 1356	water molecules
+T64	Body_part 1385 1392	retinal
+T65	Protein 1400 1407	protein
+T66	Location 1443 1456	extracellular
+T67	Location 1461 1472	cytoplasmic
+T68	Process 1473 1483	directions
+T69	Process 1509 1518	transport
+T70	Parameter 1553 1563	amplitudes
+T71	Molecule 1580 1593	intermediates
+T72	Protein 1606 1607	L
+T73	Process 1615 1623	reaction
+T74	Molecule 1644 1650	proton
+T75	Process 1651 1659	transfer
+T76	Process 1660 1669	reactions

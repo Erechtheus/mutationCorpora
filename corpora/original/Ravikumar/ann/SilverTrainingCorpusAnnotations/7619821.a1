@@ -1,0 +1,80 @@
+T1	State 0 16	Transition state
+T2	Chemical 17 50	analogue L-leucinephosphonic acid
+T3	Protein 60 94	bovine lens leucine aminopeptidase
+T4	Molecule 96 101	X-ray
+T5	Unknown 102 111	structure
+T6	Value 115 121	1.65 A
+T7	Parameter 122 132	resolution
+T8	Unknown 142 149	crystal
+T9	Geometrical_part 160 187	three-dimensional structure
+T10	Protein 191 233	bovine lens leucine aminopeptidase (blLAP)
+T11	Chemical 249 280	L-Leucinephosphonic acid (LeuP)
+T12	Process 304 325	molecular replacement
+T13	Unknown 336 345	structure
+T14	Protein 356 361	blLAP
+T15	Process 383 400	Cocrystallization
+T16	Protein 408 414	enzyme
+T17	Category 424 433	inhibitor
+T18	Unknown 448 455	crystal
+T19	Geometrical_part 465 481	space group P321
+T20	Body_part 492 496	cell
+T21	Parameter 497 507	dimensions
+T22	Parameter 508 509	a
+T23	Value 512 519	130.4 A
+T24	Parameter 524 525	c
+T25	Value 528 535	125.4 A
+T26	Process 537 547	Refinement
+T27	Value 579 582	7.0
+T28	Value 586 592	1.65 A
+T29	Parameter 593 603	resolution
+T30	Unknown 625 634	structure
+T31	Technique 642 658	crystallographic
+T32	Value 671 676	0.160
+T33	Value 688 693	0.191
+T34	Chemical 701 717	N-terminal amino
+T35	Molecular_Part 718 723	group
+T36	Chemical 727 731	LeuP
+T37	Chemical 750 756	Zn-489
+T38	Chemical 762 784	phosphoryl oxygen atom
+T39	Chemical 798 808	metal ions
+T40	Chemical 822 844	phosphoryl oxygen atom
+T41	Chemical 863 869	Zn-488
+T42	Protein_part 875 885	side chain
+T43	Protein_part 889 896	Arg-336
+T44	Category 916 925	inhibitor
+T45	Chemical 936 951	water molecules
+T46	Chemical 953 957	LeuP
+T47	State 1005 1021	transition state
+T48	Chemical 1047 1052	water
+T49	Chemical 1056 1081	hydroxide ion nucleophile
+T50	Chemical 1098 1110	peptide bond
+T51	Process 1119 1124	basis
+T52	Chemical 1132 1136	LeuP
+T53	Process 1137 1144	binding
+T54	Process 1216 1224	reaction
+T55	Process 1225 1233	pathways
+T56	Chemical 1253 1266	two-metal ion
+T57	Process 1267 1277	mechanisms
+T58	Chemical 1322 1327	metal
+T59	Chemical 1335 1360	hydroxide ion nucleophile
+T60	Parameter 1365 1377	polarization
+T61	Chemical 1385 1393	carbonyl
+T62	Molecular_Part 1394 1399	group
+T63	Chemical 1407 1416	zinc ions
+T64	Process 1437 1442	roles
+T65	Protein_part 1446 1453	Arg-336
+T66	Protein_part 1458 1465	Lys-262
+T67	Chemical 1501 1504	H2O
+T68	Process 1506 1517	protonation
+T69	Molecular_Part 1525 1538	leaving group
+T70	Process 1547 1560	stabilization
+T71	Chemical 1566 1570	zinc
+T72	Chemical 1577 1592	OH- nucleophile
+T73	Process 1604 1617	stabilization
+T74	Molecule 1644 1656	intermediate
+T75	Protein_part 1675 1681	site 3
+T76	Chemical 1682 1691	metal ion
+T77	Value 1692 1710	approximately 12 A
+T78	Protein_part 1726 1739	active site 2
+T79	Chemical 1740 1748	zinc ion
+T80	Process 1778 1782	role

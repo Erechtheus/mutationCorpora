@@ -1,0 +1,91 @@
+T1	Process 0 4	Role
+T2	Molecule 8 11	Q52
+T3	Process 15 24	catalysis
+T4	Process 28 43	decarboxylation
+T5	Process 48 62	transamination
+T6	Protein 66 95	dialkylglycine  decarboxylase
+T7	Protein 97 131	Dialkylglycine decarboxylase (DGD)
+T8	Chemical 137 156	pyridoxal phosphate
+T9	Protein 167 173	enzyme
+T10	Process 194 209	decarboxylation
+T11	Process 214 228	transamination
+T12	Protein 261 264	DGD
+T13	Process 287 294	effects
+T14	Process 318 326	reaction
+T15	Technique 340 362	X-ray crystallographic
+T16	Geometrical_part 363 373	structures
+T17	Protein 377 380	DGD
+T18	Molecule 394 397	Q52
+T19	Category 430 439	substrate
+T20	Chemical 440 451	carboxylate
+T21	Technique 508 524	X-ray structures
+T22	Protein_part 532 543	Q52A mutant
+T23	Protein 552 582	wild type (WT) DGD-PMP enzymes
+T24	Technique 608 616	analysis
+T25	Parameter 620 632	steady-state
+T26	Parameter 651 659	kinetics
+T27	Molecule 669 672	Q52
+T28	Molecule 673 680	mutants
+T29	Molecule 682 686	Q52A
+T30	Molecule 688 692	Q52I
+T31	Molecule 698 702	Q52E
+T32	Process 737 744	effects
+T33	Process 762 771	catalysis
+T34	Parameter 777 794	steady-state rate
+T35	Process 799 814	decarboxylation
+T36	Molecule 829 836	mutants
+T37	Protein 885 887	WT
+T38	Molecule 889 893	Q52A
+T39	Value 906 927	approximately 85-fold
+T40	Process 928 936	decrease
+T41	Parameter 940 946	k(cat)
+T42	Protein 967 969	WT
+T43	Parameter 975 979	rate
+T44	Process 987 1002	decarboxylation
+T45	Value 1041 1051	10(5)-fold
+T46	Molecule 1055 1059	Q52I
+T47	Value 1078 1088	10(4)-fold
+T48	Molecule 1092 1096	Q52E
+T49	Protein 1117 1119	WT
+T50	Process 1121 1135	Transamination
+T51	Parameter 1150 1158	kinetics
+T52	Molecule 1169 1173	Q52A
+T53	Molecule 1178 1182	Q52I
+T54	Parameter 1204 1209	rates
+T55	Protein 1230 1232	WT
+T56	Chemical 1263 1291	pyridoxamine phosphate (PMP)
+T57	Chemical 1306 1312	K(PMP)
+T58	Value 1322 1333	50-100-fold
+T59	Protein 1355 1357	WT
+T60	Process 1370 1376	effect
+T61	Parameter 1384 1388	rate
+T62	Protein_part 1392 1401	l-alanine
+T63	Process 1402 1416	transamination
+T64	Chemical 1425 1433	pyruvate
+T65	Process 1434 1448	transamination
+T66	Molecule 1458 1465	mutants
+T67	Parameter 1484 1488	rate
+T68	Process 1489 1497	decrease
+T69	Process 1526 1541	destabilization
+T70	Chemical 1549 1552	PMP
+T71	Protein 1565 1571	enzyme
+T72	Molecule 1581 1588	mutants
+T73	Molecule 1590 1594	Q52E
+T74	Protein 1604 1611	near-WT
+T75	Parameter 1612 1617	rates
+T76	Process 1622 1636	transamination
+T77	Chemical 1645 1653	pyruvate
+T78	Protein_part 1658 1667	l-alanine
+T79	Process 1679 1686	binding
+T80	Molecule 1716 1720	Q52E
+T81	Parameter 1726 1757	apparent dissociation constants
+T82	Value 1767 1775	100-fold
+T83	Protein 1797 1799	WT
+T84	Parameter 1805 1809	rate
+T85	Process 1813 1828	decarboxylation
+T86	Molecule 1833 1837	Q52E
+T87	Process 1859 1871	contribution
+T88	Process 1892 1899	effects
+T89	Process 1901 1925	DeltaG(stereoelectronic)
+T90	Value 1949 1962	-7.3 kcal/mol
+T91	Protein 1967 1970	DGD

@@ -1,0 +1,53 @@
+T1	Protein 12 18	enzyme
+T2	Chemical 29 32	CO2
+T3	Protein 34 73	Phosphoenolpyruvate carboxykinase (PCK)
+T4	Process 99 112	carboxylation
+T5	Chemical 116 135	phosphoenolpyruvate
+T6	Chemical 139 151	oxaloacetate
+T7	Chemical 153 167	Carbon dioxide
+T8	Chemical 177 192	bicarbonate ion
+T9	Category 202 211	substrate
+T10	Technique 222 228	Assays
+T11	Process 236 249	carboxylation
+T12	Process 250 258	reaction
+T13	Parameter 277 287	velocities
+T14	Value 292 300	7.6-fold
+T15	Unknown 313 318	CO(2)
+T16	Unknown 338 347	HCO(3)(-)
+T17	Organism 353 369	Escherichia coli
+T18	Protein 370 398	PCK-CO(2) crystal structures
+T19	Unknown 435 440	CO(2)
+T20	Unknown 462 472	structures
+T21	Process 486 497	orientation
+T22	Unknown 501 506	CO(2)
+T23	Process 524 533	different
+T24	Process 551 559	presence
+T25	Chemical 565 578	manganese ion
+T26	Unknown 593 603	structures
+T27	Protein 605 608	PCK
+T28	Unknown 635 666	protein-CO(2) crystal structure
+T29	Category 667 676	complexes
+T30	Chemical 706 720	CO(2) hydrogen
+T31	Process 721 728	bonding
+T32	Protein_part 742 753	amino  acid
+T33	Protein_part 754 764	side chain
+T34	Protein_part 766 771	Arg65
+T35	Protein_part 775 781	Lys213
+T36	Protein 785 788	PCK
+T37	Unknown 810 815	CO(2)
+T38	Chemical 836 847	carbon atom
+T39	Parameter 891 898	Kinetic
+T40	Protein 922 932	PCK mutant
+T41	Protein_part 933 941	Arg65Gln
+T42	Parameter 956 960	K(M)
+T43	Category 965 975	substrates
+T44	Unknown 976 979	PEP
+T45	Chemical 984 996	oxaloacetate
+T46	Unknown 1009 1014	CO(2)
+T47	Parameter 1030 1034	K(M)
+T48	Unknown 1039 1044	CO(2)
+T49	Protein_part 1072 1080	Arg65Gln
+T50	Molecule 1081 1087	mutant
+T51	Chemical 1107 1120	hydrogen bond
+T52	Chemical 1135 1147	oxygen atoms
+T53	Chemical 1151 1165	carbon dioxide

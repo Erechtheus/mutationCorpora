@@ -1,0 +1,99 @@
+T1	Unknown 0 9	Structure
+T2	Molecule 23 35	intermediate
+T3	Protein 39 49	calmodulin
+T4	Chemical 51 58	calcium
+T5	Process 59 69	regulation
+T6	Protein_part 73 80	EF-hand
+T7	Protein 82 90	proteins
+T8	Protein 115 131	Calmodulin (CaM)
+T9	Chemical 153 157	Ca2+
+T10	Protein 166 173	protein
+T11	Parameter 193 201	activity
+T12	Protein 210 217	enzymes
+T13	Process 221 229	response
+T14	Process 233 240	changes
+T15	Location 248 261	intracellular
+T16	Chemical 262 266	Ca2+
+T17	Parameter 267 280	concentration
+T18	Protein_part 296 312	globular domains
+T19	Protein 316 319	CaM
+T20	Chemical 347 368	helix-loop-helix Ca2+
+T21	Protein_part 377 383	motifs
+T22	Protein_part 391 399	EF-hands
+T23	Chemical 401 405	Ca2+
+T24	Process 426 433	opening
+T25	Protein_part 442 449	domains
+T26	Process 500 507	binding
+T27	Protein_part 508 513	sites
+T28	Process 522 528	target
+T29	Protein 529 536	enzymes
+T30	Unknown 544 545	I
+T31	Value 556 561	2.4 A
+T32	Parameter 562 572	resolution
+T33	Geometrical_part 573 582	structure
+T34	Protein 588 605	calmodulin mutant
+T35	Protein 607 615	CaM41/75
+T36	Protein_part 630 647	N-terminal domain
+T37	State 665 684	closed conformation
+T38	Chemical 690 704	disulfide bond
+T39	Protein 706 714	CaM41/75
+T40	Chemical 761 765	Ca2+
+T41	Protein_part 784 792	EF-hands
+T42	Chemical 808 833	N-terminal domain Ca ions
+T43	Protein 862 869	protein
+T44	Category 870 877	ligands
+T45	Location 881 892	positions 1
+T46	Location 894 895	3
+T47	Location 897 898	5
+T48	Location 903 904	7
+T49	Geometrical_part 912 916	loop
+T50	Chemical 929 936	solvent
+T51	Category 937 944	ligands
+T52	Protein_part 950 970	glutamate side-chain
+T53	Value 978 982	12th
+T54	Geometrical_part 999 1003	loop
+T55	Protein_part 1005 1010	Glu31
+T56	Protein_part 1014 1020	site I
+T57	Protein_part 1025 1030	Glu67
+T58	Protein_part 1034 1041	site II
+T59	Protein 1057 1074	wild-type protein
+T60	Chemical 1086 1100	bidentate Ca2+
+T61	Category 1101 1107	ligand
+T62	Location 1122 1128	distal
+T63	Process 1150 1160	comparison
+T64	Protein 1164 1172	CaM41/75
+T65	Protein 1184 1187	CaM
+T66	Protein 1192 1213	troponin C structures
+T67	Process 1234 1243	mechanism
+T68	Chemical 1251 1255	Ca2+
+T69	Process 1264 1271	process
+T70	Chemical 1300 1304	Ca2+
+T71	Protein_part 1318 1333	N-terminal part
+T72	Geometrical_part 1341 1345	loop
+T73	Process 1371 1375	link
+T74	Protein_part 1397 1402	helix
+T75	Protein_part 1404 1411	helix A
+T76	Protein_part 1416 1423	helix C
+T77	Protein 1441 1445	beta
+T78	Geometrical_part 1446 1455	structure
+T79	Protein_part 1470 1478	residues
+T80	Geometrical_part 1528 1532	loop
+T81	Protein_part 1552 1557	helix
+T82	Protein_part 1559 1566	helix B
+T83	Protein_part 1570 1577	helix D
+T84	Chemical 1599 1608	glutamate
+T85	Category 1609 1615	ligand
+T86	Value 1623 1627	12th
+T87	Location 1654 1662	vicinity
+T88	Chemical 1682 1686	Ca2+
+T89	Process 1691 1701	adjustment
+T90	Protein 1709 1712	phi
+T91	Protein 1714 1717	psi
+T92	Parameter 1736 1742	angles
+T93	Protein_part 1750 1761	Ile residue
+T94	Protein_part 1821 1826	helix
+T95	Process 1827 1835	rotation
+T96	Geometrical_part 1856 1861	hinge
+T97	Chemical 1918 1922	Ca2+
+T98	Protein_part 1931 1936	sites
+T99	Protein_part 1942 1960	two-EF-hand domain

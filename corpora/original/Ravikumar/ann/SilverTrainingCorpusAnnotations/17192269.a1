@@ -1,0 +1,96 @@
+T1	Protein 15 32	N-terminal myosin
+T2	Process 33 40	binding
+T3	Protein_part 41 45	site
+T4	Organism 49 54	human
+T5	Body_part 55 62	cardiac
+T6	Protein 63 87	myosin-binding protein C
+T7	Unknown 89 98	Structure
+T8	Protein 103 109	myosin
+T9	Process 110 117	binding
+T10	Protein_part 121 130	domain C2
+T11	Protein 132 165	Myosin-binding protein C (MyBP-C)
+T12	Protein 175 181	myosin
+T13	Process 191 198	binding
+T14	Protein_part 199 204	sites
+T15	Protein_part 223 233	N terminus
+T16	Protein_part 255 265	C terminus
+T17	Geometrical_part 287 305	solution structure
+T18	Geometrical_part 313 317	part
+T19	Protein_part 325 335	N-terminal
+T20	Process 336 343	binding
+T21	Protein_part 344 348	site
+T22	Protein_part 360 381	immunoglobulin domain
+T23	Body_part 389 396	cardiac
+T24	Molecule 397 404	isoform
+T25	Organism 408 413	human
+T26	Protein 414 426	MyBP-C (cC2)
+T27	Process 457 468	interaction
+T28	Protein 474 480	myosin
+T29	Protein_part 482 492	Domain cC2
+T30	Geometrical_part 501 524	beta-sandwich structure
+T31	Unknown 541 547	member
+T32	Protein 555 569	immunoglobulin
+T33	Geometrical_part 570 574	fold
+T34	Protein_part 580 595	C-terminal part
+T35	Geometrical_part 604 613	structure
+T36	Protein 617 620	cC2
+T37	Protein 648 655	telokin
+T38	Protein 661 667	myosin
+T39	Process 668 675	binding
+T40	Unknown 676 684	fragment
+T41	Protein 688 706	myosin light chain
+T42	Protein 707 713	kinase
+T43	Protein_part 715 725	Domain cC2
+T44	Protein_part 744 753	cysteines
+T45	Protein_part 770 779	strands F
+T46	Protein_part 784 785	G
+T47	Chemical 817 833	disulfide bridge
+T48	Protein 863 870	telokin
+T49	Technique 878 894	NMR spectroscopy
+T50	Process 910 919	titration
+T51	Technique 920 931	calorimetry
+T52	Protein 952 955	cC2
+T53	Unknown 973 981	fragment
+T54	Protein 985 991	myosin
+T55	Protein 993 1000	S2Delta
+T56	Parameter 1011 1019	affinity
+T57	Parameter 1021 1023	kD
+T58	Value 1026 1032	1.1 mM
+T59	Process 1065 1072	binding
+T60	Protein_part 1073 1077	site
+T61	Protein_part 1100 1118	C-terminal surface
+T62	Protein_part 1126 1144	C'CFGA' beta-sheet
+T63	Protein_part 1161 1169	Glu(301)
+T64	Protein_part 1173 1180	residue
+T65	Protein_part 1192 1195	Gln
+T66	Physiology 1203 1247	disease familial hypertrophic cardiomyopathy
+T67	Process 1253 1260	binding
+T68	Protein_part 1261 1265	site
+T69	Protein_part 1269 1271	S2
+T70	Technique 1307 1310	NMR
+T71	Process 1311 1318	binding
+T72	Process 1319 1330	experiments
+T73	Protein 1334 1337	cC2
+T74	Protein 1343 1350	S2Delta
+T75	Physiology 1366 1380	cardiomyopathy
+T76	Process 1388 1396	mutation
+T77	Physiology 1397 1402	R870H
+T78	Process 1432 1440	mutation
+T79	Parameter 1452 1468	binding affinity
+T80	Process 1486 1497	arrangement
+T81	Protein_part 1501 1512	side chains
+T82	Protein 1548 1559	cC2-S2Delta
+T83	Category 1560 1567	complex
+T84	Protein 1608 1621	MyBP-C-myosin
+T85	Process 1622 1633	interaction
+T86	Process 1677 1689	interactions
+T87	Protein_part 1708 1719	amino acids
+T88	Process 1740 1749	mutations
+T89	Protein_part 1750 1755	E301Q
+T90	Protein 1759 1762	cC2
+T91	Protein 1767 1772	R870H
+T92	Protein 1776 1783	S2Delta
+T93	Physiology 1805 1819	cardiomyopathy
+T94	Process 1916 1927	interaction
+T95	Process 1938 1948	importance
+T96	Physiology 1953 1967	cardiomyopathy

@@ -1,0 +1,80 @@
+T1	Chemical 2 9	thiamin
+T2	Process 37 45	reaction
+T3	Molecule 46 58	intermediate
+T4	Unknown 59 67	analogue
+T5	Protein 75 97	pyruvate dehydrogenase
+T6	Protein 98 108	E1 subunit
+T7	Process 147 162	transformations
+T8	Protein 170 176	enzyme
+T9	Molecule 239 245	adduct
+T10	Geometrical_part 251 268	crystal structure
+T11	Geometrical_part 276 288	E1 component
+T12	Organism 298 314	Escherichia coli
+T13	Category 315 364	pyruvate dehydrogenase multienzyme complex (PDHc)
+T14	Chemical 390 433	phosphonolactylthiamin diphosphate (PLThDP)
+T15	Protein_part 441 452	active site
+T16	Chemical 454 460	PLThDP
+T17	Unknown 503 511	analogue
+T18	Molecule 527 539	intermediate
+T19	Chemical 540 579	alpha-lactylthiamin diphosphate (LThDP)
+T20	Chemical 594 605	carboxylate
+T21	Category 623 632	substrate
+T22	Chemical 633 641	pyruvate
+T23	Chemical 659 670	phosphonate
+T24	Molecular_Part 671 676	group
+T25	Geometrical_part 745 772	three-dimensional structure
+T26	Chemical 778 804	thiamin diphosphate (ThDP)
+T27	Protein 815 821	enzyme
+T28	Process 873 881	reaction
+T29	Molecule 882 894	intermediate
+T30	Unknown 895 903	analogue
+T31	Molecule 954 967	intermediates
+T32	Chemical 977 981	ThDP
+T33	Protein 992 1006	decarboxylases
+T34	Category 1022 1026	PDHc
+T35	Process 1036 1044	reaction
+T36	Process 1050 1058	presence
+T37	Chemical 1062 1068	PLThDP
+T38	State 1090 1104	conformational
+T39	Process 1105 1112	changes
+T40	Protein 1120 1126	enzyme
+T41	Process 1131 1142	conjunction
+T42	Chemical 1152 1161	E1-PLThDP
+T43	Chemical 1166 1184	E1-ThDP structures
+T44	Technique 1186 1194	analysis
+T45	Chemical 1200 1223	H407A E1-PLThDP variant
+T46	Unknown 1224 1233	structure
+T47	Process 1248 1259	interaction
+T48	Protein_part 1268 1275	His-407
+T49	Chemical 1280 1286	PLThDP
+T50	Process 1304 1317	stabilization
+T51	Geometrical_part 1325 1329	loop
+T52	Protein_part 1330 1337	regions
+T53	Protein_part 1345 1356	active site
+T54	Process 1394 1401	absence
+T55	Molecule 1405 1417	intermediate
+T56	Unknown 1418 1426	analogue
+T57	Process 1452 1461	formation
+T58	Protein_part 1469 1480	active site
+T59	Geometrical_part 1507 1514	surface
+T60	Process 1534 1546	interactions
+T61	Protein_part 1556 1570	lipoyl domains
+T62	Protein 1574 1577	E2s
+T63	Category 1589 1593	PDHc
+T64	Category 1594 1601	complex
+T65	Molecule 1619 1631	intermediate
+T66	Unknown 1632 1640	analogue
+T67	Protein_part 1665 1676	active site
+T68	Chemical 1692 1706	hydrogen bonds
+T69	Protein_part 1710 1726	residues His-407
+T70	Protein_part 1728 1735	Tyr-599
+T71	Protein_part 1741 1748	His-640
+T72	Protein 1768 1774	enzyme
+T73	Organism 1784 1790	strain
+T74	Process 1834 1849	decarboxylation
+T75	Process 1850 1857	process
+T76	Chemical 1907 1911	ThDP
+T77	Protein 1922 1936	decarboxylases
+T78	Process 1947 1956	inclusion
+T79	Chemical 1989 1996	thiamin
+T80	Process 1997 2006	catalysis

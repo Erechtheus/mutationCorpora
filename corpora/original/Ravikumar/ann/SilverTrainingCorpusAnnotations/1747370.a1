@@ -1,0 +1,70 @@
+T1	Process 29 41	consequences
+T2	Protein_part 63 70	residue
+T3	Geometrical_part 82 98	hydrophobic core
+T4	Protein 102 113	T4 lysozyme
+T5	Process 157 169	consequences
+T6	Molecular_Part 183 196	charged group
+T7	Protein 218 225	protein
+T8	Molecule 247 254	mutants
+T9	Protein_part 256 278	Met 102----Lys (M102K)
+T10	Protein_part 283 305	Leu 133----Asp (L133D)
+T11	Organism 326 334	phage T4
+T12	Protein 335 343	lysozyme
+T13	Protein 350 358	proteins
+T14	Value 367 374	neutral
+T15	Parameter 375 377	pH
+T16	Parameter 443 451	activity
+T17	Protein_part 455 460	M102K
+T18	Value 470 473	35%
+T19	Protein_part 507 512	L133D
+T20	Value 516 524	about 4%
+T21	Protein_part 526 531	M102K
+T22	Geometrical_part 559 572	its structure
+T23	Parameter 596 606	resolution
+T24	Geometrical_part 612 629	crystal structure
+T25	Parameter 634 636	pH
+T26	Value 637 640	6.8
+T27	Protein_part 708 719	alpha-helix
+T28	Protein_part 734 750	residues 108-113
+T29	Protein 755 773	wild-type lysozyme
+T30	Location 779 783	side
+T31	Protein_part 792 797	helix
+T32	Chemical 812 819	solvent
+T33	Process 834 842	contacts
+T34	Protein_part 843 850	Met 102
+T35	Protein_part 859 864	M102K
+T36	Unknown 865 874	structure
+T37	Protein_part 880 891	alpha-helix
+T38	Protein_part 954 961	Lys 102
+T39	Chemical 965 972	solvent
+T40	State 978 987	stability
+T41	Protein_part 992 997	M102K
+T42	Process 1028 1037	unfolding
+T43	Protein 1045 1052	protein
+T44	Unknown 1058 1060	CD
+T45	Parameter 1065 1067	pH
+T46	State 1099 1111	charged form
+T47	Chemical 1119 1141	substituted amino acid
+T48	State 1176 1190	uncharged form
+T49	Parameter 1196 1199	pKa
+T50	Protein_part 1203 1210	Lys 102
+T51	Value 1231 1234	6.5
+T52	Process 1243 1265	differential titration
+T53	Technique 1278 1290	NMR analysis
+T54	Protein 1315 1322	protein
+T55	Protein_part 1328 1331	13C
+T56	Location 1352 1370	C epsilon position
+T57	Protein_part 1378 1385	lysines
+T58	Parameter 1394 1396	pH
+T59	Parameter 1414 1416	pH
+T60	Value 1417 1420	6.5
+T61	Geometrical_part 1434 1461	three-dimensional structure
+T62	Protein_part 1465 1470	M102K
+T63	Value 1474 1478	room
+T64	Parameter 1479 1490	temperature
+T65	Parameter 1519 1521	pH
+T66	Value 1522 1523	3
+T67	Process 1578 1588	adjustment
+T68	Chemical 1607 1614	solvent
+T69	State 1636 1651	protonated form
+T70	Protein_part 1655 1662	Lys 102

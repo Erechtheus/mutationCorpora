@@ -1,0 +1,72 @@
+T1	Process 11 27	characterization
+T2	Process 50 62	interactions
+T3	Protein 66 95	synapse-associated protein-97
+T4	Protein 105 117	NR2B subunit
+T5	Protein 121 151	N-methyl-D-aspartate receptors
+T6	Protein 157 194	synapse-associated protein-97 (SAP97)
+T7	Process 222 233	trafficking
+T8	Body_part 239 243	cell
+T9	Geometrical_part 244 251	surface
+T10	Process 252 263	maintenance
+T11	Chemical 271 291	N-methyl-D-aspartate
+T12	Protein 303 321	glutamate receptor
+T13	Protein 337 354	scaffold/receptor
+T14	Process 355 366	interaction
+T15	Process 386 397	association
+T16	Protein_part 405 415	C terminus
+T17	Protein 423 435	NR2B subunit
+T18	Protein 443 472	N-methyl-D-aspartate receptor
+T19	Protein_part 482 493	PDZ domains
+T20	Protein 497 502	SAP97
+T21	Process 530 537	binding
+T22	Protein_part 546 556	C terminus
+T23	Protein 560 564	NR2B
+T24	Protein_part 574 585	PDZ domains
+T25	Protein 589 594	SAP97
+T26	Unknown 613 622	structure
+T27	Unknown 630 639	PDZ1-NR2B
+T28	Category 640 647	complex
+T29	Technique 674 677	NMR
+T30	Technique 688 700	fluorescence
+T31	Process 701 711	anisotropy
+T32	Protein 717 729	NR2B subunit
+T33	Protein_part 760 771	PDZ domains
+T34	Protein 775 780	SAP97
+T35	Value 788 794	higher
+T36	Parameter 795 803	affinity
+T37	Protein_part 808 812	PDZ2
+T38	Process 829 836	binding
+T39	Protein_part 840 844	PDZ3
+T40	Protein 896 900	NR2B
+T41	Protein_part 910 914	PDZ1
+T42	Protein_part 948 951	PDZ
+T43	Protein_part 960 965	motif
+T44	Protein_part 975 988	glutamic acid
+T45	Protein_part 1015 1025	C terminus
+T46	Unknown 1032 1040	-E-S-D-V
+T47	Geometrical_part 1063 1079	beta2/beta3 loop
+T48	Protein_part 1085 1090	sites
+T49	Geometrical_part 1103 1107	loop
+T50	Protein_part 1111 1115	PDZ1
+T51	Protein_part 1153 1160	residue
+T52	Protein_part 1166 1170	PDZ2
+T53	Protein_part 1172 1177	D243G
+T54	Protein_part 1182 1187	P245Q
+T55	Process 1200 1208	mutation
+T56	Unknown 1240 1249	Coulombic
+T57	Process 1250 1259	repulsion
+T58	Unknown 1268 1279	E(-3)(NR2B)
+T59	Protein_part 1284 1298	Asp-243 (PDZ1)
+T60	Process 1318 1324	effect
+T61	Process 1328 1335	binding
+T62	Protein_part 1342 1347	P245Q
+T63	Process 1348 1356	mutation
+T64	Value 1368 1374	2-fold
+T65	Process 1375 1383	increase
+T66	Parameter 1387 1403	binding affinity
+T67	Protein 1407 1411	NR2B
+T68	Protein_part 1443 1457	wild-type PDZ2
+T69	Process 1487 1499	modification
+T70	Geometrical_part 1507 1523	beta2/beta3 loop
+T71	Category 1562 1568	ligand
+T72	Protein_part 1584 1595	PDZ domains

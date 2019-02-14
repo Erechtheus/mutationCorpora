@@ -1,0 +1,70 @@
+T1	Geometrical_part 4 13	structure
+T2	Protein 17 31	alpha-thrombin
+T3	Protein 47 53	15-mer
+T4	Protein 70 81	DNA aptamer
+T5	Geometrical_part 87 96	structure
+T6	Category 102 109	complex
+T7	Organism 118 123	human
+T8	Protein 124 138	alpha-thrombin
+T9	Chemical 145 174	GGTTGGTGTGGTTGG 15-nucleotide
+T10	Protein_part 175 193	consensus sequence
+T11	Technique 213 234	x-ray crystallography
+T12	Value 250 255	2.9-A
+T13	Parameter 256 266	resolution
+T14	Parameter 273 280	R value
+T15	Value 284 289	0.159
+T16	Chemical 297 305	solution
+T17	Category 314 321	complex
+T18	Molecule 342 345	DNA
+T19	Unknown 359 368	structure
+T20	Unknown 378 388	G-quartets
+T21	Molecule 394 397	DNA
+T22	Process 424 433	different
+T23	Protein_part 453 460	regions
+T24	Geometrical_part 468 476	symmetry
+T25	Protein 485 503	thrombin molecules
+T26	Geometrical_part 511 528	crystal structure
+T27	Process 558 570	interactions
+T28	Protein_part 576 582	region
+T29	Protein 590 600	fibrinogen
+T30	Process 601 612	recognition
+T31	Protein_part 613 620	exosite
+T32	Chemical 640 656	putative heparin
+T33	Process 657 664	binding
+T34	Protein_part 665 669	site
+T35	Process 675 679	lack
+T36	Process 683 693	inhibition
+T37	Protein 697 707	fibrinogen
+T38	Physiology 708 716	clotting
+T39	Body_part 721 729	platelet
+T40	Process 730 740	activation
+T41	Molecule 748 751	DNA
+T42	Protein 752 758	15-mer
+T43	Protein_part 768 773	Arg75
+T44	Protein_part 776 779	Glu
+T45	Molecule 780 786	mutant
+T46	Protein 790 798	thrombin
+T47	Chemical 830 842	salt bridges
+T48	Molecule 850 853	DNA
+T49	Protein_part 861 879	fibrinogen exosite
+T50	Process 885 896	association
+T51	Molecule 900 903	DNA
+T52	Protein_part 913 925	heparin site
+T53	Molecule 944 952	molecule
+T54	Parameter 991 997	charge
+T55	Process 999 1010	Differences
+T56	Protein 1018 1024	15-mer
+T57	Geometrical_part 1025 1029	loop
+T58	State 1030 1043	conformations
+T59	Category 1056 1063	complex
+T60	Technique 1068 1071	NMR
+T61	Chemical 1072 1091	solution structures
+T62	State 1113 1127	conformational
+T63	Process 1128 1135	changes
+T64	Protein 1141 1149	thrombin
+T65	Process 1150 1157	binding
+T66	Unknown 1168 1182	G-quadruplexes
+T67	Process 1202 1210	presence
+T68	Chemical 1214 1232	monovalent cations
+T69	Protein 1276 1284	thrombin
+T70	Category 1285 1292	complex

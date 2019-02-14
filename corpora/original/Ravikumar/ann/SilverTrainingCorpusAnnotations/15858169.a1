@@ -1,0 +1,74 @@
+T1	Process 11 25	reorganization
+T2	Chemical 33 39	copper
+T3	Process 40 47	binding
+T4	Protein_part 48 52	site
+T5	Protein_part 63 68	Thr15
+T6	Protein 72 82	mavicyanin
+T7	Organism 88 102	Cucurbita pepo
+T8	Process 129 138	reduction
+T9	Protein 140 150	Mavicyanin
+T10	Protein 154 174	glycosylated protein
+T11	Organism 189 203	Cucurbita pepo
+T12	Unknown 231 237	member
+T13	Protein 245 266	phytocyanin subfamily
+T14	Protein 282 299	polypeptide chain
+T15	Protein_part 307 321	amino residues
+T16	Protein_part 337 351	type-I Cu site
+T17	Chemical 365 371	copper
+T18	Category 372 379	ligands
+T19	Protein_part 384 389	His45
+T20	Protein_part 391 396	Cys86
+T21	Protein_part 398 403	His91
+T22	Protein_part 409 414	Gln96
+T23	Geometrical_part 420 438	crystal structures
+T24	Protein 463 473	mavicyanin
+T25	Value 493 496	1.6
+T26	Value 501 506	1.9 A
+T27	Parameter 507 517	resolution
+T28	Protein 533 543	Mavicyanin
+T29	Unknown 555 564	structure
+T30	Protein_part 574 598	polypeptide beta-strands
+T31	Protein_part 646 657	beta-sheets
+T32	Unknown 667 676	structure
+T33	Protein 708 740	stellacyanin from cucumber (CST)
+T34	Protein 744 772	cucumber basic protein (CBP)
+T35	Protein_part 785 791	region
+T36	Protein 859 869	mavicyanin
+T37	Geometrical_part 870 880	structures
+T38	Chemical 895 922	Cu(II)-epsilon-O-Gln96 bond
+T39	Parameter 923 929	length
+T40	Value 946 952	0.47 A
+T41	Protein_part 962 975	Thr15 residue
+T42	Value 991 1003	60.0 degrees
+T43	Unknown 1009 1023	O-gamma1-Thr15
+T44	Parameter 1037 1045	distance
+T45	Value 1049 1053	4.78
+T46	Value 1057 1063	2.58 A
+T47	Category 1073 1079	ligand
+T48	Protein_part 1080 1085	Gln96
+T49	Chemical 1101 1114	hydrogen bond
+T50	Unknown 1123 1137	O-gamma1-Thr15
+T51	Unknown 1142 1157	epsilon-O-Gln96
+T52	Process 1163 1172	reduction
+T53	Process 1178 1192	reorganization
+T54	Chemical 1196 1202	copper
+T55	Process 1203 1215	coordination
+T56	Geometrical_part 1216 1224	geometry
+T57	Protein 1228 1238	mavicyanin
+T58	Process 1245 1254	reduction
+T59	Process 1263 1272	reduction
+T60	Parameter 1273 1282	potential
+T61	Parameter 1299 1301	pH
+T62	Value 1302 1303	8
+T63	Technique 1304 1323	[Battistuzzi et al.
+T64	Value 1331 1332	J
+T65	Process 1368 1376	rotation
+T66	Protein_part 1380 1385	Thr15
+T67	Chemical 1394 1410	hydrogen bonding
+T68	Category 1420 1426	ligand
+T69	Protein_part 1427 1432	Gln96
+T70	Process 1475 1483	decrease
+T71	Process 1492 1501	reduction
+T72	Parameter 1502 1511	potential
+T73	Value 1515 1519	high
+T74	Parameter 1520 1522	pH

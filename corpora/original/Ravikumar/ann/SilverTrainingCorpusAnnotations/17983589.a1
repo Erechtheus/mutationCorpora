@@ -1,0 +1,59 @@
+T1	Molecule 13 20	mutants
+T2	Organism 24 40	Escherichia coli
+T3	Protein 41 57	aminopeptidase P
+T4	Protein_part 66 76	tripeptide
+T5	Category 77 86	substrate
+T6	Protein_part 87 96	ValProLeu
+T7	Protein 98 122	Aminopeptidase P (APPro)
+T8	Chemical 128 137	manganese
+T9	Protein 149 155	enzyme
+T10	Process 175 185	hydrolysis
+T11	Protein_part 193 211	N-terminal residue
+T12	Protein_part 217 228	polypeptide
+T13	Protein_part 236 250	second residue
+T14	Protein_part 254 261	proline
+T15	Geometrical_part 263 273	Structures
+T16	Protein 277 290	APPro mutants
+T17	Parameter 318 326	activity
+T18	Category 351 358	complex
+T19	Protein_part 368 378	tripeptide
+T20	Category 379 388	substrate
+T21	Protein_part 389 398	ValProLeu
+T22	Category 407 414	complex
+T23	Protein 418 433	Glu383Ala APPro
+T24	Protein_part 439 448	ValProLeu
+T25	Protein_part 464 475	metal sites
+T26	Process 525 529	role
+T27	Protein_part 534 540	Glu383
+T28	Chemical 544 549	metal
+T29	Process 550 557	binding
+T30	Process 566 574	presence
+T31	Category 578 587	substrate
+T32	Protein 589 604	His361Ala APPro
+T33	Parameter 632 640	activity
+T34	Protein_part 648 657	ValProLeu
+T35	Category 658 667	substrate
+T36	Unknown 692 700	crystals
+T37	Process 702 712	difference
+T38	Molecule 713 721	electron
+T39	Parameter 722 729	density
+T40	Protein_part 752 768	ProLeu dipeptide
+T41	Chemical 786 800	Val amino acid
+T42	Protein_part 819 830	active site
+T43	Protein_part 870 879	His243Ala
+T44	Molecule 880 886	mutant
+T45	Category 909 918	substrate
+T46	Geometrical_part 924 933	structure
+T47	Protein 941 956	His243Ala APPro
+T48	Category 957 964	complex
+T49	Protein_part 970 979	ValProLeu
+T50	Protein_part 995 1002	peptide
+T51	Chemical 1029 1052	active-site metal atoms
+T52	Chemical 1061 1075	terminal amino
+T53	Molecular_Part 1076 1081	group
+T54	Process 1087 1099	implications
+T55	Category 1109 1118	complexes
+T56	Process 1127 1132	roles
+T57	Protein_part 1151 1159	residues
+T58	Protein 1163 1168	APPro
+T59	Process 1169 1178	catalysis

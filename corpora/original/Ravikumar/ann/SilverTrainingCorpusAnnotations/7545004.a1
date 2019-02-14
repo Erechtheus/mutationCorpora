@@ -1,0 +1,63 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 37 62	phosphoribosyltransferase
+T3	Chemical 90 130	alpha-D-5-phosphoribosyl-1-pyrophosphate
+T4	Geometrical_part 136 163	three-dimensional structure
+T5	Protein 167 233	Salmonella typhimurium orotate phosphoribosyltransferase (OPRTase)
+T6	Category 237 244	complex
+T7	Chemical 254 272	ribose 5-phosphate
+T8	Category 273 278	donor
+T9	Chemical 280 328	alpha-D-5--phosphoribosyl-1-pyrophosphate (PRPP)
+T10	Chemical 337 366	nitrogenous base orotic  acid
+T11	Technique 400 417	X-ray diffraction
+T12	Value 436 441	2.3 A
+T13	Parameter 442 452	resolution
+T14	Technique 458 474	crystallographic
+T15	Parameter 475 483	R-factor
+T16	Value 487 492	18.7%
+T17	Category 498 505	complex
+T18	Process 537 546	catalysis
+T19	Unknown 554 561	crystal
+T20	Process 563 573	Comparison
+T21	Unknown 582 591	structure
+T22	Unknown 621 630	structure
+T23	Chemical 638 670	orotidine 5'-monophosphate (OMP)
+T24	Category 671 678	complex
+T25	Unknown 688 707	G., Grubmeyer, C., 
+T26	Unknown 711 729	Sacchettini, J. C.
+T27	Unknown 737 749	Biochemistry
+T28	Protein 783 789	enzyme
+T29	Process 820 829	movements
+T30	Process 853 864	differences
+T31	Protein_part 880 891	active site
+T32	Protein_part 896 907	Ala71-Gly74
+T33	Process 926 936	difference
+T34	Protein_part 951 962	side chains
+T35	Protein_part 966 971	Lys73
+T36	Protein_part 973 986	Val127-Ala133
+T37	Chemical 992 1004	5'-phosphate
+T38	Process 1005 1012	binding
+T39	Geometrical_part 1013 1017	loop
+T40	Chemical 1031 1038	solvent
+T41	Geometrical_part 1047 1051	loop
+T42	Protein 1059 1064	dimer
+T43	Chemical 1096 1102	ribose
+T44	Molecular_Part 1103 1109	moiety
+T45	Chemical 1155 1158	OMP
+T46	Chemical 1163 1175	PRPP.orotate
+T47	Category 1176 1185	complexes
+T48	Chemical 1205 1211	carbon
+T49	Value 1234 1237	7 A
+T50	Process 1249 1256	binding
+T51	Body_part 1257 1263	cavity
+T52	Chemical 1272 1284	PRPP.orotate
+T53	Category 1285 1292	complex
+T54	Chemical 1314 1320	acidic
+T55	Protein_part 1321 1331	side chain
+T56	Protein_part 1335 1341	Asp124
+T57	Chemical 1361 1367	ribose
+T58	Chemical 1371 1375	PRPP
+T59	Process 1398 1410	interactions
+T60	Chemical 1419 1428	aspartate
+T61	Category 1438 1447	substrate
+T62	Chemical 1455 1458	OMP
+T63	Category 1459 1466	complex

@@ -1,0 +1,8 @@
+Members of the double-stranded RNA- (dsRNA) specific adenosine deaminase gene family convert adenosine residues into inosines in dsRNA and are involved in A-to-I RNA editing of transcripts of glutamate receptor (GluR) subunits and serotonin receptor subtype 2C (5-HT(2C)R) . 
+We have isolated hADAR3, the third member of this class of human enzyme and investigated its editing site selectivity using in vitro RNA editing assay systems . 
+As originally reported for rat ADAR3 or RED2, purified ADAR3 proteins could not edit GluR-B RNA at the &quot;Q/R&quot; site, the &quot;R/G&quot; site, and the intronic &quot;hot spot&quot; site . 
+In addition, ADAR3 did not edit any of five sites discovered recently within the intracellular loop II region of 5-HT(2C)R RNAs, confirming its total lack of editing activity for currently known substrate RNAs . 
+Filter-binding analyses revealed that ADAR3 is capable of binding not only to dsRNA but also to single-stranded RNA (ssRNA) . 
+Deletion mutagenesis identified a region rich in arginine residues located in the N-terminus that is responsible for binding of ADAR3 to ssRNA . 
+The presence of this ssRNA-binding domain as well as its expression in restricted brain regions and postmitotic neurons make ADAR3 distinct from the other two ADAR gene family members, editing competent ADAR1 and ADAR2 . 
+ADAR3 inhibited in vitro the activities of RNA editing enzymes of the ADAR gene family, raising the possibility of a regulatory role in RNA editing . 

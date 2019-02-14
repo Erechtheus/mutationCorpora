@@ -1,0 +1,69 @@
+T1	Process 0 9	Mechanism
+T2	Protein_part 13 18	Lys48
+T3	Protein 26 45	polyubiquitin chain
+T4	Process 46 57	recognition
+T5	Protein 65 69	Mud1
+T6	Process 70 73	UBA
+T7	Protein_part 74 80	domain
+T8	Process 86 120	ubiquitin-pathway associated (UBA)
+T9	Protein_part 121 127	domain
+T10	Protein 133 157	40-residue polyubiquitin
+T11	Protein_part 166 171	motif
+T12	Organism 177 202	Schizosaccharomyces pombe
+T13	Protein 203 215	protein Mud1
+T14	Protein 222 230	ortholog
+T15	Organism 238 262	Saccharomyces cerevisiae
+T16	Unknown 263 273	DNA-damage
+T17	Process 274 282	response
+T18	Protein 283 295	protein Ddi1
+T19	Protein_part 309 312	K48
+T20	Protein 320 333	polyubiquitin
+T21	Process 346 349	UBA
+T22	Protein_part 350 356	domain
+T23	Geometrical_part 377 394	crystal structure
+T24	Protein 398 402	Mud1
+T25	Process 403 406	UBA
+T26	Value 410 423	1.8 angstroms
+T27	Parameter 424 434	resolution
+T28	Process 473 476	UBA
+T29	Geometrical_part 477 481	fold
+T30	Process 502 514	interactions
+T31	Protein_part 523 529	domain
+T32	Process 536 547	mutagenesis
+T33	Geometrical_part 549 556	surface
+T34	Technique 557 574	plasmon resonance
+T35	Technique 576 579	NMR
+T36	Process 595 614	ultracentrifugation
+T37	Protein 633 642	ubiquitin
+T38	Geometrical_part 651 658	surface
+T39	Protein 662 666	Mud1
+T40	Process 667 670	UBA
+T41	Protein_part 709 715	motifs
+T42	Protein 767 786	secondary ubiquitin
+T43	Protein_part 795 800	sites
+T44	Process 802 810	Mutation
+T45	Protein_part 814 820	Phe330
+T46	Protein_part 824 831	alanine
+T47	Protein_part 835 842	residue
+T48	Protein_part 859 868	helices 2
+T49	Parameter 902 910	affinity
+T50	Protein 918 922	Mud1
+T51	Process 923 926	UBA
+T52	Protein_part 927 933	domain
+T53	Protein_part 938 941	K48
+T54	Protein 949 962	polyubiquitin
+T55	Process 992 999	binding
+T56	Geometrical_part 1000 1007	surface
+T57	Protein_part 1039 1042	K48
+T58	Protein 1077 1081	Mud1
+T59	Process 1082 1085	UBA
+T60	Protein_part 1086 1092	domain
+T61	Process 1105 1113	presence
+T62	Process 1124 1127	UBA
+T63	Process 1152 1161	mechanism
+T64	Process 1170 1181	recognition
+T65	Protein_part 1185 1188	K48
+T66	Protein 1196 1216	polyubiquitin chains
+T67	Protein 1220 1224	Mud1
+T68	Process 1292 1295	UBA
+T69	Protein_part 1296 1302	domain

@@ -1,0 +1,4 @@
+The leptin system provides a link between adipose mass and the central nervous system . 
+The appetite suppressing effects of leptin are impaired in most obese patients and some mutant mice strains . 
+Herein we describe how suppressor of cytokine signalling 3 (SOCS3), a potential mediator of this leptin resistance is recruited into the activated murine leptin receptor complex . 
+Using a functional assay based on inhibition of leptin mediated reporter induction, and using phosphopeptide affinity chromatography we show binding of SOCS3 to the highly conserved phosphorylated Tyr-985 and Tyr-1077 motifs within the mouse leptin receptor . 

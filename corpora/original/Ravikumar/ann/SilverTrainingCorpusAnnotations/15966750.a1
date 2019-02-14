@@ -1,0 +1,102 @@
+T1	Protein 17 25	receptor
+T2	Parameter 26 44	binding properties
+T3	Protein_part 48 50	PP
+T4	Protein_part 55 58	NPY
+T5	Molecule 59 67	chimeras
+T6	Process 87 94	changes
+T7	Unknown 98 107	structure
+T8	Body_part 112 120	membrane
+T9	Process 121 128	binding
+T10	Protein_part 130 150	Neuropeptide Y (NPY)
+T11	Body_part 159 169	pancreatic
+T12	Protein_part 170 186	polypeptide (PP)
+T13	Unknown 191 198	members
+T14	Protein_part 206 220	neuropeptide Y
+T15	Unknown 221 227	family
+T16	Molecule 231 239	hormones
+T17	Protein_part 258 259	Y
+T18	Protein 260 269	receptors
+T19	Process 280 289	different
+T20	Parameter 290 300	affinities
+T21	Protein_part 310 312	PP
+T22	Protein_part 341 345	Y(4)
+T23	Protein 346 354	receptor
+T24	Protein_part 356 359	NPY
+T25	Protein_part 391 395	Y(1)
+T26	Protein_part 397 401	Y(2)
+T27	Protein_part 407 411	Y(5)
+T28	Protein 412 429	receptor subtypes
+T29	Protein_part 447 464	NPY segment 19-23
+T30	Protein_part 470 472	PP
+T31	Process 485 493	increase
+T32	Parameter 497 505	affinity
+T33	Protein_part 513 517	Y(1)
+T34	Protein_part 522 526	Y(2)
+T35	Protein 527 544	receptor subtypes
+T36	Process 557 565	exchange
+T37	Protein_part 574 581	segment
+T38	Protein_part 587 589	PP
+T39	Protein_part 595 598	NPY
+T40	Process 616 624	decrease
+T41	Parameter 628 636	affinity
+T42	Protein 644 661	receptor subtypes
+T43	Protein_part 663 665	PP
+T44	Unknown 689 698	structure
+T45	Chemical 702 710	solution
+T46	Protein_part 721 731	N terminus
+T47	Protein_part 759 781	C-terminal alpha-helix
+T48	Protein_part 797 804	PP-fold
+T49	Protein_part 811 816	helix
+T50	Protein_part 820 823	NPY
+T51	Protein_part 847 857	N terminus
+T52	Chemical 881 889	solution
+T53	Process 895 903	exchange
+T54	Protein_part 912 919	segment
+T55	Protein_part 949 956	PP-fold
+T56	Parameter 957 969	propensities
+T57	Protein_part 986 994	peptides
+T58	Chemical 998 1006	solution
+T59	Unknown 1012 1022	structures
+T60	Chemical 1030 1050	phospholipid micelle
+T61	Protein_part 1057 1065	peptides
+T62	Category 1077 1082	mimic
+T63	Body_part 1087 1095	membrane
+T64	Organism 1102 1109	species
+T65	Process 1118 1129	segregation
+T66	Protein_part 1151 1168	N-terminal region
+T67	Protein_part 1188 1208	alpha-helical region
+T68	Protein_part 1234 1254	[19-23]-pNPY segment
+T69	Protein_part 1260 1263	hPP
+T70	Protein_part 1276 1286	N-terminal
+T71	Process 1287 1296	extension
+T72	Protein_part 1304 1315	alpha-helix
+T73	Protein_part 1333 1340	Pro(14)
+T74	Protein_part 1352 1359	Met(17)
+T75	Protein_part 1386 1391	helix
+T76	Protein_part 1407 1428	[(19)(-)(23)hPP]-pNPY
+T77	Protein_part 1442 1449	Leu(17)
+T78	Protein_part 1461 1468	Ala(14)
+T79	Protein_part 1474 1482	peptides
+T80	Parameter 1500 1518	binding affinities
+T81	Body_part 1530 1539	membranes
+T82	Value 1566 1569	1.7
+T83	Value 1573 1584	6.8 x 10(4)
+T84	Unknown 1585 1594	mol(-)(1)
+T85	Geometrical_part 1612 1619	surface
+T86	Technique 1620 1637	plasmon resonance
+T87	Process 1648 1659	differences
+T88	Process 1663 1670	binding
+T89	Process 1706 1714	exchange
+T90	Protein_part 1718 1724	Arg-19
+T91	Protein_part 1726 1730	pNPY
+T92	Protein_part 1735 1741	Glu-23
+T93	Protein_part 1743 1746	hPP
+T94	Process 1749 1760	Differences
+T95	Protein 1764 1772	receptor
+T96	Parameter 1773 1791	binding properties
+T97	Molecule 1804 1812	chimeras
+T98	Protein_part 1832 1840	peptides
+T99	Process 1874 1881	changes
+T100	State 1889 1901	conformation
+T101	Chemical 1909 1916	micelle
+T102	Protein_part 1923 1931	peptides

@@ -1,0 +1,71 @@
+T1	Geometrical_part 19 25	steric
+T2	Process 26 35	exclusion
+T3	Protein_part 52 62	amino acid
+T4	Protein_part 68 79	active site
+T5	Protein 85 100	tRNA synthetase
+T6	Protein 106 113	genetic
+T7	Process 131 145	aminoacylation
+T8	Process 146 155	reactions
+T9	Protein 169 195	aminoacyl-tRNA synthetases
+T10	Protein_part 197 207	Amino acid
+T11	Process 208 222	discrimination
+T12	Protein_part 237 242	sites
+T13	Protein_part 252 262	amino acid
+T14	Process 263 273	activation
+T15	Process 278 292	aminoacylation
+T16	Protein_part 326 337	amino acids
+T17	Protein_part 352 363	active site
+T18	Protein_part 383 394	amino acids
+T19	Process 396 409	misactivation
+T20	Category 422 432	substrates
+T21	Protein_part 439 450	side chains
+T22	Protein 509 531	alanyl-tRNA synthetase
+T23	Chemical 542 549	glycine
+T24	Protein_part 561 568	alanine
+T25	Protein_part 598 605	alanine
+T26	Protein_part 607 613	serine
+T27	Geometrical_part 653 671	crystal structures
+T28	Unknown 685 693	fragment
+T29	Organism 697 713	Aquifex aeolicus
+T30	Protein 714 736	alanyl-tRNA synthetase
+T31	Chemical 765 773	Mg2+-ATP
+T32	Protein_part 775 782	alanine
+T33	Chemical 784 791	glycine
+T34	Protein_part 797 803	serine
+T35	Protein_part 805 808	Ala
+T36	Protein_part 813 816	Gly
+T37	Process 838 850	orientations
+T38	Protein_part 856 866	side-chain
+T39	Geometrical_part 881 887	pocket
+T40	Chemical 895 906	alpha-amino
+T41	Chemical 911 919	carboxyl
+T42	Molecular_Part 920 926	groups
+T43	Chemical 945 957	salt bridges
+T44	Chemical 967 975	carboxyl
+T45	Chemical 982 988	H-bond
+T46	Protein_part 998 1008	side chain
+T47	Protein_part 1009 1012	NH2
+T48	Protein_part 1016 1023	Asn-194
+T49	Chemical 1059 1063	salt
+T50	Protein_part 1088 1091	Ser
+T51	Unknown 1093 1094	H
+T52	Protein 1134 1159	class II tRNA synthetases
+T53	Protein_part 1161 1168	Asn-194
+T54	Protein_part 1169 1180	side  chain
+T55	Protein_part 1181 1184	NH2
+T56	Protein_part 1192 1198	Ser OH
+T57	Chemical 1218 1226	carboxyl
+T58	Parameter 1228 1234	forces
+T59	Geometrical_part 1235 1241	pocket
+T60	Process 1242 1251	expansion
+T61	Chemical 1275 1283	Mg2+-ATP
+T62	Category 1284 1291	complex
+T63	Protein_part 1293 1300	Asn-194
+T64	Chemical 1315 1342	Mg2+-alpha-phosphate bridge
+T65	Protein_part 1364 1367	Ser
+T66	Process 1368 1377	exclusion
+T67	Parameter 1410 1418	pressure
+T68	Protein_part 1429 1436	Asn-194
+T69	Chemical 1441 1449	Mg2+-ATP
+T70	Protein_part 1454 1457	Ala
+T71	Process 1458 1465	binding

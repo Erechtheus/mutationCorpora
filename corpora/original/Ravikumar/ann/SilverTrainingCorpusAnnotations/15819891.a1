@@ -1,0 +1,76 @@
+T1	Protein 0 34	Small exterior hydrophobic cluster
+T2	State 50 74	conformational stability
+T3	Chemical 79 86	steroid
+T4	Process 87 94	binding
+T5	Protein 98 119	ketosteroid isomerase
+T6	Organism 125 143	Pseudomonas putida
+T7	Unknown 144 153	biotype B
+T8	Protein_part 168 173	motif
+T9	Protein 185 226	small exterior hydrophobic cluster (SEHC)
+T10	Process 273 279	effect
+T11	Chemical 292 299	solvent
+T12	Protein_part 308 328	hydrophobic residues
+T13	Process 376 381	roles
+T14	Protein_part 397 479	Delta(5)-3-ketosteroid isomerase from Pseudomonas putida biotype B  (KSI-PI) Trp92
+T15	Chemical 494 501	solvent
+T16	Protein 509 516	protein
+T17	Geometrical_part 517 524	surface
+T18	Protein 536 540	SEHC
+T19	Protein_part 551 562	side-chains
+T20	Protein_part 566 572	Leu125
+T21	Protein_part 577 583	Val127
+T22	Process 610 614	role
+T23	Protein 622 626	SEHC
+T24	Protein 630 636	KSI-PI
+T25	Molecule 638 645	mutants
+T26	Protein_part 655 666	amino acids
+T27	Protein 687 691	SEHC
+T28	Protein 711 715	W92A
+T29	Protein_part 717 728	L125A/V127A
+T30	Protein_part 734 750	W92A/L125A/V127A
+T31	Process 751 760	mutations
+T32	State 783 807	conformational stability
+T33	Protein_part 819 830	L125F/V127F
+T34	Process 831 839	mutation
+T35	State 863 872	stability
+T36	Protein 917 921	SEHC
+T37	State 950 959	stability
+T38	Geometrical_part 965 982	crystal structure
+T39	Protein 986 990	W92A
+T40	State 1020 1029	stability
+T41	Process 1044 1051	removal
+T42	Protein_part 1065 1075	side-chain
+T43	Protein_part 1079 1084	Trp92
+T44	Process 1112 1127	destabilization
+T45	Geometrical_part 1135 1142	surface
+T46	Body_part 1143 1160	hydrophobic layer
+T47	Chemical 1178 1185	solvent
+T48	Protein_part 1194 1204	beta-sheet
+T49	Parameter 1247 1265	binding affinities
+T50	Process 1276 1285	different
+T51	Chemical 1286 1294	steroids
+T52	Geometrical_part 1311 1318	surface
+T53	Body_part 1319 1336	hydrophobic layer
+T54	Protein 1351 1355	SEHC
+T55	Protein 1372 1378	KSI-PI
+T56	Chemical 1416 1424	steroids
+T57	Process 1426 1435	Unfolding
+T58	Parameter 1436 1444	kinetics
+T59	Technique 1454 1462	analysis
+T60	Unknown 1470 1476	Phi(U)
+T61	Parameter 1477 1482	value
+T62	Protein 1507 1511	SEHC
+T63	State 1519 1531	native state
+T64	Process 1553 1562	unfolding
+T65	Process 1563 1570	process
+T66	Chemical 1584 1591	solvent
+T67	Protein_part 1600 1604	site
+T68	Protein 1655 1659	SEHC
+T69	Process 1672 1676	role
+T70	Protein 1724 1730	KSI-PI
+T71	Geometrical_part 1760 1767	surface
+T72	State 1768 1780	conformation
+T73	State 1825 1849	conformational stability
+T74	Process 1861 1868	binding
+T75	Chemical 1884 1892	steroids
+T76	Chemical 1896 1910	water solution

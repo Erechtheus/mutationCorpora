@@ -1,0 +1,87 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 44	protocatechuate 3,4-dioxygenase
+T3	Organism 50 72	Pseudomonas aeruginosa
+T4	Value 76 83	2.15  A
+T5	Parameter 84 94	resolution
+T6	Protein 96 127	Protocatechuate 3,4-dioxygenase
+T7	Geometrical_part 151 155	ring
+T8	Process 156 164	cleavage
+T9	Chemical 168 189	3,4-dihydroxybenzoate
+T10	Chemical 212 217	atoms
+T11	Chemical 221 237	molecular oxygen
+T12	Chemical 247 263	beta-carboxy-cis
+T13	Chemical 264 276	cis-muconate
+T14	Unknown 282 291	structure
+T15	Protein 300 313	metalloenzyme
+T16	Organism 319 341	Pseudomonas aeruginosa
+T17	Organism 363 372	P. putida
+T18	Parameter 397 405	R-factor
+T19	Value 409 414	0.172
+T20	Value 418 424	2.15 A
+T21	Parameter 425 435	resolution
+T22	Unknown 441 450	structure
+T23	Protein 474 489	alpha beta Fe3+
+T24	Parameter 510 535	root-mean-square (r.m.s.)
+T25	Process 536 546	difference
+T26	Value 550 556	0.18 A
+T27	Geometrical_part 563 571	symmetry
+T28	Chemical 580 585	atoms
+T29	Geometrical_part 591 609	tertiary structure
+T30	Protein_part 621 633	polypeptides
+T31	Protein 635 640	alpha
+T32	Protein 645 649	beta
+T33	Parameter 674 680	r.m.s.
+T34	Process 681 691	difference
+T35	Value 695 701	1.05 A
+T36	Value 707 712	127 C
+T37	Chemical 713 724	alpha atoms
+T38	Protein 757 763	enzyme
+T39	Protein 781 790	homodimer
+T40	Protein_part 800 812	active sites
+T41	Protein_part 850 861	active site
+T42	Parameter 882 892	properties
+T43	Protein_part 911 922	active site
+T44	Chemical 941 945	iron
+T45	Process 952 964	coordination
+T46	Geometrical_part 965 973	geometry
+T47	Chemical 981 994	non-heme iron
+T48	Category 1005 1013	cofactor
+T49	Protein_part 1065 1071	Tyr447
+T50	Protein 1073 1081	147 beta
+T51	Protein_part 1087 1093	His462
+T52	Protein 1095 1103	162 beta
+T53	Location 1116 1121	axial
+T54	Category 1122 1129	ligands
+T55	Protein_part 1135 1141	Tyr408
+T56	Protein 1143 1151	108 beta
+T57	Protein_part 1154 1160	His460
+T58	Protein 1162 1170	160 beta
+T59	Unknown 1176 1182	Wat837
+T60	Category 1205 1212	ligands
+T61	Protein_part 1218 1229	active site
+T62	Unknown 1230 1241	environment
+T63	Protein_part 1258 1273	basic  residues
+T64	Process 1291 1298	binding
+T65	Chemical 1306 1312	acidic
+T66	Category 1313 1322	substrate
+T67	Protein_part 1344 1355	active site
+T68	Body_part 1356 1362	cavity
+T69	Protein 1388 1393	alpha
+T70	Protein 1398 1409	beta chains
+T71	Chemical 1439 1456	solvent molecules
+T72	Category 1491 1500	substrate
+T73	Protein_part 1501 1507	Trp449
+T74	Protein 1509 1517	149 beta
+T75	Protein_part 1520 1526	Ile491
+T76	Protein 1528 1536	191 beta
+T77	Protein_part 1550 1555	Gly14
+T78	Protein 1557 1565	14 alpha
+T79	Protein_part 1571 1576	Pro15
+T80	Protein 1578 1586	15 alpha
+T81	Chemical 1610 1619	guanidino
+T82	Molecular_Part 1620 1625	group
+T83	Protein_part 1629 1635	Arg457
+T84	Protein 1637 1645	157 beta
+T85	Category 1670 1679	substrate
+T86	Process 1705 1709	role
+T87	Process 1713 1722	catalysis

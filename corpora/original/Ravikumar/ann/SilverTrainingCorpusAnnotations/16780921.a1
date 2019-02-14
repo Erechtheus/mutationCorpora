@@ -1,0 +1,75 @@
+T1	Process 0 12	Inactivation
+T2	Protein 20 46	phenylpyruvate tautomerase
+T3	Parameter 47 55	activity
+T4	Body_part 59 69	macrophage
+T5	Protein 70 97	migration inhibitory factor
+T6	Chemical 101 127	2-oxo-4-phenyl-3-butynoate
+T7	Body_part 129 139	Macrophage
+T8	Protein 140 173	migration inhibitory factor (MIF)
+T9	Body_part 190 206	immunoregulatory
+T10	Protein 207 214	protein
+T11	Physiology 251 272	inflammatory diseases
+T12	Protein 274 277	MIF
+T13	Protein 289 321	phenylpyruvate tautomerase (PPT)
+T14	Parameter 322 330	activity
+T15	Process 336 340	role
+T16	Parameter 375 396	biological activities
+T17	Chemical 402 420	acetylene compound
+T18	Chemical 422 456	2-oxo-4-phenyl-3-butynoate (2-OPB)
+T19	Parameter 495 504	potential
+T20	Category 518 527	inhibitor
+T21	Protein 535 544	enzymatic
+T22	Parameter 545 553	activity
+T23	Process 555 565	Incubation
+T24	Chemical 573 581	compound
+T25	Protein 587 590	MIF
+T26	Process 630 634	loss
+T27	Protein 642 645	PPT
+T28	Parameter 646 654	activity
+T29	Technique 656 678	Mass spectral analysis
+T30	Protein_part 700 722	amino-terminal proline
+T31	Protein 773 776	PPT
+T32	Process 787 795	reaction
+T33	Protein_part 804 808	site
+T34	Process 821 833	modification
+T35	Process 835 847	Inactivation
+T36	Protein 855 858	PPT
+T37	Parameter 859 867	activity
+T38	Unknown 887 894	Michael
+T39	Process 895 903	addition
+T40	Protein_part 907 912	Pro-1
+T41	Unknown 916 919	C-4
+T42	Category 927 936	inhibitor
+T43	Category 978 985	complex
+T44	Unknown 1001 1010	structure
+T45	Molecule 1018 1024	adduct
+T46	Protein_part 1052 1057	Pro-1
+T47	Technique 1061 1082	X-ray crystallography
+T48	Molecule 1151 1159	electron
+T49	Parameter 1160 1167	density
+T50	Protein_part 1184 1196	active sites
+T51	Unknown 1211 1219	crystals
+T52	Category 1236 1245	inhibitor
+T53	Unknown 1266 1273	crystal
+T54	Protein_part 1294 1304	side chain
+T55	Protein_part 1308 1314	Glu-16
+T56	Location 1323 1331	adjacent
+T57	Protein 1332 1338	trimer
+T58	Protein_part 1352 1363	active site
+T59	Unknown 1379 1386	crystal
+T60	Process 1387 1394	contact
+T61	Protein 1465 1468	MIF
+T62	Geometrical_part 1469 1477	crystals
+T63	Protein 1500 1503	MIF
+T64	Unknown 1509 1515	member
+T65	Protein 1523 1546	tautomerase superfamily
+T66	Molecular_Part 1551 1556	group
+T67	Protein 1573 1592	homologous proteins
+T68	Protein 1606 1621	beta-alpha-beta
+T69	Protein_part 1633 1638	motif
+T70	Protein_part 1655 1660	Pro-1
+T71	Chemical 1662 1667	2-OPB
+T72	Molecular_Part 1694 1699	probe
+T73	Protein 1703 1726	tautomerase superfamily
+T74	Unknown 1727 1734	members
+T75	Protein 1752 1756	PPTs

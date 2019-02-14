@@ -1,0 +1,73 @@
+T1	Unknown 48 64	HLA-B27 subtypes
+T2	Protein_part 82 94	self-peptide
+T3	Geometrical_part 100 108	F pocket
+T4	Category 137 144	complex
+T5	Organism 149 155	humans
+T6	Molecule 156 159	HLA
+T7	Molecule 161 178	class I molecules
+T8	Protein_part 196 206	C terminus
+T9	Protein_part 220 227	peptide
+T10	Protein_part 229 237	Residues
+T11	Geometrical_part 251 257	pocket
+T12	Process 279 291	polymorphism
+T13	Process 306 316	difference
+T14	Protein_part 318 324	Asp116
+T15	Protein 328 338	HLA-B*2705
+T16	Protein_part 343 349	His116
+T17	Protein 353 376	HLA-B*2709 heavy chains
+T18	Process 386 410	differential association
+T19	Unknown 424 440	HLA-B27 subtypes
+T20	Physiology 448 466	autoimmune disease
+T21	Physiology 478 489	spondylitis
+T22	Protein_part 494 501	peptide
+T23	Process 502 514	presentation
+T24	Molecule 518 531	HLA molecules
+T25	Process 546 556	importance
+T26	Body_part 561 567	immune
+T27	Process 568 577	responses
+T28	Technique 607 625	circular dichroism
+T29	Technique 649 660	calorimetry
+T30	Technique 662 674	fluorescence
+T31	Parameter 675 687	polarization
+T32	Technique 693 724	X-ray crystallographic analyses
+T33	Unknown 733 749	HLA-B27 subtypes
+T34	Protein 769 792	epidermal growth factor
+T35	Process 793 801	response
+T36	Protein 802 818	factor 1-derived
+T37	Protein_part 819 831	self-peptide
+T38	Unknown 837 846	RRLPIFSRL
+T39	Protein_part 880 889	Asp116His
+T40	Process 890 898	exchange
+T41	Protein_part 902 909	peptide
+T42	Protein_part 924 931	peptide
+T43	Unknown 974 982	subtypes
+T44	Protein_part 1006 1018	self-peptide
+T45	Body_part 1033 1056	cytotoxic T lymphocytes
+T46	Organism 1086 1097	individuals
+T47	Technique 1117 1125	analyses
+T48	Unknown 1143 1154	HLA-B27:TIS
+T49	Category 1155 1164	complexes
+T50	Chemical 1218 1220	Tm
+T51	Value 1221 1248	approximately 60 degrees  C
+T52	Process 1273 1282	unfolding
+T53	Process 1283 1292	reactions
+T54	Process 1299 1311	dissociation
+T55	Protein_part 1319 1326	peptide
+T56	Technique 1358 1379	X-ray crystallography
+T57	Process 1404 1415	differences
+T58	Unknown 1428 1436	subtypes
+T59	Geometrical_part 1465 1477	architecture
+T60	Unknown 1487 1488	F
+T61	Process 1512 1520	presence
+T62	Physiology 1533 1541	networks
+T63	Chemical 1545 1560	water molecules
+T64	Process 1597 1608	differences
+T65	Protein_part 1632 1639	peptide
+T66	Process 1640 1652	presentation
+T67	Protein_part 1681 1689	peptides
+T68	Unknown 1711 1723	HLA-subtypes
+T69	Process 1766 1777	differences
+T70	Protein_part 1787 1794	peptide
+T71	Process 1795 1807	presentation
+T72	Protein 1833 1843	HLA-B*2705
+T73	Protein 1848 1867	HLA-B*2709 subtypes

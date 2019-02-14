@@ -1,0 +1,71 @@
+T1	Protein 0 7	Protein
+T2	Process 8 21	biotinylation
+T3	Geometrical_part 46 55	structure
+T4	Protein 59 80	biotin protein ligase
+T5	Category 89 98	substrate
+T6	Protein 100 127	Biotin protein ligase (BPL)
+T7	Process 142 155	biotinylation
+T8	Protein 163 201	biotin carboxyl carrier protein (BCCP)
+T9	Protein_part 220 234	lysine residue
+T10	Unknown 261 270	structure
+T11	Unknown 274 299	BPL.BCCP complex crystals
+T12	Protein 330 341	BPL mutants
+T13	Protein_part 343 347	R48A
+T14	Protein_part 352 362	R48A/K111A
+T15	Process 391 407	characterization
+T16	Molecule 431 438	mutants
+T17	Protein 463 470	enzymes
+T18	Parameter 490 498	activity
+T19	Process 514 522	reaction
+T20	Molecule 523 535	intermediate
+T21	Chemical 536 551	biotinyl-5'-AMP
+T22	Protein 566 572	biotin
+T23	Chemical 595 598	ATP
+T24	Unknown 606 623	mutant structures
+T25	Unknown 650 656	analog
+T26	Category 664 674	substrates
+T27	Chemical 678 693	biotinyl-5'-AMP
+T28	Unknown 717 733	complex crystals
+T29	Protein 777 785	BPL.BCCP
+T30	Category 786 795	complexes
+T31	Molecular_Part 847 853	groups
+T32	Process 859 868	formation
+T33	Protein 889 897	apo-BCCP
+T34	Category 906 913	product
+T35	Protein 938 947	holo-BCCP
+T36	Protein_part 949 957	Residues
+T37	Process 986 995	formation
+T38	Process 1015 1028	biotinylation
+T39	Process 1029 1037	reaction
+T40	Protein_part 1064 1081	C-terminal domain
+T41	Protein 1085 1088	BPL
+T42	State 1112 1126	conformational
+T43	Process 1127 1134	changes
+T44	Protein 1150 1154	BCCP
+T45	Process 1182 1192	importance
+T46	Process 1198 1207	formation
+T47	Category 1216 1223	complex
+T48	Parameter 1242 1250	distance
+T49	Chemical 1263 1278	carboxyl carbon
+T50	Protein 1282 1288	biotin
+T51	Protein_part 1306 1312	lysine
+T52	Protein 1316 1320	BCCP
+T53	Process 1365 1373	reaction
+T54	Chemical 1402 1405	ATP
+T55	Protein 1410 1416	biotin
+T56	Category 1438 1445	product
+T57	Category 1473 1483	substrates
+T58	Category 1510 1517	product
+T59	Category 1524 1531	complex
+T60	Process 1543 1550	release
+T61	Protein 1554 1563	holo-BCCP
+T62	Process 1587 1595	reaction
+T63	Process 1607 1616	existence
+T64	Process 1620 1629	formation
+T65	Category 1634 1641	product
+T66	Process 1670 1678	reaction
+T67	Process 1723 1731	reaction
+T68	Parameter 1732 1742	efficiency
+T69	Category 1759 1768	substrate
+T70	Process 1788 1801	biotinylation
+T71	Process 1802 1810	reaction

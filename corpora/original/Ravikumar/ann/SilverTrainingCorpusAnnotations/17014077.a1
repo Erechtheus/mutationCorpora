@@ -1,0 +1,77 @@
+T1	Unknown 22 30	Apo NosL
+T2	Protein 45 52	protein
+T3	Protein 60 90	nitrous oxide reductase system
+T4	Protein 131 135	MerB
+T5	Protein 139 165	mercury resistance protein
+T6	Process 171 180	formation
+T7	Location 205 217	tetranuclear
+T8	Chemical 218 224	copper
+T9	Unknown 234 239	Cu(Z)
+T10	Protein 244 267	nitrous oxide reductase
+T11	Protein 269 275	N(2)OR
+T12	Process 290 302	coexpression
+T13	Protein 308 320	multiprotein
+T14	Process 321 329	assembly
+T15	Protein 355 369	nosDFYL operon
+T16	Unknown 371 375	NosL
+T17	Protein 388 396	proteins
+T18	Protein 413 423	transcript
+T19	Protein 430 448	20 kDa lipoprotein
+T20	Body_part 456 465	periplasm
+T21	Chemical 494 503	copper(I)
+T22	Process 518 526	function
+T23	Chemical 552 557	Cu(I)
+T24	Unknown 558 563	EXAFS
+T25	Protein 591 598	protein
+T26	Chemical 634 640	copper
+T27	Process 641 648	binding
+T28	Protein_part 649 653	site
+T29	Process 676 680	role
+T30	Protein 690 697	protein
+T31	Protein 732 754	metal ion transporters
+T32	Chemical 767 772	metal
+T33	Parameter 773 783	resistance
+T34	Process 785 796	homeostasis
+T35	Process 817 829	biosynthesis
+T36	Process 867 874	insight
+T37	Parameter 886 895	potential
+T38	Process 907 912	roles
+T39	Protein 922 929	protein
+T40	Unknown 937 950	N(2)OR system
+T41	Geometrical_part 974 992	solution structure
+T42	Unknown 1000 1004	NosL
+T43	Chemical 1024 1032	solution
+T44	Technique 1033 1036	NMR
+T45	Unknown 1050 1059	structure
+T46	Unknown 1067 1071	NosL
+T47	Protein_part 1122 1129	domains
+T48	Geometrical_part 1185 1189	fold
+T49	Unknown 1197 1201	NosL
+T50	Protein 1249 1256	protein
+T51	Protein 1258 1262	MerB
+T52	Protein 1281 1286	lyase
+T53	Organism 1299 1308	bacterial
+T54	Chemical 1309 1316	mercury
+T55	Parameter 1317 1327	resistance
+T56	Technique 1332 1344	Lello et al.
+T57	Parameter 1352 1364	Biochemistry
+T58	Process 1394 1404	similarity
+T59	Protein 1417 1421	NosL
+T60	Protein 1426 1430	MerB
+T61	Process 1459 1471	conservation
+T62	Protein_part 1475 1481	Met109
+T63	Protein_part 1489 1503	NosL sequences
+T64	Protein_part 1525 1532	residue
+T65	Chemical 1552 1558	copper
+T66	Process 1559 1567	ligation
+T67	Chemical 1582 1587	metal
+T68	Process 1588 1595	binding
+T69	Protein_part 1596 1600	site
+T70	Chemical 1617 1635	solvent-accessible
+T71	Process 1664 1671	binding
+T72	Geometrical_part 1672 1677	cleft
+T73	Unknown 1720 1724	NosL
+T74	Process 1756 1760	role
+T75	Chemical 1764 1770	copper
+T76	Chemical 1778 1784	sulfur
+T77	Process 1828 1836	function

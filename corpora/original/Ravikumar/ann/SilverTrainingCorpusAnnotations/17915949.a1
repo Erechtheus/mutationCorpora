@@ -1,0 +1,99 @@
+T1	State 10 19	stability
+T2	Molecule 24 27	DNA
+T3	Protein_part 28 32	site
+T4	Process 33 47	discrimination
+T5	Unknown 66 74	variants
+T6	Protein_part 90 101	beta-barrel
+T7	Molecule 102 105	DNA
+T8	Process 106 113	binding
+T9	Protein_part 114 120	domain
+T10	Organism 128 148	human papillomavirus
+T11	Molecule 149 177	E2 transcriptional regulator
+T12	Organism 179 199	Human papillomavirus
+T13	Body_part 262 270	cervical
+T14	Physiology 271 277	cancer
+T15	Organism 281 286	women
+T16	Protein 292 306	HPV E2 protein
+T17	Process 320 330	expression
+T18	Organism 338 343	viral
+T19	Protein 344 349	genes
+T20	Process 358 365	binding
+T21	Protein_part 381 398	C-terminal domain
+T22	Protein_part 400 403	E2C
+T23	Process 412 418	target
+T24	Molecule 420 423	DNA
+T25	Protein_part 424 428	site
+T26	Process 454 462	versions
+T27	Unknown 470 479	HPV16 E2C
+T28	Molecular_Part 493 498	probe
+T29	Process 503 507	link
+T30	Protein_part 523 539	beta-barrel fold
+T31	State 543 552	stability
+T32	Process 554 566	dimerization
+T33	Molecule 572 575	DNA
+T34	Process 576 583	binding
+T35	Protein 589 610	single-chain variants
+T36	Protein_part 626 633	residue
+T37	Molecular_Part 634 641	linkers
+T38	Molecular_Part 643 650	scE2C-6
+T39	Molecular_Part 655 663	scE2C-12
+T40	Technique 699 711	Spectroscopy
+T41	Technique 716 731	crystallography
+T42	Geometrical_part 746 762	native structure
+T43	Unknown 781 789	scE2C-12
+T44	Protein 802 816	chain variants
+T45	Protein_part 848 851	E2C
+T46	Parameter 868 882	concentrations
+T47	Value 886 889	0.6
+T48	Value 893 897	6 mM
+T49	Process 909 916	folding
+T50	Protein 931 940	E2C dimer
+T51	Protein 945 953	scE2C-12
+T52	Process 983 992	formation
+T53	Organism 1006 1013	species
+T54	Parameter 1036 1040	time
+T55	Molecule 1064 1086	monomeric intermediate
+T56	Parameter 1094 1103	half-life
+T57	Value 1107 1112	25 ms
+T58	Process 1123 1137	monomerization
+T59	Process 1150 1159	unfolding
+T60	Process 1160 1169	mechanism
+T61	Organism 1184 1191	species
+T62	Molecule 1242 1254	intermediate
+T63	Process 1256 1263	Binding
+T64	Process 1280 1286	target
+T65	Protein_part 1287 1291	site
+T66	Value 1301 1307	5-fold
+T67	Protein 1330 1344	chain variants
+T68	Molecule 1358 1361	DNA
+T69	Process 1362 1369	binding
+T70	Value 1379 1385	7-fold
+T71	Protein 1407 1421	chain variants
+T72	Value 1445 1452	10-fold
+T73	Protein_part 1463 1467	site
+T74	Process 1468 1482	discrimination
+T75	Parameter 1483 1491	capacity
+T76	Molecule 1533 1536	DNA
+T77	Process 1537 1544	binding
+T78	Protein_part 1545 1552	domains
+T79	Process 1554 1563	Titration
+T80	Process 1577 1584	binding
+T81	Technique 1585 1593	analysis
+T82	Physiology 1627 1635	behavior
+T83	Protein 1640 1645	dimer
+T84	Protein 1650 1662	single-chain
+T85	Organism 1663 1670	species
+T86	Process 1695 1702	changes
+T87	Technique 1745 1753	analysis
+T88	Process 1761 1771	mechanisms
+T89	Protein_part 1813 1823	E2C domain
+T90	Unknown 1841 1850	structure
+T91	Parameter 1889 1899	properties
+T92	Protein_part 1945 1951	domain
+T93	Parameter 1973 1989	maximum affinity
+T94	State 2008 2017	stability
+T95	Geometrical_part 2025 2045	quaternary structure
+T96	Process 2093 2098	roles
+T97	Molecule 2110 2113	DNA
+T98	Process 2114 2121	binding
+T99	Protein 2157 2177	monomeric conformers

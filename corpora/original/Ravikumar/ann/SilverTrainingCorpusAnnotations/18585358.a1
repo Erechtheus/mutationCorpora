@@ -1,0 +1,63 @@
+T1	Process 0 10	Activation
+T2	Chemical 14 23	pheromone
+T3	Body_part 34 41	neurons
+T4	State 57 71	conformational
+T5	Process 72 82	activation
+T6	Chemical 86 95	pheromone
+T7	Protein 104 111	protein
+T8	Process 113 122	Detection
+T9	Chemical 135 143	odorants
+T10	Body_part 147 164	olfactory neurons
+T11	Process 198 208	activation
+T12	Body_part 212 231	seven-transmembrane
+T13	Protein 232 249	odorant receptors
+T14	Molecule 258 267	molecules
+T15	Process 288 297	detection
+T16	Organism 305 315	Drosophila
+T17	Chemical 316 325	pheromone
+T18	Chemical 327 356	11-cis vaccenyl acetate (cVA)
+T19	Chemical 381 390	pheromone
+T20	State 399 413	conformational
+T21	Process 414 420	shifts
+T22	Location 428 441	extracellular
+T23	Chemical 442 451	pheromone
+T24	Protein 460 467	protein
+T25	Protein 469 473	LUSH
+T26	Protein 488 492	LUSH
+T27	Chemical 505 514	pheromone
+T28	State 524 538	conformational
+T29	Process 539 545	change
+T30	Parameter 564 570	firing
+T31	Chemical 574 583	pheromone
+T32	Body_part 594 601	neurons
+T33	Protein_part 603 613	Amino acid
+T34	Process 614 627	substitutions
+T35	Protein 631 635	LUSH
+T36	State 681 695	conformational
+T37	Process 696 701	shift
+T38	Parameter 708 719	sensitivity
+T39	Chemical 723 726	cVA
+T40	Process 753 765	substitution
+T41	Process 767 778	LUSH(D118A)
+T42	Protein 807 819	LUSH protein
+T43	Body_part 836 846	T1 neurons
+T44	Protein 859 876	neuronal receptor
+T45	Protein_part 877 887	components
+T46	Unknown 888 893	Or67d
+T47	Chemical 898 902	SNMP
+T48	Process 919 926	absence
+T49	Chemical 930 939	pheromone
+T50	Technique 952 960	analysis
+T51	Process 964 975	LUSH(D118A)
+T52	Chemical 1010 1013	cVA
+T53	Protein 1020 1024	LUSH
+T54	Chemical 1041 1050	pheromone
+T55	Protein 1059 1066	protein
+T56	Location 1083 1096	extracellular
+T57	Category 1097 1103	ligand
+T58	Chemical 1117 1136	pheromone molecules
+T59	Category 1145 1154	activator
+T60	Chemical 1158 1167	pheromone
+T61	Body_part 1178 1185	neurons
+T62	Process 1223 1232	detection
+T63	Chemical 1236 1244	odorants

@@ -1,0 +1,85 @@
+T1	Process 44 63	catalytic mechanism
+T2	Protein 72 93	phosphotransacetylase
+T3	Organism 99 125	Methanosarcina thermophila
+T4	Protein 127 148	Phosphotransacetylase
+T5	Protein 150 160	EC 2.3.1.8
+T6	Process 183 191	transfer
+T7	Chemical 199 205	acetyl
+T8	Molecular_Part 206 211	group
+T9	Chemical 217 233	acetyl phosphate
+T10	Protein 237 253	coenzyme A (CoA)
+T11	Protein 263 273	acetyl-CoA
+T12	Chemical 278 297	inorganic phosphate
+T13	Geometrical_part 303 321	crystal structures
+T14	Protein 325 346	phosphotransacetylase
+T15	Physiology 356 368	methanogenic
+T16	Organism 370 405	archaeon Methanosarcina thermophila
+T17	Category 409 416	complex
+T18	Category 426 435	substrate
+T19	Protein 436 439	CoA
+T20	Protein 453 456	CoA
+T21	Protein 458 462	CoA1
+T22	Protein_part 486 497	active site
+T23	Geometrical_part 498 503	cleft
+T24	Protein 522 525	CoA
+T25	Protein 527 531	CoA2
+T26	Geometrical_part 563 568	cleft
+T27	Process 596 605	titration
+T28	Technique 606 617	calorimetry
+T29	Process 618 629	experiments
+T30	Parameter 716 749	equilibrium dissociation constant
+T31	Parameter 751 753	KD
+T32	Value 756 765	20 microM
+T33	Parameter 785 787	KD
+T34	Value 789 793	2 mM
+T35	Protein 795 798	CoA
+T36	Process 799 806	binding
+T37	Protein_part 807 812	sites
+T38	Geometrical_part 818 836	crystal structures
+T39	Process 852 859	binding
+T40	Protein 863 867	CoA1
+T41	Chemical 895 909	hydrogen bonds
+T42	Unknown 924 938	van  der Waals
+T43	Process 939 951	interactions
+T44	Protein 961 967	enzyme
+T45	Process 1002 1014	interactions
+T46	Protein 1023 1027	CoA2
+T47	Protein 1036 1042	enzyme
+T48	Process 1044 1053	Different
+T49	State 1054 1067	conformations
+T50	Protein 1075 1082	protein
+T51	Geometrical_part 1100 1118	crystal structures
+T52	Protein_part 1132 1138	domain
+T53	Process 1139 1148	movements
+T54	Geometrical_part 1166 1174	geometry
+T55	Protein_part 1182 1193	active site
+T56	Geometrical_part 1194 1199	cleft
+T57	Process 1218 1227	catalysis
+T58	Parameter 1229 1236	Kinetic
+T59	Technique 1254 1262	analyses
+T60	Protein_part 1266 1270	site
+T61	Process 1280 1291	replacement
+T62	Unknown 1292 1300	variants
+T63	Process 1337 1342	roles
+T64	Protein_part 1347 1353	Ser309
+T65	Protein_part 1358 1364	Arg310
+T66	Location 1376 1384	proximal
+T67	Chemical 1392 1411	reactive sulfhydryl
+T68	Protein 1415 1419	CoA1
+T69	Process 1425 1433	reaction
+T70	Process 1484 1495	abstraction
+T71	Chemical 1503 1515	thiol proton
+T72	Protein 1519 1522	CoA
+T73	Location 1530 1538	adjacent
+T74	Protein_part 1543 1567	invariant residue Asp316
+T75	Chemical 1608 1622	thiolate anion
+T76	Protein 1626 1629	CoA
+T77	Chemical 1637 1652	carbonyl carbon
+T78	Chemical 1656 1672	acetyl phosphate
+T79	Protein_part 1690 1696	Arg310
+T80	Chemical 1703 1719	acetyl phosphate
+T81	Process 1785 1794	mechanism
+T82	State 1833 1849	transition state
+T83	Chemical 1864 1877	hydrogen bond
+T84	Process 1878 1886	donation
+T85	Protein_part 1892 1898	Ser309

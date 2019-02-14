@@ -1,0 +1,84 @@
+T1	Process 26 31	roles
+T2	Chemical 39 60	Cys14-Cys38 disulfide
+T3	Organism 64 70	bovine
+T4	Body_part 71 81	pancreatic
+T5	Protein 82 89	trypsin
+T6	Category 90 99	inhibitor
+T7	Chemical 105 119	disulfide bond
+T8	Protein_part 128 133	Cys14
+T9	Protein_part 138 143	Cys38
+T10	Organism 147 153	bovine
+T11	Body_part 154 164	pancreatic
+T12	Protein 165 172	trypsin
+T13	Category 173 182	inhibitor
+T14	Geometrical_part 195 202	surface
+T15	Category 210 219	inhibitor
+T16	Geometrical_part 230 234	part
+T17	Protein 242 250	protease
+T18	Protein_part 259 265	region
+T19	Parameter 282 292	properties
+T20	Unknown 302 310	variants
+T21	Chemical 324 333	disulfide
+T22	Protein_part 360 372	Cys residues
+T23	Protein_part 387 390	Ser
+T24	Technique 411 435	X-ray crystal structures
+T25	Category 443 452	complexes
+T26	Organism 458 464	bovine
+T27	Protein 465 472	trypsin
+T28	Value 508 514	1.58-A
+T29	Parameter 515 525	resolution
+T30	Geometrical_part 537 554	crystal structure
+T31	Category 562 569	complex
+T32	Molecule 586 592	mutant
+T33	Protein_part 603 615	Cys residues
+T34	Category 664 671	complex
+T35	Protein 687 704	wild-type protein
+T36	Chemical 715 731	Ser oxygen atoms
+T37	Chemical 758 772	disulfide bond
+T38	Chemical 780 793	hydrogen bond
+T39	Geometrical_part 803 813	structures
+T40	Category 821 830	complexes
+T41	Process 843 855	replacements
+T42	Process 878 891	perturbations
+T43	State 907 920	conformations
+T44	Protein_part 928 931	Ser
+T45	Protein_part 932 943	side chains
+T46	Process 957 964	absence
+T47	Chemical 972 986	disulfide bond
+T48	Technique 992 1008	crystallographic
+T49	Parameter 1009 1028	temperature factors
+T50	Category 1078 1087	complexes
+T51	Category 1104 1114	inhibitors
+T52	Unknown 1133 1141	variants
+T53	Protein 1158 1165	trypsin
+T54	Category 1198 1207	inhibitor
+T55	Value 1223 1234	10,000-fold
+T56	Chemical 1300 1309	disulfide
+T57	Parameter 1340 1350	resistance
+T58	Process 1354 1364	hydrolysis
+T59	Protein 1382 1399	wild-type protein
+T60	Parameter 1405 1410	rates
+T61	Process 1414 1424	hydrolysis
+T62	Parameter 1458 1460	pH
+T63	Value 1479 1486	3.5-8.0
+T64	Chemical 1511 1519	alkaline
+T65	Parameter 1520 1526	values
+T66	Process 1559 1569	hydrolysis
+T67	Parameter 1570 1575	rates
+T68	Category 1587 1597	substrates
+T69	Process 1677 1687	inhibition
+T70	Protein 1700 1724	acyl-enzyme intermediate
+T71	Parameter 1748 1752	rate
+T72	Category 1807 1814	complex
+T73	Chemical 1860 1865	amino
+T74	Molecular_Part 1866 1871	group
+T75	Process 1899 1903	lack
+T76	Protein 1926 1950	acyl-enzyme intermediate
+T77	Category 1985 1992	complex
+T78	Protein 2007 2013	factor
+T79	Organism 2032 2038	bovine
+T80	Body_part 2039 2049	pancreatic
+T81	Protein 2050 2057	trypsin
+T82	Category 2058 2067	inhibitor
+T83	Category 2080 2090	inhibitors
+T84	Process 2101 2111	hydrolysis

@@ -1,0 +1,82 @@
+T1	Protein 30 83	SHV-1 beta-lactamase/beta-lactamase inhibitor protein
+T2	Protein 95 110	Beta-lactamases
+T3	Protein 115 122	enzymes
+T4	Process 141 151	hydrolysis
+T5	Chemical 155 178	beta-lactam antibiotics
+T6	Protein 180 234	beta-lactamase/beta-lactamase inhibitor protein (BLIP)
+T7	Category 235 244	complexes
+T8	Unknown 301 307	system
+T9	Protein 321 336	protein-protein
+T10	Process 337 349	interactions
+T11	Protein 351 355	BLIP
+T12	Protein 365 383	amino acid protein
+T13	Protein 406 429	class A beta-lactamases
+T14	Parameter 451 461	affinities
+T15	Value 463 472	picomolar
+T16	Parameter 473 481	affinity
+T17	Protein_part 486 488	K1
+T18	Value 490 499	nanomolar
+T19	Parameter 500 508	affinity
+T20	Protein 513 518	TEM-1
+T21	Protein 520 525	SME-1
+T22	Protein 531 535	BlaI
+T23	Value 546 556	micromolar
+T24	Parameter 557 565	affinity
+T25	Protein 570 590	SHV-1 beta-lactamase
+T26	Process 602 613	differences
+T27	Parameter 617 625	affinity
+T28	Process 669 680	mutagenesis
+T29	Geometrical_part 706 724	crystal structures
+T30	Protein 733 743	TEM-1/BLIP
+T31	Protein 748 758	SHV-1/BLIP
+T32	Category 759 768	complexes
+T33	Unknown 790 797	systems
+T34	Process 814 825	development
+T35	Unknown 871 875	EGAD
+T36	Protein 935 939	BLIP
+T37	Parameter 966 974	affinity
+T38	Protein 979 984	SHV-1
+T39	Process 986 1002	Characterization
+T40	Molecule 1035 1042	mutants
+T41	Process 1075 1084	mutations
+T42	Value 1112 1115	10-
+T43	Value 1119 1128	1000-fold
+T44	Protein 1141 1155	wild type BLIP
+T45	Process 1172 1179	changes
+T46	Parameter 1183 1199	binding affinity
+T47	Molecule 1208 1215	mutants
+T48	Parameter 1230 1234	mean
+T49	Value 1253 1266	0.87 kcal/mol
+T50	Parameter 1289 1295	values
+T51	Process 1301 1311	comparison
+T52	Parameter 1347 1353	values
+T53	Protein 1370 1380	SHV-1/BLIP
+T54	Category 1381 1390	complexes
+T55	Parameter 1401 1424	correlation coefficient
+T56	Value 1428 1432	0.77
+T57	Unknown 1434 1444	Structures
+T58	Category 1456 1465	complexes
+T59	Parameter 1483 1491	affinity
+T60	Protein 1493 1503	SHV-1/BLIP
+T61	Protein 1505 1509	E73M
+T62	Protein 1515 1525	SHV-1/BLIP
+T63	Protein 1527 1531	E73M
+T64	Protein_part 1533 1538	S130K
+T65	Protein_part 1540 1545	S146M
+T66	Value 1566 1571	1.7 A
+T67	Parameter 1572 1582	resolution
+T68	Unknown 1604 1614	structures
+T69	Unknown 1670 1680	structures
+T70	Chemical 1730 1741	salt bridge
+T71	Unknown 1750 1760	SHV-1 D104
+T72	Protein 1765 1773	BLIP K74
+T73	Unknown 1806 1816	structures
+T74	State 1850 1863	conformations
+T75	Chemical 1920 1931	salt bridge
+T76	Process 1932 1944	interactions
+T77	Protein 1952 1959	protein
+T78	Protein_part 1995 2006	side chains
+T79	Protein 2019 2027	rotamers
+T80	Unknown 2122 2126	EGAD
+T81	Category 2163 2172	complexes
+T82	Parameter 2189 2197	affinity

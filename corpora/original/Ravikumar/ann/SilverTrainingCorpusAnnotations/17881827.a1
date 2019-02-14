@@ -1,0 +1,77 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 13	crystal
+T3	Technique 25 33	analysis
+T4	Process 41 48	binding
+T5	Protein_part 49 53	site
+T6	Chemical 61 67	ferric
+T7	Chemical 72 82	oxyferrous
+T8	Protein 108 129	heme dehaloperoxidase
+T9	Organism 142 160	Amphitrite  ornata
+T10	Protein 166 182	dehaloperoxidase
+T11	Protein 184 187	DHP
+T12	Organism 220 237	Amphitrite ornata
+T13	Protein 244 250	enzyme
+T14	Chemical 265 289	para-halogenated phenols
+T15	Chemical 311 319	quinones
+T16	Process 327 335	presence
+T17	Chemical 339 356	hydrogen peroxide
+T18	Protein 362 371	enzymatic
+T19	Parameter 372 380	activity
+T20	Protein 403 419	heme peroxidases
+T21	Food 428 439	horseradish
+T22	Protein 440 450	peroxidase
+T23	Protein 501 514	globin family
+T24	Protein 518 526	proteins
+T25	Process 537 546	functions
+T26	Chemical 560 566	oxygen
+T27	Process 567 576	transport
+T28	Process 581 588	storage
+T29	Process 623 631	function
+T30	Protein 640 661	hemoglobin peroxidase
+T31	Protein 667 673	enzyme
+T32	Organism 691 707	Escherichia coli
+T33	Protein 725 732	protein
+T34	Protein 764 778	mutant protein
+T35	Protein_part 788 793	Cys73
+T36	Protein_part 813 827	serine residue
+T37	Protein_part 829 833	C73S
+T38	Protein 859 874	mutant proteins
+T39	Geometrical_part 897 913	their structures
+T40	Value 933 938	100 K
+T41	Parameter 944 954	resolution
+T42	Value 958 964	1.62 A
+T43	Geometrical_part 970 979	structure
+T44	Protein 987 1004	wild-type protein
+T45	Chemical 1060 1069	heme iron
+T46	Chemical 1077 1083	ferric
+T47	State 1084 1099	oxidation state
+T48	Chemical 1114 1119	water
+T49	Value 1126 1131	2.2 A
+T50	Chemical 1141 1150	heme iron
+T51	Unknown 1156 1165	structure
+T52	Protein 1173 1192	C73S mutant protein
+T53	Chemical 1216 1233	ferrous heme iron
+T54	Chemical 1247 1262	oxygen molecule
+T55	Process 1273 1280	bonding
+T56	Geometrical_part 1281 1289	geometry
+T57	Chemical 1297 1316	Fe-O(1)-O(2) adduct
+T58	Chemical 1330 1343	hydrogen bond
+T59	Parameter 1347 1353	length
+T60	Value 1355 1360	2.8 A
+T61	Chemical 1380 1386	O atom
+T62	Chemical 1388 1392	O(2)
+T63	Chemical 1397 1413	molecular oxygen
+T64	Chemical 1418 1422	N(2)
+T65	Location 1430 1436	distal
+T66	Protein_part 1437 1454	histidine residue
+T67	Protein_part 1456 1461	His55
+T68	Protein 1471 1479	subunits
+T69	Chemical 1524 1532	hydrogen
+T70	Process 1541 1552	interaction
+T71	Protein_part 1561 1566	His55
+T72	Chemical 1590 1605	oxygen molecule
+T73	Process 1619 1626	insight
+T74	Process 1636 1656	catalytic activation
+T75	Unknown 1660 1668	H(2)O(2)
+T76	Protein 1693 1703	peroxidase
+T77	Parameter 1704 1712	activity

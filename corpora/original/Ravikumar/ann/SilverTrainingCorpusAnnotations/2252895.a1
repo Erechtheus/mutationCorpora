@@ -1,0 +1,81 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 16 40	acyl-enzyme intermediate
+T3	Process 48 57	catalysis
+T4	Protein 59 84	(guanidinobenzoyl)trypsin
+T5	Unknown 90 97	crystal
+T6	Geometrical_part 112 121	structure
+T7	Protein 125 132	trypsin
+T8	Molecule 157 169	intermediate
+T9	Process 182 191	catalysis
+T10	Technique 215 232	X-ray diffraction
+T11	Organism 242 248	Bovine
+T12	Protein 249 256	trypsin
+T13	Category 269 278	substrate
+T14	Chemical 279 312	p-nitrophenyl p-guanidinobenzoate
+T15	Process 320 335	crystallization
+T16	Protein 366 390	acyl-enzyme intermediate
+T17	Protein 392 417	(guanidinobenzoyl)trypsin
+T18	Unknown 444 452	crystals
+T19	Geometrical_part 463 488	space group P2(1)2(1)2(1)
+T20	Parameter 495 496	a
+T21	Value 499 504	63.74
+T22	Parameter 506 507	b
+T23	Value 510 515	63.54
+T24	Parameter 521 522	c
+T25	Value 525 532	68.93 A
+T26	Unknown 544 551	crystal
+T27	Organism 560 566	bovine
+T28	Protein 567 574	trypsin
+T29	Unknown 597 606	structure
+T30	Process 630 641	Diffraction
+T31	Unknown 668 672	FAST
+T32	Unknown 680 686	Nonius
+T33	Unknown 708 717	structure
+T34	Technique 735 751	crystallographic
+T35	Parameter 764 765	R
+T36	Value 768 772	0.16
+T37	Parameter 789 805	resolution range
+T38	Value 806 815	7.0-2.0 A
+T39	Protein 838 863	(guanidinobenzoyl)trypsin
+T40	Process 873 880	insight
+T41	Process 901 906	basis
+T42	Parameter 920 924	rate
+T43	Process 928 939	deacylation
+T44	Chemical 950 958	solution
+T45	Value 962 974	25 degrees C
+T46	Parameter 979 981	pH
+T47	Value 982 985	7.4
+T48	Parameter 997 1001	t1/2
+T49	Value 1005 1009	12 h
+T50	Process 1030 1038	rotation
+T51	Chemical 1046 1062	Ser-195 hydroxyl
+T52	Protein_part 1073 1080	His-157
+T53	Chemical 1082 1088	C beta
+T54	Protein_part 1092 1099	Ser-195
+T55	Value 1106 1111	0.7 A
+T56	Protein_part 1119 1126	Asp-189
+T57	Protein_part 1148 1159	active site
+T58	Geometrical_part 1181 1197	native structure
+T59	Process 1211 1220	formation
+T60	Chemical 1248 1255	H bonds
+T61	Chemical 1263 1271	ion pair
+T62	Chemical 1284 1295	carboxylate
+T63	Protein_part 1299 1306	Asp-189
+T64	Chemical 1315 1324	guanidino
+T65	Molecular_Part 1325 1330	group
+T66	Category 1338 1347	substrate
+T67	Process 1354 1362	movement
+T68	Physiology 1382 1390	rigidity
+T69	Geometrical_part 1407 1411	ring
+T70	Chemical 1415 1434	guanidinobenzoate--
+T71	Chemical 1491 1499	arginine
+T72	Chemical 1524 1533	aliphatic
+T73	Geometrical_part 1534 1542	backbone
+T74	Chemical 1554 1564	ester bond
+T75	Protein_part 1570 1577	Ser-195
+T76	Process 1584 1595	consequence
+T77	Chemical 1612 1627	water molecules
+T78	Protein_part 1635 1646	active site
+T79	Chemical 1690 1700	ester bond
+T80	Chemical 1723 1735	nucleophiles
+T81	Process 1740 1750	hydrolysis

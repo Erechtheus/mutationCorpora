@@ -1,0 +1,53 @@
+T1	Process 11 27	characterization
+T2	Chemical 53 67	metal chelator
+T3	Location 75 86	periplasmic
+T4	Protein 87 110	nickel transporter NikA
+T5	Organism 112 128	Escherichia coli
+T6	Organism 141 149	bacteria
+T7	Chemical 158 164	nickel
+T8	Process 173 182	synthesis
+T9	Protein 186 198	hydrogenases
+T10	Protein 200 207	enzymes
+T11	Chemical 220 228	hydrogen
+T12	Process 229 238	oxidation
+T13	Molecule 243 249	proton
+T14	Process 250 259	reduction
+T15	Chemical 261 267	Nickel
+T16	Process 268 277	transport
+T17	Body_part 285 294	cytoplasm
+T18	Protein 311 319	proteins
+T19	Protein 321 327	NikA-E
+T20	Geometrical_part 361 388	three-dimensional structure
+T21	Location 404 415	periplasmic
+T22	Protein 416 439	nickel transporter NikA
+T23	Category 445 452	complex
+T24	Unknown 458 464	FeEDTA
+T25	Unknown 467 469	2O
+T26	Unknown 503 512	structure
+T27	Chemical 516 525	EDTA-free
+T28	Unknown 526 530	NikA
+T29	Molecule 576 584	molecule
+T30	Category 608 615	ligands
+T31	Process 623 635	coordination
+T32	Process 641 651	transition
+T33	Chemical 652 661	metal ion
+T34	Protein_part 677 683	His416
+T35	Chemical 708 713	metal
+T36	Protein_part 722 726	site
+T37	Unknown 734 740	FeEDTA
+T38	Unknown 743 745	2O
+T39	Unknown 747 755	(-)-NikA
+T40	Category 756 763	complex
+T41	Category 793 799	ligand
+T42	Chemical 807 812	metal
+T43	Molecule 845 853	electron
+T44	Parameter 854 861	density
+T45	Chemical 878 911	butane-1,2,4-tricarboxylate (BTC)
+T46	Chemical 938 949	BTC-Ni-NikA
+T47	Category 950 957	complex
+T48	Protein 968 975	protein
+T49	Chemical 991 999	reagents
+T50	Chemical 1012 1032	nickel-free BTC-NikA
+T51	Chemical 1068 1074	nickel
+T52	Process 1075 1084	transport
+T53	Chemical 1138 1141	BTC

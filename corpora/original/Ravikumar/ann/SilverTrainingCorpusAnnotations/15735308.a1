@@ -1,0 +1,56 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 39 52	dehydrogenase
+T3	Organism 58 80	Haemophilus influenzae
+T4	Protein 115 129	dehydrogenases
+T5	Unknown 170 174	YdiB
+T6	Unknown 179 183	AroE
+T7	Unknown 185 189	YdiB
+T8	Protein 208 214	enzyme
+T9	Process 245 255	reductions
+T10	Chemical 259 273	dehydroquinate
+T11	Chemical 277 284	quinate
+T12	Chemical 289 305	dehydroshikimate
+T13	Process 326 334	presence
+T14	Chemical 345 349	NADH
+T15	Chemical 353 358	NADPH
+T16	Unknown 373 377	AroE
+T17	Process 403 412	reduction
+T18	Chemical 416 432	dehydroshikimate
+T19	Process 453 461	presence
+T20	Chemical 465 470	NADPH
+T21	Geometrical_part 491 508	crystal structure
+T22	Process 513 541	biochemical characterization
+T23	Unknown 545 551	HI0607
+T24	Protein 580 593	dehydrogenase
+T25	Protein 617 630	dehydrogenase
+T26	Parameter 641 659	kinetic properties
+T27	Unknown 663 669	HI0607
+T28	Unknown 709 713	AroE
+T29	Unknown 718 722	YdiB
+T30	Process 727 737	comparison
+T31	Unknown 743 747	YdiB
+T32	Unknown 749 755	HI0607
+T33	Process 770 779	oxidation
+T34	Chemical 801 808	quinate
+T35	Process 814 822	turnover
+T36	Parameter 823 827	rate
+T37	Process 836 845	oxidation
+T38	Value 876 885	1000-fold
+T39	Unknown 914 918	AroE
+T40	Technique 933 941	analysis
+T41	Protein 1017 1031	dehydrogenases
+T42	Protein 1040 1044	AroE
+T43	Protein 1046 1050	YdiB
+T44	Protein 1091 1117	dehydrogenase-like protein
+T45	Process 1132 1143	mutagenesis
+T46	Unknown 1159 1168	invariant
+T47	Protein_part 1169 1177	residues
+T48	Protein_part 1179 1186	Asp-103
+T49	Protein_part 1191 1197	Lys-67
+T50	Molecular_Part 1242 1248	groups
+T51	Protein 1304 1317	dehydrogenase
+T52	Process 1318 1326	reaction
+T53	Geometrical_part 1371 1388	crystal structure
+T54	Process 1400 1411	mutagenesis
+T55	Technique 1428 1436	analysis
+T56	Protein 1468 1481	dehydrogenase

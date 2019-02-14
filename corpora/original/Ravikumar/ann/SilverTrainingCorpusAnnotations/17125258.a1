@@ -1,0 +1,46 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Organism 22 27	mouse
+T3	Protein_part 28 45	Cripto CFC domain
+T4	Protein_part 63 80	variant Trp107Ala
+T5	Parameter 111 115	time
+T6	Chemical 120 139	solution structures
+T7	Parameter 143 145	pH
+T8	Value 146 147	3
+T9	Parameter 152 154	pH
+T10	Value 155 156	6
+T11	Protein_part 174 184	CFC domain
+T12	Organism 188 193	mouse
+T13	Protein 194 200	Cripto
+T14	Protein_part 226 239	variant W107A
+T15	Protein 271 291	Alk4 Cripto receptor
+T16	Technique 293 296	NMR
+T17	Protein_part 319 329	CFC domain
+T18	Chemical 336 341	C1-C4
+T19	Chemical 343 348	C2-C6
+T20	Chemical 350 365	C3-C5 disulfide
+T21	Unknown 388 398	structures
+T22	Geometrical_part 466 478	antiparallel
+T23	Protein_part 479 486	strands
+T24	Protein_part 488 494	His104
+T25	Protein_part 499 505	Trp107
+T26	Protein_part 506 517	side chains
+T27	Protein 534 541	protein
+T28	Chemical 575 582	solvent
+T29	Process 623 634	involvement
+T30	Protein 638 646	receptor
+T31	Process 647 654	binding
+T32	Molecule 672 680	molecule
+T33	Location 681 685	side
+T34	Protein_part 704 712	residues
+T35	Technique 755 760	patch
+T36	Body_part 804 817	cell membrane
+T37	Location 825 833	adjacent
+T38	Unknown 834 837	EGF
+T39	Protein_part 843 849	domain
+T40	Technique 872 877	patch
+T41	Protein_part 890 896	His104
+T42	Protein_part 901 907	Trp107
+T43	Unknown 931 948	wild type variant
+T44	Process 972 983	involvement
+T45	Protein 998 1002	Alk4
+T46	Process 1003 1014	recognition

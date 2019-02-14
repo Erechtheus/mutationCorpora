@@ -1,0 +1,61 @@
+T1	Process 14 21	binding
+T2	State 22 35	conformations
+T3	Chemical 47 62	dipeptide amide
+T4	Category 63 73	inhibitors
+T5	Protein 90 112	nitric oxide synthases
+T6	Chemical 126 141	L-nitroarginine
+T7	Protein_part 148 157	dipeptide
+T8	Category 158 168	inhibitors
+T9	Protein 194 231	neuronal nitric oxide synthase (nNOS)
+T10	Body_part 241 252	endothelial
+T11	Molecule 253 260	isoform
+T12	Molecule 262 266	eNOS
+T13	Geometrical_part 269 287	Crystal structures
+T14	Protein_part 297 307	dipeptides
+T15	Molecule 322 330	isoforms
+T16	Process 344 353	different
+T17	State 354 367	conformations
+T18	Protein 379 383	nNOS
+T19	Molecule 400 404	eNOS
+T20	Value 434 439	lower
+T21	Parameter 440 456	binding affinity
+T22	Molecule 468 476	isoforms
+T23	Parameter 550 561	selectivity
+T24	Protein_part 570 576	Asp597
+T25	Protein 580 584	nNOS
+T26	Protein_part 596 602	Asn368
+T27	Molecule 606 610	eNOS
+T28	Process 643 656	stabilization
+T29	Category 664 673	inhibitor
+T30	Category 674 681	complex
+T31	Protein_part 718 727	dipeptide
+T32	Category 728 738	inhibitors
+T33	Process 754 767	stabilization
+T34	Molecule 810 817	isoform
+T35	Parameter 818 829	selectivity
+T36	Protein_part 843 852	dipeptide
+T37	Category 853 863	inhibitors
+T38	Protein_part 873 880	residue
+T39	Protein_part 904 915	active site
+T40	Protein_part 917 923	Met336
+T41	Protein 927 948	nNOS (Val106 in eNOS)
+T42	Process 956 963	contact
+T43	Protein_part 977 986	dipeptide
+T44	Category 987 997	inhibitors
+T45	Molecule 1006 1013	mutants
+T46	Unknown 1040 1049	D597/M336
+T47	Protein 1059 1063	nNOS
+T48	Unknown 1069 1078	N368/V106
+T49	Molecule 1082 1086	eNOS
+T50	Geometrical_part 1103 1121	crystal structures
+T51	Parameter 1126 1146	inhibition constants
+T52	Protein_part 1159 1168	dipeptide
+T53	Category 1169 1179	inhibitors
+T54	Protein 1189 1193	nNOS
+T55	Molecule 1198 1202	eNOS
+T56	Process 1233 1237	role
+T57	Protein_part 1248 1256	residues
+T58	Process 1266 1271	entry
+T59	Protein_part 1279 1290	active site
+T60	Molecule 1294 1301	isoform
+T61	Process 1312 1322	inhibition

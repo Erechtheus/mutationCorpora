@@ -1,0 +1,81 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 26 53	ubiquitin-associated domain
+T3	Organism 57 62	human
+T4	Protein 63 71	BMSC-UbP
+T5	Category 80 87	complex
+T6	Protein 93 102	ubiquitin
+T7	Protein 104 113	Ubiquitin
+T8	Body_part 130 138	cellular
+T9	Protein 159 167	proteins
+T10	Process 172 183	degradation
+T11	Process 203 212	functions
+T12	Protein 240 256	BMSC-UbP protein
+T13	Body_part 271 296	bone marrow stromal cells
+T14	Protein_part 308 341	ubiquitin-associated (UBA) domain
+T15	Protein_part 349 359	C terminus
+T16	Body_part 396 414	cellular processes
+T17	Protein 423 439	ubiquitin system
+T18	Chemical 461 469	solution
+T19	Technique 470 473	NMR
+T20	Geometrical_part 474 483	structure
+T21	Protein_part 491 501	UBA domain
+T22	Organism 505 510	human
+T23	Protein 511 519	BMSC-UbP
+T24	Protein 520 527	protein
+T25	Category 536 543	complex
+T26	Protein 549 558	ubiquitin
+T27	Unknown 564 573	structure
+T28	Process 615 647	solubility-enhancement tag (SET)
+T29	Unknown 648 651	GB1
+T30	Protein 653 669	immunoglobulin G
+T31	Process 670 677	binding
+T32	Protein_part 678 686	domain 1
+T33	Organism 690 703	Streptococcal
+T34	Protein 704 713	protein G
+T35	Protein_part 737 756	BMSC-UbP UBA domain
+T36	Protein_part 789 802	alpha-helices
+T37	Technique 822 827	patch
+T38	Protein_part 839 847	residues
+T39	Protein_part 859 869	C terminus
+T40	Protein 873 880	helix-1
+T41	Protein 882 888	loop-1
+T42	Protein 894 901	helix-3
+T43	Protein_part 907 918	M-G-I motif
+T44	Protein_part 937 953	M/L-G-F/Y motifs
+T45	Protein_part 972 983	UBA domains
+T46	Chemical 985 993	Chemical
+T47	Process 994 999	shift
+T48	Process 1000 1012	perturbation
+T49	Protein_part 1037 1047	UBA domain
+T50	Protein_part 1087 1097	beta-sheet
+T51	Protein 1101 1110	ubiquitin
+T52	Process 1127 1139	interactions
+T53	Parameter 1149 1175	dissociation constant (KD)
+T54	Value 1179 1202	approximately 17 microM
+T55	Protein_part 1229 1248	BMSC-UbP UBA domain
+T56	Protein 1264 1273	ubiquitin
+T57	Chemical 1294 1302	chemical
+T58	Technique 1303 1316	shift mapping
+T59	Unknown 1343 1350	HADDOCK
+T60	Process 1395 1406	mutagenesis
+T61	Geometrical_part 1431 1440	structure
+T62	Protein_part 1448 1456	residues
+T63	Protein_part 1458 1463	Met76
+T64	Protein_part 1465 1470	Ile78
+T65	Protein_part 1476 1481	Leu99
+T66	Protein 1486 1498	BMSC-UbP UBA
+T67	Process 1514 1523	anchoring
+T68	Protein_part 1528 1534	domain
+T69	Geometrical_part 1562 1569	surface
+T70	Protein 1573 1582	ubiquitin
+T71	Protein_part 1594 1607	residues Leu8
+T72	Protein_part 1609 1614	Ile44
+T73	Protein_part 1616 1621	His68
+T74	Protein_part 1627 1632	Val70
+T75	Geometrical_part 1647 1656	structure
+T76	Protein 1679 1687	BMSC-UbP
+T77	Process 1688 1697	functions
+T78	Protein_part 1731 1742	UBA domains
+T79	Protein 1752 1781	ubiquitin-associated proteins
+T80	Parameter 1798 1815	sequence homology
+T81	Protein_part 1821 1840	BMSC-UbP UBA domain

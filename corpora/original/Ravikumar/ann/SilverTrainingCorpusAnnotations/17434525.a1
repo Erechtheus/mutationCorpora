@@ -1,0 +1,79 @@
+T1	Chemical 0 10	Nucleotide
+T2	Category 11 20	substrate
+T3	Process 21 32	recognition
+T4	Protein 36 82	UDP-N-acetylglucosamine acyltransferase (LpxA)
+T5	Chemical 104 111	lipid A
+T6	Process 112 124	biosynthesis
+T7	Chemical 126 133	Lipid A
+T8	Parameter 149 158	component
+T9	Chemical 166 190	lipopolysaccharide (LPS)
+T10	Body_part 231 246	outer monolayer
+T11	Organism 250 272	Gram-negative bacteria
+T12	Organism 295 304	bacterial
+T13	Process 305 311	growth
+T14	Protein 327 373	UDP-N-acetylglucosamine acyltransferase (LpxA)
+T15	Chemical 384 391	lipid A
+T16	Process 392 404	biosynthesis
+T17	Process 423 431	transfer
+T18	Chemical 436 460	R-3-hydroxymyristic acid
+T19	Protein 466 486	acyl carrier protein
+T20	Chemical 494 505	3'-hydroxyl
+T21	Molecular_Part 506 511	group
+T22	Chemical 515 525	UDP-GlcNAc
+T23	Protein 531 537	enzyme
+T24	Protein 543 553	homotrimer
+T25	Protein_part 595 606	active site
+T26	Geometrical_part 640 645	cleft
+T27	Protein 660 675	subunit-subunit
+T28	Geometrical_part 692 709	crystal structure
+T29	Organism 713 729	Escherichia coli
+T30	Protein 730 734	LpxA
+T31	Category 738 745	complex
+T32	Chemical 751 761	UDP-GlcNAc
+T33	Category 785 794	substrate
+T34	Protein_part 803 807	site
+T35	Process 824 848	hydrophilic interactions
+T36	Protein_part 886 894	residues
+T37	Protein_part 896 902	Asn198
+T38	Protein_part 904 910	Glu200
+T39	Protein_part 912 918	Arg204
+T40	Protein_part 923 929	Arg205
+T41	Chemical 936 939	UDP
+T42	Protein_part 946 951	Asp74
+T43	Protein_part 953 959	His125
+T44	Protein_part 961 967	His144
+T45	Protein_part 972 978	Gln161
+T46	Chemical 990 996	GlcNAc
+T47	Molecular_Part 997 1003	moiety
+T48	Process 1011 1023	interactions
+T49	Category 1053 1062	substrate
+T50	Process 1068 1077	catalysis
+T51	Technique 1083 1099	crystallographic
+T52	Process 1152 1161	acylation
+T53	Chemical 1209 1219	UDP-GlcNAc
+T54	Chemical 1227 1231	acyl
+T55	Category 1232 1237	donor
+T56	Chemical 1243 1255	general base
+T57	Process 1266 1275	mechanism
+T58	Protein_part 1288 1302	catalytic dyad
+T59	Protein_part 1306 1312	His125
+T60	Protein_part 1317 1323	Asp126
+T61	Protein_part 1325 1331	His125
+T62	Chemical 1337 1349	general base
+T63	Chemical 1370 1381	3'-hydroxyl
+T64	Molecular_Part 1382 1387	group
+T65	Chemical 1391 1401	UDP-GlcNAc
+T66	Chemical 1418 1429	nucleophile
+T67	Protein_part 1435 1452	Asp126 side-chain
+T68	Chemical 1463 1476	hydrogen bond
+T69	Protein_part 1482 1488	His125
+T70	Chemical 1510 1522	general base
+T71	Process 1541 1550	catalysis
+T72	Process 1552 1563	Comparisons
+T73	Protein_part 1572 1584	LpxA:peptide
+T74	Category 1585 1594	inhibitor
+T75	Category 1595 1602	complex
+T76	Protein_part 1621 1628	peptide
+T77	Chemical 1648 1658	nucleotide
+T78	Protein 1663 1683	acyl carrier protein
+T79	Category 1684 1694	substrates

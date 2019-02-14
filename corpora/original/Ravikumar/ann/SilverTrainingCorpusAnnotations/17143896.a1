@@ -1,0 +1,90 @@
+T1	Protein 29 35	GTPase
+T2	Protein_part 36 42	domain
+T3	Organism 46 62	Escherichia coli
+T4	Protein 63 75	MnmE protein
+T5	Organism 81 97	Escherichia coli
+T6	Protein 98 110	MnmE protein
+T7	Value 116 122	50-kDa
+T8	Geometrical_part 123 134	multidomain
+T9	Protein 135 141	GTPase
+T10	Protein 154 158	tRNA
+T11	Process 159 171	modification
+T12	Protein 177 187	homologues
+T13	Organism 191 201	eukaryotes
+T14	Body_part 218 231	mitochondrial
+T15	Process 232 243	respiration
+T16	Organism 278 283	human
+T17	Protein 284 291	protein
+T18	Physiology 314 336	mitochondrial diseases
+T19	Protein 345 348	Ras
+T20	Protein 350 354	MnmE
+T21	Location 368 377	intrinsic
+T22	Protein 378 384	GTPase
+T23	Parameter 385 393	activity
+T24	Chemical 417 420	GTP
+T25	Process 421 431	hydrolysis
+T26	Chemical 448 451	GTP
+T27	Process 452 459	binding
+T28	Protein_part 501 514	MnmE G-domain
+T29	Protein_part 520 528	residues
+T30	Protein 544 550	GTPase
+T31	Parameter 551 559	activity
+T32	Protein 574 581	protein
+T33	Protein_part 626 634	residues
+T34	Chemical 639 642	GTP
+T35	Process 643 653	hydrolysis
+T36	Chemical 670 673	GTP
+T37	Process 674 684	hydrolysis
+T38	Process 685 694	mechanism
+T39	Protein 698 702	MnmE
+T40	Process 721 727	effect
+T41	Value 731 734	low
+T42	Parameter 735 737	pH
+T43	Process 741 748	binding
+T44	Process 753 763	hydrolysis
+T45	Chemical 767 770	GTP
+T46	Process 790 799	formation
+T47	Protein 805 809	MnmE
+T48	State 810 826	transition state
+T49	Category 827 832	mimic
+T50	Chemical 834 837	GTP
+T51	Process 838 848	hydrolysis
+T52	Protein 852 856	MnmE
+T53	Chemical 866 869	GTP
+T54	Process 870 877	binding
+T55	Process 881 890	formation
+T56	Category 896 903	complex
+T57	Chemical 909 917	mant-GDP
+T58	Chemical 922 940	aluminium fluoride
+T59	Parameter 957 966	acidic pH
+T60	State 1005 1021	transition state
+T61	Category 1022 1027	mimic
+T62	State 1061 1077	transition state
+T63	Chemical 1118 1121	GTP
+T64	Process 1122 1132	hydrolysis
+T65	Value 1158 1161	low
+T66	Parameter 1162 1164	pH
+T67	Technique 1175 1207	nuclear magnetic resonance (NMR)
+T68	Protein 1248 1252	MnmE
+T69	Geometrical_part 1253 1262	structure
+T70	Parameter 1267 1277	properties
+T71	Technique 1299 1302	NMR
+T72	Protein_part 1383 1396	MnmE G-domain
+T73	Geometrical_part 1397 1406	structure
+T74	Chemical 1425 1433	Chemical
+T75	Process 1434 1439	shift
+T76	Unknown 1440 1449	structure
+T77	Process 1456 1466	prediction
+T78	Process 1483 1488	basis
+T79	Unknown 1493 1502	structure
+T80	Process 1503 1513	refinement
+T81	Process 1518 1528	validation
+T82	Protein 1552 1556	MnmE
+T83	Protein 1571 1578	GTPases
+T84	Chemical 1596 1604	arginine
+T85	Body_part 1605 1611	finger
+T86	Process 1621 1630	catalysis
+T87	Protein_part 1641 1647	Arg252
+T88	Process 1660 1664	role
+T89	Process 1668 1681	stabilization
+T90	State 1689 1705	transition state

@@ -1,0 +1,63 @@
+T1	Molecule 2 15	double mutant
+T2	Organism 19 30	sperm whale
+T3	Protein 31 40	myoglobin
+T4	Category 41 47	mimics
+T5	Unknown 52 61	structure
+T6	Process 66 74	function
+T7	Protein 87 96	myoglobin
+T8	Parameter 139 149	properties
+T9	Protein 162 171	myoglobin
+T10	Protein_part 180 196	L29F/H64Q mutant
+T11	Organism 200 211	sperm whale
+T12	Protein 212 221	myoglobin
+T13	Parameter 267 274	kinetic
+T14	Technique 275 285	techniques
+T15	Technique 300 328	resonance Raman spectroscopy
+T16	Chemical 330 332	1H
+T17	Technique 333 336	NMR
+T18	Technique 342 363	x-ray crystallography
+T19	Parameter 412 422	properties
+T20	Protein 459 466	protein
+T21	Organism 484 495	sperm whale
+T22	Molecule 496 509	double mutant
+T23	Organism 565 577	sperm  whale
+T24	Protein 578 587	myoglobin
+T25	Protein_part 603 614	H64Q mutant
+T26	Geometrical_part 645 663	crystal  structure
+T27	Technique 681 693	Bisig et al.
+T28	Unknown 702 763	D. A., Di Iorio, E. E., Diederichs, K., Winterhalter, K. H., 
+T29	Unknown 767 778	Piontek, K.
+T30	Unknown 786 800	J. Biol. Chem.
+T31	Protein_part 834 845	Phe residue
+T32	Location 860 871	position 29
+T33	Location 873 876	B10
+T34	Protein 890 899	myoglobin
+T35	Protein_part 911 922	Leu residue
+T36	Protein_part 955 974	amino acid sequence
+T37	Protein_part 987 996	Gln64(E7)
+T38	Chemical 1017 1023	oxygen
+T39	Parameter 1024 1032	affinity
+T40	Value 1047 1053	5-fold
+T41	Parameter 1072 1076	rate
+T42	Process 1080 1093	autooxidation
+T43	Value 1094 1100	3-fold
+T44	Process 1120 1127	effects
+T45	Protein_part 1148 1158	Phe29(B10)
+T46	Process 1159 1170	replacement
+T47	Protein 1188 1197	myoglobin
+T48	Organism 1206 1217	sperm whale
+T49	Molecule 1218 1231	double mutant
+T50	Protein 1268 1275	protein
+T51	Body_part 1311 1316	blood
+T52	Parameter 1358 1360	O2
+T53	Parameter 1361 1369	affinity
+T54	Parameter 1377 1391	rate constants
+T55	Parameter 1407 1417	resistance
+T56	Process 1421 1434	autooxidation
+T57	Location 1451 1457	distal
+T58	Geometrical_part 1458 1464	pocket
+T59	Process 1512 1517	basis
+T60	Process 1530 1540	mechanisms
+T61	Category 1545 1551	ligand
+T62	Process 1552 1559	binding
+T63	Process 1564 1577	autooxidation

@@ -1,0 +1,90 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 40	Yersinia enterocolitica
+T3	Process 41 59	type III secretion
+T4	Molecule 60 82	translocator chaperone
+T5	Unknown 83 87	SycD
+T6	Organism 94 116	Gram-negative bacteria
+T7	Process 123 147	type III secretion (T3S)
+T8	Unknown 148 154	system
+T9	Molecule 183 192	molecules
+T10	Body_part 209 214	cells
+T11	Physiology 252 262	pathogenic
+T12	Parameter 263 275	relationship
+T13	Organism 287 291	host
+T14	Process 297 310	translocation
+T15	Protein 319 331	T3S proteins
+T16	Molecule 353 363	chaperones
+T17	Organism 373 382	bacterial
+T18	Body_part 383 390	cytosol
+T19	Unknown 392 396	SycD
+T20	Process 419 422	T3S
+T21	Molecule 423 433	chaperones
+T22	Process 451 460	secretion
+T23	Body_part 464 468	pore
+T24	Molecule 477 490	translocators
+T25	Molecule 509 519	chaperones
+T26	Molecule 524 537	translocators
+T27	Unknown 538 542	YopB
+T28	Unknown 547 551	YopD
+T29	Physiology 557 573	enteropathogenic
+T30	Organism 574 597	Yersinia enterocolitica
+T31	Unknown 612 616	SycD
+T32	Process 636 646	regulation
+T33	Molecule 650 666	virulence factor
+T34	Process 667 679	biosynthesis
+T35	Process 684 693	secretion
+T36	Geometrical_part 725 743	crystal structures
+T37	Organism 747 764	Y. enterocolitica
+T38	Unknown 765 769	SycD
+T39	Value 773 777	1.95
+T40	Value 782 787	2.6 A
+T41	Parameter 788 798	resolution
+T42	Unknown 823 833	structures
+T43	Process 839 842	T3S
+T44	Molecule 843 861	class II chaperone
+T45	Molecule 875 888	translocators
+T46	Geometrical_part 894 898	fold
+T47	Unknown 902 906	SycD
+T48	Protein_part 951 975	tetratricopeptide repeat
+T49	Protein_part 981 987	motifs
+T50	Protein_part 1017 1036	amino acid sequence
+T51	Unknown 1046 1056	structures
+T52	Unknown 1058 1062	SycD
+T53	Protein 1069 1075	dimers
+T54	Protein_part 1086 1094	residues
+T55	Protein_part 1104 1140	first tetratricopeptide repeat motif
+T56	Technique 1148 1173	site-directed mutagenesis
+T57	Parameter 1178 1182	size
+T58	Process 1183 1192	exclusion
+T59	Technique 1193 1207	chromatography
+T60	Unknown 1226 1230	SycD
+T61	Protein 1250 1260	homodimers
+T62	Chemical 1264 1272	solution
+T63	Unknown 1291 1301	structures
+T64	Process 1303 1315	dimerization
+T65	Protein_part 1344 1352	residues
+T66	Process 1362 1372	assemblies
+T67	Protein 1395 1401	dimers
+T68	Process 1415 1424	different
+T69	Protein 1425 1432	monomer
+T70	Process 1433 1445	orientations
+T71	Geometrical_part 1458 1463	shape
+T72	Protein 1500 1506	dimers
+T73	Geometrical_part 1540 1547	surface
+T74	Protein 1556 1563	monomer
+T75	Process 1584 1596	interactions
+T76	Unknown 1606 1610	SycD
+T77	Process 1611 1618	binding
+T78	Unknown 1628 1632	YopB
+T79	Unknown 1637 1641	YopD
+T80	Unknown 1645 1658	SycD  variant
+T81	Process 1672 1687	point mutations
+T82	Process 1695 1707	dimerization
+T83	Process 1754 1766	dimerization
+T84	Process 1768 1778	Expression
+T85	Protein 1794 1806	SycD monomer
+T86	Organism 1810 1818	Yersinia
+T87	Physiology 1839 1848	phenotype
+T88	Molecule 1854 1858	sycD
+T89	Molecule 1859 1870	null mutant
+T90	Process 1916 1928	dimerization

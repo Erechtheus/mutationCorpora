@@ -1,0 +1,8 @@
+NTAL (non-T cell activation linker)/LAB (linker for activation of B cells) is a LAT (linker for activation of T cells)-like molecule that is expressed in B cells, mast cells, natural killer cells, and monocytes . 
+Upon engagement of the B cell receptor or Fc receptors, it is phosphorylated and interacts with Grb2 . 
+LAB is capable of rescuing thymocyte development in LAT(-/-) mice . 
+In this study, we utilized various LAB Tyr to Phe mutants to map the phosphorylation and Grb2-binding sites of LAB . 
+We also examined the function of these mutants by investigating their ability to rescue signaling defects in LAT-deficient Jurkat cells and thymocyte development in LAT(-/-) mice . 
+Our results indicated that human LAB was primarily phosphorylated on three membrane-distal tyrosines, Tyr(136), Tyr(193), and Tyr(233) . 
+Mutation of these three tyrosines abolished [ Grb2 ]b binding and LAB function . 
+Our data suggested that these tyrosines are the most important tyrosines for LAB function . 

@@ -1,0 +1,41 @@
+T1	Unknown 0 9	Structure
+T2	Body_part 15 23	synaptic
+T3	Protein 35 53	resolvase tetramer
+T4	Molecule 87 91	DNAs
+T5	Unknown 97 106	structure
+T6	Body_part 112 120	synaptic
+T7	Molecule 121 133	intermediate
+T8	Protein_part 141 145	site
+T9	Protein 155 177	recombinase gammadelta
+T10	Protein 178 187	resolvase
+T11	Protein_part 214 219	Ser10
+T12	Molecule 235 246	duplex DNAs
+T13	Value 270 282	3.4 angstrom
+T14	Parameter 283 293	resolution
+T15	Protein 300 309	resolvase
+T16	Process 325 338	recombination
+T17	Process 342 351	mutations
+T18	Protein 361 369	tetramer
+T19	Unknown 376 385	structure
+T20	Body_part 426 437	presynaptic
+T21	Category 438 445	complex
+T22	Protein 454 471	dimeric resolvase
+T23	Process 480 488	cleavage
+T24	Protein_part 489 493	site
+T25	Molecule 494 497	DNA
+T26	Molecule 523 526	DNA
+T27	Location 578 583	sides
+T28	Protein 596 604	tetramer
+T29	Process 612 621	movements
+T30	Protein 630 637	protein
+T31	Molecule 642 645	DNA
+T32	Protein_part 670 676	strand
+T33	Process 677 685	exchange
+T34	Protein 695 701	dimers
+T35	Molecule 716 720	DNAs
+T36	Value 803 814	180 degrees
+T37	Process 815 823	rotation
+T38	Protein 831 836	dimer
+T39	Molecule 886 889	DNA
+T40	Protein_part 903 909	strand
+T41	Process 910 918	exchange

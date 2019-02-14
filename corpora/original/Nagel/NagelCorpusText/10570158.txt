@@ -1,0 +1,9 @@
+[ Müllerian inhibiting substance ] (MIS) causes regression of the fetal Müllerian duct on binding a heteromeric complex of types I and II cell-surface receptors in the fetal urogenital ridge . 
+The MIS type II receptor (MISRII), which provides specificity for MIS, is also expressed in the adult testis, ovary, and uterus . 
+The rat MISRII promoter was cloned to study the molecular mechanisms underlying its temporal and cell-specific expression . 
+The 1.6-kilobase (kb) promoter contained no recognizable TATA or CAAT box, but there was a consensus Sp1 site upstream of the transcription initiation site . 
+Two binding sites for the orphan nuclear receptor steroidogenic factor-1 (SF-1) are occupied in vitro by using nuclear extracts from R2C cells, an MIS-responsive rat Leydig cell line that expresses endogenous MISRII, with differing affinities, indicating that the distal SF-1 site is bound more avidly than is the proximal SF-1 site . 
+R2C cells transfected with MISRII promoter/luciferase reporter constructs show a 12-fold induction with the 1.6-kb fragment and deletion of sequences upstream of -282-bp lowered luciferase expression to one-third . 
+Mutation of both SF-1 sites greatly inhibited luciferase expression, whereas mutation of either site alone resulted in continuing activation by endogenous SF-1, indicating redundancy . 
+In vitro binding and transcriptional analyses suggest that a proximal potential Smad-responsive element and an uncharacterized element also contribute to activation of the MISRII gene . 
+R2C cells and MISRII promoter regulation can now be used to uncover endogenous transcription factors responsible for receptor expression or repression . 

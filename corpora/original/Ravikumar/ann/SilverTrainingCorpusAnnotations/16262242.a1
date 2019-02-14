@@ -1,0 +1,97 @@
+T1	Protein_part 0 10	Residue F4
+T2	Chemical 42 48	oxygen
+T3	Parameter 49 57	affinity
+T4	Organism 79 88	Scapharca
+T5	Protein 89 107	dimeric hemoglobin
+T6	Protein_part 109 119	Residue F4
+T7	Protein_part 121 127	Phe 97
+T8	Category 157 163	ligand
+T9	Process 171 181	transition
+T10	Organism 185 194	Scapharca
+T11	Protein 195 213	dimeric hemoglobin
+T12	Process 224 231	packing
+T13	Chemical 239 250	heme pocket
+T14	State 273 278	state
+T15	Parameter 328 336	affinity
+T16	Process 338 346	Mutation
+T17	Protein_part 350 356	Phe 97
+T18	Protein_part 360 363	Leu
+T19	Protein_part 387 390	Val
+T20	Protein_part 396 399	Tyr
+T21	Chemical 410 416	oxygen
+T22	Parameter 417 425	affinity
+T23	Value 431 433	8-
+T24	Value 437 445	100-fold
+T25	Geometrical_part 478 496	crystal structures
+T26	Process 500 504	F97L
+T27	Process 509 513	F97V
+T28	Protein_part 519 529	side chain
+T29	Chemical 545 556	heme pocket
+T30	State 566 567	R
+T31	State 572 579	T state
+T32	Unknown 580 590	structures
+T33	Process 629 637	mutation
+T34	Process 639 643	F97Y
+T35	Protein_part 649 657	tyrosine
+T36	Protein_part 658 668	side chain
+T37	State 709 721	conformation
+T38	State 746 751	state
+T39	Process 753 763	Comparison
+T40	Process 773 782	mutations
+T41	Process 793 804	correlation
+T42	Protein_part 813 823	side chain
+T43	Chemical 839 843	heme
+T44	Chemical 855 861	oxygen
+T45	Parameter 862 870	affinity
+T46	Parameter 896 900	mass
+T47	Chemical 908 912	heme
+T48	Chemical 927 933	oxygen
+T49	Parameter 934 942	affinity
+T50	Process 959 967	movement
+T51	Chemical 975 984	heme iron
+T52	Chemical 994 998	heme
+T53	Chemical 1038 1051	hydrogen bond
+T54	Process 1095 1099	role
+T55	Process 1103 1113	regulation
+T56	Chemical 1117 1123	oxygen
+T57	Parameter 1124 1132	affinity
+T58	Process 1161 1165	role
+T59	Category 1179 1185	ligand
+T60	Parameter 1186 1194	affinity
+T61	Process 1207 1216	mutations
+T62	Organism 1220 1231	sperm whale
+T63	Protein 1232 1241	myoglobin
+T64	Category 1248 1254	ligand
+T65	Parameter 1255 1263	affinity
+T66	Value 1272 1278	5-fold
+T67	Process 1297 1306	different
+T68	Process 1307 1316	responses
+T69	Process 1320 1329	mutations
+T70	Process 1337 1339	F4
+T71	Process 1411 1422	differences
+T72	Protein 1427 1436	myoglobin
+T73	Process 1450 1461	orientation
+T74	Location 1469 1477	proximal
+T75	Protein_part 1478 1481	His
+T76	Chemical 1504 1528	C pyrrole nitrogen atoms
+T77	Category 1578 1584	ligand
+T78	Process 1585 1592	binding
+T79	Process 1621 1632	orientation
+T80	Location 1640 1648	proximal
+T81	Protein_part 1649 1658	histidine
+T82	Unknown 1677 1680	HbI
+T83	Category 1693 1699	ligand
+T84	Parameter 1700 1708	affinity
+T85	Process 1742 1750	contacts
+T86	Process 1759 1761	F4
+T87	Chemical 1770 1774	heme
+T88	Molecular_Part 1775 1780	group
+T89	Process 1811 1820	different
+T90	Protein 1852 1863	hemoglobins
+T91	Organism 1867 1875	molluscs
+T92	Organism 1880 1887	mammals
+T93	Category 1899 1905	ligand
+T94	Parameter 1906 1914	affinity
+T95	Process 1918 1928	modulation
+T96	Location 1959 1972	proximal side
+T97	Chemical 1981 1985	heme

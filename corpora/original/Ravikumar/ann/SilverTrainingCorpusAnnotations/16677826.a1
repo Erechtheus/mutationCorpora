@@ -1,0 +1,92 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Molecule 30 47	acidic neurotoxin
+T3	Organism 53 76	scorpion Buthus tamulus
+T4	Value 80 84	2.2A
+T5	Parameter 85 95	resolution
+T6	Geometrical_part 135 152	crystal structure
+T7	Molecule 165 182	acidic neurotoxin
+T8	Organism 192 215	scorpion Buthus tamulus
+T9	Value 239 243	2.2A
+T10	Parameter 244 254	resolution
+T11	Protein_part 260 279	amino acid sequence
+T12	Protein 309 326	polypeptide chain
+T13	Protein_part 334 353	amino acid residues
+T14	Unknown 359 361	pI
+T15	Process 362 373	measurement
+T16	Parameter 381 386	value
+T17	Value 390 393	4.3
+T18	Unknown 421 423	pI
+T19	Parameter 424 430	values
+T20	Organism 454 462	scorpion
+T21	Molecule 463 468	toxin
+T22	Molecule 491 503	alpha-toxins
+T23	Chemical 522 540	disulphide bridges
+T24	Protein_part 542 553	Cys12-Cys63
+T25	Protein_part 555 566	Cys16-Cys36
+T26	Protein_part 568 579	Cys22-Cys46
+T27	Protein_part 585 596	Cys26-Cys48
+T28	Geometrical_part 602 619	crystal structure
+T29	Process 632 640	presence
+T30	Molecule 681 690	molecules
+T31	State 719 732	conformations
+T32	Molecule 740 749	molecules
+T33	Parameter 772 784	r.m.s. value
+T34	Value 788 792	0.3A
+T35	Unknown 803 811	C(alpha)
+T36	Geometrical_part 834 838	fold
+T37	Molecule 846 851	toxin
+T38	Organism 877 885	scorpion
+T39	Molecule 886 898	alpha-toxins
+T40	Protein 926 933	protein
+T41	Protein_part 939 949	beta-sheet
+T42	Protein_part 959 977	residues Glu2-Ile6
+T43	Protein_part 979 991	strand beta1
+T44	Protein_part 994 1005	Asp32-Trp39
+T45	Protein_part 1007 1019	strand beta3
+T46	Protein_part 1025 1036	Val45-Val55
+T47	Protein_part 1038 1050	strand beta4
+T48	Protein_part 1064 1075	alpha-helix
+T49	Protein_part 1089 1109	residues Asn19-Asp28
+T50	Protein 1111 1117	alpha2
+T51	Unknown 1124 1133	structure
+T52	Chemical 1142 1160	trans peptide bond
+T53	Protein_part 1169 1179	residues 9
+T54	Protein_part 1184 1186	10
+T55	Protein_part 1221 1231	Asp8-Cys12
+T56	Molecule 1257 1262	toxin
+T57	Chemical 1284 1305	alpha-toxin subfamily
+T58	Geometrical_part 1311 1318	surface
+T59	Molecule 1343 1348	toxin
+T60	Protein_part 1387 1393	A-site
+T61	Protein_part 1399 1407	residues
+T62	Protein_part 1409 1414	Phe18
+T63	Protein_part 1416 1421	Trp38
+T64	Protein_part 1426 1431	Trp39
+T65	Location 1446 1455	outwardly
+T66	Protein 1488 1496	receptor
+T67	Body_part 1521 1525	face
+T68	Protein_part 1527 1533	N-site
+T69	Molecule 1543 1553	neurotoxin
+T70	Protein_part 1595 1603	residues
+T71	Protein_part 1613 1617	Glu2
+T72	Protein_part 1620 1624	Asp3
+T73	Protein_part 1626 1631	Asp32
+T74	Protein_part 1633 1638	Glu49
+T75	Protein_part 1643 1648	Asp50
+T76	Protein_part 1680 1686	region
+T77	Molecule 1694 1699	toxin
+T78	Unknown 1700 1709	structure
+T79	Body_part 1726 1730	face
+T80	Protein_part 1732 1738	P-site
+T81	Process 1756 1767	arrangement
+T82	Geometrical_part 1799 1804	faces
+T83	Protein_part 1842 1850	residues
+T84	Protein_part 1852 1857	Arg58
+T85	Protein_part 1859 1864	Lys62
+T86	Protein_part 1869 1874	Arg64
+T87	Location 1894 1903	outwardly
+T88	Process 1929 1940	interaction
+T89	Molecule 1952 1961	molecules
+T90	Molecule 1968 1973	toxin
+T91	Molecule 2038 2047	molecules
+T92	Molecule 2108 2119	neurotoxins

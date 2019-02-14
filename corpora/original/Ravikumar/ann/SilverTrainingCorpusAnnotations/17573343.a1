@@ -1,0 +1,47 @@
+T1	Protein_part 12 22	loxP sites
+T2	Protein 26 41	Cre recombinase
+T3	Protein 47 58	recombinase
+T4	Protein_part 69 73	site
+T5	Process 83 96	recombination
+T6	Value 105 110	34-bp
+T7	Protein_part 111 121	loxP sites
+T8	Body_part 154 162	cellular
+T9	Process 199 212	recombination
+T10	Process 213 221	reaction
+T11	Process 229 240	association
+T12	Protein 258 261	Cre
+T13	Protein_part 268 278	loxP sites
+T14	Protein 289 307	tetrameric protein
+T15	Process 308 316	assembly
+T16	Protein_part 339 345	strand
+T17	Process 346 354	exchange
+T18	Process 373 392	ultracentrifugation
+T19	Technique 397 412	electrophoresis
+T20	Protein 459 462	Cre
+T21	Protein_part 484 494	loxP sites
+T22	Parameter 538 546	affinity
+T23	Parameter 548 550	Kd
+T24	Value 553 558	10 nM
+T25	Parameter 567 569	pH
+T26	Chemical 601 617	divalent cations
+T27	Molecule 660 669	Cre K201A
+T28	Molecule 671 677	mutant
+T29	Protein_part 713 723	loxP sites
+T30	Protein_part 742 747	Y324F
+T31	Protein_part 753 766	R173K mutants
+T32	Geometrical_part 849 867	crystal structures
+T33	Unknown 886 894	Cre-loxP
+T34	Body_part 895 903	synaptic
+T35	Category 904 911	complex
+T36	Process 917 930	configuration
+T37	Process 970 983	recombination
+T38	Process 984 991	pathway
+T39	Technique 1027 1035	analysis
+T40	Molecule 1054 1058	loxP
+T41	Molecule 1059 1066	mutants
+T42	Unknown 1072 1082	structures
+T43	Value 1107 1111	8 bp
+T44	Protein_part 1119 1128	loxP site
+T45	Protein_part 1162 1168	strand
+T46	Process 1169 1177	exchange
+T47	Protein 1185 1195	Cre system

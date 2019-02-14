@@ -1,0 +1,67 @@
+T1	Process 11 16	basis
+T2	Process 25 37	inactivation
+T3	Protein 45 55	P54 mutant
+T4	Protein 59 73	beta-lactamase
+T5	Organism 79 104	Staphylococcus aureus PC1
+T6	Geometrical_part 110 127	crystal structure
+T7	Protein 133 147	mutant protein
+T8	Protein 153 175	class A beta-lactamase
+T9	Organism 181 206	Staphylococcus aureus PC1
+T10	Protein_part 217 223	Asp179
+T11	Protein_part 242 252	asparagine
+T12	Protein 254 257	P54
+T13	Value 295 300	2.3-A
+T14	Parameter 301 311	resolution
+T15	Value 313 314	1
+T16	Parameter 315 316	A
+T17	Value 319 325	0.1 nm
+T18	Technique 342 358	crystallographic
+T19	Parameter 359 367	R factor
+T20	Parameter 420 436	structure factor
+T21	Value 452 457	0.181
+T22	Process 468 479	reflections
+T23	Parameter 485 486	I
+T24	Value 487 512	greater than or equal to 
+T25	Parameter 512 521	sigma (I)
+T26	Value 533 542	6.0-2.3-A
+T27	Parameter 543 559	resolution range
+T28	Protein_part 573 580	residue
+T29	Protein_part 600 610	C-terminus
+T30	Geometrical_part 627 631	loop
+T31	Geometrical_part 637 647	omega-loop
+T32	Protein_part 666 677	active site
+T33	Parameter 716 724	activity
+T34	Process 726 737	Examination
+T35	Protein 756 759	P54
+T36	Geometrical_part 760 770	structures
+T37	Geometrical_part 796 800	fold
+T38	Physiology 846 854	disorder
+T39	Geometrical_part 862 872	omega-loop
+T40	Protein 876 879	P54
+T41	Process 891 902	consequence
+T42	Process 910 921	elimination
+T43	Chemical 927 938	salt bridge
+T44	Protein_part 947 953	Asp179
+T45	Protein_part 958 964	Arg164
+T46	Geometrical_part 984 988	ends
+T47	Geometrical_part 996 1006	omega-loop
+T48	Protein 1017 1031	beta-lactamase
+T49	Process 1057 1067	difference
+T50	Protein_part 1071 1081	side-chain
+T51	State 1082 1094	conformation
+T52	Protein_part 1103 1109	Asn179
+T53	Protein 1113 1116	P54
+T54	Protein_part 1121 1127	Asp179
+T55	Geometrical_part 1136 1152	native structure
+T56	Process 1167 1178	interaction
+T57	Protein 1189 1192	P54
+T58	Protein_part 1201 1207	Asn179
+T59	Protein_part 1212 1217	Ala69
+T60	Location 1219 1227	adjacent
+T61	Protein_part 1245 1250	Ser70
+T62	Physiology 1257 1265	disorder
+T63	Process 1274 1283	catalysis
+T64	Protein_part 1313 1321	residues
+T65	Protein_part 1337 1343	Glu166
+T66	Geometrical_part 1350 1354	part
+T67	Protein_part 1362 1373	active site

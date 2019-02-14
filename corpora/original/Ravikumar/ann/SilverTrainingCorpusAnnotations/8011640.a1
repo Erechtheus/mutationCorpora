@@ -1,0 +1,70 @@
+T1	Chemical 13 26	hydrogen bond
+T2	Process 50 63	stabilization
+T3	Category 87 94	complex
+T4	Protein 98 114	citrate synthase
+T5	Category 137 147	inhibitors
+T6	Protein 151 167	citrate synthase
+T7	Chemical 169 177	carboxyl
+T8	Chemical 190 205	amide analogues
+T9	Protein 209 226	acetyl coenzyme A
+T10	Category 255 272	ternary complexes
+T11	Category 282 292	inhibitors
+T12	Chemical 298 310	oxaloacetate
+T13	Protein 315 331	citrate synthase
+T14	Geometrical_part 359 375	their structures
+T15	Value 388 393	1.70-
+T16	Value 398 404	1.65-A
+T17	Parameter 405 415	resolution
+T18	Category 435 445	inhibitors
+T19	Parameter 451 473	dissociation constants
+T20	Value 481 496	nanomolar range
+T21	Chemical 507 525	carboxyl  analogue
+T22	Process 526 533	binding
+T23	Parameter 548 550	Ki
+T24	Value 553 559	1.6 nM
+T25	Parameter 563 565	pH
+T26	Value 566 569	6.0
+T27	Chemical 580 594	amide analogue
+T28	Value 596 601	28 nM
+T29	Process 628 639	requirement
+T30	Molecule 644 650	proton
+T31	Process 651 657	uptake
+T32	Chemical 677 685	carboxyl
+T33	Molecular_Part 686 691	group
+T34	Chemical 708 721	hydrogen bond
+T35	Protein_part 741 748	Asp 375
+T36	Parameter 750 758	distance
+T37	Value 759 766	< 2.4 A
+T38	Chemical 782 787	amide
+T39	Molecular_Part 788 793	group
+T40	Parameter 795 803	distance
+T41	Value 804 823	approximately 2.5 A
+T42	Chemical 848 859	carboxylate
+T43	Category 860 869	inhibitor
+T44	Chemical 886 899	hydrogen bond
+T45	Parameter 900 909	distances
+T46	Chemical 957 970	hydrogen bond
+T47	Parameter 985 1002	binding constants
+T48	Value 1020 1032	factor of 20
+T49	Parameter 1036 1038	pH
+T50	Value 1039 1042	6.0
+T51	Process 1064 1072	increase
+T52	Parameter 1076 1090	binding energy
+T53	Chemical 1099 1116	carboxyl analogue
+T54	Protein 1124 1130	enzyme
+T55	Value 1134 1150	about 2 kcal/mol
+T56	Chemical 1165 1179	amide analogue
+T57	Chemical 1231 1245	hydrogen bonds
+T58	Chemical 1255 1258	gas
+T59	State 1259 1264	phase
+T60	Process 1265 1277	measurements
+T61	Parameter 1278 1279	[
+T62	Value 1279 1292	> 20 kcal/mol
+T63	Unknown 1302 1309	Gassman
+T64	Unknown 1311 1316	1993a
+T65	Category 1326 1335	inhibitor
+T66	Category 1336 1345	complexes
+T67	Protein_part 1369 1376	Asp 375
+T68	Protein_part 1381 1388	His 274
+T69	Chemical 1433 1450	acetyl-coenzyme A
+T70	Process 1476 1484	reaction

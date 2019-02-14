@@ -1,0 +1,63 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 26	human
+T3	Protein 27 41	alpha-thrombin
+T4	Chemical 69 92	p-amidinophenylpyruvate
+T5	Value 96 101	1.6 A
+T6	Parameter 102 112	resolution
+T7	Unknown 114 122	Crystals
+T8	Organism 126 131	human
+T9	Protein 132 146	alpha-thrombin
+T10	Protein 178 202	alpha-keto acid thrombin
+T11	Category 203 212	inhibitor
+T12	Chemical 213 243	APPA (p-amidinophenylpyruvate)
+T13	Value 261 266	1.6 A
+T14	Parameter 267 277	resolution
+T15	Unknown 306 336	alpha-thrombin-hirugen crystal
+T16	Chemical 342 350	solution
+T17	Unknown 354 358	APPA
+T18	Geometrical_part 364 381	crystal structure
+T19	Process 407 417	difference
+T20	Technique 418 432	Fourier method
+T21	Parameter 451 459	R factor
+T22	Value 463 468	18.7%
+T23	Value 472 477	1.6 A
+T24	Parameter 478 488	resolution
+T25	Unknown 495 504	structure
+T26	Parameter 520 530	resolution
+T27	Geometrical_part 531 540	structure
+T28	Protein 548 565	thrombin molecule
+T29	Process 604 613	exception
+T30	Protein_part 621 627	region
+T31	Unknown 633 645	Arg77A-Asn78
+T32	Geometrical_part 651 661	structures
+T33	Protein 669 677	thrombin
+T34	Molecule 690 699	molecules
+T35	Category 707 722	ternary complex
+T36	Unknown 761 777	thrombin-hirugen
+T37	Category 785 792	complex
+T38	Protein 828 840	APPA-trypsin
+T39	Category 841 848	complex
+T40	Chemical 854 874	carbonyl carbon atom
+T41	Unknown 878 882	APPA
+T42	Chemical 891 904	covalent bond
+T43	Chemical 910 917	O gamma
+T44	Protein_part 921 927	Ser195
+T45	Protein 931 939	thrombin
+T46	Unknown 970 976	analog
+T47	Molecule 996 1008	intermediate
+T48	Process 1010 1020	Comparison
+T49	Geometrical_part 1040 1046	pocket
+T50	Unknown 1054 1058	APPA
+T51	Category 1059 1068	complexes
+T52	Protein 1072 1080	thrombin
+T53	Protein 1085 1092	trypsin
+T54	Process 1101 1112	differences
+T55	Chemical 1116 1132	hydrogen bonding
+T56	Parameter 1157 1161	time
+T57	Protein_part 1171 1178	S1 site
+T58	Protein 1182 1190	thrombin
+T59	Protein 1215 1222	trypsin
+T60	Protein 1239 1247	thrombin
+T61	Protein_part 1285 1287	P1
+T62	Molecular_Part 1289 1294	group
+T63	Protein 1300 1307	trypsin

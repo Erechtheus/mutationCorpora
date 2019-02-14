@@ -1,0 +1,77 @@
+T1	Protein 25 40	sulfite oxidase
+T2	Process 41 51	deficiency
+T3	Protein 53 68	Sulfite oxidase
+T4	Process 69 79	deficiency
+T5	Physiology 85 92	lethal 
+T6	Protein 92 99	genetic
+T7	Process 126 133	defects
+T8	Protein 149 154	genes
+T9	Protein 164 172	proteins
+T10	Chemical 185 195	molybdenum
+T11	Category 196 204	cofactor
+T12	Process 205 217	biosynthesis
+T13	Protein 228 243	sulfite oxidase
+T14	Protein 244 248	gene
+T15	Process 265 280	point mutations
+T16	Protein 288 303	sulfite oxidase
+T17	Protein 304 308	gene
+T18	Organism 335 343	patients
+T19	Physiology 364 371	disease
+T20	Technique 401 421	biochemical analyses
+T21	Process 453 462	mutations
+T22	Organism 550 555	human
+T23	Organism 560 563	rat
+T24	Protein 564 580	sulfite oxidases
+T25	Protein 600 605	clone
+T26	Organism 610 617	chicken
+T27	Protein 618 633	sulfite oxidase
+T28	Protein 634 638	gene
+T29	Protein 659 663	gene
+T30	Organism 668 675	chicken
+T31	Protein 676 691	sulfite oxidase
+T32	Protein_part 727 746	amino acid sequence
+T33	Organism 754 768	native chicken
+T34	Body_part 769 774	liver
+T35	Protein 775 781	enzyme
+T36	Technique 785 788	PCR
+T37	Process 789 802	amplification
+T38	Molecular_Part 833 840	primers
+T39	Protein 859 866	protein
+T40	Process 896 906	absorption
+T41	Parameter 907 915	spectrum
+T42	Protein 919 934	sulfite oxidase
+T43	State 949 961	steady state
+T44	Parameter 972 990	kinetic parameters
+T45	Body_part 1020 1026	tissue
+T46	Protein 1035 1041	enzyme
+T47	Geometrical_part 1057 1075	crystal structures
+T48	Protein 1101 1116	sulfite oxidase
+T49	Process 1117 1127	deficiency
+T50	Protein 1136 1141	R138Q
+T51	Protein_part 1143 1148	R160Q
+T52	Organism 1152 1158	humans
+T53	Unknown 1160 1167	variant
+T54	Organism 1183 1190	chicken
+T55	Protein 1191 1206	sulfite oxidase
+T56	Chemical 1226 1233	sulfate
+T57	Process 1259 1270	alterations
+T58	Category 1278 1287	substrate
+T59	Geometrical_part 1296 1302	pocket
+T60	Unknown 1325 1334	structure
+T61	Process 1356 1366	comparison
+T62	Protein 1393 1407	mutant protein
+T63	Protein_part 1426 1453	active site residue Arg-450
+T64	Process 1461 1470	different
+T65	State 1471 1484	conformations
+T66	Process 1492 1500	presence
+T67	Process 1505 1512	absence
+T68	Chemical 1522 1529	sulfate
+T69	Parameter 1535 1539	size
+T70	Process 1547 1554	binding
+T71	Geometrical_part 1555 1561	pocket
+T72	Category 1629 1637	cofactor
+T73	Process 1661 1669	increase
+T74	Parameter 1677 1685	distance
+T75	Chemical 1693 1704	sulfur atom
+T76	Chemical 1718 1725	sulfate
+T77	Chemical 1733 1743	molybdenum

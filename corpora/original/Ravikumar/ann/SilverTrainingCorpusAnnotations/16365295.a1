@@ -1,0 +1,58 @@
+T1	Process 12 19	insight
+T2	Process 29 50	allosteric activation
+T3	Protein 56 65	ubiquitin
+T4	Protein 78 84	enzyme
+T5	Protein 88 115	RING-type ubiquitin ligases
+T6	Protein 117 126	Ubiquitin
+T7	Chemical 139 164	enzymes (E2s) collaborate
+T8	Protein 174 183	ubiquitin
+T9	Protein 195 206	enzyme (E1)
+T10	Protein 211 228	ubiquitin ligases
+T11	Protein 230 233	E3s
+T12	Protein 245 254	ubiquitin
+T13	Protein 265 273	proteins
+T14	Geometrical_part 275 279	RING
+T15	Protein 291 294	E3s
+T16	Protein 318 321	E2s
+T17	Category 326 336	substrates
+T18	Process 395 409	ubiquitination
+T19	Protein 445 447	E3
+T20	Protein_part 456 460	site
+T21	Organism 468 473	human
+T22	Protein 474 483	E2 UbcH5b
+T23	Protein_part 504 515	active site
+T24	Protein 521 530	RING-type
+T25	Protein 539 541	E3
+T26	Category 558 567	substrate
+T27	Process 576 585	functions
+T28	Parameter 608 612	rate
+T29	Protein 616 625	ubiquitin
+T30	Process 626 633	release
+T31	Chemical 643 669	UbcH5b-ubiquitin thioester
+T32	Process 689 697	coupling
+T33	Technique 698 706	analysis
+T34	Process 711 722	mutagenesis
+T35	Protein_part 800 808	residues
+T36	Molecule 816 822	UbcH5b
+T37	Protein 837 839	E3
+T38	Protein_part 852 864	active sites
+T39	Molecule 874 880	UbcH5b
+T40	Molecule 881 888	mutants
+T41	Process 912 923	stimulation
+T42	Protein 927 930	E3s
+T43	Protein 972 975	E3s
+T44	Chemical 985 1005	ubiquitin thioesters
+T45	Protein 1022 1031	ubiquitin
+T46	Parameter 1043 1047	rate
+T47	Process 1059 1067	mutation
+T48	Process 1069 1073	I37A
+T49	Protein_part 1100 1111	active site
+T50	Protein 1120 1122	E3
+T51	Protein_part 1131 1135	site
+T52	Molecule 1139 1145	UbcH5b
+T53	Process 1194 1207	communication
+T54	Location 1216 1222	distal
+T55	Protein_part 1234 1239	sites
+T56	Protein 1243 1246	E2s
+T57	Unknown 1264 1277	RING-type E3s
+T58	Protein 1287 1290	E2s

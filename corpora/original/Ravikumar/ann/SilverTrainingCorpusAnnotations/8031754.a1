@@ -1,0 +1,89 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Value 34 40	19-kDa
+T3	Organism 41 46	human
+T4	Body_part 47 57	fibroblast
+T5	Protein 58 69	collagenase
+T6	Protein 91 102	Collagenase
+T7	Unknown 108 114	member
+T8	Protein 122 159	matrix metalloproteinase (MMP) family
+T9	Protein 163 170	enzymes
+T10	Process 182 192	regulation
+T11	Unknown 201 207	family
+T12	Physiology 251 260	arthritis
+T13	Physiology 265 275	metastasis
+T14	Unknown 281 288	crystal
+T15	Value 313 319	19-kDa
+T16	Protein_part 321 327	domain
+T17	Organism 331 336	human
+T18	Body_part 337 347	fibroblast
+T19	Protein 348 359	collagenase
+T20	Protein 387 398	collagenase
+T21	Protein_part 416 423	peptide
+T22	Category 430 439	inhibitor
+T23	Category 441 445	CPLX
+T24	Unknown 491 498	Science
+T25	Unknown 520 527	crystal
+T26	Molecule 534 537	CF1
+T27	Molecule 552 560	molecule
+T28	Value 611 616	1.9-A
+T29	Parameter 617 627	resolution
+T30	Parameter 636 644	R factor
+T31	Value 648 653	19.8%
+T32	Unknown 666 673	crystal
+T33	Molecule 680 683	CF2
+T34	Molecule 698 707	molecules
+T35	Unknown 715 716	B
+T36	Value 768 773	2.1-A
+T37	Parameter 774 784	resolution
+T38	Parameter 793 801	R factor
+T39	Value 805 810	19.7%
+T40	Protein_part 816 832	catalytic domain
+T41	Protein 836 847	collagenase
+T42	Protein_part 869 880	active site
+T43	Geometrical_part 881 886	cleft
+T44	Chemical 921 929	zinc ion
+T45	Protein 931 942	Collagenase
+T46	Organism 984 993	bacterial
+T47	Protein 994 1009	zinc proteinase
+T48	Protein 1011 1022	thermolysin
+T49	Unknown 1023 1032	[Matthews
+T50	Unknown 1048 1054	Nature
+T51	Unknown 1056 1064	New Biol
+T52	Organism 1084 1092	crayfish
+T53	Protein 1093 1102	digestive
+T54	Protein 1103 1112	peptidase
+T55	Technique 1122 1134	[Bode et al.
+T56	Technique 1142 1148	Nature
+T57	Protein_part 1164 1187	amino terminus (Leu 102
+T58	Protein_part 1191 1194	Gly
+T59	Molecule 1203 1206	CF1
+T60	Molecule 1211 1224	CF2 molecules
+T61	Unknown 1231 1232	B
+T62	State 1250 1262	conformation
+T63	Unknown 1272 1276	CPLX
+T64	Process 1280 1287	bending
+T65	Molecule 1303 1311	molecule
+T66	Protein_part 1337 1348	active site
+T67	Geometrical_part 1349 1354	cleft
+T68	Geometrical_part 1358 1366	symmetry
+T69	Molecule 1375 1384	molecules
+T70	State 1406 1418	conformation
+T71	Chemical 1429 1448	mainchain  nitrogen
+T72	Chemical 1453 1468	carbonyl oxygen
+T73	Protein_part 1472 1479	Leu 102
+T74	Geometrical_part 1491 1499	symmetry
+T75	Chemical 1518 1522	zinc
+T76	Process 1554 1565	differences
+T77	Protein_part 1573 1584	active site
+T78	Geometrical_part 1585 1591	clefts
+T79	Molecule 1595 1598	CF1
+T80	Molecule 1600 1603	CF2
+T81	Molecule 1609 1613	CPLX
+T82	Category 1627 1634	complex
+T83	Process 1647 1659	interactions
+T84	Geometrical_part 1679 1688	structure
+T85	Protein 1692 1703	collagenase
+T86	Chemical 1734 1743	compounds
+T87	Organism 1769 1779	individual
+T88	Unknown 1780 1787	members
+T89	Protein 1811 1842	matrix metalloproteinase family

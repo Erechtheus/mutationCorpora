@@ -1,0 +1,63 @@
+T1	Chemical 0 13	Two-metal ion
+T2	Process 14 23	mechanism
+T3	Protein 27 61	bovine lens leucine aminopeptidase
+T4	Protein_part 63 74	active site
+T5	Chemical 75 92	solvent structure
+T6	Process 97 104	binding
+T7	Protein_part 113 123	L-leucinal
+T8	State 139 155	transition state
+T9	Unknown 157 165	analogue
+T10	Technique 170 191	X-ray crystallography
+T11	Geometrical_part 197 225	three-dimensional structures
+T12	Protein 229 271	bovine lens leucine aminopeptidase (blLAP)
+T13	Protein_part 287 297	L-leucinal
+T14	Protein 320 326	enzyme
+T15	Technique 351 367	crystallographic
+T16	Process 368 379	resolutions
+T17	Value 383 386	1.9
+T18	Value 391 396	1.6 A
+T19	Protein_part 412 420	Leucinal
+T20	Chemical 433 450	hydrated gem-diol
+T21	Protein_part 458 469	active site
+T22	Unknown 473 479	b1LAP)
+T23	Molecule 518 530	intermediate
+T24	Process 538 555	catalytic pathway
+T25	Chemical 561 569	hydroxyl
+T26	Molecular_Part 570 575	group
+T27	Protein_part 592 603	active site
+T28	Chemical 604 614	metal ions
+T29	Protein_part 630 632	OH
+T30	Molecular_Part 633 638	group
+T31	Chemical 657 660	Zn1
+T32	Geometrical_part 666 691	high-resolution structure
+T33	Protein 710 716	enzyme
+T34	Chemical 729 734	metal
+T35	Chemical 741 746	water
+T36	Category 748 754	ligand
+T37	Chemical 779 788	zinc ions
+T38	Unknown 806 816	structures
+T39	Process 827 836	mechanism
+T40	Chemical 859 864	water
+T41	Category 865 871	ligand
+T42	Chemical 889 914	hydroxide ion nucleophile
+T43	Molecule 932 944	intermediate
+T44	Chemical 989 994	bonds
+T45	Process 1023 1034	interaction
+T46	Protein_part 1040 1047	Lys-262
+T47	Protein_part 1052 1059	Arg-336
+T48	Process 1068 1077	mechanism
+T49	Protein_part 1079 1086	Lys-262
+T50	Chemical 1101 1117	peptide carbonyl
+T51	Molecular_Part 1118 1123	group
+T52	Chemical 1154 1157	Zn1
+T53	Protein_part 1163 1170	Arg-336
+T54	Protein_part 1171 1181	side chain
+T55	Category 1201 1210	substrate
+T56	Molecule 1232 1244	intermediate
+T57	Chemical 1249 1264	water molecules
+T58	Protein_part 1271 1278	Arg-336
+T59	Protein_part 1286 1300	b1LAP-leucinal
+T60	Unknown 1301 1310	structure
+T61	Chemical 1331 1344	hydrogen bond
+T62	Protein_part 1366 1377	active site
+T63	Chemical 1378 1393	water molecules

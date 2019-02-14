@@ -1,0 +1,46 @@
+T1	Protein 0 7	dUTPase
+T2	Chemical 39 43	drug
+T3	Process 63 68	basis
+T4	Parameter 77 88	selectivity
+T5	Chemical 103 113	nucleoside
+T6	Category 114 124	inhibitors
+T7	Chemical 126 136	Pyrimidine
+T8	Process 137 147	metabolism
+T9	Process 181 193	intervention
+T10	Physiology 202 209	malaria
+T11	Process 226 236	inhibition
+T12	Protein 267 299	deoxyuridine nucleotidohydrolase
+T13	Physiology 309 316	malaria
+T14	Body_part 317 359	parasite Plasmodium falciparum (PfdUTPase)
+T15	Chemical 393 421	triphenylmethane derivatives
+T16	Chemical 425 437	deoxyuridine
+T17	Parameter 457 465	activity
+T18	Body_part 506 516	Plasmodium
+T19	Protein 517 524	dUTPase
+T20	Organism 537 542	human
+T21	Protein 543 549	enzyme
+T22	Value 553 556	2.4
+T23	Unknown 557 583	Angstrom crystal structure
+T24	Body_part 587 596	PfdUTPase
+T25	Category 600 607	complex
+T26	Category 626 636	inhibitors
+T27	Protein 657 672	trimeric enzyme
+T28	Chemical 686 713	triphenylmethane derivative
+T29	Body_part 740 749	PfdUTPase
+T30	Process 760 772	interactions
+T31	Molecular_Part 792 797	group
+T32	Protein_part 806 817	side chains
+T33	Protein_part 821 835	residues Phe46
+T34	Protein_part 840 846	Ile117
+T35	Technique 848 877	Immunofluorescence microscopy
+T36	Body_part 901 916	red blood cells
+T37	Protein 929 935	enzyme
+T38	Parameter 936 950	concentrations
+T39	Chemical 974 994	trophozoite/schizont
+T40	Body_part 1019 1028	PfdUTPase
+T41	Process 1041 1045	role
+T42	Molecule 1049 1052	DNA
+T43	Process 1053 1064	replication
+T44	Body_part 1100 1109	PfdUTPase
+T45	Chemical 1147 1151	drug
+T46	Process 1152 1158	target

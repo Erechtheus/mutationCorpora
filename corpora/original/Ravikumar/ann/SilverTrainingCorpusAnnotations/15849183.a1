@@ -1,0 +1,59 @@
+T1	Parameter 5 15	resolution
+T2	Unknown 16 26	structures
+T3	Organism 44 49	viral
+T4	Protein 50 58	epitopes
+T5	Category 93 100	complex
+T6	Unknown 101 108	class I
+T7	Process 110 122	Implications
+T8	Protein 127 142	T-cell receptor
+T9	Process 143 153	engagement
+T10	Body_part 158 164	T-cell
+T11	Protein 191 210	HLA class I alleles
+T12	Protein 220 228	epitopes
+T13	Protein_part 238 249	amino acids
+T14	Parameter 253 259	length
+T15	Technique 287 301	immunogenicity
+T16	Body_part 320 326	T-cell
+T17	Unknown 386 396	HLA-B*3508
+T18	Body_part 408 430	cytotoxic T lymphocyte
+T19	Process 431 439	response
+T20	Protein 445 451	13-mer
+T21	Organism 452 457	viral
+T22	Protein 458 465	epitope
+T23	Protein 467 480	LPEPLPQGQLTAY
+T24	Protein 511 518	epitope
+T25	Body_part 538 544	T-cell
+T26	Process 545 553	response
+T27	Protein_part 564 574	N-terminal
+T28	Body_part 576 580	face
+T29	Protein_part 588 595	peptide
+T30	Process 619 630	recognition
+T31	Unknown 647 662	clonotype  SB27
+T32	Chemical 668 672	SB27
+T33	Protein 680 701	T-cell receptor (TcR)
+T34	Category 729 736	complex
+T35	Protein_part 756 763	peptide
+T36	Category 797 804	complex
+T37	Process 829 839	remodeling
+T38	Process 845 855	engagement
+T39	Protein 867 874	antigen
+T40	Geometrical_part 883 888	cleft
+T41	Unknown 892 902	HLA-B*3508
+T42	Process 937 947	engagement
+T43	Protein 962 965	TcR
+T44	Process 983 990	binding
+T45	Geometrical_part 991 996	cleft
+T46	Unknown 1000 1025	HLA-B*3501(LPEPLPQGQLTAY)
+T47	Unknown 1046 1056	HLA-B*3508
+T48	Protein_part 1069 1079	amino acid
+T49	Process 1080 1092	polymorphism
+T50	Protein_part 1094 1100	Arg156
+T51	Protein_part 1105 1108	Leu
+T52	Protein 1147 1150	TcR
+T53	Protein 1159 1162	TcR
+T54	Body_part 1177 1199	cytotoxic T lymphocyte
+T55	Process 1200 1208	response
+T56	Process 1239 1243	role
+T57	Protein_part 1261 1270	peptide x
+T58	Category 1296 1303	complex
+T59	Geometrical_part 1304 1319	class I surface

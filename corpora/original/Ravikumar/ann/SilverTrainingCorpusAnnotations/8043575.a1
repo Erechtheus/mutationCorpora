@@ -1,0 +1,103 @@
+T1	Protein 0 15	Protein-protein
+T2	Process 16 27	recognition
+T3	Unknown 29 36	crystal
+T4	Technique 48 56	analysis
+T5	Category 78 85	complex
+T6	Value 89 94	2.0-A
+T7	Parameter 95 105	resolution
+T8	Parameter 155 165	resolution
+T9	Geometrical_part 166 183	crystal structure
+T10	Value 189 192	1:1
+T11	Category 193 200	complex
+T12	Organism 213 222	bacterial
+T13	Protein 223 235	ribonuclease
+T14	Protein 237 244	barnase
+T15	Parameter 252 257	Cys--
+T16	Value 257 268	>Ala(40,82)
+T17	Molecule 269 282	double mutant
+T18	Location 290 303	intracellular
+T19	Protein_part 304 315	polypeptide
+T20	Category 316 325	inhibitor
+T21	Protein 353 360	barnase
+T22	Protein_part 388 399	active site
+T23	Protein_part 407 412	helix
+T24	Location 417 425	adjacent
+T25	Geometrical_part 426 430	loop
+T26	Protein_part 431 438	segment
+T27	Chemical 462 476	hydrogen bonds
+T28	Protein 485 492	barnase
+T29	Protein_part 525 533	residues
+T30	Process 594 606	contribution
+T31	Parameter 622 636	binding energy
+T32	Protein 677 692	protein-protein
+T33	Process 693 705	interactions
+T34	Parameter 735 748	rate constant
+T35	Process 773 784	association
+T36	Value 786 799	10(8) s-1 M-1
+T37	Process 846 853	effects
+T38	Protein_part 859 893	barnase active-site residue His102
+T39	Geometrical_part 910 916	pocket
+T40	Geometrical_part 924 931	surface
+T41	Chemical 952 966	hydrogen bonds
+T42	Protein_part 972 977	Asp39
+T43	Protein_part 983 997	Gly31 residues
+T44	Parameter 1042 1044	pH
+T45	Process 1075 1082	binding
+T46	Geometrical_part 1138 1143	shape
+T47	Parameter 1155 1161	charge
+T48	Geometrical_part 1181 1189	surfaces
+T49	Geometrical_part 1220 1227	surface
+T50	Category 1290 1299	complexes
+T51	Protein 1328 1344	antibody-antigen
+T52	Process 1345 1357	interactions
+T53	Chemical 1388 1395	solvent
+T54	Parameter 1463 1470	filling
+T55	Process 1545 1557	interactions
+T56	Process 1563 1567	role
+T57	Protein 1609 1624	protein-protein
+T58	Category 1625 1634	complexes
+T59	Process 1654 1666	interactions
+T60	Protein 1675 1682	barnase
+T61	Protein 1729 1736	barnase
+T62	Chemical 1745 1760	tetranucleotide
+T63	Unknown 1761 1768	d(CGAC)
+T64	Category 1793 1800	complex
+T65	Chemical 1810 1819	phosphate
+T66	Protein_part 1828 1833	sites
+T67	Protein 1841 1848	barnase
+T68	Protein_part 1849 1860	active site
+T69	Protein_part 1877 1882	Asp39
+T70	Protein_part 1887 1892	Gly43
+T71	Chemical 1947 1959	guanine base
+T72	Protein 1966 1969	RNA
+T73	Category 1970 1979	substrate
+T74	Process 1998 2008	occupation
+T75	Chemical 2016 2023	guanine
+T76	Protein_part 2024 2040	recognition site
+T77	Category 2064 2071	complex
+T78	Chemical 2088 2103	water molecules
+T79	Process 2126 2133	binding
+T80	Parameter 2135 2142	entropy
+T81	Process 2169 2183	immobilization
+T82	Protein_part 2187 2195	segments
+T83	Protein 2203 2216	protein chain
+T84	State 2245 2259	conformational
+T85	Process 2260 2267	changes
+T86	Protein_part 2315 2326	active site
+T87	Protein 2330 2337	barnase
+T88	Protein 2391 2398	barnase
+T89	Protein_part 2399 2410	active site
+T90	Process 2451 2462	differences
+T91	Process 2487 2494	binding
+T92	Unknown 2499 2510	barnase-RNA
+T93	Process 2511 2518	binding
+T94	Process 2522 2532	comparison
+T95	Unknown 2572 2581	structure
+T96	Process 2616 2624	response
+T97	Protein 2628 2635	barnase
+T98	Process 2665 2673	response
+T99	Location 2699 2708	outwardly
+T100	Technique 2720 2730	rigid-body
+T101	Process 2731 2740	movements
+T102	Protein_part 2753 2766	alpha-helices
+T103	Unknown 2796 2805	structure

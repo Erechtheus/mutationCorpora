@@ -1,0 +1,56 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Chemical 34 56	nucleoside derivatives
+T3	Protein 60 74	ribonuclease A
+T4	Geometrical_part 76 94	Crystal structures
+T5	Protein 111 125	ribonuclease A
+T6	Chemical 131 147	deoxynucleosides
+T7	Protein_part 181 187	His 12
+T8	Protein_part 192 199	His 119
+T9	Protein 228 239	T-H12-RNase
+T10	Chemical 247 261	deoxythymidine
+T11	Chemical 271 282	N epsilon 2
+T12	Protein_part 286 292	His 12
+T13	Protein 315 327	U-H119-RNase
+T14	Chemical 335 347	deoxyuridine
+T15	Chemical 357 366	N delta 1
+T16	Protein_part 370 377	His 119
+T17	Unknown 387 394	crystal
+T18	Molecule 434 443	molecules
+T19	Protein 491 504	ribonucleases
+T20	Protein 526 535	enzymatic
+T21	Parameter 536 546	activities
+T22	State 558 570	conformation
+T23	Protein_part 578 592	catalytic site
+T24	Chemical 604 629	deoxynucleoside-histidine
+T25	Molecular_Part 630 636	moiety
+T26	Protein 638 649	T-H12-RNase
+T27	Process 679 683	loss
+T28	Protein 687 696	enzymatic
+T29	Parameter 697 705	activity
+T30	Chemical 724 739	deoxynucleoside
+T31	Protein_part 762 776	catalytic site
+T32	Process 802 810	contacts
+T33	Protein_part 816 824	residues
+T34	Protein_part 850 852	B1
+T35	Protein_part 857 865	B2 sites
+T36	Protein 867 879	U-H119-RNase
+T37	Value 888 890	1%
+T38	Parameter 898 906	activity
+T39	Protein 925 931	enzyme
+T40	Protein_part 950 957	His 119
+T41	Process 967 976	different
+T42	Process 977 988	orientation
+T43	State 1021 1033	conformation
+T44	Protein_part 1052 1059	residue
+T45	Chemical 1065 1090	deoxynucleoside-histidine
+T46	Molecular_Part 1091 1097	moiety
+T47	Protein_part 1116 1127	active site
+T48	Process 1150 1158	contacts
+T49	Protein 1180 1187	protein
+T50	Protein_part 1225 1239	catalytic site
+T51	Process 1248 1253	basis
+T52	Unknown 1263 1273	structures
+T53	Process 1295 1305	mechanisms
+T54	Process 1314 1323	reactions
+T55	Chemical 1327 1353	bromoacetamido nucleosides
+T56	Protein 1359 1373	ribonuclease A

@@ -1,0 +1,51 @@
+T1	Process 11 16	basis
+T2	Organism 20 65	severe acute respiratory syndrome coronavirus
+T3	Chemical 66 90	ADP-ribose-1''-phosphate
+T4	Process 91 108	dephosphorylation
+T5	Protein_part 114 130	conserved domain
+T6	Protein 134 138	nsP3
+T7	Geometrical_part 144 161	crystal structure
+T8	Protein_part 167 183	conserved domain
+T9	Protein 187 217	nonstructural protein 3 (nsP3)
+T10	Organism 223 279	severe acute respiratory syndrome coronavirus (SARS-CoV)
+T11	Process 328 338	dispersion
+T12	Value 342 347	1.4 A
+T13	Parameter 348 358	resolution
+T14	Unknown 364 373	structure
+T15	Protein_part 382 392	"X" domain
+T16	Protein 423 426	RNA
+T17	Organism 427 434	viruses
+T18	Unknown 489 498	macro-H2A
+T19	Geometrical_part 504 508	fold
+T20	Protein_part 523 534	active site
+T21	Chemical 540 547	solvent
+T22	Geometrical_part 556 561	cleft
+T23	Protein 604 612	homologs
+T24	Organism 614 619	yeast
+T25	Unknown 620 624	Ymx7
+T26	Organism 626 654	Archeoglobus fulgidus AF1521
+T27	Chemical 660 664	Er58
+T28	Organism 670 677	E. coli
+T29	Protein_part 683 691	sequence
+T30	Organism 706 711	yeast
+T31	Unknown 712 719	YBR022W
+T32	Unknown 735 740	Poa1P
+T33	Protein 751 762	phosphatase
+T34	Chemical 777 814	ADP-ribose-1''-phosphate (Appr-1''-p)
+T35	Organism 820 824	SARS
+T36	Protein_part 825 836	nsP3 domain
+T37	Chemical 861 870	phosphate
+T38	Molecular_Part 871 876	group
+T39	Chemical 882 892	Appr-1''-p
+T40	Technique 905 911	assays
+T41	Protein 928 939	phosphatase
+T42	Parameter 940 948	activity
+T43	Protein_part 950 958	Sequence
+T44	Unknown 963 972	structure
+T45	Process 973 983	comparison
+T46	Protein_part 997 1014	macro-H2A domains
+T47	Protein 1069 1077	proteins
+T48	Unknown 1086 1097	superfamily
+T49	Molecular_Part 1115 1120	group
+T50	Protein 1124 1147	nucleotide phosphatases
+T51	Chemical 1169 1179	Appr-1''-p

@@ -1,0 +1,117 @@
+T1	Protein_part 31 41	amino acid
+T2	Process 42 54	substitution
+T3	Process 61 70	reduction
+T4	Parameter 71 89	midpoint potential
+T5	Process 90 97	changes
+T6	Chemical 136 180	site metal ion of superoxide dismutase (SOD)
+T7	Chemical 231 241	superoxide
+T8	Chemical 245 253	dioxygen
+T9	Chemical 258 275	hydrogen peroxide
+T10	Process 287 296	reduction
+T11	Parameter 297 315	midpoint potential
+T12	Parameter 317 319	Em
+T13	Parameter 360 368	activity
+T14	Organism 373 380	E. coli
+T15	Unknown 381 406	Fe-containing SOD (FeSOD)
+T16	Process 408 417	reduction
+T17	Chemical 421 425	Fe3+
+T18	Process 445 456	protonation
+T19	Chemical 474 477	OH-
+T20	Chemical 490 494	Fe2+
+T21	Chemical 510 513	H2O
+T22	Chemical 531 540	solvent's
+T23	Process 546 553	contact
+T24	Protein 563 570	protein
+T25	Protein_part 582 593	active site
+T26	Protein_part 609 620	Gln residue
+T27	Process 622 630	Mutation
+T28	Protein_part 639 642	Gln
+T29	Protein_part 646 649	His
+T30	Protein_part 653 656	Glu
+T31	Process 669 678	elevation
+T32	Parameter 686 688	Em
+T33	Value 692 698	220 mV
+T34	Value 703 719	more than 660 mV
+T35	Protein 817 824	protein
+T36	Geometrical_part 825 834	structure
+T37	Protein_part 850 853	His
+T38	Process 883 894	replacement
+T39	Protein_part 899 902	Gln
+T40	Protein_part 916 919	Glu
+T41	Protein_part 960 963	Gln
+T42	Parameter 1037 1041	Em's
+T43	Chemical 1061 1063	Fe
+T44	Unknown 1075 1084	structure
+T45	Protein_part 1094 1105	active site
+T46	Unknown 1130 1131	H
+T47	Molecule 1166 1172	proton
+T48	Process 1173 1181	transfer
+T49	Technique 1189 1192	EPR
+T50	Technique 1194 1197	MCD
+T51	Technique 1203 1206	NMR
+T52	Protein_part 1240 1251	active site
+T53	Unknown 1263 1273	structures
+T54	Molecule 1285 1292	mutants
+T55	Protein 1315 1324	WT enzyme
+T56	State 1335 1351	oxidation states
+T57	Chemical 1357 1369	Q69E-FeSOD's
+T58	Process 1379 1388	deviation
+T59	Protein 1395 1397	WT
+T60	Chemical 1403 1407	Fe3+
+T61	Process 1408 1420	coordination
+T62	State 1437 1442	state
+T63	Parameter 1473 1481	affinity
+T64	Chemical 1494 1499	anion
+T65	Process 1513 1525	coordination
+T66	Chemical 1542 1547	anion
+T67	Chemical 1576 1588	Q69E-Fe3+SOD
+T68	Parameter 1638 1640	Em
+T69	Protein_part 1644 1648	Q69E
+T70	Chemical 1649 1654	FeSOD
+T71	Protein 1656 1658	WT
+T72	Chemical 1664 1669	anion
+T73	Parameter 1670 1688	binding affinities
+T74	Protein_part 1693 1704	active site
+T75	Parameter 1706 1710	pK's
+T76	Protein_part 1725 1730	His69
+T77	Chemical 1734 1744	Q69H-FeSOD
+T78	State 1764 1780	oxidation states
+T79	Protein_part 1788 1793	Gln69
+T80	Chemical 1797 1805	WT-FeSOD
+T81	Protein_part 1815 1820	Glu69
+T82	State 1859 1864	state
+T83	State 1893 1898	state
+T84	Chemical 1902 1912	Q69E-FeSOD
+T85	Value 1916 1921	1.1 A
+T86	Parameter 1922 1932	resolution
+T87	Geometrical_part 1933 1950	crystal structure
+T88	Chemical 1955 1967	Q69E-Fe2+SOD
+T89	Protein_part 1983 1988	Glu69
+T90	Chemical 2006 2012	H-bond
+T91	Chemical 2030 2037	solvent
+T92	State 2053 2058	state
+T93	Chemical 2087 2095	WT-FeSOD
+T94	Protein_part 2102 2107	Gln69
+T95	Chemical 2119 2125	H-bond
+T96	Technique 2142 2158	DFT calculations
+T97	Parameter 2199 2201	Em
+T98	Chemical 2205 2215	Q69E-FeSOD
+T99	Chemical 2275 2281	H-bond
+T100	Process 2282 2290	donation
+T101	State 2306 2311	state
+T102	Protein_part 2317 2324	Glu69's
+T103	Parameter 2325 2333	capacity
+T104	Molecule 2348 2354	proton
+T105	Molecule 2359 2365	proton
+T106	Chemical 2374 2378	Fe3+
+T107	Process 2379 2388	reduction
+T108	Chemical 2405 2418	hydrogen bond
+T109	State 2445 2450	state
+T110	Chemical 2481 2484	H2O
+T111	Protein 2536 2543	protein
+T112	Body_part 2544 2550	matrix
+T113	Process 2579 2585	tuning
+T114	Process 2594 2603	influence
+T115	Molecule 2623 2629	proton
+T116	Process 2630 2638	transfer
+T117	Parameter 2647 2653	energy

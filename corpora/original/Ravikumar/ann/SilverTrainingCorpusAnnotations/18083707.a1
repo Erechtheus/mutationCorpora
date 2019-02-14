@@ -1,0 +1,75 @@
+T1	Protein 0 9	Ubiquitin
+T2	Process 10 21	recognition
+T3	Protein_part 29 56	ubiquitin-associated domain
+T4	Protein 60 63	p62
+T5	State 82 96	conformational
+T6	Process 97 103	switch
+T7	Protein 109 120	p62 protein
+T8	Geometrical_part 136 144	scaffold
+T9	Process 148 157	signaling
+T10	Process 158 166	pathways
+T11	Process 180 190	activation
+T12	Protein 194 203	NF-kappaB
+T13	Molecule 224 233	regulator
+T14	Physiology 237 255	osteoclastogenesis
+T15	Process 257 266	Mutations
+T16	Protein 281 289	receptor
+T17	Category 290 299	activator
+T18	Protein 303 312	NF-kappaB
+T19	Process 313 322	signaling
+T20	Location 323 327	axis
+T21	Organism 342 347	human
+T22	Body_part 348 356	skeletal
+T23	Physiology 357 366	disorders
+T24	Protein_part 402 446	C-terminal ubiquitin-associated (UBA) domain
+T25	Protein 450 453	p62
+T26	Organism 457 465	patients
+T27	Unknown 471 476	Paget
+T28	Physiology 477 484	disease
+T29	Body_part 488 492	bone
+T30	Physiology 531 538	disease
+T31	Process 560 569	mechanism
+T32	Process 581 592	alterations
+T33	Protein 600 609	ubiquitin
+T34	Parameter 618 628	properties
+T35	Protein 632 635	p62
+T36	Process 652 657	basis
+T37	Protein 662 671	ubiquitin
+T38	Process 672 683	recognition
+T39	Protein_part 691 701	UBA domain
+T40	Protein 705 708	p62
+T41	Technique 737 740	NMR
+T42	Process 761 768	binding
+T43	Process 769 778	mechanism
+T44	Process 796 804	exchange
+T45	Process 816 830	reorganization
+T46	Protein_part 838 848	UBA domain
+T47	Protein 876 879	UBA
+T48	State 880 892	conformation
+T49	Process 936 943	absence
+T50	Protein 947 956	ubiquitin
+T51	Protein_part 979 997	three-helix bundle
+T52	Process 1010 1017	binding
+T53	Geometrical_part 1018 1025	surface
+T54	Geometrical_part 1058 1078	Xaa-Gly-Phe-Xaa loop
+T55	Geometrical_part 1140 1147	surface
+T56	Protein 1169 1178	ubiquitin
+T57	Technique 1180 1183	NMR
+T58	Process 1184 1193	titration
+T59	Technique 1194 1202	analysis
+T60	Protein 1218 1225	p62-UBA
+T61	Protein 1235 1261	Lys 48-linked di-ubiquitin
+T62	Value 1267 1293	approximately 4-fold lower
+T63	Parameter 1294 1302	affinity
+T64	Protein 1311 1325	mono-ubiquitin
+T65	Protein 1367 1374	p62-UBA
+T66	Protein 1385 1394	ubiquitin
+T67	Protein 1457 1468	p62 protein
+T68	Protein 1473 1507	Lys 63-linked polyubiquitin chains
+T69	Geometrical_part 1537 1555	extended structure
+T70	State 1562 1576	conformational
+T71	Process 1577 1583	switch
+T72	Process 1596 1603	binding
+T73	Process 1626 1635	mechanism
+T74	Protein 1692 1699	protein
+T75	Process 1700 1711	recognition

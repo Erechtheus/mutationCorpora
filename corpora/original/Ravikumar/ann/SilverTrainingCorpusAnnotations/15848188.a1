@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 25	ACC synthase
+T3	Process 45 54	mechanism
+T4	Category 61 70	inhibitor
+T5	Chemical 71 85	L-vinylglycine
+T6	Protein_part 87 108	L-Vinylglycine (L-VG)
+T7	Category 119 128	substrate
+T8	Process 139 148	mechanism
+T9	Category 155 164	inhibitor
+T10	Protein 169 217	1-aminocyclopropane-1-carboxylate (ACC) synthase
+T11	Parameter 223 228	ratio
+T12	Parameter 236 250	rate constants
+T13	Process 255 275	catalytic conversion
+T14	Chemical 279 297	alpha-ketobutyrate
+T15	Chemical 302 309	ammonia
+T16	Process 313 325	inactivation
+T17	Value 329 334	500/1
+T18	Geometrical_part 340 357	crystal structure
+T19	Molecule 374 380	adduct
+T20	Protein 400 406	enzyme
+T21	Value 425 429	2.25
+T22	Unknown 430 439	Angstroms
+T23	Parameter 440 450	resolution
+T24	Protein_part 456 467	active site
+T25	Location 480 488	external
+T26	Molecule 505 511	adduct
+T27	Protein_part 515 519	L-VG
+T28	Chemical 529 551	pyridoxal 5'-phosphate
+T29	Category 552 560	cofactor
+T30	Protein_part 566 576	side chain
+T31	Chemical 577 589	gamma-carbon
+T32	Protein_part 593 597	L-VG
+T33	Chemical 625 638	epsilon-amino
+T34	Molecular_Part 639 644	group
+T35	Protein_part 648 654	Lys273
+T36	Organism 661 668	species
+T37	Protein 724 728	Feng
+T38	Protein 734 740	Kirsch
+T39	Unknown 748 750	L.
+T40	Protein 755 767	Kirsch, J.F.
+T41	Chemical 775 789	L-Vinylglycine
+T42	Category 808 817	substrate
+T43	Process 831 840	mechanism
+T44	Category 847 856	inhibitor
+T45	Chemical 860 893	1-aminocyclopropane-1-carboxylate
+T46	Unknown 904 916	Biochemistry
+T47	Unknown 960 967	Michael
+T48	Process 968 976	addition
+T49	Chemical 982 994	vinylglycine
+T50	Molecule 1004 1016	intermediate

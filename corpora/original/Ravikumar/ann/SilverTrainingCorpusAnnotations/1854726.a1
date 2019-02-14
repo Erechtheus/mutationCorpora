@@ -1,0 +1,115 @@
+T1	Process 0 13	Contributions
+T2	Geometrical_part 28 35	surface
+T3	Chemical 36 48	salt bridges
+T4	State 56 65	stability
+T5	Protein 69 80	T4 lysozyme
+T6	Process 105 116	mutagenesis
+T7	Molecule 131 138	mutants
+T8	Protein 142 153	T4 lysozyme
+T9	Chemical 191 204	putative salt
+T10	Geometrical_part 220 227	surface
+T11	Protein 235 242	protein
+T12	Molecule 267 274	mutants
+T13	Molecule 276 298	T115E (Thr 115 to Glu)
+T14	Molecule 300 305	Q123E
+T15	Molecule 311 316	N144E
+T16	Protein_part 359 369	side chain
+T17	Molecular_Part 400 414	charged groups
+T18	Geometrical_part 443 450	surface
+T19	Protein 458 465	protein
+T20	Process 517 529	interactions
+T21	Process 548 556	mutation
+T22	Chemical 574 586	salt bridges
+T23	Protein_part 595 603	residues
+T24	Protein_part 635 646	alpha-helix
+T25	Process 648 655	Effects
+T26	Process 663 672	mutations
+T27	Process 688 694	change
+T28	State 698 707	stability
+T29	Value 713 726	1.5 degrees C
+T30	Value 728 740	0.5 kcal/mol
+T31	Process 742 750	increase
+T32	Parameter 755 774	melting temperature
+T33	Molecule 809 816	mutants
+T34	Parameter 859 865	charge
+T35	Unknown 903 919	mutant structure
+T36	Protein 936 944	proteins
+T37	Process 963 976	contributions
+T38	State 980 989	stability
+T39	Chemical 1018 1030	salt bridges
+T40	Value 1046 1069	about 0.1-0.25 kcal/mol
+T41	Value 1073 1079	0.15 M
+T42	Chemical 1080 1083	KCl
+T43	Unknown 1090 1100	structures
+T44	Molecule 1122 1129	mutants
+T45	Technique 1149 1170	X-ray crystallography
+T46	Protein 1215 1224	wild-type
+T47	Geometrical_part 1225 1234	structure
+T48	Protein_part 1249 1253	site
+T49	Process 1261 1269	mutation
+T50	Parameter 1295 1302	charges
+T51	Protein_part 1311 1316	T115E
+T52	Protein 1321 1326	Q123E
+T53	Geometrical_part 1327 1337	structures
+T54	Value 1349 1354	3-5 A
+T55	Protein_part 1397 1408	side chains
+T56	Chemical 1498 1509	salt bridge
+T57	Protein_part 1518 1524	His 31
+T58	Protein_part 1529 1535	Asp 70
+T59	Protein 1539 1550	T4 lysozyme
+T60	Protein 1566 1573	protein
+T61	Value 1577 1589	3-5 kcal/mol
+T62	Unknown 1650 1662	Biochemistry
+T63	Unknown 1709 1718	His...Asp
+T64	Process 1719 1731	interactions
+T65	Molecule 1761 1775	double mutants
+T66	Molecule 1777 1786	K60H/L13D
+T67	Molecule 1788 1798	K83H/A112D
+T68	Molecule 1804 1814	S90H/Q122D
+T69	Chemical 1851 1870	histidine-aspartate
+T70	Parameter 1871 1877	charge
+T71	Geometrical_part 1891 1898	surface
+T72	Protein 1906 1913	protein
+T73	Molecule 1929 1936	mutants
+T74	Protein 1954 1961	protein
+T75	Value 1965 1977	1-3 kcal/mol
+T76	Value 1981 1987	0.15 M
+T77	Chemical 1988 1991	KCl
+T78	Parameter 1995 2004	pH values
+T79	Value 2016 2019	6.5
+T80	Technique 2025 2047	X-ray crystallographic
+T81	Geometrical_part 2048 2057	structure
+T82	Protein_part 2065 2082	mutant K83H/A112D
+T83	State 2138 2152	conformational
+T84	Process 2153 2160	changes
+T85	Value 2164 2173	0.3-0.6 A
+T86	Protein_part 2198 2206	residues
+T87	Protein_part 2232 2241	histidine
+T88	Chemical 2246 2255	aspartate
+T89	Organism 2279 2285	strain
+T90	Protein 2302 2309	protein
+T91	Unknown 2333 2340	variant
+T92	Protein_part 2391 2399	residues
+T93	Geometrical_part 2416 2423	surface
+T94	Protein 2429 2436	protein
+T95	Process 2463 2472	different
+T96	State 2473 2486	conformations
+T97	Chemical 2547 2559	salt bridges
+T98	Protein_part 2574 2582	residues
+T99	Protein 2673 2680	protein
+T100	State 2681 2690	stability
+T101	Chemical 2752 2759	solvent
+T102	Molecular_Part 2768 2782	charged groups
+T103	Geometrical_part 2790 2797	surface
+T104	Protein 2803 2810	protein
+T105	Process 2831 2842	interaction
+T106	Parameter 2843 2849	energy
+T107	Process 2868 2877	formation
+T108	Chemical 2891 2902	salt bridge
+T109	Chemical 2933 2945	salt bridges
+T110	Protein 2949 2957	proteins
+T111	Process 2968 2980	interactions
+T112	Process 2998 3005	folding
+T113	Protein 3013 3020	protein
+T114	Parameter 3052 3058	energy
+T115	Process 3113 3122	alignment

@@ -1,0 +1,75 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 27	human
+T3	Organism 32 38	murine
+T4	Protein 39 61	deoxyribonucleotidases
+T5	Process 77 88	recognition
+T6	Category 92 102	substrates
+T7	Chemical 107 127	nucleotide analogues
+T8	Location 129 138	Cytosolic
+T9	Protein 139 167	5'(3')-deoxyribonucleotidase
+T10	Unknown 169 172	cdN
+T11	Protein 178 220	mitochondrial 5'(3')-deoxyribonucleotidase
+T12	Unknown 222 225	mdN
+T13	Process 240 257	dephosphorylation
+T14	Chemical 261 295	deoxyribonucleoside monophosphates
+T15	Chemical 309 313	dTTP
+T16	Process 314 323	formation
+T17	Body_part 327 334	cytosol
+T18	Body_part 339 351	mitochondria
+T19	Molecule 364 367	DNA
+T20	Process 368 379	replication
+T21	Unknown 396 405	precursor
+T22	Process 446 461	phosphorylation
+T23	Process 472 482	activation
+T24	Chemical 486 506	nucleoside analogues
+T25	Physiology 515 525	anticancer
+T26	Physiology 530 539	antiviral
+T27	Process 540 549	treatment
+T28	Category 587 596	substrate
+T29	Protein 622 629	enzymes
+T30	Chemical 655 675	nucleotide analogues
+T31	Category 679 689	substrates
+T32	Geometrical_part 709 727	crystal structures
+T33	Organism 731 736	human
+T34	Unknown 737 740	cdN
+T35	Category 744 751	complex
+T36	Chemical 757 769	deoxyuridine
+T37	Organism 771 777	murine
+T38	Unknown 778 781	cdN
+T39	Category 785 792	complex
+T40	Chemical 798 802	dUMP
+T41	Chemical 807 811	dGMP
+T42	Organism 817 822	human
+T43	Unknown 823 826	mdN
+T44	Category 830 837	complex
+T45	Chemical 847 873	nucleotide analogues AZTMP
+T46	Chemical 878 884	BVdUMP
+T47	Protein_part 912 938	active site residues Leu45
+T48	Protein_part 943 948	Tyr65
+T49	Unknown 952 955	cdN
+T50	Process 978 985	binding
+T51	Geometrical_part 986 993	surface
+T52	Chemical 998 1016	purine nucleotides
+T53	Protein_part 1040 1045	Trp75
+T54	Protein_part 1050 1055	Trp76
+T55	Unknown 1059 1062	mdN
+T56	Unknown 1079 1082	cdN
+T57	Value 1087 1093	higher
+T58	Parameter 1094 1102	activity
+T59	Chemical 1107 1125	purine nucleotides
+T60	Unknown 1137 1140	mdN
+T61	Process 1146 1168	molecular interactions
+T62	Unknown 1172 1175	mdN
+T63	Chemical 1181 1186	AZTMP
+T64	Chemical 1191 1197	BVdUMP
+T65	Chemical 1217 1237	nucleotide analogues
+T66	Category 1249 1259	substrates
+T67	Category 1295 1304	substrate
+T68	Chemical 1364 1369	drugs
+T69	Process 1393 1405	inactivation
+T70	Protein 1413 1435	deoxyribonucleotidases
+T71	Unknown 1469 1481	substituents
+T72	Location 1489 1500	3'-position
+T73	Chemical 1515 1535	nucleoside analogues
+T74	Parameter 1551 1561	resistance
+T75	Process 1565 1582	dephosphorylation

@@ -1,0 +1,62 @@
+T1	Parameter 0 12	Relationship
+T2	Chemical 42 46	drug
+T3	Process 57 66	mutations
+T4	Unknown 71 80	GW420867X
+T5	Geometrical_part 94 112	crystal structures
+T6	Category 116 125	inhibitor
+T7	Category 126 135	complexes
+T8	Protein_part 151 160	Leu100Ile
+T9	Protein_part 162 171	Lys101Glu
+T10	Protein_part 177 193	Tyr188Cys mutant
+T11	Organism 194 199	HIV-1
+T12	Protein 200 207	reverse
+T13	Protein 208 222	transcriptases
+T14	Chemical 241 245	drug
+T15	Organism 256 263	viruses
+T16	Organism 304 307	HIV
+T17	Physiology 312 316	AIDS
+T18	Chemical 329 338	compounds
+T19	Geometrical_part 363 381	crystal structures
+T20	Organism 407 412	HIV-1
+T21	Protein 413 415	RT
+T22	Chemical 427 441	non-nucleoside
+T23	Chemical 443 448	NNRTI
+T24	Unknown 450 459	GW420867X
+T25	Process 489 494	basis
+T26	Chemical 529 533	drug
+T27	Parameter 534 544	resistance
+T28	Chemical 586 601	drug nevirapine
+T29	Unknown 603 612	GW420867X
+T30	Parameter 632 638	volume
+T31	Chemical 649 655	NNRTIs
+T32	Protein_part 674 681	regions
+T33	Process 689 696	binding
+T34	Geometrical_part 697 703	pocket
+T35	Unknown 706 715	GW420867X
+T36	Process 724 732	contacts
+T37	Protein_part 738 744	Tyr188
+T38	Process 774 780	effect
+T39	Protein_part 798 805	residue
+T40	Category 809 818	inhibitor
+T41	Geometrical_part 849 861	NNRTI pocket
+T42	Unknown 863 872	GW420867X
+T43	Protein 933 935	RT
+T44	Protein_part 936 945	Leu100Ile
+T45	Unknown 951 964	RT(Tyr188Cys)
+T46	Geometrical_part 991 1013	pocket (RT(Lys101Glu))
+T47	Unknown 1019 1032	RT(Leu100Ile)
+T48	Unknown 1034 1043	GW420867X
+T49	Process 1053 1058	shift
+T50	Process 1089 1098	different
+T51	Protein_part 1099 1109	side-chain
+T52	Process 1110 1118	contacts
+T53	Unknown 1138 1147	GW420867X
+T54	Process 1155 1165	adaptation
+T55	Geometrical_part 1179 1184	NNRTI
+T56	Process 1185 1192	binding
+T57	Protein_part 1193 1197	site
+T58	Process 1218 1230	readjustment
+T59	Protein_part 1234 1244	side-chain
+T60	Process 1245 1253	contacts
+T61	Process 1270 1280	reductions
+T62	Parameter 1284 1300	binding affinity

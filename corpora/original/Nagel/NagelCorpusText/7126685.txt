@@ -1,0 +1,6 @@
+Three different ferredoxins have been isolated from the sulfate reducing bacterium, Desulfovibrio africanus . 
+The present paper describes the complete amino acid sequence of D. africanus ferredoxin I . 
+This sequence was determined using automatic protein sequencing in liquid phase and in solid phase . 
+The 61 amino acid residues of the sequence have been aligned with the aid of peptides obtained by cyanogen bromide, cleavage and by tryptic hydrolysis . 
+This ferredoxin which contains 4 cysteine residues represents the most simple case of one (4 Fe-4 S) cluster ferredoxin . 
+A comparison of D. africanus ferredoxin I with D. gigas and Clostridium pasteurianum ferredoxins is presented in terms of structural and possible evolutionary relationships . 

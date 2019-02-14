@@ -1,0 +1,36 @@
+T1	Process 0 8	Transfer
+T2	Process 14 28	point mutation
+T3	Organism 32 58	Mycobacterium tuberculosis
+T4	Unknown 59 63	inhA
+T5	Process 77 83	target
+T6	Chemical 87 96	isoniazid
+T7	Chemical 98 107	Isoniazid
+T8	Chemical 154 159	drugs
+T9	Process 177 186	mechanism
+T10	Process 190 196	action
+T11	Protein_part 239 246	linkage
+T12	Process 247 259	transduction
+T13	Protein 270 291	point mutation allele
+T14	Protein 293 297	S94A
+T15	Process 319 325	target
+T16	Protein 326 335	gene inhA
+T17	Organism 355 381	Mycobacterium tuberculosis
+T18	Protein 387 404	inhA(S94A) allele
+T19	Parameter 460 470	resistance
+T20	Chemical 474 483	isoniazid
+T21	Process 484 491	killing
+T22	Process 496 506	inhibition
+T23	Chemical 510 522	mycolic acid
+T24	Process 523 535	biosynthesis
+T25	Parameter 542 552	resistance
+T26	Process 583 590	binding
+T27	Chemical 598 605	INH-NAD
+T28	Category 606 615	inhibitor
+T29	Unknown 619 623	InhA
+T30	Protein 637 646	enzymatic
+T31	Technique 651 682	X-ray crystallographic analyses
+T32	Unknown 700 704	InhA
+T33	Process 720 726	target
+T34	Chemical 730 739	isoniazid
+T35	Process 740 746	action
+T36	Organism 750 765	M. tuberculosis

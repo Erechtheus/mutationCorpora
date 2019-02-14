@@ -1,0 +1,80 @@
+T1	Process 0 9	Expansion
+T2	Category 13 22	substrate
+T3	Process 39 58	catalytic mechanism
+T4	Protein 62 74	azoreductase
+T5	Technique 78 99	X-ray crystallography
+T6	Technique 104 129	site-directed mutagenesis
+T7	Chemical 131 135	AzoR
+T8	Unknown 142 145	FMN
+T9	Protein 156 173	NADH-azoreductase
+T10	Organism 188 204	Escherichia coli
+T11	Protein 210 217	protein
+T12	Process 238 249	degradation
+T13	Chemical 257 266	compounds
+T14	Geometrical_part 296 313	crystal structure
+T15	Protein 321 327	enzyme
+T16	State 335 348	oxidized form
+T17	Process 372 381	different
+T18	Unknown 382 392	structures
+T19	Chemical 396 400	AzoR
+T20	Process 465 473	reaction
+T21	Process 474 483	mechanism
+T22	Protein 491 497	enzyme
+T23	Chemical 499 503	AzoR
+T24	State 511 523	reduced form
+T25	Chemical 566 584	isoalloxazine ring
+T26	Unknown 592 595	FMN
+T27	Category 596 604	cofactor
+T28	Process 611 624	rearrangement
+T29	Chemical 628 645	solvent molecules
+T30	Geometrical_part 651 668	crystal structure
+T31	Chemical 681 685	AzoR
+T32	Process 691 700	different
+T33	Geometrical_part 701 712	space group
+T34	Geometrical_part 721 730	structure
+T35	Protein 738 744	enzyme
+T36	Category 748 755	complex
+T37	Category 765 774	inhibitor
+T38	Chemical 775 785	dicoumarol
+T39	Unknown 814 824	structures
+T40	Process 843 852	formation
+T41	Geometrical_part 870 874	part
+T42	Chemical 886 904	isoalloxazine ring
+T43	Category 922 931	substrate
+T44	Process 932 939	binding
+T45	Process 961 972	interaction
+T46	Protein_part 981 987	Arg-59
+T47	Chemical 996 1004	carboxyl
+T48	Molecular_Part 1005 1010	group
+T49	Chemical 1022 1030	compound
+T50	Category 1040 1049	substrate
+T51	Chemical 1065 1071	methyl
+T52	Chemical 1081 1089	p-methyl
+T53	Process 1099 1111	substitution
+T54	Protein_part 1115 1121	Arg-59
+T55	Protein_part 1127 1130	Ala
+T56	Parameter 1144 1154	Vmax value
+T57	Chemical 1159 1167	p-methyl
+T58	Value 1172 1179	27-fold
+T59	Value 1187 1195	3.8-fold
+T60	Process 1196 1204	increase
+T61	Parameter 1212 1220	Km value
+T62	Protein_part 1249 1255	Arg-59
+T63	Category 1268 1277	substrate
+T64	Chemical 1293 1297	AzoR
+T65	Parameter 1303 1313	Vmax value
+T66	Chemical 1322 1330	p-methyl
+T67	Process 1335 1344	reduction
+T68	Protein_part 1352 1363	R59A mutant
+T69	Chemical 1396 1402	methyl
+T70	Process 1407 1416	reduction
+T71	Protein 1424 1440	wild-type enzyme
+T72	Parameter 1454 1462	activity
+T73	Chemical 1470 1476	methyl
+T74	Process 1524 1533	expansion
+T75	Chemical 1537 1541	AzoR
+T76	Category 1542 1551	substrate
+T77	Protein_part 1576 1586	amino acid
+T78	Process 1587 1599	substitution
+T79	Chemical 1649 1660	AzoR-methyl
+T80	Category 1665 1672	complex

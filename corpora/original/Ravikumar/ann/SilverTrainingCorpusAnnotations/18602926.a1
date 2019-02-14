@@ -1,0 +1,98 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 58	glutamyl-queuosine tRNAAsp synthetase
+T3	Chemical 74 85	L-glutamate
+T4	Unknown 98 106	elements
+T5	Protein 117 121	tRNA
+T6	Process 134 144	activation
+T7	Chemical 148 157	glutamate
+T8	Protein_part 162 175	glutamylation
+T9	Protein 179 186	tRNAAsp
+T10	Protein 198 248	Glutamyl-queuosine tRNA(Asp) synthetase (Glu-Q-RS)
+T11	Organism 254 270	Escherichia coli
+T12	Protein 276 283	paralog
+T13	Protein 309 341	glutamyl-tRNA synthetase (GluRS)
+T14	Protein_part 358 371	glutamylation
+T15	Protein 411 420	tRNA(Asp)
+T16	Process 451 463	similarities
+T17	Protein 465 473	Glu-Q-RS
+T18	Protein 478 483	GluRS
+T19	Parameter 522 532	properties
+T20	Protein 566 573	enzymes
+T21	Process 590 600	activation
+T22	Protein_part 604 607	Glu
+T23	Chemical 616 623	Glu-AMP
+T24	Molecule 629 641	intermediate
+T25	Protein 645 664	transfer RNA (tRNA)
+T26	Process 665 679	aminoacylation
+T27	Protein 695 702	enzymes
+T28	Process 717 726	mechanism
+T29	Protein_part 755 765	amino acid
+T30	Process 777 786	mechanism
+T31	Process 794 804	activation
+T32	Protein 814 819	GluRS
+T33	Protein_part 828 833	l-Glu
+T34	Process 863 871	presence
+T35	Protein 887 896	tRNA(Glu)
+T36	Protein 898 906	Glu-Q-RS
+T37	Chemical 913 920	Glu-AMP
+T38	Process 928 935	absence
+T39	Protein 939 943	tRNA
+T40	Protein 961 966	GluRS
+T41	Protein_part 991 994	Glu
+T42	Geometrical_part 1015 1018	end
+T43	Protein 1034 1043	tRNA(Glu)
+T44	Protein 1045 1053	Glu-Q-RS
+T45	Process 1054 1063	transfers
+T46	Protein_part 1078 1081	Glu
+T47	Protein 1085 1088	Q34
+T48	Geometrical_part 1114 1118	loop
+T49	Protein 1137 1146	tRNA(Asp)
+T50	Process 1165 1172	insight
+T51	Unknown 1193 1201	elements
+T52	Process 1222 1232	mechanisms
+T53	Protein_part 1236 1246	amino acid
+T54	Process 1247 1257	activation
+T55	Geometrical_part 1273 1300	three-dimensional structure
+T56	Protein 1304 1312	Glu-Q-RS
+T57	Protein_part 1326 1329	Glu
+T58	Geometrical_part 1353 1362	structure
+T59	Protein 1370 1379	GluRS.Glu
+T60	Category 1380 1387	complex
+T61	Process 1389 1399	Comparison
+T62	Protein_part 1407 1421	catalytic site
+T63	Protein 1425 1433	Glu-Q-RS
+T64	Protein 1447 1452	GluRS
+T65	Process 1468 1475	binding
+T66	Process 1476 1487	experiments
+T67	Protein_part 1491 1502	amino acids
+T68	Protein_part 1539 1547	residues
+T69	Parameter 1577 1587	properties
+T70	Protein_part 1591 1601	amino acid
+T71	Process 1602 1613	recognition
+T72	Process 1618 1628	activation
+T73	Protein 1640 1647	enzymes
+T74	Process 1688 1693	basis
+T75	Process 1710 1724	aminoacylation
+T76	Parameter 1725 1735	properties
+T77	Protein 1747 1754	enzymes
+T78	Protein_part 1777 1798	Glu-Q-RS glutamylates
+T79	Protein 1804 1813	tRNA(Asp)
+T80	Protein 1824 1829	tRNAs
+T81	Location 1854 1865	position 34
+T82	Protein 1882 1886	tRNA
+T83	Technique 1887 1906	mutational analysis
+T84	Unknown 1925 1933	elements
+T85	Protein 1937 1946	tRNA(Asp)
+T86	Process 1962 1973	recognition
+T87	Protein 1977 1985	Glu-Q-RS
+T88	Technique 1991 1999	analyses
+T89	Protein 2008 2017	tRNA(Asp)
+T90	Protein 2022 2031	tRNA(Asn)
+T91	Process 2046 2054	presence
+T92	Unknown 2060 2061	C
+T93	Location 2065 2076	position 38
+T94	Protein_part 2092 2105	glutamylation
+T95	Protein 2109 2112	Q34
+T96	Process 2162 2171	evolution
+T97	Process 2176 2186	adaptation
+T98	Protein_part 2194 2219	tRNA glutamylation system

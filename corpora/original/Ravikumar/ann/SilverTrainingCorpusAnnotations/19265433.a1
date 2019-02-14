@@ -1,0 +1,58 @@
+T1	Process 0 12	Contribution
+T2	Organism 16 21	human
+T3	Protein_part 22 64	manganese superoxide dismutase tyrosine 34
+T4	Unknown 68 77	structure
+T5	Process 82 91	catalysis
+T6	Protein 93 127	Superoxide dismutase (SOD) enzymes
+T7	Chemical 166 195	reactive oxygen species (ROS)
+T8	Physiology 215 220	aging
+T9	Physiology 222 228	cancer
+T10	Physiology 234 259	neurodegenerative disease
+T11	Chemical 261 271	Superoxide
+T12	Process 299 310	respiration
+T13	Category 329 336	product
+T14	Protein 344 353	SOD2 gene
+T15	Protein 359 412	homotetrameric manganese superoxide dismutase (MnSOD)
+T16	Process 460 465	roles
+T17	Protein_part 490 515	active-site residue Tyr34
+T18	Unknown 528 537	structure
+T19	Protein 558 571	MnSOD enzymes
+T20	Process 577 586	mutations
+T21	Protein_part 595 599	site
+T22	Process 601 613	Substitution
+T23	Protein_part 617 622	Tyr34
+T24	Process 633 642	different
+T25	Protein_part 643 654	amino acids
+T26	Protein 668 687	active-site protein
+T27	Geometrical_part 688 697	structure
+T28	Process 702 710	assembly
+T29	Process 736 744	decrease
+T30	Parameter 762 775	rate constant
+T31	Process 784 793	reduction
+T32	Chemical 797 807	superoxide
+T33	Parameter 813 826	rate constant
+T34	Process 831 840	formation
+T35	Category 848 855	product
+T36	Process 856 866	inhibition
+T37	Category 867 874	complex
+T38	Process 938 946	increase
+T39	Category 963 970	product
+T40	Protein 993 1007	mutant enzymes
+T41	Process 1009 1020	Comparisons
+T42	Geometrical_part 1024 1042	crystal structures
+T43	Parameter 1057 1062	rates
+T44	Process 1085 1093	mutation
+T45	Protein_part 1095 1099	Y34V
+T46	Chemical 1116 1124	hydrogen
+T47	Physiology 1132 1139	network
+T48	Process 1174 1186	dissociation
+T49	Category 1194 1201	product
+T50	Category 1212 1219	complex
+T51	Protein_part 1248 1253	Tyr34
+T52	Molecule 1254 1261	mutants
+T53	Molecule 1282 1294	intermediate
+T54	Process 1298 1307	catalysis
+T55	Molecule 1361 1368	mutants
+T56	Molecule 1411 1423	intermediate
+T57	Process 1460 1469	mechanism
+T58	Process 1473 1482	catalysis

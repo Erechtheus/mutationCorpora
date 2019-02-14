@@ -1,0 +1,5 @@
+The crystal structures of the Klenow fragment of the Thermus aquaticus DNA polymerase I (Klentaq1) complexed with four deoxyribonucleoside triphosphates (dNTP) have been determined to 2.5 A resolution . 
+The dNTPs bind adjacent to the O helix of Klentaq1 . 
+The triphosphate moieties are at nearly identical positions in all four complexes and are anchored by three positively charged residues, Arg659, Lys663, and Arg587, and by two polar residues, His639 and Gln613 . 
+The configuration of the base moieties in the Klentaq1/dNTP complexes demonstrates variability suggesting that dNTP binding is primarily determined by recognition and binding of the phosphate moiety . 
+However, when superimposed on the Taq polymerase/blunt end DNA complex structure (Eom et al., 1996), two of the dNTP/Klentaq1 structures demonstrate appropriate stacking of the nucleotide base with the 3' end of the DNA primer strand, suggesting that at least in these two binary complexes, the observed dNTP conformations are functionally relevant . 

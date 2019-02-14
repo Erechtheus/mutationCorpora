@@ -1,0 +1,46 @@
+T1	Geometrical_part 4 13	structure
+T2	Protein_part 19 38	19-residue fragment
+T3	Unknown 48 54	C-loop
+T4	Protein 69 92	epidermal growth factor
+T5	Protein_part 98 104	domain
+T6	Protein 108 122	thrombomodulin
+T7	Geometrical_part 128 146	solution structure
+T8	Protein_part 173 191	19-residue peptide
+T9	Value 216 220	room
+T10	Parameter 221 232	temperature
+T11	Protein_part 238 246	sequence
+T12	Protein_part 255 262	peptide
+T13	Unknown 279 285	C-loop
+T14	Protein_part 288 304	residues 371-389
+T15	Protein 320 343	epidermal growth factor
+T16	Protein_part 349 355	domain
+T17	Protein 359 373	thrombomodulin
+T18	Protein 377 384	protein
+T19	Category 400 408	cofactor
+T20	Protein 417 425	thrombin
+T21	Process 426 436	activation
+T22	Protein 441 450	protein C
+T23	Parameter 470 474	size
+T24	Protein_part 480 487	peptide
+T25	Unknown 504 513	structure
+T26	Geometrical_part 539 558	secondary structure
+T27	Unknown 585 594	structure
+T28	Process 627 639	interactions
+T29	Protein_part 673 683	beta-turns
+T30	Unknown 691 700	structure
+T31	Protein_part 706 721	first beta-turn
+T32	Unknown 729 735	C-loop
+T33	Protein_part 759 764	motif
+T34	Unknown 796 806	structures
+T35	Protein 821 858	epidermal growth factor-like proteins
+T36	Process 873 877	role
+T37	Protein_part 881 887	Phe376
+T38	Process 895 908	stabilization
+T39	Protein_part 917 932	first beta-turn
+T40	Process 952 963	mutagenesis
+T41	Protein 974 996	soluble thrombomodulin
+T42	Protein_part 1033 1042	subdomain
+T43	Protein 1055 1062	protein
+T44	Process 1121 1131	initiation
+T45	Protein_part 1132 1136	site
+T46	Process 1149 1156	folding

@@ -1,0 +1,46 @@
+T1	Process 10 15	basis
+T2	Process 24 35	recognition
+T3	Protein 76 86	histone h3
+T4	Process 98 113	Phosphorylation
+T5	Protein 117 127	histone H3
+T6	Process 161 171	activation
+T7	Protein 176 186	chromosome
+T8	Process 187 199	condensation
+T9	Process 219 237	molecular function
+T10	Technique 263 286	affinity chromatography
+T11	Body_part 290 297	nuclear
+T12	Protein_part 324 341	H3 tail  peptides
+T13	Molecule 364 372	isoforms
+T14	Protein 376 384	proteins
+T15	Protein_part 401 406	tails
+T16	Process 421 436	phosphorylation
+T17	Process 455 466	Acetylation
+T18	Protein_part 470 479	lysines 9
+T19	Chemical 521 545	serine 10-phosphorylated
+T20	Protein_part 546 554	H3 tails
+T21	Protein 598 603	c-fos
+T22	Protein 608 613	c-jun
+T23	Body_part 614 625	nucleosomes
+T24	Protein 631 635	gene
+T25	Process 636 646	activation
+T26	Protein_part 665 667	H3
+T27	Process 668 686	phosphoacetylation
+T28	Geometrical_part 711 721	structures
+T29	Protein 725 735	14-3-3zeta
+T30	Protein_part 751 757	serine
+T31	Chemical 758 775	10-phosphorylated
+T32	Chemical 779 796	phosphoacetylated
+T33	Protein_part 797 808	H3 peptides
+T34	Chemical 842 863	14-3-3/phosphopeptide
+T35	Process 864 871	binding
+T36	Process 919 923	lack
+T37	Process 927 933	effect
+T38	Process 937 948	acetylation
+T39	Protein_part 952 961	lysines 9
+T40	Process 977 988	interaction
+T41	Molecule 997 1005	isoforms
+T42	Protein 1032 1040	proteins
+T43	Process 1058 1064	effect
+T44	Protein 1068 1075	histone
+T45	Process 1076 1091	phosphorylation
+T46	Protein 1105 1110	genes

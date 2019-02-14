@@ -1,0 +1,58 @@
+T1	Process 0 11	Recognition
+T2	Protein 15 36	ribosomal protein L11
+T3	Protein 44 51	protein
+T4	Protein 52 77	trimethyltransferase PrmA
+T5	Organism 79 88	Bacterial
+T6	Protein 89 110	ribosomal protein L11
+T7	Protein_part 161 169	residues
+T8	Protein 182 199	methyltransferase
+T9	Protein 201 205	PrmA
+T10	Geometrical_part 230 240	structures
+T11	Protein 244 248	PrmA
+T12	Organism 266 298	thermophile Thermus thermophilus
+T13	Protein 304 312	apo-PrmA
+T14	Geometrical_part 313 323	structures
+T15	Value 327 331	1.59
+T16	Value 336 341	2.3 A
+T17	Parameter 342 352	resolution
+T18	Category 376 384	cofactor
+T19	Chemical 385 408	S-adenosyl-L-methionine
+T20	Value 412 418	1.75 A
+T21	Category 467 476	substrate
+T22	Process 477 488	recognition
+T23	Protein_part 493 510	catalytic domains
+T24	Protein 526 530	PrmA
+T25	Unknown 549 552	L11
+T26	Category 553 562	substrate
+T27	Protein_part 589 599	side-chain
+T28	Process 600 611	methylation
+T29	Process 612 621	reactions
+T30	Unknown 634 643	structure
+T31	Unknown 649 657	PrmA-L11
+T32	Category 675 682	complex
+T33	Value 686 691	2.4 A
+T34	Parameter 692 702	resolution
+T35	Process 736 747	interaction
+T36	Protein_part 755 772	N-terminal domain
+T37	Category 782 791	substrate
+T38	Protein_part 803 808	Lys39
+T39	Protein_part 816 832	PrmA active site
+T40	Process 838 846	presence
+T41	Geometrical_part 868 872	loop
+T42	Category 880 888	cofactor
+T43	Protein_part 897 901	site
+T44	Process 915 923	exchange
+T45	Unknown 927 933	AdoMet
+T46	Process 943 951	reaction
+T47	Category 952 959	product
+T48	Chemical 960 985	S-adenosyl-L-homocysteine
+T49	Process 1022 1034	dissociation
+T50	Protein 1038 1042	PrmA
+T51	Unknown 1048 1051	L11
+T52	Process 1074 1085	interaction
+T53	Protein 1089 1093	PrmA
+T54	Unknown 1100 1103	L11
+T55	Unknown 1141 1144	L11
+T56	Category 1148 1157	substrate
+T57	Process 1169 1177	assembly
+T58	Protein 1187 1208	50S ribosomal subunit

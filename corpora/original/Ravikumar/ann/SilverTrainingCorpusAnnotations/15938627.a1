@@ -1,0 +1,73 @@
+T1	Chemical 0 5	Metal
+T2	Protein_part 49 69	active site residues
+T3	Organism 73 89	Escherichia coli
+T4	Protein 90 110	alkaline phosphatase
+T5	Organism 112 128	Escherichia coli
+T6	Protein 129 149	alkaline phosphatase
+T7	Parameter 159 175	maximal activity
+T8	Chemical 181 187	Zn(2+)
+T9	Protein_part 198 200	M1
+T10	Protein_part 205 219	M2 metal sites
+T11	Chemical 224 230	Mg(2+)
+T12	Protein_part 241 254	M3 metal site
+T13	Chemical 267 273	metals
+T14	Chemical 286 290	zinc
+T15	Chemical 295 304	magnesium
+T16	Parameter 320 330	efficiency
+T17	Value 356 365	5000-fold
+T18	Protein 367 388	Alkaline phosphatases
+T19	Organism 394 403	organisms
+T20	Organism 412 431	Thermotoga maritima
+T21	Organism 436 453	Bacillus subtilis
+T22	Chemical 462 468	cobalt
+T23	Parameter 473 489	maximal activity
+T24	Chemical 515 519	zinc
+T25	Chemical 524 533	magnesium
+T26	Protein 572 598	D153H alkaline phosphatase
+T27	Parameter 621 629	activity
+T28	Process 637 645	presence
+T29	Chemical 649 655	cobalt
+T30	Protein_part 667 672	K328W
+T31	Protein 692 718	D153H/K328W mutant enzymes
+T32	Chemical 727 733	cobalt
+T33	Process 738 747	catalysis
+T34	Process 778 783	basis
+T35	Chemical 800 805	metal
+T36	Protein 841 859	D153H/K328W enzyme
+T37	Chemical 871 877	cobalt
+T38	Process 882 891	catalysis
+T39	Unknown 912 922	structures
+T40	Organism 949 956	E. coli
+T41	Protein 957 963	enzyme
+T42	Chemical 969 975	cobalt
+T43	Unknown 992 1001	structure
+T44	Protein 1016 1034	D153H/K328W enzyme
+T45	Chemical 1040 1046	cobalt
+T46	Process 1083 1094	differences
+T47	Chemical 1102 1107	metal
+T48	Process 1108 1120	coordination
+T49	Parameter 1132 1140	strength
+T50	Process 1149 1160	interaction
+T51	Category 1170 1177	product
+T52	Chemical 1178 1194	phosphate (P(i))
+T53	Process 1202 1209	release
+T54	Chemical 1213 1217	P(i)
+T55	Process 1242 1251	mechanism
+T56	Chemical 1255 1263	alkaline
+T57	Parameter 1264 1266	pH
+T58	Process 1281 1288	binding
+T59	Chemical 1292 1296	P(i)
+T60	Process 1342 1350	decrease
+T61	Parameter 1354 1362	activity
+T62	Process 1383 1390	binding
+T63	Chemical 1394 1398	P(i)
+T64	Process 1444 1452	increase
+T65	Parameter 1456 1464	activity
+T66	Process 1472 1483	alterations
+T67	Chemical 1487 1491	P(i)
+T68	Parameter 1492 1500	affinity
+T69	Process 1525 1536	alterations
+T70	Process 1545 1557	coordination
+T71	Chemical 1565 1571	metals
+T72	Protein_part 1579 1590	active site
+T73	Protein 1598 1604	enzyme

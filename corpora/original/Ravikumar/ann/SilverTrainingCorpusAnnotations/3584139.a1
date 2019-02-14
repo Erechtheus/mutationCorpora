@@ -1,0 +1,60 @@
+T1	Unknown 0 9	Structure
+T2	State 27 43	transition state
+T3	Category 44 51	complex
+T4	Protein 55 79	alpha-chymotrypsin dimer
+T5	Value 83 88	1.8-A
+T6	Parameter 89 99	resolution
+T7	Value 103 108	1.8-A
+T8	Parameter 109 119	resolution
+T9	Technique 120 142	x-ray crystallographic
+T10	Process 168 178	refinement
+T11	Chemical 207 239	phenylethane boronic acid (PEBA)
+T12	Category 240 247	complex
+T13	Protein 251 287	alpha-chymotrypsin dimer (alpha-CHT)
+T14	Value 321 327	1.67-A
+T15	Parameter 328 338	resolution
+T16	Unknown 339 348	structure
+T17	Protein 363 369	enzyme
+T18	Chemical 371 375	PEBA
+T19	Parameter 387 403	binding affinity
+T20	Protein 408 417	alpha-CHT
+T21	Category 456 463	complex
+T22	Protein_part 469 476	Ser-195
+T23	Unknown 477 479	OG
+T24	Molecule 487 495	molecule
+T25	Protein 503 508	dimer
+T26	Molecule 536 544	molecule
+T27	Category 601 608	complex
+T28	State 645 661	transition state
+T29	Process 665 674	catalysis
+T30	Category 680 687	complex
+T31	Protein_part 691 707	PEBA X alpha-CHT
+T32	State 747 759	conformation
+T33	Protein_part 763 774	side chains
+T34	Molecule 799 808	molecules
+T35	Protein 834 840	enzyme
+T36	Process 903 910	folding
+T37	Protein_part 918 928	main chain
+T38	Process 934 945	orientation
+T39	Chemical 953 959	phenyl
+T40	Geometrical_part 960 964	ring
+T41	Unknown 966 968	CA
+T42	Unknown 973 975	CB
+T43	Chemical 979 983	PEBA
+T44	Protein_part 1004 1009	sites
+T45	Molecule 1021 1030	molecules
+T46	Process 1060 1071	recognition
+T47	Geometrical_part 1125 1133	symmetry
+T48	Process 1241 1250	catalysis
+T49	Process 1256 1263	folding
+T50	Molecule 1271 1279	molecule
+T51	Chemical 1302 1306	PEBA
+T52	Process 1307 1314	binding
+T53	Protein_part 1332 1343	side chains
+T54	Process 1386 1397	consequence
+T55	Protein 1443 1448	dimer
+T56	Location 1457 1469	asymmetrical
+T57	Chemical 1484 1488	PEBA
+T58	Process 1489 1496	binding
+T59	Unknown 1498 1503	CRDT-
+T60	Value 1512 1520	05 00:00

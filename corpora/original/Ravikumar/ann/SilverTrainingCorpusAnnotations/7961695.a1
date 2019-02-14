@@ -1,0 +1,132 @@
+T1	Protein_part 15 19	site
+T2	Organism 23 28	human
+T3	Body_part 29 34	liver
+T4	Protein 35 62	fructose-1,6-bisphosphatase
+T5	Technique 64 72	Analysis
+T6	Protein_part 80 88	AMP site
+T7	Molecule 89 96	mutants
+T8	Geometrical_part 110 127	crystal structure
+T9	Unknown 143 152	structure
+T10	Organism 156 161	human
+T11	Body_part 162 167	liver
+T12	Protein 168 195	fructose-1,6-bisphosphatase
+T13	Chemical 211 214	AMP
+T14	Technique 233 250	x-ray diffraction
+T15	Process 257 278	molecular replacement
+T16	Organism 298 301	pig
+T17	Body_part 302 308	kidney
+T18	Chemical 309 319	enzyme AMP
+T19	Category 320 327	complex
+T20	Protein_part 339 358	amino acid residues
+T21	Protein_part 390 399	sequences
+T22	Chemical 425 428	AMP
+T23	Protein_part 430 435	Met30
+T24	Organism 439 442	pig
+T25	Body_part 443 449	kidney
+T26	Protein_part 453 458	Leu30
+T27	Organism 462 467	human
+T28	Body_part 468 473	liver
+T29	Technique 485 493	analysis
+T30	Protein_part 499 504	sites
+T31	Protein_part 514 525	side chains
+T32	Protein_part 529 548	amino acid residues
+T33	Process 556 563	contact
+T34	Chemical 569 572	AMP
+T35	Protein_part 574 579	Ala24
+T36	Protein_part 581 586	Leu30
+T37	Protein_part 588 593	Thr31
+T38	Protein_part 595 601	Tyr113
+T39	Protein_part 603 609	Arg140
+T40	Protein_part 615 621	Met177
+T41	Technique 639 664	polymerase chain reaction
+T42	Organism 715 731	Escherichia coli
+T43	Parameter 753 771	kinetic properties
+T44	Technique 784 802	Circular dichroism
+T45	Parameter 803 810	spectra
+T46	Molecule 818 825	mutants
+T47	Protein 866 882	wild-type enzyme
+T48	Parameter 884 891	Kinetic
+T49	Technique 892 900	analyses
+T50	Parameter 937 953	turnover numbers
+T51	Parameter 955 964	Km values
+T52	Chemical 969 994	fructose 2,6-bisphosphate
+T53	Parameter 1000 1020	inhibition constants
+T54	Chemical 1025 1050	fructose 2,6-bisphosphate
+T55	Parameter 1052 1070	Apparent Ki values
+T56	Chemical 1075 1078	AMP
+T57	Process 1079 1089	inhibition
+T58	Protein_part 1097 1102	Leu30
+T59	Protein_part 1107 1110	Phe
+T60	Protein_part 1115 1121	Met177
+T61	Protein_part 1126 1129	Ala
+T62	Molecule 1130 1137	mutants
+T63	Protein 1167 1183	wild-type enzyme
+T64	Parameter 1193 1211	apparent Ki values
+T65	Protein_part 1220 1226	Arg140
+T66	Protein_part 1231 1234	Ala
+T67	Protein_part 1239 1244	Ala24
+T68	Protein_part 1249 1252	Phe
+T69	Molecule 1253 1260	mutants
+T70	Unknown 1266 1270	7-to
+T71	Value 1271 1278	20-fold
+T72	Protein_part 1305 1310	Thr31
+T73	Protein_part 1315 1318	Ser
+T74	Molecule 1319 1325	mutant
+T75	Value 1338 1344	5-fold
+T76	Process 1345 1353	increase
+T77	Parameter 1357 1368	apparent Ki
+T78	Chemical 1373 1376	AMP
+T79	Process 1384 1392	mutation
+T80	Protein_part 1396 1401	Thr31
+T81	Protein_part 1405 1408	Ala
+T82	Parameter 1423 1434	apparent Ki
+T83	Value 1435 1443	120-fold
+T84	Chemical 1445 1448	AMP
+T85	Process 1449 1459	inhibition
+T86	Protein_part 1467 1473	Tyr113
+T87	Protein_part 1478 1481	Phe
+T88	Molecule 1482 1488	mutant
+T89	Chemical 1525 1528	AMP
+T90	Parameter 1529 1543	concentrations
+T91	Chemical 1545 1570	Fructose 2,6-bisphosphate
+T92	Chemical 1583 1586	AMP
+T93	Process 1587 1597	inhibition
+T94	Molecule 1605 1612	mutants
+T95	Protein 1643 1659	wild-type enzyme
+T96	Protein_part 1687 1692	Thr31
+T97	Protein_part 1697 1700	Ala
+T98	Protein_part 1705 1711	Tyr113
+T99	Protein_part 1716 1719	Phe
+T100	Molecule 1720 1727	mutants
+T101	Protein_part 1739 1745	Met177
+T102	Protein_part 1750 1753	Ala
+T103	Molecule 1754 1760	mutant
+T104	Protein_part 1779 1789	side chain
+T105	Protein 1797 1804	C alpha
+T106	Chemical 1823 1826	AMP
+T107	Process 1827 1834	binding
+T108	Protein_part 1849 1854	Leu30
+T109	Protein_part 1859 1862	Phe
+T110	Molecule 1863 1869	mutant
+T111	Chemical 1884 1887	AMP
+T112	Process 1888 1896	contacts
+T113	Protein_part 1908 1919	side chains
+T114	Protein_part 1922 1927	Thr31
+T115	Protein_part 1929 1935	Tyr113
+T116	Protein_part 1941 1947	Arg140
+T117	Chemical 1957 1971	hydrogen bonds
+T118	Chemical 1975 1978	AMP
+T119	Protein_part 2002 2012	side chain
+T120	Process 2013 2025	interactions
+T121	Protein 2033 2049	wild-type enzyme
+T122	Process 2064 2071	absence
+T123	Process 2079 2085	effect
+T124	Chemical 2089 2114	fructose 2,6-bisphosphate
+T125	Chemical 2118 2121	AMP
+T126	Process 2122 2132	inhibition
+T127	Protein_part 2149 2154	Thr31
+T128	Protein_part 2159 2162	Ala
+T129	Molecule 2163 2169	mutant
+T130	Process 2211 2220	mechanism
+T131	Process 2224 2233	synergism
+T132	Category 2247 2257	inhibitors

@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 25 48	SENP1 mutant C603S-SUMO
+T3	Category 49 56	complex
+T4	Process 69 89	hydrolytic mechanism
+T5	Protein 93 97	SUMO
+T6	Protein 107 115	protease
+T7	Protein 117 156	SUMO (small ubiquitin-related modifier)
+T8	Protein 166 175	proteases
+T9	Process 189 199	maturation
+T10	Process 219 228	processes
+T11	Process 236 247	sumoylation
+T12	Process 248 255	pathway
+T13	Body_part 277 285	cellular
+T14	Process 286 295	responses
+T15	Body_part 306 313	nuclear
+T16	Process 314 324	metabolism
+T17	Physiology 329 339	cell cycle
+T18	Process 340 351	progression
+T19	Protein_part 357 385	active-site cysteine residue
+T20	Protein 415 419	SUMO
+T21	Protein 429 438	proteases
+T22	Protein_part 467 473	serine
+T23	Process 481 491	hydrolysis
+T24	Process 492 501	reactions
+T25	Organism 529 534	yeast
+T26	Protein_part 560 576	catalytic domain
+T27	Organism 580 585	human
+T28	Protein 586 600	protease SENP1
+T29	Protein 602 606	SUMO
+T30	Protein 616 626	protease 1
+T31	Unknown 628 648	mutant SENP1C(C603S)
+T32	Process 660 668	mutation
+T33	Protein_part 672 680	cysteine
+T34	Protein_part 684 690	serine
+T35	Protein_part 698 709	active site
+T36	Process 725 735	maturation
+T37	Process 755 764	reactions
+T38	Process 792 812	hydrolytic mechanism
+T39	Protein 826 831	SENP1
+T40	Value 856 861	2.8 A
+T41	Parameter 862 872	resolution
+T42	Value 874 875	1
+T43	Parameter 876 877	A
+T44	Value 880 887	0.1  nm
+T45	Technique 894 909	X-ray structure
+T46	Protein 913 933	SENP1C(C603S)-SUMO-1
+T47	Category 934 941	complex
+T48	Process 945 955	comparison
+T49	Geometrical_part 963 972	structure
+T50	Protein 976 988	SENP2-SUMO-1
+T51	Protein 1012 1016	SUMO
+T52	Protein 1026 1035	proteases
+T53	Process 1067 1073	change
+T54	Process 1083 1091	cleavage
+T55	Protein_part 1095 1102	peptide
+T56	Chemical 1106 1121	isopeptide bond
+T57	Process 1129 1139	maturation
+T58	Process 1159 1168	processes
+T59	Technique 1193 1201	analysis
+T60	Protein 1222 1227	SENP1
+T61	Protein 1232 1238	SUMO-1
+T62	Process 1254 1268	identification
+T63	Protein_part 1284 1295	amino acids
+T64	Protein 1299 1304	SENP1
+T65	Process 1325 1332	binding
+T66	Protein 1336 1342	SUMO-1
+T67	Technique 1368 1373	assay
+T68	Process 1406 1414	function
+T69	Protein 1418 1423	SENP1
+T70	Protein_part 1427 1438	hydrolysing
+T71	Protein_part 1444 1461	thioester linkage
+T72	Protein 1465 1472	E1-SUMO
+T73	Protein 1477 1484	E2-SUMO
+T74	Category 1485 1494	complexes
+T75	Process 1523 1532	mechanism
+T76	Process 1536 1546	regulation
+T77	Process 1554 1565	sumoylation
+T78	Process 1566 1573	pathway
+T79	Protein 1581 1585	SUMO
+T80	Protein 1595 1604	proteases

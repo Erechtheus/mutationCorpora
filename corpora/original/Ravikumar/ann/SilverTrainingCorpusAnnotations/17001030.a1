@@ -1,0 +1,95 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Molecule 26 29	DNA
+T3	Protein_part 38 44	domain
+T4	Organism 48 64	Escherichia coli
+T5	Protein 65 99	proline utilization A flavoprotein
+T6	Technique 104 112	analysis
+T7	Process 120 124	role
+T8	Protein_part 128 132	Lys9
+T9	Molecule 136 139	DNA
+T10	Process 140 151	recognition
+T11	Process 153 181	PutA (proline utilization A)
+T12	Organism 187 203	Escherichia coli
+T13	Protein_part 209 232	1320-amino-acid residue
+T14	Protein 233 240	protein
+T15	Protein_part 269 276	proline
+T16	Physiology 277 286	catabolic
+T17	Protein 287 293	enzyme
+T18	Molecule 312 337	transcriptional repressor
+T19	Geometrical_part 365 382	crystal structure
+T20	Process 388 392	PutA
+T21	Molecule 394 397	DNA
+T22	Protein_part 406 412	domain
+T23	Technique 435 443	analysis
+T24	Process 456 460	PutA
+T25	Molecule 474 477	DNA
+T26	Process 478 485	binding
+T27	Unknown 487 495	Crystals
+T28	Protein_part 515 526	polypeptide
+T29	Protein_part 544 557	residues 1-52
+T30	Organism 561 568	E. coli
+T31	Process 569 573	PutA
+T32	Process 575 581	PutA52
+T33	Value 588 591	2.1
+T34	Unknown 592 600	Angstrom
+T35	Parameter 601 611	resolution
+T36	Unknown 612 621	structure
+T37	Process 625 631	PutA52
+T38	Molecule 632 638	mutant
+T39	Protein_part 639 646	Lys9Met
+T40	Chemical 668 674	Se-Met
+T41	Unknown 675 678	MAD
+T42	Unknown 696 705	structure
+T43	Process 716 722	PutA52
+T44	Value 737 740	1.9
+T45	Unknown 741 749	Angstrom
+T46	Parameter 750 760	resolution
+T47	Process 767 788	molecular replacement
+T48	Protein_part 791 804	Residues 3-46
+T49	Protein_part 812 836	ribbon-helix-helix (RHH)
+T50	Unknown 837 849	substructure
+T51	Process 869 873	PutA
+T52	Protein 889 896	protein
+T53	Protein_part 911 921	RHH domain
+T54	Process 927 931	PutA
+T55	Protein_part 932 942	RHH domain
+T56	Protein 965 970	dimer
+T57	Geometrical_part 991 1007	hydrophobic core
+T58	Protein_part 1038 1041	RHH
+T59	Unknown 1042 1048	family
+T60	Unknown 1054 1064	structures
+T61	Protein_part 1119 1127	residues
+T62	Process 1141 1145	PutA
+T63	Protein_part 1146 1157	RHH domains
+T64	Protein_part 1191 1195	Lys9
+T65	Protein_part 1200 1204	Thr5
+T66	Process 1205 1212	contact
+T67	Molecule 1213 1216	DNA
+T68	Geometrical_part 1235 1247	major groove
+T69	Protein_part 1255 1260	Arg15
+T70	Protein_part 1262 1267	Thr28
+T71	Protein_part 1273 1278	His30
+T72	Chemical 1301 1310	phosphate
+T73	Geometrical_part 1311 1319	backbone
+T74	Protein_part 1321 1325	Lys9
+T75	Process 1364 1375	recognition
+T76	Process 1383 1390	control
+T77	Molecule 1391 1394	DNA
+T78	Technique 1401 1419	gel shift analysis
+T79	Protein_part 1427 1434	Lys9Met
+T80	Molecule 1435 1441	mutant
+T81	Process 1457 1461	PutA
+T82	Protein_part 1463 1467	Lys9
+T83	Process 1489 1495	PutA52
+T84	Unknown 1496 1505	structure
+T85	Process 1536 1543	binding
+T86	Process 1544 1553	mechanism
+T87	Protein_part 1567 1577	side chain
+T88	Protein_part 1581 1585	Lys9
+T89	Process 1610 1621	interaction
+T90	Molecule 1627 1630	DNA
+T91	Process 1687 1692	basis
+T92	Molecule 1696 1699	DNA
+T93	Process 1700 1711	recognition
+T94	Process 1715 1719	PutA
+T95	Protein 1775 1785	PutA dimer

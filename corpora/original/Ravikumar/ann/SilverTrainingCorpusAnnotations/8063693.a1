@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Value 22 27	2.6-A
+T3	Parameter 28 38	resolution
+T4	Organism 47 68	Streptomyces lividans
+T5	Protein 69 79	xylanase A
+T6	Unknown 84 90	member
+T7	Unknown 98 106	F family
+T8	Protein 110 131	beta-1,4-D-glycanases
+T9	Geometrical_part 137 154	crystal structure
+T10	Value 162 168	32-kDa
+T11	Protein_part 169 185	catalytic domain
+T12	Organism 193 214	Streptomyces lividans
+T13	Protein 215 225	xylanase A
+T14	Process 262 273	replacement
+T15	Value 310 315	2.6-A
+T16	Parameter 316 326	resolution
+T17	Technique 345 361	crystallographic
+T18	Parameter 362 370	R factor
+T19	Value 374 378	0.21
+T20	Unknown 409 418	structure
+T21	Unknown 438 444	member
+T22	Unknown 453 461	F family
+T23	Protein 465 491	endo-beta-1,4-D-glycanases
+T24	Protein 524 533	xylanases
+T25	Unknown 541 549	G family
+T26	Unknown 562 612	W. W., Campbell, R. L., Sung, W. L., Davoodi, J., 
+T27	Unknown 616 627	Yaguchi, M.
+T28	Protein 635 642	Protein
+T29	Unknown 643 647	Sci.
+T30	Protein_part 671 688	catalytic domains
+T31	Protein_part 703 713	beta-sheet
+T32	Unknown 714 723	structure
+T33	Value 729 735	32-kDa
+T34	Protein_part 736 742	domain
+T35	Organism 750 761	S. lividans
+T36	Protein 763 773	xylanase A
+T37	Geometrical_part 800 820	(alpha/beta)8 barrel
+T38	Geometrical_part 837 841	fold
+T39	Protein 857 878	beta-1,4-D-glycanases
+T40	Protein_part 884 895	active site
+T41	Chemical 914 927	carbonyl  end
+T42	Geometrical_part 935 946	beta barrel
+T43	Geometrical_part 952 969	crystal structure
+T44	Process 991 1001	assignment
+T45	Protein_part 1006 1013	Glu-128
+T46	Protein_part 1018 1025	Glu-236
+T47	Protein_part 1043 1054	amino acids
+T48	Unknown 1064 1119	A., Roberge, M., Manin, C., Shareck, F., Kluepfel, D., 
+T49	Unknown 1123 1135	Morosoli, R.
+T50	Unknown 1143 1156	Biochem. J., 

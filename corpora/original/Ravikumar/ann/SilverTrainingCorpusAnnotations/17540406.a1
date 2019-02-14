@@ -1,0 +1,72 @@
+T1	Protein_part 0 20	Cyclin box structure
+T2	Protein 28 52	P-TEFb subunit cyclin T1
+T3	Process 68 74	fusion
+T4	Category 75 82	complex
+T5	Organism 88 92	EIAV
+T6	Protein 102 153	positive transcription elongation factor b (P-TEFb)
+T7	Molecule 170 179	regulator
+T8	Organism 183 188	viral
+T9	Protein 189 193	gene
+T10	Process 194 204	expression
+T11	Protein 230 273	human immunodeficiency virus type 1 (HIV-1)
+T12	Protein 279 296	cyclin T1 subunit
+T13	Category 305 320	ternary complex
+T14	Organism 330 335	viral
+T15	Category 336 372	transcriptional transactivator (Tat)
+T16	Protein 373 380	protein
+T17	Protein 389 431	transactivation response (TAR) RNA element
+T18	Protein 451 483	cyclin dependent kinase 9 (Cdk9)
+T19	Process 502 515	transcription
+T20	Protein 532 537	chain
+T21	Process 538 548	elongation
+T22	Geometrical_part 564 573	structure
+T23	Protein_part 581 598	cyclin box domain
+T24	Organism 602 607	human
+T25	Protein 608 617	cyclin T1
+T26	Parameter 623 633	resolution
+T27	Value 637 643	2.67 A
+T28	Unknown 650 659	structure
+T29	Technique 676 701	crystallographic analysis
+T30	Protein 707 721	fusion protein
+T31	Protein 734 743	cyclin T1
+T32	Category 758 772	transactivator
+T33	Protein 773 780	protein
+T34	Category 781 784	Tat
+T35	Organism 790 827	equine infectious anemia virus (EIAV)
+T36	Protein 879 884	HIV-1
+T37	Category 885 888	Tat
+T38	Protein_part 904 921	cyclin box domain
+T39	Protein 925 934	cyclin T1
+T40	Process 968 979	interaction
+T41	Process 999 1006	binding
+T42	Protein 1024 1028	Cdk9
+T43	Protein_part 1032 1048	recognition site
+T44	Protein 1053 1063	Cdk/Cyclin
+T45	Category 1064 1074	substrates
+T46	Protein 1098 1106	cyclin T
+T47	Protein_part 1116 1122	insert
+T48	Process 1144 1156	interactions
+T49	Protein 1173 1180	factors
+T50	Protein_part 1209 1240	Tat/TAR recognition motif (TRM)
+T51	Protein_part 1249 1265	C-terminal helix
+T52	Protein_part 1297 1314	cyclin box repeat
+T53	Protein_part 1332 1344	cysteine 261
+T54	Protein_part 1385 1396	zinc finger
+T55	Category 1402 1405	Tat
+T56	Protein_part 1407 1415	Residues
+T57	Protein_part 1423 1426	TRM
+T58	Geometrical_part 1462 1468	groove
+T59	Protein 1495 1508	RNA molecules
+T60	Organism 1514 1518	EIAV
+T61	Category 1519 1522	Tat
+T62	Protein 1523 1530	protein
+T63	Molecule 1567 1575	electron
+T64	Parameter 1576 1583	density
+T65	Process 1640 1651	experiments
+T66	Process 1666 1669	TAR
+T67	Parameter 1670 1688	binding properties
+T68	Protein 1696 1710	fusion protein
+T69	Protein_part 1725 1733	residues
+T70	Protein_part 1748 1765	cyclin box repeat
+T71	Category 1783 1786	Tat
+T72	Process 1798 1811	transcription

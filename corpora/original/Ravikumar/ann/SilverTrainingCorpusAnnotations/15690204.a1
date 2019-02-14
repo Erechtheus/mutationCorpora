@@ -1,0 +1,61 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein_part 26 31	G139A
+T3	Protein 33 41	G139A-NO
+T4	Protein_part 46 59	G143H mutants
+T5	Organism 63 68	human
+T6	Protein 69 85	heme oxygenase-1
+T7	Chemical 102 110	hydrogen
+T8	Physiology 119 126	network
+T9	Protein 136 145	oxygenase
+T10	Protein 153 163	peroxidase
+T11	Parameter 164 172	activity
+T12	Chemical 184 192	glycines
+T13	Protein_part 194 200	Gly139
+T14	Protein_part 205 211	Gly143
+T15	Protein_part 220 232	distal helix
+T16	Organism 236 241	human
+T17	Protein 242 265	heme oxygenase-1 (HO-1)
+T18	Process 307 314	opening
+T19	Process 319 326	closing
+T20	Protein_part 334 350	heme active site
+T21	Category 355 364	substrate
+T22	Process 365 372	binding
+T23	Category 377 384	product
+T24	Process 385 397	dissociation
+T25	Protein 405 409	HO-1
+T26	Process 410 419	catalysis
+T27	Process 429 440	mutagenesis
+T28	Organism 449 454	human
+T29	Protein 455 459	HO-1
+T30	Process 472 483	replacement
+T31	Protein_part 494 500	Gly139
+T32	Protein_part 504 510	Gly143
+T33	Protein 522 536	heme oxygenase
+T34	Parameter 537 545	activity
+T35	Protein_part 570 576	Gly139
+T36	Molecule 577 584	mutants
+T37	Protein 596 606	peroxidase
+T38	Parameter 607 615	activity
+T39	Technique 616 627	(Liu et al.
+T40	Unknown 631 632	J
+T41	Value 646 655	275:34501
+T42	Process 691 695	role
+T43	Protein_part 713 719	distal
+T44	Chemical 720 734	helix glycines
+T45	Geometrical_part 759 777	crystal structures
+T46	Organism 785 790	human
+T47	Protein 791 801	HO-1 G139A
+T48	Molecule 802 808	mutant
+T49	Protein_part 814 826	G139A mutant
+T50	Category 832 839	complex
+T51	Unknown 845 847	NO
+T52	Protein_part 857 869	G143H mutant
+T53	Value 873 877	1.88
+T54	Value 879 883	2.18
+T55	Value 888 894	2.08 A
+T56	Process 940 946	tuning
+T57	Chemical 972 992	active-site hydrogen
+T58	Physiology 1001 1008	network
+T59	Protein 1044 1058	heme oxygenase
+T60	Protein 1062 1072	peroxidase
+T61	Parameter 1073 1081	activity

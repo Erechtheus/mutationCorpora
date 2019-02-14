@@ -1,0 +1,84 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Body_part 33 36	pea
+T3	Location 37 46	cytosolic
+T4	Protein 47 67	ascorbate peroxidase
+T5	Geometrical_part 73 90	crystal structure
+T6	Body_part 106 109	pea
+T7	Location 110 119	cytosolic
+T8	Protein 120 140	ascorbate peroxidase
+T9	Parameter 165 166	R
+T10	Value 169 173	0.19
+T11	Value 191 194	8.0
+T12	Value 199 204	2.2 A
+T13	Parameter 205 215	resolution
+T14	Parameter 220 229	magnitude
+T15	Unknown 233 234	F
+T16	Parameter 263 265	F)
+T17	Protein 302 331	ascorbate peroxidase monomers
+T18	Protein_part 350 358	residues
+T19	Protein 363 370	monomer
+T20	Protein 390 400	homodimers
+T21	Chemical 411 415	heme
+T22	Molecular_Part 416 421	group
+T23	Protein 426 433	monomer
+T24	Protein 439 459	ascorbate peroxidase
+T25	Body_part 484 487	pea
+T26	Location 488 497	cytosolic
+T27	Protein 498 504	enzyme
+T28	Protein 522 531	homodimer
+T29	Process 567 579	interactions
+T30	Value 600 606	2-fold
+T31	Protein 628 633	dimer
+T32	Location 634 638	axis
+T33	Parameter 675 692	sequence identity
+T34	Value 694 697	33%
+T35	Geometrical_part 712 716	fold
+T36	Protein 724 752	ascorbate peroxidase monomer
+T37	Protein 779 791	cytochrome c
+T38	Protein 792 802	peroxidase
+T39	Parameter 808 832	average root mean square
+T40	Process 833 844	differences
+T41	Geometrical_part 853 860	helical
+T42	Chemical 861 879	alpha-carbon atoms
+T43	Protein 897 926	ascorbate peroxidase monomers
+T44	Protein 931 944	cytochrome  c
+T45	Protein 945 955	peroxidase
+T46	Chemical 993 1011	alpha-carbon atoms
+T47	Value 1016 1019	0.9
+T48	Value 1025 1030	1.3 A
+T49	Protein_part 1050 1072	active site structures
+T50	Chemical 1107 1115	hydrogen
+T51	Process 1124 1136	interactions
+T52	Location 1149 1157	proximal
+T53	Protein_part 1158 1161	His
+T54	Category 1162 1168	ligand
+T55	Protein_part 1179 1190	Asp residue
+T56	Protein_part 1198 1209	Trp residue
+T57	Chemical 1217 1228	indole ring
+T58	Process 1251 1258	contact
+T59	Location 1269 1277	proximal
+T60	Protein_part 1278 1281	His
+T61	Category 1282 1288	ligand
+T62	Chemical 1304 1313	heme ring
+T63	Location 1320 1328	proximal
+T64	Protein_part 1329 1340	Trp residue
+T65	Protein_part 1362 1366	site
+T66	Chemical 1370 1382	free radical
+T67	Process 1383 1392	formation
+T68	Protein 1396 1408	cytochrome c
+T69	Chemical 1409 1430	peroxidase compound I
+T70	Protein 1457 1463	enzyme
+T71	Parameter 1464 1472	activity
+T72	Protein_part 1492 1495	Trp
+T73	Protein 1499 1519	ascorbate peroxidase
+T74	Protein_part 1521 1527	Trp179
+T75	Process 1624 1634	difference
+T76	Protein 1651 1662	peroxidases
+T77	Process 1670 1678	presence
+T78	Chemical 1684 1690	cation
+T79	Process 1691 1698	binding
+T80	Protein_part 1699 1703	site
+T81	Protein 1707 1727	ascorbate peroxidase
+T82	Value 1736 1753	approximately 8 A
+T83	Chemical 1763 1780	alpha-carbon atom
+T84	Protein_part 1784 1790	Trp179

@@ -1,0 +1,54 @@
+T1	Protein 0 16	PKA-I holoenzyme
+T2	Geometrical_part 17 26	structure
+T3	Process 37 46	mechanism
+T4	Chemical 51 55	cAMP
+T5	Process 66 76	activation
+T6	Protein 78 111	Protein kinase A (PKA) holoenzyme
+T7	Protein 132 141	receptors
+T8	Chemical 146 183	cyclic adenosine monophosphate (cAMP)
+T9	Location 194 207	extracellular
+T10	Process 208 216	stimulus
+T11	Process 238 247	signaling
+T12	Process 248 256	response
+T13	Geometrical_part 277 286	structure
+T14	Category 292 299	complex
+T15	Protein 313 316	PKA
+T16	Protein 327 334	subunit
+T17	Protein 341 350	mutant RI
+T18	Protein 362 369	subunit
+T19	Protein 371 392	RIalpha(91-379:R333K)
+T20	Chemical 411 415	cAMP
+T21	Protein_part 424 431	domains
+T22	Process 438 445	binding
+T23	Protein 463 470	subunit
+T24	Unknown 472 474	RI
+T25	State 496 510	conformational
+T26	Process 511 517	change
+T27	Chemical 535 539	cAMP
+T28	Protein_part 548 555	domains
+T29	Body_part 592 596	lobe
+T30	Protein 614 621	subunit
+T31	State 634 648	conformational
+T32	Process 649 663	reorganization
+T33	Process 686 695	mechanism
+T34	Protein 739 746	subunit
+T35	Unknown 752 761	structure
+T36	Protein 777 787	holoenzyme
+T37	Chemical 797 808	salt bridge
+T38	Protein_part 831 839	residues
+T39	Protein_part 841 847	Glu261
+T40	Protein_part 852 858	Arg366
+T41	Chemical 881 888	adenine
+T42	Protein_part 897 905	residues
+T43	Chemical 921 925	cAMP
+T44	Protein_part 934 939	sites
+T45	Physiology 941 952	Mutagenesis
+T46	Protein_part 962 970	residues
+T47	Process 990 1000	importance
+T48	Protein 1005 1008	PKA
+T49	Process 1009 1019	activation
+T50	Process 1064 1075	mutagenesis
+T51	Process 1095 1114	molecular mechanism
+T52	Process 1147 1157	activation
+T53	Protein 1161 1164	PKA
+T54	Chemical 1168 1172	cAMP

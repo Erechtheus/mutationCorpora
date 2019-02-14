@@ -1,0 +1,81 @@
+T1	Unknown 0 9	Structure
+T2	Category 14 20	ligand
+T3	Parameter 21 39	binding properties
+T4	Protein 43 53	myoglobins
+T5	Chemical 73 95	monodepropionated heme
+T6	Process 108 112	role
+T7	Chemical 121 136	heme propionate
+T8	Protein_part 137 147	side chain
+T9	Chemical 153 168	heme propionate
+T10	Protein_part 169 180	side chains
+T11	Location 214 225	7 positions
+T12	Chemical 233 237	heme
+T13	Protein_part 265 270	Arg45
+T14	Protein_part 275 280	Ser92
+T15	Organism 299 310	sperm whale
+T16	Protein 311 320	myoglobin
+T17	Process 338 342	role
+T18	Chemical 351 361	propionate
+T19	Parameter 367 372	kinds
+T20	Protein 387 393	hemins
+T21	Chemical 395 410	6-depropionated
+T22	Chemical 415 430	7-depropionated
+T23	Protein 480 492	apomyoglobin
+T24	Protein 520 528	proteins
+T25	Protein 567 577	myoglobins
+T26	Technique 599 631	X-ray crystallographic  analysis
+T27	Parameter 637 647	resolution
+T28	Value 651 660	1.1-1.4 A
+T29	Technique 665 693	resonance Raman spectroscopy
+T30	Process 717 721	lack
+T31	Chemical 729 741	6-propionate
+T32	Chemical 764 778	hydrogen bonds
+T33	Protein_part 786 797	distal site
+T34	Protein_part 838 851	Arg45 residue
+T35	Protein_part 872 883	Arg45-Asp60
+T36	Process 884 895	interaction
+T37	Process 914 921	removal
+T38	Chemical 929 941	7-propionate
+T39	Process 983 989	change
+T40	Protein_part 997 1005	residues
+T41	Location 1013 1019	distal
+T42	Location 1025 1033	proximal
+T43	Protein_part 1034 1039	sites
+T44	Technique 1054 1077	resonance Raman studies
+T45	Process 1097 1109	coordination
+T46	Chemical 1110 1114	bond
+T47	Parameter 1115 1123	strength
+T48	Chemical 1131 1144	His93-Fe bond
+T49	Protein 1153 1160	protein
+T50	Chemical 1170 1185	7-depropionated
+T51	Protein 1240 1247	protein
+T52	Chemical 1264 1268	heme
+T53	Category 1274 1276	O2
+T54	Category 1281 1283	CO
+T55	Category 1284 1290	ligand
+T56	Process 1291 1298	binding
+T57	Protein 1330 1338	proteins
+T58	Chemical 1359 1364	hemes
+T59	Process 1386 1393	insight
+T60	Process 1414 1418	role
+T61	Chemical 1427 1437	propionate
+T62	Process 1443 1447	lack
+T63	Chemical 1455 1467	6-propionate
+T64	Chemical 1485 1487	O2
+T65	Process 1488 1500	dissociation
+T66	Value 1508 1514	3-fold
+T67	Protein 1571 1579	proteins
+T68	Process 1585 1589	lack
+T69	Chemical 1597 1609	7-propionate
+T70	Unknown 1623 1625	CO
+T71	Parameter 1626 1634	affinity
+T72	Value 1638 1644	2-fold
+T73	Protein 1670 1677	protein
+T74	Chemical 1694 1698	heme
+T75	Chemical 1732 1744	6-propionate
+T76	Process 1772 1785	stabilization
+T77	Chemical 1799 1801	O2
+T78	Chemical 1815 1827	7-propionate
+T79	Process 1847 1851	role
+T80	Process 1859 1869	regulation
+T81	Chemical 1877 1889	Fe-His  bond

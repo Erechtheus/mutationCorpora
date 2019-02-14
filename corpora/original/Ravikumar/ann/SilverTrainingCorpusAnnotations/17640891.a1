@@ -1,0 +1,74 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Molecule 25 36	chromophore
+T3	Process 37 44	binding
+T4	Protein_part 45 51	domain
+T5	Unknown 87 94	RpBphP3
+T6	Protein_part 104 112	residues
+T7	Process 127 142	photoconversion
+T8	Unknown 165 172	RpBphP2
+T9	Unknown 177 184	RpBphP3
+T10	Organism 209 245	bacterium Rhodopseudomonas palustris
+T11	Process 273 282	synthesis
+T12	Unknown 307 318	complex LH4
+T13	Process 322 330	response
+T14	Unknown 350 357	RpBphP2
+T15	Unknown 362 369	RpBphP3
+T16	Protein_part 385 401	domain structure
+T17	Value 407 410	52%
+T18	Parameter 411 428	sequence identity
+T19	Process 456 471	photoconversion
+T20	Unknown 483 490	RpBphP2
+T21	Protein 516 527	phytochrome
+T22	Physiology 529 537	behavior
+T23	Process 552 567	photoconversion
+T24	Parameter 580 584	(Pr)
+T25	State 619 625	states
+T26	Unknown 635 642	RpBphP3
+T27	Process 658 673	photoconversion
+T28	Chemical 682 684	Pr
+T29	State 722 728	states
+T30	Geometrical_part 753 770	crystal structure
+T31	Value 774 779	2.2-A
+T32	Parameter 780 790	resolution
+T33	Molecule 798 809	chromophore
+T34	Process 810 817	binding
+T35	Protein_part 818 825	domains
+T36	Unknown 829 836	RpBphP3
+T37	Molecule 860 871	chromophore
+T38	Chemical 872 882	biliverdin
+T39	Unknown 883 890	IXalpha
+T40	Technique 920 937	sequence analyses
+T41	Technique 943 968	site-directed mutagenesis
+T42	Protein_part 986 994	residues
+T43	Parameter 1036 1046	properties
+T44	Unknown 1050 1057	RpBphP3
+T45	Unknown 1062 1069	RpBphP2
+T46	Protein_part 1097 1103	region
+T47	Protein_part 1113 1129	residues 207-212
+T48	Unknown 1133 1140	RpBphP3
+T49	Process 1160 1168	mutation
+T50	Process 1170 1175	L207Y
+T51	Physiology 1245 1254	phenotype
+T52	Process 1281 1296	photoconversion
+T53	Chemical 1309 1311	Pr
+T54	Unknown 1317 1320	Pfr
+T55	State 1321 1327	states
+T56	Process 1333 1349	reverse mutation
+T57	Protein_part 1351 1356	Y193L
+T58	Protein_part 1379 1385	region
+T59	Unknown 1389 1396	RpBphP2
+T60	Process 1426 1435	formation
+T61	Unknown 1443 1446	Pfr
+T62	State 1447 1452	state
+T63	Protein_part 1470 1486	residues 207-212
+T64	Location 1505 1513	adjacent
+T65	Protein_part 1524 1532	residues
+T66	Protein_part 1534 1541	Asp-216
+T67	Protein_part 1546 1553	Tyr-272
+T68	Molecule 1573 1584	chromophore
+T69	Geometrical_part 1594 1598	part
+T70	Molecule 1628 1639	chromophore
+T71	Process 1640 1647	binding
+T72	Protein_part 1648 1655	domains
+T73	Protein_part 1664 1674	PHY domain
+T74	Process 1690 1705	photoconversion

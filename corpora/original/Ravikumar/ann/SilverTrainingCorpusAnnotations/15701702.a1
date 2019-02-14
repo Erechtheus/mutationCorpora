@@ -1,0 +1,87 @@
+T1	Protein 0 7	Protein
+T2	Process 8 19	recognition
+T3	Chemical 23 34	macrocycles
+T4	Process 36 43	binding
+T5	Protein 47 55	anti-HIV
+T6	Protein 74 82	lysozyme
+T7	Physiology 100 109	antiviral
+T8	Chemical 110 129	drug xylyl-bicyclam
+T9	Process 137 142	entry
+T10	Organism 146 149	HIV
+T11	Body_part 155 160	cells
+T12	Protein 178 194	CXCR4 coreceptor
+T13	Protein 198 250	seven-helix transmembrane G-protein-coupled receptor
+T14	Parameter 256 264	affinity
+T15	Protein 269 274	CXCR4
+T16	Process 290 297	binding
+T17	Chemical 301 305	Cu2+
+T18	Chemical 307 311	Ni2+
+T19	Chemical 316 320	Zn2+
+T20	Protein 379 387	proteins
+T21	Process 435 449	configurations
+T22	Protein 466 474	lysozyme
+T23	Process 526 538	interactions
+T24	Protein 562 570	receptor
+T25	Process 571 582	recognition
+T26	Chemical 584 592	Solution
+T27	Technique 593 596	NMR
+T28	Chemical 615 624	Cu-cyclam
+T29	Protein_part 649 668	tryptophan residues
+T30	Protein 672 680	lysozyme
+T31	Protein_part 682 688	Trp-62
+T32	Protein_part 690 696	Trp-63
+T33	Protein_part 702 709	Trp-123
+T34	Process 722 729	binding
+T35	Protein_part 730 735	sites
+T36	Chemical 745 754	Cu-cyclam
+T37	Chemical 759 777	Cu2-xylyl-bicyclam
+T38	Technique 796 817	x-ray crystallography
+T39	Protein_part 826 836	first site
+T40	Chemical 838 842	Cu2+
+T41	Geometrical_part 857 861	ring
+T42	Chemical 866 884	Cu2-xylyl-bicyclam
+T43	Geometrical_part 894 899	trans
+T44	Process 900 913	configuration
+T45	Chemical 938 956	carboxylate oxygen
+T46	Protein_part 960 967	Asp-101
+T47	Chemical 981 990	Cu-cyclam
+T48	Geometrical_part 995 1002	ring NH
+T49	Molecular_Part 1003 1009	groups
+T50	Chemical 1015 1022	H bonds
+T51	Chemical 1030 1049	carboxylate oxygens
+T52	Protein_part 1053 1060	Asp-101
+T53	Geometrical_part 1085 1088	cis
+T54	Process 1106 1119	configuration
+T55	Category 1130 1139	complexes
+T56	Protein_part 1148 1152	site
+T57	Geometrical_part 1163 1167	ring
+T58	Chemical 1194 1200	indole
+T59	Protein_part 1201 1212	side chains
+T60	Protein_part 1220 1239	tryptophan residues
+T61	Protein_part 1241 1247	Trp-62
+T62	Protein_part 1253 1259	Trp-63
+T63	Protein_part 1269 1280	second site
+T64	Geometrical_part 1284 1289	trans
+T65	Geometrical_part 1297 1301	ring
+T66	Protein_part 1316 1323	Trp-123
+T67	Unknown 1328 1329	H
+T68	Chemical 1353 1361	carbonyl
+T69	Protein_part 1365 1372	Gly-117
+T70	Geometrical_part 1398 1404	pocket
+T71	Organism 1423 1428	human
+T72	Protein 1429 1445	CXCR4 coreceptor
+T73	Geometrical_part 1455 1460	trans
+T74	Geometrical_part 1465 1468	cis
+T75	Process 1469 1483	configurations
+T76	Chemical 1487 1492	metal
+T77	Process 1528 1540	coordination
+T78	Chemical 1544 1555	carboxylate
+T79	Protein_part 1556 1567	side chains
+T80	Chemical 1569 1594	cyclam-NH...carboxylate H
+T81	Process 1595 1602	bonding
+T82	Process 1630 1642	interactions
+T83	Protein_part 1648 1667	tryptophan residues
+T84	Process 1704 1709	basis
+T85	Chemical 1728 1739	macrocycles
+T86	Protein 1772 1773	G
+T87	Protein 1792 1809	protein receptors

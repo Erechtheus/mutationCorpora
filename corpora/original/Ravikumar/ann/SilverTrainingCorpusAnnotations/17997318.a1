@@ -1,0 +1,27 @@
+T1	Unknown 0 9	Structure
+T2	Process 16 28	optimization
+T3	Unknown 32 52	cephalothin-analogue
+T4	Chemical 61 66	acids
+T5	Protein 70 84	beta-lactamase
+T6	Category 85 95	inhibitors
+T7	Chemical 97 110	Boronic acids
+T8	Category 149 159	inhibitors
+T9	Protein 163 178	beta-lactamases
+T10	State 190 206	transition state
+T11	Unknown 207 216	analogues
+T12	Category 265 274	inhibitor
+T13	Protein 278 297	AmpC beta-lactamase
+T14	Category 309 319	inhibitors
+T15	Process 342 354	interactions
+T16	Protein_part 377 385	residues
+T17	Protein_part 395 401	Asn343
+T18	Protein 435 441	enzyme
+T19	Process 492 501	synthesis
+T20	Molecular_Part 531 544	anionic group
+T21	Chemical 554 565	carboxylate
+T22	Process 566 573	binding
+T23	Protein_part 574 578	site
+T24	Protein 586 592	enzyme
+T25	Technique 609 630	X-ray crystallography
+T26	Unknown 638 660	complex inhibitor/AmpC
+T27	Parameter 699 707	affinity

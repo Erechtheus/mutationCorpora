@@ -1,0 +1,12 @@
+Ribosomal protein S4 from Escherichia coli binds a large domain of 16 S ribosomal RNA and also a pseudoknot structure in the alpha operon mRNA, where it represses its own synthesis . 
+No similarity between the two RNA binding sites has been detected . 
+To find out whether separate protein regions are responsible for rRNA and mRNA recognition, proteins with N-terminal or C-terminal deletions have been overexpressed and purified . 
+Protein-mRNA interactions were detected by (i) a nitrocellulose filter binding assay, (ii) inhibition of primer extension by reverse transcriptase, and (iii) a gel shift assay . 
+Circular dichroism spectra were taken to determine whether the proteins adopted stable secondary structures . 
+From these studies it is concluded that amino acids 48-104 make specific contacts with the mRNA, although residues 105-177 (out of 205) are required to observe the same toeprint pattern as full-length protein and may stabilize a specific portion of the mRNA structure . 
+These results parallel ribosomal RNA binding properties of similar fragments (Conrad, R . 
+C., and Craven, G . 
+R . 
+(1987) Nucleic Acids Res . 
+15, 10331-10343, and references therein) . 
+It appears that the same protein domain is responsible for both mRNA and rRNA binding activities . 

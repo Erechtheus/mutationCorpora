@@ -1,0 +1,103 @@
+T1	Process 11 16	basis
+T2	Process 21 30	catalysis
+T3	Protein 34 42	onconase
+T4	Protein 44 52	Onconase
+T5	Protein 54 57	ONC
+T6	Protein 64 71	homolog
+T7	Organism 75 81	bovine
+T8	Body_part 82 92	pancreatic
+T9	Protein 93 105	ribonuclease
+T10	Protein 107 114	RNase A
+T11	Organism 126 143	frog Rana pipiens
+T12	Protein 145 148	ONC
+T13	Parameter 170 178	activity
+T14	Technique 198 214	clinical  trials
+T15	Process 223 232	treatment
+T16	Physiology 236 242	cancer
+T17	Unknown 277 287	structures
+T18	Chemical 291 307	ONC-nucleic acid
+T19	Category 308 317	complexes
+T20	Chemical 321 341	T89N/E91A ONC-5'-AMP
+T21	Category 342 349	complex
+T22	Value 353 359	1.65 A
+T23	Parameter 360 370	resolution
+T24	Unknown 377 398	wild-type ONC-d(AUGA)
+T25	Category 399 406	complex
+T26	Value 410 416	1.90 A
+T27	Parameter 417 427	resolution
+T28	Unknown 440 449	structure
+T29	Technique 454 479	site-directed mutagenesis
+T30	Process 511 516	basis
+T31	Category 522 531	substrate
+T32	Process 532 543	recognition
+T33	Process 548 556	turnover
+T34	Protein 560 563	ONC
+T35	Protein_part 569 577	residues
+T36	Protein 581 584	ONC
+T37	Location 594 602	proximal
+T38	Chemical 620 639	phosphodiester bond
+T39	Protein_part 641 646	His10
+T40	Protein_part 648 653	Lys31
+T41	Protein_part 659 664	His97
+T42	Chemical 670 676	uracil
+T43	Protein_part 689 694	Thr35
+T44	Protein_part 696 701	Asp67
+T45	Protein_part 707 712	Phe98
+T46	Protein 733 740	RNase A
+T47	Parameter 785 787	pH
+T48	Parameter 795 806	k(cat)/K(M)
+T49	Protein 819 822	RNA
+T50	Process 823 831	cleavage
+T51	Protein_part 833 838	Glu91
+T52	Protein 842 845	ONC
+T53	Chemical 856 870	hydrogen bonds
+T54	Chemical 880 887	guanine
+T55	Unknown 902 909	d(AUGA)
+T56	Protein_part 915 920	Thr89
+T57	Protein_part 997 1004	residue
+T58	Location 1008 1019	position 91
+T59	Protein_part 1026 1044	asparagine residue
+T60	Location 1048 1059	position 89
+T61	Value 1085 1095	10(2)-fold
+T62	Chemical 1096 1111	guanine:adenine
+T63	Protein 1126 1129	ONC
+T64	Unknown 1133 1140	variant
+T65	Process 1160 1173	substitutions
+T66	Process 1175 1188	T89N/E91A ONC
+T67	Chemical 1209 1216	adenine
+T68	Chemical 1222 1229	guanine
+T69	Protein_part 1258 1274	arginine residue
+T70	Location 1278 1289	position 91
+T71	Chemical 1304 1311	guanine
+T72	Unknown 1339 1350	ONC variant
+T73	Parameter 1374 1391	k(cat)/K(M) value
+T74	Protein 1418 1421	ONC
+T75	Chemical 1444 1451	guanine
+T76	Chemical 1456 1463	adenine
+T77	Unknown 1474 1483	Coulombic
+T78	Process 1484 1496	interactions
+T79	Physiology 1503 1510	network
+T80	Chemical 1514 1528	hydrogen bonds
+T81	Unknown 1534 1543	structure
+T82	Unknown 1551 1562	ONC-d(AUGA)
+T83	Category 1563 1570	complex
+T84	Molecular_Part 1588 1593	probe
+T85	Process 1611 1620	catalysis
+T86	Protein_part 1639 1642	T5R
+T87	Process 1643 1655	substitution
+T88	Unknown 1688 1697	Coulombic
+T89	Process 1698 1709	interaction
+T90	Protein 1718 1721	ONC
+T91	Chemical 1728 1738	phosphoryl
+T92	Molecular_Part 1739 1744	group
+T93	Protein 1748 1751	RNA
+T94	Parameter 1780 1788	activity
+T95	Value 1792 1799	twofold
+T96	Unknown 1804 1811	variant
+T97	Organism 1840 1845	human
+T98	Body_part 1846 1858	cancer cells
+T99	Protein 1864 1877	wild-type ONC
+T100	Process 1941 1950	catalysis
+T101	Protein 1954 1957	RNA
+T102	Process 1958 1966	cleavage
+T103	Unknown 1972 1978	system

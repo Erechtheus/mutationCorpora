@@ -1,0 +1,84 @@
+T1	Protein 0 11	Light chain
+T2	Body_part 12 19	somatic
+T3	Process 20 29	mutations
+T4	Process 30 36	change
+T5	Process 55 62	binding
+T6	Chemical 67 72	water
+T7	Process 73 85	coordination
+T8	Unknown 93 108	HyHEL-10 family
+T9	Molecule 112 122	antibodies
+T10	Parameter 185 193	affinity
+T11	Protein 201 208	L-chain
+T12	Body_part 209 216	somatic
+T13	Process 217 226	mutations
+T14	Unknown 234 249	HyHEL-10 family
+T15	Parameter 253 261	affinity
+T16	Protein 270 284	IgG antibodies
+T17	Chemical 292 295	ITC
+T18	Unknown 297 300	SPR
+T19	Technique 312 325	Hoff analysis
+T20	Technique 331 352	X-ray crystallography
+T21	Molecule 384 392	antibody
+T22	Molecule 393 399	H26L26
+T23	Protein 405 411	H26L10
+T24	Molecule 416 430	H26L8 chimeras
+T25	Protein 442 450	lysozyme
+T26	Process 461 469	increase
+T27	Parameter 483 492	DeltaG(o)
+T28	Value 496 520	-1.2+/-0.1 kcal  mol(-1)
+T29	Value 525 548	-1.3+/-0.1 kcal mol(-1)
+T30	Parameter 576 584	affinity
+T31	Molecule 592 606	H26L10 chimera
+T32	Process 624 632	increase
+T33	Parameter 646 654	enthalpy
+T34	Process 655 661	change
+T35	Process 674 684	difference
+T36	Process 688 694	change
+T37	Parameter 698 705	entropy
+T38	Molecule 718 724	H26L26
+T39	Molecule 730 743	H26L8 chimera
+T40	Process 767 775	increase
+T41	Parameter 789 797	enthalpy
+T42	Process 817 825	increase
+T43	Parameter 841 848	entropy
+T44	Process 849 855	change
+T45	Parameter 888 898	affinities
+T46	Molecule 907 915	chimeras
+T47	Protein_part 945 949	Site
+T48	Protein 959 974	L-chain mutants
+T49	Body_part 997 1004	somatic
+T50	Process 1005 1013	mutation
+T51	Protein_part 1014 1018	S30G
+T52	Parameter 1061 1069	affinity
+T53	Protein 1073 1081	lysozyme
+T54	Process 1088 1096	mutation
+T55	Protein 1119 1126	H-chain
+T56	Body_part 1127 1134	somatic
+T57	Process 1135 1144	mutations
+T58	Protein_part 1146 1153	Residue
+T59	Value 1154 1157	30L
+T60	Process 1185 1192	binding
+T61	Protein_part 1207 1211	S30G
+T62	Process 1223 1231	increase
+T63	Parameter 1235 1249	hydrophobicity
+T64	Process 1254 1262	decrease
+T65	Parameter 1266 1267	H
+T66	Parameter 1288 1292	size
+T67	Protein 1344 1351	antigen
+T68	Process 1352 1360	contacts
+T69	Value 1368 1373	1.2-A
+T70	Unknown 1374 1383	structure
+T71	Unknown 1391 1401	H10L10-HEL
+T72	Category 1402 1409	complex
+T73	Process 1417 1424	changes
+T74	Chemical 1476 1481	water
+T75	Process 1528 1539	alterations
+T76	Process 1549 1556	binding
+T77	Protein 1583 1593	H26L26-HEL
+T78	Category 1594 1601	complex
+T79	Unknown 1669 1678	structure
+T80	Process 1729 1738	mutations
+T81	Process 1797 1804	binding
+T82	Chemical 1884 1889	water
+T83	Protein 1948 1964	antibody-antigen
+T84	Process 1965 1976	interaction

@@ -1,0 +1,75 @@
+T1	Unknown 0 10	Structures
+T2	Chemical 18 30	carbohydrate
+T3	Protein_part 31 49	recognition domain
+T4	Chemical 53 57	Ca2+
+T5	Protein 76 92	receptors Emp46p
+T6	Protein 97 103	Emp47p
+T7	Protein 105 111	Emp46p
+T8	Protein 116 122	Emp47p
+T9	Protein 127 151	type I membrane proteins
+T10	Body_part 177 203	endoplasmic reticulum (ER)
+T11	Body_part 212 227	Golgi apparatus
+T12	Body_part 231 239	vesicles
+T13	Protein 257 264	protein
+T14	Category 265 274	complexes
+T15	Unknown 275 276	I
+T16	Unknown 281 283	II
+T17	Unknown 285 289	COPI
+T18	Unknown 294 299	COPII
+T19	Protein 343 352	receptors
+T20	Protein 367 389	N-linked glycoproteins
+T21	Body_part 399 401	ER
+T22	Geometrical_part 422 440	crystal structures
+T23	Protein_part 448 487	carbohydrate recognition domains (CRDs)
+T24	Protein 491 497	Emp46p
+T25	Protein 502 508	Emp47p
+T26	Organism 512 536	Saccharomyces cerevisiae
+T27	Process 545 552	absence
+T28	Process 557 565	presence
+T29	Chemical 569 579	metal ions
+T30	Protein 586 594	proteins
+T31	Geometrical_part 605 618	beta-sandwich
+T32	Organism 645 654	mammalian
+T33	Protein 655 663	ortholog
+T34	Body_part 665 677	p58/ERGIC-53
+T35	Chemical 702 707	metal
+T36	Process 708 715	binding
+T37	Chemical 741 747	Ca(2+)
+T38	Body_part 758 770	p58/ERGIC-53
+T39	Protein_part 791 794	CRD
+T40	Protein 798 804	Emp46p
+T41	Chemical 819 829	Ca(2+) ion
+T42	Chemical 848 856	K(+) ion
+T43	Protein_part 882 892	beta-sheet
+T44	Protein_part 943 947	site
+T45	Chemical 956 966	Ca(2+) ion
+T46	Body_part 970 982	p58/ERGIC-53
+T47	Process 984 991	Binding
+T48	Chemical 995 1003	K(+) ion
+T49	Protein 1007 1013	Emp46p
+T50	Process 1036 1045	transport
+T51	Protein 1061 1074	glycoproteins
+T52	Protein_part 1087 1092	Y131F
+T53	Molecule 1093 1099	mutant
+T54	Protein 1103 1109	Emp46p
+T55	Chemical 1130 1138	K(+) ion
+T56	Process 1159 1168	transport
+T57	Protein 1187 1192	EMP46
+T58	Protein 1197 1208	EMP47 genes
+T59	Protein_part 1226 1229	CRD
+T60	Protein 1233 1239	Emp47p
+T61	Chemical 1249 1259	metal ions
+T62	Protein_part 1285 1288	CRD
+T63	Protein 1292 1298	Emp46p
+T64	Protein 1308 1321	glycoproteins
+T65	Protein 1336 1355	mannosetype glycans
+T66	Process 1379 1386	binding
+T67	Process 1395 1403	addition
+T68	Chemical 1407 1413	Ca(2+)
+T69	Chemical 1417 1425	K(+) ion
+T70	Protein 1457 1463	Emp46p
+T71	Chemical 1485 1491	Ca(2+)
+T72	Protein 1504 1524	intracellular lectin
+T73	Body_part 1532 1534	ER
+T74	Location 1535 1539	exit
+T75	Protein_part 1540 1545	sites

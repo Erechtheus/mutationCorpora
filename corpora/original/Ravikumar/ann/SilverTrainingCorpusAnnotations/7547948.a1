@@ -1,0 +1,70 @@
+T1	Protein_part 0 13	Reactive-site
+T2	Category 25 61	Cucurbita maxima trypsin inhibitor-V
+T3	Process 63 71	function
+T4	State 87 96	stability
+T5	Technique 102 105	NMR
+T6	Geometrical_part 106 124	solution structure
+T7	Protein_part 126 139	Reactive-site
+T8	Protein_part 141 152	Lys44-Asp45
+T9	Chemical 153 165	peptide bond
+T10	Category 178 224	Cucurbita maxima trypsin inhibitor-V (CMTI-V*)
+T11	Process 260 270	comparison
+T12	Category 291 298	CMTI-V*
+T13	Parameter 326 347	inhibitory properties
+T14	Parameter 352 370	binding affinities
+T15	Protein 378 385	trypsin
+T16	Organism 390 395	human
+T17	Body_part 396 401	blood
+T18	Protein 402 425	coagulation factor XIIa
+T19	Parameter 431 451	equilibrium constant
+T20	Protein 455 462	trypsin
+T21	Process 473 483	hydrolysis
+T22	Parameter 485 489	Khyd
+T23	Category 502 520	[CMTI-V*]/[CMTI-V]
+T24	Value 541 558	approximately 9.4
+T25	Value 562 574	25 degrees C
+T26	Protein 576 583	delta G
+T27	Parameter 584 591	degrees
+T28	Value 594 609	-1.3 kcal.mol-1
+T29	Parameter 621 632	temperature
+T30	Protein 647 654	delta G
+T31	Parameter 692 702	parameters
+T32	Protein 719 726	delta H
+T33	Parameter 727 734	degrees
+T34	Value 737 751	1.6 kcal.mol-1
+T35	Protein 756 763	delta S
+T36	Parameter 764 771	degrees
+T37	Value 774 777	9.8
+T38	Process 838 849	differences
+T39	Geometrical_part 895 913	solution structure
+T40	Category 917 924	CMTI-V*
+T41	Technique 966 969	NMR
+T42	Parameter 971 979	distance
+T43	Geometrical_part 980 988	geometry
+T44	Protein_part 1039 1047	sequence
+T45	Technique 1076 1085	resonance
+T46	Process 1086 1097	assignments
+T47	Chemical 1145 1162	epsilon-hydrogens
+T48	Chemical 1167 1190	valine methyl hydrogens
+T49	Parameter 1210 1219	distances
+T50	Parameter 1237 1242	angle
+T51	Process 1289 1300	computation
+T52	Parameter 1305 1311	energy
+T53	Unknown 1331 1341	structures
+T54	Category 1346 1353	CMTI-V*
+T55	Parameter 1359 1366	average
+T56	Body_part 1367 1371	root
+T57	Parameter 1372 1376	mean
+T58	Process 1385 1394	deviation
+T59	Chemical 1422 1427	atoms
+T60	Organism 1443 1453	individual
+T61	Unknown 1454 1464	structures
+T62	Parameter 1473 1477	mean
+T63	Unknown 1478 1487	structure
+T64	Value 1531 1546	0.67 +/- 0.15 A
+T65	Protein_part 1555 1565	main chain
+T66	Chemical 1566 1571	atoms
+T67	Value 1576 1591	1.19 +/- 0.23 A
+T68	Chemical 1604 1622	non-hydrogen atoms
+T69	Protein_part 1626 1639	residues 5-40
+T70	Protein_part 1644 1658	residues 48-67

@@ -1,0 +1,89 @@
+T1	Chemical 0 14	Nylon-oligomer
+T2	Category 42 49	complex
+T3	Process 51 70	catalytic mechanism
+T4	Protein 74 96	6-aminohexanoate-dimer
+T5	Protein 97 106	hydrolase
+T6	Technique 121 152	X-ray crystallographic analyses
+T7	Protein 156 178	6-aminohexanoate-dimer
+T8	Protein 179 188	hydrolase
+T9	Protein 191 199	Hyb-24DN
+T10	Protein 205 211	enzyme
+T11	Process 232 243	degradation
+T12	Chemical 247 254	nylon-6
+T13	Category 289 296	complex
+T14	Protein 305 320	Hyb-24DN-A(112)
+T15	Protein 322 334	S112A-mutant
+T16	Protein 338 346	Hyb-24DN
+T17	Protein 352 387	6-aminohexanoate-linear dimer (Ald)
+T18	Value 391 397	1.58 A
+T19	Value 402 407	1.4 A
+T20	Parameter 408 418	resolution
+T21	Protein 437 445	Hyb-24DN
+T22	Unknown 447 462	Asp181-O(delta)
+T23	Chemical 469 483	hydrogen bonds
+T24	Unknown 489 502	Tyr170-O(eta)
+T25	Process 530 537	binding
+T26	Protein_part 538 549	amino acids
+T27	Geometrical_part 557 561	loop
+T28	Protein_part 571 577	Asn167
+T29	Protein_part 582 588	Val177
+T30	State 595 600	state
+T31	Category 642 651	substrate
+T32	Geometrical_part 686 690	loop
+T33	Protein_part 705 713	residues
+T34	Category 720 729	substrate
+T35	Process 730 737	binding
+T36	Protein 742 761	Hyb-24DN-A(112)/Ald
+T37	Category 762 769	complex
+T38	Geometrical_part 776 780	loop
+T39	Value 792 797	4.3 A
+T40	Unknown 801 816	Tyr170-C(alpha)
+T41	Protein_part 826 836	side-chain
+T42	Protein_part 840 846	Tyr170
+T43	Process 875 881	effect
+T44	Unknown 883 896	Tyr170-O(eta)
+T45	Value 914 920	10.5 A
+T46	Process 939 948	formation
+T47	Chemical 952 966	hydrogen bonds
+T48	Chemical 976 984	nitrogen
+T49	Protein_part 988 1001	amide linkage
+T50	Protein 1005 1008	Ald
+T51	Process 1051 1062	interaction
+T52	Unknown 1071 1086	Asp181-O(delta)
+T53	Chemical 1095 1100	amino
+T54	Molecular_Part 1101 1106	group
+T55	Protein 1110 1113	Ald
+T56	Category 1129 1138	substrate
+T57	Process 1139 1146	binding
+T58	Protein 1173 1179	enzyme
+T59	Process 1180 1189	catalysis
+T60	Protein 1237 1240	Ald
+T61	Process 1249 1259	transition
+T62	Protein_part 1314 1320	Ser112
+T63	Protein 1324 1327	Ald
+T64	Process 1332 1341	formation
+T65	Molecule 1359 1371	intermediate
+T66	Process 1379 1388	formation
+T67	Protein 1392 1403	acyl enzyme
+T68	Process 1408 1418	transition
+T69	Process 1438 1449	deacylation
+T70	Protein_part 1451 1461	Amino acid
+T71	Process 1462 1475	substitutions
+T72	Protein 1489 1499	enzyme/Ald
+T73	Process 1500 1511	interaction
+T74	Location 1515 1528	positions 181
+T75	Location 1532 1535	170
+T76	Protein 1562 1576	Ald-hydrolytic
+T77	Parameter 1577 1585	activity
+T78	Process 1607 1613	effect
+T79	Chemical 1617 1628	esterolytic
+T80	Parameter 1629 1637	activity
+T81	Chemical 1655 1666	esterolytic
+T82	Process 1667 1675	reaction
+T83	Process 1699 1709	conversion
+T84	Parameter 1745 1753	activity
+T85	Protein 1766 1780	nylon oligomer
+T86	Protein 1799 1807	esterase
+T87	Protein 1813 1827	beta-lactamase
+T88	Chemical 1864 1875	esterolytic
+T89	Process 1876 1885	functions

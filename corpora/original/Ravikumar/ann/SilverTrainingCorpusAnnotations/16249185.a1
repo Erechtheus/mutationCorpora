@@ -1,0 +1,92 @@
+T1	Unknown 4 13	structure
+T2	Protein 25 31	ROCK I
+T3	Process 44 53	mechanism
+T4	Category 58 64	ligand
+T5	Parameter 65 76	selectivity
+T6	Protein 78 82	ROCK
+T7	Protein 86 89	Rho
+T8	Protein 101 107	kinase
+T9	Protein 111 134	serine/threonine kinase
+T10	Protein 154 157	Rho
+T11	Process 168 177	signaling
+T12	Body_part 197 215	actin-cytoskeleton
+T13	Process 216 224	assembly
+T14	Body_part 229 233	cell
+T15	Process 234 242	motility
+T16	Process 247 258	contraction
+T17	Protein 264 276	ROCK protein
+T18	Protein_part 297 304	domains
+T19	Protein_part 309 326	N-terminal region
+T20	Protein 330 336	kinase
+T21	Protein_part 337 353	catalytic domain
+T22	Protein_part 357 375	coiled-coil domain
+T23	Protein 389 393	RhoA
+T24	Process 394 401	binding
+T25	Protein_part 402 406	site
+T26	Protein 414 424	pleckstrin
+T27	Protein_part 434 440	domain
+T28	Protein_part 446 463	C-terminal region
+T29	Protein 467 471	ROCK
+T30	Protein 498 504	kinase
+T31	Protein_part 505 522	catalytic domains
+T32	Process 533 543	inhibition
+T33	Protein 559 571	binding RhoA
+T34	Protein 575 587	small GTPase
+T35	Geometrical_part 609 618	structure
+T36	Protein_part 626 643	N-terminal region
+T37	Protein 652 658	kinase
+T38	Protein_part 659 665	domain
+T39	Unknown 674 683	structure
+T40	Protein_part 689 707	N-terminal regions
+T41	Process 727 739	dimerization
+T42	Protein_part 740 746	domain
+T43	Protein 759 765	kinase
+T44	Protein_part 766 773	domains
+T45	Process 798 809	arrangement
+T46	Protein 823 829	kinase
+T47	Protein_part 830 842	active sites
+T48	Protein_part 858 867	sequences
+T49	Body_part 881 885	face
+T50	Protein 920 927	kinases
+T51	Protein_part 981 987	domain
+T52	Category 1006 1015	substrate
+T53	Protein 1021 1027	kinase
+T54	Protein_part 1028 1034	domain
+T55	State 1068 1080	conformation
+T56	Process 1094 1109	phosphorylation
+T57	Protein_part 1113 1133	active site residues
+T58	Unknown 1153 1162	structure
+T59	Geometrical_part 1187 1197	structures
+T60	Protein 1201 1205	ROCK
+T61	Process 1220 1229	different
+T62	Chemical 1230 1233	ATP
+T63	Molecule 1252 1260	molecule
+T64	Category 1261 1271	inhibitors
+T65	Chemical 1291 1305	hydroxyfasudil
+T66	Category 1311 1318	H-1152P
+T67	Chemical 1335 1344	compounds
+T68	Parameter 1364 1372	affinity
+T69	Chemical 1376 1380	cAMP
+T70	Protein 1391 1397	kinase
+T71	Protein 1399 1402	PKA
+T72	Protein 1414 1431	homologous kinase
+T73	Process 1440 1451	differences
+T74	Protein 1470 1475	ROCK-
+T75	Protein 1480 1483	PKA
+T76	State 1490 1503	conformations
+T77	Category 1511 1521	inhibitors
+T78	Process 1540 1552	interactions
+T79	Protein_part 1567 1577	amino acid
+T80	Protein_part 1585 1596	active site
+T81	Protein_part 1598 1604	Ala215
+T82	Protein 1608 1612	ROCK
+T83	Protein_part 1617 1623	Thr183
+T84	Protein 1627 1630	PKA
+T85	Parameter 1655 1666	selectivity
+T86	Chemical 1676 1685	compounds
+T87	Chemical 1687 1701	Hydroxyfasudil
+T88	Chemical 1705 1715	metabolite
+T89	Protein 1749 1753	ROCK
+T90	Protein 1759 1762	PKA
+T91	Process 1782 1789	binding
+T92	Process 1790 1801	orientation

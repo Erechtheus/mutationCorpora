@@ -1,0 +1,62 @@
+T1	Technique 9 34	crystallographic analysis
+T2	Protein_part 54 66	CCA sequence
+T3	Process 67 75	addition
+T4	Unknown 77 80	CCA
+T5	Protein 88 98	polymerase
+T6	Protein_part 121 136	3'-CCA terminus
+T7	Protein 140 152	transfer RNA
+T8	Chemical 165 186	nucleic-acid template
+T9	Chemical 232 255	nucleotide triphosphate
+T10	Process 276 284	reaction
+T11	Process 302 316	polymerization
+T12	Protein 334 341	protein
+T13	Protein 346 349	RNA
+T14	Geometrical_part 421 431	structures
+T15	Unknown 435 438	CCA
+T16	Protein 446 452	enzyme
+T17	Protein 472 475	RNA
+T18	Category 476 486	substrates
+T19	Chemical 504 531	CTP (cytosine triphosphate)
+T20	Chemical 535 564	ATP  (adenosine triphosphate)
+T21	Unknown 570 573	CCA
+T22	Protein 582 585	RNA
+T23	Body_part 586 590	stem
+T24	Protein_part 606 615	base pair
+T25	Parameter 619 624	force
+T26	Chemical 643 653	nucleoside
+T27	Protein_part 663 681	active-site pocket
+T28	Process 710 723	incorporation
+T29	Chemical 737 765	cytosine monophosphate (CMP)
+T30	Process 767 780	Accommodation
+T31	Chemical 795 798	CTP
+T32	Geometrical_part 820 825	cleft
+T33	Process 838 851	reorientation
+T34	Protein_part 877 880	C74
+T35	Chemical 890 893	CMP
+T36	Chemical 941 944	CMP
+T37	Protein 959 969	polymerase
+T38	Protein 974 977	RNA
+T39	Molecular_Part 978 984	primer
+T40	State 1003 1015	closed state
+T41	Process 1048 1056	addition
+T42	Chemical 1070 1074	CTP-
+T43	Chemical 1079 1082	ATP
+T44	Protein_part 1103 1113	side-chain
+T45	State 1114 1126	conformation
+T46	Protein_part 1130 1137	Arg 224
+T47	Process 1138 1145	changes
+T48	Process 1189 1195	motion
+T49	Protein 1203 1209	enzyme
+T50	Molecular_Part 1230 1236	primer
+T51	Protein_part 1237 1245	terminus
+T52	Chemical 1276 1283	CTP/ATP
+T53	Process 1284 1298	discrimination
+T54	Process 1317 1331	polymerization
+T55	Unknown 1354 1357	CCA
+T56	Process 1365 1373	reaction
+T57	Protein 1379 1385	enzyme
+T58	Protein_part 1386 1397	tail domain
+T59	Unknown 1417 1427	TPsiC-loop
+T60	Protein 1435 1439	tRNA
+T61	Process 1464 1478	polymerization
+T62	Process 1483 1494	termination

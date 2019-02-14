@@ -1,0 +1,112 @@
+T1	Process 11 18	insight
+T2	Parameter 24 26	pH
+T3	State 35 49	conformational
+T4	Process 50 57	changes
+T5	Organism 69 81	native human
+T6	Protein 82 104	transthyretin tetramer
+T7	Process 106 119	Acidification
+T8	Protein 127 155	transthyretin (TTR) tetramer
+T9	Process 168 180	dissociation
+T10	State 185 199	conformational
+T11	Process 200 207	changes
+T12	Protein 215 222	protein
+T13	Protein 254 262	monomers
+T14	Chemical 296 303	amyloid
+T15	Body_part 304 310	fibers
+T16	Process 325 339	polymerization
+T17	Process 340 349	mechanism
+T18	Process 379 388	influence
+T19	Process 392 405	acidification
+T20	Geometrical_part 413 423	quaternary
+T21	Geometrical_part 428 447	tertiary structures
+T22	Protein 451 454	TTR
+T23	Geometrical_part 456 474	crystal structures
+T24	Organism 488 493	human
+T25	Protein 495 498	TTR
+T26	Parameter 502 504	pH
+T27	Value 505 508	4.0
+T28	Parameter 513 515	pH
+T29	Value 516 519	3.5
+T30	Value 544 549	1.7 A
+T31	Parameter 550 560	resolution
+T32	Parameter 566 575	acidic pH
+T33	Unknown 577 585	crystals
+T34	Protein 637 640	TTR
+T35	Geometrical_part 641 651	structures
+T36	Protein 668 676	subunits
+T37	Protein 721 731	B subunits
+T38	Protein 747 755	tetramer
+T39	Technique 764 780	crystallographic
+T40	Geometrical_part 781 789	symmetry
+T41	Parameter 795 797	pH
+T42	Value 798 801	4.0
+T43	Geometrical_part 802 819	crystal structure
+T44	Geometrical_part 844 848	fold
+T45	Protein 856 864	tetramer
+T46	Protein 908 917	subunit A
+T47	Protein 925 928	TTR
+T48	Parameter 929 931	pH
+T49	Value 932 935	4.0
+T50	Unknown 936 945	structure
+T51	Protein 969 982	wild-type TTR
+T52	Parameter 983 985	pH
+T53	Value 986 989	7.4
+T54	Unknown 990 999	structure
+T55	Parameter 1008 1016	r.m.s.d.
+T56	Value 1020 1026	0.38 A
+T57	Protein 1041 1050	subunit B
+T58	Protein 1058 1061	TTR
+T59	Parameter 1062 1064	pH
+T60	Value 1065 1068	4.0
+T61	Unknown 1069 1078	structure
+T62	Process 1108 1115	changes
+T63	Protein_part 1121 1129	EF-helix
+T64	Protein_part 1131 1145	residues 75-81
+T65	Location 1155 1163	adjacent
+T66	Unknown 1164 1171	EF-loop
+T67	Protein_part 1173 1187	residues 82-90
+T68	Parameter 1197 1205	r.m.s.d.
+T69	Value 1219 1224	2.0 A
+T70	Protein_part 1230 1245	acidic residues
+T71	Protein_part 1258 1264	region
+T72	Protein_part 1266 1271	Glu72
+T73	Protein_part 1273 1278	Asp74
+T74	Protein_part 1280 1285	Glu89
+T75	Protein_part 1291 1296	Glu92
+T76	State 1318 1332	conformational
+T77	Process 1333 1340	changes
+T78	Process 1356 1364	movement
+T79	Protein_part 1372 1392	EF helix-loop region
+T80	Protein_part 1402 1416	residues Lys70
+T81	Protein_part 1418 1423	Lys76
+T82	Protein_part 1425 1430	His88
+T83	Protein_part 1436 1441	His90
+T84	Protein_part 1455 1466	side chains
+T85	Protein_part 1480 1495	acidic residues
+T86	Protein_part 1512 1517	Glu89
+T87	Process 1538 1547	deviation
+T88	Value 1551 1556	5.6 A
+T89	Unknown 1568 1575	Phe87's
+T90	Protein 1600 1613	wild-type TTR
+T91	Parameter 1614 1616	pH
+T92	Value 1617 1620	7.4
+T93	Unknown 1621 1630	structure
+T94	Protein_part 1647 1657	side chain
+T95	Geometrical_part 1677 1683	pocket
+T96	Protein 1703 1710	subunit
+T97	Parameter 1719 1721	pH
+T98	Value 1722 1725	3.5
+T99	Unknown 1726 1735	structure
+T100	Protein_part 1741 1761	EF helix-loop region
+T101	Chemical 1819 1825	acidic
+T102	Process 1850 1864	susceptibility
+T103	Protein_part 1872 1892	EF helix-loop region
+T104	Protein 1901 1914	TTR B subunit
+T105	State 1926 1940	conformational
+T106	Process 1941 1948	changes
+T107	Protein 1987 1995	tetramer
+T108	State 2033 2047	conformational
+T109	Process 2048 2055	changes
+T110	Protein 2084 2092	tetramer
+T111	Physiology 2111 2124	amyloidogenic
+T112	Protein 2125 2132	monomer

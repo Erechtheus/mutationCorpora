@@ -1,0 +1,63 @@
+T1	Technique 0 22	X-ray crystallographic
+T2	Protein 34 41	RNase A
+T3	Unknown 42 50	variants
+T4	Geometrical_part 110 126	hydrophobic core
+T5	Process 136 143	insight
+T6	Protein 149 156	protein
+T7	State 157 166	stability
+T8	Parameter 218 226	pressure
+T9	Parameter 231 242	temperature
+T10	State 243 252	stability
+T11	Geometrical_part 258 275	crystal structure
+T12	Organism 279 285	bovine
+T13	Body_part 286 296	pancreatic
+T14	Protein 297 311	ribonuclease A
+T15	Protein_part 312 325	variants V47A
+T16	Protein_part 327 331	V54A
+T17	Protein_part 333 337	V57A
+T18	Protein_part 339 343	I81A
+T19	Protein_part 345 350	I106A
+T20	Protein_part 356 361	V108A
+T21	Value 376 385	1.4-2.0 A
+T22	Parameter 386 396	resolution
+T23	Geometrical_part 419 428	structure
+T24	Protein 432 449	wild-type protein
+T25	Process 466 475	mutations
+T26	Process 491 500	influence
+T27	Geometrical_part 515 524	structure
+T28	Protein 528 542	ribonuclease A
+T29	Process 559 566	changes
+T30	Organism 571 581	individual
+T31	Process 612 624	localization
+T32	Protein_part 636 643	residue
+T33	Process 681 689	mutation
+T34	Protein_part 690 694	site
+T35	Unknown 714 723	structure
+T36	Process 733 742	different
+T37	Parameter 743 753	parameters
+T38	Process 782 793	correlation
+T39	Process 799 807	decrease
+T40	Parameter 811 822	free energy
+T41	Process 826 835	unfolding
+T42	Unknown 836 850	DeltaDeltaG(T)
+T43	Process 877 888	correlation
+T44	Body_part 908 914	cavity
+T45	Parameter 915 921	volume
+T46	Process 922 928	change
+T47	Technique 930 938	Analysis
+T48	Process 947 957	difference
+T49	Parameter 958 966	distance
+T50	Protein 994 1008	ribonuclease A
+T51	Molecule 1009 1017	molecule
+T52	Protein_part 1058 1068	subdomains
+T53	Organism 1074 1084	individual
+T54	Process 1085 1093	response
+T55	Process 1097 1105	mutation
+T56	Physiology 1112 1120	behavior
+T57	Process 1148 1157	unfolding
+T58	Process 1158 1169	experiments
+T59	Location 1176 1185	intrinsic
+T60	Protein 1197 1211	ribonuclease A
+T61	Process 1248 1255	folding
+T62	Molecule 1256 1269	intermediates
+T63	Molecule 1309 1317	molecule

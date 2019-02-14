@@ -1,0 +1,58 @@
+T1	Process 11 16	basis
+T2	Process 34 45	interaction
+T3	Protein 54 63	ubiquitin
+T4	Organism 72 114	ubiquitin conjugating enzyme variant human
+T5	Unknown 115 119	MMS2
+T6	Process 121 133	Modification
+T7	Protein 137 145	proteins
+T8	Process 177 187	attachment
+T9	Protein 204 209	chain
+T10	Protein 214 233	ubiquitin molecules
+T11	Process 246 255	signaling
+T12	Process 256 265	mechanism
+T13	Process 283 303	regulatory functions
+T14	Organism 307 317	eukaryotic
+T15	Body_part 318 323	cells
+T16	Protein 338 346	proteins
+T17	Protein_part 359 368	lysine-63
+T18	Protein 376 396	polyubiquitin chains
+T19	Molecule 424 427	DNA
+T20	Process 428 434	repair
+T21	Process 441 450	catalysis
+T22	Protein_part 454 463	lysine-63
+T23	Protein 471 491	polyubiquitin chains
+T24	Parameter 516 524	activity
+T25	Protein 534 541	enzymes
+T26	Protein 543 545	E1
+T27	Protein 547 549	E2
+T28	Protein 555 557	E3
+T29	Process 575 583	transfer
+T30	Chemical 586 619	ubiquitin thiolester intermediate
+T31	Protein 625 632	protein
+T32	Process 633 639	target
+T33	Protein 645 647	E2
+T34	Process 664 673	catalysis
+T35	Protein_part 678 687	lysine-63
+T36	Process 695 713	polyubiquitination
+T37	Protein 719 738	protein heterodimer
+T38	Protein 765 767	E2
+T39	Unknown 777 782	Ubc13
+T40	Protein 791 806	E2-like protein
+T41	Protein 811 853	ubiquitin conjugating enzyme variant (UEV)
+T42	Protein 864 868	Mms2
+T43	Geometrical_part 893 911	solution structure
+T44	Category 919 926	complex
+T45	Organism 937 942	human
+T46	Protein 943 947	Mms2
+T47	Protein 952 961	ubiquitin
+T48	Parameter 973 983	resolution
+T49	Chemical 985 993	solution
+T50	State 994 999	state
+T51	Technique 1000 1045	nuclear magnetic resonance (NMR) spectroscopy
+T52	Unknown 1051 1060	structure
+T53	Unknown 1068 1075	Mms2-Ub
+T54	Category 1076 1083	complex
+T55	Process 1131 1136	basis
+T56	Process 1152 1161	catalysis
+T57	Protein_part 1165 1174	lysine-63
+T58	Protein 1182 1202	polyubiquitin chains

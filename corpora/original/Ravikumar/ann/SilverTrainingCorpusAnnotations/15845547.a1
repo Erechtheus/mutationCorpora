@@ -1,0 +1,88 @@
+T1	Process 13 18	basis
+T2	Body_part 23 34	CD8+ T cell
+T3	Process 45 56	recognition
+T4	Protein_part 75 82	peptide
+T5	Category 83 90	ligands
+T6	Process 92 104	implications
+T7	Protein 167 180	self-epitopes
+T8	Organism 184 189	viral
+T9	Protein 190 198	antigens
+T10	Physiology 215 225	pathogenic
+T11	Process 226 235	mechanism
+T12	Process 247 256	induction
+T13	Protein 276 288	self-epitope
+T14	Protein 290 294	mDBM
+T15	Organism 309 314	mouse
+T16	Protein 315 343	dopamine beta-mono-oxygenase
+T17	Protein 345 354	KALYDYAPI
+T18	Value 364 367	44%
+T19	Parameter 368 385	sequence identity
+T20	Body_part 395 406	lymphocytic
+T21	Physiology 407 423	choriomeningitis
+T22	Organism 424 429	virus
+T23	Protein 453 465	epitope gp33
+T24	Protein 467 478	KAVYNFATC/M
+T25	Process 545 557	presentation
+T26	Organism 594 597	rat
+T27	Protein_part 598 605	peptide
+T28	Protein 606 615	homologue
+T29	Unknown 617 621	rDBM
+T30	Unknown 623 632	KALYNYAPI
+T31	Value 634 637	56%
+T32	Parameter 638 646	identity
+T33	Unknown 650 654	gp33
+T34	Parameter 681 691	properties
+T35	Protein 695 699	mDBM
+T36	Geometrical_part 748 765	crystal structure
+T37	Unknown 769 779	H-2Db.rDBM
+T38	Process 786 796	comparison
+T39	Geometrical_part 806 824	crystal structures
+T40	Unknown 847 857	H-2Db.gp33
+T41	Unknown 881 891	H-2Db.gp33
+T42	Protein_part 893 896	V3L
+T43	Unknown 905 912	variant
+T44	Unknown 914 923	KALYNFATM
+T45	Value 925 928	88%
+T46	Parameter 929 937	identity
+T47	Unknown 941 945	gp33
+T48	Protein_part 966 974	sequence
+T49	Unknown 986 990	rDBM
+T50	Protein_part 995 1008	gp33 peptides
+T51	Unknown 1054 1059	H-2Db
+T52	Process 1077 1090	juxtaposition
+T53	Unknown 1106 1114	sections
+T54	Protein_part 1123 1131	peptides
+T55	Protein_part 1137 1148	residues p3
+T56	Protein 1152 1154	p7
+T57	Process 1171 1181	similarity
+T58	Unknown 1191 1196	H-2Db
+T59	Category 1200 1207	complex
+T60	Organism 1222 1227	virus
+T61	Protein 1241 1269	dopamine beta-mono-oxygenase
+T62	Protein_part 1278 1285	peptide
+T63	Physiology 1300 1309	antigenic
+T64	Process 1310 1318	identity
+T65	Protein 1357 1368	heavy chain
+T66	Protein_part 1373 1389	peptide residues
+T67	Protein 1413 1434	T cell receptor (TCR)
+T68	Unknown 1467 1476	structure
+T69	Unknown 1480 1490	H-2Db.gp33
+T70	Protein_part 1492 1495	V3L
+T71	Process 1526 1534	mutation
+T72	Unknown 1552 1556	rDBM
+T73	Process 1572 1581	movements
+T74	Protein_part 1594 1601	peptide
+T75	Protein_part 1619 1630	side chains
+T76	Protein 1654 1657	TCR
+T77	Protein 1663 1666	TCR
+T78	Geometrical_part 1679 1687	surfaces
+T79	Category 1695 1705	H-2Db.rDBM
+T80	Category 1710 1720	H-2Db.gp33
+T81	Category 1746 1755	complexes
+T82	Geometrical_part 1788 1793	shape
+T83	Parameter 1809 1828	charge distribution
+T84	Process 1853 1858	basis
+T85	Body_part 1863 1874	CD8 T  cell
+T86	Process 1875 1885	activation
+T87	Parameter 1911 1920	potential
+T88	Process 1932 1943	development

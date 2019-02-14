@@ -1,0 +1,79 @@
+T1	Chemical 9 13	heme
+T2	Process 14 24	attachment
+T3	Organism 28 41	Synechocystis
+T4	Protein 42 52	hemoglobin
+T5	Chemical 76 88	ferrous heme
+T6	Process 89 101	dissociation
+T7	Organism 103 116	Synechocystis
+T8	Protein 117 127	hemoglobin
+T9	Chemical 154 167	covalent bond
+T10	Location 178 186	nonaxial
+T11	Protein_part 187 196	histidine
+T12	Protein_part 197 207	side chain
+T13	Protein_part 209 213	H117
+T14	Chemical 223 235	heme 2-vinyl
+T15	Chemical 242 246	bond
+T16	Protein 290 304	ferric protein
+T17	Process 313 325	denaturation
+T18	Parameter 350 358	kinetics
+T19	Chemical 362 369	cyanide
+T20	Process 370 381	association
+T21	Organism 410 423	Synechocystis
+T22	Protein 424 434	hemoglobin
+T23	Process 474 487	stabilization
+T24	Chemical 505 529	His117-heme 2-vinyl bond
+T25	Chemical 566 578	bis-histidyl
+T26	Location 579 584	axial
+T27	Chemical 585 589	heme
+T28	Process 590 602	coordination
+T29	Chemical 632 636	heme
+T30	Process 637 646	retention
+T31	Process 665 674	mechanism
+T32	Chemical 688 712	His117-heme 2-vinyl bond
+T33	Category 721 727	ligand
+T34	Process 728 735	binding
+T35	Process 771 784	investigation
+T36	Process 792 796	role
+T37	Chemical 805 809	bond
+T38	Unknown 817 826	structure
+T39	Process 831 839	function
+T40	Protein 847 854	protein
+T41	Chemical 862 869	ferrous
+T42	State 870 885	oxidation state
+T43	Process 905 918	investigation
+T44	Process 926 930	role
+T45	Organism 938 951	Synechocystis
+T46	Chemical 952 987	hemoglobin His117-heme 2-vinyl bond
+T47	Unknown 991 1000	structure
+T48	Chemical 1002 1006	heme
+T49	Process 1007 1019	coordination
+T50	Category 1031 1037	ligand
+T51	Process 1038 1045	binding
+T52	State 1051 1060	stability
+T53	Chemical 1073 1080	ferrous
+T54	Chemical 1085 1091	ferric
+T55	State 1092 1108	oxidation states
+T56	Organism 1149 1162	Synechocystis
+T57	Protein 1163 1173	hemoglobin
+T58	Chemical 1187 1191	bond
+T59	Chemical 1215 1222	ferrous
+T60	State 1223 1238	oxidation state
+T61	Chemical 1248 1254	ferric
+T62	Chemical 1309 1324	pentacoordinate
+T63	Unknown 1325 1327	Hb
+T64	State 1328 1337	stability
+T65	Protein 1352 1366	ferric protein
+T66	Process 1419 1426	removal
+T67	Chemical 1434 1458	His117-heme 2-vinyl bond
+T68	Parameter 1473 1490	affinity constant
+T69	Protein_part 1510 1519	histidine
+T70	Process 1520 1532	coordination
+T71	Chemical 1540 1546	ferric
+T72	State 1547 1562	oxidation state
+T73	Process 1588 1599	competition
+T74	Category 1608 1614	ligand
+T75	Process 1615 1622	binding
+T76	Protein_part 1623 1627	site
+T77	Parameter 1654 1658	rate
+T78	Parameter 1663 1681	affinity constants
+T79	Category 1696 1703	ligands

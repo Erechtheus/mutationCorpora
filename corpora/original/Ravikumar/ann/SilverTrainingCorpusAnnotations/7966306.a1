@@ -1,0 +1,134 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 36	mutant D52S
+T3	Organism 37 44	hen egg
+T4	Protein 51 59	lysozyme
+T5	Chemical 68 83	oligosaccharide
+T6	Category 84 91	product
+T7	Geometrical_part 97 114	crystal structure
+T8	Organism 127 134	hen egg
+T9	Protein 141 149	lysozyme
+T10	Protein_part 178 185	residue
+T11	Protein_part 186 202	aspartic acid 52
+T12	Protein_part 225 239	serine residue
+T13	Protein_part 241 250	D52S HEWL
+T14	Technique 290 306	crystallographic
+T15	Parameter 307 314	R value
+T16	Value 318 323	0.173
+T17	Parameter 337 338	F
+T18	Value 351 352	8
+T19	Value 357 362	1.9 A
+T20	Parameter 363 373	resolution
+T21	Protein 379 388	D52S HEWL
+T22	Geometrical_part 389 398	structure
+T23	Protein 429 433	HEWL
+T24	Geometrical_part 434 443	structure
+T25	Parameter 445 461	r.m.s. deviation
+T26	Protein 465 475	main-chain
+T27	Chemical 476 481	atoms
+T28	Value 482 488	0.20 A
+T29	Process 497 503	shifts
+T30	Process 525 531	change
+T31	Chemical 535 551	hydrogen bonding
+T32	Process 563 575	substitution
+T33	Protein_part 579 582	Asp
+T34	Protein_part 586 589	Ser
+T35	Geometrical_part 611 615	loop
+T36	Protein_part 624 636	beta-strands
+T37	Protein_part 645 651	region
+T38	Protein_part 655 666	residues 46
+T39	Protein_part 670 672	49
+T40	Protein_part 674 683	D52S HEWL
+T41	Value 703 705	1%
+T42	Parameter 706 714	activity
+T43	Organism 727 736	bacterial
+T44	Body_part 737 746	cell wall
+T45	Category 747 756	substrate
+T46	Process 758 775	Cocrystallisation
+T47	Process 776 787	experiments
+T48	Chemical 797 811	hexasaccharide
+T49	Category 812 821	substrate
+T50	Chemical 822 839	beta(1-4) polymer
+T51	Chemical 843 865	N-acetyl-D-glucosamine
+T52	Chemical 867 874	GlcNAc6
+T53	Unknown 888 896	crystals
+T54	Value 905 911	5 days
+T55	Value 916 923	14 days
+T56	Protein 952 958	enzyme
+T57	Category 963 972	substrate
+T58	Technique 974 982	Analysis
+T59	Technique 986 1020	laser absorption mass spectrometry
+T60	Chemical 1028 1044	oligosaccharides
+T61	Process 1059 1069	incubation
+T62	Protein_part 1086 1095	D52S HEWL
+T63	Unknown 1139 1146	crystal
+T64	Process 1147 1153	growth
+T65	Value 1172 1179	14 days
+T66	Protein 1192 1196	HEWL
+T67	Process 1206 1215	catalysis
+T68	Chemical 1219 1226	GlcNAc3
+T69	Chemical 1228 1235	GlcNAc2
+T70	Chemical 1240 1246	GlcNac
+T71	Protein_part 1269 1278	D52S HEWL
+T72	Process 1292 1301	catalysis
+T73	Category 1315 1323	products
+T74	Chemical 1324 1331	GlcNAc4
+T75	Chemical 1336 1343	GlcNAc2
+T76	Value 1370 1373	50%
+T77	Chemical 1381 1388	GlcNAc6
+T78	Technique 1406 1420	X-ray analysis
+T79	Unknown 1428 1465	D52S-oligosaccharide complex crystals
+T80	Category 1498 1505	product
+T81	Chemical 1506 1513	GlcNAc4
+T82	Unknown 1519 1528	structure
+T83	Unknown 1536 1553	D52S HEWL-GlcNAc4
+T84	Category 1554 1561	complex
+T85	Parameter 1600 1607	R value
+T86	Value 1611 1616	0.160
+T87	Value 1634 1635	8
+T88	Value 1640 1643	2 A
+T89	Parameter 1644 1654	resolution
+T90	Chemical 1656 1663	GlcNAc4
+T91	Protein_part 1673 1680	sites A
+T92	Unknown 1684 1685	D
+T93	Protein_part 1693 1704	active site
+T94	Geometrical_part 1705 1710	cleft
+T95	Process 1720 1730	refinement
+T96	Process 1735 1746	examination
+T97	Molecule 1750 1765	2Fo-Fc electron
+T98	Parameter 1766 1773	density
+T99	Chemical 1795 1800	sugar
+T100	Protein_part 1805 1811	site D
+T101	State 1825 1837	conformation
+T102	State 1841 1853	conformation
+T103	Protein 1884 1888	HEWL
+T104	Category 1889 1896	complex
+T105	Chemical 1902 1935	tetra-N-acetylglucosamine lactone
+T106	State 1936 1952	transition state
+T107	Unknown 1953 1961	analogue
+T108	Protein 1967 1971	HEWL
+T109	Category 1972 1979	complex
+T110	Body_part 1989 1998	cell wall
+T111	Chemical 1999 2012	trisaccharide
+T112	Organism 2021 2029	phage T4
+T113	Protein 2030 2038	lysozyme
+T114	Category 2039 2046	complex
+T115	Body_part 2054 2063	cell wall
+T116	Category 2064 2071	product
+T117	Geometrical_part 2088 2106	C(5)-C(6) geometry
+T118	Chemical 2136 2150	hydrogen bonds
+T119	Chemical 2160 2172	O-6 hydroxyl
+T120	Molecular_Part 2173 2178	group
+T121	Chemical 2186 2198	main-chain N
+T122	Protein_part 2202 2208	Val109
+T123	Chemical 2213 2225	main-chain O
+T124	Protein_part 2229 2235	Ala107
+T125	Chemical 2241 2246	sugar
+T126	Protein_part 2250 2256	site D
+T127	State 2268 2273	alpha
+T128	Process 2274 2287	configuration
+T129	Process 2341 2351	hydrolysis
+T130	Protein_part 2356 2385	beta (1-4) glycosidie linkage
+T131	Protein 2389 2393	HEWL
+T132	Value 2408 2413	99.9%
+T133	Process 2414 2423	retention
+T134	State 2427 2445	beta-configuration

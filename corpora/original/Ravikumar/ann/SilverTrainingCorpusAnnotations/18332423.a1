@@ -1,0 +1,70 @@
+T1	Chemical 2 11	disulfide
+T2	Protein 23 32	conformer
+T3	Protein 36 55	methionine synthase
+T4	Process 78 82	role
+T5	Protein_part 91 100	histidine
+T6	Category 101 107	ligand
+T7	Chemical 115 124	cobalamin
+T8	Category 125 133	cofactor
+T9	Unknown 135 140	B(12)
+T10	Protein 151 170	methionine synthase
+T11	Chemical 172 176	MetH
+T12	Organism 183 199	Escherichia coli
+T13	Protein 219 226	protein
+T14	Chemical 261 283	methyltetrahydrofolate
+T15	Chemical 293 308	methylcobalamin
+T16	Chemical 329 341	homocysteine
+T17	Unknown 350 362	cob(I)alamin
+T18	Protein_part 370 376	domain
+T19	Process 377 391	rearrangements
+T20	Chemical 414 423	cobalamin
+T21	Process 444 453	different
+T22	Category 454 464	substrates
+T23	Chemical 466 478	homocysteine
+T24	Chemical 480 502	methyltetrahydrofolate
+T25	Protein_part 508 540	S-adenosyl-l-methionine (AdoMet)
+T26	Process 553 567	rearrangements
+T27	Process 587 602	crystallization
+T28	Protein 610 626	wild-type enzyme
+T29	Chemical 628 637	Disulfide
+T30	Process 638 651	cross-linking
+T31	Protein_part 671 690	C-terminal fragment
+T32	Protein 698 704	enzyme
+T33	State 719 731	conformation
+T34	Protein_part 733 741	Cysteine
+T35	Process 742 757	point mutations
+T36	Protein_part 777 784	Ile-690
+T37	Protein_part 789 796	Gly-743
+T38	Protein_part 804 821	cysteine residues
+T39	Chemical 843 852	cobalamin
+T40	State 907 921	conformational
+T41	Protein 944 950	enzyme
+T42	Protein 965 972	protein
+T43	Process 973 988	crystallization
+T44	Molecule 1011 1016	x-ray
+T45	Unknown 1017 1026	structure
+T46	Unknown 1034 1049	mutant fragment
+T47	Process 1057 1069	reactivation
+T48	State 1070 1082	conformation
+T49	State 1089 1101	conformation
+T50	Process 1114 1122	transfer
+T51	Chemical 1128 1134	methyl
+T52	Molecular_Part 1135 1140	group
+T53	Protein_part 1146 1152	AdoMet
+T54	Chemical 1160 1169	cobalamin
+T55	Category 1170 1178	cofactor
+T56	Unknown 1187 1196	structure
+T57	Location 1202 1207	axial
+T58	Category 1208 1214	ligand
+T59	Chemical 1222 1231	cobalamin
+T60	Protein_part 1233 1240	His-759
+T61	Chemical 1263 1272	cobalamin
+T62	Process 1297 1305	contacts
+T63	Protein_part 1311 1319	residues
+T64	Protein_part 1327 1333	AdoMet
+T65	Process 1382 1393	interaction
+T66	Process 1422 1426	role
+T67	Parameter 1446 1458	distribution
+T68	Protein 1462 1472	conformers
+T69	Process 1508 1520	reactivation
+T70	Protein 1535 1541	enzyme

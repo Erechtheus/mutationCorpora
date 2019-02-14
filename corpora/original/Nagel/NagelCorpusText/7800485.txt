@@ -1,0 +1,4 @@
+An analogue of the replicase translational operator of bacteriophage R17, that contains a 5-bromouridine at position -5 (RNA 1), complexes with a dimer of the coat protein and photocrosslinks to the coat protein in high yield upon excitation at 308 nm with a xenon chloride excimer laser . 
+Tryptic digestion of the crosslinked nucleoprotein complex followed by Edman degradation of the tryptic fragment bearing the RNA indicates crosslinking to tyrosine 85 of the coat protein . 
+A control experiment with a Tyr 85 to Ser 85 variant coat protein showed binding but no photocrosslinking at saturating protein concentration . 
+This is consistent with the observation from model compound studies of preferential photocrosslinking of BrU to the electron rich aromatic amino acids tryptophan, tyrosine, and histidine with 308 nm excitation . 

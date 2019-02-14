@@ -1,0 +1,9 @@
+Glutathione-independent prostaglandin D synthase in rat brain is composed of 189 amino acid residues and catalyzes the isomerization of prostaglandin H2 to prostaglandin D2, an endogenous sleep-promoting substance . 
+This enzyme is the only enzyme among members of the lipocalin superfamily composed of various secretory lipophilic ligand-carrier proteins and is recently identified to be a beta-trace protein, a major constituent of human cerebrospinal fluid . 
+We expressed the active enzyme in Escherichia coli and then systematically substituted allcysteine residues of the delta 1-29 enzyme at positions of 65, 89, and 186 with alanine or serine . 
+The parent and mutant enzymes were purified to apparent homogeneity with a recovery of approximately 30% by chromatography with Sephadex G-50 and S-Sepharose, by which all the enzymes showed identical elution profiles . 
+The purified enzymes, irrespective of the mutation, showed almost the same circular dichroism spectral characteristics as displayed by a highly ordered beta-structure . 
+The recombinant enzymes containing Cys65 showed the activity comparable with that of the enzyme purified from rat brain (approximately 3 mumol/min/mg of protein) in the presence, but not in the absence, of sulfhydryl compounds . 
+However, all of the single, double, and triple mutants without Cys65 lost the enzyme activity . 
+The purified delta 1-29 Ala89,186 enzyme was inactivated reversibly by conjugation with glutathione at Cys65 and irreversibly by the stoichiometric chemical modification with N-ethylmaleimide . 
+These results indicate that Cys65 is an essential thiol of the enzyme and that both the intrinsic and extrinsic sulfhydryl groups are necessary for nonoxidative rearrangement of 9,11-endoperoxide of prostaglandin H2 to produce prostaglandin D2 catalyzed by the enzyme . 

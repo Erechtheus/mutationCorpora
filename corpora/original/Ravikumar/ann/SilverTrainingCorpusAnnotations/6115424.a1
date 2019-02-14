@@ -1,0 +1,60 @@
+T1	Protein 0 19	Phosphofructokinase
+T2	Unknown 21 30	structure
+T3	Process 35 42	control
+T4	Protein 44 63	Phosphofructokinase
+T5	Organism 69 77	Bacillus
+T6	Chemical 78 96	stearothermophilus
+T7	Parameter 115 123	kinetics
+T8	Category 144 153	substrate
+T9	Chemical 154 180	fructose-6-phosphate (F6P)
+T10	Process 182 203	allosteric activation
+T11	Chemical 207 210	ADP
+T12	Process 216 226	inhibition
+T13	Chemical 230 249	phosphoenolpyruvate
+T14	Geometrical_part 255 272	crystal structure
+T15	State 280 299	active conformation
+T16	Protein 307 313	enzyme
+T17	Value 333 338	2.4 A
+T18	Parameter 339 349	resolution
+T19	Category 362 368	ligand
+T20	Protein_part 377 382	sites
+T21	Protein_part 424 435	active site
+T22	Category 449 459	substrates
+T23	Chemical 460 463	F6P
+T24	Chemical 468 471	ATP
+T25	Protein_part 477 487	third site
+T26	Category 510 519	activator
+T27	Category 524 533	inhibitor
+T28	Category 539 546	complex
+T29	Protein 554 560	enzyme
+T30	Chemical 566 569	F6P
+T31	Chemical 574 577	ADP
+T32	Value 605 610	2.4 A
+T33	Parameter 611 621	resolution
+T34	Chemical 638 641	ATP
+T35	Protein_part 666 677	active site
+T36	Chemical 708 711	ADP
+T37	Value 718 721	6 A
+T38	Parameter 722 732	resolution
+T39	Chemical 746 773	5'-adenylylimidodiphosphate
+T40	Chemical 775 781	AMPPNP
+T41	Chemical 788 803	gamma-phosphate
+T42	Chemical 807 810	ATP
+T43	Chemical 828 838	1-hydroxyl
+T44	Chemical 842 845	F6P
+T45	Chemical 882 892	phosphoryl
+T46	Process 893 901	transfer
+T47	Process 907 914	binding
+T48	Chemical 922 931	phosphate
+T49	Chemical 935 938	F6P
+T50	Chemical 952 961	arginines
+T51	Protein 982 989	subunit
+T52	Protein 997 1005	tetramer
+T53	Process 1029 1042	rearrangement
+T54	Protein 1050 1058	subunits
+T55	Category 1094 1103	substrate
+T56	Process 1104 1111	binding
+T57	Chemical 1128 1131	ADP
+T58	Protein_part 1150 1158	residues
+T59	Unknown 1187 1192	CRDT-
+T60	Value 1201 1209	26 00:00

@@ -1,0 +1,64 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Technique 22 47	site-directed mutagenesis
+T3	Organism 51 68	Bacillus macerans
+T4	Protein 69 96	endo-1,3-1,4-beta-glucanase
+T5	Chemical 101 113	beta-glucans
+T6	Chemical 120 145	beta-1,4 glycosidic bonds
+T7	Location 156 164	adjacent
+T8	Chemical 168 182	beta-1,3 bonds
+T9	Protein 198 226	endo-1,3-1,4-beta-glucanases
+T10	Protein 228 243	beta-glucanases
+T11	Parameter 256 268	relationship
+T12	Unknown 277 286	structure
+T13	Parameter 291 299	activity
+T14	Protein 307 321	beta-glucanase
+T15	Organism 325 342	Bacillus macerans
+T16	Technique 357 378	x-ray crystallography
+T17	Technique 383 408	site-directed mutagenesis
+T18	Protein_part 412 432	active site residues
+T19	Geometrical_part 434 451	Crystal structure
+T20	Technique 452 460	analysis
+T21	Value 464 469	2.3-A
+T22	Parameter 470 480	resolution
+T23	Protein 491 509	jelly-roll protein
+T24	Geometrical_part 510 519	structure
+T25	Location 527 531	deep
+T26	Protein_part 532 543	active site
+T27	Protein 544 551	channel
+T28	Protein_part 566 593	amino  acid residues Trp101
+T29	Protein_part 595 601	Glu103
+T30	Protein_part 603 609	Asp105
+T31	Protein_part 615 621	Glu107
+T32	Organism 639 647	Bacillus
+T33	Protein 648 671	beta-glucanase H(A16-M)
+T34	Unknown 681 709	T., Simon, O., Borriss, R., 
+T35	Unknown 713 726	Heinemann, U.
+T36	Unknown 734 763	Proc. Natl. Acad. Sci. U.S.A.
+T37	Process 780 789	Different
+T38	Protein 790 805	mutant proteins
+T39	Process 811 824	substitutions
+T40	Protein_part 834 842	residues
+T41	Technique 860 885	site-directed mutagenesis
+T42	Protein 935 951	wild-type enzyme
+T43	Parameter 958 966	activity
+T44	Value 981 993	less than 1%
+T45	Molecule 1003 1010	mutants
+T46	Process 1026 1039	substitutions
+T47	Protein_part 1043 1049	Glu103
+T48	Protein_part 1054 1060	Glu107
+T49	Process 1106 1110	role
+T50	Protein_part 1120 1128	residues
+T51	Chemical 1132 1145	glycosyl bond
+T52	Process 1146 1156	hydrolysis
+T53	Parameter 1162 1180	kinetic properties
+T54	Protein 1184 1206	mutant beta-glucanases
+T55	Geometrical_part 1215 1232	crystal structure
+T56	Protein 1240 1256	wild-type enzyme
+T57	Process 1279 1288	mechanism
+T58	Protein_part 1295 1301	Glu103
+T59	Protein_part 1306 1312	Glu107
+T60	Protein_part 1331 1350	amino acid residues
+T61	Process 1367 1375	cleavage
+T62	Chemical 1383 1407	beta-1,4 glycosidic bond
+T63	Category 1419 1428	substrate
+T64	Molecule 1429 1437	molecule

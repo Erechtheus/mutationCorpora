@@ -1,0 +1,78 @@
+T1	Physiology 0 8	Rigidity
+T2	Protein 28 51	dipeptidyl peptidase IV
+T3	Geometrical_part 53 71	crystal structures
+T4	Process 79 86	docking
+T5	Process 87 98	experiments
+T6	Protein 104 108	DPIV
+T7	Protein 110 140	Dipeptidyl peptidase IV (DPIV)
+T8	Protein 147 152	alpha
+T9	Protein 153 192	beta-hydrolase-like serine exopeptidase
+T10	Protein_part 208 218	dipeptides
+T11	Protein_part 242 266	C-terminal l-Pro residue
+T12	Protein_part 277 287	N terminus
+T13	Protein_part 298 305	peptide
+T14	Category 306 316	substrates
+T15	Value 359 363	1.8A
+T16	Geometrical_part 364 381	crystal structure
+T17	Organism 385 399	native porcine
+T18	Protein 400 404	DPIV
+T19	Protein 411 418	monomer
+T20	Protein_part 457 473	catalytic domain
+T21	Body_part 501 516	internal cavity
+T22	Location 529 542	active centre
+T23	Body_part 549 555	cavity
+T24	Chemical 581 588	solvent
+T25	Protein 654 658	DPIV
+T26	Category 659 668	complexes
+T27	Protein_part 676 706	t-butyl-Gly-Pro-Ile tripeptide
+T28	Unknown 708 719	Pro-boroPro
+T29	Chemical 723 749	piperazine purine compound
+T30	Chemical 755 789	aminoethyl phenyl sulfonylfluoride
+T31	Chemical 806 815	compounds
+T32	Protein_part 828 846	active-site groove
+T33	Process 921 927	shifts
+T34	Protein_part 945 962	Ser630 side-chain
+T35	Chemical 975 990	Tyr547 phenolic
+T36	Molecular_Part 991 996	group
+T37	Chemical 1014 1022	oxyanion
+T38	Protein_part 1033 1043	tripeptide
+T39	Protein_part 1057 1064	peptide
+T40	Category 1065 1074	substrate
+T41	Protein_part 1094 1105	active site
+T42	Process 1120 1132	interactions
+T43	Chemical 1141 1166	N-terminal alpha-ammonium
+T44	Molecular_Part 1167 1172	group
+T45	Chemical 1178 1189	P2 carbonyl
+T46	Molecular_Part 1190 1195	group
+T47	Protein_part 1202 1221	P1-l-Pro side-chain
+T48	Chemical 1227 1249	C-terminal carboxylate
+T49	Molecular_Part 1250 1255	group
+T50	Chemical 1272 1293	orthoacid ester amide
+T51	Chemical 1322 1338	peptide carbonyl
+T52	Molecular_Part 1339 1344	group
+T53	Protein_part 1349 1364	Ser630 O(gamma)
+T54	Protein_part 1394 1404	tripeptide
+T55	Process 1421 1434	stabilization
+T56	Chemical 1453 1471	His740 imidazolium
+T57	Chemical 1472 1478	cation
+T58	Location 1486 1494	adjacent
+T59	Chemical 1514 1536	C-terminal carboxylate
+T60	Molecular_Part 1537 1542	group
+T61	Molecule 1555 1561	proton
+T62	Process 1562 1570	transfer
+T63	Molecular_Part 1578 1591	leaving group
+T64	Chemical 1592 1605	nitrogen atom
+T65	Process 1607 1614	Docking
+T66	Process 1615 1626	experiments
+T67	Protein_part 1653 1660	residue
+T68	Protein 1661 1678	protein aprotinin
+T69	Protein 1720 1724	DPIV
+T70	Protein_part 1744 1753	Arg1-Pro2
+T71	Value 1754 1755	N
+T72	Protein_part 1756 1764	terminus
+T73	Protein_part 1780 1796	DPIV active site
+T74	Location 1823 1827	side
+T75	Process 1828 1836	openings
+T76	Process 1850 1860	separation
+T77	Body_part 1897 1903	blades
+T78	Protein_part 1937 1953	propeller domain

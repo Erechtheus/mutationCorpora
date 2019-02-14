@@ -1,0 +1,81 @@
+T1	Protein 4 8	ClpP
+T2	Geometrical_part 16 20	ring
+T3	Protein 36 44	protease
+T4	Geometrical_part 62 66	ring
+T5	Process 72 84	interactions
+T6	Protein_part 94 103	N termini
+T7	Protein 111 119	subunits
+T8	Geometrical_part 134 139	loops
+T9	Unknown 163 168	ClpXP
+T10	Unknown 173 178	ClpAP
+T11	Process 187 196	formation
+T12	Protein 198 202	ClpP
+T13	Protein 218 233	serine-protease
+T14	Geometrical_part 254 259	rings
+T15	Geometrical_part 281 288	chamber
+T16	Protein_part 304 325	protease active sites
+T17	Protein 332 344	ClpP subunit
+T18	Protein_part 374 380	region
+T19	Geometrical_part 397 401	ring
+T20	Process 407 419	interactions
+T21	Body_part 427 431	head
+T22	Protein_part 432 438	domain
+T23	Protein 440 444	ClpP
+T24	Protein 465 487	hexameric ATPases ClpX
+T25	Protein 492 496	ClpA
+T26	Category 531 540	substrate
+T27	Protein 541 549	proteins
+T28	Body_part 562 578	ClpP axial pores
+T29	Protein 588 596	protease
+T30	Body_part 597 602	lumen
+T31	Process 607 618	degradation
+T32	Molecule 643 648	x-ray
+T33	Unknown 649 658	structure
+T34	Organism 662 686	Streptococcus pneumoniae
+T35	Unknown 687 698	ClpP(A153P)
+T36	Value 702 707	2.5 A
+T37	Parameter 708 718	resolution
+T38	Unknown 724 733	structure
+T39	Protein 766 770	ClpP
+T40	Parameter 795 800	ClpXP
+T41	Parameter 805 810	ClpAP
+T42	Parameter 822 832	activities
+T43	Protein_part 845 848	Ala
+T44	Protein_part 853 856	Pro
+T45	Process 857 865	mutation
+T46	Protein_part 886 892	region
+T47	Geometrical_part 918 922	ring
+T48	Process 928 940	dimerization
+T49	Process 962 973	conjunction
+T50	Process 1022 1032	plasticity
+T51	Protein_part 1041 1047	region
+T52	Unknown 1061 1070	structure
+T53	Process 1081 1090	existence
+T54	Protein_part 1105 1120	N-terminal loop
+T55	Protein 1129 1141	ClpP subunit
+T56	Geometrical_part 1147 1152	loops
+T57	Body_part 1153 1157	line
+T58	Body_part 1162 1173	axial pores
+T59	Protein 1181 1198	ClpP tetradecamer
+T60	Protein 1226 1234	protease
+T61	Location 1235 1241	apical
+T62	Geometrical_part 1242 1249	surface
+T63	Protein_part 1255 1263	sequence
+T64	Protein_part 1271 1286	N-terminal loop
+T65	Protein 1310 1314	ClpP
+T66	Geometrical_part 1350 1355	loops
+T67	Process 1395 1404	formation
+T68	Protein 1413 1417	ClpP
+T69	Protein 1422 1431	ClpX/ClpA
+T70	Process 1433 1441	Mutation
+T71	Protein_part 1453 1472	amino acid residues
+T72	Geometrical_part 1481 1485	loop
+T73	Process 1493 1503	truncation
+T74	Geometrical_part 1511 1515	loop
+T75	Unknown 1524 1529	ClpXP
+T76	Unknown 1534 1539	ClpAP
+T77	Process 1548 1557	formation
+T78	Process 1575 1583	coupling
+T79	Protein 1592 1601	ClpX/ClpA
+T80	Protein 1606 1610	ClpP
+T81	Parameter 1611 1621	activities

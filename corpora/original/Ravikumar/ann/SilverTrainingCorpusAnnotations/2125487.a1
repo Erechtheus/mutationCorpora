@@ -1,0 +1,72 @@
+T1	Molecule 0 5	X-ray
+T2	Geometrical_part 6 23	crystal structure
+T3	Protein 31 39	protease
+T4	Category 40 49	inhibitor
+T5	Protein_part 50 56	domain
+T6	Protein 60 102	Alzheimer's amyloid beta-protein precursor
+T7	Protein 104 115	Alzheimer's
+T8	Protein 116 146	amyloid beta-protein precursor
+T9	Protein 158 173	Kunitz protease
+T10	Category 174 183	inhibitor
+T11	Protein_part 184 190	domain
+T12	Protein_part 192 196	APPI
+T13	Body_part 252 260	cerebral
+T14	Chemical 261 268	amyloid
+T15	Process 269 279	deposition
+T16	Process 299 313	identification
+T17	Process 335 341	target
+T18	Category 350 359	inhibitor
+T19	Geometrical_part 365 382	crystal structure
+T20	Protein 386 390	APPI
+T21	Value 426 431	1.5-A
+T22	Parameter 432 442	resolution
+T23	Protein_part 444 453	Sequences
+T24	Protein 461 479	inhibitor-protease
+T25	Protein 505 513	protease
+T26	Process 514 520	target
+T27	Protein 563 567	APPI
+T28	Geometrical_part 568 577	structure
+T29	Geometrical_part 606 610	fold
+T30	Protein 614 618	APPI
+T31	Molecule 650 656	Kunitz
+T32	Category 657 666	inhibitor
+T33	Unknown 667 671	BPTI
+T34	Process 687 700	rearrangement
+T35	State 724 736	conformation
+T36	Protein 755 763	protease
+T37	Process 764 771	binding
+T38	Geometrical_part 772 777	loops
+T39	Molecule 791 797	Kunitz
+T40	Category 798 808	inhibitors
+T41	Geometrical_part 822 826	loop
+T42	Protein_part 827 836	sequences
+T43	Process 864 874	alteration
+T44	Category 932 941	inhibitor
+T45	Protein_part 969 975	region
+T46	Protein 983 991	protease
+T47	Process 992 999	binding
+T48	Geometrical_part 1000 1005	loops
+T49	Protein 1007 1011	APPI
+T50	Location 1012 1016	side
+T51	Protein_part 1017 1030	chains Met-17
+T52	Protein_part 1035 1041	Phe-34
+T53	Geometrical_part 1072 1079	surface
+T54	Protein_part 1092 1098	Arg-17
+T55	Protein_part 1103 1109	Val-34
+T56	Unknown 1113 1117	BPTI
+T57	Process 1123 1134	restriction
+T58	Process 1140 1146	change
+T59	Protein 1157 1165	protease
+T60	Process 1166 1172	target
+T61	Protein_part 1173 1182	sequences
+T62	Geometrical_part 1200 1209	structure
+T63	Protein 1213 1217	APPI
+T64	Unknown 1238 1242	BPTI
+T65	Protein 1256 1272	serine proteases
+T66	Geometrical_part 1296 1303	surface
+T67	Body_part 1307 1317	APPI faces
+T68	Molecular_Part 1334 1339	group
+T69	Protein_part 1352 1363	side chains
+T70	Protein 1367 1379	kallikrein A
+T71	Protein_part 1393 1404	side chains
+T72	Protein 1408 1415	trypsin

@@ -1,0 +1,76 @@
+T1	Chemical 0 4	Haem
+T2	Process 5 16	recognition
+T3	Organism 22 48	Staphylococcus aureus NEAT
+T4	Protein_part 49 55	domain
+T5	Physiology 68 78	pathogenic
+T6	Organism 79 88	organisms
+T7	Process 104 114	mechanisms
+T8	Chemical 149 153	iron
+T9	Process 154 165	restriction
+T10	Chemical 167 176	Haem-iron
+T11	Chemical 200 204	iron
+T12	Organism 222 227	human
+T13	Body_part 228 232	body
+T14	Chemical 264 268	iron
+T15	Organism 278 297	bacterial pathogens
+T16	Protein_part 300 331	NEAT (NEAr Transporter) domains
+T17	Unknown 359 365	family
+T18	Body_part 369 373	cell
+T19	Geometrical_part 374 381	surface
+T20	Protein 382 390	proteins
+T21	Organism 394 416	Gram-positive bacteria
+T22	Protein_part 423 434	NEAT domain
+T23	Protein 446 454	proteins
+T24	Protein 466 470	IsdA
+T25	Organism 474 495	Staphylococcus aureus
+T26	Chemical 515 519	haem
+T27	Process 520 527	binding
+T28	Process 548 562	overexpression
+T29	Protein 566 570	IsdA
+T30	Organism 574 583	S. aureus
+T31	Process 593 599	growth
+T32	Process 607 619	inactivation
+T33	Molecule 620 626	mutant
+T34	Protein 630 634	IsdA
+T35	Process 641 647	growth
+T36	Process 648 654	defect
+T37	Body_part 695 700	media
+T38	Chemical 713 717	haem
+T39	Chemical 730 734	iron
+T40	Chemical 760 764	haem
+T41	Parameter 773 781	property
+T42	Protein 785 789	IsdA
+T43	Protein_part 814 825	NEAT domain
+T44	Geometrical_part 827 845	Crystal structures
+T45	Protein_part 853 873	apo-IsdA NEAT domain
+T46	Category 881 888	complex
+T47	Chemical 894 898	haem
+T48	Protein 924 932	clathrin
+T49	Molecule 933 940	adapter
+T50	Geometrical_part 946 959	beta-sandwich
+T51	Geometrical_part 960 964	fold
+T52	Chemical 990 994	haem
+T53	Geometrical_part 1003 1009	pocket
+T54	Chemical 1011 1015	Haem
+T55	Chemical 1034 1044	propionate
+T56	Molecular_Part 1045 1051	groups
+T57	Geometrical_part 1078 1085	surface
+T58	Chemical 1094 1098	iron
+T59	Protein_part 1125 1133	Tyr(166)
+T60	Chemical 1139 1145	phenol
+T61	Molecular_Part 1146 1152	groups
+T62	Protein_part 1156 1164	Tyr(166)
+T63	Protein_part 1169 1177	Tyr(170)
+T64	Chemical 1186 1192	H-bond
+T65	Chemical 1225 1229	haem
+T66	Process 1230 1237	binding
+T67	Process 1242 1249	release
+T68	Technique 1254 1262	analysis
+T69	Protein_part 1266 1289	IsdA structure-sequence
+T70	Process 1290 1300	alignments
+T71	Process 1315 1327	conservation
+T72	Protein_part 1331 1339	Tyr(166)
+T73	Molecule 1345 1354	predictor
+T74	Chemical 1358 1362	haem
+T75	Process 1363 1370	binding
+T76	Protein_part 1374 1386	NEAT domains

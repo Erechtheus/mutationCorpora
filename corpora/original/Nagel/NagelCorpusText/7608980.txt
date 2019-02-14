@@ -1,0 +1,12 @@
+The crystal structure of abrin-a, a type II ribosome-inactivating protein from the seeds of Abrus precatorius, has been determined from a novel crystalline form by the molecular replacement method using the coordinates of ricin . 
+The structure has been refined at 2.14 A to a R-factor of 18.9% . 
+The root-mean-square deviations of bond lengths and angles from the standard values are 0.013 A and 1.82 degrees, respectively . 
+The overall protein folding is similar to that of ricin, but there are differences in the secondary structure, mostly of the A-chain . 
+Several parts of the molecular surface differ significantly; some of them are quite near the active site cleft, and probably influence ribosome recognition . 
+The positions of invariant active site residues remain the same, except the position of Tyr74 . 
+Two water molecules of hydrogen-bonded active site residues have been located in the active site cleft . 
+Both of them may be responsible for hydrolyzing the N-C glycosidic bond . 
+The current abrin-a structure is lactose free; this is probably essential for abrin-a crystallization . 
+The B-chain is a glycoprotein, and the positions of several sugar residues of two sugar chains linked to earlier predicted glycosylation sites were determined . 
+One of the sugar chains is a bridge between two neighboring molecules, since one of its mannose residues is connected to the galactose binding site of the neighboring molecule . 
+Another sugar chain covers the surface of the B-chain . 

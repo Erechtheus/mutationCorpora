@@ -1,0 +1,93 @@
+T1	Protein_part 10 16	domain
+T2	Process 17 26	mechanism
+T3	Protein 30 57	pyruvate phosphate dikinase
+T4	Protein 59 93	Pyruvate phosphate dikinase (PPDK)
+T5	Process 119 129	conversion
+T6	Chemical 133 158	phosphoenolpyruvate (PEP)
+T7	Chemical 160 163	AMP
+T8	Chemical 169 171	Pi
+T9	Chemical 175 183	pyruvate
+T10	Chemical 188 191	ATP
+T11	Protein 197 203	enzyme
+T12	Process 234 242	reaction
+T13	Chemical 256 266	nucleotide
+T14	Process 275 283	reaction
+T15	Protein_part 303 320	N-terminal domain
+T16	Chemical 330 342	PEP/pyruvate
+T17	Process 351 359	reaction
+T18	Protein_part 379 396	C-terminal domain
+T19	Protein_part 400 414	central domain
+T20	Protein_part 432 434	N-
+T21	Protein_part 439 457	C-terminal domains
+T22	Molecular_Part 484 491	linkers
+T23	Protein_part 504 539	phosphorylatable histidine  residue
+T24	Protein_part 541 547	His455
+T25	Geometrical_part 564 576	architecture
+T26	Protein_part 598 604	domain
+T27	Process 605 614	mechanism
+T28	Chemical 631 641	phosphoryl
+T29	Molecular_Part 642 647	group
+T30	Process 664 672	reaction
+T31	Geometrical_part 694 703	structure
+T32	Protein 707 711	PPDK
+T33	Organism 717 738	Clostridium symbiosum
+T34	Protein_part 744 781	His445-containing domain (His domain)
+T35	Chemical 810 820	nucleotide
+T36	Process 821 828	binding
+T37	Protein_part 829 835	domain
+T38	Chemical 860 872	PEP/pyruvate
+T39	Protein_part 881 887	domain
+T40	Geometrical_part 910 927	crystal structure
+T41	State 940 960	conformational state
+T42	Organism 964 981	C. symbiosum PPDK
+T43	Protein_part 991 1001	His domain
+T44	Location 1002 1010	adjacent
+T45	Chemical 1018 1021	PEP
+T46	Protein_part 1030 1036	domain
+T47	Unknown 1042 1051	structure
+T48	Protein 1080 1108	three-residue mutant protein
+T49	Protein 1110 1127	R219E/E271R/S262D
+T50	Process 1145 1154	repulsion
+T51	Protein_part 1167 1170	His
+T52	Chemical 1175 1185	nucleotide
+T53	Protein_part 1194 1201	domains
+T54	Process 1223 1235	interactions
+T55	Chemical 1245 1257	PEP/pyruvate
+T56	Protein_part 1266 1272	domain
+T57	Protein 1291 1304	mutant enzyme
+T58	Chemical 1336 1348	PEP/pyruvate
+T59	Parameter 1379 1387	activity
+T60	Unknown 1410 1419	structure
+T61	Process 1440 1446	motion
+T62	Protein_part 1454 1464	His domain
+T63	Process 1484 1494	detachment
+T64	Protein_part 1504 1514	His domain
+T65	Chemical 1524 1534	nucleotide
+T66	Protein_part 1543 1553	subdomains
+T67	Geometrical_part 1564 1569	hinge
+T68	Process 1570 1576	motion
+T69	Protein_part 1592 1609	active-site cleft
+T70	Geometrical_part 1621 1626	hinge
+T71	Process 1627 1633	motion
+T72	Chemical 1659 1669	nucleotide
+T73	Process 1670 1677	binding
+T74	Geometrical_part 1679 1684	cleft
+T75	Process 1686 1693	closure
+T76	Process 1699 1706	release
+T77	Geometrical_part 1708 1713	cleft
+T78	Process 1714 1721	opening
+T79	Geometrical_part 1758 1763	cleft
+T80	Process 1764 1771	opening
+T81	Process 1772 1779	motions
+T82	Process 1797 1810	interpolation
+T83	State 1827 1840	conformations
+T84	Protein_part 1852 1858	His455
+T85	Chemical 1874 1884	phosphoryl
+T86	Molecular_Part 1885 1890	group
+T87	Process 1891 1899	transfer
+T88	Category 1919 1929	substrates
+T89	Protein_part 1953 1963	His domain
+T90	Protein_part 2002 2009	domains
+T91	Process 2031 2042	association
+T92	Molecular_Part 2054 2060	linker
+T93	Protein_part 2061 2069	segments

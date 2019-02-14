@@ -1,0 +1,69 @@
+T1	Chemical 0 14	Polysaccharide
+T2	Process 15 22	binding
+T3	Protein_part 23 28	sites
+T4	Geometrical_part 51 69	crystal structures
+T5	Organism 80 85	phage
+T6	Protein 106 111	lyase
+T7	Category 120 129	complexes
+T8	Chemical 135 148	ascorbic acid
+T9	Chemical 153 160	lactose
+T10	Protein 174 180	lyases
+T11	Protein 196 223	endoglycosaminidase enzymes
+T12	Process 284 292	function
+T13	Organism 300 322	Streptococcus pyogenes
+T14	Organism 324 337	bacteriophage
+T15	Protein 338 345	protein
+T16	Protein 358 363	lyase
+T17	Protein 365 370	HylP2
+T18	Protein 386 396	hyaluronan
+T19	Chemical 402 426	unsaturated disaccharide
+T20	Protein 434 439	HylP2
+T21	Protein 513 518	HylP2
+T22	Protein 531 541	homotrimer
+T23	Parameter 549 563	molecular mass
+T24	Value 567 588	approximately 110 kDa
+T25	Protein 625 630	HylP2
+T26	Unknown 656 664	crystals
+T27	Chemical 703 712	solutions
+T28	Chemical 724 737	ascorbic acid
+T29	Chemical 742 749	lactose
+T30	Geometrical_part 769 787	crystal structures
+T31	Protein 798 803	HylP2
+T32	Category 816 825	complexes
+T33	Chemical 831 844	ascorbic acid
+T34	Chemical 849 856	lactose
+T35	Protein 879 884	HylP2
+T36	Value 885 890	folds
+T37	Protein_part 910 917	domains
+T38	Geometrical_part 955 967	antiparallel
+T39	Protein_part 968 980	beta-strands
+T40	Body_part 1013 1017	tube
+T41	Protein_part 1048 1058	beta-helix
+T42	Geometrical_part 1064 1074	structures
+T43	Category 1078 1087	complexes
+T44	Molecule 1104 1113	molecules
+T45	Chemical 1122 1135	ascorbic acid
+T46	Chemical 1140 1147	lactose
+T47	Protein 1156 1163	protein
+T48	Chemical 1171 1176	sugar
+T49	Process 1177 1184	binding
+T50	Geometrical_part 1186 1192	groove
+T51	Protein_part 1216 1233	beta-helix domain
+T52	Chemical 1240 1253	ascorbic acid
+T53	Chemical 1258 1275	lactose molecules
+T54	Protein_part 1300 1308	subsites
+T55	Chemical 1321 1331	saccharide
+T56	Process 1332 1339	binding
+T57	Geometrical_part 1340 1346	groove
+T58	Category 1353 1360	ligands
+T59	Chemical 1385 1393	hydrogen
+T60	Process 1401 1413	interactions
+T61	Protein_part 1422 1429	subsite
+T62	Process 1435 1442	binding
+T63	Parameter 1478 1488	properties
+T64	Protein_part 1504 1510	Tyr264
+T65	Parameter 1544 1552	activity
+T66	Protein 1556 1561	HylP2
+T67	Process 1567 1575	mutation
+T68	Protein_part 1579 1585	Tyr264
+T69	Protein_part 1589 1595	Phe264

@@ -1,0 +1,74 @@
+T1	Protein 22 59	3-hydroxyanthranilate-3,4-dioxygenase
+T2	Process 65 84	catalytic mechanism
+T3	Process 98 107	oxidation
+T4	Chemical 120 123	NAD
+T5	Process 124 136	biosynthesis
+T6	Protein 138 181	3-Hydroxyanthranilate-3,4-dioxygenase (HAD)
+T7	Process 196 205	oxidative
+T8	Geometrical_part 206 210	ring
+T9	Process 211 218	opening
+T10	Chemical 223 244	3-hydroxyanthranilate
+T11	Protein 258 267	enzymatic
+T12	Process 293 300	pathway
+T13	Protein_part 307 317	tryptophan
+T14	Chemical 321 332	quinolinate
+T15	Unknown 356 365	precursor
+T16	Chemical 373 386	pyridine ring
+T17	Chemical 390 423	nicotinamide adenine dinucleotide
+T18	Protein 429 435	enzyme
+T19	Chemical 445 449	Fe2+
+T20	Category 455 463	cofactor
+T21	Chemical 486 516	4-chloro-3-hydroxyanthranilate
+T22	Protein 518 521	HAD
+T23	Organism 527 550	Ralstonia metallidurans
+T24	Unknown 577 586	structure
+T25	Value 605 610	1.9 A
+T26	Parameter 611 621	resolution
+T27	Geometrical_part 627 637	structures
+T28	Protein 641 644	HAD
+T29	Category 664 673	inhibitor
+T30	Chemical 674 708	4-chloro-3-hydroxyanthranilic acid
+T31	Chemical 720 736	molecular oxygen
+T32	Chemical 740 752	nitric oxide
+T33	Value 772 777	2.0 A
+T34	Parameter 778 788	resolution
+T35	Geometrical_part 798 807	structure
+T36	Protein 811 814	HAD
+T37	Chemical 830 851	3-hydroxyanthranilate
+T38	Value 870 875	3.2 A
+T39	Parameter 876 886	resolution
+T40	Protein 888 891	HAD
+T41	Protein 897 906	homodimer
+T42	Protein 914 921	subunit
+T43	Geometrical_part 967 973	barrel
+T44	Geometrical_part 974 978	fold
+T45	Protein 985 992	monomer
+T46	Chemical 1007 1011	iron
+T47	Process 1012 1019	binding
+T48	Protein_part 1020 1025	sites
+T49	Chemical 1041 1045	iron
+T50	Protein_part 1072 1083	beta-barrel
+T51	Protein_part 1089 1094	His51
+T52	Protein_part 1096 1101	Glu57
+T53	Protein_part 1107 1112	His95
+T54	Category 1124 1131	ligands
+T55	Protein_part 1143 1152	iron site
+T56	Chemical 1163 1167	FeS4
+T57	Chemical 1188 1203	solvent surface
+T58	Chemical 1217 1229	sulfur atoms
+T59	Protein_part 1246 1252	Cys125
+T60	Protein_part 1254 1260	Cys128
+T61	Protein_part 1262 1268	Cys162
+T62	Protein_part 1274 1280	Cys165
+T63	Protein_part 1290 1300	iron sites
+T64	Value 1319 1323	24 A
+T65	Process 1332 1337	basis
+T66	Geometrical_part 1345 1363	crystal structures
+T67	Protein 1367 1370	HAD
+T68	Process 1372 1383	mutagenesis
+T69	Protein 1436 1442	enzyme
+T70	Process 1443 1452	mechanism
+T71	Process 1473 1482	mechanism
+T72	Protein 1491 1497	enzyme
+T73	Process 1498 1510	inactivation
+T74	Chemical 1514 1544	4-chloro-3-hydroxyanthranilate

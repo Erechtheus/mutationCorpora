@@ -1,0 +1,81 @@
+T1	Unknown 11 21	dissection
+T2	Process 27 33	gating
+T3	Process 34 43	mechanism
+T4	Process 55 68	misactivation
+T5	Protein 72 81	ubiquitin
+T6	Protein 85 92	NEDD8's
+T7	Value 93 95	E1
+T8	Process 125 137	modification
+T9	Protein 141 150	ubiquitin
+T10	Protein 155 185	ubiquitin-like proteins (UBLs)
+T11	Organism 197 207	eukaryotic
+T12	Process 208 217	mechanism
+T13	Protein 233 240	protein
+T14	Process 241 249	function
+T15	Protein 268 271	UBL
+T16	Protein_part 284 286	E1
+T17	Process 306 311	entry
+T18	Process 324 331	cascade
+T19	Protein_part 337 339	E1
+T20	Protein 356 359	UBL
+T21	Process 374 385	adenylation
+T22	Protein_part 393 409	UBL's C-terminus
+T23	Protein 430 433	UBL
+T24	Process 434 442	transfer
+T25	Protein_part 459 461	E2
+T26	Protein 463 474	Ubiquitin's
+T27	Protein_part 475 481	Arg 72
+T28	Protein_part 504 509	Ala72
+T29	Protein 517 526	UBL NEDD8
+T30	Protein_part 537 539	E1
+T31	Parameter 540 551	selectivity
+T32	Protein 574 583	ubiquitin
+T33	Protein_part 588 604	NEDD8 residue 72
+T34	Process 605 613	identity
+T35	Protein_part 649 651	E1
+T36	Protein_part 682 688	Arg190
+T37	Protein 696 708	UBA3 subunit
+T38	Protein 712 719	NEDD8's
+T39	Protein_part 734 736	E1
+T40	Protein 742 753	APPBP1-UBA3
+T41	Category 754 761	complex
+T42	Protein_part 787 790	Gln
+T43	Protein 794 805	ubiquitin's
+T44	Unknown 806 813	E1 UBA1
+T45	Protein 824 827	UBL
+T46	Parameter 828 839	selectivity
+T47	Technique 909 940	X-ray crystallographic analysis
+T48	Unknown 944 961	APPBP1-UBA3-NEDD8
+T49	Category 962 971	complexes
+T50	Protein_part 981 999	NEDD8's residue 72
+T51	Protein_part 1004 1022	UBA3's residue 190
+T52	Process 1044 1053	different
+T53	Protein_part 1070 1073	Ala
+T54	Protein_part 1075 1078	Arg
+T55	Protein_part 1083 1086	Gln
+T56	Unknown 1088 1101	APPBP1-UBA3's
+T57	Protein_part 1117 1130	NEDD8's Ala72
+T58	Protein_part 1184 1197	UBA3's Arg190
+T59	Process 1257 1269	interactions
+T60	Protein 1278 1289	ubiquitin's
+T61	Protein_part 1290 1295	Arg72
+T62	Protein_part 1303 1311	E1's Gln
+T63	Unknown 1322 1335	APPBP1-UBA3's
+T64	Protein 1363 1366	UBL
+T65	Protein_part 1374 1379	Arg72
+T66	Process 1396 1400	lack
+T67	Process 1419 1430	interaction
+T68	Protein_part 1455 1468	UBA3's Arg190
+T69	Geometrical_part 1503 1511	parallel
+T70	Protein_part 1512 1520	residues
+T71	Process 1526 1535	different
+T72	Protein 1536 1539	UBL
+T73	Process 1540 1548	pathways
+T74	Process 1570 1580	mechanisms
+T75	Process 1592 1603	interaction
+T76	Parameter 1604 1615	selectivity
+T77	Process 1675 1682	binding
+T78	Parameter 1686 1696	components
+T79	Process 1700 1709	different
+T80	Process 1710 1721	conjugation
+T81	Process 1722 1730	cascades

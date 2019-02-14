@@ -1,0 +1,76 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 15	structure
+T3	Protein 19 23	ILL2
+T4	Protein 28 58	auxin-conjugate amidohydrolase
+T5	Organism 64 84	Arabidopsis thaliana
+T6	Organism 90 95	plant
+T7	Molecule 96 103	hormone
+T8	Chemical 104 130	indole-3-acetic acid (IAA)
+T9	Protein 160 165	auxin
+T10	Organism 194 199	plant
+T11	Process 200 211	development
+T12	Process 216 222	growth
+T13	Chemical 228 231	IAA
+T14	Parameter 232 238	levels
+T15	Organism 242 248	plants
+T16	Molecular_Part 277 282	group
+T17	Protein 286 301	amidohydrolases
+T18	Protein 311 332	peptidase M20D family
+T19	Molecule 357 364	hormone
+T20	Process 385 392	storage
+T21	Technique 422 445	X-ray crystal structure
+T22	Chemical 449 485	IAA-amino acid hydrolase IAA-leucine
+T23	Protein 500 506	gene 2
+T24	Protein 508 512	ILL2
+T25	Organism 519 539	Arabidopsis thaliana
+T26	Value 543 548	2.0 A
+T27	Parameter 549 559	resolution
+T28	Protein 561 565	ILL2
+T29	Chemical 596 649	auxin-amino acid conjugate N-(indol-3-acetyl)-alanine
+T30	Geometrical_part 663 672	structure
+T31	Protein 676 680	ILL2
+T32	Location 699 708	dinuclear
+T33	Protein 709 726	metallopeptidases
+T34	Protein 736 756	M20 peptidase family
+T35	Unknown 762 771	structure
+T36	Protein_part 788 795	domains
+T37	Protein_part 806 822	catalytic domain
+T38	Body_part 828 839	three-layer
+T39	Protein 840 856	alpha beta alpha
+T40	Food 857 865	sandwich
+T41	Geometrical_part 866 878	architecture
+T42	Protein 883 897	aminopeptidase
+T43	Protein_part 921 937	satellite domain
+T44	Body_part 944 953	two-layer
+T45	Geometrical_part 954 972	alphabeta-sandwich
+T46	Geometrical_part 973 985	architecture
+T47	Chemical 1022 1027	metal
+T48	Protein_part 1041 1049	residues
+T49	Protein_part 1057 1068	active site
+T50	Protein 1072 1076	ILL2
+T51	Protein_part 1097 1105	cysteine
+T52	Protein 1138 1145	protein
+T53	Unknown 1189 1196	members
+T54	Protein 1204 1224	M20 peptidase family
+T55	Chemical 1238 1264	N-(indol-3-acetyl)-alanine
+T56	Protein_part 1274 1285	active site
+T57	Protein 1289 1293	ILL2
+T58	Protein_part 1308 1314	Leu175
+T59	Protein_part 1351 1372	amino acid side-chain
+T60	Protein 1393 1399	enzyme
+T61	Geometrical_part 1428 1434	pocket
+T62	Chemical 1493 1500	indolyl
+T63	Molecular_Part 1501 1507	moiety
+T64	Category 1515 1524	substrate
+T65	Protein_part 1539 1550	active site
+T66	Protein 1554 1558	ILL2
+T67	Chemical 1591 1600	glutamate
+T68	Protein_part 1602 1608	Glu172
+T69	Protein 1656 1665	acid-base
+T70	Protein_part 1666 1673	residue
+T71	Geometrical_part 1688 1697	structure
+T72	Protein 1701 1705	ILL2
+T73	Protein 1726 1732	enzyme
+T74	Process 1747 1766	catalytic mechanism
+T75	Protein 1819 1826	enzymes
+T76	Protein 1834 1854	M20 peptidase family

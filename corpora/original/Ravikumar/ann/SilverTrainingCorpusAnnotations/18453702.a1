@@ -1,0 +1,67 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 13 23	3-oxoacyl-
+T3	Protein 24 44	acyl-carrier protein
+T4	Protein 46 57	synthase II
+T5	Organism 63 87	Thermus thermophilus HB8
+T6	Protein 93 129	beta-ketoacyl-(acyl carrier protein)
+T7	Protein 130 139	synthases
+T8	Protein 141 164	beta-keto-ACP synthases
+T9	Protein 166 169	KAS
+T10	Process 184 192	addition
+T11	Chemical 196 206	two-carbon
+T12	Protein 228 238	acyl chain
+T13	Process 250 260	elongation
+T14	State 261 266	phase
+T15	Chemical 270 280	fatty-acid
+T16	Process 281 290	synthesis
+T17	Molecule 299 309	regulators
+T18	Organism 313 322	bacterial
+T19	Chemical 323 333	fatty-acid
+T20	Process 334 343	synthesis
+T21	Process 364 371	targets
+T22	Process 380 391	development
+T23	Unknown 399 412	antibacterial
+T24	Geometrical_part 425 442	crystal structure
+T25	Protein 446 471	3-oxoacyl-ACP synthase II
+T26	Organism 477 501	Thermus thermophilus HB8
+T27	Organism 503 511	TtKAS II
+T28	Process 532 553	molecular replacement
+T29	Value 570 575	2.0 A
+T30	Parameter 576 586	resolution
+T31	Unknown 592 599	crystal
+T32	Geometrical_part 617 639	space group P2(1)2(1)2
+T33	Body_part 646 655	unit-cell
+T34	Parameter 656 666	parameters
+T35	Parameter 667 668	a
+T36	Value 671 676	72.07
+T37	Parameter 678 679	b
+T38	Value 682 688	185.57
+T39	Parameter 690 691	c
+T40	Value 694 701	62.52 A
+T41	Protein 720 729	homodimer
+T42	Protein 758 766	subunits
+T43	Protein 788 815	alpha-beta-alpha-beta-alpha
+T44	Protein 816 824	thiolase
+T45	Protein 848 861	ACP synthases
+T46	Protein_part 882 890	sequence
+T47	Parameter 891 903	similarities
+T48	Organism 907 915	TtKAS II
+T49	Protein 919 924	KAS I
+T50	Protein 929 943	KAS II enzymes
+T51	Unknown 953 962	structure
+T52	Protein 1019 1028	enzymatic
+T53	Parameter 1029 1037	activity
+T54	State 1043 1056	dimeric state
+T55	Organism 1060 1068	TtKAS II
+T56	Chemical 1097 1107	fatty-acid
+T57	Geometrical_part 1116 1122	pocket
+T58	Process 1131 1142	examination
+T59	Protein 1146 1149	KAS
+T60	Geometrical_part 1150 1160	structures
+T61	Protein 1194 1197	KAS
+T62	Geometrical_part 1198 1208	structures
+T63	Protein_part 1230 1241	active site
+T64	Organism 1245 1253	TtKAS II
+T65	State 1289 1307	open' conformation
+T66	Protein_part 1315 1321	Phe396
+T67	Protein_part 1322 1332	side chain

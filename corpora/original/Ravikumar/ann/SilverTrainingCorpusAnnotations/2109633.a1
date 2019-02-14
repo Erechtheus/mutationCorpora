@@ -1,0 +1,80 @@
+T1	State 13 29	transition-state
+T2	Process 30 43	stabilization
+T3	Protein_part 47 57	serine-148
+T4	Process 65 84	catalytic mechanism
+T5	Protein 88 121	chloramphenicol acetyltransferase
+T6	Process 127 135	function
+T7	Protein_part 149 156	Ser-148
+T8	Protein 160 199	chloramphenicol acetyltransferase (CAT)
+T9	Technique 226 251	site-directed mutagenesis
+T10	Unknown 274 285	C. E. Moody
+T11	Unknown 294 306	G. W. Leslie
+T12	Chemical 348 356	hydroxyl
+T13	Molecular_Part 357 362	group
+T14	Protein_part 366 373	Ser-148
+T15	State 395 411	transition-state
+T16	Process 412 425	stabilization
+T17	Chemical 432 445	hydrogen bond
+T18	Chemical 453 461	oxyanion
+T19	Molecule 490 502	intermediate
+T20	Process 504 515	Replacement
+T21	Protein_part 519 525	serine
+T22	Protein_part 529 536	alanine
+T23	Protein 550 563	mutant enzyme
+T24	Protein 565 576	Ala-148 CAT
+T25	Parameter 583 587	kcat
+T26	Value 596 603	53-fold
+T27	Process 619 626	changes
+T28	Parameter 630 639	Km values
+T29	Chemical 644 659	chloramphenicol
+T30	Chemical 664 674	acetyl-CoA
+T31	Protein_part 680 694	Ser-148----Gly
+T32	Process 695 707	substitution
+T33	Protein 724 737	mutant enzyme
+T34	Protein 739 750	Gly-148 CAT
+T35	Parameter 757 761	kcat
+T36	Value 775 782	10-fold
+T37	Chemical 786 800	water molecule
+T38	Chemical 827 835	hydrogen
+T39	Parameter 844 853	potential
+T40	Protein_part 857 864	Ser-148
+T41	Protein 868 879	Gly-148 CAT
+T42	Geometrical_part 885 912	three-dimensional structure
+T43	Protein 916 927	Ala-148 CAT
+T44	Value 931 937	2.34-A
+T45	Parameter 938 948	resolution
+T46	Protein 975 988	wild-type CAT
+T47	Process 998 1008	exceptions
+T48	Process 1014 1021	absence
+T49	Chemical 1029 1045	Ser-148 hydroxyl
+T50	Molecular_Part 1046 1051	group
+T51	Process 1060 1064	loss
+T52	Chemical 1088 1102	water molecule
+T53	Protein_part 1112 1130	active site region
+T54	Process 1176 1180	role
+T55	Protein_part 1185 1192	Ser-148
+T56	Protein_part 1254 1261	Ser-148
+T57	State 1277 1293	transition-state
+T58	Process 1294 1307	stabilization
+T59	Protein_part 1309 1316	Ser-148
+T60	Protein_part 1345 1353	cysteine
+T61	Protein_part 1358 1368	asparagine
+T62	Protein_part 1374 1388	Ser-148----Cys
+T63	Process 1389 1397	mutation
+T64	Value 1412 1420	705-fold
+T65	Process 1421 1429	decrease
+T66	Parameter 1433 1437	kcat
+T67	Protein_part 1446 1460	Ser-148----Asn
+T68	Process 1461 1473	substitution
+T69	Value 1479 1487	214-fold
+T70	Process 1488 1497	reduction
+T71	Parameter 1501 1505	kcat
+T72	Chemical 1520 1533	hydrogen bond
+T73	Category 1534 1539	donor
+T74	Protein_part 1541 1555	Ser-148----Ala
+T75	Protein_part 1559 1562	Gly
+T76	Protein_part 1599 1606	Ser-148
+T77	Chemical 1633 1646	hydrogen bond
+T78	Category 1647 1653	donors
+T79	Protein_part 1655 1669	Ser-148----Cys
+T80	Protein_part 1673 1676	Asn

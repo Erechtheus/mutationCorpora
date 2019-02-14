@@ -1,0 +1,91 @@
+T1	Protein 12 36	intersubunit ferroxidase
+T2	Organism 47 63	Listeria innocua
+T3	Unknown 64 67	Dps
+T4	Chemical 84 101	hydrogen peroxide
+T5	Process 102 116	detoxification
+T6	Chemical 129 133	iron
+T7	Process 134 140	uptake
+T8	Protein_part 155 159	site
+T9	Molecule 169 176	mutants
+T10	Process 182 186	role
+T11	Protein 194 205	ferroxidase
+T12	Chemical 216 220	iron
+T13	Process 221 227	uptake
+T14	Chemical 232 249	hydrogen peroxide
+T15	Process 250 264	detoxification
+T16	Organism 285 301	Listeria innocua
+T17	Unknown 302 305	Dps
+T18	Chemical 326 330	iron
+T19	Category 332 339	ligands
+T20	Protein_part 340 345	His31
+T21	Protein_part 347 352	His43
+T22	Protein_part 358 363	Asp58
+T23	Chemical 369 376	glycine
+T24	Protein_part 380 396	alanine residues
+T25	Technique 440 464	X-ray crystal structures
+T26	Unknown 472 480	variants
+T27	Process 499 510	alterations
+T28	Protein 518 529	ferroxidase
+T29	Protein_part 537 543	region
+T30	Protein 567 574	protein
+T31	Protein 593 600	protein
+T32	Technique 601 613	fluorescence
+T33	Technique 638 651	stoichiometry
+T34	Parameter 656 664	affinity
+T35	Chemical 668 673	metal
+T36	Process 674 681	binding
+T37	Process 683 695	Substitution
+T38	Protein_part 706 711	His31
+T39	Protein_part 715 720	His43
+T40	Chemical 731 737	Fe(II)
+T41	Parameter 738 746	affinity
+T42	Organism 780 790	L. innocua
+T43	Unknown 791 794	Dps
+T44	Unknown 841 848	M(-)(1)
+T45	Process 873 880	binding
+T46	Technique 881 894	stoichiometry
+T47	Chemical 899 915	Fe(II)/dodecamer
+T48	Protein_part 925 934	H31G-H43G
+T49	Unknown 939 963	H31G-H43G-D58A  variants
+T50	Process 965 972	binding
+T51	Chemical 976 982	Fe(II)
+T52	Parameter 1019 1027	affinity
+T53	Process 1029 1038	Oxidation
+T54	Protein 1042 1049	protein
+T55	Chemical 1056 1062	Fe(II)
+T56	Process 1077 1084	binding
+T57	Technique 1085 1098	stoichiometry
+T58	Chemical 1105 1122	Fe(III)/dodecamer
+T59	Technique 1147 1159	fluorescence
+T60	Chemical 1175 1182	Fe(III)
+T61	Process 1183 1190	binding
+T62	Geometrical_part 1210 1213	end
+T63	Chemical 1228 1245	Fe(III)/dodecamer
+T64	Process 1273 1281	increase
+T65	Protein_part 1307 1315	residues
+T66	Process 1324 1332	presence
+T67	Chemical 1336 1344	dioxygen
+T68	Process 1350 1359	mutations
+T69	Process 1378 1384	effect
+T70	Parameter 1392 1400	kinetics
+T71	Chemical 1404 1408	iron
+T72	Process 1409 1415	uptake
+T73	Process 1427 1436	formation
+T74	Chemical 1440 1448	micelles
+T75	Protein 1460 1467	protein
+T76	Process 1495 1503	presence
+T77	Chemical 1507 1524	hydrogen peroxide
+T78	Process 1531 1539	increase
+T79	Process 1557 1570	substitutions
+T80	Parameter 1575 1579	rate
+T81	Chemical 1583 1587	iron
+T82	Process 1588 1597	oxidation
+T83	Parameter 1606 1614	capacity
+T84	Unknown 1626 1632	Fenton
+T85	Molecule 1663 1666	DNA
+T86	Process 1672 1681	oxidative
+T87	Process 1734 1744	indication
+T88	Process 1752 1756	role
+T89	Process 1760 1773	ferroxidation
+T90	Chemical 1788 1796	peroxide
+T91	Organism 1814 1823	bacterium

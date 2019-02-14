@@ -1,0 +1,71 @@
+T1	Process 2 21	catalytic mechanism
+T2	Geometrical_part 38 56	crystal structures
+T3	Protein 64 85	imidazolonepropionase
+T4	Organism 91 108	Bacillus subtilis
+T5	Protein 110 131	Imidazolonepropionase
+T6	Protein 133 143	EC 3.5.2.7
+T7	Protein_part 187 196	histidine
+T8	Process 197 208	degradation
+T9	Process 209 216	pathway
+T10	Chemical 234 255	carbon-nitrogen bonds
+T11	Chemical 259 289	4-imidazolone-5-propionic acid
+T12	Chemical 299 326	N-formimino-l-glutamic acid
+T13	Geometrical_part 347 365	crystal structures
+T14	Organism 373 390	Bacillus subtilis
+T15	Protein 391 412	imidazolonepropionase
+T16	Category 422 429	complex
+T17	Value 433 438	2.0-A
+T18	Parameter 439 449	resolution
+T19	Category 455 464	substrate
+T20	Chemical 465 509	analog imidazole-4-acetic acid sodium (I4AA)
+T21	Unknown 515 524	structure
+T22	Protein 539 545	enzyme
+T23	Protein_part 559 566	domains
+T24	Protein 570 602	TIM (triose-phosphate isomerase)
+T25	Geometrical_part 603 609	barrel
+T26	Protein_part 610 616	domain
+T27	Process 626 636	insertions
+T28	Geometrical_part 649 662	beta-sandwich
+T29	Protein_part 663 669	domain
+T30	Protein 675 678	TIM
+T31	Geometrical_part 679 685	barrel
+T32	Protein_part 686 692	domain
+T33	Unknown 717 724	members
+T34	Geometrical_part 732 749	alpha/beta barrel
+T35	Protein 768 789	hydrolase superfamily
+T36	Organism 805 821	Escherichia coli
+T37	Protein 822 840	cytosine deaminase
+T38	Chemical 844 853	metal ion
+T39	Body_part 871 885	central cavity
+T40	Protein 894 897	TIM
+T41	Geometrical_part 898 904	barrel
+T42	Protein_part 936 951	residues His-80
+T43	Protein_part 953 959	His-82
+T44	Protein_part 961 968	His-249
+T45	Protein_part 970 977	Asp-324
+T46	Chemical 985 999	water molecule
+T47	Technique 1001 1019	X-ray fluorescence
+T48	Technique 1025 1033	analysis
+T49	Chemical 1059 1068	metal ion
+T50	Chemical 1075 1083	zinc ion
+T51	Chemical 1088 1099	acetate ion
+T52	Value 1101 1104	6 A
+T53	Chemical 1120 1128	zinc ion
+T54	Protein_part 1162 1173	active site
+T55	Geometrical_part 1190 1199	structure
+T56	Chemical 1205 1209	I4AA
+T57	Category 1213 1222	substrate
+T58	Unknown 1223 1229	analog
+T59	Chemical 1231 1235	I4AA
+T60	Chemical 1249 1260	acetate ion
+T61	Protein_part 1280 1286	Arg-89
+T62	Protein_part 1288 1295	Try-102
+T63	Protein_part 1297 1304	Tyr-152
+T64	Protein_part 1306 1313	His-185
+T65	Protein_part 1319 1326	Glu-252
+T66	Protein_part 1364 1375	active site
+T67	Chemical 1433 1437	zinc
+T68	Process 1468 1477	mechanism
+T69	Process 1486 1496	hydrolysis
+T70	Process 1497 1505	reaction
+T71	Protein 1523 1529	enzyme

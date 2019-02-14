@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Technique 18 26	analysis
+T3	Organism 39 55	Escherichia coli
+T4	Chemical 56 67	thioredoxin
+T5	Protein_part 77 83	lysine
+T6	Protein_part 84 86	36
+T7	Protein_part 102 115	glutamic acid
+T8	Unknown 121 130	structure
+T9	Organism 143 159	Escherichia coli
+T10	Chemical 160 171	thioredoxin
+T11	Protein_part 179 192	glutamic acid
+T12	Protein_part 221 227	lysine
+T13	Location 231 242	position 36
+T14	Location 243 251	adjacent
+T15	Protein_part 259 270	active site
+T16	Process 293 314	molecular replacement
+T17	Value 330 335	2.0-A
+T18	Parameter 336 346	resolution
+T19	Technique 352 368	crystallographic
+T20	Value 381 386	19.9%
+T21	Molecule 392 398	mutant
+T22	Geometrical_part 435 446	space group
+T23	Molecule 456 464	molecule
+T24	Unknown 493 502	structure
+T25	Chemical 511 529	mutant thioredoxin
+T26	Organism 578 585	E. coli
+T27	Chemical 586 597	thioredoxin
+T28	Parameter 603 630	root-mean-square deviations
+T29	Protein 639 648	C alpha s
+T30	Value 653 657	0.45
+T31	Value 662 669	0.79  A
+T32	Unknown 682 698	mutant structure
+T33	Molecule 711 720	molecules
+T34	Unknown 751 769	wild-type crystals
+T35	Process 782 789	changes
+T36	Protein_part 810 818	residues
+T37	Protein_part 826 844	active-site region
+T38	Chemical 859 868	disulfide
+T39	Protein_part 888 902	residues 29-32
+T40	State 915 927	conformation
+T41	Unknown 935 941	type I
+T42	Unknown 947 954	type II
+T43	Process 966 972	change
+T44	Process 995 999	loss
+T45	Chemical 1005 1018	hydrogen bond
+T46	Protein_part 1024 1030	Lys-36
+T47	Chemical 1038 1057	main-chain carbonyl
+T48	Protein_part 1062 1072	residue 30
+T49	Process 1084 1092	mutation
+T50	Chemical 1098 1110	C alpha atom
+T51	Protein_part 1114 1120	Trp-31
+T52	Value 1131 1136	1.9 A
+T53	Chemical 1145 1156	indole ring
+T54	Chemical 1173 1187	hydrogen bonds
+T55	Chemical 1195 1203	carboxyl
+T56	Molecular_Part 1204 1209	group
+T57	Protein_part 1213 1219	Asp-61
+T58	Unknown 1250 1257	crystal
+T59	Process 1258 1265	contact
+T60	Process 1282 1293	differences
+T61	Chemical 1306 1324	mutant thioredoxin
+T62	Unknown 1350 1357	crystal
+T63	Process 1358 1365	packing
+T64	Protein_part 1384 1390	Glu-36
+T65	Unknown 1407 1414	crystal
+T66	Process 1415 1423	contacts
+T67	Technique 1436 1448	fluorescence
+T68	Chemical 1457 1475	mutant thioredoxin
+T69	Process 1482 1491	different
+T70	Parameter 1492 1494	pH

@@ -1,0 +1,81 @@
+T1	Unknown 0 10	Dissection
+T2	Protein_part 14 19	helix
+T3	Protein 31 42	T4 lysozyme
+T4	Technique 75 83	analysis
+T5	Protein_part 91 101	amino acid
+T6	Process 102 115	substitutions
+T7	Protein_part 119 125	Thr 59
+T8	Protein_part 127 139	Threonine 59
+T9	Protein_part 143 148	helix
+T10	Protein_part 157 164	residue
+T11	Protein_part 172 186	amino terminus
+T12	Protein_part 202 207	helix
+T13	Organism 212 220	T4 phage
+T14	Protein 221 229	lysozyme
+T15	Protein_part 252 258	valine
+T16	Protein_part 260 267	alanine
+T17	Chemical 269 276	glycine
+T18	Protein_part 278 284	serine
+T19	Protein_part 286 296	asparagine
+T20	Protein_part 302 315	aspartic acid
+T21	Protein_part 321 327	valine
+T22	Protein_part 329 336	alanine
+T23	Chemical 342 349	glycine
+T24	Process 350 362	replacements
+T25	Protein_part 416 422	serine
+T26	Protein_part 424 434	asparagine
+T27	Protein_part 440 454	aspartic  acid
+T28	Geometrical_part 460 478	crystal structures
+T29	Process 486 495	different
+T30	Unknown 496 504	variants
+T31	Process 517 524	changes
+T32	State 528 540	conformation
+T33	Protein_part 557 561	site
+T34	Process 565 577	substitution
+T35	Protein_part 589 595	Asp 61
+T36	Process 625 637	displacement
+T37	Chemical 643 659	solvent molecule
+T38	Chemical 668 676	hydrogen
+T39	Chemical 692 704	gamma-oxygen
+T40	Protein_part 708 714	Thr 59
+T41	Protein 718 736	wild-type lysozyme
+T42	Unknown 750 760	structures
+T43	Protein 789 804	mutant proteins
+T44	Organism 831 838	Serrano
+T45	Unknown 843 849	Fersht
+T46	Chemical 862 869	glycine
+T47	Protein_part 874 881	alanine
+T48	Protein_part 893 898	helix
+T49	Protein_part 907 915	residues
+T50	Protein_part 921 927	valine
+T51	Protein_part 952 959	residue
+T52	Process 974 983	hydration
+T53	Geometrical_part 991 994	end
+T54	Protein_part 1002 1007	helix
+T55	Protein_part 1017 1030	aspartic acid
+T56	Protein_part 1035 1045	asparagine
+T57	Process 1046 1058	replacements
+T58	Protein_part 1075 1086	side chains
+T59	Chemical 1092 1106	hydrogen bonds
+T60	Geometrical_part 1116 1119	end
+T61	Protein_part 1127 1132	helix
+T62	Protein_part 1142 1151	threonine
+T63	Protein_part 1156 1162	serine
+T64	Protein_part 1207 1210	Asp
+T65	Protein_part 1215 1218	Asn
+T66	Protein_part 1219 1230	side chains
+T67	Process 1257 1265	contacts
+T68	Chemical 1271 1283	carbon atoms
+T69	Protein_part 1287 1293	Asp 61
+T70	Process 1322 1327	basis
+T71	Protein_part 1375 1385	asparagine
+T72	Protein_part 1420 1425	helix
+T73	Protein_part 1434 1441	residue
+T74	Protein_part 1447 1456	threonine
+T75	Unknown 1504 1511	Science
+T76	Protein_part 1532 1542	Thr----Asn
+T77	Process 1543 1555	replacements
+T78	Location 1559 1574	N-cap positions
+T79	Protein 1579 1586	barnase
+T80	Unknown 1645 1647	R.
+T81	Unknown 1655 1661	Nature

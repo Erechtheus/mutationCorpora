@@ -1,0 +1,36 @@
+T1	Protein 41 44	p38
+T2	Category 45 55	inhibitors
+T3	Chemical 67 87	phthalazine scaffold
+T4	Process 89 103	Investigations
+T5	Parameter 113 151	structure-activity relationships (SAR)
+T6	Chemical 167 178	phthalazine
+T7	Category 185 195	inhibitors
+T8	Protein 199 202	p38
+T9	Chemical 249 262	quinazoline 1
+T10	Process 302 313	development
+T11	Category 372 382	inhibitors
+T12	Protein 384 390	Kinase
+T13	Parameter 391 402	selectivity
+T14	Process 446 458	interactions
+T15	Protein 464 472	p38alpha
+T16	Process 489 496	contact
+T17	Protein_part 500 506	Ala157
+T18	Process 508 518	occupation
+T19	Geometrical_part 549 555	pocket
+T20	Protein_part 563 570	residue
+T21	Protein_part 581 587	Gly110
+T22	Process 589 602	Substitutions
+T23	Chemical 610 621	phthalazine
+T24	Parameter 653 663	properties
+T25	Chemical 674 682	compound
+T26	Body_part 724 728	Oral
+T27	Value 737 747	0.03 mg/kg
+T28	Organism 758 762	rats
+T29	Value 763 766	1 h
+T30	Unknown 776 779	LPS
+T31	Process 780 789	challenge
+T32	Parameter 791 792	a
+T33	Value 797 801	>50%
+T34	Process 802 810	decrease
+T35	Unknown 814 822	TNFalpha
+T36	Process 823 833	production

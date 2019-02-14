@@ -1,0 +1,7 @@
+A cDNA encoding a precursor for a novel serine protease (neurosin) was cloned from a cDNA library prepared from a human colon adenocarcinoma cell line, COLO 201 . 
+The sequence consisted of 155 bp 5' non-coding region and a 732 bp open reading frame which was followed by a 551 bp 3' non-coding region . 
+The predicted protein consists of 244 amino acids which is possibly processed to an active enzyme of 223 amino acids that shows some similarity (&lt; 30%) to other members of serine protease family . 
+As found in other trypsin-like proteases, the enzyme contains the catalytic triad which is characterized as the essential amino acid residues for the activity . 
+Northern blot analyses of the mRNA showed the strongest expression in brain followed by a lower but significant one in spleen . 
+A construct of cDNA encoding chimeric protein that carries pro-sequence of trypsin II and putative mature neurosin starting from Leu22 was transfected to COS-1 cells . 
+Successful production of the active neurosin was shown after treating the supernatant of the culture of the transfectants with enterokinase . 

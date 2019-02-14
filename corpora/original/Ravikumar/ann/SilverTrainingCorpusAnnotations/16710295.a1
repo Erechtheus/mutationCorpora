@@ -1,0 +1,54 @@
+T1	Process 0 11	Protonation
+T2	Unknown 51 52	F
+T3	Process 53 64	conjugation
+T4	Protein 76 83	protein
+T5	Protein 85 89	TraM
+T6	Protein 91 95	TraM
+T7	Body_part 113 122	F plasmid
+T8	Organism 132 141	bacterial
+T9	Process 142 153	conjugation
+T10	Body_part 177 184	plasmid
+T11	Molecule 185 188	DNA
+T12	Process 208 216	transfer
+T13	Parameter 235 244	component
+T14	Body_part 252 265	transmembrane
+T15	Molecule 266 269	DNA
+T16	Process 270 278	transfer
+T17	Category 279 286	complex
+T18	Molecule 288 292	TraD
+T19	Value 313 319	1.40 A
+T20	Geometrical_part 320 337	crystal structure
+T21	Protein 345 349	TraM
+T22	Protein 355 363	tetramer
+T23	Protein 365 375	TraM58-127
+T24	Protein 378 388	TraM58-127
+T25	Geometrical_part 416 422	bundle
+T26	Protein_part 437 455	N-terminal helices
+T27	Protein 466 474	protomer
+T28	Geometrical_part 503 511	parallel
+T29	Geometrical_part 526 537	coiled-coil
+T30	Protein_part 552 568	C-terminal helix
+T31	Geometrical_part 581 593	antiparallel
+T32	Process 594 605	arrangement
+T33	Unknown 632 641	structure
+T34	Protein_part 659 681	glutamic acid residues
+T35	Protein_part 683 688	Glu88
+T36	Chemical 706 714	hydrogen
+T37	Process 722 733	arrangement
+T38	Protein_part 745 770	central four-helix bundle
+T39	Technique 799 807	analyses
+T40	State 838 843	state
+T41	Process 850 861	equilibrium
+T42	Geometrical_part 882 897	tetrameric form
+T43	Geometrical_part 923 930	helical
+T44	Parameter 956 958	pH
+T45	Parameter 963 974	temperature
+T46	Process 976 986	Comparison
+T47	Protein 990 994	TraM
+T48	Protein_part 1002 1007	Glu88
+T49	Molecule 1008 1015	mutants
+T50	Geometrical_part 1043 1060	helical structure
+T51	State 1090 1095	state
+T52	Process 1119 1126	binding
+T53	Molecule 1127 1131	TraD
+T54	Process 1135 1146	conjugation

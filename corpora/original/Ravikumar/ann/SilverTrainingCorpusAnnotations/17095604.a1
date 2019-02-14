@@ -1,0 +1,75 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 27	human
+T3	Body_part 28 35	cardiac
+T4	Protein 36 50	beta-myosin II
+T5	Process 51 59	S2-Delta
+T6	Process 68 75	insight
+T7	Process 97 101	role
+T8	Process 109 111	S2
+T9	Unknown 112 123	subfragment
+T10	Protein 125 134	Myosin II
+T11	Parameter 148 157	component
+T12	Body_part 165 171	muscle
+T13	Protein 178 186	filament
+T14	Protein_part 207 217	N-terminal
+T15	Unknown 218 233	S1 subfragments
+T16	Body_part 272 287	coiled-coil rod
+T17	Body_part 293 296	rod
+T18	Value 310 317	twofold
+T19	Protein 340 348	filament
+T20	Body_part 358 363	heads
+T21	Protein 385 393	filament
+T22	Geometrical_part 394 401	surface
+T23	Geometrical_part 453 461	symmetry
+T24	Unknown 483 490	section
+T25	Body_part 498 501	rod
+T26	Process 503 521	subfragment 2 (S2)
+T27	Process 550 552	S2
+T28	Unknown 580 587	element
+T29	Process 609 619	mechanisms
+T30	Parameter 633 641	activity
+T31	Body_part 656 671	striated muscle
+T32	Geometrical_part 705 723	crystal structures
+T33	Protein_part 735 754	N-terminal residues
+T34	Process 758 760	S2
+T35	Organism 766 771	human
+T36	Body_part 772 779	cardiac
+T37	Protein 780 794	beta-myosin II
+T38	Process 796 804	S2-Delta
+T39	Unknown 815 817	WT
+T40	Physiology 826 833	disease
+T41	Protein_part 845 857	E924K mutant
+T42	Process 859 867	S2-Delta
+T43	Geometrical_part 882 890	parallel
+T44	Protein_part 920 930	N terminus
+T45	Protein 938 943	chain
+T46	Process 961 972	WT-S2-Delta
+T47	Unknown 980 987	crystal
+T48	Process 988 996	contacts
+T49	Geometrical_part 1021 1036	local structure
+T50	Protein_part 1057 1068	side chains
+T51	Process 1097 1107	S2-Delta's
+T52	Protein_part 1108 1118	N terminus
+T53	Location 1159 1164	axial
+T54	Unknown 1215 1230	S1 subfragments
+T55	Process 1246 1248	S2
+T56	Parameter 1271 1290	charge distribution
+T57	Geometrical_part 1312 1317	rings
+T58	Value 1321 1329	negative
+T59	Parameter 1330 1339	potential
+T60	Process 1347 1355	S2-Delta
+T61	Process 1390 1397	binding
+T62	Body_part 1434 1447	smooth muscle
+T63	Protein 1448 1454	myosin
+T64	State 1466 1471	state
+T65	Physiology 1499 1506	disease
+T66	Process 1518 1527	mutations
+T67	Geometrical_part 1565 1569	ring
+T68	Parameter 1592 1598	charge
+T69	Process 1599 1611	interactions
+T70	Process 1630 1634	role
+T71	Process 1638 1648	regulation
+T72	Body_part 1652 1666	cardiac muscle
+T73	Parameter 1667 1675	activity
+T74	Protein 1684 1690	myosin
+T75	Protein 1699 1708	protein C

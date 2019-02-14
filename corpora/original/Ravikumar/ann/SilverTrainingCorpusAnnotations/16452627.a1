@@ -1,0 +1,42 @@
+T1	Chemical 12 25	hydrogen bond
+T2	Process 26 38	interactions
+T3	Chemical 46 72	streptavidin-biotin system
+T4	Protein_part 133 139	Ser45-
+T5	Chemical 144 170	D128-biotin hydrogen bonds
+T6	Technique 204 226	X-ray crystallographic
+T7	Molecule 242 252	S45A/D128A
+T8	Molecule 253 266	double mutant
+T9	Chemical 270 282	streptavidin
+T10	Molecule 288 301	double mutant
+T11	Parameter 313 329	binding affinity
+T12	Value 330 351	approximately 2x10(7)
+T13	Parameter 352 357	times
+T14	Chemical 377 399	wild-type streptavidin
+T15	Value 403 415	25 degrees C
+T16	Process 435 444	reduction
+T17	Parameter 448 482	binding free energy  (DeltaDeltaG)
+T18	Value 486 499	10.1 kcal/mol
+T19	Parameter 529 545	binding enthalpy
+T20	Parameter 561 572	temperature
+T21	Process 578 582	loss
+T22	Parameter 586 602	binding affinity
+T23	Value 606 613	11-fold
+T24	Process 698 711	perturbations
+T25	Value 713 725	8.7 kcal/mol
+T26	Process 754 763	mutations
+T27	Technique 788 804	Crystallographic
+T28	Process 805 821	characterization
+T29	Molecule 829 842	double mutant
+T30	Unknown 878 895	mutant structures
+T31	Process 920 934	rearrangements
+T32	Protein_part 942 945	S45
+T33	Chemical 965 981	D128 carboxylate
+T34	Process 1018 1030	contribution
+T35	Unknown 1038 1049	D128-biotin
+T36	Process 1050 1061	interaction
+T37	Technique 1112 1120	analyses
+T38	Chemical 1153 1176	wild-type hydrogen bond
+T39	Chemical 1185 1192	D128-OD
+T40	Unknown 1197 1206	biotin-N2
+T41	Unknown 1255 1261	S45-OG
+T42	Unknown 1266 1275	biotin-N1

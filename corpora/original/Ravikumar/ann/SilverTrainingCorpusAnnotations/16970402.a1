@@ -1,0 +1,47 @@
+T1	Organism 0 5	HIV-1
+T2	Protein 6 14	protease
+T3	Process 15 24	mutations
+T4	Category 29 38	inhibitor
+T5	Process 39 52	modifications
+T6	Category 78 87	complexes
+T7	Process 100 105	basis
+T8	Process 114 120	effect
+T9	Protein 128 132	A71V
+T10	Process 133 141	mutation
+T11	Protein_part 149 160	active site
+T12	Technique 170 186	X-ray structures
+T13	Organism 193 198	HIV-1
+T14	Protein 199 214	protease mutant
+T15	Protein 216 220	A71V
+T16	Protein_part 222 226	V82T
+T17	Protein_part 228 232	I84V
+T18	Category 237 244	complex
+T19	Category 250 260	inhibitors
+T20	Unknown 261 263	SE
+T21	Chemical 268 270	SQ
+T22	Protein_part 272 290	pseudotetrapeptide
+T23	Category 291 301	inhibitors
+T24	Chemical 310 338	acyclic  S-hydroxyethylamine
+T25	Process 366 376	Comparison
+T26	Unknown 386 396	structures
+T27	Process 411 418	binding
+T28	Unknown 447 449	SE
+T29	Chemical 451 453	SQ
+T30	Chemical 455 474	S-hydroxyethylamine
+T31	Chemical 486 488	OE
+T32	Chemical 490 503	ethyleneamine
+T33	Chemical 510 514	QF34
+T34	Chemical 516 531	hydroxyethylene
+T35	Organism 551 571	A71V/V82T/I84V HIV-1
+T36	Protein 572 580	protease
+T37	Process 618 629	interaction
+T38	Protein 660 664	A71V
+T39	Process 665 673	mutation
+T40	Protein_part 701 712	active site
+T41	Process 721 728	changes
+T42	Geometrical_part 736 745	structure
+T43	Protein 753 759	enzyme
+T44	Technique 787 811	X-ray structure analysis
+T45	Process 828 839	propagation
+T46	Process 847 853	effect
+T47	Protein_part 865 876	active site

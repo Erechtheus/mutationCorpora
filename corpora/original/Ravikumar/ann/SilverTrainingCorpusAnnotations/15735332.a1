@@ -1,0 +1,85 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 29	Escherichia coli
+T3	Protein 30 64	glutamate decarboxylase (GADalpha)
+T4	Category 68 75	complex
+T5	Value 95 109	2.05 angstroms
+T6	Parameter 110 120	resolution
+T7	Protein 122 151	Glutamate decarboxylase (GAD)
+T8	Protein 157 173	pyridoxal enzyme
+T9	Process 193 203	conversion
+T10	Chemical 207 218	L-glutamate
+T11	Chemical 224 247	gamma-aminobutyric acid
+T12	Chemical 252 266	carbon dioxide
+T13	Organism 272 288	Escherichia coli
+T14	Protein 289 295	enzyme
+T15	Protein 310 318	isozymes
+T16	Protein 335 343	GADalpha
+T17	Protein 348 355	GADbeta
+T18	Unknown 357 365	Crystals
+T19	Category 373 380	complex
+T20	Protein 400 416	isozyme GADalpha
+T21	Category 437 446	substrate
+T22	Unknown 448 456	analogue
+T23	Geometrical_part 471 485	space group R3
+T24	Body_part 492 501	unit-cell
+T25	Parameter 502 512	parameters
+T26	Parameter 517 518	b
+T27	Value 521 526	117.1
+T28	Parameter 528 529	c
+T29	Value 532 547	196.4 angstroms
+T30	Geometrical_part 553 562	structure
+T31	Protein 570 576	enzyme
+T32	Process 595 616	molecular-replacement
+T33	Value 639 653	2.05 angstroms
+T34	Parameter 654 664	resolution
+T35	Parameter 671 679	R factor
+T36	Value 683 688	15.1%
+T37	Value 700 705	19.9%
+T38	Protein 739 744	dimer
+T39	Protein 763 771	subunits
+T40	Protein 779 785	enzyme
+T41	Value 819 826	twofold
+T42	Location 827 831	axis
+T43	Technique 875 891	crystallographic
+T44	Geometrical_part 892 906	threefold axis
+T45	Protein 913 919	dimers
+T46	Technique 937 953	crystallographic
+T47	Geometrical_part 954 968	threefold axis
+T48	Protein 979 986	hexamer
+T49	Protein_part 992 1003	active site
+T50	Protein 1012 1019	subunit
+T51	Protein_part 1033 1041	residues
+T52	Protein_part 1055 1062	domains
+T53	Protein 1071 1079	subunits
+T54	Protein 1087 1092	dimer
+T55	Chemical 1098 1132	coenzyme pyridoxal phosphate (PLP)
+T56	Chemical 1151 1155	bond
+T57	Protein_part 1161 1167	Lys276
+T58	Molecule 1183 1191	molecule
+T59	Protein_part 1205 1216	active site
+T60	Protein 1224 1230	enzyme
+T61	State 1242 1255	conformations
+T62	Chemical 1295 1302	carboxy
+T63	Molecular_Part 1303 1309	groups
+T64	State 1362 1375	conformations
+T65	Chemical 1386 1400	hydrogen bonds
+T66	Chemical 1410 1416	N atom
+T67	Protein_part 1424 1434	main chain
+T68	Protein_part 1438 1443	Phe63
+T69	Protein_part 1452 1462	side chain
+T70	Protein_part 1466 1471	Thr62
+T71	Protein 1479 1486	subunit
+T72	Protein_part 1495 1506	side chains
+T73	Protein_part 1510 1515	Asp86
+T74	Protein_part 1520 1525	Asn83
+T75	Location 1533 1541	adjacent
+T76	Protein 1542 1549	subunit
+T77	Protein 1557 1562	dimer
+T78	Location 1608 1614	distal
+T79	Chemical 1615 1622	carboxy
+T80	Molecular_Part 1623 1628	group
+T81	Category 1636 1645	substrate
+T82	Protein 1668 1674	enzyme
+T83	Process 1691 1702	recognition
+T84	Protein_part 1706 1719	glutamic acid
+T85	Protein 1727 1733	enzyme

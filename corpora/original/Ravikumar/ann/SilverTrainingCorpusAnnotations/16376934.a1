@@ -1,0 +1,99 @@
+T1	Process 0 12	Purification
+T2	Parameter 14 24	properties
+T3	Geometrical_part 38 56	solution structure
+T4	Category 64 71	complex
+T5	Organism 87 92	human
+T6	Protein 93 110	immunoglobulin A1
+T7	Organism 115 120	human
+T8	Body_part 121 126	serum
+T9	Protein 127 134	albumin
+T10	Process 153 172	ultracentrifugation
+T11	Protein 174 196	Immunoglobulin A (IgA)
+T12	Molecule 215 225	antibodies
+T13	Process 296 305	functions
+T14	Physiology 335 343	diseases
+T15	Protein 345 348	IgA
+T16	Category 360 369	complexes
+T17	Body_part 381 387	plasma
+T18	Protein 388 396	proteins
+T19	Category 402 451	IgA1-human serum albumin (HSA) complex (IgA1-HSA)
+T20	Category 489 496	complex
+T21	Process 520 532	purification
+T22	Chemical 542 552	thiophilic
+T23	Technique 553 567	chromatography
+T24	Technique 572 586	gel filtration
+T25	Protein 612 615	HSA
+T26	Protein 657 661	IgA1
+T27	Chemical 667 682	disulphide bond
+T28	Protein_part 691 697	Cys471
+T29	Protein 701 705	IgA1
+T30	Protein_part 710 715	Cys34
+T31	Protein 719 722	HSA
+T32	Category 724 732	IgA1-HSA
+T33	Protein 742 755	IgA receptors
+T34	Body_part 759 770	neutrophils
+T35	Body_part 775 784	monocytes
+T36	Physiology 800 811	respiratory
+T37	Parameter 812 817	burst
+T38	Parameter 840 849	magnitude
+T39	Protein 861 875	monomeric IgA1
+T40	Chemical 881 889	solution
+T41	Process 890 901	arrangement
+T42	Category 905 913	IgA1-HSA
+T43	Technique 932 937	X-ray
+T44	Process 953 972	ultracentrifugation
+T45	Body_part 978 984	radius
+T46	Process 988 996	gyration
+T47	Unknown 997 1001	R(G)
+T48	Value 1017 1019	nm
+T49	Category 1032 1040	IgA1-HSA
+T50	Chemical 1061 1069	solution
+T51	Protein 1075 1079	IgA1
+T52	Value 1089 1099	6.1-6.2 nm
+T53	Parameter 1106 1127	distance distribution
+T54	Process 1128 1136	function
+T55	Unknown 1137 1141	P(r)
+T56	Parameter 1153 1158	peaks
+T57	Geometrical_part 1191 1209	solution structure
+T58	Protein 1230 1234	IgA1
+T59	Parameter 1242 1259	maximum dimension
+T60	Value 1263 1268	25 nm
+T61	Value 1300 1305	21 nm
+T62	Protein 1310 1314	IgA1
+T63	Process 1316 1329	Sedimentation
+T64	Process 1330 1341	equilibrium
+T65	Protein 1358 1366	IgA1:HSA
+T66	Technique 1367 1380	stoichiometry
+T67	Value 1384 1387	1:1
+T68	Process 1389 1402	Sedimentation
+T69	Parameter 1403 1411	velocity
+T70	Parameter 1426 1451	sedimentation coefficient
+T71	Value 1455 1459	6.4S
+T72	Parameter 1477 1482	ratio
+T73	Value 1486 1490	1.87
+T74	Value 1522 1526	1.56
+T75	Protein 1531 1535	IgA1
+T76	Category 1570 1578	IgA1-HSA
+T77	Geometrical_part 1579 1588	structure
+T78	Unknown 1601 1611	structures
+T79	Protein 1616 1620	IgA1
+T80	Protein 1625 1628	HSA
+T81	Physiology 1712 1716	fits
+T82	Protein 1722 1725	HSA
+T83	Geometrical_part 1726 1735	structure
+T84	Protein_part 1755 1759	base
+T85	Protein_part 1767 1778	Fc fragment
+T86	Protein 1782 1786	IgA1
+T87	Process 1802 1813	arrangement
+T88	Unknown 1822 1831	structure
+T89	Parameter 1860 1868	activity
+T90	Category 1872 1880	IgA1-HSA
+T91	Technique 1918 1926	analysis
+T92	Chemical 1934 1957	IgA1 solution structure
+T93	Category 1964 1972	IgA1-HSA
+T94	Category 1973 1980	complex
+T95	Parameter 1997 2006	potential
+T96	Chemical 2056 2064	reagents
+T97	Process 2078 2086	coupling
+T98	Protein 2090 2094	IgA1
+T99	Protein 2098 2114	carrier proteins

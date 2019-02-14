@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 45	lipoate-protein ligase A
+T3	Organism 51 67	Escherichia coli
+T4	Chemical 90 101	lipoic acid
+T5	Protein_part 110 114	site
+T6	Protein 116 147	Lipoate-protein ligase A (LplA)
+T7	Process 162 171	formation
+T8	Chemical 175 185	lipoyl-AMP
+T9	Chemical 191 198	lipoate
+T10	Chemical 203 206	ATP
+T11	Chemical 230 236	lipoyl
+T12	Molecular_Part 237 243	moiety
+T13	Protein_part 258 272	lysine residue
+T14	Protein 280 303	acyltransferase subunit
+T15	Protein 307 335	alpha-ketoacid dehydrogenase
+T16	Category 336 345	complexes
+T17	Protein 353 362	H-protein
+T18	Chemical 370 377	glycine
+T19	Process 378 386	cleavage
+T20	Unknown 387 393	system
+T21	Protein_part 399 411	lypoyllysine
+T22	Body_part 412 415	arm
+T23	Process 432 436	role
+T24	Category 444 453	complexes
+T25	Process 471 479	reaction
+T26	Molecule 480 492	intermediate
+T27	Protein_part 530 542	active sites
+T28	Parameter 550 560	components
+T29	Category 568 577	complexes
+T30	Technique 603 627	X-ray crystal structures
+T31	Organism 631 647	Escherichia coli
+T32	Protein 648 652	LplA
+T33	Category 668 675	complex
+T34	Chemical 681 692	lipoic acid
+T35	Value 696 699	2.4
+T36	Value 704 717	2.9 angstroms
+T37	Parameter 718 728	resolution
+T38	Geometrical_part 748 757	structure
+T39	Protein 761 765	LplA
+T40	Protein_part 786 803	N-terminal domain
+T41	Protein_part 816 833	C-terminal domain
+T42	Unknown 839 848	structure
+T43	Category 864 873	substrate
+T44	Process 874 881	binding
+T45	Geometrical_part 882 888	pocket
+T46	Protein_part 922 929	domains
+T47	Chemical 931 942	Lipoic acid
+T48	Body_part 957 975	hydrophobic cavity
+T49	Protein_part 983 1000	N-terminal domain
+T50	Process 1021 1033	interactions
+T51	Chemical 1045 1058	hydrogen bond
+T52	Chemical 1067 1075	carboxyl
+T53	Molecular_Part 1076 1081	group
+T54	Chemical 1085 1096	lipoic acid
+T55	Protein_part 1105 1111	Ser-72
+T56	Protein_part 1115 1130	Arg-140 residue
+T57	Protein 1134 1138	LplA
+T58	State 1150 1164	conformational
+T59	Process 1165 1171	change
+T60	Protein_part 1192 1212	main chain structure
+T61	Process 1223 1230	binding
+T62	Chemical 1234 1245	lipoic acid

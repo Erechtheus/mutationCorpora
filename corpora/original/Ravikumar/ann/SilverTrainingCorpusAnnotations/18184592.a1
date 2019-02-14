@@ -1,0 +1,50 @@
+T1	Unknown 0 9	Structure
+T2	Molecule 14 17	DNA
+T3	Process 18 25	binding
+T4	Organism 33 38	human
+T5	Protein_part 39 56	Rtf1 Plus3 domain
+T6	Organism 62 67	yeast
+T7	Unknown 68 72	Paf1
+T8	Category 73 80	complex
+T9	Protein_part 93 97	Paf1
+T10	Protein_part 99 103	Rtf1
+T11	Protein_part 105 110	Cdc73
+T12	Protein_part 112 116	Ctr9
+T13	Protein_part 122 126	Leo1
+T14	Protein 141 152	histone H2B
+T15	Process 153 167	ubiquitination
+T16	Protein 169 179	histone H3
+T17	Process 180 191	methylation
+T18	Protein_part 193 245	RNA polymerase II carboxy-terminal domain (CTD) Ser2
+T19	Process 246 261	phosphorylation
+T20	Protein 267 270	RNA
+T21	Location 271 277	3' end
+T22	Process 312 319	insight
+T23	Unknown 329 333	Paf1
+T24	Category 334 341	complex
+T25	Technique 351 354	NMR
+T26	Unknown 355 364	structure
+T27	Protein_part 409 421	Plus3 domain
+T28	Organism 425 430	human
+T29	Protein_part 431 435	Rtf1
+T30	Protein 454 458	beta
+T31	Protein_part 468 477	subdomain
+T32	Process 498 508	similarity
+T33	Protein_part 512 539	Dicer/Argonaute PAZ domains
+T34	Protein_part 547 560	Tudor domains
+T35	Protein_part 607 624	Rtf1 Plus3 domain
+T36	Molecule 668 671	DNA
+T37	Protein_part 676 684	residues
+T38	Protein_part 703 713	beta sheet
+T39	Protein 730 735	siRNA
+T40	Process 736 743	binding
+T41	Protein_part 747 758	PAZ domains
+T42	Process 779 786	binding
+T43	Molecule 790 809	double-stranded DNA
+T44	Protein 813 816	RNA
+T45	Parameter 833 842	potential
+T46	Process 843 847	role
+T47	Unknown 851 867	Rtf1 Plus3 ssDNA
+T48	Process 868 875	binding
+T49	Process 883 896	transcription
+T50	Process 897 907	elongation

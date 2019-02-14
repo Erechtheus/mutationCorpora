@@ -1,0 +1,72 @@
+T1	Technique 31 39	analyses
+T2	Process 57 62	basis
+T3	Process 72 83	recognition
+T4	Physiology 87 95	immunity
+T5	Protein 96 104	proteins
+T6	Protein 108 129	colicin endonucleases
+T7	Protein 131 152	Colicin endonucleases
+T8	Protein 154 160	DNases
+T9	Physiology 191 199	immunity
+T10	Chemical 201 203	Im
+T11	Protein 205 213	proteins
+T12	Protein 215 226	Im proteins
+T13	Category 267 277	inhibitors
+T14	Protein 311 317	DNases
+T15	Parameter 323 334	K(d) values
+T16	Value 372 373	M
+T17	Process 434 443	mechanism
+T18	Parameter 487 491	time
+T19	Protein 510 520	Im protein
+T20	Process 521 532	recognition
+T21	Protein 536 550	colicin DNases
+T22	Protein_part 576 592	E9 DNase alanine
+T23	Molecule 607 634	double-mutant cycles (DMCs)
+T24	Parameter 648 655	kinetic
+T25	Technique 673 681	analyses
+T26	Protein 693 696	Im9
+T27	Protein 713 716	Im2
+T28	Process 717 724	binding
+T29	Technique 751 759	analysis
+T30	Protein_part 763 770	alanine
+T31	Molecule 784 787	DMC
+T32	Unknown 820 832	DeltaDeltaGs
+T33	Protein 851 859	E9 DNase
+T34	Protein_part 860 868	residues
+T35	Protein 902 905	Im9
+T36	Process 906 917	association
+T37	Protein 936 939	Im2
+T38	Process 940 951	association
+T39	Protein 953 961	E9 DNase
+T40	Protein_part 962 967	Phe86
+T41	Protein_part 1003 1010	residue
+T42	Protein_part 1098 1106	residues
+T43	Protein 1122 1132	Im protein
+T44	Molecule 1147 1150	DMC
+T45	Technique 1151 1159	analysis
+T46	Process 1185 1193	coupling
+T47	Protein_part 1206 1218	Im9 residues
+T48	Molecule 1262 1266	DMCs
+T49	Unknown 1285 1292	ROSETTA
+T50	Unknown 1348 1360	E9 DNase-Im9
+T51	Process 1373 1381	contacts
+T52	Parameter 1392 1398	values
+T53	Value 1408 1413	12 E9
+T54	Protein_part 1414 1427	DNase alanine
+T55	Molecule 1428 1435	mutants
+T56	Unknown 1482 1493	DeltaDeltaG
+T57	Process 1517 1529	interactions
+T58	Chemical 1558 1573	water molecules
+T59	Unknown 1575 1586	DeltaDeltaG
+T60	Process 1587 1598	predictions
+T61	Protein_part 1603 1611	residues
+T62	Chemical 1632 1647	water molecules
+T63	Protein 1674 1681	rotamer
+T64	Protein_part 1689 1692	met
+T65	Process 1805 1817	contribution
+T66	Process 1830 1837	contact
+T67	Protein 1864 1878	colicin DNases
+T68	Protein_part 1927 1938	amino acids
+T69	Protein 1979 1990	Im proteins
+T70	Process 2011 2024	contributions
+T71	Protein_part 2042 2050	residues
+T72	Protein_part 2089 2094	sites

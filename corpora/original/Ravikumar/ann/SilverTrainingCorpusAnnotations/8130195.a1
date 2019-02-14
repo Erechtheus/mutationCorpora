@@ -1,0 +1,60 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 33 40	chicken
+T3	Chemical 41 92	triosephosphate isomerase-phosphoglycolohydroxamate
+T4	Category 93 100	complex
+T5	Value 104 109	1.8-A
+T6	Parameter 110 120	resolution
+T7	Geometrical_part 126 143	crystal structure
+T8	Organism 159 166	chicken
+T9	Protein 167 197	triosephosphate isomerase (TIM
+T10	Protein 199 202	E.C
+T11	Molecule 232 244	intermediate
+T12	Chemical 245 279	analogue phosphoglycolohydroxamate
+T13	Unknown 280 285	(PGH)
+T14	Process 319 340	molecular replacement
+T15	Parameter 359 367	R-factor
+T16	Value 371 376	18.5%
+T17	Value 380 385	1.8-A
+T18	Parameter 386 396	resolution
+T19	Unknown 402 411	structure
+T20	Organism 452 457	yeast
+T21	Unknown 458 465	TIM-PGH
+T22	Category 466 473	complex
+T23	Technique 486 499	R. C., et al.
+T24	Unknown 507 519	Biochemistry
+T25	Parameter 580 590	resolution
+T26	Process 597 605	identity
+T27	State 633 646	conformations
+T28	Protein_part 654 680	active-site residues Lys13
+T29	Protein_part 685 691	Ser211
+T30	Chemical 735 750	water molecules
+T31	Protein_part 776 787	active site
+T32	Unknown 793 796	PGH
+T33	Process 807 817	Comparison
+T34	Unknown 827 836	structure
+T35	Organism 852 859	chicken
+T36	Unknown 860 863	TIM
+T37	Protein_part 895 901	Glu165
+T38	Unknown 932 935	PGH
+T39	Process 948 956	movement
+T40	State 992 1006	conformational
+T41	Process 1007 1013	change
+T42	Value 1022 1025	7 A
+T43	Geometrical_part 1032 1036	loop
+T44	Protein_part 1046 1057	active site
+T45	Category 1107 1116	inhibitor
+T46	Protein_part 1131 1139	residues
+T47	Process 1145 1152	contact
+T48	Chemical 1163 1170	solvent
+T49	State 1183 1197	conformational
+T50	Process 1198 1205	changes
+T51	Organism 1231 1236	yeast
+T52	Unknown 1237 1240	TIM
+T53	Process 1246 1253	binding
+T54	Unknown 1257 1260	PGH
+T55	Process 1268 1278	occurrence
+T56	Process 1289 1298	different
+T57	Unknown 1299 1306	crystal
+T58	Unknown 1316 1319	TIM
+T59	Unknown 1376 1383	crystal
+T60	Process 1384 1391	packing

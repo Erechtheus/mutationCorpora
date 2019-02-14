@@ -1,0 +1,65 @@
+T1	Unknown 4 13	structure
+T2	Molecule 17 20	Fis
+T3	Molecule 21 27	mutant
+T4	Protein_part 28 36	Pro61Ala
+T5	Protein_part 79 90	alpha-helix
+T6	Process 109 117	presence
+T7	Protein_part 125 140	proline residue
+T8	Process 146 155	influence
+T9	Protein_part 159 166	proline
+T10	Process 170 177	bending
+T11	Protein_part 185 196	alpha-helix
+T12	Process 217 228	replacement
+T13	Protein_part 236 251	proline residue
+T14	Location 267 273	middle
+T15	Protein_part 286 297	alpha-helix
+T16	Protein 306 317	Fis protein
+T17	Protein_part 323 330	alanine
+T18	Protein_part 332 338	serine
+T19	Protein_part 343 350	leucine
+T20	Process 370 383	substitutions
+T21	Protein 405 412	protein
+T22	Protein_part 481 489	Pro61Ala
+T23	Unknown 529 532	Hin
+T24	Molecule 542 545	DNA
+T25	Physiology 546 555	inversion
+T26	Protein_part 557 565	Pro61Ala
+T27	Unknown 573 581	crystals
+T28	Protein 613 630	wild-type protein
+T29	Unknown 644 653	structure
+T30	Value 674 679	1.9-A
+T31	Parameter 680 690	resolution
+T32	Technique 694 711	x-ray diffraction
+T33	Geometrical_part 725 734	structure
+T34	Protein_part 742 750	Pro61Ala
+T35	Molecule 751 757	mutant
+T36	Protein 785 802	wild-type protein
+T37	Parameter 829 847	wild-type activity
+T38	Protein_part 861 874	alpha-helices
+T39	Protein_part 880 887	B-helix
+T40	Protein 906 927	wild-type Fis protein
+T41	Value 932 942	20 degrees
+T42	Process 999 1007	presence
+T43	Protein_part 1011 1021	proline 61
+T44	Protein_part 1043 1048	helix
+T45	Protein_part 1063 1070	B-helix
+T46	Value 1090 1100	16 degrees
+T47	Protein_part 1106 1116	proline 61
+T48	Protein_part 1132 1139	alanine
+T49	Protein_part 1147 1154	peptide
+T50	Process 1164 1172	movement
+T51	Protein_part 1180 1190	residue 57
+T52	Geometrical_part 1203 1211	geometry
+T53	Protein_part 1219 1224	helix
+T54	Protein_part 1248 1258	main chain
+T55	Chemical 1259 1272	hydrogen bond
+T56	Unknown 1285 1288	-CO
+T57	Molecular_Part 1289 1294	group
+T58	Protein_part 1298 1303	Glu57
+T59	Unknown 1312 1315	-NH
+T60	Molecular_Part 1316 1321	group
+T61	Protein_part 1325 1330	Ala61
+T62	Protein_part 1354 1365	alpha-helix
+T63	Protein_part 1369 1377	Pro61Ala
+T64	Process 1399 1407	presence
+T65	Protein_part 1411 1418	proline

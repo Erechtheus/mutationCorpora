@@ -1,0 +1,115 @@
+T1	Process 4 8	role
+T2	Location 24 32	internal
+T3	Chemical 33 47	water molecule
+T4	Chemical 67 80	hydrogen bond
+T5	Physiology 82 89	network
+T6	Protein 93 105	cytochrome c
+T7	Parameter 112 122	resolution
+T8	Geometrical_part 123 151	three-dimensional structures
+T9	Protein 160 164	N52I
+T10	Protein 169 178	N52I-Y67F
+T11	Organism 179 184	yeast
+T12	Unknown 204 212	variants
+T13	State 241 257	oxidation states
+T14	Process 289 299	difference
+T15	Protein 317 332	mutant proteins
+T16	Process 340 352	displacement
+T17	Location 369 379	internally
+T18	Chemical 386 409	water molecule (Wat166)
+T19	Protein 419 426	protein
+T20	Body_part 427 433	matrix
+T21	Organism 448 453	yeast
+T22	Process 490 501	orientation
+T23	Chemical 510 524	water molecule
+T24	State 557 572	oxidation state
+T25	Chemical 580 594	heme iron atom
+T26	Process 628 636	function
+T27	Chemical 640 646	Wat166
+T28	Chemical 666 679	hydrogen bond
+T29	Physiology 680 687	network
+T30	Value 691 700	threefold
+T31	Process 713 721	presence
+T32	Chemical 725 731	Wat166
+T33	Process 754 763	mechanism
+T34	Chemical 778 791	hydrogen bond
+T35	Physiology 792 799	network
+T36	Protein_part 818 826	residues
+T37	Protein_part 836 841	Met80
+T38	Category 842 848	ligand
+T39	State 855 870	oxidation state
+T40	Chemical 898 904	Wat166
+T41	Process 926 937	maintenance
+T42	Parameter 945 966	spatial relationships
+T43	Protein_part 982 993	side-chains
+T44	Chemical 1002 1015	hydrogen bond
+T45	Process 1016 1028	interactions
+T46	Molecular_Part 1050 1056	groups
+T47	Protein_part 1065 1071	region
+T48	Protein 1079 1086	protein
+T49	Geometrical_part 1101 1105	part
+T50	Process 1114 1118	role
+T51	State 1142 1154	conformation
+T52	Protein_part 1162 1172	side-chain
+T53	Protein_part 1176 1181	Tyr67
+T54	Chemical 1202 1215	hydrogen bond
+T55	Process 1216 1227	interaction
+T56	Chemical 1237 1241	heme
+T57	Category 1242 1248	ligand
+T58	Protein_part 1249 1254	Met80
+T59	Chemical 1261 1274	hydrogen bond
+T60	Molecule 1290 1298	electron
+T61	Parameter 1311 1316	power
+T62	Protein_part 1324 1329	Met80
+T63	Category 1330 1336	ligand
+T64	Process 1391 1400	reduction
+T65	Parameter 1401 1410	potential
+T66	Protein 1414 1427	cytochrome  c
+T67	Process 1429 1440	Elimination
+T68	Process 1449 1460	interaction
+T69	Protein 1468 1492	N52I-Y67F mutant protein
+T70	Process 1496 1507	elimination
+T71	Chemical 1511 1517	Wat166
+T72	Protein 1525 1537	N52I protein
+T73	Process 1558 1568	disruption
+T74	Process 1590 1602	interactions
+T75	Protein_part 1610 1626	Tyr67 side-chain
+T76	Value 1647 1666	approximately 56 mV
+T77	Process 1692 1701	reduction
+T78	Parameter 1702 1711	potential
+T79	Chemical 1719 1723	heme
+T80	Molecular_Part 1724 1729	group
+T81	Chemical 1738 1744	Wat166
+T82	Process 1769 1778	increases
+T83	Protein_part 1811 1819	segments
+T84	Protein 1823 1840	polypeptide chain
+T85	Protein 1846 1858	cytochrome c
+T86	State 1878 1883	state
+T87	Process 1922 1929	changes
+T88	State 1948 1963	oxidation state
+T89	Process 1974 1986	interactions
+T90	Protein 1995 2007	cytochrome c
+T91	Process 2052 2059	absence
+T92	Chemical 2063 2069	Wat166
+T93	Process 2085 2092	changes
+T94	Protein 2117 2121	N52I
+T95	Protein 2126 2151	N52I-Y67F mutant proteins
+T96	Protein 2195 2202	protein
+T97	State 2203 2212	stability
+T98	Protein 2231 2246	mutant proteins
+T99	Protein 2266 2272	factor
+T100	Chemical 2313 2322	heme iron
+T101	Parameter 2323 2329	charge
+T102	Chemical 2334 2338	heme
+T103	Process 2345 2355	distortion
+T104	State 2376 2391	oxidation state
+T105	State 2402 2416	conformational
+T106	Process 2417 2424	changes
+T107	Protein_part 2432 2459	pyrrole A propionate region
+T108	Process 2474 2481	changes
+T109	Process 2518 2524	change
+T110	State 2528 2540	conformation
+T111	Protein_part 2550 2560	side-chain
+T112	Protein_part 2564 2569	Asn52
+T113	State 2600 2615	oxidation state
+T114	Process 2626 2634	movement
+T115	Chemical 2638 2644	Wat166

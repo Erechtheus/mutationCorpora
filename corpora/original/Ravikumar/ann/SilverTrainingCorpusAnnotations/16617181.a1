@@ -1,0 +1,38 @@
+T1	Process 11 15	role
+T2	Protein_part 20 27	Tyr-104
+T3	Organism 31 47	Escherichia coli
+T4	Protein 48 81	isopentenyl-diphosphate isomerase
+T5	Technique 83 108	site-directed mutagenesis
+T6	Technique 126 149	protein crystallography
+T7	Protein 226 232	enzyme
+T8	Process 240 252	biosynthesis
+T9	Chemical 256 267	isoprenoids
+T10	Process 273 282	mechanism
+T11	Process 290 303	isomerization
+T12	Process 304 312	reaction
+T13	Process 322 333	protonation
+T14	Chemical 353 378	carbon-carbon double bond
+T15	Category 386 395	substrate
+T16	Process 401 409	identity
+T17	Molecular_Part 417 430	acidic moiety
+T18	Molecule 445 451	proton
+T19	Protein_part 481 489	sequence
+T20	Process 490 500	alignments
+T21	Geometrical_part 538 557	crystal  structures
+T22	Category 561 570	complexes
+T23	Protein 576 589	IPP isomerase
+T24	Protein_part 603 610	Tyr-104
+T25	Process 635 639	role
+T26	Process 647 656	catalysis
+T27	Molecule 670 677	mutants
+T28	Process 707 718	mutagenesis
+T29	Technique 752 768	Crystallographic
+T30	Process 773 793	thermal denaturation
+T31	Protein_part 803 808	Y104A
+T32	Protein_part 813 818	Y104F
+T33	Molecule 819 826	mutants
+T34	Process 869 879	importance
+T35	Protein_part 883 898	residue Tyr-104
+T36	Process 910 917	folding
+T37	Organism 921 937	Escherichia coli
+T38	Protein 938 958	type I IPP isomerase

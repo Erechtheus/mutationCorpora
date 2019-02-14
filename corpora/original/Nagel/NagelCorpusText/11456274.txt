@@ -1,0 +1,8 @@
+Although type 1 and type 2 diabetes are regarded as clinically distinct diseases, several lines of evidence have suggested common genetic factors between the two types of diabetes . 
+The non-obese diabetic (NOD) mouse, an animal model of type 1 diabetes, and the Nagoya-Shibata-Yasuda (NSY) mouse, a model of type 2 diabetes, are derived from the same outbred colony, Jcl:HCR, suggesting a shared susceptibility between the two types of diabetes in mice . 
+Genetic as well as functional studies have supported the possibility that Tcf2, which encodes the transcription factor, hepatocyte nuclear factor 1beta (HNF-1beta), is a candidate gene for the common susceptibility between NSY and NOD mice . 
+Txn, encoding thioredoxin which is a redox (reduction/oxidation)-active protein, is also a positional and functional candidate for a common susceptibility gene . 
+To investigate whether either of these two genes is a common susceptibility gene, the coding nucleotide sequences of these two genes were compared among the NSY, NOD and control C3H strains . 
+The coding sequence of Tcf2 of the NOD mouse was identical to that of the C3H mouse, but was different from that of the NSY mouse . 
+The coding sequence of Txn was identical in the three strains . 
+These data suggest that neither of the two genes is a common susceptiblity gene between type 1 and type 2 diabetes in mice . 

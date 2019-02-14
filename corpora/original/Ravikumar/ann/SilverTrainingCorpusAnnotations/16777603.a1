@@ -1,0 +1,48 @@
+T1	Process 3 23	allosteric mechanism
+T2	Process 28 38	activation
+T3	Protein 46 52	kinase
+T4	Protein_part 53 59	domain
+T5	Protein 63 95	epidermal growth factor receptor
+T6	Process 101 110	mechanism
+T7	Protein 124 163	epidermal growth factor receptor (EGFR)
+T8	Process 182 194	dimerization
+T9	Process 206 216	definition
+T10	Protein 235 246	EGFR kinase
+T11	Protein_part 247 253	domain
+T12	Parameter 296 309	concentration
+T13	Protein_part 327 334	leucine
+T14	Protein_part 336 341	L834R
+T15	Process 350 360	activation
+T16	Geometrical_part 361 365	loop
+T17	Process 371 386	phosphorylation
+T18	Process 417 427	activation
+T19	Protein 452 458	kinase
+T20	Protein_part 459 465	domain
+T21	Process 521 532	interaction
+T22	Process 546 556	activation
+T23	Technique 572 591	mutational analysis
+T24	Technique 596 611	crystallography
+T25	State 650 662	conformation
+T26	Protein 670 681	EGFR kinase
+T27	Protein_part 682 688	domain
+T28	Protein 707 710	Src
+T29	Protein 715 746	cyclin-dependent kinases (CDKs)
+T30	Protein 748 752	EGFR
+T31	Process 753 763	activation
+T32	Process 781 790	formation
+T33	Protein 797 813	asymmetric dimer
+T34	Protein_part 827 837	C-terminal
+T35	Body_part 838 842	lobe
+T36	Protein 850 856	kinase
+T37	Protein_part 857 863	domain
+T38	Process 872 876	role
+T39	Protein 899 905	cyclin
+T40	Protein 919 929	CDK/cyclin
+T41	Category 930 939	complexes
+T42	Protein 945 955	CDK/cyclin
+T43	Category 961 968	complex
+T44	Protein 983 989	kinase
+T45	Protein_part 990 997	domains
+T46	Process 1016 1026	activation
+T47	Protein 1030 1051	EGFR-family receptors
+T48	Process 1064 1082	heterodimerization

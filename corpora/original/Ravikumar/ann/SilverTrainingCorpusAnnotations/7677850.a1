@@ -1,0 +1,89 @@
+T1	Process 0 11	Involvement
+T2	Protein_part 15 24	serine 96
+T3	Process 32 51	catalytic mechanism
+T4	Protein 55 81	ferredoxin-NADP+ reductase
+T5	Parameter 103 115	relationship
+T6	Technique 130 155	site-directed mutagenesis
+T7	Technique 160 181	X-ray crystallography
+T8	Geometrical_part 187 204	crystal structure
+T9	Protein 208 240	ferredoxin-NADP+ reductase (FNR)
+T10	Protein_part 255 260	Ser96
+T11	Chemical 286 293	hydride
+T12	Process 294 302	transfer
+T13	Chemical 315 328	isoalloxazine
+T14	Molecular_Part 329 335	moiety
+T15	Chemical 339 342	FAD
+T16	Chemical 351 368	nicotinamide ring
+T17	Chemical 372 379	NADP(H)
+T18	Molecular_Part 384 389	probe
+T19	Process 394 398	role
+T20	Protein_part 400 405	Ser96
+T21	Protein_part 426 432	valine
+T22	Protein_part 434 438	S96V
+T23	Chemical 444 451	glycine
+T24	Chemical 453 457	S96G
+T25	Process 466 475	mutations
+T26	Process 499 510	interaction
+T27	Chemical 518 535	nicotinamide ring
+T28	Chemical 545 551	flavin
+T29	Parameter 553 563	Absorbance
+T30	Technique 565 577	fluorescence
+T31	Technique 583 601	circular dichroism
+T32	Parameter 602 609	spectra
+T33	Geometrical_part 618 635	crystal structure
+T34	Protein 639 647	FNR-S96V
+T35	Geometrical_part 674 679	folds
+T36	Protein 690 698	FNR-S96V
+T37	Value 710 715	0.05%
+T38	Parameter 719 737	wild-type activity
+T39	Parameter 749 759	affinities
+T40	Protein 769 779	ferredoxin
+T41	Chemical 784 789	NADP+
+T42	Process 833 846	perturbations
+T43	Chemical 858 863	NADP+
+T44	Protein 875 883	FNR-S96V
+T45	Process 924 931	binding
+T46	Chemical 935 977	2'-monophosphoadenosine-5'-diphosphoribose
+T47	Category 981 990	substrate
+T48	Unknown 991 997	analog
+T49	Chemical 1010 1027	nicotinamide ring
+T50	Protein 1052 1069	wild-type enzymes
+T51	Process 1077 1085	reaction
+T52	Protein_part 1101 1107	valine
+T53	Molecule 1108 1114	mutant
+T54	Molecule 1148 1161	intermediates
+T55	Chemical 1169 1175	flavin
+T56	Process 1176 1185	reduction
+T57	Chemical 1189 1194	NADPH
+T58	Chemical 1212 1223	semiquinone
+T59	Process 1224 1233	formation
+T60	Process 1251 1265	photoreduction
+T61	Protein 1269 1277	FNR-S96V
+T62	Geometrical_part 1283 1310	three-dimensional structure
+T63	Protein_part 1318 1324	valine
+T64	Molecule 1326 1332	mutant
+T65	Process 1363 1370	changes
+T66	Chemical 1383 1396	isoalloxazine
+T67	Location 1397 1413	microenvironment
+T68	Chemical 1419 1433	glycine mutant
+T69	Protein 1437 1440	FNR
+T70	Physiology 1450 1458	behavior
+T71	Molecule 1459 1471	intermediate
+T72	Protein 1488 1504	wild-type enzyme
+T73	Protein_part 1521 1527	valine
+T74	Molecule 1528 1534	mutant
+T75	Value 1554 1556	2%
+T76	Parameter 1564 1582	wild-type activity
+T77	Organism 1634 1641	species
+T78	Protein 1658 1661	FNR
+T79	Chemical 1666 1671	NADP+
+T80	Process 1676 1690	photoreduction
+T81	Process 1691 1702	experiments
+T82	Chemical 1723 1741	flavin semiquinone
+T83	Process 1742 1755	stabilization
+T84	Protein 1774 1782	FNR-S96G
+T85	Protein 1796 1812	wild-type enzyme
+T86	Chemical 1814 1819	NADP+
+T87	Chemical 1835 1849	glycine mutant
+T88	Protein_part 1903 1909	valine
+T89	Molecule 1910 1916	mutant

@@ -1,0 +1,91 @@
+T1	Unknown 0 9	Structure
+T2	Protein_part 14 34	active site residues
+T3	Protein 38 42	PglD
+T4	Protein 47 66	N-acetyltransferase
+T5	Chemical 76 89	bacillosamine
+T6	Process 100 107	pathway
+T7	Protein 121 129	N-glycan
+T8	Process 130 139	synthesis
+T9	Organism 143 164	Campylobacter  jejuni
+T10	Organism 166 186	Campylobacter jejuni
+T11	Organism 211 219	bacteria
+T12	Protein 231 253	N-linked glycoproteins
+T13	Chemical 259 274	heptasaccharide
+T14	Unknown 291 301	pgl system
+T15	Protein 317 324	protein
+T16	Protein_part 325 328	Asn
+T17	Chemical 341 386	terminal 2,4-diacetamido-2,4,6-trideoxy-d-Glc
+T18	Chemical 388 398	QuiNAc4NAc
+T19	Chemical 402 428	N,N'-diacetylbacillosamine
+T20	Molecular_Part 430 436	moiety
+T21	Geometrical_part 456 460	part
+T22	Chemical 469 476	sugar's
+T23	Process 477 486	synthesis
+T24	Process 494 505	acetylation
+T25	Chemical 509 553	UDP-2-acetamido-4-amino-2,4,6-trideoxy-d-Glc
+T26	Protein 561 572	enzyme PglD
+T27	Chemical 579 589	acetyl-CoA
+T28	Category 595 606	cosubstrate
+T29	Geometrical_part 631 649	crystal structures
+T30	Protein 653 657	PglD
+T31	Chemical 661 664	CoA
+T32	Value 701 704	1.8
+T33	Value 709 715	1.75 A
+T34	Parameter 716 726	resolution
+T35	Protein 742 746	PglD
+T36	Protein 752 758	trimer
+T37	Protein 762 770	subunits
+T38	Protein_part 793 800	domains
+T39	Protein_part 805 833	N-terminal alpha/beta-domain
+T40	Protein_part 840 850	C-terminal
+T41	Location 851 855	left
+T42	Protein_part 863 873	beta-helix
+T43	Process 890 901	differences
+T44	Chemical 912 915	CoA
+T45	Process 916 923	binding
+T46	Protein_part 939 956	C-terminal region
+T47	Protein_part 971 981	beta-helix
+T48	Protein_part 983 999	residues 189-195
+T49	Geometrical_part 1018 1036	extended structure
+T50	Protein_part 1081 1091	beta-helix
+T51	Process 1097 1104	binding
+T52	Chemical 1105 1108	CoA
+T53	Process 1124 1141	molecular docking
+T54	Process 1153 1162	different
+T55	Chemical 1171 1187	nucleotide-sugar
+T56	Process 1188 1195	binding
+T57	Chemical 1216 1226	acetyl-CoA
+T58	Category 1227 1232	donor
+T59	Molecule 1243 1252	molecules
+T60	Unknown 1268 1277	"L-shape"
+T61	Unknown 1297 1306	"in-line"
+T62	Process 1307 1318	orientation
+T63	Protein 1330 1337	enzymes
+T64	Chemical 1367 1388	oxyanion intermediate
+T65	Unknown 1416 1418	NH
+T66	Molecular_Part 1419 1424	group
+T67	Protein_part 1428 1435	Gly143'
+T68	Protein_part 1442 1449	His125'
+T69	Protein_part 1466 1473	residue
+T70	Chemical 1491 1503	general base
+T71	Chemical 1514 1516	H+
+T72	Chemical 1526 1531	amino
+T73	Molecular_Part 1532 1537	group
+T74	Chemical 1574 1589	carbonyl carbon
+T75	Chemical 1593 1603	acetyl-CoA
+T76	Protein_part 1605 1609	Site
+T77	Process 1619 1628	mutations
+T78	Protein_part 1632 1652	active site residues
+T79	Process 1667 1677	importance
+T80	Protein_part 1681 1688	His125'
+T81	Protein_part 1690 1697	Glu124'
+T82	Protein_part 1703 1709	Asn118
+T83	Protein_part 1728 1734	Asn118
+T84	Process 1746 1754	function
+T85	Chemical 1784 1800	hydrogen bonding
+T86	Physiology 1801 1808	network
+T87	Protein_part 1820 1831	active site
+T88	Protein_part 1841 1848	Glu124'
+T89	Parameter 1878 1881	pKa
+T90	Chemical 1898 1910	general base
+T91	Protein_part 1912 1919	His125'

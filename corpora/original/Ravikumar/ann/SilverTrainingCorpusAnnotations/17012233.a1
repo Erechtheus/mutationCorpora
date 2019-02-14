@@ -1,0 +1,53 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 33	acyl carrier protein
+T3	Protein 43 47	FabI
+T4	Unknown 53 58	FASII
+T5	Protein 65 74	reductase
+T6	Organism 80 96	Escherichia coli
+T7	Protein 98 119	Acyl carrier proteins
+T8	Process 135 139	role
+T9	Process 143 153	metabolism
+T10	Category 170 180	substrates
+T11	Process 202 210	pathways
+T12	Process 225 237	biosynthesis
+T13	Chemical 241 252	fatty acids
+T14	Process 293 303	importance
+T15	Process 372 383	interaction
+T16	Unknown 387 391	ACPs
+T17	Protein 397 404	enzymes
+T18	Process 415 423	pathways
+T19	Unknown 444 453	structure
+T20	Chemical 460 468	acyl-ACP
+T21	Category 469 478	substrate
+T22	Organism 492 508	Escherichia coli
+T23	Protein 509 562	fatty acid biosynthesis enoyl reductase enzyme (FabI)
+T24	Technique 590 611	x-ray crystallography
+T25	Process 635 645	simulation
+T26	Parameter 690 697	kinetic
+T27	Protein 723 735	mutant FabIs
+T28	Category 757 764	complex
+T29	Process 792 804	interactions
+T30	Protein_part 813 828	acidic residues
+T31	Protein 836 852	ACP helix alpha2
+T32	Technique 859 864	patch
+T33	Protein_part 868 882	basic residues
+T34	Location 883 891	adjacent
+T35	Protein 899 903	FabI
+T36	Category 904 913	substrate
+T37	Geometrical_part 922 926	loop
+T38	Chemical 946 981	acyl-pantetheine thioester carbonyl
+T39	Chemical 989 997	hydrogen
+T40	Protein_part 1008 1016	Tyr(156)
+T41	Parameter 1030 1039	component
+T42	Protein 1053 1102	chain alcohol dehydrogenase/reductase superfamily
+T43	Protein_part 1103 1114	active site
+T44	Chemical 1115 1120	triad
+T45	Protein 1122 1126	FabI
+T46	Process 1139 1145	target
+T47	Chemical 1150 1154	drug
+T48	Unknown 1181 1190	structure
+T49	Process 1200 1207	insight
+T50	Process 1258 1269	interaction
+T51	Unknown 1273 1277	ACPs
+T52	Process 1283 1289	target
+T53	Protein 1290 1298	proteins

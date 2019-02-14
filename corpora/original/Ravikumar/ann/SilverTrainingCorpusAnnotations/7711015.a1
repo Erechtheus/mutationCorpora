@@ -1,0 +1,89 @@
+T1	Molecule 0 5	X-ray
+T2	Geometrical_part 6 23	crystal structure
+T3	Protein 31 49	soybean agglutinin
+T4	Unknown 82 88	analog
+T5	Body_part 96 101	blood
+T6	Protein 102 130	group I carbohydrate antigen
+T7	Protein 132 156	Soybean agglutinin (SBA)
+T8	Chemical 158 165	Glycine
+T9	Unknown 194 204	GalNAc/Gal
+T10	Protein 214 220	lectin
+T11	Category 296 305	complexes
+T12	Chemical 372 385	carbohydrates
+T13	Protein_part 391 406	terminal GalNAc
+T14	Protein_part 410 422	Gal residues
+T15	Protein_part 514 526	Biochemistry
+T16	Category 585 594	complexes
+T17	Technique 600 622	X-ray crystallographic
+T18	Geometrical_part 623 632	structure
+T19	Protein 636 639	SBA
+T20	Unknown 672 678	analog
+T21	Body_part 686 691	blood
+T22	Protein 692 720	group I carbohydrate antigen
+T23	Unknown 738 747	structure
+T24	Process 769 778	formation
+T25	Process 816 822	action
+T26	Chemical 839 854	pentasaccharide
+T27	Unknown 855 879	(beta-LacNAc)2Gal-beta-R
+T28	Unknown 887 888	R
+T29	Molecular_Part 892 906	-O(CH2)5COOCH3
+T30	Molecular_Part 915 926	beta-LacNAc
+T31	Molecular_Part 927 935	moieties
+T32	Location 960 971	6 positions
+T33	Chemical 984 987	Gal
+T34	Geometrical_part 993 1002	structure
+T35	Protein 1006 1009	SBA
+T36	Chemical 1051 1066	pentasaccharide
+T37	Process 1095 1116	molecular replacement
+T38	Technique 1117 1127	techniques
+T39	Value 1143 1148	2.6 A
+T40	Parameter 1149 1159	resolution
+T41	Parameter 1166 1173	R value
+T42	Value 1177 1182	20.1%
+T43	Unknown 1188 1196	crystals
+T44	Geometrical_part 1218 1237	P6(4)22 space group
+T45	Unknown 1280 1288	crystals
+T46	Protein 1301 1308	protein
+T47	Unknown 1317 1326	structure
+T48	Protein 1370 1398	Man9 oligomannose-type chain
+T49	Protein_part 1402 1408	Asn 75
+T50	Protein_part 1434 1449	GlcNAc residues
+T51	Geometrical_part 1471 1489	tertiary structure
+T52	Protein 1497 1508	SBA subunit
+T53	Organism 1538 1544	legume
+T54	Protein 1545 1552	lectins
+T55	Organism 1572 1578	animal
+T56	Protein 1579 1586	lectins
+T57	Protein 1601 1606	dimer
+T58	Protein 1624 1636	SBA tetramer
+T59	Protein 1674 1687	peptide chain
+T60	Protein_part 1753 1763	C-terminal
+T61	Protein 1775 1782	subunit
+T62	Protein 1807 1814	subunit
+T63	Technique 1816 1827	Association
+T64	Protein 1836 1849	SBA tetramers
+T65	Protein_part 1874 1895	terminal Gal residues
+T66	Chemical 1903 1918	pentasaccharide
+T67	Protein_part 1932 1937	sites
+T68	Protein 1946 1953	monomer
+T69	Chemical 1964 1969	sugar
+T70	Geometrical_part 1989 1997	symmetry
+T71	Molecule 2015 2023	molecule
+T72	Process 2029 2042	cross-linking
+T73	Chemical 2043 2058	pentasaccharide
+T74	State 2067 2079	conformation
+T75	Chemical 2097 2110	pseudo-2-fold
+T76	Location 2111 2115	axis
+T77	Geometrical_part 2119 2127	symmetry
+T78	Technique 2144 2160	crystallographic
+T79	Geometrical_part 2161 2172	2-fold axis
+T80	Geometrical_part 2176 2184	symmetry
+T81	Geometrical_part 2212 2220	symmetry
+T82	Parameter 2221 2231	properties
+T83	Chemical 2248 2263	oligosaccharide
+T84	Protein 2279 2285	lectin
+T85	Chemical 2385 2404	carbohydrate-lectin
+T86	Category 2418 2427	complexes
+T87	Process 2444 2463	signal transduction
+T88	Parameter 2464 2474	properties
+T89	Protein 2490 2497	lectins

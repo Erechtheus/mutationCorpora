@@ -1,0 +1,83 @@
+T1	Process 14 21	changes
+T2	Chemical 25 41	flavin structure
+T3	Process 46 51	roles
+T4	Chemical 55 61	flavin
+T5	Unknown 62 66	N(5)
+T6	Unknown 83 88	2'-OH
+T7	Molecular_Part 89 94	group
+T8	Body_part 109 123	PutA--membrane
+T9	Process 124 131	binding
+T10	Protein 133 137	PutA
+T11	Protein 149 161	flavoprotein
+T12	Organism 165 181	Escherichia coli
+T13	Molecule 203 228	transcriptional repressor
+T14	Body_part 234 242	membrane
+T15	Protein_part 249 256	proline
+T16	Physiology 257 266	catabolic
+T17	Protein 267 273	enzyme
+T18	Technique 285 301	crystallographic
+T19	Protein_part 317 358	PutA proline dehydrogenase (PRODH) domain
+T20	Chemical 365 374	oxidizing
+T21	Chemical 400 403	FAD
+T22	Unknown 404 408	N(5)
+T23	Unknown 425 430	2'-OH
+T24	Molecular_Part 431 436	group
+T25	Chemical 442 456	hydrogen bonds
+T26	Protein_part 462 468	Arg431
+T27	Protein_part 473 479	Arg556
+T28	Process 512 534	molecular interactions
+T29	Protein_part 542 564	PutA PRODH active site
+T30	Process 606 615	switching
+T31	Protein 619 623	PutA
+T32	Process 640 649	reduction
+T33	Protein_part 657 669	PRODH domain
+T34	Process 695 702	changes
+T35	Chemical 710 713	FAD
+T36	Category 714 722	cofactor
+T37	Value 736 746	22 degrees
+T38	Chemical 759 777	isoalloxazine ring
+T39	Unknown 788 798	N(5)-N(10)
+T40	Location 799 803	axis
+T41	Process 816 824	rotation
+T42	Geometrical_part 838 842	part
+T43	Protein 858 863	chain
+T44	Process 869 878	formation
+T45	Chemical 888 901	hydrogen bond
+T46	Physiology 902 909	network
+T47	Unknown 932 937	2'-OH
+T48	Molecular_Part 938 943	group
+T49	Chemical 945 948	FAD
+T50	Unknown 949 953	N(1)
+T51	Protein_part 959 965	Gly435
+T52	Process 971 976	roles
+T53	Chemical 984 987	FAD
+T54	Unknown 988 993	2'-OH
+T55	Molecular_Part 994 999	group
+T56	Chemical 1008 1037	FAD N(5)-Arg431 hydrogen bond
+T57	Body_part 1073 1086	PutA-membrane
+T58	Process 1087 1099	associations
+T59	Chemical 1118 1131	FAD analogues
+T60	Technique 1136 1161	site-directed mutagenesis
+T61	Parameter 1163 1170	Kinetic
+T62	Body_part 1171 1179	membrane
+T63	Process 1180 1187	binding
+T64	Process 1188 1200	measurements
+T65	Body_part 1205 1209	cell
+T66	Protein 1216 1229	reporter gene
+T67	Technique 1230 1236	assays
+T68	Protein 1249 1262	PutA proteins
+T69	Chemical 1288 1291	FAD
+T70	Unknown 1292 1303	N(5)-Arg431
+T71	Process 1304 1315	interaction
+T72	Process 1338 1348	activation
+T73	Body_part 1352 1365	PutA-membrane
+T74	Process 1366 1373	binding
+T75	Chemical 1397 1400	FAD
+T76	Unknown 1401 1406	2'-OH
+T77	Molecular_Part 1407 1412	group
+T78	Process 1446 1452	switch
+T79	Body_part 1467 1480	PutA-membrane
+T80	Process 1481 1488	binding
+T81	Protein 1548 1553	chain
+T82	Protein 1557 1569	flavoprotein
+T83	Process 1570 1580	mechanisms

@@ -1,0 +1,106 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 21	PITPbeta
+T3	Category 25 32	complex
+T4	Chemical 38 57	phosphatidylcholine
+T5	Process 59 69	comparison
+T6	Unknown 73 82	structure
+T7	Chemical 87 92	lipid
+T8	Process 93 101	transfer
+T9	Protein 111 124	PITP isoforms
+T10	Protein 126 170	Phosphatidylinositol transfer protein (PITP)
+T11	Organism 187 197	eukaryotic
+T12	Protein 198 205	protein
+T13	Chemical 239 259	phosphatidylinositol
+T14	Chemical 263 282	phosphatidylcholine
+T15	Process 302 310	exchange
+T16	Chemical 320 326	lipids
+T17	Body_part 335 344	membranes
+T18	Organism 346 355	Mammalian
+T19	Location 356 365	cytosolic
+T20	Protein 366 371	PITPs
+T21	Protein 407 416	PITPalpha
+T22	Protein 421 438	PITPbeta isoforms
+T23	Protein_part 448 456	residues
+T24	Geometrical_part 463 480	crystal structure
+T25	Organism 484 487	rat
+T26	Protein 488 496	PITPbeta
+T27	Chemical 510 537	dioleoylphosphatidylcholine
+T28	Value 556 562	2.18 A
+T29	Parameter 563 573	resolution
+T30	Process 579 600	molecular replacement
+T31	Organism 607 610	rat
+T32	Protein 611 620	PITPalpha
+T33	Value 622 625	77%
+T34	Protein_part 626 634	sequence
+T35	Unknown 669 678	structure
+T36	Process 679 689	comparison
+T37	Protein 697 702	alpha
+T38	Protein 707 720	beta isoforms
+T39	Process 737 748	differences
+T40	Protein 752 759	protein
+T41	State 760 772	conformation
+T42	Process 774 785	differences
+T43	Chemical 789 793	acyl
+T44	State 794 806	conformation
+T45	Molecule 818 826	isoforms
+T46	Process 843 855	conservation
+T47	Chemical 859 876	solvent structure
+T48	Chemical 894 899	lipid
+T49	Process 903 913	comparison
+T50	Process 917 925	transfer
+T51	Parameter 926 934	activity
+T52	Organism 938 943	human
+T53	Organism 948 951	rat
+T54	Protein 952 957	PITPs
+T55	Body_part 983 991	vesicles
+T56	Chemical 1018 1030	phospholipid
+T57	Process 1031 1042	composition
+T58	Protein 1063 1076	beta isoforms
+T59	Process 1090 1101	differences
+T60	Process 1105 1113	transfer
+T61	Chemical 1133 1139	PtdIns
+T62	Unknown 1145 1151	PtdCho
+T63	Body_part 1157 1171	donor vesicles
+T64	Unknown 1194 1200	PtdCho
+T65	Unknown 1207 1213	PtdCho
+T66	Chemical 1218 1224	PtdIns
+T67	Parameter 1251 1265	concentrations
+T68	Body_part 1269 1283	donor vesicles
+T69	Chemical 1285 1291	PtdIns
+T70	Process 1292 1300	transfer
+T71	Value 1311 1331	approximately 3-fold
+T72	Parameter 1336 1340	rate
+T73	Unknown 1344 1350	PtdCho
+T74	Organism 1356 1359	rat
+T75	Protein 1360 1376	PITPbeta isoform
+T76	Process 1409 1417	transfer
+T77	Parameter 1418 1422	rate
+T78	Protein 1435 1443	proteins
+T79	Organism 1467 1470	rat
+T80	Molecule 1471 1479	isoforms
+T81	Process 1495 1504	mutations
+T82	Chemical 1533 1538	lipid
+T83	Process 1539 1546	binding
+T84	Body_part 1547 1553	cavity
+T85	Parameter 1589 1599	properties
+T86	Unknown 1621 1637	I84alpha/F83beta
+T87	Unknown 1642 1660	F225alpha/L224beta
+T88	Value 1666 1673	225/224
+T89	Protein_part 1674 1679	locus
+T90	Category 1712 1721	substrate
+T91	Process 1749 1757	mutation
+T92	Protein_part 1766 1771	locus
+T93	Protein_part 1785 1795	amino acid
+T94	Unknown 1801 1807	PtdCho
+T95	Process 1808 1816	transfer
+T96	Parameter 1817 1834	specific activity
+T97	Protein 1842 1851	PITPalpha
+T98	Protein 1853 1858	F225L
+T99	Protein 1875 1883	PITPbeta
+T100	Protein 1888 1896	PITPbeta
+T101	Protein 1898 1903	L224F
+T102	Protein 1919 1928	PITPalpha
+T103	Protein_part 1934 1956	225alpha/224beta locus
+T104	Process 1972 1976	role
+T105	Molecule 2004 2012	isoforms
+T106	Unknown 2020 2027	CerPCho

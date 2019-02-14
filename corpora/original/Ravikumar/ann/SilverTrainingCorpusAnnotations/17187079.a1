@@ -1,0 +1,55 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 34	acid beta-glucosidase
+T3	Molecule 56 65	chaperone
+T4	Process 75 82	insight
+T5	Unknown 88 95	Gaucher
+T6	Physiology 96 103	disease
+T7	Physiology 113 120	disease
+T8	Process 134 143	mutations
+T9	Body_part 151 160	lysosomal
+T10	Protein 161 197	enzyme acid beta-glucosidase (GCase)
+T11	Protein 208 214	enzyme
+T12	Process 215 226	replacement
+T13	Technique 227 234	therapy
+T14	Physiology 252 258	health
+T15	Organism 276 287	individuals
+T16	Protein 322 327	N370S
+T17	Process 328 336	mutation
+T18	Body_part 338 342	oral
+T19	Process 343 352	treatment
+T20	Molecule 374 384	chaperones
+T21	Body_part 425 444	tissue compartments
+T22	Parameter 469 477	activity
+T23	Protein 492 504	mutant GCase
+T24	Unknown 544 547	IFG
+T25	Protein_part 565 582	GCase active site
+T26	Protein 603 608	GCase
+T27	Parameter 609 617	activity
+T28	Body_part 621 633	cell lysates
+T29	Body_part 647 656	lysosomal
+T30	Process 657 668	trafficking
+T31	Body_part 672 677	cells
+T32	Protein 689 707	N370S mutant GCase
+T33	Geometrical_part 729 747	crystal structures
+T34	Unknown 751 754	IFG
+T35	Protein 761 766	GCase
+T36	Value 770 773	low
+T37	Parameter 774 776	pH
+T38	Chemical 791 799	glycerol
+T39	Protein 806 811	GCase
+T40	Value 815 818	low
+T41	Parameter 819 821	pH
+T42	Protein 826 835	apo-GCase
+T43	Value 839 846	neutral
+T44	Parameter 847 849	pH
+T45	Unknown 874 877	IFG
+T46	Protein 893 898	GCase
+T47	Process 920 932	interactions
+T48	Protein_part 938 944	Asn370
+T49	Molecule 966 975	molecules
+T50	Category 991 1000	substrate
+T51	State 1007 1020	conformations
+T52	Protein 1024 1039	mutant proteins
+T53	Physiology 1083 1091	diseases
+T54	Protein 1102 1109	protein
+T55	Process 1110 1120	misfolding

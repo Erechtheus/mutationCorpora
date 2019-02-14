@@ -1,0 +1,12 @@
+NR-binding SET-domain-containing protein (NSD1) is a mouse nuclear protein containing su(var)3-9, enhancer-of-zeste, trithorax (SET), proline-tryptophan-tryptophan-proline (PWWP) and plant homeodomain protein (PHD)-finger domains (Huang et al., EMBO J . 
+17 (1998) 3398) . 
+This protein also has two other distinct nuclear receptor (NR)-interaction domains, called NID(-L) and NID(+L), and acts as both a NR corepressor and a coactivator by interacting directly with the ligand-binding domain of several NRs . 
+Thus, NSD1 is a bifunctional, transcriptional, intermediary factor . 
+We isolated the human homologue (NSD1) of the mouse NSD1 gene (Nsd1), mapped it to human chromosome 5q35, and characterized its genomic structure . 
+NSD1 consists of at least 23 exons . 
+Its cDNA is 8552 bp long, has an 8088 bp open reading frame, contains at least six functional domains (SET, PWWP-I, PWWP-II, PHD-I, PHD-II, and PHD-III) and ten putative nuclear localization signals, and encodes 2696 amino acids . 
+NSD1 shows 86% identity with the mouse Nsd1 at the nucleotide level, and 83% at the amino acid level . 
+NSD1 is expressed in the fetal/adult brain, kidney, skeletal muscle, spleen, and the thymus, and faintly in the lung . 
+Two different transcripts (9.0 and 10.0 kb) were consistently observed in various fetal and adult tissues examined . 
+These findings favor the character of NSD1 as a nucleus-localized, basic transcriptional factor and also a bifunctional transcriptional regulator, such as that of the mouse Nsd1 . 
+It remains to be investigated whether mutations of NSD1 lead to a specific phenotype in man . 

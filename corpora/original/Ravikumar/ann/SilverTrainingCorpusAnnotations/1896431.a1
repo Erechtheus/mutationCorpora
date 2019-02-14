@@ -1,0 +1,89 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 25 39	staphylococcal
+T3	Protein 40 48	nuclease
+T4	Value 60 65	1.7 A
+T5	Parameter 66 76	resolution
+T6	Geometrical_part 82 99	crystal structure
+T7	Organism 103 117	staphylococcal
+T8	Protein 118 126	nuclease
+T9	Value 150 155	1.7 A
+T10	Parameter 156 166	resolution
+T11	Parameter 180 188	R-factor
+T12	Value 192 197	16.2%
+T13	Unknown 232 251	Hendrickson-Konnert
+T14	Process 266 276	refinement
+T15	Unknown 282 291	structure
+T16	State 312 326	conformational
+T17	Process 327 334	changes
+T18	Geometrical_part 351 360	structure
+T19	Category 368 383	ternary complex
+T20	Organism 387 401	staphylococcal
+T21	Protein 402 410	nuclease
+T22	Value 411 414	1,2
+T23	Chemical 426 458	deoxythymidine-3',5'-diphosphate
+T24	Chemical 463 467	Ca2+
+T25	Protein_part 469 476	Tyr-113
+T26	Protein_part 481 488	Tyr-115
+T27	Chemical 513 528	nucleotide base
+T28	Protein 536 544	nuclease
+T29	Category 545 552	complex
+T30	Location 566 573	outward
+T31	Process 595 602	binding
+T32	Geometrical_part 603 609	pocket
+T33	Process 617 624	absence
+T34	Chemical 628 638	nucleotide
+T35	Protein_part 644 655	side chains
+T36	Chemical 659 663	Ca2+
+T37	Category 664 671	ligands
+T38	Protein_part 672 678	Asp-21
+T39	Protein_part 683 689	Asp-40
+T40	Process 690 695	shift
+T41	Protein_part 704 710	Glu-43
+T42	Chemical 725 737	general base
+T43	Process 745 755	hydrolysis
+T44	Chemical 763 785	5'-phosphodiester bond
+T45	Process 812 819	changes
+T46	Protein_part 827 841	catalytic site
+T47	Process 867 876	intrusion
+T48	Geometrical_part 882 890	symmetry
+T49	Protein_part 899 905	Lys-70
+T50	Protein_part 906 916	side chain
+T51	Chemical 923 937	hydrogen bonds
+T52	Protein_part 946 952	Asp-21
+T53	Protein_part 957 963	Glu-43
+T54	Geometrical_part 992 996	loop
+T55	Protein_part 1013 1023	residue 50
+T56	State 1055 1069	conformational
+T57	Process 1070 1077	changes
+T58	Protein_part 1098 1107	Ca2+ site
+T59	Protein_part 1113 1124	side chains
+T60	Protein_part 1128 1134	Arg-35
+T61	Protein_part 1136 1142	Lys-84
+T62	Protein_part 1144 1150	Tyr-85
+T63	Protein_part 1156 1162	Arg-87
+T64	Chemical 1170 1183	hydrogen bond
+T65	Chemical 1200 1213	5'-phosphates
+T66	Chemical 1221 1231	nucleotide
+T67	Protein 1239 1247	nuclease
+T68	Category 1248 1255	complex
+T69	State 1274 1286	conformation
+T70	Process 1301 1313	interactions
+T71	Location 1319 1327	adjacent
+T72	Protein 1328 1335	protein
+T73	Protein_part 1336 1347	side chains
+T74	Geometrical_part 1370 1378	geometry
+T75	Process 1386 1393	absence
+T76	Category 1397 1403	ligand
+T77	Protein 1409 1417	nuclease
+T78	Geometrical_part 1418 1427	structure
+T79	Process 1496 1506	refinement
+T80	Protein 1514 1522	nuclease
+T81	Category 1523 1530	complex
+T82	Geometrical_part 1531 1540	structure
+T83	Value 1544 1550	1.65 A
+T84	Organism 1639 1653	staphylococcal
+T85	Protein 1655 1663	nuclease
+T86	Unknown 1675 1681	system
+T87	Protein 1685 1692	protein
+T88	Geometrical_part 1693 1702	structure
+T89	Process 1707 1715	function

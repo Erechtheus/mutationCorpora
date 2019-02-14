@@ -1,0 +1,5 @@
+Pan 1 is an acidic outer membrane protein of Neisseria gonorrhoeae that is expressed only when gonococci are grown anaerobically . 
+On silver-stained sodium dodecyl sulfate-polyacrylamide gels, Pan 1 migrates as an intense but diffuse 54-kDa protein . 
+The deduced amino acid sequence of Pan 1 from the aniA (anaerobically induced protein) open reading frame reveals a lipoprotein consensus sequence, Ala-Leu-Ala-Ala-Cys, and a processed molecular mass of 39 kDa . 
+Furthermore, there is strong homology at the N terminus and C terminus of Pan 1 to the termini of the gonococcal outer membrane lipoproteins Lip and Laz . 
+[3H] palmitic acid labeling of gonococci grown under oxygen-limited conditions demonstrated specific incorporation of label into Pan 1, suggesting further that Pan 1 is a lipoprotein . 

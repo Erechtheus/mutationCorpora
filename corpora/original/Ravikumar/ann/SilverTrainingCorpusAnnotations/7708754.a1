@@ -1,0 +1,52 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 27	bovine
+T3	Protein 28 38	angiogenin
+T4	Value 42 47	1.5-A
+T5	Parameter 48 58	resolution
+T6	Parameter 64 72	capacity
+T7	Protein 76 92	angiogenin (Ang)
+T8	Body_part 103 115	blood vessel
+T9	Process 116 122	growth
+T10	Parameter 170 178	activity
+T11	Technique 180 195	Crystallography
+T12	Process 200 211	mutagenesis
+T13	Organism 215 220	human
+T14	Protein 221 224	Ang
+T15	Chemical 256 266	pyrimidine
+T16	Process 267 274	binding
+T17	Protein_part 275 279	site
+T18	Protein_part 297 304	Gln-117
+T19	State 322 336	conformational
+T20	Process 337 343	change
+T21	Process 365 374	mechanism
+T22	Protein 379 382	Ang
+T23	Process 383 389	action
+T24	Unknown 395 400	1.5-A
+T25	Geometrical_part 412 429	crystal structure
+T26	Organism 433 439	bovine
+T27	Protein 440 443	Ang
+T28	Protein_part 454 467	glutamic acid
+T29	Protein_part 487 494	Gln-117
+T30	Protein_part 516 535	blocked active site
+T31	Protein 563 571	proteins
+T32	State 585 606	inactive conformation
+T33	Organism 610 616	bovine
+T34	Protein 618 621	Ang
+T35	Process 663 675	interactions
+T36	Organism 692 697	human
+T37	Protein 698 701	Ang
+T38	Geometrical_part 707 734	three-dimensional structure
+T39	Protein 751 759	receptor
+T40	Process 760 767	binding
+T41	Protein_part 768 772	site
+T42	Protein 807 815	proteins
+T43	Protein_part 821 840	Arg-Gly-Asp segment
+T44	Protein_part 849 853	site
+T45	Organism 858 864	bovine
+T46	Protein 865 868	Ang
+T47	Protein_part 891 902	Arg-Glu-Asn
+T48	Organism 906 911	human
+T49	Protein 912 915	Ang
+T50	State 933 945	conformation
+T51	Protein 960 968	integrin
+T52	Protein_part 969 985	recognition site

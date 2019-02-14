@@ -1,0 +1,61 @@
+T1	Protein_part 11 15	site
+T2	Category 20 29	substrate
+T3	Process 30 40	distortion
+T4	Protein 46 81	family II inorganic pyrophosphatase
+T5	Geometrical_part 103 121	crystal structures
+T6	Protein 127 152	family II pyrophosphatase
+T7	Category 170 179	substrate
+T8	Unknown 180 188	analogue
+T9	Chemical 190 206	imidodiphosphate
+T10	Chemical 208 211	PNP
+T11	Process 250 268	catalytic reaction
+T12	Process 269 278	mechanism
+T13	Protein 287 300	enzyme family
+T14	Category 330 339	substrate
+T15	Category 340 347	complex
+T16	Chemical 356 364	fluoride
+T17	Process 365 375	inhibition
+T18	Technique 383 408	site-directed mutagenesis
+T19	Unknown 450 459	Michaelis
+T20	Category 460 467	complex
+T21	Unknown 469 479	Structures
+T22	Chemical 492 500	fluoride
+T23	Chemical 529 541	H98Q variant
+T24	Unknown 549 561	PNP-Bacillus
+T25	Protein 571 586	pyrophosphatase
+T26	Category 587 594	complex
+T27	Location 609 619	trinuclear
+T28	Molecular_Part 620 632	metal center
+T29	Chemical 639 648	metal ion
+T30	Chemical 663 678	terminal oxygen
+T31	Chemical 700 709	phosphate
+T32	Chemical 733 753	putative nucleophile
+T33	Chemical 788 801	scissile bond
+T34	Process 814 826	coordination
+T35	Protein 830 837	protein
+T36	Chemical 843 854	nucleophile
+T37	Protein_part 897 912	phosphorus site
+T38	Location 930 934	side
+T39	Process 964 971	binding
+T40	Category 975 984	substrate
+T41	Process 989 999	comparison
+T42	Category 1013 1020	product
+T43	Category 1021 1030	complexes
+T44	Protein_part 1036 1046	side chain
+T45	Protein_part 1050 1056	Lys296
+T46	Protein_part 1103 1114	side chains
+T47	Protein_part 1116 1121	His98
+T48	Protein_part 1123 1129	Lys205
+T49	Protein_part 1134 1140	Lys296
+T50	Chemical 1168 1176	nitrogen
+T51	Chemical 1180 1183	PNP
+T52	Protein_part 1205 1217	active sites
+T53	Protein 1225 1234	wild-type
+T54	Geometrical_part 1235 1244	structure
+T55	Category 1273 1282	substrate
+T56	Process 1283 1293	distortion
+T57	Process 1295 1302	Binding
+T58	Protein 1310 1316	enzyme
+T59	Organism 1326 1332	strain
+T60	Category 1337 1346	substrate
+T61	Parameter 1378 1382	rate

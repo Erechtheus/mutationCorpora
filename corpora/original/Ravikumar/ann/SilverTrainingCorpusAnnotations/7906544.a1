@@ -1,0 +1,81 @@
+T1	Process 0 11	Replacement
+T2	Protein_part 25 38	histidine-195
+T3	Protein 42 75	chloramphenicol acetyltransferase
+T4	Chemical 92 104	general base
+T5	Process 105 109	role
+T6	Chemical 114 123	glutamate
+T7	Protein 129 150	imidazole N epsilon 2
+T8	Protein_part 154 161	His-195
+T9	Geometrical_part 181 185	part
+T10	Chemical 202 214	general base
+T11	Process 215 224	mechanism
+T12	Protein 228 267	chloramphenicol acetyltransferase (CAT)
+T13	Chemical 269 285	hydrogen bonding
+T14	Molecule 309 315	proton
+T15	Chemical 333 341	hydroxyl
+T16	Molecular_Part 342 347	group
+T17	Chemical 351 366	chloramphenicol
+T18	Process 368 379	Replacement
+T19	Protein_part 383 390	His-195
+T20	Protein_part 394 401	alanine
+T21	Chemical 405 414	glutamine
+T22	Process 435 444	decreases
+T23	Parameter 448 452	kcat
+T24	Protein_part 459 460	x
+T25	Protein_part 475 476	x
+T26	Value 477 488	10(5))-fold
+T27	Parameter 512 521	Km values
+T28	Category 531 541	substrates
+T29	Chemical 542 558	(chloramphenicol
+T30	Chemical 563 574	acetyl-CoA)
+T31	Protein 599 612	wild-type CAT
+T32	Geometrical_part 618 627	structure
+T33	Protein 631 642	Gln-195 CAT
+T34	Value 662 667	2.5-A
+T35	Parameter 668 678	resolution
+T36	Protein 717 730	wild-type CAT
+T37	Process 732 744	Substitution
+T38	Protein_part 748 755	His-195
+T39	Chemical 759 768	glutamate
+T40	Value 784 799	5 x 10(4))-fold
+T41	Process 800 808	decrease
+T42	Parameter 812 816	kcat
+T43	Value 833 839	3-fold
+T44	Process 840 848	increase
+T45	Parameter 856 858	Km
+T46	Chemical 863 878	chloramphenicol
+T47	Parameter 904 921	binding constants
+T48	Category 931 941	substrates
+T49	Process 966 979	substitutions
+T50	Process 1001 1010	decreases
+T51	Parameter 1018 1026	affinity
+T52	Protein 1030 1033	CAT
+T53	Chemical 1038 1048	acetyl-CoA
+T54	Parameter 1050 1059	Kd values
+T55	Value 1070 1072	2-
+T56	Value 1076 1082	3-fold
+T57	Chemical 1093 1108	chloramphenicol
+T58	Parameter 1109 1118	Kd values
+T59	Value 1133 1136	26-
+T60	Value 1138 1141	20-
+T61	Value 1147 1154	53-fold
+T62	Protein 1159 1170	Ala-195 CAT
+T63	Protein 1172 1183	Gln-195 CAT
+T64	Protein 1188 1199	Glu-195 CAT
+T65	Parameter 1220 1222	pH
+T66	Parameter 1237 1244	kcat/Km
+T67	Parameter 1252 1271	apparent pKa values
+T68	Value 1275 1278	6.5
+T69	Value 1284 1287	6.7
+T70	Protein 1292 1303	Ala-195 CAT
+T71	Protein 1308 1319	Gln-195 CAT
+T72	Value 1367 1370	6.6
+T73	Process 1391 1401	ionization
+T74	Protein_part 1405 1412	His-195
+T75	Protein 1416 1429	wild-type CAT
+T76	Parameter 1448 1450	pH
+T77	Parameter 1465 1472	kcat/Km
+T78	Protein 1477 1488	Glu-195 CAT
+T79	Parameter 1490 1493	pKa
+T80	Value 1496 1499	8.3
+T81	Protein 1533 1546	wild-type CAT

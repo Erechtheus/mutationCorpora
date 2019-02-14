@@ -1,0 +1,45 @@
+T1	Process 11 26	phosphorylation
+T2	Process 41 53	interactions
+T3	Process 76 82	target
+T4	Process 83 94	recognition
+T5	Protein_part 102 112	FHA domain
+T6	Protein 116 120	Ki67
+T7	Protein_part 126 158	forkhead-associated (FHA) domain
+T8	Organism 162 167	human
+T9	Protein 168 172	Ki67
+T10	Organism 192 197	human
+T11	Protein 208 221	protein hNIFK
+T12	Protein_part 237 256	44-residue fragment
+T13	Protein_part 258 270	hNIFK226-269
+T14	Protein_part 290 296	Thr234
+T15	Process 330 337	binding
+T16	Process 358 373	phosphorylation
+T17	Protein 381 388	kinases
+T18	Protein 390 394	CDK1
+T19	Protein 399 403	GSK3
+T20	Unknown 414 421	pThr238
+T21	Unknown 423 430	pThr234
+T22	Unknown 435 442	pSer230
+T23	Geometrical_part 467 485	solution structure
+T24	Protein 489 496	Ki67FHA
+T25	Category 500 507	complex
+T26	Protein_part 524 563	phosphorylated peptide hNIFK226-269(3P)
+T27	Process 590 601	recognition
+T28	Unknown 605 612	pThr234
+T29	Process 626 635	extension
+T30	Protein_part 643 653	beta-sheet
+T31	Protein_part 661 671	FHA domain
+T32	Process 679 687	addition
+T33	Protein_part 693 704	beta-strand
+T34	Protein 708 713	hNIFK
+T35	Unknown 719 728	structure
+T36	Protein_part 735 745	FHA domain
+T37	Category 749 756	complex
+T38	Process 786 793	binding
+T39	Category 826 832	ligand
+T40	Physiology 871 877	cancer
+T41	Protein 878 897	marker protein Ki67
+T42	Process 903 912	signaling
+T43	Process 913 920	pathway
+T44	Body_part 937 941	cell
+T45	Process 947 960	specification

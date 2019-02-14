@@ -1,0 +1,35 @@
+T1	Process 10 15	basis
+T2	Protein_part 19 26	alanine
+T3	Process 27 41	discrimination
+T4	Protein_part 53 57	site
+T5	Protein_part 59 63	AlaX
+T6	Protein 71 80	homologue
+T7	Protein 88 119	class II alanyl-tRNA synthetase
+T8	Protein_part 128 134	domain
+T9	Parameter 184 192	activity
+T10	Unknown 212 221	tRNA(Ala)
+T11	Geometrical_part 244 254	structures
+T12	Protein_part 258 262	AlaX
+T13	Organism 272 302	archaeon Pyrococcus horikoshii
+T14	Chemical 331 335	zinc
+T15	Protein_part 357 376	amino acid l-serine
+T16	Chemical 381 385	zinc
+T17	Technique 401 420	mutational analysis
+T18	Chemical 457 472	Thr-30 hydroxyl
+T19	Molecular_Part 473 478	group
+T20	Chemical 496 510	beta-methylene
+T21	Protein_part 524 530	serine
+T22	Process 554 568	discrimination
+T23	Protein_part 583 589	serine
+T24	Protein_part 603 610	alanine
+T25	Chemical 627 635	chemical
+T26	Protein_part 690 697	Gln-584
+T27	Protein 701 723	alanyl-tRNA synthetase
+T28	Protein_part 746 752	Thr-30
+T29	Protein_part 756 760	AlaX
+T30	Process 783 797	discrimination
+T31	Process 837 849	conservation
+T32	Chemical 857 865	chemical
+T33	Process 866 880	discrimination
+T34	Geometrical_part 898 901	cis
+T35	Unknown 913 922	tRNA(Ala)

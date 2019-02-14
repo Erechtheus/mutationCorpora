@@ -1,0 +1,43 @@
+T1	Protein_part 4 32	Rad51/RadA N-terminal domain
+T2	Protein 43 72	nucleoprotein filament ATPase
+T3	Parameter 73 81	activity
+T4	Protein 83 91	Proteins
+T5	Protein 99 121	RecA/RadA/Rad51 family
+T6	Protein 127 144	helical filaments
+T7	Molecule 148 151	DNA
+T8	Process 157 165	function
+T9	Process 169 193	homologous recombination
+T10	Protein 207 215	proteins
+T11	Chemical 251 254	ATP
+T12	Process 255 262	binding
+T13	Protein 273 292	RadA/Rad51 proteins
+T14	Protein_part 301 318	N-terminal domain
+T15	Value 330 332	no
+T16	Parameter 333 341	homology
+T17	Protein_part 351 368	C-terminal domain
+T18	Protein 378 382	RecA
+T19	Protein_part 394 410	Rad51 N-terminal
+T20	Protein_part 415 438	RecA C-terminal domains
+T21	Molecule 463 466	DNA
+T22	Process 476 480	role
+T23	Protein_part 491 498	domains
+T24	Protein 534 548	RadA filaments
+T25	State 589 608	active conformation
+T26	Protein 629 635	ATPase
+T27	Process 645 655	activation
+T28	Process 673 681	rotation
+T29	Protein 689 696	subunit
+T30	Protein_part 710 727	N-terminal domain
+T31	Protein_part 733 738	G103E
+T32	Process 739 747	mutation
+T33	Organism 759 764	yeast
+T34	Protein_part 765 788	Rad51 N-terminal domain
+T35	Protein 805 813	filament
+T36	Process 840 848	contacts
+T37	Protein_part 861 878	N-terminal domain
+T38	Protein_part 921 939	N-terminal domains
+T39	Process 958 962	role
+T40	Protein 966 974	filament
+T41	Process 975 985	activation
+T42	Geometrical_part 1012 1024	architecture
+T43	Protein 1032 1054	recombination proteins

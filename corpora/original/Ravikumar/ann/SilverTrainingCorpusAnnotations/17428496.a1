@@ -1,0 +1,90 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Chemical 26 59	MID1 B-box2 CHC(D/C)C(2)H(2) zinc
+T3	Protein_part 68 74	domain
+T4	Geometrical_part 108 122	conserved RING
+T5	Geometrical_part 123 127	fold
+T6	Protein_part 133 138	B-box
+T7	Protein_part 146 152	domain
+T8	Unknown 199 205	family
+T9	Geometrical_part 209 213	RING
+T10	Protein_part 215 220	B-box
+T11	Geometrical_part 222 240	coiled-coil (RBCC)
+T12	Protein_part 241 247	domain
+T13	Protein 259 267	proteins
+T14	Value 291 305	more than 1500
+T15	Protein 317 325	proteins
+T16	Protein 332 340	proteins
+T17	Protein_part 366 379	B-box2 domain
+T18	Protein 395 403	proteins
+T19	Protein_part 412 426	tandem domains
+T20	Protein_part 464 471	B-boxes
+T21	Parameter 501 520	sequence similarity
+T22	Geometrical_part 550 568	solution structure
+T23	Protein 572 578	B-box1
+T24	Protein 584 588	MID1
+T25	Protein 601 620	E3 ubiquitin ligase
+T26	Unknown 640 660	X-linked Opitz G/BBB
+T27	Physiology 661 669	syndrome
+T28	Geometrical_part 714 718	RING
+T29	Geometrical_part 724 728	fold
+T30	Geometrical_part 750 768	tertiary structure
+T31	Protein_part 776 782	B-box2
+T32	Unknown 784 787	CHC
+T33	Unknown 788 800	D/C)C(2)H(2)
+T34	Protein_part 802 808	domain
+T35	Protein 814 818	MID1
+T36	Technique 842 858	NMR spectroscopy
+T37	Protein_part 865 883	MID1 B-box2 domain
+T38	Protein_part 904 915	alpha-helix
+T39	Geometrical_part 933 937	loop
+T40	Geometrical_part 953 966	anti-parallel
+T41	Protein_part 967 979	beta-strands
+T42	Geometrical_part 993 1011	tertiary structure
+T43	Protein 1027 1033	B-box1
+T44	Geometrical_part 1038 1053	RING structures
+T45	Protein_part 1084 1100	primary sequence
+T46	Parameter 1101 1111	similarity
+T47	Protein_part 1126 1133	domains
+T48	Process 1138 1149	mutagenesis
+T49	Process 1151 1160	ESI-FTICR
+T50	Process 1166 1169	ICP
+T51	Technique 1170 1187	mass spectrometry
+T52	Protein_part 1206 1219	B-box2 domain
+T53	Chemical 1236 1246	zinc atoms
+T54	Protein_part 1285 1291	Cys175
+T55	Protein_part 1293 1299	His178
+T56	Protein_part 1301 1307	Cys195
+T57	Protein_part 1312 1318	Cys198
+T58	Protein_part 1336 1342	Cys187
+T59	Protein_part 1344 1350	Asp190
+T60	Protein_part 1352 1358	His204
+T61	Protein_part 1364 1370	His207
+T62	Protein_part 1418 1431	aspartic acid
+T63	Chemical 1447 1456	zinc atom
+T64	Process 1457 1469	coordination
+T65	Protein_part 1475 1493	zinc-finger domain
+T66	Protein_part 1504 1517	aspartic acid
+T67	Chemical 1561 1565	zinc
+T68	Protein 1569 1594	matrix metalloproteinases
+T69	Protein_part 1626 1635	Cys195Phe
+T70	Process 1636 1648	substitution
+T71	Organism 1665 1672	patient
+T72	Unknown 1678 1697	X-linked Opitz GBBB
+T73	Physiology 1698 1706	syndrome
+T74	Process 1720 1730	importance
+T75	Chemical 1741 1745	zinc
+T76	Process 1746 1758	coordination
+T77	Process 1767 1775	function
+T78	Protein_part 1783 1801	MID1 B-box2 domain
+T79	Unknown 1826 1835	structure
+T80	Protein 1874 1880	B-box2
+T81	Geometrical_part 1881 1890	structure
+T82	Unknown 1902 1906	XNF7
+T83	Chemical 1942 1951	zinc atom
+T84	Process 1966 1976	similarity
+T85	Geometrical_part 1980 1999	tertiary structures
+T86	Protein 2007 2013	B-box2
+T87	Protein 2015 2021	B-box1
+T88	Geometrical_part 2026 2030	RING
+T89	Protein_part 2031 2038	domains
+T90	Protein_part 2054 2061	domains

@@ -1,0 +1,83 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 32	pullulanase
+T3	Geometrical_part 47 55	parallel
+T4	Process 56 63	binding
+T5	Chemical 67 83	oligosaccharides
+T6	Protein_part 91 102	active site
+T7	Geometrical_part 108 126	crystal structures
+T8	Organism 130 151	Klebsiella pneumoniae
+T9	Protein 152 163	pullulanase
+T10	Category 172 179	complex
+T11	Chemical 186 198	glucose (G1)
+T12	Chemical 200 207	maltose
+T13	Chemical 209 211	G2
+T14	Chemical 214 232	isomaltose (isoG2)
+T15	Chemical 234 245	maltotriose
+T16	Chemical 247 249	G3
+T17	Chemical 255 268	maltotetraose
+T18	Chemical 270 272	G4
+T19	Value 296 311	around 1.7-1.9A
+T20	Parameter 312 322	resolution
+T21	Process 346 355	radiation
+T22	Unknown 366 374	SPring-8
+T23	Protein_part 414 433	amino acid residues
+T24	Chemical 444 459	water molecules
+T25	Chemical 474 486	calcium ions
+T26	Chemical 502 507	sugar
+T27	Molecular_Part 508 516	moieties
+T28	Protein 522 528	enzyme
+T29	Protein_part 549 556	domains
+T30	Protein_part 558 560	N1
+T31	Protein_part 562 564	N2
+T32	Protein_part 566 568	N3
+T33	Protein_part 578 579	C
+T34	Protein_part 586 595	N1 domain
+T35	Geometrical_part 628 637	structure
+T36	Category 645 652	complex
+T37	Chemical 658 660	G3
+T38	Chemical 664 666	G4
+T39	Protein_part 672 674	N1
+T40	Protein_part 679 689	N2 domains
+T41	Protein 712 723	pullulanase
+T42	Protein_part 735 737	N3
+T43	Protein_part 747 756	C domains
+T44	Process 767 777	similarity
+T45	Organism 792 803	Pseudomonas
+T46	Protein 804 814	isoamylase
+T47	Protein_part 820 829	N1 domain
+T48	Chemical 860 872	carbohydrate
+T49	Protein_part 881 887	domain
+T50	Protein_part 897 909	calcium site
+T51	Protein_part 911 916	CBM41
+T52	Chemical 923 925	G1
+T53	Protein_part 935 945	subsite -2
+T54	Chemical 957 959	G2
+T55	Chemical 1018 1020	G3
+T56	Chemical 1075 1077	G4
+T57	Molecule 1139 1141	G3
+T58	Molecule 1146 1158	G4 molecules
+T59	Geometrical_part 1173 1178	cleft
+T60	Geometrical_part 1190 1198	parallel
+T61	Protein_part 1233 1241	subsites
+T62	Protein_part 1297 1322	catalytic residues Glu706
+T63	Protein_part 1327 1333	Asp677
+T64	Protein 1357 1368	pullulanase
+T65	Protein 1373 1386	alpha-amylase
+T66	Protein 1404 1415	pullulanase
+T67	Protein_part 1464 1478	sugar residues
+T68	Protein_part 1486 1494	subsites
+T69	Geometrical_part 1540 1543	end
+T70	Protein 1547 1557	main-chain
+T71	Chemical 1558 1574	alpha-1,4 glucan
+T72	Protein 1592 1603	pullulanase
+T73	Protein 1608 1618	isoamylase
+T74	Process 1624 1634	comparison
+T75	State 1654 1668	conformational
+T76	Process 1669 1679	difference
+T77	Geometrical_part 1698 1703	cleft
+T78	Protein_part 1723 1729	domain
+T79	Process 1730 1742	organization
+T80	Process 1759 1768	different
+T81	Category 1769 1778	substrate
+T82	Protein 1801 1812	pullulanase
+T83	Protein 1817 1827	isoamylase

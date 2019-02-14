@@ -1,0 +1,124 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Chemical 35 44	triiodide
+T3	Protein 60 90	Arthromyces ramosus peroxidase
+T4	Process 94 103	different
+T5	Parameter 104 113	pH values
+T6	Process 115 128	Perturbations
+T7	Protein_part 132 152	active site residues
+T8	Process 163 174	implication
+T9	Protein 178 184	enzyme
+T10	Process 185 194	catalysis
+T11	Unknown 200 210	structures
+T12	Chemical 218 225	cyanide
+T13	Chemical 230 239	triiodide
+T14	Category 240 249	complexes
+T15	Protein 253 289	Arthromyces ramosus peroxidase (ARP)
+T16	Process 293 302	different
+T17	Parameter 303 312	pH values
+T18	Technique 334 355	x-ray crystallography
+T19	Physiology 380 388	behavior
+T20	Unknown 396 405	invariant
+T21	Protein_part 406 414	residues
+T22	Chemical 418 426	arginine
+T23	Protein_part 428 434	Arg-52
+T24	Location 440 446	distal
+T25	Protein_part 447 456	histidine
+T26	Protein_part 458 464	His-56
+T27	Protein 477 483	enzyme
+T28	Process 484 492	reaction
+T29	Process 530 535	basis
+T30	Protein_part 543 554	active site
+T31	Protein 558 568	peroxidase
+T32	Chemical 588 595	cyanide
+T33	Category 596 605	complexes
+T34	Parameter 609 611	pH
+T35	Value 612 615	7.5
+T36	Value 617 620	5.0
+T37	Value 626 629	4.0
+T38	Parameter 665 674	R-factors
+T39	Value 678 682	17.8
+T40	Value 684 688	17.8
+T41	Value 694 699	18.5%
+T42	Value 706 715	7.0-1.6-A
+T43	Parameter 716 726	resolution
+T44	Chemical 750 759	triiodide
+T45	Category 760 769	complexes
+T46	Parameter 773 775	pH
+T47	Value 776 779	6.5
+T48	Value 784 787	5.0
+T49	Value 799 803	16.9
+T50	Value 809 814	16.8%
+T51	Value 821 830	7.0-1.9-A
+T52	Parameter 831 841	resolution
+T53	Unknown 852 862	structures
+T54	Chemical 870 877	cyanide
+T55	Category 878 887	complexes
+T56	Parameter 891 893	pH
+T57	Value 894 897	7.5
+T58	Value 899 902	5.0
+T59	Value 908 911	4.0
+T60	Chemical 953 964	Cyanide ion
+T61	Chemical 978 982	heme
+T62	State 995 1007	conformation
+T63	State 1032 1044	conformation
+T64	Chemical 1051 1062	cyanide ion
+T65	Process 1063 1070	binding
+T66	Chemical 1076 1090	N epsilon atom
+T67	Protein_part 1094 1100	His-56
+T68	Chemical 1118 1121	ion
+T69	Process 1125 1133	rotation
+T70	Chemical 1141 1155	imidazole ring
+T71	Chemical 1167 1186	C beta-C gamma bond
+T72	State 1209 1223	conformational
+T73	Process 1224 1230	change
+T74	Protein_part 1248 1256	residues
+T75	Parameter 1262 1270	distance
+T76	Chemical 1284 1298	N epsilon atom
+T77	Protein_part 1302 1308	His-56
+T78	Chemical 1317 1330	nitrogen atom
+T79	Chemical 1338 1345	cyanide
+T80	Process 1359 1367	presence
+T81	Chemical 1373 1386	hydrogen bond
+T82	Parameter 1407 1415	pH range
+T83	Chemical 1437 1446	triiodide
+T84	Category 1447 1456	complexes
+T85	Chemical 1473 1483	triiodides
+T86	Protein 1493 1496	ARP
+T87	Location 1516 1527	distal side
+T88	Chemical 1535 1539	heme
+T89	Chemical 1546 1555	triiodide
+T90	Protein 1565 1568	ARP
+T91	Process 1581 1594	rearrangement
+T92	Location 1602 1608	distal
+T93	Chemical 1609 1617	arginine
+T94	Protein 1621 1633	cytochrome c
+T95	Protein 1634 1644	peroxidase
+T96	Process 1660 1669	formation
+T97	Chemical 1677 1685	fluoride
+T98	Category 1686 1693	complex
+T99	Chemical 1697 1707	compound I
+T100	Protein_part 1713 1723	side chain
+T101	Protein_part 1727 1733	Arg-52
+T102	State 1752 1764	conformation
+T103	Protein_part 1772 1782	side chain
+T104	Protein_part 1786 1792	His-56
+T105	State 1821 1835	Conformational
+T106	Protein_part 1851 1857	His-56
+T107	Molecule 1888 1894	proton
+T108	Process 1895 1908	translocation
+T109	Chemical 1918 1929	oxygen atom
+T110	Chemical 1946 1950	HOO-
+T111	Protein 1954 1963	acid-base
+T112	Process 1964 1973	catalysis
+T113	Chemical 1985 1995	compound I
+T114	Chemical 2001 2010	iron atom
+T115	Chemical 2019 2026	cyanide
+T116	Category 2027 2034	complex
+T117	Chemical 2045 2051	ferric
+T118	Chemical 2071 2075	heme
+T119	Chemical 2099 2108	triiodide
+T120	Category 2109 2116	complex
+T121	Chemical 2128 2134	ferric
+T122	Chemical 2140 2149	iron atom
+T123	Value 2178 2189	about 0.2 A
+T124	Location 2201 2214	proximal side

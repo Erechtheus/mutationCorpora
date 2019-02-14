@@ -1,0 +1,63 @@
+T1	Protein 24 47	MTA/AdoHcy nucleosidase
+T2	Process 58 66	reaction
+T3	Protein 100 106	enzyme
+T4	Chemical 111 121	nucleoside
+T5	Process 141 150	catalysis
+T6	Protein 152 182	MTA/AdoHcy nucleosidase (MTAN)
+T7	Chemical 211 222	N9-C1' bond
+T8	Chemical 230 241	nucleosides
+T9	Chemical 243 271	5'-methylthioadenosine (MTA)
+T10	Protein_part 276 307	S-adenosylhomocysteine (AdoHcy)
+T11	Chemical 317 324	adenine
+T12	Chemical 347 357	thioribose
+T13	Protein 359 363	MTAN
+T14	Process 378 382	role
+T15	Physiology 386 395	metabolic
+T16	Process 396 404	pathways
+T17	Chemical 415 425	methionine
+T18	Process 426 435	recycling
+T19	Process 448 459	methylation
+T20	Chemical 461 470	polyamine
+T21	Process 471 483	biosynthesis
+T22	Process 496 503	sensing
+T23	Geometrical_part 505 523	Crystal structures
+T24	Protein 529 548	wild-type (WT) MTAN
+T25	Chemical 564 572	glycerol
+T26	Protein 578 591	mutant-enzyme
+T27	Category 611 620	complexes
+T28	Value 645 649	2.0A
+T29	Value 651 655	2.0A
+T30	Value 661 665	2.1A
+T31	Parameter 666 676	resolution
+T32	Protein 696 722	WT MTAN-glycerol structure
+T33	Chemical 734 745	purine-free
+T34	Protein 799 833	thioribose-free MTAN-ADE structure
+T35	Unknown 860 870	structures
+T36	Protein 880 884	MTAN
+T37	Process 885 892	binding
+T38	Protein_part 893 901	subsites
+T39	Chemical 907 913	purine
+T40	Chemical 918 933	thioribose-free
+T41	State 934 940	states
+T42	Protein 962 968	enzyme
+T43	Chemical 981 986	water
+T44	Physiology 987 994	network
+T45	Process 1015 1022	binding
+T46	Protein_part 1024 1032	subsites
+T47	Protein 1038 1056	Asp197Asn MTAN-MTA
+T48	Protein 1061 1093	Glu12Gln MTAN-MTR.ADE structures
+T49	Category 1144 1153	complexes
+T50	Protein 1167 1171	MTAN
+T51	Unknown 1193 1203	structures
+T52	Process 1247 1255	reaction
+T53	Process 1277 1284	insight
+T54	State 1294 1308	conformational
+T55	Process 1309 1316	changes
+T56	Protein 1324 1330	enzyme
+T57	Chemical 1339 1349	nucleoside
+T58	Category 1350 1359	substrate
+T59	Category 1391 1400	substrate
+T60	Process 1401 1408	binding
+T61	Process 1410 1419	catalysis
+T62	Category 1425 1432	product
+T63	Process 1433 1440	release

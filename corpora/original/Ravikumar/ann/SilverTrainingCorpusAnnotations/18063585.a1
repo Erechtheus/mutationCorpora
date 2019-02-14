@@ -1,0 +1,61 @@
+T1	Process 10 21	orientation
+T2	Protein 25 41	xanthine oxidase
+T3	Geometrical_part 43 60	crystal structure
+T4	Protein 64 70	enzyme
+T5	Process 74 82	reaction
+T6	Chemical 88 112	2-hydroxy-6-methylpurine
+T7	Protein 114 137	Xanthine oxidoreductase
+T8	Chemical 171 177	purine
+T9	Physiology 178 188	catabolism
+T10	State 234 240	states
+T11	Physiology 254 267	hyperuricemia
+T12	Process 271 291	ischemia-reperfusion
+T13	Physiology 292 298	injury
+T14	Organism 304 309	human
+T15	Protein 310 316	enzyme
+T16	Protein 347 360	dehydrogenase
+T17	Chemical 376 380	NAD+
+T18	Molecule 394 402	electron
+T19	Category 403 411	acceptor
+T20	Protein 421 429	enzyme's
+T21	Protein_part 430 441	flavin site
+T22	Protein 462 469	oxidase
+T23	Chemical 484 486	O2
+T24	Protein 540 548	enzyme's
+T25	Process 549 557	function
+T26	Chemical 574 580	purine
+T27	Category 581 590	substrate
+T28	Process 591 602	orientation
+T29	Protein 610 618	enzyme's
+T30	Chemical 619 629	molybdenum
+T31	Protein_part 641 652	active site
+T32	Geometrical_part 673 690	crystal structure
+T33	Protein 694 710	xanthine oxidase
+T34	Molecule 747 759	intermediate
+T35	Process 777 785	reaction
+T36	Category 800 809	substrate
+T37	Chemical 810 834	2-hydroxy-6-methylpurine
+T38	Value 838 842	2.3A
+T39	Geometrical_part 862 879	crystal structure
+T40	Process 885 893	reaction
+T41	Molecule 894 906	intermediate
+T42	Chemical 914 920	purine
+T43	Category 921 930	substrate
+T44	Location 959 970	C8 position
+T45	Chemical 977 985	xanthine
+T46	Unknown 1003 1012	structure
+T47	Process 1071 1079	reaction
+T48	Process 1080 1089	mechanism
+T49	Unknown 1095 1104	structure
+T50	Chemical 1110 1122	corroborates
+T51	Chemical 1151 1175	2-hydroxy-6-methylpurine
+T52	Protein_part 1192 1203	active site
+T53	Chemical 1213 1224	C2 carbonyl
+T54	Molecular_Part 1225 1230	group
+T55	Protein_part 1248 1255	Arg-880
+T56	Chemical 1288 1296	xanthine
+T57	Process 1317 1328	orientation
+T58	Chemical 1339 1350	C6 carbonyl
+T59	Protein_part 1379 1386	Arg-880
+T60	Unknown 1406 1409	MoV
+T61	State 1410 1426	transition state

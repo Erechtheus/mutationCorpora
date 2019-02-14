@@ -1,0 +1,91 @@
+T1	Protein 10 26	natural killer T
+T2	Body_part 27 31	cell
+T3	Category 32 42	activators
+T4	Unknown 44 53	structure
+T5	Process 58 66	function
+T6	Organism 72 81	microbial
+T7	Chemical 82 99	glycosphingolipid
+T8	Organism 109 114	mouse
+T9	Unknown 115 119	CD1d
+T10	Protein 121 143	Natural killer T (NKT)
+T11	Body_part 144 149	cells
+T12	Body_part 173 179	immune
+T13	Process 180 188	response
+T14	Body_part 194 200	T cell
+T15	Protein 201 209	receptor
+T16	Process 210 221	interaction
+T17	Unknown 227 231	CD1d
+T18	Protein 242 250	antigens
+T19	Process 275 286	equilibrium
+T20	Protein 287 295	tetramer
+T21	Process 296 303	binding
+T22	Protein 308 315	antigen
+T23	Process 316 328	presentation
+T24	Technique 329 335	assays
+T25	Unknown 341 350	Valpha14i
+T26	Protein 360 363	NKT
+T27	Body_part 364 379	cell hybridomas
+T28	Chemical 389 453	Sphingomonas glycolipid alpha-galacturonosyl ceramide (GalA-GSL)
+T29	Protein 459 462	NKT
+T30	Body_part 463 467	cell
+T31	Category 468 475	agonist
+T32	Chemical 510 549	alpha-galactosylceramide (alpha-GalCer)
+T33	Protein 573 576	NKT
+T34	Category 577 584	agonist
+T35	Chemical 590 598	GalA-GSL
+T36	Protein 610 626	fatty acyl chain
+T37	Process 631 638	absence
+T38	Unknown 646 650	4-OH
+T39	Protein_part 658 674	sphingosine tail
+T40	Unknown 681 688	6'-COOH
+T41	Molecular_Part 689 694	group
+T42	Chemical 702 711	galactose
+T43	Molecular_Part 712 718	moiety
+T44	Physiology 744 753	antigenic
+T45	Geometrical_part 789 806	crystal structure
+T46	Protein 810 815	mCD1d
+T47	Category 819 826	complex
+T48	Chemical 832 840	GalA-GSL
+T49	Value 844 849	1.8-A
+T50	Parameter 850 860	resolution
+T51	Process 874 881	binding
+T52	Chemical 890 898	GalA-GSL
+T53	Protein 902 907	mCD1d
+T54	Chemical 934 958	short-chain alpha-GalCer
+T55	Category 959 965	ligand
+T56	Unknown 966 972	PBS-25
+T57	Protein 994 999	chain
+T58	Geometrical_part 1033 1042	F' pocket
+T59	Chemical 1060 1068	hydrogen
+T60	Process 1077 1089	interactions
+T61	Unknown 1114 1118	3-OH
+T62	Protein_part 1124 1130	Asp-80
+T63	Location 1155 1162	lateral
+T64	Process 1163 1168	shift
+T65	Value 1171 1174	1 A
+T66	Chemical 1184 1198	galacturonosyl
+T67	Body_part 1199 1203	head
+T68	Molecular_Part 1204 1209	group
+T69	Geometrical_part 1226 1237	CD1 surface
+T70	Chemical 1256 1265	galactose
+T71	Chemical 1269 1281	alpha-GalCer
+T72	Chemical 1312 1328	C(14) fatty acid
+T73	Chemical 1332 1340	GalA-GSL
+T74	Geometrical_part 1367 1376	A' pocket
+T75	Chemical 1387 1392	lipid
+T76	Geometrical_part 1423 1429	pocket
+T77	Chemical 1435 1440	lipid
+T78	Unknown 1466 1471	GC/MS
+T79	Chemical 1502 1531	monounsaturated palmitic acid
+T80	Process 1541 1551	Comparison
+T81	Geometrical_part 1565 1583	crystal structures
+T82	Chemical 1602 1620	glycosphingolipids
+T83	Process 1655 1660	basis
+T84	Physiology 1683 1692	antigenic
+T85	Process 1731 1740	synthesis
+T86	Protein 1744 1747	NKT
+T87	Body_part 1748 1752	cell
+T88	Category 1753 1761	agonists
+T89	Body_part 1776 1780	cell
+T90	Parameter 1799 1809	activities
+T91	Chemical 1824 1836	alpha-GalCer

@@ -1,0 +1,101 @@
+T1	Protein 18 22	DHFR
+T2	Process 23 35	interactions
+T3	Technique 37 45	analysis
+T4	Organism 49 69	Pneumocystis carinii
+T5	Protein 74 84	mouse DHFR
+T6	Category 85 94	complexes
+T7	Chemical 100 105	NADPH
+T8	Chemical 131 144	omega-carboxy
+T9	Chemical 145 153	alkyloxy
+T10	Chemical 155 179	trimethoprim derivatives
+T11	State 188 202	conformational
+T12	Process 203 215	correlations
+T13	Parameter 221 229	activity
+T14	Geometrical_part 240 248	parallel
+T15	Geometrical_part 249 253	ring
+T16	Process 263 275	interactions
+T17	Chemical 341 414	2,4-diamino-5-[3',4'-dimethoxy-5'-(5-carboxy-1-pentynyl)]benzylpyrimidine
+T18	Chemical 416 422	PY1011
+T19	Value 430 439	5000-fold
+T20	Parameter 440 451	selectivity
+T21	Protein 456 509	Pneumocystis carinii dihydrofolate reductase (pcDHFR)
+T22	Organism 523 526	rat
+T23	Body_part 527 532	liver
+T24	Protein 533 537	DHFR
+T25	Chemical 543 606	2,4-diamino-5-[2-methoxy-5-(4-carboxybutyloxy)benzyl]pyrimidine
+T26	Chemical 608 613	PY957
+T27	Value 625 632	80-fold
+T28	Parameter 633 644	selectivity
+T29	Protein 649 655	pcDHFR
+T30	Geometrical_part 657 675	Crystal structures
+T31	Chemical 693 698	NADPH
+T32	Category 699 716	ternary complexes
+T33	Protein 722 727	PY957
+T34	Protein 732 738	pcDHFR
+T35	Value 751 756	2.2 A
+T36	Parameter 757 767	resolution
+T37	Protein 774 780	PY1011
+T38	Protein 785 791	pcDHFR
+T39	Value 804 809	2.0 A
+T40	Parameter 810 820	resolution
+T41	Protein 831 837	PY1011
+T42	Protein 842 860	mouse DHFR (mDHFR)
+T43	Value 873 878	2.2 A
+T44	Parameter 879 889	resolution
+T45	Chemical 921 932	carboxylate
+T46	Chemical 940 961	omega-carboxyalkyloxy
+T47	Protein_part 962 972	side chain
+T48	Category 982 992	inhibitors
+T49	Process 1004 1016	interactions
+T50	Protein_part 1036 1039	Arg
+T51	Category 1047 1056	substrate
+T52	Process 1057 1064	binding
+T53	Geometrical_part 1065 1071	pocket
+T54	Protein 1075 1079	DHFR
+T55	Parameter 1118 1137	inhibitory activity
+T56	Protein 1141 1147	PY1011
+T57	Protein 1162 1167	PY957
+T58	Process 1203 1211	contacts
+T59	Protein_part 1217 1222	Phe69
+T60	Protein 1226 1232	pcDHFR
+T61	Chemical 1240 1257	methylene carbons
+T62	Category 1265 1274	inhibitor
+T63	Protein_part 1275 1285	side chain
+T64	Chemical 1318 1322	bond
+T65	Chemical 1330 1340	1-pentynyl
+T66	Protein_part 1341 1351	side chain
+T67	Process 1359 1367	contacts
+T68	Protein 1391 1403	PY957 pcDHFR
+T69	Category 1404 1411	complex
+T70	Protein 1423 1435	PY1011 mDHFR
+T71	Category 1436 1443	complex
+T72	Geometrical_part 1452 1461	structure
+T73	Protein 1465 1470	mDHFR
+T74	Protein_part 1475 1479	site
+T75	Protein_part 1483 1488	Phe69
+T76	Protein 1492 1498	pcDHFR
+T77	Protein_part 1514 1519	Asn64
+T78	Geometrical_part 1574 1582	parallel
+T79	Geometrical_part 1584 1588	ring
+T80	Process 1589 1597	stacking
+T81	Process 1598 1609	interaction
+T82	Protein_part 1618 1623	Tyr35
+T83	Protein_part 1631 1648	active site helix
+T84	Protein_part 1653 1659	Phe199
+T85	Protein_part 1667 1688	C-terminal beta sheet
+T86	Protein 1692 1698	pcDHFR
+T87	Protein_part 1706 1711	Tyr33
+T88	Protein_part 1716 1722	Phe179
+T89	Protein 1726 1731	mDHFR
+T90	Category 1761 1767	ligand
+T91	Protein_part 1778 1800	His174-His187 parallel
+T92	Geometrical_part 1801 1805	ring
+T93	Process 1806 1814	stacking
+T94	Process 1815 1826	interaction
+T95	Geometrical_part 1857 1866	structure
+T96	Protein 1870 1876	pcDHFR
+T97	Geometrical_part 1884 1888	ring
+T98	Process 1898 1910	interactions
+T99	Protein 1941 1957	protein families
+T100	Protein 1983 1990	protein
+T101	State 1991 2000	stability

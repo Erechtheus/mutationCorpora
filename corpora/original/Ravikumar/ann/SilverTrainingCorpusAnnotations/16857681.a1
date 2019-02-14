@@ -1,0 +1,56 @@
+T1	Process 26 42	characterization
+T2	Chemical 60 71	salt bridge
+T3	Organism 75 84	mammalian
+T4	Body_part 85 96	paneth cell
+T5	Protein 97 112	alpha-defensins
+T6	Chemical 114 133	solution structures
+T7	Organism 137 142	mouse
+T8	Protein 143 153	CRYPTDIN-4
+T9	Protein_part 159 163	E15D
+T10	Protein 164 175	-CRYPTDIN-4
+T11	Protein 177 192	alpha-Defensins
+T12	Unknown 197 206	mediators
+T13	Organism 210 219	mammalian
+T14	Physiology 227 235	immunity
+T15	Geometrical_part 254 269	their structure
+T16	Parameter 279 292	relationships
+T17	Process 330 340	mechanisms
+T18	Process 344 350	action
+T19	Technique 371 374	NMR
+T20	Chemical 375 394	solution structures
+T21	Organism 402 407	mouse
+T22	Body_part 408 419	Paneth cell
+T23	Protein 420 434	alpha-defensin
+T24	Protein 435 452	cryptdin-4 (Crp4)
+T25	Protein_part 467 471	E15D
+T26	Protein_part 472 485	-Crp4 peptide
+T27	Protein_part 508 523	Glu(15) residue
+T28	Protein_part 540 543	Asp
+T29	Technique 556 564	analysis
+T30	Protein_part 576 584	peptides
+T31	Process 598 609	involvement
+T32	Protein_part 618 621	Glu
+T33	Chemical 637 648	salt bridge
+T34	Molecule 672 678	mutant
+T35	Protein_part 704 714	side chain
+T36	Process 724 734	disruption
+T37	Protein_part 768 783	peptide variant
+T38	Geometrical_part 814 818	fold
+T39	Process 832 845	rearrangement
+T40	Protein_part 849 860	side chains
+T41	Process 901 913	interactions
+T42	Chemical 928 939	salt bridge
+T43	Protein 950 962	Crp4 mutants
+T44	Process 992 999	effects
+T45	Parameter 1004 1014	resistance
+T46	Process 1030 1041	degradation
+T47	Unknown 1058 1066	variants
+T48	Parameter 1092 1102	activities
+T49	State 1107 1116	stability
+T50	Process 1120 1131	proteolysis
+T51	Process 1180 1188	function
+T52	Chemical 1206 1217	salt bridge
+T53	Protein 1221 1225	Crp4
+T54	Parameter 1256 1264	activity
+T55	State 1280 1289	stability
+T56	Protein_part 1304 1311	peptide

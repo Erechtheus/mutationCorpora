@@ -1,0 +1,56 @@
+T1	Protein_part 0 26	Amino acid residues His183
+T2	Protein_part 31 37	Glu264
+T3	Organism 41 58	Bacillus subtilis
+T4	Protein 59 73	ferrochelatase
+T5	Process 101 110	insertion
+T6	Chemical 114 123	metal ion
+T7	Unknown 144 146	IX
+T8	Protein 148 162	Ferrochelatase
+T9	Protein_part 177 185	terminal
+T10	Chemical 198 202	heme
+T11	Process 216 223	pathway
+T12	Process 235 248	incorporation
+T13	Chemical 252 258	Fe(II)
+T14	Unknown 279 281	IX
+T15	Molecular_Part 345 350	probe
+T16	Protein 355 361	enzyme
+T17	Chemical 366 371	metal
+T18	Process 372 379	binding
+T19	Protein_part 380 388	residues
+T20	Protein_part 413 424	active site
+T21	Chemical 455 460	metal
+T22	Process 461 468	binding
+T23	Protein_part 469 473	site
+T24	Chemical 494 499	metal
+T25	Chemical 509 518	porphyrin
+T26	Technique 545 570	site-directed mutagenesis
+T27	Organism 574 591	Bacillus subtilis
+T28	Protein 592 606	ferrochelatase
+T29	Process 627 635	exchange
+T30	Protein_part 653 668	residues His183
+T31	Protein_part 673 679	Glu264
+T32	Chemical 692 697	metal
+T33	Parameter 698 706	affinity
+T34	Protein 714 720	enzyme
+T35	Technique 748 771	X-ray crystal structure
+T36	Protein 775 789	ferrochelatase
+T37	Chemical 795 799	iron
+T38	Chemical 815 819	iron
+T39	Protein_part 837 848	active site
+T40	Protein_part 899 918	amino acid residues
+T41	Protein_part 920 926	His183
+T42	Protein_part 932 938	Glu264
+T43	Chemical 950 965	water molecules
+T44	Chemical 972 976	iron
+T45	Geometrical_part 1000 1009	structure
+T46	Protein_part 1016 1025	His183Ala
+T47	Protein 1035 1049	ferrochelatase
+T48	Process 1089 1098	insertion
+T49	Chemical 1104 1113	metal ion
+T50	Unknown 1134 1136	IX
+T51	Protein 1140 1154	ferrochelatase
+T52	Chemical 1169 1174	metal
+T53	Process 1175 1182	binding
+T54	Protein_part 1183 1187	site
+T55	Protein_part 1203 1209	His183
+T56	Protein_part 1214 1220	Glu264

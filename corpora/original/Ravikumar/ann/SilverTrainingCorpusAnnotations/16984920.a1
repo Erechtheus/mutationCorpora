@@ -1,0 +1,75 @@
+T1	Process 11 16	basis
+T2	Category 21 30	substrate
+T3	Process 31 38	binding
+T4	Process 58 67	oxidation
+T5	Chemical 71 86	monosaccharides
+T6	Protein_part 90 92	C3
+T7	Protein 96 114	pyranose 2-oxidase
+T8	Protein 116 141	Pyranose 2-oxidase (P2Ox)
+T9	Organism 158 164	fungal
+T10	Process 172 183	degradation
+T11	Chemical 202 206	H2O2
+T12	Protein 235 246	peroxidases
+T13	Protein 252 258	enzyme
+T14	Chemical 284 297	hemicellulose
+T15	Chemical 306 319	aldopyranoses
+T16	Protein_part 323 325	C2
+T17	Protein_part 354 356	C3
+T18	Chemical 380 391	ketoaldoses
+T19	Process 439 448	catalysis
+T20	Process 459 472	flavinylation
+T21	Category 474 483	substrate
+T22	Process 484 491	binding
+T23	Protein 529 548	mutant P2Ox enzymes
+T24	Process 613 620	Removal
+T25	Protein_part 628 648	histidyl-FAD linkage
+T26	Protein 687 693	enzyme
+T27	Chemical 738 741	FAD
+T28	Protein 756 761	H167A
+T29	Value 785 797	5-fold lower
+T30	Parameter 798 802	kcat
+T31	Value 810 815	35-mV
+T32	Parameter 822 837	redox potential
+T33	Process 874 881	changes
+T34	Geometrical_part 899 916	crystal structure
+T35	Geometrical_part 930 940	structures
+T36	Protein 944 948	P2Ox
+T37	Category 954 963	substrate
+T38	Geometrical_part 964 968	loop
+T39	Protein_part 970 986	residues 452-457
+T40	Protein_part 1002 1013	active site
+T41	State 1049 1061	conformation
+T42	Chemical 1080 1092	carbohydrate
+T43	Process 1093 1100	binding
+T44	Geometrical_part 1122 1139	crystal structure
+T45	Protein 1144 1149	H167A
+T46	Category 1153 1160	complex
+T47	Category 1173 1182	substrate
+T48	Chemical 1184 1210	2-fluoro-2-deoxy-D-glucose
+T49	Chemical 1237 1263	2-fluoro-2-deoxy-D-glucose
+T50	Process 1264 1271	binding
+T51	Process 1288 1297	oxidation
+T52	Protein_part 1301 1303	C3
+T53	Geometrical_part 1313 1320	outline
+T54	Process 1332 1339	binding
+T55	Chemical 1349 1358	D-glucose
+T56	Process 1390 1399	oxidation
+T57	Protein_part 1403 1405	C2
+T58	Process 1468 1475	binding
+T59	Chemical 1505 1516	O6 hydroxyl
+T60	Molecular_Part 1517 1522	group
+T61	Protein_part 1537 1539	C2
+T62	Process 1574 1586	interactions
+T63	Protein_part 1592 1598	Asp452
+T64	Category 1606 1615	substrate
+T65	Geometrical_part 1616 1620	loop
+T66	Protein_part 1645 1661	arginine residue
+T67	Protein_part 1663 1669	Arg472
+T68	Parameter 1713 1734	steady-state kinetics
+T69	Protein_part 1748 1755	alanine
+T70	Process 1756 1768	replacements
+T71	Protein_part 1772 1778	Asp452
+T72	Protein_part 1783 1789	Arg472
+T73	Protein_part 1812 1819	alanine
+T74	Value 1820 1827	452/472
+T75	Molecule 1828 1834	mutant

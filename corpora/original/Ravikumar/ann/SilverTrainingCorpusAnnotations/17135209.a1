@@ -1,0 +1,68 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 18	human
+T3	Unknown 19 24	MRG15
+T4	Protein_part 32 38	domain
+T5	Process 47 54	binding
+T6	Protein 58 85	Lys36-methylated histone H3
+T7	Organism 87 92	Human
+T8	Unknown 93 98	MRG15
+T9	Protein 104 124	transcription factor
+T10	Process 144 148	role
+T11	Body_part 152 161	embryonic
+T12	Process 162 173	development
+T13	Body_part 175 179	cell
+T14	Process 180 193	proliferation
+T15	Body_part 198 206	cellular
+T16	Physiology 207 217	senescence
+T17	Protein_part 251 257	domain
+T18	Protein_part 265 280	N-terminal part
+T19	Protein 319 328	chromatin
+T20	Process 329 339	remodeling
+T21	Process 344 357	transcription
+T22	Process 358 368	regulation
+T23	Geometrical_part 389 406	crystal structure
+T24	Organism 410 415	human
+T25	Unknown 416 421	MRG15
+T26	Protein_part 429 435	domain
+T27	Value 439 444	2.2 A
+T28	Parameter 445 455	resolution
+T29	Unknown 461 466	MRG15
+T30	Protein_part 474 480	domain
+T31	Protein_part 495 506	beta-barrel
+T32	Protein_part 518 529	alpha-helix
+T33	Unknown 544 553	structure
+T34	Organism 574 584	Drosophila
+T35	Unknown 585 588	MOF
+T36	Geometrical_part 596 602	barrel
+T37	Protein_part 603 609	domain
+T38	Unknown 627 633	HP1/Pc
+T39	Protein_part 641 648	domains
+T40	Protein_part 654 665	beta-barrel
+T41	Geometrical_part 694 700	pocket
+T42	Protein_part 736 750	residues Tyr26
+T43	Protein_part 752 757	Tyr46
+T44	Protein_part 762 767	Trp49
+T45	Process 783 790	binding
+T46	Protein_part 791 795	site
+T47	Protein_part 811 818	residue
+T48	Protein_part 822 834	histone tail
+T49	Process 849 856	binding
+T50	Geometrical_part 857 863	groove
+T51	Protein_part 873 885	histone tail
+T52	Unknown 898 904	HP1/Pc
+T53	Protein_part 912 919	domains
+T54	Protein_part 948 959	beta-strand
+T55	Technique 970 983	binding assay
+T56	Unknown 1010 1015	MRG15
+T57	Protein_part 1023 1029	domain
+T58	Protein_part 1053 1058	Lys36
+T59	Protein_part 1079 1083	Lys4
+T60	Protein_part 1085 1089	Lys9
+T61	Protein_part 1094 1099	Lys27
+T62	Protein 1103 1114	histone  H3
+T63	Unknown 1153 1158	MRG15
+T64	Protein_part 1166 1172	domain
+T65	Molecule 1192 1199	adaptor
+T66	Protein 1236 1246	histone H3
+T67	Unknown 1284 1290	HP1/Pc
+T68	Protein_part 1298 1305	domains

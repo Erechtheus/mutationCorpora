@@ -1,0 +1,65 @@
+T1	Process 0 5	Roles
+T2	Protein_part 13 24	active site
+T3	Chemical 25 30	water
+T4	Protein_part 32 45	histidine 303
+T5	Protein_part 51 68	phenylalanine 396
+T6	Process 76 95	catalytic mechanism
+T7	Process 103 113	elongation
+T8	Protein 125 131	enzyme
+T9	Organism 135 159	Streptococcus pneumoniae
+T10	Protein 161 188	beta-Ketoacyl-ACP synthases
+T11	Process 202 214	condensation
+T12	Chemical 224 234	fatty acid
+T13	Process 250 259	synthesis
+T14	Process 268 275	targets
+T15	Process 284 295	development
+T16	Chemical 305 316	antibiotics
+T17	Process 362 367	roles
+T18	Protein_part 375 395	active site residues
+T19	Organism 399 423	Streptococcus pneumoniae
+T20	Protein 424 428	FabF
+T21	Protein 430 459	beta-ketoacyl-ACP synthase II
+T22	Unknown 461 467	SpFabF
+T23	Process 502 511	mechanism
+T24	Protein 521 539	enzyme superfamily
+T25	Protein_part 558 566	cysteine
+T26	Protein_part 574 585	active site
+T27	Chemical 586 591	triad
+T28	Protein 609 620	acyl-enzyme
+T29	Process 621 630	formation
+T30	Process 647 659	condensation
+T31	Parameter 660 668	activity
+T32	Protein_part 678 700	active site histidines
+T33	Process 708 718	elongation
+T34	Protein 730 736	enzyme
+T35	Process 742 751	different
+T36	State 763 769	states
+T37	Process 774 783	functions
+T38	Protein_part 785 791	His337
+T39	Process 809 821	condensation
+T40	Parameter 822 830	activity
+T41	Chemical 851 859	Nepsilon
+T42	Value 875 883	negative
+T43	Parameter 884 890	charge
+T44	Chemical 908 934	malonyl thioester carbonyl
+T45	State 942 958	transition state
+T46	Chemical 964 972	Nepsilon
+T47	Protein_part 976 982	His303
+T48	Process 995 1004	catalysis
+T49	Protein_part 1035 1046	active site
+T50	Chemical 1047 1052	water
+T51	Protein_part 1084 1086	C3
+T52	Chemical 1090 1098	malonate
+T53	Chemical 1110 1121	bicarbonate
+T54	Protein_part 1123 1129	Lys332
+T55	State 1154 1159	state
+T56	Protein_part 1163 1169	His303
+T57	Process 1196 1200	role
+T58	Protein_part 1223 1229	His337
+T59	Protein_part 1231 1237	Phe396
+T60	Category 1292 1301	substrate
+T61	Process 1302 1310	addition
+T62	Process 1339 1344	roles
+T63	Protein_part 1354 1373	active site residue
+T64	Process 1404 1413	mechanism
+T65	Protein 1442 1449	enzymes

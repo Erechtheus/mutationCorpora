@@ -1,0 +1,61 @@
+T1	Category 24 33	substrate
+T2	Process 34 45	recognition
+T3	Process 50 59	catalysis
+T4	Protein 63 89	tryptophan 2,3-dioxygenase
+T5	Protein 91 123	Tryptophan 2,3-dioxygenase (TDO)
+T6	Protein 128 161	indoleamine 2,3-dioxygenase (IDO)
+T7	Unknown 221 227	family
+T8	Chemical 231 235	heme
+T9	Protein 247 254	enzymes
+T10	Organism 324 350	Xanthomonas campestris TDO
+T11	Protein 365 379	protein SO4414
+T12	Organism 385 406	Shewanella oneidensis
+T13	Unknown 422 431	structure
+T14	Value 435 440	1.6-A
+T15	Parameter 441 451	resolution
+T16	Chemical 481 488	ferrous
+T17	Protein 497 500	TDO
+T18	Category 513 520	complex
+T19	Category 530 539	substrate
+T20	Protein_part 540 545	L-Trp
+T21	Chemical 551 562	carboxylate
+T22	Chemical 567 575	ammonium
+T23	Molecular_Part 576 584	moieties
+T24	Protein_part 588 598	tryptophan
+T25	Chemical 635 643	hydrogen
+T26	Process 652 664	interactions
+T27	Protein 674 680	enzyme
+T28	Chemical 687 697	propionate
+T29	Molecular_Part 698 703	group
+T30	Chemical 711 715	heme
+T31	Unknown 735 754	L-stereospecificity
+T32	Protein_part 787 792	L-Trp
+T33	Protein_part 801 805	site
+T34	Protein 824 832	tetramer
+T35	Process 854 866	coordination
+T36	Protein_part 867 871	site
+T37	Chemical 879 888	heme-iron
+T38	Chemical 912 920	dioxygen
+T39	Protein_part 929 933	site
+T40	Process 958 970	interactions
+T41	Chemical 980 988	ammonium
+T42	Molecular_Part 989 995	moiety
+T43	Protein_part 999 1004	L-Trp
+T44	Chemical 1013 1027	amide nitrogen
+T45	Protein_part 1033 1048	glycine residue
+T46	Chemical 1054 1065	indole ring
+T47	Process 1094 1105	oxygenation
+T48	Chemical 1113 1115	C2
+T49	Chemical 1120 1128	C3 atoms
+T50	Protein_part 1134 1145	active site
+T51	Category 1181 1188	complex
+T52	Process 1194 1217	biochemical experiments
+T53	Physiology 1243 1251	behavior
+T54	Protein 1260 1266	enzyme
+T55	Protein_part 1272 1283	active site
+T56	Chemical 1308 1313	water
+T57	Process 1321 1330	catalysis
+T58	Process 1402 1415	stabilization
+T59	Protein 1424 1430	enzyme
+T60	Category 1436 1445	substrate
+T61	Process 1446 1453	binding

@@ -1,0 +1,62 @@
+T1	Value 4 9	1.8 A
+T2	Geometrical_part 10 19	structure
+T3	Category 27 34	complex
+T4	Protein 43 54	chymostatin
+T5	Organism 59 79	Streptomyces griseus
+T6	Protein 80 90	protease A
+T7	Protein 104 119	serine protease
+T8	Molecule 142 155	intermediates
+T9	Protein 181 196	serine protease
+T10	Category 197 206	inhibitor
+T11	Protein 208 219	chymostatin
+T12	Chemical 229 246	hemiacetal adduct
+T13	Protein_part 266 280	Ser195 residue
+T14	Organism 284 304	Streptomyces griseus
+T15	Protein 305 315	protease A
+T16	Parameter 328 337	parameter
+T17	Process 352 362	refinement
+T18	Category 371 378	complex
+T19	Value 382 388	1.8  A
+T20	Parameter 389 399	resolution
+T21	Unknown 416 417	R
+T22	Parameter 418 423	index
+T23	Protein_part 429 434	X 123
+T24	Value 443 449	11,755
+T25	Process 459 470	reflections
+T26	Parameter 484 492	distance
+T27	Chemical 500 520	carbonyl carbon atom
+T28	Chemical 528 536	aldehyde
+T29	Chemical 541 548	O gamma
+T30	Protein_part 552 558	Ser195
+T31	Protein_part 564 565	X
+T32	Value 566 570	62 A
+T33	Unknown 581 582	R
+T34	Unknown 587 588	S
+T35	Process 589 603	configurations
+T36	Chemical 611 621	hemiacetal
+T37	Geometrical_part 660 663	end
+T38	Process 695 708	configuration
+T39	Category 736 743	product
+T40	Molecule 744 756	intermediate
+T41	Category 767 776	substrate
+T42	Protein 818 834	serine proteases
+T43	Organism 884 891	species
+T44	Chemical 896 906	elaborates
+T45	Protein 929 935	enzyme
+T46	Process 957 963	effect
+T47	Parameter 997 1002	force
+T48	Process 1011 1021	hydrolysis
+T49	Chemical 1025 1038	peptide bonds
+T50	Protein 1042 1058	serine proteases
+T51	Process 1077 1087	distortion
+T52	Chemical 1095 1108	scissile bond
+T53	Protein 1116 1122	enzyme
+T54	Process 1149 1159	activation
+T55	Parameter 1160 1166	energy
+T56	Process 1178 1188	hydrolysis
+T57	Technique 1208 1217	resonance
+T58	Process 1218 1231	stabilization
+T59	Parameter 1232 1238	energy
+T60	Chemical 1246 1258	peptide bond
+T61	Unknown 1260 1265	CRDT-
+T62	Value 1274 1282	05 00:00

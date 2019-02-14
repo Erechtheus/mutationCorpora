@@ -1,0 +1,100 @@
+T1	Unknown 11 20	structure
+T2	Molecular_Part 28 40	metal center
+T3	Chemical 48 54	Cd(2+)
+T4	Chemical 56 62	Zn(2+)
+T5	Chemical 68 74	Cu(2+)
+T6	Protein 96 110	KDO8P synthase
+T7	Process 112 124	implications
+T8	Process 129 138	catalysis
+T9	Organism 140 156	Aquifex aeolicus
+T10	Protein 157 206	3-deoxy-d-manno-octulosonate 8-phosphate synthase
+T11	Protein 208 214	KDO8PS
+T12	Process 244 253	different
+T13	Chemical 254 273	divalent metal ions
+T14	Protein_part 287 298	active site
+T15	Chemical 305 311	Cd(2+)
+T16	Chemical 313 319	Zn(2+)
+T17	Chemical 325 331	Cu(2+)
+T18	Protein 344 351	enzymes
+T19	Parameter 368 374	values
+T20	Parameter 378 384	k(cat)
+T21	Chemical 411 420	K(m)(PEP)
+T22	Chemical 425 434	K(m)(A5P)
+T23	Category 443 452	substrate
+T24	Category 457 464	product
+T25	Parameter 465 479	concentrations
+T26	Parameter 494 519	flux-control coefficients
+T27	Process 559 567	reaction
+T28	Process 595 603	presence
+T29	Chemical 607 613	Zn(2+)
+T30	Chemical 618 624	Cu(2+)
+T31	Chemical 654 659	metal
+T32	Protein_part 673 684	active site
+T33	Physiology 697 705	behavior
+T34	Protein 713 719	enzyme
+T35	Chemical 741 746	metal
+T36	Parameter 764 768	rate
+T37	Category 772 779	product
+T38	Process 780 787	release
+T39	Unknown 795 802	crystal
+T40	Unknown 803 814	environment
+T41	Geometrical_part 833 850	crystal structure
+T42	Protein 858 871	Cu(2+) enzyme
+T43	Chemical 887 912	phosphoenolpyruvate (PEP)
+T44	Chemical 917 944	arabinose 5-phosphate (A5P)
+T45	Category 962 969	product
+T46	Chemical 971 1011	3-deoxy-d-manno-octulosonate 8-phosphate
+T47	Chemical 1013 1018	KDO8P
+T48	Protein_part 1040 1051	active site
+T49	State 1066 1078	conformation
+T50	Process 1137 1149	condensation
+T51	Process 1150 1158	reaction
+T52	Geometrical_part 1191 1217	high-resolution structures
+T53	Molecule 1226 1235	reactants
+T54	Molecule 1242 1254	intermediate
+T55	Category 1264 1271	product
+T56	Protein 1287 1293	KDO8PS
+T57	Geometrical_part 1299 1317	crystal structures
+T58	Chemical 1325 1331	Cd(2+)
+T59	Chemical 1333 1339	Zn(2+)
+T60	Chemical 1345 1351	Cu(2+)
+T61	Protein 1364 1371	enzymes
+T62	Protein_part 1382 1390	residues
+T63	Protein_part 1392 1398	Cys-11
+T64	Protein_part 1400 1407	His-185
+T65	Protein_part 1409 1416	Glu-222
+T66	Protein_part 1422 1429	Asp-233
+T67	Chemical 1437 1451	water molecule
+T68	Chemical 1464 1469	metal
+T69	Category 1470 1477	ligands
+T70	Technique 1488 1542	quantum mechanics/molecular mechanics (QM/MM) geometry
+T71	Process 1543 1556	optimizations
+T72	Molecular_Part 1573 1586	metal centers
+T73	Unknown 1617 1626	structure
+T74	Geometrical_part 1648 1656	geometry
+T75	Chemical 1681 1687	Cd(2+)
+T76	Chemical 1692 1698	Zn(2+)
+T77	Chemical 1713 1723	octahedral
+T78	Chemical 1753 1759	Cu(2+)
+T79	Unknown 1815 1817	QM
+T80	Process 1818 1830	optimization
+T81	Chemical 1838 1841	gas
+T82	State 1842 1847	phase
+T83	Chemical 1865 1871	Cd(2+)
+T84	Chemical 1876 1882	Zn(2+)
+T85	Chemical 1910 1916	Cu(2+)
+T86	State 1936 1949	conformations
+T87	Molecular_Part 1958 1970	metal center
+T88	Process 1989 2003	reorganization
+T89	Parameter 2004 2010	energy
+T90	Category 2023 2032	substrate
+T91	Category 2043 2050	product
+T92	State 2057 2063	states
+T93	Technique 2069 2087	QM/MM calculations
+T94	Chemical 2113 2116	PEP
+T95	Protein 2133 2139	enzyme
+T96	Unknown 2155 2164	structure
+T97	Molecular_Part 2172 2184	metal center
+T98	Process 2220 2228	reaction
+T99	Chemical 2232 2235	PEP
+T100	Chemical 2241 2246	water

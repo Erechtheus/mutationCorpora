@@ -1,0 +1,72 @@
+T1	Unknown 0 9	Structure
+T2	Protein_part 44 64	Arg-Gly-Asp sequence
+T3	Organism 79 84	human
+T4	Protein 85 93	lysozyme
+T5	Process 110 116	effect
+T6	State 122 136	conformational
+T7	Protein_part 168 179	Arg-Gly-Asp
+T8	Protein_part 181 184	RGD
+T9	Protein_part 186 194	sequence
+T10	Body_part 198 202	cell
+T11	Process 203 211	adhesion
+T12	Parameter 212 220	activity
+T13	Protein 239 253	mutant protein
+T14	Protein 270 273	RGD
+T15	Protein_part 285 293	sequence
+T16	Protein_part 309 321	Cys residues
+T17	Protein_part 330 335	Val74
+T18	Protein_part 340 345	Asn75
+T19	Organism 349 354	human
+T20	Protein 355 363	lysozyme
+T21	Unknown 369 375	CRGDSC
+T22	Protein 385 393	lysozyme
+T23	Organism 411 416	yeast
+T24	Protein 446 454	Cys-RGD4
+T25	Organism 462 474	baby hamster
+T26	Body_part 475 487	kidney cells
+T27	Protein 489 497	Cys-RGD4
+T28	Body_part 531 535	cell
+T29	Process 536 544	adhesion
+T30	Parameter 545 553	activity
+T31	Protein 571 575	RGDS
+T32	Protein 585 593	lysozyme
+T33	Protein 595 599	RGD4
+T34	Protein 605 621	Cys-RGD4 protein
+T35	Protein 649 657	lysozyme
+T36	Category 658 667	inhibitor
+T37	Chemical 669 692	tri-N-acetylchitotriose
+T38	Geometrical_part 702 729	three-dimensional structure
+T39	Value 748 753	1.6-A
+T40	Parameter 754 764	resolution
+T41	Technique 768 789	x-ray crystallography
+T42	Protein 806 810	RGD4
+T43	Protein 825 828	RGD
+T44	Protein_part 840 846	region
+T45	Protein 850 858	Cys-RGD4
+T46	Technique 892 900	analysis
+T47	Protein_part 932 944	Cys residues
+T48	Chemical 956 970	disulfide bond
+T49	Protein 974 982	Cys-RGD4
+T50	Protein_part 1010 1020	RGD region
+T51	Protein_part 1036 1049	II' beta-turn
+T52	State 1050 1062	conformation
+T53	Protein_part 1066 1073	Gly-Asp
+T54	Chemical 1081 1094	hydrogen bond
+T55	Unknown 1108 1109	C
+T56	Unknown 1112 1113	O
+T57	Protein_part 1117 1120	Arg
+T58	Protein_part 1129 1132	H-N
+T59	Protein_part 1136 1139	Ser
+T60	Chemical 1185 1199	hydrogen bonds
+T61	Protein_part 1219 1229	RGD region
+T62	Protein 1237 1254	Cys-RGD4 lysozyme
+T63	State 1287 1299	conformation
+T64	Protein 1307 1310	RGD
+T65	Protein_part 1322 1328	region
+T66	Molecule 1356 1373	Cys-RGD4 molecule
+T67	Protein_part 1392 1405	II' beta-turn
+T68	Unknown 1406 1415	structure
+T69	Protein 1420 1423	RGD
+T70	Process 1441 1448	binding
+T71	Protein 1452 1461	integrins
+T72	Parameter 1472 1480	affinity

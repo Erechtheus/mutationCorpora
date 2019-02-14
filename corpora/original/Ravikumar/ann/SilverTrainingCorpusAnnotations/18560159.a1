@@ -1,0 +1,45 @@
+T1	Process 11 27	characterization
+T2	Organism 33 38	human
+T3	Protein_part 39 50	Fc fragment
+T4	Process 66 70	lack
+T5	Process 83 92	functions
+T6	Geometrical_part 104 131	three-dimensional structure
+T7	Organism 137 142	human
+T8	Protein_part 143 154	Fc fragment
+T9	Process 186 197	elimination
+T10	Molecule 224 232	antibody
+T11	Body_part 243 247	cell
+T12	Process 257 269	cytotoxicity
+T13	Process 274 284	complement
+T14	Process 295 307	cytotoxicity
+T15	Geometrical_part 352 357	hinge
+T16	Protein_part 362 372	CH2 domain
+T17	Organism 376 381	human
+T18	Protein 382 396	IgG1 molecules
+T19	Process 410 418	mutation
+T20	Protein_part 419 436	L234F/L235E/P331S
+T21	Unknown 438 442	'TM'
+T22	Process 462 470	decrease
+T23	Process 480 487	binding
+T24	Organism 491 496	human
+T25	Protein 497 501	CD64
+T26	Protein 503 508	CD32A
+T27	Protein 510 514	CD16
+T28	Unknown 519 522	C1q
+T29	Unknown 547 561	Fc/TM fragment
+T30	Geometrical_part 583 596	its structure
+T31	Parameter 613 623	resolution
+T32	Value 627 632	2.3 A
+T33	Process 639 660	molecular replacement
+T34	Geometrical_part 691 718	three-dimensional structure
+T35	Unknown 722 727	Fc/TM
+T36	Organism 762 767	human
+T37	Protein_part 768 780	Fc fragments
+T38	Protein_part 811 817	region
+T39	Protein_part 827 843	residues 236-445
+T40	Process 878 885	effects
+T41	Unknown 889 891	TM
+T42	Protein 895 898	IgG
+T43	Molecule 927 936	molecules
+T44	Process 986 1000	rearrangements
+T45	Protein_part 1024 1026	Fc

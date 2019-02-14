@@ -1,0 +1,46 @@
+T1	Process 11 16	basis
+T2	Chemical 21 31	nucleotide
+T3	Process 32 40	exchange
+T4	Protein 44 62	G alpha i subunits
+T5	Protein 67 75	receptor
+T6	Process 76 84	coupling
+T7	Protein 104 123	trimeric G proteins
+T8	Location 170 185	intracellularly
+T9	Process 189 197	response
+T10	Location 209 222	extracellular
+T11	Category 236 242	ligand
+T12	Protein 253 280	G protein-coupled receptors
+T13	Parameter 290 298	distance
+T14	Process 308 316	exchange
+T15	Parameter 318 326	activity
+T16	Chemical 334 351	Galpha nucleotide
+T17	Process 352 359	binding
+T18	Geometrical_part 360 366	pocket
+T19	Process 422 428	action
+T20	Protein_part 436 444	peptides
+T21	Location 465 478	intracellular
+T22	Geometrical_part 479 483	loop
+T23	Protein 491 517	D2 dopamine receptor (D2N)
+T24	Chemical 533 543	Galpha.GDP
+T25	Protein_part 552 559	peptide
+T26	Protein_part 562 568	KB-752
+T27	Category 575 581	mimics
+T28	Process 595 599	role
+T29	Unknown 603 613	Gbetagamma
+T30	Protein 617 625	receptor
+T31	Chemical 635 645	nucleotide
+T32	Process 646 654	exchange
+T33	Unknown 660 669	structure
+T34	Protein_part 678 686	peptides
+T35	Category 690 697	complex
+T36	Unknown 703 713	Galpha(i1)
+T37	State 728 742	conformational
+T38	Process 743 750	changes
+T39	Geometrical_part 758 775	beta3/alpha2 loop
+T40	Protein_part 780 792	beta6 strand
+T41	Chemical 822 832	nucleotide
+T42	Process 833 841	exchange
+T43	Protein_part 851 859	residues
+T44	Protein_part 867 880	alpha4  helix
+T45	Unknown 904 922	receptor/Galpha(i)
+T46	Process 923 931	coupling

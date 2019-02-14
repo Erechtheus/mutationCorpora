@@ -1,0 +1,52 @@
+T1	Protein_part 4 15	tyrosine 15
+T2	Process 16 31	phosphorylation
+T3	Parameter 45 53	activity
+T4	Protein 57 92	cyclin-dependent kinase  2-cyclin A
+T5	Process 94 104	Inhibition
+T6	Protein 108 140	cyclin-dependent kinase 1 (CDK1)
+T7	Parameter 141 149	activity
+T8	Protein_part 153 159	Tyr-15
+T9	Process 160 175	phosphorylation
+T10	Process 195 200	entry
+T11	Process 206 213	mitosis
+T12	Unknown 234 241	element
+T13	Process 249 256	control
+T14	Physiology 277 287	cell cycle
+T15	Protein_part 289 300	Active site
+T16	Process 301 316	phosphorylation
+T17	Unknown 326 333	members
+T18	Protein 341 351	CDK family
+T19	Physiology 366 376	cell cycle
+T20	Process 377 388	progression
+T21	Organism 434 444	eukaryotic
+T22	Physiology 445 455	cell cycle
+T23	Process 456 466	regulation
+T24	Parameter 468 475	Kinetic
+T25	Technique 480 505	crystallographic analyses
+T26	Protein 509 522	CDK2-cyclin A
+T27	Category 523 532	complexes
+T28	Process 561 570	mechanism
+T29	Geometrical_part 588 594	steric
+T30	Process 595 603	blockade
+T31	Protein_part 607 614	peptide
+T32	Category 615 624	substrate
+T33	Process 625 632	binding
+T34	Process 649 657	creation
+T35	Unknown 664 675	environment
+T36	State 705 717	conformation
+T37	Protein_part 725 733	terminal
+T38	Molecular_Part 734 739	group
+T39	Chemical 743 746	ATP
+T40	Protein_part 761 769	tyrosine
+T41	Process 770 785	phosphorylation
+T42	Protein 789 793	CDK2
+T43	Parameter 813 815	Km
+T44	Chemical 820 823	ATP
+T45	Location 844 853	intrinsic
+T46	Protein 854 860	ATPase
+T47	Parameter 861 869	activity
+T48	Protein 871 897	Tyr-15-phosphorylated CDK2
+T49	Protein 912 919	protein
+T50	Process 920 935	phosphorylation
+T51	Parameter 936 944	activity
+T52	Physiology 1003 1013	cell cycle

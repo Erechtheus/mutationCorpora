@@ -1,0 +1,98 @@
+T1	Organism 0 5	Human
+T2	Protein 6 22	apolipoprotein E
+T3	Process 24 28	Role
+T4	Protein_part 32 43	arginine 61
+T5	Protein 61 72	lipoprotein
+T6	Molecule 92 94	E3
+T7	Molecule 99 110	E4 isoforms
+T8	Organism 112 117	Human
+T9	Protein 118 132	apolipoprotein
+T10	Molecule 139 141	E4
+T11	Chemical 143 151	arginine
+T12	Protein_part 155 166	residue 112
+T13	Protein 204 228	low density lipoproteins
+T14	Unknown 230 234	VLDL
+T15	Unknown 241 246	apoE3
+T16	Protein_part 248 256	cysteine
+T17	Protein 281 306	high density lipoproteins
+T18	Protein_part 340 361	amino-terminal domain
+T19	Protein_part 378 389	residue 112
+T20	Protein 406 417	lipoprotein
+T21	Protein_part 453 477	carboxyl-terminal domain
+T22	Chemical 498 503	lipid
+T23	Protein_part 512 518	region
+T24	Protein_part 537 543	region
+T25	Protein_part 551 575	carboxyl-terminal domain
+T26	Protein 586 597	lipoprotein
+T27	Process 598 605	binding
+T28	Molecule 622 629	isoform
+T29	Unknown 664 669	apoE3
+T30	Unknown 674 688	apoE4 variants
+T31	Protein_part 705 717	residues 251
+T32	Organism 740 756	Escherichia coli
+T33	Protein 779 790	lipoprotein
+T34	Process 791 802	association
+T35	Technique 809 817	analysis
+T36	Protein_part 833 849	residues 260-272
+T37	Protein 894 905	lipoprotein
+T38	Process 906 917	association
+T39	Molecule 922 929	isoform
+T40	Value 964 972	positive
+T41	Parameter 973 979	charge
+T42	Protein_part 983 994	residue 112
+T43	Process 1011 1022	requirement
+T44	Unknown 1031 1041	apoE4 VLDL
+T45	Process 1071 1084	distributions
+T46	Organism 1088 1094	rabbit
+T47	Unknown 1095 1099	apoE
+T48	Unknown 1115 1120	apoE3
+T49	Protein_part 1127 1135	cysteine
+T50	Organism 1174 1180	canine
+T51	Unknown 1181 1185	apoE
+T52	Chemical 1187 1195	arginine
+T53	Protein_part 1217 1221	site
+T54	Chemical 1228 1238	cysteamine
+T55	Organism 1247 1253	rabbit
+T56	Unknown 1254 1258	apoE
+T57	Protein_part 1260 1268	cysteine
+T58	Protein_part 1303 1310	residue
+T59	Organism 1348 1353	human
+T60	Unknown 1354 1359	apoE3
+T61	Value 1377 1385	positive
+T62	Parameter 1386 1392	charge
+T63	Molecule 1465 1472	isoform
+T64	Protein_part 1499 1507	residues
+T65	Protein_part 1515 1536	amino-terminal domain
+T66	Protein_part 1571 1579	residues
+T67	Unknown 1599 1608	structure
+T68	Protein 1616 1621	apoE4
+T69	Value 1622 1628	22-kDa
+T70	Unknown 1629 1637	fragment
+T71	Chemical 1643 1657	amino-terminal
+T72	Molecule 1676 1684	molecule
+T73	Value 1704 1709	2.5 A
+T74	Technique 1713 1734	x-ray crystallography
+T75	Protein_part 1760 1788	four-helix  bundle structure
+T76	Unknown 1792 1797	apoE3
+T77	Process 1820 1831	differences
+T78	Protein 1839 1844	apoE4
+T79	Geometrical_part 1845 1854	structure
+T80	Protein_part 1865 1882	glutamic acid 109
+T81	Chemical 1892 1903	salt bridge
+T82	Protein_part 1909 1921	arginine 112
+T83	Protein_part 1936 1947	arginine 61
+T84	Protein_part 1948 1958	side chain
+T85	Technique 1992 2017	Site-directed mutagenesis
+T86	Protein_part 2021 2038	glutamic acid 109
+T87	Protein_part 2042 2047	apoE3
+T88	Protein_part 2052 2063	arginine 61
+T89	Protein 2067 2072	apoE4
+T90	Protein_part 2111 2122	arginine 61
+T91	Protein_part 2123 2133	side chain
+T92	Protein 2137 2142	apoE4
+T93	Protein 2171 2188	apoE4 lipoprotein
+T94	Parameter 2189 2201	distribution
+T95	Protein_part 2219 2230	arginine 61
+T96	Protein_part 2251 2275	carboxyl-terminal domain
+T97	Process 2286 2293	binding
+T98	Unknown 2297 2301	VLDL

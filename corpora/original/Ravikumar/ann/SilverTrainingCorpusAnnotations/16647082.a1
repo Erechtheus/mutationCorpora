@@ -1,0 +1,61 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 29 81	beta-lactam-insensitive peptidoglycan transpeptidase
+T3	Body_part 110 119	cell-wall
+T4	Process 120 129	synthesis
+T5	Organism 133 141	bacteria
+T6	Protein 143 177	penicillin-binding proteins (PBPs)
+T7	Process 191 204	cross-linking
+T8	Protein 208 222	peptide chains
+T9	Location 228 236	adjacent
+T10	Protein_part 237 251	glycan strands
+T11	Protein 263 276	peptidoglycan
+T12	Protein 338 356	L,D-transpeptidase
+T13	Chemical 383 405	beta-lactam-resistance
+T14	Organism 409 429	Enterococcus faecium
+T15	Parameter 435 445	resistance
+T16	Technique 446 452	bypass
+T17	Process 462 473	replacement
+T18	Protein_part 477 483	D-Ala4
+T19	Protein_part 486 498	D-Asx-L-Lys3
+T20	Protein 528 532	PBPs
+T21	Protein_part 536 542	L-Lys3
+T22	Protein_part 545 557	D-Asx-L-Lys3
+T23	Protein 587 605	L,D-transpeptidase
+T24	Unknown 620 629	structure
+T25	Unknown 635 641	member
+T26	Protein 654 675	transpeptidase family
+T27	Geometrical_part 700 717	crystal structure
+T28	Unknown 723 731	fragment
+T29	Protein 739 757	L,D-transpeptidase
+T30	Organism 763 785	E.faecium (Ldt(fm217))
+T31	Value 789 793	2.4A
+T32	Parameter 794 804	resolution
+T33	Organism 806 816	Ldt(fm217)
+T34	Protein_part 833 840	domains
+T35	Protein_part 846 863	N-terminal domain
+T36	Protein 877 887	alpha-beta
+T37	Geometrical_part 888 892	fold
+T38	Protein 967 977	beta class
+T39	Protein 981 988	protein
+T40	Geometrical_part 989 999	structures
+T41	Protein_part 1001 1016	Residue  Cys442
+T42	Protein_part 1024 1041	C-terminal domain
+T43	Protein_part 1080 1087	residue
+T44	Process 1106 1114	cleavage
+T45	Protein_part 1122 1133	L-Lys-D-Ala
+T46	Chemical 1134 1146	peptide bond
+T47	Geometrical_part 1148 1155	Surface
+T48	Technique 1156 1164	analysis
+T49	Organism 1168 1178	Ldt(fm217)
+T50	Protein_part 1192 1206	residue Cys442
+T51	Geometrical_part 1232 1238	pocket
+T52	Process 1273 1282	different
+T53	Location 1283 1288	sides
+T54	Protein 1296 1303	protein
+T55	Protein_part 1342 1366	catalytic residue Cys442
+T56	Process 1375 1382	binding
+T57	Protein_part 1383 1388	sites
+T58	Category 1397 1405	acceptor
+T59	Category 1411 1416	donor
+T60	Category 1417 1427	substrates
+T61	Protein 1435 1453	L,D-transpeptidase

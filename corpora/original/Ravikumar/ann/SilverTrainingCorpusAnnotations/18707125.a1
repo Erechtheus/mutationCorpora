@@ -1,0 +1,99 @@
+T1	Process 11 27	characterization
+T2	Chemical 56 71	organophosphate
+T3	Parameter 72 82	resistance
+T4	Protein 88 103	D-type esterase
+T5	Organism 105 129	Saccharomyces cerevisiae
+T6	Protein 130 159	S-formylglutathione hydrolase
+T7	Organism 161 185	Saccharomyces cerevisiae
+T8	Value 198 206	67.8 kDa
+T9	Protein 207 238	homodimeric serine thioesterase
+T10	Protein 240 276	S-formylglutathione hydrolase (SFGH)
+T11	Value 286 291	39.9%
+T12	Organism 307 312	human
+T13	Protein 313 323	esterase D
+T14	Protein 330 337	enzymes
+T15	Protein 358 374	carboxylesterase
+T16	Protein 379 411	S-formylglutathione thioesterase
+T17	Parameter 412 420	activity
+T18	Chemical 452 472	organophosphate (OP)
+T19	Category 473 483	inhibitors
+T20	Technique 503 526	X-ray crystal structure
+T21	Organism 530 535	yeast
+T22	Protein_part 537 538	y
+T23	Protein 540 544	SFGH
+T24	Value 548 553	2.3 A
+T25	Parameter 555 565	resolution
+T26	Process 595 605	dispersion
+T27	Unknown 619 628	structure
+T28	Technique 638 663	site-specific mutagenesis
+T29	Process 664 675	experiments
+T30	Category 687 696	substrate
+T31	Category 701 710	inhibitor
+T32	Process 711 721	reactivity
+T33	Geometrical_part 749 755	steric
+T34	Process 756 765	mechanism
+T35	Chemical 769 771	OP
+T36	Parameter 772 782	resistance
+T37	Chemical 805 816	indole ring
+T38	Chemical 818 822	W197
+T39	Chemical 838 850	enzyme "acyl
+T40	Protein_part 864 869	W197I
+T41	Process 870 882	substitution
+T42	Protein 892 897	ySFGH
+T43	Process 898 908	reactivity
+T44	Chemical 914 922	paraoxon
+T45	Value 926 927	>
+T46	Value 927 936	1000-fold
+T47	Protein_part 944 949	W197I
+T48	Value 954 965	16 +/- 2 mM
+T49	Chemical 1007 1009	OP
+T50	Parameter 1010 1020	resistance
+T51	Protein_part 1022 1027	W197I
+T52	Parameter 1042 1046	rate
+T53	Chemical 1050 1052	OP
+T54	Process 1053 1063	inhibition
+T55	Chemical 1070 1088	pseudo-first-order
+T56	Chemical 1125 1127	OP
+T57	Process 1128 1138	hydrolysis
+T58	Unknown 1144 1153	structure
+T59	Chemical 1161 1169	paraoxon
+T60	Unknown 1180 1193	W197I variant
+T61	Process 1212 1233	molecular replacement
+T62	Value 1235 1240	2.2 A
+T63	Chemical 1268 1281	sulfenic acid
+T64	Protein_part 1285 1290	Cys60
+T65	Protein 1292 1312	Wild-type (WT) ySFGH
+T66	Chemical 1329 1353	thiol reactive compounds
+T67	Process 1374 1383	oxidation
+T68	Chemical 1395 1417	cysteine sulfenic acid
+T69	Process 1429 1433	role
+T70	Process 1441 1451	regulation
+T71	Protein 1457 1474	"D-type" esterase
+T72	Unknown 1480 1489	structure
+T73	Unknown 1497 1511	W197I  variant
+T74	Chemical 1534 1556	cysteine sulfenic acid
+T75	Protein 1562 1577	serine esterase
+T76	Unknown 1599 1619	Cys60/W197I variants
+T77	Value 1648 1656	positive
+T78	Parameter 1657 1663	charge
+T79	Chemical 1673 1681	oxyanion
+T80	Protein_part 1688 1698	W197I/C60R
+T81	Protein_part 1702 1712	W197I/C60K
+T82	Process 1735 1746	enhancement
+T83	Parameter 1754 1759	rates
+T84	Process 1763 1778	phosphorylation
+T85	Chemical 1784 1792	paraoxon
+T86	Parameter 1797 1798	i
+T87	Value 1801 1803	42
+T88	Value 1807 1812	80 mM
+T89	Process 1864 1881	dephosphorylation
+T90	Protein 1889 1895	enzyme
+T91	Protein_part 1925 1934	histidine
+T92	Process 1935 1948	substitutions
+T93	Chemical 1958 1966	oxyanion
+T94	Chemical 1973 1977	G57H
+T95	Chemical 1979 1983	L58H
+T96	Chemical 1989 1994	M162H
+T97	Process 2016 2024	decrease
+T98	Protein 2025 2033	esterase
+T99	Parameter 2034 2042	activity

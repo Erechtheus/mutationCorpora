@@ -1,0 +1,62 @@
+T1	Molecule 4 9	x-ray
+T2	Geometrical_part 10 19	structure
+T3	Protein 23 70	dTDP-4-keto-6-deoxy-D-glucose-3,4-ketoisomerase
+T4	Protein 98 110	glycan chain
+T5	Body_part 118 125	S-layer
+T6	Organism 133 176	bacterium Aneurinibacillus thermoaerophilus
+T7	Unknown 177 187	L420-91(T)
+T8	Chemical 208 234	alpha-d-rhamnose molecules
+T9	Chemical 243 284	3-acetamido-3,6-dideoxy-alpha-d-galactose
+T10	Molecular_Part 285 293	moieties
+T11	Unknown 310 318	Fucp3NAc
+T12	Process 321 330	Formation
+T13	Protein 338 344	glycan
+T14	Body_part 345 350	layer
+T15	Chemical 360 370	nucleotide
+T16	Chemical 381 387	sugars
+T17	Category 396 401	donor
+T18	Molecule 402 411	molecules
+T19	Protein 425 432	enzymes
+T20	Process 449 458	synthesis
+T21	Chemical 462 474	GDP-rhamnose
+T22	Unknown 533 543	structures
+T23	Process 548 568	enzymatic mechanisms
+T24	Protein 576 583	enzymes
+T25	Process 601 611	production
+T26	Chemical 615 628	dTDP-Fucp3NAc
+T27	Protein 641 648	enzymes
+T28	Process 665 677	biosynthesis
+T29	Chemical 681 694	dTDP-Fucp3NAc
+T30	Protein 700 717	3,4-ketoisomerase
+T31	Protein 744 748	FdtA
+T32	Geometrical_part 777 804	three-dimensional structure
+T33	Protein 813 828	sugar isomerase
+T34	Chemical 844 848	dTDP
+T35	Value 863 868	1.5 A
+T36	Parameter 869 879	resolution
+T37	Protein 885 895	FdtA dimer
+T38	Organism 914 923	jellyfish
+T39	Protein_part 954 967	alpha-helices
+T40	Process 996 1005	Formation
+T41	Protein 1013 1023	FdtA dimer
+T42	Protein_part 1058 1064	domain
+T43	Protein_part 1082 1096	beta-strands 2
+T44	Protein_part 1101 1102	3
+T45	Protein 1112 1119	subunit
+T46	Geometrical_part 1125 1129	part
+T47	Protein_part 1135 1145	beta-sheet
+T48	Protein 1160 1167	subunit
+T49	Protein_part 1173 1184	active site
+T50	Geometrical_part 1185 1197	architecture
+T51	Protein 1201 1205	FdtA
+T52	Protein_part 1245 1263	histidine residues
+T53	Protein_part 1279 1286	His(49)
+T54	Protein_part 1291 1298	His(51)
+T55	Protein_part 1339 1359	amino acid sequences
+T56	Technique 1379 1404	Site-directed mutagenesis
+T57	Process 1405 1416	experiments
+T58	Protein 1418 1427	enzymatic
+T59	Technique 1428 1434	assays
+T60	Technique 1440 1471	x-ray crystallographic analyses
+T61	Protein_part 1485 1492	His(49)
+T62	Protein_part 1509 1520	active site

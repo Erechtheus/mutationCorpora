@@ -1,0 +1,56 @@
+T1	Process 11 16	basis
+T2	Category 63 70	product
+T3	Process 71 80	formation
+T4	Protein 85 112	naphthalene 1,2-dioxygenase
+T5	Protein 114 143	Rieske oxygenase (RO) systems
+T6	Protein 173 187	enzyme systems
+T7	Process 206 215	formation
+T8	Chemical 219 235	cis-dihydrodiols
+T9	Category 250 260	substrates
+T10	Process 262 273	Degradation
+T11	Process 314 324	generation
+T12	Protein 372 374	RO
+T13	Category 411 418	product
+T14	Protein 491 494	ROs
+T15	Process 512 521	evolution
+T16	Protein 543 545	RO
+T17	Process 546 554	function
+T18	Protein 619 626	enzymes
+T19	Process 641 650	challenge
+T20	Process 662 666	lack
+T21	Process 728 735	changes
+T22	Process 747 755	mutation
+T23	Protein_part 759 766	Phe-352
+T24	Protein 770 853	naphthalene 1,2-dioxygenase from Pseudomonas sp. strain NCIB 9816-4 (NDO-O(9816-4))
+T25	Unknown 855 865	Structures
+T26	Molecule 873 884	Phe-352-Val
+T27	Molecule 885 891	mutant
+T28	Category 915 922	complex
+T29	Chemical 928 940	phenanthrene
+T30	Protein 977 1000	wild-type NDO-O(9816-4)
+T31	Category 1004 1011	complex
+T32	Chemical 1017 1029	phenanthrene
+T33	Chemical 1047 1061	3-nitrotoluene
+T34	Chemical 1078 1090	Phenanthrene
+T35	Process 1114 1123	different
+T36	Process 1124 1135	orientation
+T37	Protein_part 1143 1173	Phe-352-Val mutant active site
+T38	Protein 1266 1273	enzymes
+T39	Process 1279 1291	orientations
+T40	Chemical 1295 1309	3-nitrotoluene
+T41	Process 1364 1375	orientation
+T42	Process 1383 1395	orientations
+T43	Protein 1413 1426	NDO-O(9816-4)
+T44	Process 1433 1442	different
+T45	Category 1443 1451	products
+T46	Chemical 1457 1471	3-nitrotoluene
+T47	Protein 1493 1517	nitrobenzene dioxygenase
+T48	Process 1519 1529	Comparison
+T49	Unknown 1539 1549	structures
+T50	Protein 1588 1591	ROs
+T51	Category 1601 1611	substrates
+T52	Process 1630 1641	orientation
+T53	Category 1645 1654	substrate
+T54	Process 1655 1662	binding
+T55	Protein_part 1670 1681	active site
+T56	Category 1712 1719	product

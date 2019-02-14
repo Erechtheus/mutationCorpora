@@ -1,0 +1,39 @@
+T1	Process 11 21	inhibition
+T2	Protein 25 45	copper amine oxidase
+T3	Parameter 46 54	activity
+T4	Protein 58 65	channel
+T5	Chemical 75 88	ruthenium(II)
+T6	Chemical 93 103	rhenium(I)
+T7	Unknown 150 157	Ru(II)-
+T8	Chemical 161 174	Re(I)-complex
+T9	Body_part 175 179	head
+T10	Molecular_Part 180 185	group
+T11	Protein_part 199 203	tail
+T12	Molecular_Part 204 209	group
+T13	Chemical 218 224	alkane
+T14	Molecular_Part 225 231	linker
+T15	Parameter 255 263	activity
+T16	Protein 271 328	copper amine oxidase from Arthrobacter globiformis (AGAO)
+T17	Parameter 335 346	K(i) values
+T18	Value 355 360	6 muM
+T19	Value 365 370	37 nM
+T20	Geometrical_part 379 396	crystal structure
+T21	Chemical 402 428	Ru(II)-wire:AGAO conjugate
+T22	Protein_part 452 468	AGAO active-site
+T23	Category 469 478	substrate
+T24	Protein 486 493	channel
+T25	Chemical 499 530	trihydroxyphenylalanine quinone
+T26	Category 531 539	cofactor
+T27	Unknown 558 566	"off-Cu"
+T28	Chemical 585 602	reactive carbonyl
+T29	Category 623 632	inhibitor
+T30	Protein_part 649 656	residue
+T31	Protein_part 658 665	Tyr-296
+T32	Body_part 694 698	Head
+T33	Molecular_Part 699 705	groups
+T34	Unknown 718 730	substituents
+T35	Molecular_Part 736 742	linker
+T36	Parameter 743 750	lengths
+T37	Process 755 764	influence
+T38	Process 778 790	interactions
+T39	Protein 800 806	enzyme

@@ -1,0 +1,49 @@
+T1	Parameter 0 8	Activity
+T2	Geometrical_part 13 22	structure
+T3	Protein_part 30 41	active-site
+T4	Protein_part 42 55	mutants R386Y
+T5	Protein_part 60 65	R386F
+T6	Organism 69 86	Escherichia  coli
+T7	Protein 87 113	aspartate aminotransferase
+T8	Chemical 115 127	Arginine-386
+T9	Protein_part 133 152	active-site residue
+T10	Organism 156 172	Escherichia coli
+T11	Protein 173 199	aspartate aminotransferase
+T12	Protein 201 211	EC 2.6.1.1
+T13	Category 228 237	substrate
+T14	Chemical 238 255	alpha-carboxylate
+T15	Protein_part 275 283	tyrosine
+T16	Protein_part 288 301	phenylalanine
+T17	Technique 305 330	site-directed mutagenesis
+T18	Process 337 347	experiment
+T19	Process 380 385	roles
+T20	Process 417 429	interactions
+T21	Category 448 457	substrate
+T22	State 466 480	conformational
+T23	Process 481 487	change
+T24	Protein 495 501	enzyme
+T25	Parameter 507 515	activity
+T26	Geometrical_part 520 537	crystal structure
+T27	Molecule 555 562	mutants
+T28	Parameter 604 618	rate constants
+T29	Molecule 636 643	mutants
+T30	Value 659 690	more than 5 orders of magnitude
+T31	Protein 714 730	wild-type enzyme
+T32	Protein_part 739 744	R386Y
+T33	Protein_part 774 779	R386F
+T34	Value 785 790	2.5-A
+T35	Parameter 791 801	resolution
+T36	Unknown 802 811	structure
+T37	Protein_part 815 820	R386F
+T38	State 828 840	native state
+T39	Process 865 875	difference
+T40	Unknown 876 883	Fourier
+T41	Unknown 905 914	structure
+T42	Protein 946 962	wild-type enzyme
+T43	State 970 987	open conformation
+T44	Protein_part 1009 1016	Phe-386
+T45	Protein_part 1017 1027	side chain
+T46	Protein_part 1079 1086	Arg-386
+T47	Protein 1094 1110	wild-type enzyme
+T48	Process 1128 1136	contacts
+T49	Protein_part 1154 1162	residues

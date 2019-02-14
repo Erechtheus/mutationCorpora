@@ -1,0 +1,90 @@
+T1	Chemical 0 4	Iron
+T2	Process 5 18	incorporation
+T3	Organism 22 40	Streptococcus suis
+T4	Protein 41 81	Dps-like peroxide resistance protein Dpr
+T5	Protein 107 118	ferroxidase
+T6	Process 143 152	formation
+T7	Protein 186 228	Dps-like peroxide resistance protein (Dpr)
+T8	Protein 246 253	protein
+T9	Organism 272 277	human
+T10	Organism 282 315	swine pathogen Streptococcus suis
+T11	Chemical 321 338	hydrogen peroxide
+T12	Chemical 356 360	Fe2+
+T13	Body_part 370 377	cytosol
+T14	Process 390 399	oxidation
+T15	Chemical 403 407	iron
+T16	Protein 411 414	Dpr
+T17	Process 430 440	deposition
+T18	Chemical 444 448	Fe3+
+T19	Protein 460 469	protein's
+T20	Body_part 470 484	central cavity
+T21	Process 497 504	changes
+T22	Protein 523 534	ferroxidase
+T23	Technique 558 579	X-ray crystallography
+T24	Protein 594 597	Dpr
+T25	Geometrical_part 598 606	crystals
+T26	Chemical 612 616	Fe2+
+T27	Process 624 632	presence
+T28	Chemical 636 653	sodium dithionite
+T29	Chemical 662 666	iron
+T30	Protein_part 675 680	sites
+T31	Protein_part 707 711	site
+T32	Protein_part 722 736	residues Asp74
+T33	Protein_part 741 746	Glu78
+T34	Protein 756 763	subunit
+T35	Protein_part 769 774	Asp63
+T36	Protein_part 776 781	His47
+T37	Protein_part 786 791	His59
+T38	Geometrical_part 799 814	2-fold symmetry
+T39	Protein 823 830	subunit
+T40	Protein 848 861	iron-free Dpr
+T41	Protein_part 863 868	Asp74
+T42	Protein_part 873 878	Glu78
+T43	Protein_part 914 933	amino acid residues
+T44	State 965 978	conformations
+T45	Process 982 991	different
+T46	Protein 992 1000	subunits
+T47	Geometrical_part 1006 1023	crystal structure
+T48	Protein 1030 1049	Asp74Ala Dpr mutant
+T49	Chemical 1064 1078	Fe2+ -solution
+T50	Process 1088 1098	variations
+T51	Protein_part 1106 1111	Asp63
+T52	Chemical 1128 1132	iron
+T53	Protein 1146 1157	ferroxidase
+T54	Location 1192 1201	intrinsic
+T55	Protein_part 1221 1232	active site
+T56	Process 1263 1282	catalytic  reaction
+T57	Process 1298 1308	nucleation
+T58	Chemical 1321 1325	iron
+T59	Process 1348 1357	different
+T60	Protein 1386 1389	Dpr
+T61	Technique 1396 1401	X-ray
+T62	Process 1402 1412	absorption
+T63	Technique 1413 1425	spectroscopy
+T64	Protein 1436 1439	Dpr
+T65	Chemical 1471 1475	iron
+T66	Value 1491 1507	approximately 16
+T67	Chemical 1509 1529	iron atoms/dodecamer
+T68	Protein 1540 1548	ferritin
+T69	Unknown 1567 1576	structure
+T70	Parameter 1593 1597	size
+T71	Chemical 1633 1637	iron
+T72	Protein 1664 1673	ferritins
+T73	Protein 1684 1701	Dps-like proteins
+T74	Value 1722 1739	approximately 180
+T75	Chemical 1740 1761	iron  atoms/dodecamer
+T76	Protein 1791 1798	protein
+T77	Chemical 1806 1822	ferrous solution
+T78	Process 1829 1840	differences
+T79	Chemical 1844 1848	iron
+T80	Process 1849 1861	coordination
+T81	Parameter 1884 1888	size
+T82	Process 1895 1911	Characterization
+T83	Chemical 1923 1927	iron
+T84	Protein 1937 1940	Dpr
+T85	Process 1969 1979	nucleation
+T86	Process 1995 2004	mechanism
+T87	Chemical 2008 2012	iron
+T88	Process 2018 2024	growth
+T89	Protein 2032 2042	Dps family
+T90	Protein 2046 2054	proteins

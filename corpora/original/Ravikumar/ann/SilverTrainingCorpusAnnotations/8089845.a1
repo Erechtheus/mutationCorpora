@@ -1,0 +1,40 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Value 25 31	50 kDa
+T3	Protein 40 48	protease
+T4	Organism 54 73	Serratia marcescens
+T5	Geometrical_part 79 96	crystal structure
+T6	Protein 104 126	50 kDa metalloprotease
+T7	Organism 136 179	Gram-negative bacterium Serratia marcescens
+T8	Technique 213 229	crystallographic
+T9	Parameter 230 238	R-factor
+T10	Value 242 247	0.192
+T11	Value 251 257	1.80 A
+T12	Parameter 258 268	resolution
+T13	Unknown 274 283	structure
+T14	Protein 312 329	alkaline protease
+T15	Organism 335 357	Pseudomonas aeruginosa
+T16	Chemical 377 384	calcium
+T17	Process 385 392	binding
+T18	Geometrical_part 394 403	"parallel
+T19	Protein 404 408	beta
+T20	Protein_part 415 420	motif
+T21	Protein_part 450 460	N-terminal
+T22	Protein_part 461 479	proteolytic domain
+T23	Geometrical_part 510 514	fold
+T24	Protein_part 520 532	active sites
+T25	Protein 544 551	enzymes
+T26	Protein_part 576 582	Tyr216
+T27	Chemical 588 590	Zn
+T28	Category 591 597	ligand
+T29	Organism 605 621	Serratia metallo
+T30	Protein 622 630	protease
+T31	Geometrical_part 636 647	loops 70-77
+T32	Geometrical_part 652 659	122-132
+T33	Protein_part 681 692	active site
+T34	Geometrical_part 693 698	cleft
+T35	Process 714 724	insertions
+T36	Process 729 738	deletions
+T37	Organism 751 767	Serratia metallo
+T38	Protein 768 776	protease
+T39	Protein_part 803 807	site
+T40	Protein 817 834	alkaline protease

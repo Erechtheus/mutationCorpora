@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 22 37	AF-6 PDZ domain
+T3	Process 46 57	interaction
+T4	Protein_part 67 86	C-terminal peptides
+T5	Protein 92 100	Neurexin
+T6	Protein 105 108	Bcr
+T7	Protein_part 110 114	AF-6
+T8	Molecule 124 132	molecule
+T9	Unknown 147 156	structure
+T10	Process 157 169	organization
+T11	Body_part 173 191	cell-cell junction
+T12	Body_part 205 214	epithelia
+T13	Body_part 238 247	cell-cell
+T14	Process 248 256	adhesion
+T15	Unknown 257 263	system
+T16	Protein_part 269 284	AF-6 PDZ domain
+T17	Process 294 306	interactions
+T18	Process 310 317	binding
+T19	Protein_part 332 351	amino acid sequence
+T20	Process 356 362	target
+T21	Protein 363 371	proteins
+T22	Geometrical_part 392 410	solution structure
+T23	Protein_part 418 433	AF-6 PDZ domain
+T24	Technique 448 451	NMR
+T25	Protein_part 469 484	AF-6 PDZ domain
+T26	Protein_part 514 527	II PDZ domain
+T27	Protein_part 572 582	amino acid
+T28	Protein_part 584 589	Gln70
+T29	Unknown 603 610	alphaB1
+T30	Geometrical_part 621 640	alphaB/betaB groove
+T31	Protein_part 648 663	AF-6 PDZ domain
+T32	Protein_part 721 734	II PDZ domain
+T33	Protein_part 740 756	AF-6  PDZ domain
+T34	Process 794 801	binding
+T35	Geometrical_part 802 808	pocket
+T36	Protein_part 818 832	N-terminal end
+T37	Unknown 836 842	alphaB
+T38	Unknown 856 861	betaB
+T39	Unknown 869 876	BIACORE
+T40	Technique 881 884	NMR
+T41	Chemical 885 893	chemical
+T42	Process 894 899	shift
+T43	Process 900 912	perturbation
+T44	Process 913 924	experiments
+T45	Process 946 953	binding
+T46	Protein_part 977 988	PDZ  domain
+T47	Protein_part 996 1014	C-terminal peptide
+T48	Protein 1018 1026	Neurexin
+T49	Protein 1028 1038	KKNKDKEYYV
+T50	Unknown 1052 1055	Bcr
+T51	Unknown 1057 1068	KRQSILFSTEV
+T52	Protein_part 1074 1092	C-terminal peptide
+T53	Protein 1096 1104	Neurexin
+T54	Unknown 1110 1118	class II
+T55	Category 1119 1125	ligand
+T56	Unknown 1143 1146	Bcr
+T57	Unknown 1152 1159	class I
+T58	Category 1160 1166	ligand
+T59	Parameter 1172 1194	dissociation constants
+T60	Category 1204 1211	ligands
+T61	Value 1217 1230	4.08 x 10(-7)
+T62	Value 1235 1250	2.23 x 10(-6) m
+T63	Protein_part 1283 1293	C-terminal
+T64	Protein 1307 1315	Neurexin
+T65	Unknown 1320 1323	Bcr
+T66	Process 1346 1357	interaction
+T67	Protein_part 1395 1431	AF-6 PDZ-Neurexin C-terminal peptide
+T68	Category 1432 1439	complex
+T69	Protein_part 1449 1480	AF-6 PDZ-Bcr C-terminal peptide
+T70	Category 1481 1488	complex
+T71	Process 1525 1536	simulations
+T72	Protein_part 1565 1578	II PDZ domain
+T73	Protein_part 1580 1585	Ala74
+T74	Unknown 1589 1596	alphaB5
+T75	Protein_part 1613 1620	residue
+T76	Unknown 1624 1631	alphaB1
+T77	Process 1657 1664	contact
+T78	Protein_part 1674 1684	side chain
+T79	Protein_part 1689 1692	Tyr
+T80	Category 1719 1725	ligand

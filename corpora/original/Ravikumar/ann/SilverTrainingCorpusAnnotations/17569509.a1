@@ -1,0 +1,75 @@
+T1	Process 11 16	basis
+T2	Process 25 35	inhibition
+T3	Protein 43 67	LSD1 histone demethylase
+T4	Chemical 75 120	antidepressant trans-2-phenylcyclopropylamine
+T5	Protein 122 129	Histone
+T6	Process 130 143	modifications
+T7	Process 153 164	acetylation
+T8	Process 169 180	methylation
+T9	Physiology 196 206	epigenetic
+T10	Process 246 255	processes
+T11	Protein 265 274	chromatin
+T12	Geometrical_part 282 290	template
+T13	Process 302 315	transcription
+T14	Process 317 330	Dysregulation
+T15	Protein 334 341	histone
+T16	Process 342 353	acetylation
+T17	Process 358 369	methylation
+T18	Process 383 392	silencing
+T19	Physiology 396 401	tumor
+T20	Protein 402 418	suppressor genes
+T21	Physiology 438 444	cancer
+T22	Process 445 456	progression
+T23	Protein 472 479	enzymes
+T24	Process 498 506	addition
+T25	Process 511 518	removal
+T26	Physiology 529 539	epigenetic
+T27	Parameter 568 577	potential
+T28	Physiology 591 597	cancer
+T29	Protein 599 635	Lysine-specific demethylase 1 (LSD1)
+T30	Protein 660 686	histone lysine demethylase
+T31	Category 713 721	cofactor
+T32	Unknown 722 728	CoREST
+T33	Protein_part 767 807	dimethylated histone H3 lysine 4 (H3-K4)
+T34	Process 825 838	transcription
+T35	Protein 848 852	LSD1
+T36	Unknown 868 874	family
+T37	Chemical 878 912	flavin adenine dinucleotide  (FAD)
+T38	Protein 923 937	amine oxidases
+T39	Category 947 957	inhibitors
+T40	Protein 961 986	monoamine oxidases (MAOs)
+T41	Chemical 1019 1064	antidepressant trans-2-phenylcyclopropylamine
+T42	Chemical 1066 1070	PCPA
+T43	Chemical 1089 1096	Parnate
+T44	Protein 1130 1134	LSD1
+T45	Parameter 1180 1198	kinetic parameters
+T46	Process 1206 1216	inhibition
+T47	Protein 1220 1224	LSD1
+T48	Chemical 1229 1233	PCPA
+T49	Geometrical_part 1253 1270	crystal structure
+T50	Protein 1274 1285	LSD1-CoREST
+T51	Process 1293 1301	presence
+T52	Chemical 1305 1309	PCPA
+T53	Parameter 1330 1334	mass
+T54	Technique 1335 1356	spectrometry analyses
+T55	Chemical 1377 1381	PCPA
+T56	Molecule 1401 1407	adduct
+T57	Chemical 1413 1416	FAD
+T58	Protein 1420 1424	LSD1
+T59	Chemical 1451 1466	FAD-PCPA adduct
+T60	Protein 1470 1475	MAO B
+T61	Unknown 1481 1490	structure
+T62	Chemical 1513 1519	phenyl
+T63	Geometrical_part 1520 1524	ring
+T64	Chemical 1532 1548	FAD-PCPA  adduct
+T65	Protein 1552 1556	LSD1
+T66	Process 1581 1593	interactions
+T67	Protein_part 1599 1619	active-site residues
+T68	Process 1650 1655	basis
+T69	Category 1682 1692	inhibitors
+T70	Protein 1696 1700	LSD1
+T71	Process 1714 1727	substitutions
+T72	Chemical 1735 1741	phenyl
+T73	Geometrical_part 1742 1746	ring
+T74	Chemical 1750 1754	PCPA
+T75	Protein_part 1783 1791	residues

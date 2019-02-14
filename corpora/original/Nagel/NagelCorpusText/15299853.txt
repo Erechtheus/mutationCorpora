@@ -1,0 +1,6 @@
+Rhodobacter capsulatus strain St Louis cytochrome c' (RCCP-SL) has been crystallized and the structure solved by molecular replacement . 
+It was refined at 2.1 A resolution to an R value of 18.4%, and compared with Rhodobacter capsulatus strain M110 cytochrome c' (RCCP-M110) . 
+Although these two proteins are very similar in sequence and structure, the intermolecular interaction is largely different . 
+In RCCP-M110, the molecules dimerize through interaction of helix B to form an antiparallel arrangement . 
+When crystallized in the presence of Zn ions, molecules of RCCP-SL were found to be arranged as linear polymers connected by the bridging Zn ions . 
+The changes in conformation of the side chains induced by binding of the Zn ions, by the substitution of Glu90 for Asp90, and by the different arrangement of the molecules, are discussed in detail . 

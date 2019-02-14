@@ -1,0 +1,66 @@
+T1	Unknown 8 14	family
+T2	Protein_part 18 26	sequence
+T3	Protein 36 53	endoribonucleases
+T4	Protein_part 74 131	clustered regularly interspaced short palindromic repeats
+T5	Protein_part 133 200	Clustered regularly interspaced short palindromic repeats (CRISPRs)
+T6	Protein 230 242	CAS proteins
+T7	Organism 251 260	microbial
+T8	Body_part 261 266	cells
+T9	Process 272 280	invasion
+T10	Protein 292 299	genetic
+T11	Unknown 300 308	elements
+T12	Process 333 353	molecular mechanisms
+T13	Protein_part 359 365	CRISPR
+T14	Unknown 366 373	systems
+T15	Protein 382 390	proteins
+T16	Protein 398 409	CAS2 family
+T17	Protein 449 457	proteins
+T18	Process 473 477	role
+T19	Process 486 493	process
+T20	Protein 517 530	CAS2 proteins
+T21	Unknown 549 555	family
+T22	Protein 559 576	endoribonucleases
+T23	Protein 591 604	CAS2 proteins
+T24	Organism 618 627	organisms
+T25	Protein 652 656	RNAs
+T26	Protein_part 679 680	U
+T27	Protein_part 686 693	regions
+T28	Protein 712 723	CAS2 enzyme
+T29	Protein 725 732	SSO1404
+T30	Organism 738 761	Sulfolobus solfataricus
+T31	Protein_part 775 797	phosphodiester linkage
+T32	Geometrical_part 805 812	3'-side
+T33	Chemical 827 840	5'-phosphate-
+T34	Chemical 845 856	3'-hydroxyl
+T35	Chemical 868 884	oligonucleotides
+T36	Geometrical_part 890 907	crystal structure
+T37	Protein 911 918	SSO1404
+T38	Value 933 937	1.6A
+T39	Parameter 938 948	resolution
+T40	Protein 969 981	ribonuclease
+T41	Protein 989 999	ferredoxin
+T42	Geometrical_part 1005 1009	fold
+T43	Physiology 1011 1022	Mutagenesis
+T44	Protein 1026 1033	SSO1404
+T45	Protein_part 1049 1057	residues
+T46	Protein_part 1059 1064	Tyr-9
+T47	Protein_part 1066 1072	Asp-10
+T48	Protein_part 1074 1080	Arg-17
+T49	Protein_part 1082 1088	Arg-19
+T50	Protein_part 1090 1096	Arg-31
+T51	Protein_part 1102 1108	Phe-37
+T52	Protein 1133 1142	enzymatic
+T53	Parameter 1143 1151	activity
+T54	Protein_part 1171 1177	Asp-10
+T55	Protein_part 1211 1218	residue
+T56	Protein 1226 1239	CAS2 proteins
+T57	Protein_part 1244 1252	sequence
+T58	Protein 1262 1279	endoribonucleases
+T59	Process 1307 1311	role
+T60	Protein_part 1320 1326	CRISPR
+T61	Body_part 1336 1346	anti-phage
+T62	Process 1347 1354	defense
+T63	Process 1369 1380	degradation
+T64	Organism 1384 1389	phage
+T65	Body_part 1393 1401	cellular
+T66	Protein 1402 1407	mRNAs

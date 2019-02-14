@@ -1,0 +1,66 @@
+T1	Organism 4 20	Escherichia coli
+T2	Protein 21 53	malonyl-CoA:acyl carrier protein
+T3	Protein 54 66	transacylase
+T4	Value 70 75	1.5-A
+T5	Parameter 76 86	resolution
+T6	Geometrical_part 88 105	Crystal structure
+T7	Protein 111 130	fatty acid synthase
+T8	Protein_part 131 140	component
+T9	Chemical 153 164	fatty acids
+T10	Organism 188 197	organisms
+T11	Process 203 210	pathway
+T12	Protein 228 247	fatty acid synthase
+T13	Category 248 255	complex
+T14	Organism 260 268	bacteria
+T15	Chemical 280 291	fatty acids
+T16	Process 315 328	incorporation
+T17	Parameter 334 344	components
+T18	Body_part 348 362	cell membranes
+T19	Protein 364 383	fatty acid synthase
+T20	Location 418 429	cytoplasmic
+T21	Protein 430 437	enzymes
+T22	Process 468 476	reaction
+T23	Process 482 492	initiation
+T24	Process 500 510	elongation
+T25	Parameter 535 541	length
+T26	Protein 557 567	acyl chain
+T27	Chemical 575 582	carbons
+T28	Process 597 605	transfer
+T29	Chemical 613 620	malonyl
+T30	Molecular_Part 621 627	moiety
+T31	Chemical 633 644	malonyl-CoA
+T32	Protein 654 674	acyl carrier protein
+T33	Geometrical_part 695 712	crystal structure
+T34	Value 725 730	1.5-A
+T35	Parameter 731 741	resolution
+T36	Parameter 748 756	R factor
+T37	Value 760 764	0.19
+T38	Chemical 773 784	malonyl-CoA
+T39	Protein 794 805	transferase
+T40	Organism 811 827	Escherichia coli
+T41	Protein 833 840	protein
+T42	Protein 848 863	alpha/beta type
+T43	Geometrical_part 864 876	architecture
+T44	Geometrical_part 886 890	fold
+T45	Protein_part 906 917	active site
+T46	Protein_part 962 968	Ser-92
+T47	Body_part 1001 1006	elbow
+T48	Protein 1022 1043	alpha/beta hydrolases
+T49	Protein_part 1045 1054	Serine 92
+T50	Chemical 1058 1066	hydrogen
+T51	Protein_part 1077 1084	His-201
+T52	Protein 1118 1135	serine hydrolases
+T53	Chemical 1159 1172	carboxyl acid
+T54	Protein_part 1192 1208	catalytic triads
+T55	Protein_part 1214 1224	main chain
+T56	Chemical 1225 1233	carbonyl
+T57	Protein_part 1237 1244	Gln-250
+T58	Chemical 1257 1270	hydrogen bond
+T59	Category 1271 1279	acceptor
+T60	Process 1286 1297	interaction
+T61	Protein_part 1303 1310	His-201
+T62	Protein_part 1322 1330	residues
+T63	Protein_part 1332 1339	Arg-117
+T64	Protein_part 1344 1350	Glu-11
+T65	Protein_part 1376 1387	active site
+T66	Process 1404 1412	function

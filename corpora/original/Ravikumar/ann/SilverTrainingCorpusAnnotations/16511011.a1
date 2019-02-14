@@ -1,0 +1,38 @@
+T1	Geometrical_part 4 22	crystal structures
+T2	Protein 26 70	dihydrofolate reductase-thymidylate synthase
+T3	Organism 76 99	Cryptosporidium hominis
+T4	Process 122 134	interactions
+T5	Process 158 163	basis
+T6	Chemical 177 187	antifolate
+T7	Parameter 188 198	resistance
+T8	Organism 200 223	Cryptosporidium hominis
+T9	Organism 229 247	protozoan parasite
+T10	Body_part 266 282	gastrointestinal
+T11	Physiology 283 290	illness
+T12	Technique 315 324	therapies
+T13	Chemical 378 387	drug-lead
+T14	Technique 402 410	analysis
+T15	Process 433 445	interactions
+T16	Geometrical_part 453 471	crystal structures
+T17	Protein 475 529	dihydrofolate reductase-thymidylate synthase (DHFR-TS)
+T18	Organism 535 545	C. hominis
+T19	Value 561 564	2.8
+T20	Value 569 575	2.87 A
+T21	Parameter 576 586	resolution
+T22	Process 605 617	interactions
+T23	Protein_part 621 635	residues Ile29
+T24	Protein_part 637 642	Thr58
+T25	Protein_part 647 653	Cys113
+T26	Protein_part 661 672	active site
+T27	Organism 676 691	C. hominis DHFR
+T28	Process 722 727	basis
+T29	Chemical 746 756	antifolate
+T30	Parameter 757 767	resistance
+T31	Process 771 781	comparison
+T32	Unknown 791 800	structure
+T33	Organism 804 809	human
+T34	Protein 811 815	DHFR
+T35	Protein_part 824 835	active-site
+T36	Process 836 847	differences
+T37	Organism 888 895	species
+T38	Category 906 916	inhibitors

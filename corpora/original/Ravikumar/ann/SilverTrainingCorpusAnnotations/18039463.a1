@@ -1,0 +1,44 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 45	histone demethylase LSD1
+T3	Value 69 75	2.25 A
+T4	Parameter 93 101	activity
+T5	Protein 106 115	chromatin
+T6	Geometrical_part 116 125	structure
+T7	Process 164 175	methylation
+T8	Protein_part 188 204	histone residues
+T9	Protein 206 243	Lysine-specific demethylase 1  (LSD1)
+T10	Protein 268 287	histone demethylase
+T11	Protein_part 295 312	demethylates Lys4
+T12	Protein_part 316 320	Lys9
+T13	Protein 324 334	histone H3
+T14	Chemical 342 345	FAD
+T15	Protein 363 380	monoamine oxidase
+T16	Category 381 391	inhibitors
+T17	Chemical 410 417	Parnate
+T18	Process 453 459	effect
+T19	Protein 463 467	LSD1
+T20	Geometrical_part 483 500	crystal structure
+T21	Protein 504 508	LSD1
+T22	Value 543 549	2.75 A
+T23	Geometrical_part 577 581	ring
+T24	Chemical 595 601	flavin
+T25	Protein 605 609	LSD1
+T26	Geometrical_part 641 658	crystal structure
+T27	Protein 666 686	LSD1-tranylcypromine
+T28	Category 687 694	complex
+T29	Value 698 704	2.25 A
+T30	Geometrical_part 725 729	ring
+T31	Molecule 768 776	electron
+T32	Parameter 777 784	density
+T33	Unknown 793 808	R(work)/R(free)
+T34	Parameter 809 815	values
+T35	Value 819 830	0.226/0.254
+T36	Molecule 855 866	N(5) adduct
+T37	Unknown 883 898	R(work)/R(free)
+T38	Parameter 899 905	values
+T39	Value 909 920	0.218/0.248
+T40	Protein 977 997	LSD1-tranylcypromine
+T41	Category 998 1005	complex
+T42	Molecule 1054 1060	adduct
+T43	Molecule 1088 1100	intermediate
+T44	Molecule 1114 1125	N(5) adduct

@@ -1,0 +1,56 @@
+T1	Process 11 16	basis
+T2	Process 25 35	inhibition
+T3	Chemical 39 46	activin
+T4	Process 47 57	signalling
+T5	Chemical 61 72	follistatin
+T6	Geometrical_part 88 99	multidomain
+T7	Chemical 100 119	protein follistatin
+T8	Protein 126 134	activins
+T9	Parameter 145 153	affinity
+T10	Protein 173 181	receptor
+T11	Process 182 193	interaction
+T12	Protein_part 213 243	follistatin's domain structure
+T13	Chemical 271 278	activin
+T14	Unknown 290 298	fragment
+T15	Chemical 302 313	follistatin
+T16	Protein_part 351 361	Fs domains
+T17	Protein_part 363 367	Fs12
+T18	Protein 375 382	protein
+T19	Protein 396 409	activin dimer
+T20	Category 428 435	complex
+T21	Molecule 451 465	Fs12 molecules
+T22	Protein 474 487	activin dimer
+T23	Geometrical_part 504 522	crystal structures
+T24	Chemical 526 535	activin A
+T25	Category 550 557	complex
+T26	Protein 563 576	Fs12 fragment
+T27	Value 580 583	2 A
+T28	Parameter 584 594	resolution
+T29	Geometrical_part 608 617	structure
+T30	Molecule 628 642	Fs12 molecules
+T31	Chemical 682 689	activin
+T32	Protein 704 721	type  II receptor
+T33	Protein_part 730 734	site
+T34	Chemical 738 747	activin A
+T35	Protein_part 749 761	Arginine 192
+T36	Protein 765 768	Fs2
+T37	Protein_part 778 785	residue
+T38	Process 794 805	interaction
+T39	Chemical 835 844	activin's
+T40	Body_part 845 852	fingers
+T41	Process 862 871	formation
+T42	Process 888 899	orientation
+T43	Protein_part 908 912	EGF-
+T44	Protein_part 917 922	Kazal
+T45	Protein_part 928 938	subdomains
+T46	Protein_part 946 956	Fs2 domain
+T47	Chemical 961 970	activin A
+T48	Process 985 994	variation
+T49	Protein 1014 1030	TGF-beta  family
+T50	Geometrical_part 1031 1035	fold
+T51	Unknown 1041 1050	structure
+T52	Process 1071 1082	description
+T53	Process 1101 1110	mechanism
+T54	Process 1135 1147	interactions
+T55	Chemical 1151 1162	follistatin
+T56	Protein 1174 1198	TGF-beta family proteins

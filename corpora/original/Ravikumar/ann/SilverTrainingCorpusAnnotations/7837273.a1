@@ -1,0 +1,131 @@
+T1	Process 26 33	effects
+T2	Process 44 53	mutations
+T3	Location 61 67	distal
+T4	Protein_part 68 74	valine
+T5	Protein 78 87	myoglobin
+T6	Geometrical_part 89 115	High-resolution structures
+T7	Chemical 132 137	deoxy
+T8	Chemical 143 145	CO
+T9	Protein_part 155 160	Ala68
+T10	Protein_part 162 167	Ile68
+T11	Protein_part 169 174	Leu68
+T12	Protein_part 180 185	Phe68
+T13	Organism 186 197	sperm whale
+T14	Protein 198 208	myoglobins
+T15	Technique 233 254	X-ray crystallography
+T16	Unknown 269 279	structures
+T17	Protein 295 314	wild-type myoglobin
+T18	Process 348 355	effects
+T19	Process 359 368	mutations
+T20	Location 372 383	position 68
+T21	Process 392 399	effects
+T22	Chemical 403 409	cobalt
+T23	Process 410 422	substitution
+T24	Parameter 430 438	kinetics
+T25	Chemical 442 444	O2
+T26	Unknown 446 448	CO
+T27	Unknown 454 456	NO
+T28	Process 457 464	binding
+T29	Process 485 496	simulations
+T30	Geometrical_part 506 524	crystal structures
+T31	Parameter 561 565	time
+T32	Physiology 576 584	behavior
+T33	Category 599 606	ligands
+T34	Process 611 621	comparison
+T35	Process 647 660	recombination
+T36	Protein_part 674 679	Val68
+T37	Protein_part 682 685	Ala
+T38	Process 686 694	mutation
+T39	Process 706 712	effect
+T40	Unknown 720 729	structure
+T41	Process 734 742	function
+T42	Protein 746 755	myoglobin
+T43	Protein_part 760 765	Ala68
+T44	Protein 766 780	deoxymyoglobin
+T45	Protein 792 809	wild-type protein
+T46	Chemical 813 836	water molecule hydrogen
+T47	Chemical 851 865	N epsilon atom
+T48	Location 873 879	distal
+T49	Protein_part 880 889	histidine
+T50	Category 900 906	ligand
+T51	Process 907 914	binding
+T52	Process 966 974	function
+T53	Protein 978 987	myoglobin
+T54	Geometrical_part 1000 1006	steric
+T55	Process 1007 1019	interactions
+T56	Category 1032 1038	ligand
+T57	Chemical 1048 1061	C gamma atoms
+T58	Protein_part 1076 1093	valine side-chain
+T59	Location 1100 1106	distal
+T60	Geometrical_part 1107 1113	pocket
+T61	Chemical 1114 1128	water molecule
+T62	Protein_part 1156 1167	side-chains
+T63	Location 1171 1182	position 68
+T64	Geometrical_part 1190 1208	crystal structures
+T65	Protein_part 1212 1217	Leu68
+T66	Protein_part 1222 1227	Ile68
+T67	Protein 1228 1243	deoxymyoglobins
+T68	Protein_part 1249 1265	Leu68 side-chain
+T69	Protein 1287 1301	C alpha-C beta
+T70	Chemical 1306 1326	C beta-C gamma bonds
+T71	Category 1355 1362	ligands
+T72	Process 1381 1390	increases
+T73	Process 1402 1413	association
+T74	Parameter 1414 1428	rate constants
+T75	Parameter 1433 1443	affinities
+T76	Process 1455 1462	absence
+T77	Location 1470 1476	distal
+T78	Geometrical_part 1477 1483	pocket
+T79	Chemical 1484 1498	water molecule
+T80	Protein_part 1528 1533	Leu68
+T81	Process 1540 1550	simulation
+T82	Unknown 1565 1567	NO
+T83	Process 1568 1581	recombination
+T84	State 1616 1629	conformations
+T85	Protein_part 1659 1664	Ile68
+T86	Process 1666 1674	rotation
+T87	Protein_part 1682 1704	substituted side-chain
+T88	Chemical 1743 1754	beta carbon
+T89	Chemical 1777 1789	delta methyl
+T90	Molecular_Part 1790 1795	group
+T91	Chemical 1820 1829	iron atom
+T92	Chemical 1842 1847	deoxy
+T93	Unknown 1861 1871	structures
+T94	Process 1887 1893	effect
+T95	Location 1912 1918	distal
+T96	Geometrical_part 1919 1925	pocket
+T97	Chemical 1926 1940	water molecule
+T98	Geometrical_part 1961 1967	steric
+T99	Category 1996 2002	ligand
+T100	Chemical 2011 2031	terminal carbon atom
+T101	Protein_part 2039 2060	isoleucine side-chain
+T102	Process 2079 2088	decreases
+T103	Parameter 2092 2100	affinity
+T104	Category 2115 2122	ligands
+T105	Process 2127 2137	inhibition
+T106	Process 2150 2163	recombination
+T107	Process 2210 2221	simulations
+T108	Protein_part 2226 2231	Phe68
+T109	Protein 2232 2241	myoglobin
+T110	Protein_part 2247 2264	benzyl side-chain
+T111	Category 2290 2296	ligand
+T112	Process 2297 2304	binding
+T113	Protein_part 2305 2309	site
+T114	Protein_part 2323 2329	region
+T115	Location 2349 2355	distal
+T116	Geometrical_part 2356 2362	pocket
+T117	Protein_part 2384 2389	Ala68
+T118	Protein 2390 2400	myoglobins
+T119	Chemical 2417 2431	water molecule
+T120	Chemical 2441 2449	hydrogen
+T121	Location 2464 2470	distal
+T122	Protein_part 2472 2481	histidine
+T123	Protein_part 2485 2490	Phe68
+T124	Protein 2491 2505	deoxymyoglobin
+T125	Chemical 2512 2526	water molecule
+T126	Parameter 2558 2562	size
+T127	Protein_part 2570 2587	benzyl side-chain
+T128	Category 2630 2636	ligand
+T129	Process 2637 2645	movement
+T130	Location 2655 2661	distal
+T131	Geometrical_part 2662 2668	pocket

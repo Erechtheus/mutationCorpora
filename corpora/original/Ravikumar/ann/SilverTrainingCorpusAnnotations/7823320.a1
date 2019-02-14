@@ -1,0 +1,64 @@
+T1	Unknown 12 22	structures
+T2	Protein 32 40	lysozyme
+T3	Category 49 56	complex
+T4	Chemical 70 83	trisaccharide
+T5	Protein 111 120	lysozymes
+T6	Protein_part 138 155	aspartate residue
+T7	Geometrical_part 161 170	structure
+T8	Protein 174 205	goose egg-white lysozyme (GEWL)
+T9	Parameter 229 236	R-value
+T10	Value 240 245	15.9%
+T11	Value 249 254	1.6 A
+T12	Parameter 255 265	resolution
+T13	Unknown 282 291	structure
+T14	Process 311 321	refinement
+T15	Unknown 330 339	structure
+T16	Geometrical_part 366 375	structure
+T17	Category 381 388	complex
+T18	Protein 397 403	enzyme
+T19	Chemical 413 426	trisaccharide
+T20	Chemical 430 450	N-acetyl glucosamine
+T21	Value 491 496	1.6 A
+T22	Parameter 497 507	resolution
+T23	Chemical 513 526	trisaccharide
+T24	Protein_part 536 541	sites
+T25	Unknown 559 560	B
+T26	Unknown 562 563	C
+T27	Protein_part 568 578	D subsites
+T28	Organism 582 589	chicken
+T29	Organism 591 595	HEWL
+T30	Organism 601 606	phage
+T31	Protein 607 625	T4 (T4L) lysozymes
+T32	Protein 637 646	lysozymes
+T33	Protein 648 652	GEWL
+T34	Organism 654 658	HEWL
+T35	Protein 663 666	T4L
+T36	Chemical 716 730	hydrogen bonds
+T37	Geometrical_part 739 747	backbone
+T38	Chemical 748 753	atoms
+T39	Protein 761 768	protein
+T40	Chemical 777 788	2-acetamido
+T41	Molecular_Part 789 794	group
+T42	Chemical 802 812	saccharide
+T43	Protein_part 816 825	subsite C
+T44	Protein_part 827 832	Glu73
+T45	Protein 836 840	GEWL
+T46	Protein_part 874 879	Glu35
+T47	Protein 883 887	HEWL
+T48	Protein_part 896 901	Glu11
+T49	Protein 905 908	T4L
+T50	Molecular_Part 954 959	group
+T51	Process 990 1009	catalytic mechanism
+T52	Protein_part 1041 1048	residue
+T53	Protein 1058 1066	lysozyme
+T54	Protein_part 1092 1097	Asp52
+T55	Organism 1101 1108	chicken
+T56	Protein 1109 1117	lysozyme
+T57	Protein_part 1125 1130	Asp20
+T58	Protein 1134 1137	T4L
+T59	Protein_part 1159 1166	second 
+T60	Chemical 1166 1172	acidic
+T61	Parameter 1216 1224	activity
+T62	Protein 1234 1242	lysozyme
+T63	Parameter 1276 1284	activity
+T64	Protein 1294 1303	lysozymes

@@ -1,0 +1,8 @@
+Calcium-dependent protein kinases (CDPKs) are sensor-transducer proteins capable of decoding calcium signals in diverse phosphorylation-dependent calcium signaling networks in plants and some protists . 
+Using a novel yeast two-hybrid (YTH) approach with constitutively active and/or catalytically inactive forms of AtCPK11 as bait, we identified AtDi19 as an AtCPK11 -interacting protein . 
+AtDi19 is a member of a small family of stress-induced genes . 
+The interaction was confirmed using pull-down assays with in vitro translated AtCPK11 and GST-AtDi19 and localization studies in Arabidopsis protoplasts cotransfected with AtCPK11:GFP and AtDi19:DsRed2 protein fusions . 
+We further showed that the interaction of AtDi19 is specific to both AtCPK4 and AtCPK11, whereas other closely related CPKs from Arabidopsis interacted weakly (e.g., AtCPK12) or did not interact (e.g., AtCPK26, AtCPK5 and AtCPK1) with AtDi19 . 
+Deletion analyses showed that a region containing two predicted nuclear localization signals (NLS) and a nuclear export signal (NES) of AtDi19 is essential for interaction with AtCPK11 . 
+We further demonstrated that AtDi19 is phosphorylated by AtCPK11 in a Ca(2+)-dependent manner at Thr105 and Ser107 within the AtDi19 bipartite NLS using in vitro kinase assays . 
+Our data suggest that disruption of the autoinhibitor domain leading to the formation of a constitutively active CDPK may stabilize kinase-substrate interactions without affecting specificity . 

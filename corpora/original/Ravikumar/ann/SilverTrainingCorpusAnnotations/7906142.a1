@@ -1,0 +1,92 @@
+T1	Process 0 4	Role
+T2	Chemical 12 30	divalent metal ion
+T3	Chemical 34 39	sugar
+T4	Process 40 47	binding
+T5	Geometrical_part 49 53	ring
+T6	Process 54 61	opening
+T7	Process 67 80	isomerization
+T8	Protein 85 103	D-xylose isomerase
+T9	Process 105 116	replacement
+T10	Chemical 132 137	metal
+T11	Protein_part 144 154	amino acid
+T12	Process 169 174	roles
+T13	Chemical 186 200	magnesium ions
+T14	Parameter 218 226	activity
+T15	Protein 230 248	D-xylose isomerase
+T16	Organism 254 266	Streptomyces
+T17	Protein 267 283	olivochromogenes
+T18	Chemical 303 319	enzyme-magnesium
+T19	Category 320 327	complex
+T20	Technique 350 363	stoichiometry
+T21	Chemical 367 373	cation
+T22	Process 374 381	binding
+T23	Molecule 396 403	neutron
+T24	Process 404 414	activation
+T25	Technique 415 423	analysis
+T26	Value 430 435	2 mol
+T27	Chemical 439 448	magnesium
+T28	Protein 461 467	enzyme
+T29	Chemical 479 483	Mg2+
+T30	Chemical 497 501	Mg2+
+T31	Protein 511 517	enzyme
+T32	Parameter 537 555	apparent KD values
+T33	Value 566 576	0.5-1.0 mM
+T34	Chemical 585 589	Mg2+
+T35	Value 601 607	2-5 mM
+T36	Molecule 640 646	mutant
+T37	Protein 650 668	D-xylose isomerase
+T38	Chemical 722 731	magnesium
+T39	Process 732 739	binding
+T40	Protein_part 740 744	site
+T41	Protein_part 746 752	site 1
+T42	Chemical 754 758	Mg-1
+T43	Protein_part 761 767	Glu180
+T44	Protein_part 786 792	Lys180
+T45	Technique 798 811	stoichiometry
+T46	Chemical 815 820	metal
+T47	Process 821 828	binding
+T48	Protein 845 850	E180K
+T49	Value 855 860	1 mol
+T50	Chemical 864 873	magnesium
+T51	Protein 886 892	enzyme
+T52	Geometrical_part 894 898	Ring
+T53	Technique 907 913	assays
+T54	Chemical 919 932	1-thioglucose
+T55	Protein_part 935 938	H2S
+T56	Geometrical_part 953 957	ring
+T57	Process 958 965	opening
+T58	Protein 972 977	E180K
+T59	Process 992 999	opening
+T60	Chemical 1007 1017	sugar ring
+T61	Value 1021 1024	20%
+T62	Parameter 1029 1033	rate
+T63	Protein 1056 1061	E180K
+T64	Process 1080 1093	isomerization
+T65	Chemical 1098 1105	glucose
+T66	Chemical 1109 1117	fructose
+T67	Chemical 1129 1138	magnesium
+T68	Protein_part 1148 1154	Glu180
+T69	Process 1172 1185	isomerization
+T70	Geometrical_part 1208 1212	ring
+T71	Process 1213 1220	opening
+T72	Technique 1226 1248	X-ray crystallographic
+T73	Geometrical_part 1249 1259	structures
+T74	Protein 1263 1268	E180K
+T75	Process 1276 1283	absence
+T76	Chemical 1287 1296	magnesium
+T77	Process 1308 1316	presence
+T78	Process 1321 1328	absence
+T79	Value 1332 1338	250 mM
+T80	Chemical 1339 1346	glucose
+T81	Value 1364 1369	1.8-A
+T82	Parameter 1370 1380	resolution
+T83	Parameter 1396 1405	R factors
+T84	Value 1409 1414	17.7%
+T85	Value 1419 1424	19.7%
+T86	Protein 1463 1468	E180K
+T87	Geometrical_part 1469 1479	structures
+T88	Process 1511 1522	differences
+T89	Chemical 1535 1548	epsilon-amino
+T90	Molecular_Part 1549 1554	group
+T91	Protein_part 1558 1564	Lys180
+T92	Chemical 1618 1622	Mg-1

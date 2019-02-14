@@ -1,0 +1,60 @@
+T1	Protein_part 3 9	domain
+T2	Protein 18 34	human cystatin C
+T3	Chemical 40 51	amyloidlike
+T4	Protein_part 67 78	beta-sheets
+T5	Process 80 95	Oligomerization
+T6	Protein 99 121	human cystatin C (HCC)
+T7	Chemical 131 138	amyloid
+T8	Body_part 151 165	brain arteries
+T9	Process 176 183	process
+T10	Unknown 234 246	L68Q variant
+T11	Geometrical_part 252 270	crystal structures
+T12	Unknown 274 275	N
+T13	Protein 302 305	HCC
+T14	Protein 326 331	dimer
+T15	Process 332 341	formation
+T16	Protein_part 369 375	domain
+T17	Protein_part 451 457	domain
+T18	Process 467 476	mechanism
+T19	Process 532 537	basis
+T20	Protein 541 551	HCC fibril
+T21	Process 552 561	formation
+T22	Protein 595 598	HCC
+T23	Unknown 686 704	structure elements
+T24	Process 721 730	different
+T25	Unknown 739 748	structure
+T26	Geometrical_part 785 790	hinge
+T27	Unknown 812 820	elements
+T28	Protein_part 826 838	beta-strands
+T29	Process 868 875	folding
+T30	Protein 897 902	dimer
+T31	Parameter 946 951	angle
+T32	Value 955 972	about 100 degrees
+T33	Unknown 993 1003	structures
+T34	Protein 1009 1015	dimers
+T35	Technique 1030 1046	crystallographic
+T36	Protein_part 1081 1092	beta-sheets
+T37	Protein_part 1158 1168	beta-sheet
+T38	Chemical 1170 1206	side-chain-side-chain hydrogen bonds
+T39	Unknown 1221 1235	beta-structure
+T40	Process 1248 1257	direction
+T41	Process 1262 1273	consequence
+T42	Geometrical_part 1292 1309	crystal structure
+T43	Protein_part 1338 1350	beta-strands
+T44	Protein_part 1358 1364	domain
+T45	Protein 1373 1379	dimers
+T46	Technique 1407 1423	crystallographic
+T47	Process 1424 1433	direction
+T48	Chemical 1467 1474	amyloid
+T49	Process 1475 1486	aggregation
+T50	Protein 1490 1493	HCC
+T51	Technique 1498 1515	X-ray diffraction
+T52	Protein 1527 1542	amyloid fibrils
+T53	Unknown 1580 1589	structure
+T54	Protein 1621 1631	cross-beta
+T55	Geometrical_part 1632 1641	structure
+T56	Protein 1661 1679	polypeptide chains
+T57	Body_part 1705 1710	fiber
+T58	Location 1711 1715	axis
+T59	Protein_part 1734 1745	beta-sheets
+T60	Location 1772 1776	axis

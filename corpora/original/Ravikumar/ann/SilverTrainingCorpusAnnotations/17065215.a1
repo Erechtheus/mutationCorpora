@@ -1,0 +1,61 @@
+T1	Physiology 15 24	mutagenic
+T2	Technique 25 33	analysis
+T3	Body_part 37 65	foot-and-mouth disease virus
+T4	Protein 66 77	3C protease
+T5	Process 90 94	role
+T6	Process 117 128	proteolysis
+T7	Protein 134 155	3C protease (3C(pro))
+T8	Body_part 161 196	foot-and-mouth disease virus (FMDV)
+T9	Physiology 263 270	disease
+T10	Organism 283 292	livestock
+T11	Parameter 299 308	potential
+T12	Process 309 315	target
+T13	Physiology 320 329	antiviral
+T14	Chemical 330 334	drug
+T15	Unknown 366 375	structure
+T16	Unknown 385 392	crystal
+T17	Body_part 401 405	FMDV
+T18	Protein 406 413	3C(pro)
+T19	Protein 417 452	chymotrypsin-like cysteine protease
+T20	Parameter 510 518	activity
+T21	Geometrical_part 551 558	surface
+T22	Geometrical_part 559 563	loop
+T23	Unknown 597 607	structures
+T24	Unknown 630 639	structure
+T25	Protein_part 687 694	regions
+T26	Protein 717 729	3C proteases
+T27	Protein 739 755	serine proteases
+T28	Protein_part 789 796	peptide
+T29	Process 797 804	binding
+T30	Geometrical_part 805 810	cleft
+T31	Category 838 847	substrate
+T32	Process 848 859	recognition
+T33	Process 862 873	Replacement
+T34	Protein_part 877 883	Cys142
+T35	Geometrical_part 891 894	tip
+T36	Process 919 928	different
+T37	Protein_part 929 940	amino acids
+T38	Protein 969 975	enzyme
+T39	Parameter 976 984	activity
+T40	Value 1000 1006	higher
+T41	Parameter 1007 1015	activity
+T42	Protein_part 1050 1061	side chains
+T43	Process 1063 1073	Comparison
+T44	Unknown 1081 1090	structure
+T45	Body_part 1094 1098	FMDV
+T46	Protein 1099 1106	3C(pro)
+T47	Protein_part 1123 1137	enzyme-peptide
+T48	Category 1138 1147	complexes
+T49	Process 1167 1178	correlation
+T50	Protein_part 1198 1208	side chain
+T51	Protein_part 1212 1218	Cys142
+T52	Process 1219 1227	contacts
+T53	Protein_part 1261 1263	P2
+T54	Protein_part 1268 1279	P4 residues
+T55	Protein_part 1287 1294	peptide
+T56	Category 1295 1304	substrate
+T57	Process 1371 1375	role
+T58	Parameter 1408 1416	activity
+T59	Body_part 1465 1469	FMDV
+T60	Protein 1470 1477	3C(pro)
+T61	Category 1478 1488	inhibitors

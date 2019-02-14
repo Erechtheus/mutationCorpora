@@ -1,0 +1,62 @@
+T1	Parameter 0 7	Kinetic
+T2	Technique 12 28	crystallographic
+T3	Protein 40 48	thrombin
+T4	Chemical 54 78	Ac-(D)Phe-Pro-boroArg-OH
+T5	Protein_part 87 93	lysine
+T6	Chemical 95 102	amidine
+T7	Protein_part 104 114	homolysine
+T8	Chemical 120 137	ornithine analogs
+T9	Technique 143 165	X-ray crystallographic
+T10	Unknown 166 175	structure
+T11	Chemical 179 203	Ac-(D)Phe-Pro-boroArg-OH
+T12	Unknown 204 211	[DuP714
+T13	Parameter 213 215	Ki
+T14	Value 218 225	0.04 nM
+T15	Unknown 227 234	Kettner
+T16	Unknown 236 238	C.
+T17	Unknown 240 249	Mersinger
+T18	Unknown 251 253	L.
+T19	Unknown 257 262	Knabb
+T20	Organism 316 321	human
+T21	Protein 322 336	alpha-thrombin
+T22	Chemical 347 357	boron atom
+T23	Chemical 383 400	side-chain oxygen
+T24	Protein_part 408 426	active site serine
+T25	Protein_part 428 434	Ser195
+T26	Chemical 440 445	boron
+T27	Geometrical_part 474 482	geometry
+T28	Chemical 500 504	acid
+T29	Process 520 532	interactions
+T30	Protein 542 549	protein
+T31	Category 555 560	mimic
+T32	State 577 593	transition state
+T33	Protein 597 613	serine proteases
+T34	Process 615 628	Contributions
+T35	Chemical 636 644	arginine
+T36	Protein_part 645 655	side chain
+T37	Category 659 668	inhibitor
+T38	Parameter 669 677	affinity
+T39	Process 695 704	synthesis
+T40	Chemical 712 721	ornithine
+T41	Protein_part 723 729	lysine
+T42	Protein_part 731 741	homolysine
+T43	Chemical 747 762	amidine analogs
+T44	Unknown 766 772	DuP714
+T45	Molecular_Part 778 790	basic groups
+T46	Chemical 814 822	carbonyl
+T47	Molecular_Part 823 829	groups
+T48	Chemical 831 846	water molecules
+T49	Protein_part 856 869	aspartic acid
+T50	Protein_part 870 880	side chain
+T51	Protein_part 882 888	Asp189
+T52	Protein 905 916	thrombin S1
+T53	Geometrical_part 929 935	pocket
+T54	Process 942 951	variation
+T55	Parameter 955 974	inhibition constant
+T56	Value 978 999	3 orders of magnitude
+T57	Process 1020 1031	differences
+T58	Process 1053 1065	interactions
+T59	Protein 1076 1084	thrombin
+T60	Process 1089 1100	differences
+T61	Category 1105 1111	ligand
+T62	Chemical 1127 1135	solution

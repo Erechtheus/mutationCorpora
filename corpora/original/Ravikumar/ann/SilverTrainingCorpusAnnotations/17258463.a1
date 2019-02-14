@@ -1,0 +1,46 @@
+T1	Process 11 20	synthesis
+T2	Chemical 24 49	pyridine-pyrazolopyridine
+T3	Category 56 66	inhibitors
+T4	Protein 70 90	protein kinase B/Akt
+T5	Protein_part 92 99	Thr-211
+T6	Process 116 125	different
+T7	Protein_part 126 145	amino acid residues
+T8	Protein 153 159	kinase
+T9	Protein_part 160 166	domain
+T10	Protein 170 190	protein kinase B/Akt
+T11	Protein 206 228	protein kinase A (PKA)
+T12	Unknown 248 254	analog
+T13	Unknown 267 277	AGC family
+T14	Parameter 320 331	selectivity
+T15	Chemical 339 363	indazole-pyridine series
+T16	Molecule 367 370	Akt
+T17	Category 371 381	inhibitors
+T18	Protein 387 390	PKA
+T19	Process 420 433	incorporation
+T20	Chemical 439 447	chemical
+T21	Chemical 483 490	hydroxy
+T22	Molecular_Part 491 496	group
+T23	Protein_part 500 507	Thr-211
+T24	Unknown 517 529	substituents
+T25	Chemical 543 555	oxygen anion
+T26	Chemical 557 562	amino
+T27	Chemical 568 573	nitro
+T28	Molecular_Part 574 580	groups
+T29	Location 609 621	C-6 position
+T30	Chemical 629 647	indazole  scaffold
+T31	Protein 682 685	Akt
+T32	Process 695 708	Incorporation
+T33	Chemical 714 727	nitrogen atom
+T34	Chemical 737 743	phenyl
+T35	Geometrical_part 744 748	ring
+T36	Unknown 777 779	9f
+T37	Protein 796 799	Akt
+T38	Parameter 800 808	activity
+T39	Parameter 842 853	selectivity
+T40	Protein 859 862	PKA
+T41	Unknown 868 886	structure-activity
+T42	Parameter 887 900	relationships
+T43	Chemical 912 944	pyridine-pyrazolopyridine series
+T44	Molecule 948 951	Akt
+T45	Category 952 962	inhibitors
+T46	Protein 1007 1010	PKA

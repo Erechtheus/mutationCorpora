@@ -1,0 +1,65 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Unknown 25 36	Sec4p.Sec2p
+T3	Category 37 44	complex
+T4	Chemical 52 62	nucleotide
+T5	Molecule 74 86	intermediate
+T6	State 87 92	state
+T7	Organism 94 103	Vesicular
+T8	Process 104 113	transport
+T9	Process 121 131	exocytosis
+T10	Protein 148 158	Rab GTPase
+T11	Protein 160 165	Sec4p
+T12	Organism 169 174	yeast
+T13	Protein 201 241	guanine nucleotide exchange factor (GEF)
+T14	Protein 249 254	Sec2p
+T15	Geometrical_part 276 293	crystal structure
+T16	Protein_part 301 317	Sec2p GEF domain
+T17	Category 323 330	complex
+T18	Chemical 340 355	nucleotide-free
+T19	Protein 356 361	Sec4p
+T20	Value 365 370	2.7 A
+T21	Parameter 371 381	resolution
+T22	Process 396 405	formation
+T23	Protein_part 411 424	Sec2p helices
+T24	Protein_part 459 469	side chain
+T25	Protein_part 473 480	Phe-109
+T26	Protein_part 488 495	Leu-104
+T27	Protein_part 500 507	Leu-108
+T28	Protein 511 516	Sec2p
+T29	Protein_part 530 538	residues
+T30	Protein_part 585 596	side chains
+T31	Protein_part 600 606	Phe-49
+T32	Protein_part 608 614	Ile-53
+T33	Protein_part 620 626	Ile-55
+T34	Process 634 640	switch
+T35	Protein_part 641 649	I region
+T36	Protein_part 661 667	Phe-57
+T37	Protein_part 672 678	Trp-74
+T38	Protein_part 698 704	region
+T39	Protein 708 713	Sec4p
+T40	Process 733 739	switch
+T41	Protein_part 740 741	I
+T42	Protein_part 746 756	II regions
+T43	Physiology 830 834	fits
+T44	Geometrical_part 839 846	surface
+T45	Protein 854 859	Sec2p
+T46	State 887 901	conformational
+T47	Process 902 909	changes
+T48	Process 922 934	interactions
+T49	Process 943 949	switch
+T50	Unknown 950 951	I
+T51	Chemical 966 984	guanine nucleotide
+T52	Chemical 1008 1011	GDP
+T53	Process 1012 1019	release
+T54	Value 1050 1055	3.3 A
+T55	Unknown 1056 1065	structure
+T56	Unknown 1073 1084	Sec4p.Sec2p
+T57	Category 1085 1092	complex
+T58	Unknown 1098 1107	structure
+T59	Chemical 1119 1132	phosphate ion
+T60	Unknown 1146 1152	P-loop
+T61	Molecule 1177 1189	intermediate
+T62	State 1190 1195	state
+T63	Chemical 1203 1213	nucleotide
+T64	Process 1214 1222	exchange
+T65	Process 1223 1231	reaction

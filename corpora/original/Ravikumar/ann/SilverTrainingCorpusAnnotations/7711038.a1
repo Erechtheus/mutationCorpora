@@ -1,0 +1,63 @@
+T1	Protein 3 7	L40C
+T2	Process 8 16	mutation
+T3	Chemical 30 52	cysteine-sulfenic acid
+T4	Location 53 65	redox center
+T5	Protein 82 97	NADH peroxidase
+T6	Chemical 103 112	disulfide
+T7	Protein_part 123 131	sequence
+T8	Process 132 142	alignments
+T9	Protein 170 185	NADH peroxidase
+T10	Protein 190 203	NADH  oxidase
+T11	Protein_part 218 232	residues Ser38
+T12	Protein_part 237 242	Cys42
+T13	Protein_part 262 271	cysteines
+T14	Chemical 292 302	disulfides
+T15	Protein 312 338	glutathione reductase (GR)
+T16	Protein 340 363	lipoamide dehydrogenase
+T17	Protein 374 383	reductase
+T18	Protein 389 412	trypanothione reductase
+T19	Chemical 498 520	cysteine-sulfenic acid
+T20	Chemical 522 529	Cys-SOH
+T21	Location 531 544	redox centers
+T22	Protein 562 581	peroxide reductases
+T23	Chemical 603 613	disulfides
+T24	Protein 629 637	GR class
+T25	Protein 641 661	disulfide reductases
+T26	Protein 663 678	NADH peroxidase
+T27	Protein_part 679 693	residues Ser38
+T28	Protein_part 695 700	Phe39
+T29	Protein_part 702 707	Leu40
+T30	Protein_part 713 718	Ser41
+T31	Protein_part 756 759	Cys
+T32	Protein 770 774	F39C
+T33	Protein 779 802	L40C mutant peroxidases
+T34	Chemical 809 831	active-site disulfides
+T35	Protein_part 850 853	Cys
+T36	Protein_part 869 874	Cys42
+T37	Process 876 885	formation
+T38	Chemical 893 914	Cys39-Cys42 disulfide
+T39	Process 935 942	binding
+T40	Protein 950 962	FAD coenzyme
+T41	Protein_part 981 992	L40C mutant
+T42	Chemical 1016 1019	FAD
+T43	Parameter 1050 1057	kinetic
+T44	Technique 1062 1075	spectroscopic
+T45	Protein_part 1105 1109	L40C
+T46	Protein_part 1114 1125	S41C mutant
+T47	Unknown 1127 1137	structures
+T48	Value 1162 1165	2.1
+T49	Value 1170 1175	2.0 A
+T50	Parameter 1176 1186	resolution
+T51	Technique 1205 1226	X-ray crystallography
+T52	Process 1228 1237	Formation
+T53	Chemical 1245 1271	Cys40-Cys42 disulfide bond
+T54	Process 1283 1291	movement
+T55	Unknown 1295 1303	Cys42-SG
+T56	Value 1322 1327	5.9 A
+T57	Chemical 1337 1349	flavin-C(4a)
+T58	Chemical 1409 1418	disulfide
+T59	Location 1436 1448	redox center
+T60	Chemical 1469 1475	flavin
+T61	Process 1513 1522	formation
+T62	Chemical 1531 1552	Cys41-Cys42 disulfide
+T63	Molecule 1567 1573	mutant

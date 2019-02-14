@@ -1,0 +1,74 @@
+T1	Process 0 9	Mechanism
+T2	Chemical 17 28	Schiff base
+T3	Protein 37 71	fructose-1,6-bisphosphate aldolase
+T4	Technique 84 92	analysis
+T5	Process 96 104	reaction
+T6	Molecule 105 118	intermediates
+T7	Protein 124 183	glycolytic enzyme fructose-1,6-bisphosphate aldolase (FBPA)
+T8	Process 209 217	cleavage
+T9	Chemical 221 246	fructose 1,6-bisphosphate
+T10	Chemical 250 276	glyceraldehyde 3-phosphate
+T11	Chemical 281 307	dihydroxyacetone phosphate
+T12	Process 309 318	Catalysis
+T13	Chemical 322 333	Schiff base
+T14	Protein 342 354	class I FBPA
+T15	Molecule 377 390	intermediates
+T16	Protein_part 425 431	lysine
+T17	Protein_part 439 450	active site
+T18	Molecule 451 458	mutants
+T19	Protein 462 468	FBPA I
+T20	Organism 474 493	Thermoproteus tenax
+T21	Geometrical_part 515 533	crystal structures
+T22	Protein 541 547	enzyme
+T23	Chemical 572 585	carbinolamine
+T24	Category 593 602	substrate
+T25	Chemical 603 628	fructose 1,6-bisphosphate
+T26	Category 679 688	substrate
+T27	Unknown 694 704	structures
+T28	Parameter 722 732	resolution
+T29	Value 736 741	1.9 A
+T30	Technique 757 773	crystallographic
+T31	Parameter 774 783	R factors
+T32	Value 787 792	0.148
+T33	Value 797 802	0.149
+T34	Protein 851 857	FBPA I
+T35	Process 885 893	reaction
+T36	Process 894 901	pathway
+T37	Technique 921 929	analysis
+T38	Process 937 942	roles
+T39	Protein_part 946 966	active site residues
+T40	Process 970 979	catalysis
+T41	Protein_part 985 996	active site
+T42	Geometrical_part 997 1005	geometry
+T43	Protein 1013 1035	Tyr146Phe FBPA variant
+T44	Chemical 1045 1071	carbinolamine intermediate
+T45	Organism 1104 1112	archaeal
+T46	Protein 1113 1119	FBPA I
+T47	Value 1120 1126	Tyr146
+T48	Molecule 1134 1140	proton
+T49	Category 1141 1146	donor
+T50	Process 1162 1172	conversion
+T51	Chemical 1185 1198	carbinolamine
+T52	Chemical 1203 1214	Schiff base
+T53	Technique 1231 1239	analysis
+T54	Protein_part 1267 1273	Glu187
+T55	Molecule 1281 1287	proton
+T56	Category 1288 1293	donor
+T57	Organism 1302 1312	eukaryotic
+T58	Protein 1313 1319	FBPA I
+T59	Protein_part 1332 1345	aspartic acid
+T60	Protein 1364 1378	FBPA I enzymes
+T61	Chemical 1416 1428	general base
+T62	Chemical 1442 1455	carbon-carbon
+T63	Process 1456 1464	cleavage
+T64	Geometrical_part 1470 1487	crystal structure
+T65	Protein_part 1495 1504	Trp144Glu
+T66	Protein_part 1506 1515	Tyr146Phe
+T67	Category 1530 1539	substrate
+T68	Category 1540 1547	complex
+T69	Chemical 1602 1632	beta-fructose 1,6-bisphosphate
+T70	Protein 1659 1665	FBPA I
+T71	Unknown 1671 1680	structure
+T72	Parameter 1708 1712	time
+T73	Process 1717 1736	catalytic mechanism
+T74	Geometrical_part 1740 1744	ring

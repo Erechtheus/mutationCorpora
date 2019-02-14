@@ -1,0 +1,60 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Unknown 21 26	Asian
+T3	Organism 37 52	Elephas maximus
+T4	Protein 54 72	cyano-metmyoglobin
+T5	Value 76 82	1.78-A
+T6	Parameter 83 93	resolution
+T7	Protein_part 95 105	Phe29(B10)
+T8	Category 131 137	ligand
+T9	Parameter 138 156	binding properties
+T10	Geometrical_part 162 179	crystal structure
+T11	Unknown 183 188	Asian
+T12	Protein 198 216	cyano-metmyoglobin
+T13	Chemical 229 238	glutamine
+T14	Protein_part 261 282	distal site histidine
+T15	Parameter 311 321	resolution
+T16	Process 343 354	replacement
+T17	Process 360 372	substitution
+T18	Protein_part 388 403	leucine residue
+T19	Unknown 416 423	29(B10)
+T20	Location 431 442	distal side
+T21	Protein_part 448 461	phenylalanine
+T22	Molecule 514 522	electron
+T23	Parameter 523 530	density
+T24	Protein_part 587 595	sequence
+T25	Process 618 627	confusion
+T26	Process 649 659	Comparison
+T27	Protein 671 680	myoglobin
+T28	Geometrical_part 681 691	structures
+T29	Geometrical_part 751 769	tertiary structure
+T30	Protein 782 791	myoglobin
+T31	Protein_part 808 818	amino acid
+T32	Process 819 832	substitutions
+T33	Chemical 840 851	heme pocket
+T34	Chemical 897 913	N epsilon 2 atom
+T35	Protein_part 917 926	Gln64(E7)
+T36	Chemical 971 979	nitrogen
+T37	Protein_part 992 1001	His64(E7)
+T38	Unknown 1009 1011	CO
+T39	Category 1012 1019	complex
+T40	Organism 1024 1035	sperm whale
+T41	Protein 1036 1045	myoglobin
+T42	Protein_part 1066 1084	residue Phe29(B10)
+T43	Location 1106 1117	distal side
+T44	Chemical 1125 1136	heme pocket
+T45	Category 1153 1159	ligand
+T46	Unknown 1167 1180	van der Waals
+T47	Parameter 1181 1189	distance
+T48	Chemical 1222 1233	heme pocket
+T49	Protein 1252 1262	myoglobins
+T50	Parameter 1264 1282	Kinetic properties
+T51	Unknown 1286 1291	Asian
+T52	Protein 1301 1310	myoglobin
+T53	Organism 1339 1350	sperm whale
+T54	Protein 1351 1361	myoglobins
+T55	Process 1379 1387	relation
+T56	Process 1406 1418	consequences
+T57	Protein_part 1430 1440	amino acid
+T58	Process 1441 1454	substitutions
+T59	Protein_part 1455 1459	H64Q
+T60	Protein_part 1464 1468	L29F

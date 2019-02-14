@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 25 35	interferon
+T3	Protein 44 72	ubiquitin-like protein ISG15
+T4	Process 89 96	effects
+T5	Protein 104 117	ISG15 protein
+T6	Process 141 152	conjugation
+T7	Body_part 156 164	cellular
+T8	Process 165 172	targets
+T9	Process 186 194	response
+T10	Protein 198 219	interferon-alpha/beta
+T11	Process 220 229	induction
+T12	Molecule 240 247	markers
+T13	Organism 251 256	viral
+T14	Physiology 270 279	infection
+T15	Protein 305 310	ISG15
+T16	Parameter 344 348	time
+T17	Protein_part 375 380	Cys78
+T18	Protein 398 405	protein
+T19	Technique 413 420	cloning
+T20	Chemical 426 445	C-terminal arginine
+T21	Protein_part 465 475	C terminus
+T22	Process 496 508	inactivation
+T23	Protein 547 565	carboxypeptidase B
+T24	Protein 602 607	ISG15
+T25	Chemical 634 637	ATP
+T26	Chemical 648 658	thiolester
+T27	Process 659 668	formation
+T28	Organism 678 683	human
+T29	Unknown 684 689	UbE1L
+T30	Protein 701 707	enzyme
+T31	Geometrical_part 713 740	three-dimensional structure
+T32	Protein 756 765	ISG15C78S
+T33	Value 784 789	2.4-A
+T34	Parameter 790 800	resolution
+T35	Protein 806 811	ISG15
+T36	Geometrical_part 812 821	structure
+T37	Geometrical_part 847 852	folds
+T38	Protein_part 860 870	main chain
+T39	Process 871 908	root mean square deviation (r.m.s.d.)
+T40	Parameter 909 915	values
+T41	Protein 921 930	ubiquitin
+T42	Value 934 939	1.7 A
+T43	Protein_part 941 951	N-terminal
+T44	Value 957 962	1.0 A
+T45	Protein_part 964 974	C-terminal
+T46	Protein_part 992 999	domains
+T47	Protein_part 1032 1039	helices
+T48	Value 1048 1054	627 A2
+T49	Value 1073 1075	7%
+T50	Chemical 1089 1115	solvent-accessible surface
+T51	Parameter 1116 1120	area
+T52	Parameter 1126 1138	distribution
+T53	Geometrical_part 1142 1155	ISG15 surface
+T54	Parameter 1156 1162	charge
+T55	Value 1180 1188	negative
+T56	Parameter 1189 1195	charge
+T57	Molecule 1236 1244	molecule
+T58	Protein_part 1264 1281	N-terminal domain
+T59	Protein_part 1301 1307	region
+T60	Chemical 1335 1342	solvent
+T61	Geometrical_part 1354 1361	surface
+T62	Protein_part 1367 1384	C-terminal domain
+T63	Protein 1388 1393	ISG15
+T64	Geometrical_part 1418 1427	structure
+T65	Protein 1431 1436	Nedd8
+T66	Parameter 1438 1446	r.m.s.d.
+T67	Value 1449 1455	0.84 A
+T68	Unknown 1470 1481	AppBp1-Uba3
+T69	Protein 1493 1499	enzyme
+T70	Protein 1509 1514	ISG15
+T71	Unknown 1526 1531	UbE1L
+T72	Process 1537 1544	docking
+T73	Protein_part 1573 1583	side-chain
+T74	Process 1584 1596	interactions
+T75	Protein 1648 1657	ubiquitin
+T76	Protein 1662 1667	ISG15
+T77	Process 1668 1676	ligation
+T78	Process 1677 1685	pathways
+T79	Process 1728 1737	signaling

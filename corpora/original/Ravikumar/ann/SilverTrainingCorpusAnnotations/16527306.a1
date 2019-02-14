@@ -1,0 +1,81 @@
+T1	Chemical 14 24	cephamycin
+T2	Process 25 37	biosynthesis
+T3	Geometrical_part 43 60	crystal structure
+T4	Protein 64 68	CmcI
+T5	Organism 74 99	Streptomyces clavuligerus
+T6	Chemical 101 113	Cephamycin C
+T7	Organism 124 138	microorganisms
+T8	Protein 147 154	enzymes
+T9	Chemical 166 180	cephalosporins
+T10	Chemical 190 216	7alpha-methoxy derivatives
+T11	Technique 237 252	X-ray structure
+T12	Protein 269 276	enzymes
+T13	Protein 278 282	CmcI
+T14	Organism 289 314	Streptomyces clavuligerus
+T15	Protein 320 337	polypeptide chain
+T16	Protein 345 351	enzyme
+T17	Protein_part 365 391	C-terminal Rossmann domain
+T18	Protein_part 406 423	N-terminal domain
+T19	Molecule 433 441	molecule
+T20	Protein 453 460	hexamer
+T21	Unknown 468 475	crystal
+T22	Protein_part 481 496	Rossmann domain
+T23	Protein_part 503 532	S-adenosyl-L-methionine (SAM)
+T24	Chemical 541 553	demethylated
+T25	Category 554 561	product
+T26	Chemical 563 588	S-adenosyl-L-homocysteine
+T27	Process 625 632	binding
+T28	Category 646 654	cofactor
+T29	Protein_part 658 661	SAM
+T30	Protein 672 690	methyltransferases
+T31	Chemical 703 712	magnesium
+T32	Protein_part 721 725	site
+T33	Location 733 741	vicinity
+T34	Protein_part 749 757	SAM site
+T35	Chemical 771 784	magnesium ion
+T36	Protein_part 796 811	residues Asp160
+T37	Protein_part 813 819	Glu186
+T38	Protein_part 824 830	Asp187
+T39	Chemical 845 858	cephalosporin
+T40	Process 859 866	binding
+T41	Protein_part 867 871	site
+T42	Chemical 882 895	magnesium ion
+T43	Chemical 911 935	polyethyleneglycol (PEG)
+T44	Process 945 960	crystallisation
+T45	Body_part 961 967	medium
+T46	Geometrical_part 973 981	geometry
+T47	Protein_part 989 992	SAM
+T48	Chemical 1001 1010	magnesium
+T49	Process 1011 1018	binding
+T50	Protein_part 1019 1024	sites
+T51	Protein 1063 1082	O-methyltransferase
+T52	Protein 1104 1108	CmcI
+T53	Protein 1114 1131	methyltransferase
+T54	Process 1153 1161	function
+T55	Process 1181 1189	transfer
+T56	Chemical 1195 1201	methyl
+T57	Molecular_Part 1202 1207	group
+T58	Protein_part 1213 1216	SAM
+T59	Chemical 1224 1252	7alpha-hydroxy cephalosporin
+T60	Process 1267 1285	catalytic reaction
+T61	Chemical 1289 1299	cephamycin
+T62	Process 1300 1309	formation
+T63	Process 1324 1331	docking
+T64	Category 1348 1357	substrate
+T65	Chemical 1359 1408	7alpha-hydroxy-O-carbamoyldeacetylcephalosporin C
+T66	Unknown 1417 1426	structure
+T67	Protein_part 1442 1455	CmcI-Mg2+-SAM
+T68	Category 1456 1463	complex
+T69	Category 1488 1497	substrate
+T70	Process 1499 1506	binding
+T71	Process 1511 1520	catalysis
+T72	Chemical 1541 1550	7-hydroxy
+T73	Molecular_Part 1551 1556	group
+T74	Chemical 1564 1580	beta-lactam ring
+T75	Chemical 1593 1597	Mg2+
+T76	Chemical 1629 1635	methyl
+T77	Molecular_Part 1636 1641	group
+T78	Protein_part 1645 1648	SAM
+T79	Parameter 1654 1662	distance
+T80	Process 1680 1691	methylation
+T81	Chemical 1699 1713	hydroxyl-group

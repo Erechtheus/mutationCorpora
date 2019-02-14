@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Unknown 22 55	thymidylate synthase mutant R166Q
+T3	Process 68 73	basis
+T4	Process 98 102	loss
+T5	Parameter 116 124	activity
+T6	Protein 126 151	Thymidylate synthase (TS)
+T7	Chemical 166 172	folate
+T8	Process 183 194	methylation
+T9	Chemical 198 231	deoxyuridine monophosphate (dUMP)
+T10	Chemical 240 263	thymidine monophosphate
+T11	Chemical 265 269	dTMP
+T12	Process 297 301	role
+T13	Unknown 305 323	invariant arginine
+T14	Chemical 341 350	arginines
+T15	Chemical 368 382	dUMP phosphate
+T16	Technique 390 415	site-directed mutagenesis
+T17	Technique 417 438	X-ray crystallography
+T18	Protein 444 446	TS
+T19	Organism 452 468	Escherichia coli
+T20	Protein_part 474 486	R166Q mutant
+T21	Process 512 520	presence
+T22	Chemical 524 528	dUMP
+T23	Unknown 535 544	structure
+T24	Value 559 564	2.9 A
+T25	Parameter 565 575	resolution
+T26	Category 593 599	ligand
+T27	Chemical 608 615	sulfate
+T28	Process 625 640	crystallization
+T29	Protein_part 665 676	active site
+T30	Unknown 687 696	structure
+T31	Unknown 713 721	crystals
+T32	Process 738 746	presence
+T33	Chemical 750 754	dUMP
+T34	Chemical 763 804	antifolate 10-propargyl-5,8-dideazafolate
+T35	Category 824 833	inhibitor
+T36	State 874 886	conformation
+T37	Chemical 912 922	nucleotide
+T38	Protein_part 931 935	site
+T39	Chemical 939 950	sulfate ion
+T40	Chemical 964 968	dUMP
+T41	Chemical 987 1007	nucleotide phosphate
+T42	Protein_part 1016 1020	site
+T43	Process 1059 1071	substitution
+T44	Chemical 1093 1102	arginines
+T45	Chemical 1110 1124	dUMP phosphate
+T46	Protein_part 1133 1137	site
+T47	Protein_part 1166 1172	Arg166
+T48	Process 1182 1191	mutations
+T49	Molecule 1216 1222	mutant
+T50	Geometrical_part 1236 1246	structures
+T51	Protein 1250 1258	TS R166Q
+T52	Chemical 1275 1284	phosphate
+T53	Protein_part 1293 1297	site
+T54	Parameter 1350 1358	affinity
+T55	Chemical 1363 1372	phosphate
+T56	Process 1386 1394	presence
+T57	Chemical 1418 1427	arginines
+T58	Protein_part 1445 1451	Cys146
+T59	Process 1469 1478	catalysis
+T60	Process 1556 1563	binding
+T61	Chemical 1571 1586	dUMP pyrimidine
+T62	Molecular_Part 1587 1593	moiety

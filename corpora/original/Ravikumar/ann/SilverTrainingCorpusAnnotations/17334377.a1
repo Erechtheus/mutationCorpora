@@ -1,0 +1,62 @@
+T1	Unknown 0 9	Structure
+T2	Process 17 28	development
+T3	Parameter 32 40	affinity
+T4	Molecular_Part 41 47	probes
+T5	Protein 52 68	tyrosine kinases
+T6	Chemical 75 83	chemical
+T7	Parameter 101 111	components
+T8	Process 128 147	signal transduction
+T9	Process 148 155	pathway
+T10	Protein 157 172	protein kinases
+T11	Process 188 195	targets
+T12	Process 204 214	regulation
+T13	Body_part 218 226	cellular
+T14	Process 227 236	signaling
+T15	Category 255 265	inhibitors
+T16	Unknown 281 290	structure
+T17	Process 298 309	development
+T18	Chemical 313 346	6-acrylamido-4-anilinoquinazoline
+T19	Protein 360 366	kinase
+T20	Category 367 377	inhibitors
+T21	Process 408 414	target
+T22	Protein 435 442	kinases
+T23	Parameter 455 466	selectivity
+T24	Unknown 467 475	elements
+T25	Protein 511 527	wild-type kinase
+T26	Chemical 532 544	electrophile
+T27	Protein_part 554 570	cysteine residue
+T28	Chemical 577 584	glycine
+T29	Protein_part 596 603	residue
+T30	Geometrical_part 605 625	Cocrystal structures
+T31	Chemical 646 657	quinazoline
+T32	Category 658 668	inhibitors
+T33	Protein 685 724	epidermal growth factor receptor (EGFR)
+T34	Protein 739 744	c-Src
+T35	Category 759 768	inhibitor
+T36	Protein_part 793 801	cysteine
+T37	Protein_part 803 809	Cys797
+T38	Protein 813 817	EGFR
+T39	Protein_part 822 828	Cys345
+T40	Protein 843 848	c-Src
+T41	Chemical 874 887	covalent bond
+T42	Chemical 893 904	quinazoline
+T43	Protein 965 971	kinase
+T44	Geometrical_part 972 982	structures
+T45	Chemical 999 1010	quinazoline
+T46	Category 1011 1021	inhibitors
+T47	Unknown 1038 1048	structures
+T48	Chemical 1077 1110	6-acrylamido-4-anilinoquinazoline
+T49	Parameter 1111 1119	affinity
+T50	Molecular_Part 1120 1125	probe
+T51	Parameter 1140 1148	fraction
+T52	Protein 1152 1158	kinase
+T53	Body_part 1173 1181	cellular
+T54	Process 1182 1191	signaling
+T55	Chemical 1211 1219	reagents
+T56	Parameter 1238 1250	relationship
+T57	Protein 1259 1263	EGFR
+T58	Process 1264 1275	stimulation
+T59	Unknown 1279 1282	EGF
+T60	Unknown 1302 1313	outputs-Akt
+T61	Unknown 1315 1319	Erk1
+T62	Unknown 1324 1328	Erk2

@@ -1,0 +1,6 @@
+The antigen 85 (ag85) complex, composed of three proteins (ag85A, B and C), is a major protein component of the Mycobacterium tuberculosis cell wall . 
+Each protein possesses a mycolyltransferase activity required for the biogenesis of trehalose dimycolate (cord factor), a dominant structure necessary for maintaining cell wall integrity . 
+The crystal structure of recombinant ag85C from M. tuberculosis, refined to a resolution of 1.5 A, reveals an alpha/beta-hydrolase polypeptide fold, and a catalytic triad formed by Ser 124,Glu 228 and His 260 . 
+ag85C complexed with a covalent inhibitor implicates residues Leu 40 and Met 125 as components of the oxyanion hole . 
+A hydrophobic pocket and tunnel extending 21 A into the core of the protein indicates the location of a probable trehalose monomycolate binding site . 
+Also, a large region of conserved surface residues among ag85A, B and C is a probable site for the interaction of ag85 proteins with human fibronectin . 

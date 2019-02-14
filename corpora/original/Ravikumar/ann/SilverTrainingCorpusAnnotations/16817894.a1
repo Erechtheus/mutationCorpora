@@ -1,0 +1,91 @@
+T1	State 0 12	Conformation
+T2	Body_part 25 33	membrane
+T3	Process 34 45	interaction
+T4	Chemical 49 59	cyclotides
+T5	Unknown 69 78	structure
+T6	Chemical 89 91	B1
+T7	Chemical 103 132	dodecylphosphocholine micelle
+T8	Chemical 134 144	Cyclotides
+T9	Unknown 151 157	family
+T10	Organism 171 176	plant
+T11	Protein_part 177 185	peptides
+T12	Protein 223 230	protein
+T13	Chemical 275 290	disulfide bonds
+T14	Chemical 296 309	antimicrobial
+T15	Parameter 324 334	properties
+T16	Chemical 338 348	cyclotides
+T17	Parameter 374 388	hydrophobicity
+T18	Protein_part 396 404	peptides
+T19	Body_part 430 438	membrane
+T20	Process 444 450	target
+T21	Chemical 456 466	cyclotides
+T22	Body_part 482 490	membrane
+T23	State 499 511	conformation
+T24	Process 516 527	orientation
+T25	Chemical 531 541	cyclotides
+T26	Process 547 558	interaction
+T27	Chemical 566 582	Mobius cyclotide
+T28	Chemical 591 593	B1
+T29	Unknown 604 611	African
+T30	Organism 623 648	plant Oldenlandia affinis
+T31	Chemical 655 685	dodecylphosphocholine micelles
+T32	Technique 704 720	NMR spectroscopy
+T33	Chemical 749 758	cyclotide
+T34	Category 781 788	complex
+T35	Chemical 794 802	micelles
+T36	Unknown 816 825	structure
+T37	Chemical 836 838	B1
+T38	Unknown 859 862	NOE
+T39	Unknown 867 868	J
+T40	Process 869 878	couplings
+T41	Chemical 907 922	peptide-micelle
+T42	Category 923 930	complex
+T43	Chemical 947 949	5-
+T44	Chemical 954 970	16-doxylstearate
+T45	Process 971 981	relaxation
+T46	Molecular_Part 982 988	probes
+T47	Process 994 1001	binding
+T48	Chemical 1005 1021	divalent cations
+T49	Chemical 1029 1044	peptide-micelle
+T50	Category 1045 1052	complex
+T51	Chemical 1071 1075	Mn2+
+T52	Process 1076 1085	titration
+T53	Protein_part 1113 1120	peptide
+T54	Chemical 1134 1149	micelle surface
+T55	Parameter 1172 1180	affinity
+T56	Geometrical_part 1202 1207	loops
+T57	Geometrical_part 1209 1215	loop 5
+T58	Protein_part 1217 1228	Trp19-Val21
+T59	Protein_part 1234 1239	loop6
+T60	Protein_part 1241 1252	Leu27-Val29
+T61	Protein_part 1267 1275	residues
+T62	Protein_part 1277 1281	Glu3
+T63	Protein_part 1286 1291	Arg24
+T64	Chemical 1309 1315	cation
+T65	Protein_part 1324 1328	site
+T66	Protein_part 1335 1339	Glu3
+T67	Location 1369 1373	side
+T68	Molecule 1381 1389	molecule
+T69	Process 1398 1405	contact
+T70	Body_part 1411 1421	polar head
+T71	Molecular_Part 1422 1428	groups
+T72	Chemical 1432 1441	detergent
+T73	Unknown 1455 1464	structure
+T74	Chemical 1475 1477	B1
+T75	Process 1510 1523	incorporation
+T76	Chemical 1529 1537	micelles
+T77	Protein_part 1581 1591	beta-sheet
+T78	Protein_part 1610 1617	cystine
+T79	Parameter 1618 1622	knot
+T80	Technique 1644 1652	analysis
+T81	Process 1657 1667	comparison
+T82	Process 1708 1720	conservation
+T83	Protein_part 1728 1747	two-disulfide motif
+T84	Protein_part 1770 1778	peptides
+T85	Process 1834 1845	interaction
+T86	Chemical 1849 1859	cyclotides
+T87	Body_part 1865 1874	membranes
+T88	Chemical 1907 1917	cyclotides
+T89	Body_part 1921 1929	membrane
+T90	Protein_part 1937 1946	cationic 
+T91	Organism 1946 1959	antimicrobial

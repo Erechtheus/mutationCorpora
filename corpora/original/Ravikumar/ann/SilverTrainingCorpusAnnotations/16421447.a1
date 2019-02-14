@@ -1,0 +1,49 @@
+T1	Unknown 0 9	Structure
+T2	Unknown 13 17	DraD
+T3	Physiology 31 44	uropathogenic
+T4	Organism 45 61	Escherichia coli
+T5	Protein 65 70	dimer
+T6	Protein_part 84 94	beta-tails
+T7	Protein 104 108	gene
+T8	Physiology 120 133	uropathogenic
+T9	Organism 134 141	strains
+T10	Organism 145 161	Escherichia coli
+T11	Protein 171 179	proteins
+T12	Organism 192 201	bacterial
+T13	Process 202 212	attachment
+T14	Process 220 228	invasion
+T15	Organism 236 251	eukaryotic host
+T16	Body_part 253 260	tissues
+T17	Geometrical_part 266 283	crystal structure
+T18	Protein_part 289 298	construct
+T19	Organism 302 309	E. coli
+T20	Unknown 310 314	DraD
+T21	Protein_part 340 350	C-terminal
+T22	Process 351 360	extension
+T23	Protein_part 367 378	amino acids
+T24	Protein_part 392 396	His6
+T25	Parameter 423 433	resolution
+T26	Value 437 451	1.05 angstroms
+T27	Protein 457 464	protein
+T28	Protein 471 487	symmetric dimers
+T29	Process 500 508	exchange
+T30	Protein_part 516 539	C-terminal beta-strands
+T31	Protein 566 580	immunoglobulin
+T32	Geometrical_part 586 599	beta-sandwich
+T33	Geometrical_part 600 604	fold
+T34	Protein 613 620	subunit
+T35	Unknown 627 636	structure
+T36	Unknown 651 655	DraD
+T37	Category 677 685	acceptor
+T38	Protein_part 693 705	donor-strand
+T39	Process 706 721	complementation
+T40	Process 722 731	mechanism
+T41	Body_part 735 740	fiber
+T42	Process 741 750	formation
+T43	Protein 771 783	DraE adhesin
+T44	Protein_part 796 804	sequence
+T45	Category 821 826	donor
+T46	Protein_part 827 833	strand
+T47	Unknown 846 850	DraD
+T48	Geometrical_part 878 881	tip
+T49	Body_part 889 894	fiber

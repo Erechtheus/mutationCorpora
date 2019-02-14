@@ -1,0 +1,50 @@
+T1	Process 10 22	interactions
+T2	Organism 28 33	human
+T3	Protein 34 48	ferrochelatase
+T4	Protein 50 64	Ferrochelatase
+T5	Protein_part 70 78	terminal
+T6	Protein 79 85	enzyme
+T7	Chemical 89 93	heme
+T8	Process 94 106	biosynthesis
+T9	Process 122 131	insertion
+T10	Chemical 135 147	ferrous iron
+T11	Unknown 168 170	IX
+T12	Unknown 189 191	IX
+T13	Organism 193 198	Human
+T14	Protein 199 213	ferrochelatase
+T15	Body_part 232 260	inner mitochondrial membrane
+T16	Protein 272 278	enzyme
+T17	Unknown 308 314	2Fe-2S
+T18	Geometrical_part 353 370	crystal structure
+T19	Organism 374 379	human
+T20	Protein 380 394	ferrochelatase
+T21	Category 404 413	substrate
+T22	Unknown 429 431	IX
+T23	Value 451 457	higher
+T24	Parameter 458 468	resolution
+T25	Unknown 469 478	structure
+T26	Unknown 486 499	R115L variant
+T27	Category 514 523	substrate
+T28	Chemical 560 569	porphyrin
+T29	Category 570 579	substrate
+T30	Geometrical_part 613 619	pocket
+T31	Chemical 656 677	N-methylmesoporphyrin
+T32	Organism 686 703	Bacillus subtilis
+T33	Protein 704 718	ferrochelatase
+T34	Chemical 724 733	porphyrin
+T35	Value 748 773	approximately 100 degrees
+T36	Value 802 807	4.5 A
+T37	Protein_part 826 837	active site
+T38	Chemical 843 853	propionate
+T39	Molecular_Part 854 860	groups
+T40	Category 868 877	substrate
+T41	Chemical 899 906	solvent
+T42	Protein 971 1001	uroporphyrinogen decarboxylase
+T43	Category 1023 1032	substrate
+T44	Protein_part 1061 1072	active site
+T45	Body_part 1073 1078	mouth
+T46	Chemical 1102 1111	porphyrin
+T47	Category 1112 1121	substrate
+T48	Geometrical_part 1152 1158	pocket
+T49	Process 1230 1239	mechanism
+T50	Protein 1244 1258	ferrochelatase

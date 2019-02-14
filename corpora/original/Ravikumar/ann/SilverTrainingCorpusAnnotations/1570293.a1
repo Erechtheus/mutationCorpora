@@ -1,0 +1,75 @@
+T1	Process 12 20	function
+T2	Protein 26 37	T4 lysozyme
+T3	Protein_part 64 72	alanines
+T4	Protein_part 120 139	amino acid sequence
+T5	Protein_part 161 171	Xaa----Ala
+T6	Process 172 185	substitutions
+T7	Protein_part 210 221	alpha-helix
+T8	Protein_part 234 248	residues 39-50
+T9	Organism 252 268	bacteriophage T4
+T10	Protein 269 277	lysozyme
+T11	Unknown 283 290	variant
+T12	Protein_part 296 304	alanines
+T13	Location 308 332	10 consecutive positions
+T14	Parameter 365 373	activity
+T15	Geometrical_part 442 459	crystal structure
+T16	Protein_part 469 480	polyalanine
+T17	Molecule 481 487	mutant
+T18	Process 512 518	change
+T19	Chemical 526 542	main-chain atoms
+T20	Protein_part 551 556	helix
+T21	Protein 580 589	wild-type
+T22	Geometrical_part 590 599	structure
+T23	Organism 605 615	individual
+T24	Process 616 629	substitutions
+T25	Chemical 637 644	solvent
+T26	Protein_part 653 668	residues Asn-40
+T27	Protein_part 670 676	Ser-44
+T28	Protein_part 682 688	Glu-45
+T29	Protein_part 694 701	alanine
+T30	Protein 746 753	protein
+T31	Process 763 775	replacements
+T32	Protein_part 810 825	residues Lys-43
+T33	Protein_part 830 836	Leu-46
+T34	Parameter 860 879	melting temperature
+T35	Protein 887 895	lysozyme
+T36	Protein_part 905 911	Lys-43
+T37	Protein_part 916 922	Leu-46
+T38	Location 940 952	positions 40
+T39	Location 954 956	44
+T40	Location 958 960	45
+T41	Location 962 964	47
+T42	Location 970 972	48
+T43	Protein_part 994 1001	alanine
+T44	Unknown 1009 1027	A40-42/44-45/47-49
+T45	Value 1045 1058	3.1 degrees C
+T46	Parameter 1084 1086	pH
+T47	Value 1087 1090	3.0
+T48	Value 1107 1120	1.6 degrees C
+T49	Parameter 1124 1126	pH
+T50	Value 1127 1130	6.7
+T51	Protein_part 1159 1177	amino acids Glu-45
+T52	Protein_part 1182 1188	Lys-48
+T53	Process 1194 1201	changes
+T54	Parameter 1205 1224	melting temperature
+T55	Chemical 1243 1263	putative salt bridge
+T56	Protein_part 1282 1290	residues
+T57	State 1330 1339	stability
+T58	Protein 1347 1354	protein
+T59	Protein_part 1433 1441	sequence
+T60	Protein 1461 1478	polypeptide chain
+T61	Protein_part 1490 1500	amino acid
+T62	Process 1518 1525	folding
+T63	Process 1571 1582	replacement
+T64	Chemical 1592 1599	solvent
+T65	Protein_part 1608 1616	residues
+T66	Protein_part 1624 1637	alpha-helices
+T67	Protein_part 1643 1651	alanines
+T68	Protein 1685 1692	protein
+T69	State 1693 1702	stability
+T70	Process 1738 1752	simplification
+T71	Protein 1760 1767	protein
+T72	Process 1768 1775	folding
+T73	Protein_part 1802 1813	amino acids
+T74	Process 1841 1848	folding
+T75	Protein_part 1882 1889	alanine

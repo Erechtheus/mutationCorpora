@@ -1,0 +1,90 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 32 53	transglycosylase MltA
+T3	Organism 59 72	N.gonorrhoeae
+T4	Organism 77 83	E.coli
+T5	Geometrical_part 99 110	interdomain
+T6	Process 111 120	movements
+T7	Category 125 134	substrate
+T8	Process 135 142	binding
+T9	Protein 144 148	MltA
+T10	Protein 160 176	transglycosylase
+T11	Organism 180 202	Gram-negative bacteria
+T12	Protein 220 228	beta-1,4
+T13	Protein_part 229 248	glycosidic linkages
+T14	Chemical 257 286	N-acetylmuramic acid (MurNAc)
+T15	Chemical 291 319	N-acetylglucosamine (GlcNAc)
+T16	Protein 323 336	peptidoglycan
+T17	Geometrical_part 361 379	crystal structures
+T18	Protein 383 387	MltA
+T19	Organism 393 414	Neisseria gonorrhoeae
+T20	Organism 419 435	Escherichia coli
+T21	Organism 437 443	NgMltA
+T22	Organism 448 454	EcMltA
+T23	Value 473 478	21.5%
+T24	Parameter 479 496	sequence identity
+T25	Protein 503 511	proteins
+T26	Protein_part 526 533	domains
+T27	Geometrical_part 554 560	groove
+T28	Protein_part 562 570	Domain 1
+T29	Process 588 598	similarity
+T30	Geometrical_part 629 635	barrel
+T31	Unknown 636 642	family
+T32	Protein 646 654	proteins
+T33	Process 656 666	Comparison
+T34	Unknown 678 688	structures
+T35	Process 710 721	differences
+T36	Protein_part 751 760	domains 1
+T37	Protein_part 765 766	2
+T38	Protein_part 781 792	active site
+T39	Geometrical_part 793 799	groove
+T40	Organism 803 809	NgMltA
+T41	Protein 861 874	peptidoglycan
+T42	Category 875 884	substrate
+T43	Organism 890 896	EcMltA
+T44	Protein_part 914 920	domain
+T45	Process 921 928	closure
+T46	Category 942 951	substrate
+T47	Process 952 959	binding
+T48	Process 961 968	Docking
+T49	Protein 974 996	peptidoglycan molecule
+T50	Geometrical_part 1006 1015	structure
+T51	Protein 1019 1025	NgMltA
+T52	Protein_part 1056 1064	residues
+T53	Category 1093 1102	substrate
+T54	Process 1103 1110	binding
+T55	Process 1134 1141	binding
+T56	Geometrical_part 1142 1148	pocket
+T57	Chemical 1157 1165	peptidyl
+T58	Molecular_Part 1166 1174	moieties
+T59	Unknown 1181 1190	structure
+T60	Process 1204 1214	assignment
+T61	Protein_part 1218 1224	Asp405
+T62	Chemical 1232 1245	acid catalyst
+T63	Process 1262 1270	cleavage
+T64	Chemical 1278 1293	glycosidic bond
+T65	Organism 1298 1304	EcMltA
+T66	Protein_part 1321 1328	residue
+T67	Protein_part 1332 1338	Asp328
+T68	Unknown 1382 1392	structures
+T69	Process 1418 1422	role
+T70	Protein_part 1427 1433	Asp393
+T71	Protein_part 1435 1441	Asp317
+T72	Organism 1445 1451	EcMltA
+T73	Chemical 1471 1482	C6 hydroxyl
+T74	Molecular_Part 1483 1488	group
+T75	Process 1496 1505	formation
+T76	Protein_part 1513 1532	1,6-anhydro linkage
+T77	Process 1546 1556	comparison
+T78	Organism 1560 1566	EcMltA
+T79	Protein 1568 1574	NgMltA
+T80	Protein_part 1593 1605	third domain
+T81	Process 1617 1626	insertion
+T82	Protein_part 1634 1642	domain 2
+T83	Protein_part 1648 1654	domain
+T84	Protein 1658 1662	beta
+T85	Unknown 1666 1675	structure
+T86	Protein 1692 1707	protein-protein
+T87	Process 1708 1720	interactions
+T88	Protein 1742 1755	peptidoglycan
+T89	Process 1756 1766	metabolism
+T90	Organism 1770 1783	N.gonorrhoeae

@@ -1,0 +1,60 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 29	Yersinia
+T3	Protein 30 58	protein tyrosine phosphatase
+T4	Value 62 67	2.5 A
+T5	Category 76 83	complex
+T6	Protein 100 139	Protein tyrosine phosphatases (PTPases)
+T7	Protein 144 151	kinases
+T8	Process 186 201	phosphorylation
+T9	Location 216 229	intracellular
+T10	Process 230 240	signalling
+T11	Body_part 242 246	cell
+T12	Process 247 253	growth
+T13	Process 258 273	differentiation
+T14	Organism 275 283	Yersinia
+T15	Organism 299 307	bacteria
+T16	Physiology 323 329	plague
+T17	Physiology 340 356	enteric diseases
+T18	Protein 376 382	PTPase
+T19	Protein 384 389	Yop51
+T20	Organism 418 422	host
+T21	Body_part 423 435	immune cells
+T22	Protein_part 448 464	catalytic domain
+T23	Value 487 490	20%
+T24	Organism 504 509	human
+T25	Unknown 510 515	PTP1B
+T26	Organism 521 529	Yersinia
+T27	Protein 530 536	PTPase
+T28	Unknown 557 566	invariant
+T29	Protein_part 567 575	residues
+T30	Organism 587 597	eukaryotic
+T31	Protein 598 605	PTPases
+T32	Protein_part 634 641	Cys 403
+T33	Chemical 657 685	phosphocysteine intermediate
+T34	Process 693 702	catalysis
+T35	Unknown 720 730	structures
+T36	Value 750 755	2.5 A
+T37	Parameter 756 766	resolution
+T38	Value 789 794	2.6 A
+T39	Unknown 796 803	crystal
+T40	Protein_part 828 835	Cys 403
+T41	Chemical 881 890	phosphate
+T42	Geometrical_part 899 903	loop
+T43	Geometrical_part 910 914	loop
+T44	Chemical 940 953	hydrogen-bond
+T45	Technique 954 960	arrays
+T46	Chemical 993 1001	oxyanion
+T47	Protein_part 1020 1027	Cys 403
+T48	Chemical 1033 1051	reactive  thiolate
+T49	Process 1053 1060	Binding
+T50	State 1085 1099	conformational
+T51	Process 1100 1106	change
+T52	Chemical 1122 1130	oxyanion
+T53	Protein_part 1142 1149	Asp 356
+T54	Protein_part 1174 1181	residue
+T55	Value 1186 1203	approximately 6 A
+T56	Protein_part 1213 1224	active site
+T57	Chemical 1235 1240	anion
+T58	Geometrical_part 1249 1253	loop
+T59	Protein 1257 1264	PTPases
+T60	Protein 1286 1302	enzyme rhodanese

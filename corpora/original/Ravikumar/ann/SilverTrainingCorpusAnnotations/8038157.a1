@@ -1,0 +1,93 @@
+T1	Process 0 4	Role
+T2	Protein_part 8 22	methionine 230
+T3	Molecule 41 49	electron
+T4	Process 50 58	transfer
+T5	Chemical 71 86	oxyferryl  heme
+T6	Protein_part 91 105	tryptophan 191
+T7	Chemical 109 144	cytochrome c peroxidase compound II
+T8	Parameter 150 158	kinetics
+T9	Molecule 162 170	electron
+T10	Process 171 179	transfer
+T11	Protein 185 202	cytochrome c (CC)
+T12	Organism 206 211	yeast
+T13	Chemical 212 252	cytochrome c peroxidase (CcP) compound I
+T14	Process 275 285	photolysis
+T15	Technique 303 315	spectroscopy
+T16	Process 323 333	photolysis
+T17	Organism 351 356	horse
+T18	Protein 357 371	CC derivatives
+T19	Chemical 392 404	lysine amino
+T20	Molecular_Part 405 411	groups
+T21	Chemical 417 463	(dicarboxybipyridine)bis-(bipyridine)ruthenium
+T22	Protein 466 471	Ru-CC
+T23	Molecule 482 490	electron
+T24	Process 491 499	transfer
+T25	Protein 505 510	Ru-CC
+T26	Chemical 523 537	indole radical
+T27	Protein_part 541 548	Trp-191
+T28	Chemical 552 566	CcP compound I
+T29	Parameter 567 580	[CMPI(IV,R.)]
+T30	Chemical 592 603	CMPII(IV,R)
+T31	Process 610 618	reaction
+T32	Protein 652 669	Ru-CC derivatives
+T33	Parameter 676 690	rate constants
+T34	Chemical 738 740	Ru
+T35	Protein 752 760	Ru-27-CC
+T36	Protein_part 772 781	lysine 27
+T37	Parameter 783 797	rate constants
+T38	Value 801 807	43,000
+T39	Value 812 820	1600 s-1
+T40	Parameter 838 840	pH
+T41	Value 841 844	5.0
+T42	Value 848 852	2 mM
+T43	Chemical 853 860	acetate
+T44	Process 868 877	reduction
+T45	Chemical 885 899	indole radical
+T46	Protein 903 908	Ru-CC
+T47	Molecule 925 933	electron
+T48	Process 934 942	transfer
+T49	Protein_part 949 956	Trp-191
+T50	Chemical 964 978	oxyferryl heme
+T51	Chemical 982 993	CMPII(IV,R)
+T52	Chemical 1018 1031	CMPII(III,R.)
+T53	Parameter 1037 1050	rate constant
+T54	Molecule 1085 1093	electron
+T55	Process 1094 1102	transfer
+T56	Process 1103 1111	reaction
+T57	Protein 1141 1148	protein
+T58	Parameter 1149 1162	concentration
+T59	Protein 1171 1187	Ru-CC derivative
+T60	Parameter 1202 1215	rate constant
+T61	Value 1231 1239	1100 s-1
+T62	Parameter 1243 1245	pH
+T63	Value 1246 1247	5
+T64	Value 1251 1258	550 s-1
+T65	Parameter 1262 1264	pH
+T66	Value 1265 1266	6
+T67	Process 1288 1298	conversion
+T68	Chemical 1302 1313	CMPII(IV,R)
+T69	Chemical 1317 1330	CMPII(III,R.)
+T70	Value 1346 1349	56%
+T71	Parameter 1353 1355	pH
+T72	Value 1356 1357	5
+T73	Value 1361 1364	29%
+T74	Parameter 1368 1370	pH
+T75	Value 1371 1372	6
+T76	Process 1378 1386	reaction
+T77	Parameter 1407 1409	pH
+T78	Value 1410 1413	7.0
+T79	Parameter 1429 1431	pH
+T80	Parameter 1450 1454	rate
+T81	Parameter 1459 1465	extent
+T82	Location 1474 1482	internal
+T83	Molecule 1483 1491	electron
+T84	Process 1492 1500	transfer
+T85	Process 1501 1509	reaction
+T86	Parameter 1525 1527	pH
+T87	Parameter 1546 1550	rate
+T88	Process 1566 1575	reduction
+T89	Chemical 1579 1590	CMPII(IV,R)
+T90	Organism 1594 1606	native horse
+T91	Protein 1607 1609	CC
+T92	Technique 1635 1647	spectroscopy
+T93	Parameter 1656 1670	ionic strength

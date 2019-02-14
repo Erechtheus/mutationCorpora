@@ -1,0 +1,64 @@
+T1	Chemical 14 20	copper
+T2	Protein 24 73	peptidylglycine alpha-hydroxylating monooxygenase
+T3	Process 107 111	role
+T4	Protein_part 128 136	peptides
+T5	Process 145 154	amidation
+T6	Protein_part 164 180	carboxy terminus
+T7	Parameter 197 216	biological activity
+T8	Protein 218 267	Peptidylglycine alpha-hydroxylating monooxygenase
+T9	Protein 269 272	PHM
+T10	Protein 274 286	EC 1.14.17.3
+T11	Protein 293 299	enzyme
+T12	Process 350 358	reaction
+T13	Protein_part 379 386	domains
+T14	Chemical 412 423	copper atom
+T15	Protein_part 425 428	CuH
+T16	Protein_part 433 436	CuM
+T17	Protein_part 443 451	CuM site
+T18	Protein_part 461 469	Met(314)
+T19	Protein_part 478 490	His residues
+T20	Category 494 501	ligands
+T21	Process 503 511	Mutation
+T22	Protein_part 515 523	Met(314)
+T23	Protein_part 527 530	Ile
+T24	Protein 543 546	PHM
+T25	Process 571 577	effect
+T26	Unknown 585 590	EXAFS
+T27	Parameter 591 599	spectrum
+T28	Protein 616 622	enzyme
+T29	Process 672 685	stabilization
+T30	Protein_part 693 701	CuM site
+T31	Process 723 727	role
+T32	Protein_part 731 739	Met(314)
+T33	Protein_part 745 748	CuM
+T34	Category 749 755	ligand
+T35	Unknown 775 784	structure
+T36	Molecule 792 807	Met(314)Ile-PHM
+T37	Molecule 808 814	mutant
+T38	Protein 826 840	mutant protein
+T39	Protein 897 914	wild-type protein
+T40	Unknown 921 930	structure
+T41	Unknown 968 975	crystal
+T42	Unknown 986 1018	Met(314)Ile-PHM mutant structure
+T43	Process 1037 1045	mutation
+T44	Protein_part 1063 1066	CuM
+T45	Protein 1082 1088	enzyme
+T46	Process 1118 1131	perturbations
+T47	State 1156 1165	stability
+T48	Protein 1173 1179	enzyme
+T49	Protein_part 1205 1213	CuH site
+T50	Process 1238 1245	effects
+T51	Unknown 1249 1256	crystal
+T52	Process 1257 1265	contacts
+T53	Geometrical_part 1287 1296	structure
+T54	Protein 1301 1307	wt-PHM
+T55	Unknown 1315 1338	Met(314)Ile-PHM crystal
+T56	Geometrical_part 1388 1397	structure
+T57	Protein 1401 1419	wild-type (wt)-PHM
+T58	Unknown 1436 1444	crystals
+T59	Molecule 1446 1461	Met(314)Ile-PHM
+T60	Protein 1500 1506	wt-PHM
+T61	Technique 1532 1543	calorimetry
+T62	Process 1608 1612	role
+T63	Protein_part 1621 1629	CuM site
+T64	Process 1672 1676	role

@@ -1,0 +1,58 @@
+T1	Protein 21 26	BRCA1
+T2	Unknown 36 50	variant M1775K
+T3	Process 72 82	disruption
+T4	Chemical 90 109	BRCT phosphopeptide
+T5	Geometrical_part 118 124	pocket
+T6	Body_part 162 171	germ-line
+T7	Process 172 181	mutations
+T8	Protein 189 199	BRCA1 gene
+T9	Process 207 221	susceptibility
+T10	Body_part 225 231	breast
+T11	Physiology 236 250	ovarian cancer
+T12	Chemical 315 325	amino-acid
+T13	Process 337 344	changes
+T14	Protein 352 365	BRCA1 protein
+T15	Technique 485 501	crystallographic
+T16	Technique 543 553	techniques
+T17	Protein 569 576	genetic
+T18	Process 577 588	segregation
+T19	Technique 589 597	analysis
+T20	Protein 622 627	BRCA1
+T21	Unknown 637 651	variant M1775K
+T22	Physiology 655 665	pathogenic
+T23	Technique 678 684	assays
+T24	Organism 688 693	yeast
+T25	Organism 698 707	mammalian
+T26	Body_part 708 713	cells
+T27	Protein_part 730 748	BRCA1 BRCT domains
+T28	Chemical 762 772	amino-acid
+T29	Process 773 779	change
+T30	Unknown 780 786	M1775K
+T31	Parameter 830 838	activity
+T32	Unknown 861 868	variant
+T33	Process 894 902	mutation
+T34	Unknown 922 928	M1775K
+T35	Process 929 937	mutation
+T36	Chemical 952 966	phosphopeptide
+T37	Geometrical_part 975 981	pocket
+T38	Protein_part 989 1007	BRCA1 BRCT domains
+T39	Protein 1032 1037	BRCA1
+T40	Process 1038 1049	interaction
+T41	Protein 1059 1073	proteins BRIP1
+T42	Protein 1078 1082	CtIP
+T43	Physiology 1106 1116	DNA damage
+T44	Process 1136 1143	control
+T45	Chemical 1195 1214	BRCT phosphopeptide
+T46	Geometrical_part 1223 1229	pocket
+T47	Physiology 1250 1255	tumor
+T48	Process 1256 1267	suppression
+T49	Process 1268 1276	function
+T50	Protein 1280 1285	BRCA1
+T51	Body_part 1335 1340	lines
+T52	Technique 1435 1445	techniques
+T53	Protein 1461 1468	genetic
+T54	Process 1469 1480	segregation
+T55	Technique 1481 1489	analysis
+T56	Unknown 1540 1548	variants
+T57	Protein 1575 1580	genes
+T58	Process 1644 1654	mechanisms

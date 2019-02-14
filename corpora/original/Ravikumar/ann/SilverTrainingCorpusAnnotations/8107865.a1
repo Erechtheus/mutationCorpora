@@ -1,0 +1,29 @@
+T1	Geometrical_part 7 16	structure
+T2	Protein 24 39	MAP kinase ERK2
+T3	Value 43 48	2.3 A
+T4	Parameter 49 59	resolution
+T5	Geometrical_part 65 74	structure
+T6	Protein 82 97	MAP kinase ERK2
+T7	Protein 112 126	protein kinase
+T8	Process 127 133	target
+T9	Process 138 148	regulation
+T10	Protein 152 155	Ras
+T11	Protein 160 163	Raf
+T12	Chemical 188 204	unphosphorylated
+T13	State 218 230	conformation
+T14	Parameter 236 246	resolution
+T15	Value 250 255	2.3 A
+T16	Protein_part 265 272	domains
+T17	Protein 276 297	unphosphorylated ERK2
+T18	State 328 347	active conformation
+T19	Chemical 351 355	cAMP
+T20	Protein 366 380	protein kinase
+T21	Protein_part 389 396	peptide
+T22	Protein_part 405 409	site
+T23	Protein_part 424 436	tyrosine 185
+T24	Protein_part 453 461	residues
+T25	Protein 500 506	enzyme
+T26	Process 508 518	Activation
+T27	Protein 522 526	ERK2
+T28	State 575 589	conformational
+T29	Process 590 597	changes

@@ -1,0 +1,12 @@
+T1	Chemical 0 21	Monocyclic thiophenes
+T2	Protein 25 56	protein tyrosine phosphatase 1B
+T3	Category 57 67	inhibitors
+T4	Process 79 91	interactions
+T5	Protein_part 97 102	Asp48
+T6	Chemical 116 137	monocyclic thiophenes
+T7	Molecule 170 175	PTP1B
+T8	Category 176 186	inhibitors
+T9	Technique 198 214	X-ray co-crystal
+T10	Process 293 305	interactions
+T11	Protein_part 311 316	Asp48
+T12	Molecule 357 362	PTP1B

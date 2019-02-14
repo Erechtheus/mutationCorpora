@@ -1,0 +1,58 @@
+T1	Process 11 16	basis
+T2	Chemical 21 27	sulfur
+T3	Protein 37 40	RNA
+T4	Unknown 69 75	TusBCD
+T5	Category 76 83	complex
+T6	Chemical 85 92	Uridine
+T7	Location 103 114	position 34
+T8	Unknown 118 127	tRNA(Lys)
+T9	Unknown 129 138	tRNA(Glu)
+T10	Unknown 144 153	tRNA(Gln)
+T11	Chemical 183 202	2-thiouridine (s2U)
+T12	Protein_part 239 244	codon
+T13	Process 245 256	recognition
+T14	Process 261 272	recognition
+T15	Protein 288 314	aminoacyl-tRNA synthetases
+T16	Organism 323 339	Escherichia coli
+T17	Protein 340 347	genetic
+T18	Category 374 382	products
+T19	Protein 398 403	genes
+T20	Category 405 413	tusABCDE
+T21	Process 415 423	function
+T22	Chemical 431 434	s2U
+T23	Process 435 447	modification
+T24	Value 469 483	2.15 angstroms
+T25	Geometrical_part 484 501	crystal structure
+T26	Organism 509 516	E. coli
+T27	Unknown 517 523	TusBCD
+T28	Category 524 531	complex
+T29	Chemical 535 541	sulfur
+T30	Process 542 550	transfer
+T31	Unknown 551 559	mediator
+T32	Protein 571 584	heterohexamer
+T33	Protein 599 604	dimer
+T34	Protein 612 624	heterotrimer
+T35	Unknown 626 635	Structure
+T36	Protein_part 642 650	sequence
+T37	Process 651 660	alignment
+T38	Protein_part 684 708	active site Cys residues
+T39	Protein_part 710 715	Cys79
+T40	Unknown 720 724	TusC
+T41	Protein_part 730 735	Cys78
+T42	Protein 740 744	TusD
+T43	Category 772 789	hexameric complex
+T44	Technique 806 814	analyses
+T45	Protein_part 834 839	Cys78
+T46	Protein 848 860	TusD subunit
+T47	Chemical 878 884	sulfur
+T48	Process 885 893	transfer
+T49	Chemical 905 908	s2U
+T50	Process 909 921	modification
+T51	Process 922 929	process
+T52	Protein_part 948 951	Cys
+T53	Protein_part 972 979	residue
+T54	Unknown 998 1004	TusBCD
+T55	Chemical 1014 1020	sulfur
+T56	Chemical 1033 1052	putative persulfide
+T57	State 1053 1058	state
+T58	Protein 1066 1078	TusD subunit

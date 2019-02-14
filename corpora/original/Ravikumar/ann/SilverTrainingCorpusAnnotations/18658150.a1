@@ -1,0 +1,78 @@
+T1	Protein 0 7	SNAP-25
+T2	Category 8 17	substrate
+T3	Protein_part 18 25	peptide
+T4	Protein_part 27 43	residues 180-183
+T5	Process 67 75	cleavage
+T6	Organism 100 121	Clostridium botulinum
+T7	Molecule 122 132	neurotoxin
+T8	Unknown 133 134	E
+T9	Organism 136 157	Clostridium botulinum
+T10	Molecule 158 169	neurotoxins
+T11	Molecule 190 196	toxins
+T12	Organism 200 206	humans
+T13	Process 212 223	recognition
+T14	Process 228 236	cleavage
+T15	Unknown 240 246	SNAREs
+T16	Process 284 292	toxicity
+T17	Geometrical_part 313 330	crystal structure
+T18	Organism 381 389	serotype
+T19	Protein_part 390 408	E catalytic domain
+T20	Protein 410 416	BoNT E
+T21	Category 421 428	complex
+T22	Protein 434 459	SNAP-25 (a SNARE protein)
+T23	Category 460 469	substrate
+T24	Protein_part 470 513	peptide Arg(180)-Ile(181)-Met(182)-Glu(183)
+T25	Protein_part 515 521	P1-P3'
+T26	Protein_part 550 557	peptide
+T27	Chemical 571 584	scissile bond
+T28	Process 607 615	cleavage
+T29	Protein 623 629	enzyme
+T30	Process 647 656	catalysis
+T31	Parameter 669 673	K(i)
+T32	Value 674 698	approximately  69 microm
+T33	Protein_part 715 722	peptide
+T34	Protein_part 736 747	active site
+T35	Protein 751 757	BoNT E
+T36	Molecule 781 789	electron
+T37	Parameter 790 797	density
+T38	Chemical 813 817	zinc
+T39	Protein_part 840 856	residue Tyr(350)
+T40	Protein 864 870	enzyme
+T41	Process 886 893	docking
+T42	Protein_part 897 905	Arg(180)
+T43	Protein_part 907 909	P1
+T44	Chemical 935 950	carbonyl oxygen
+T45	Chemical 983 988	water
+T46	Protein_part 1002 1016	base  Glu(212)
+T47	Protein_part 1017 1027	side chain
+T48	Protein_part 1047 1057	main chain
+T49	Chemical 1058 1063	amino
+T50	Molecular_Part 1064 1069	group
+T51	Protein_part 1073 1075	P1
+T52	Protein_part 1080 1083	P1'
+T53	Protein_part 1095 1103	Arg(347)
+T54	Protein 1107 1113	BoNT E
+T55	Process 1136 1143	docking
+T56	Protein_part 1151 1159	Ile(181)
+T57	Protein_part 1167 1177	main chain
+T58	Protein_part 1225 1236	side chains
+T59	Protein_part 1240 1248	Ile(181)
+T60	Protein_part 1259 1267	Met(182)
+T61	Geometrical_part 1287 1291	loop
+T62	Protein_part 1303 1311	Glu(183)
+T63	Technique 1346 1354	analysis
+T64	Process 1377 1381	role
+T65	Protein_part 1390 1401	P1' residue
+T66	Geometrical_part 1406 1416	S1' pocket
+T67	Category 1428 1437	substrate
+T68	Process 1438 1449	recognition
+T69	Process 1454 1461	docking
+T70	Protein_part 1469 1480	active site
+T71	Parameter 1513 1517	kind
+T72	Category 1539 1548	substrate
+T73	Process 1549 1557	cleavage
+T74	Protein 1570 1576	BoNT E
+T75	Geometrical_part 1596 1605	structure
+T76	Unknown 1643 1652	structure
+T77	Chemical 1659 1663	drug
+T78	Protein 1726 1732	BoNT E

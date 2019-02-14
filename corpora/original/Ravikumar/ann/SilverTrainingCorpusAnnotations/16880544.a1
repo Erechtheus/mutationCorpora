@@ -1,0 +1,84 @@
+T1	Geometrical_part 14 23	structure
+T2	Protein 27 33	Rv2074
+T3	Protein 46 77	pyridoxine 5'-phosphate oxidase
+T4	Physiology 83 109	Mycobacterium tuberculosis
+T5	Value 114 127	1.6 angstroms
+T6	Parameter 128 138	resolution
+T7	Geometrical_part 144 161	crystal structure
+T8	Protein 190 197	protein
+T9	Geometrical_part 228 240	frame Rv2074
+T10	Physiology 246 278	Mycobacterium tuberculosis (Mtb)
+T11	Process 327 337	dispersion
+T12	Process 346 356	Refinement
+T13	Unknown 374 383	structure
+T14	Value 387 400	1.6 angstroms
+T15	Parameter 401 411	resolution
+T16	Parameter 427 434	R(work)
+T17	Value 438 443	0.178
+T18	Parameter 451 458	R(free)
+T19	Value 462 467	0.204
+T20	Unknown 473 480	crystal
+T21	Protein 509 523	Rv2074 monomer
+T22	Technique 538 554	crystallographic
+T23	Value 555 562	twofold
+T24	Geometrical_part 563 571	symmetry
+T25	Geometrical_part 585 607	space group P4(3)2(1)2
+T26	Protein 626 632	Rv2074
+T27	Protein 639 646	monomer
+T28	Geometrical_part 673 685	antiparallel
+T29	Protein_part 686 697	beta-barrel
+T30	Protein_part 713 726	alpha-helices
+T31	Geometrical_part 732 759	three-dimensional structure
+T32	Protein 763 769	Rv2074
+T33	Physiology 797 800	Mtb
+T34	Protein 801 807	Rv1155
+T35	Protein 820 859	pyridoxine 5'-phosphate oxidase (PNPOx)
+T36	Chemical 867 879	corroborates
+T37	Parameter 910 929	sequence similarity
+T38	Value 931 934	52%
+T39	Process 966 976	comparison
+T40	Protein 985 991	Rv2074
+T41	Protein 996 1002	Rv1155
+T42	Unknown 1026 1035	structure
+T43	Protein_part 1052 1063	beta-barrel
+T44	Process 1100 1111	differences
+T45	Protein_part 1139 1141	N-
+T46	Protein_part 1146 1155	C-termini
+T47	Geometrical_part 1173 1180	helical
+T48	Protein_part 1181 1187	domain
+T49	Chemical 1193 1214	citric acid molecules
+T50	Protein_part 1236 1247	active site
+T51	Protein 1251 1257	Rv2074
+T52	Unknown 1263 1271	crystals
+T53	Value 1295 1300	0.2 M
+T54	Chemical 1301 1315	sodium citrate
+T55	Parameter 1323 1325	pH
+T56	Value 1326 1329	5.0
+T57	Chemical 1335 1356	citric acid molecules
+T58	Protein 1370 1376	Rv2074
+T59	Chemical 1380 1388	hydrogen
+T60	Process 1397 1409	interactions
+T61	Protein_part 1415 1420	Thr55
+T62	Protein_part 1422 1427	Gln60
+T63	Protein_part 1432 1437	Lys61
+T64	Chemical 1454 1475	citric acid molecules
+T65	Chemical 1551 1560	phosphate
+T66	Chemical 1565 1577	ribose sugar
+T67	Molecular_Part 1578 1586	moieties
+T68	Chemical 1594 1621	flavin mononucleotide (FMN)
+T69	Physiology 1629 1632	Mtb
+T70	Chemical 1633 1643	Rv1155-FMN
+T71	Organism 1645 1661	Escherichia coli
+T72	Protein 1662 1671	PNPOx-FMN
+T73	Organism 1676 1681	human
+T74	Protein 1682 1691	PNPOx-FMN
+T75	Geometrical_part 1700 1710	structures
+T76	Process 1746 1756	similarity
+T77	Physiology 1762 1765	Mtb
+T78	Protein 1766 1772	Rv1155
+T79	Organism 1784 1791	E. coli
+T80	Organism 1796 1801	human
+T81	Protein 1802 1815	PNPOx enzymes
+T82	Protein 1817 1823	Rv2074
+T83	Process 1865 1877	biosynthesis
+T84	Chemical 1912 1922	vitamin B6

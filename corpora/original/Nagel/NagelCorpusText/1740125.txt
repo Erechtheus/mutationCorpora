@@ -1,0 +1,8 @@
+We have isolated three novel peptides from the aqueous extract of the pars intercerebralis of male and female adults of the insect Locusta migratoria . 
+After extensive HPLC purification, the peptides were characterised by automated Edman degradation and electrospray mass spectrometry: one is a 35-residue peptide (3752.3 +/- 1.1 Da) containing six cysteines involved in three intramolecular disulfide bridges, the second is a 36-residue peptide (3919.2 +/- 0.9 Da), also cross-linked by three intramolecular disulfide bridges . 
+This second peptide is post-translationally modified by a single fucose moiety, which was identified by gas chromatography coupled to mass spectrometry . 
+These two peptides show a strong sequence similarity . 
+Additionally, they were also found in larger amounts in the fat body of Locusta; this finding raises the question of their exact site of synthesis . 
+The third peptide (5776.3 +/- 0.9 Da), a 54-residue peptide cross-linked by six intramolecular disulfide bridges, is structurally related to the two other peptides, but to a lesser extent . 
+Mass spectrometry has shown that all the cysteines within these three peptides are involved in intramolecular disulfide bridges; however, the location of these bridges is not yet established and is currently being investigated . 
+A computer search of sequence data banks did not reveal any significant similarity of these three peptides with other known proteins . 

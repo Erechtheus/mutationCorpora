@@ -1,0 +1,145 @@
+T1	Unknown 0 11	Phe-46(CD4)
+T2	Location 24 30	distal
+T3	Protein_part 31 40	histidine
+T4	Chemical 45 61	hydrogen bonding
+T5	Category 71 78	ligands
+T6	Organism 82 93	sperm whale
+T7	Protein 94 103	myoglobin
+T8	Process 109 113	role
+T9	Unknown 117 128	Phe-46(CD4)
+T10	Parameter 158 168	properties
+T11	Organism 172 183	sperm whale
+T12	Protein 184 193	myoglobin
+T13	Protein_part 229 236	residue
+T14	Protein_part 242 245	Leu
+T15	Protein_part 247 250	Ile
+T16	Protein_part 252 255	Val
+T17	Protein_part 257 260	Ala
+T18	Protein_part 262 265	Trp
+T19	Protein_part 267 270	Tyr
+T20	Protein_part 276 279	Glu
+T21	Protein_part 303 313	amino acid
+T22	Process 334 341	contact
+T23	Location 351 357	distal
+T24	Protein_part 358 367	histidine
+T25	Category 402 408	ligand
+T26	Process 409 416	binding
+T27	Process 430 441	association
+T28	Parameter 442 456	rate constants
+T29	Unknown 461 463	CO
+T30	Chemical 465 467	O2
+T31	Unknown 473 475	NO
+T32	Process 476 483	binding
+T33	Parameter 523 527	size
+T34	Protein_part 531 541	residue 46
+T35	Protein_part 557 560	Phe
+T36	Protein_part 564 567	Leu
+T37	Protein_part 571 574	Val
+T38	Protein_part 578 581	Ala
+T39	Parameter 600 605	rates
+T40	Unknown 609 611	CO
+T41	Chemical 613 615	O2
+T42	Unknown 621 623	NO
+T43	Process 624 636	dissociation
+T44	Value 647 649	4-
+T45	Value 651 654	10-
+T46	Value 660 667	25-fold
+T47	Molecule 706 713	mutants
+T48	Process 729 738	decreases
+T49	Parameter 746 754	affinity
+T50	Protein 758 767	myoglobin
+T51	Protein 791 796	gases
+T52	Parameter 802 807	rates
+T53	Process 811 824	autooxidation
+T54	Value 828 840	37 degrees C
+T55	Parameter 842 844	pH
+T56	Value 845 848	7.0
+T57	Value 894 902	-0.3 h-1
+T58	Protein_part 918 924	Tyr-46
+T59	Protein 930 947	Trp-46 myoglobins
+T60	Value 951 954	1.5
+T61	Value 956 959	5.2
+T62	Value 961 964	4.9
+T63	Value 970 977	5.0 h-1
+T64	Protein_part 986 992	Leu-46
+T65	Protein_part 994 1000	Ile-46
+T66	Protein_part 1002 1008	Val-46
+T67	Protein_part 1013 1019	Ala-46
+T68	Molecule 1020 1027	mutants
+T69	Parameter 1043 1048	Rates
+T70	Unknown 1052 1054	NO
+T71	Chemical 1059 1061	O2
+T72	Process 1071 1084	recombination
+T73	Value 1105 1110	35 ps
+T74	Value 1115 1119	9 ns
+T75	Technique 1120 1125	laser
+T76	Process 1126 1136	excitation
+T77	Parameter 1137 1143	pulses
+T78	Parameter 1160 1164	size
+T79	Protein_part 1168 1178	residue 46
+T80	Process 1198 1207	decreases
+T81	Process 1266 1275	processes
+T82	Parameter 1282 1292	resolution
+T83	Geometrical_part 1293 1303	structures
+T84	Protein_part 1307 1313	Leu-46
+T85	Protein 1318 1338	Val-46 metmyoglobins
+T86	Protein 1340 1359	Val-46 CO-myoglobin
+T87	Protein 1365 1386	Val-46 deoxymyoglobin
+T88	Technique 1406 1427	X-ray crystallography
+T89	Protein_part 1434 1440	Phe-46
+T90	Protein_part 1456 1459	Val
+T91	Process 1465 1469	loss
+T92	Location 1473 1481	internal
+T93	Process 1482 1489	packing
+T94	Parameter 1490 1496	volume
+T95	Process 1519 1530	contraction
+T96	Unknown 1538 1540	CD
+T97	Protein 1571 1578	protein
+T98	Process 1584 1592	movement
+T99	Protein_part 1601 1608	E-helix
+T100	Process 1620 1628	mutation
+T101	Protein_part 1629 1633	site
+T102	Process 1647 1655	exposure
+T103	Location 1663 1669	distal
+T104	Geometrical_part 1670 1676	pocket
+T105	Chemical 1690 1707	solvent molecules
+T106	Physiology 1723 1731	disorder
+T107	Protein_part 1755 1765	side chain
+T108	Location 1773 1779	distal
+T109	Protein_part 1780 1789	histidine
+T110	Protein_part 1791 1797	His-64
+T111	Protein 1803 1822	wild-type myoglobin
+T112	Unknown 1828 1841	van der Waals
+T113	Chemical 1858 1864	C zeta
+T114	Protein_part 1868 1874	Phe-46
+T115	Chemical 1879 1885	C beta
+T116	Protein_part 1889 1895	His-64
+T117	Process 1916 1924	rotation
+T118	Chemical 1932 1941	imidazole
+T119	Protein_part 1942 1952	side chain
+T120	Process 1954 1963	Insertion
+T121	Protein_part 1967 1970	Val
+T122	Location 1974 1985	position 46
+T123	Geometrical_part 2000 2006	steric
+T124	Process 2007 2018	restriction
+T125	Chemical 2033 2042	imidazole
+T126	Protein_part 2043 2053	side chain
+T127	Protein 2074 2082	C  alpha
+T128	Chemical 2087 2096	beta bond
+T129	Geometrical_part 2108 2115	surface
+T130	Protein 2123 2129	globin
+T131	Protein 2144 2150	C beta
+T132	Chemical 2155 2165	gamma bond
+T133	Protein_part 2217 2223	Phe-46
+T134	Protein_part 2224 2234	side chain
+T135	Process 2242 2250	movement
+T136	Chemical 2260 2276	hydrogen bonding
+T137	Category 2288 2295	ligands
+T138	Process 2317 2326	decreases
+T139	Parameter 2330 2338	affinity
+T140	Location 2354 2360	distal
+T141	Geometrical_part 2361 2367	pocket
+T142	Chemical 2371 2394	solvent water molecules
+T143	Process 2411 2420	increases
+T144	Parameter 2428 2432	rate
+T145	Process 2436 2449	autooxidation

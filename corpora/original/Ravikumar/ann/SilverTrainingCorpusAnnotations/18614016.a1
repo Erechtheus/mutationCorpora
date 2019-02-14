@@ -1,0 +1,45 @@
+T1	Process 11 16	basis
+T2	Process 25 36	recognition
+T3	Protein 40 45	c-Src
+T4	Protein 65 68	Csk
+T5	Parameter 84 92	activity
+T6	Protein 100 110	Src family
+T7	Protein 114 130	tyrosine kinases
+T8	Process 148 163	phosphorylation
+T9	Protein_part 169 185	tyrosine residue
+T10	Protein_part 203 213	C terminus
+T11	Protein_part 215 222	Tyr 527
+T12	Protein 226 231	c-Src
+T13	Protein 256 283	C-terminal Src Kinase (Csk)
+T14	Protein 316 332	tyrosine kinases
+T15	Protein_part 360 376	C-terminal tails
+T16	Protein 384 402	Src family kinases
+T17	Process 422 429	targets
+T18	Protein 433 436	Csk
+T19	Geometrical_part 461 479	crystal  structure
+T20	Category 485 492	complex
+T21	Protein 505 511	kinase
+T22	Protein_part 512 519	domains
+T23	Protein 523 526	Csk
+T24	Protein 531 536	c-Src
+T25	Value 540 545	2.9 A
+T26	Parameter 546 556	resolution
+T27	Process 573 585	interactions
+T28	Protein 600 607	kinases
+T29	Protein_part 621 636	C-terminal tail
+T30	Protein 640 645	c-Src
+T31	Protein_part 665 676	active site
+T32	Protein 680 683	Csk
+T33	Protein 685 688	Csk
+T34	Category 710 720	substrates
+T35	Process 736 743	docking
+T36	Process 744 753	mechanism
+T37	Category 779 788	substrate
+T38	Process 789 796	binding
+T39	Protein_part 797 801	site
+T40	Protein 815 831	tyrosine kinases
+T41	Category 845 855	substrates
+T42	Protein 875 878	Csk
+T43	Process 884 892	deletion
+T44	Process 900 910	activation
+T45	Geometrical_part 911 915	loop

@@ -1,0 +1,61 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Molecule 25 34	DsbB-DsbA
+T3	Category 35 42	complex
+T4	Process 53 62	mechanism
+T5	Chemical 66 80	disulfide bond
+T6	Process 82 92	generation
+T7	Process 94 103	Oxidation
+T8	Protein_part 107 115	cysteine
+T9	Chemical 125 134	disulfide
+T10	Protein 144 160	cellular factors
+T11	Organism 176 185	bacterial
+T12	Location 186 197	periplasmic
+T13	Protein 205 209	DsbB
+T14	Organism 216 223	E. coli
+T15	Protein 224 240	membrane protein
+T16	Protein 255 259	DsbA
+T17	Location 263 274	periplasmic
+T18	Protein 275 290	dithiol oxidase
+T19	Process 300 307	insight
+T20	Chemical 313 327	disulfide bond
+T21	Process 328 337	formation
+T22	Geometrical_part 357 374	crystal structure
+T23	Molecule 382 391	DsbB-DsbA
+T24	Category 392 399	complex
+T25	Value 403 408	3.7 A
+T26	Parameter 410 420	resolution
+T27	Geometrical_part 426 435	structure
+T28	Protein 439 443	DsbB
+T29	Body_part 458 471	transmembrane
+T30	Protein_part 472 479	helices
+T31	Protein_part 505 510	helix
+T32	Protein_part 527 533	Cys130
+T33	Location 548 559	periplasmic
+T34	Geometrical_part 560 564	loop
+T35	Protein 574 578	DsbB
+T36	State 594 599	state
+T37	Chemical 611 634	Cys104-Cys130 disulfide
+T38	Protein_part 636 642	Cys104
+T39	Category 657 664	complex
+T40	Chemical 698 712	disulfide bond
+T41	Geometrical_part 745 751	groove
+T42	Molecule 755 759	DsbA
+T43	Process 774 784	separation
+T44	Protein_part 790 796	Cys130
+T45	Protein_part 803 811	cysteine
+T46	Process 812 822	relocation
+T47	Parameter 845 855	resolution
+T48	Category 863 870	complex
+T49	Protein_part 882 888	Cys130
+T50	Chemical 918 927	disulfide
+T51	Process 939 947	reaction
+T52	Protein_part 967 972	Cys41
+T53	Protein_part 974 979	Cys44
+T54	Protein_part 981 986	Arg48
+T55	Chemical 992 1002	ubiquinone
+T56	Protein 1020 1024	DsbB
+T57	Category 1055 1064	substrate
+T58	Molecule 1066 1070	DsbA
+T59	Protein 1077 1098	superoxidizing enzyme
+T60	Chemical 1111 1120	oxidizing
+T61	Protein 1136 1153	oxidizing oxidase

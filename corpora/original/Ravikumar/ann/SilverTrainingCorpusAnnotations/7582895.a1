@@ -1,0 +1,82 @@
+T1	Organism 71 93	gram-positive bacteria
+T2	Protein 99 142	histidine-containing phosphocarrier protein
+T3	Geometrical_part 160 188	three-dimensional structures
+T4	Protein 192 241	histidine-containing phosphocarrier protein (HPr)
+T5	Unknown 245 251	member
+T6	Chemical 259 284	phosphoenolpyruvate:sugar
+T7	Body_part 285 316	phosphotransferase system (PTS)
+T8	Organism 344 348	Gram
+T9	Organism 362 384	Gram-positive bacteria
+T10	Geometrical_part 390 399	structure
+T11	Protein 403 406	HPr
+T12	Organism 425 446	Mycoplasma capricolum
+T13	Protein 460 467	protein
+T14	Geometrical_part 468 477	structure
+T15	Organism 513 521	organism
+T16	Organism 563 572	bacterial
+T17	Protein 573 581	proteins
+T18	Unknown 592 610	sequence-structure
+T19	Process 611 623	correlations
+T20	Geometrical_part 705 722	crystal structure
+T21	Protein 726 729	HPr
+T22	Organism 735 748	M. capricolum
+T23	Value 784 789	1.8 A
+T24	Parameter 790 800	resolution
+T25	Geometrical_part 829 833	fold
+T26	Protein 851 855	HPrs
+T27	Unknown 865 874	structure
+T28	Protein 896 899	HPr
+T29	Protein 911 915	HPrs
+T30	Organism 921 943	Gram-positive bacteria
+T31	Organism 973 995	Gram-negative bacteria
+T32	Protein 1003 1007	HPrs
+T33	Organism 1013 1030	Bacillus subtilis
+T34	Organism 1035 1051	Escherichia coli
+T35	Chemical 1057 1067	phosphoryl
+T36	Molecular_Part 1069 1074	group
+T37	Molecule 1075 1082	carrier
+T38	Protein_part 1084 1089	His15
+T39	Protein_part 1101 1111	N-terminal
+T40	Protein_part 1121 1126	helix
+T41	Geometrical_part 1157 1175	crystal structures
+T42	Protein_part 1181 1191	side chain
+T43	Location 1199 1207	adjacent
+T44	Protein_part 1208 1213	Arg17
+T45	Chemical 1248 1259	sulfate ion
+T46	Protein_part 1275 1280	Ser46
+T47	Protein_part 1284 1291	residue
+T48	Process 1390 1400	similarity
+T49	Organism 1408 1421	M. capricolum
+T50	Protein 1422 1425	HPr
+T51	Protein 1429 1433	HPrs
+T52	Unknown 1439 1443	Gram
+T53	Organism 1466 1488	Gram-negative bacteria
+T54	Organism 1550 1572	Gram-positive bacteria
+T55	State 1601 1615	conformational
+T56	Process 1616 1626	transition
+T57	Process 1643 1658	phosphorylation
+T58	Protein_part 1666 1687	active-site histidine
+T59	Geometrical_part 1719 1737	crystal structures
+T60	Chemical 1758 1763	anion
+T61	Protein_part 1771 1782	active site
+T62	State 1788 1802	conformational
+T63	Physiology 1803 1811	disorder
+T64	Protein_part 1819 1824	Arg17
+T65	Protein_part 1825 1835	side chain
+T66	Chemical 1854 1865	guanidinium
+T67	Molecular_Part 1866 1871	group
+T68	Process 1903 1915	interactions
+T69	Protein 1927 1934	protein
+T70	Molecular_Part 1935 1941	groups
+T71	Process 1949 1964	phosphorylation
+T72	Protein_part 1968 1973	His15
+T73	Process 1979 1990	association
+T74	Chemical 1996 2007	sulfate ion
+T75	Protein_part 2014 2019	Ser46
+T76	Protein 2042 2054	HPr(Ser46-P)
+T77	State 2085 2099	conformational
+T78	Process 2100 2106	change
+T79	Protein_part 2120 2125	Ser46
+T80	Process 2126 2141	phosphorylation
+T81	Process 2158 2164	effect
+T82	Geometrical_part 2210 2217	surface

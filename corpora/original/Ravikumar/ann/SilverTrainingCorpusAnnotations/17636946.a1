@@ -1,0 +1,60 @@
+T1	Category 14 24	inhibitors
+T2	Protein 28 55	methionine aminopeptidase-2
+T3	Chemical 67 81	1,2,4-triazole
+T4	Process 113 122	screening
+T5	Category 127 137	inhibitors
+T6	Organism 145 150	human
+T7	Protein 151 166	metalloprotease
+T8	Protein 168 204	methionine aminopeptidase-2 (MetAP2)
+T9	Chemical 235 282	3-anilino-5-benzylthio-1,2,4-triazole compounds
+T10	Technique 294 299	array
+T11	Process 315 324	synthesis
+T12	Chemical 328 337	triazoles
+T13	Unknown 351 354	SAR
+T14	Process 355 366	development
+T15	Chemical 378 385	aniline
+T16	Chemical 387 397	benzylthio
+T17	Chemical 403 411	triazole
+T18	Process 422 432	Evaluation
+T19	Unknown 442 449	analogs
+T20	Organism 455 460	human
+T21	Protein 461 475	MetAP2  enzyme
+T22	Technique 476 481	assay
+T23	Process 493 507	identification
+T24	Category 519 529	inhibitors
+T25	Value 552 568	50-100 picomolar
+T26	Process 592 599	effects
+T27	Category 603 612	inhibitor
+T28	Process 624 635	methylation
+T29	Chemical 643 669	anilino-triazole nitrogens
+T30	Technique 686 709	X-ray crystal structure
+T31	Chemical 713 721	triazole
+T32	Protein_part 739 750	active site
+T33	Protein 754 760	MetAP2
+T34	Process 778 790	interactions
+T35	Chemical 803 821	triazole nitrogens
+T36	Protein_part 827 838	active site
+T37	Chemical 839 851	cobalt atoms
+T38	Protein_part 861 879	His-231 side-chain
+T39	Unknown 885 894	structure
+T40	Unknown 942 945	SAR
+T41	Chemical 957 972	triazole series
+T42	Chemical 978 985	aniline
+T43	Chemical 987 1004	2-isopropylphenyl
+T44	Chemical 1011 1030	sulfur substituents
+T45	Chemical 1032 1045	furanylmethyl
+T46	Technique 1065 1076	SAR studies
+T47	Process 1088 1102	identification
+T48	Category 1113 1123	inhibitors
+T49	Body_part 1141 1157	endothelial cell
+T50	Process 1158 1171	proliferation
+T51	Chemical 1173 1182	Triazoles
+T52	Parameter 1210 1214	dose
+T53	Parameter 1225 1233	activity
+T54	Body_part 1240 1246	aortic
+T55	Geometrical_part 1247 1251	ring
+T56	Body_part 1252 1258	tissue
+T57	Physiology 1268 1280	angiogenesis
+T58	Protein 1319 1325	MetAP2
+T59	Category 1326 1336	inhibitors
+T60	Physiology 1340 1350	anticancer

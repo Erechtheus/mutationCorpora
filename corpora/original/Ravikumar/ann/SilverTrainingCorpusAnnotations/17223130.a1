@@ -1,0 +1,87 @@
+T1	Process 0 13	Stabilization
+T2	Organism 17 27	poliovirus
+T3	Protein 28 38	polymerase
+T4	Chemical 42 45	NTP
+T5	Process 46 53	binding
+T6	Body_part 58 71	fingers-thumb
+T7	Process 72 84	interactions
+T8	Organism 90 95	viral
+T9	Protein 96 125	RNA-dependent RNA polymerases
+T10	Unknown 143 152	structure
+T11	Body_part 163 170	fingers
+T12	Protein_part 171 177	domain
+T13	Body_part 208 213	thumb
+T14	Protein_part 214 220	domain
+T15	Geometrical_part 233 239	tunnel
+T16	Chemical 254 278	nucleotide triphosphates
+T17	Protein_part 289 300	active site
+T18	Geometrical_part 322 340	crystal structures
+T19	Organism 344 354	poliovirus
+T20	Protein 355 375	polymerase (3D(pol))
+T21	Category 379 386	complex
+T22	Chemical 401 405	NTPs
+T23	Protein_part 460 464	site
+T24	Chemical 475 484	phosphate
+T25	Molecular_Part 485 491	groups
+T26	Protein_part 524 535	active site
+T27	Chemical 541 545	NTPs
+T28	Body_part 569 576	fingers
+T29	Body_part 581 585	palm
+T30	Protein_part 586 593	domains
+T31	Process 612 624	interactions
+T32	State 652 669	thermal stability
+T33	Protein 673 680	3D(pol)
+T34	Process 688 696	presence
+T35	Chemical 700 704	NTPs
+T36	Process 732 742	importance
+T37	Body_part 750 763	fingers-thumb
+T38	Protein_part 764 770	domain
+T39	Process 771 782	interaction
+T40	Process 791 799	function
+T41	State 815 824	stability
+T42	Protein 828 835	3D(pol)
+T43	Process 850 870	thermal denaturation
+T44	Process 871 882	experiments
+T45	Technique 889 907	circular dichroism
+T46	Chemical 912 950	2-anilino-6-napthaline-sulfonate (ANS)
+T47	Technique 951 963	fluorescence
+T48	Protein 974 981	3D(pol)
+T49	Parameter 988 1007	melting temperature
+T50	Value 1016 1042	approximately 40 degrees C
+T51	Chemical 1044 1047	NTP
+T52	Process 1048 1055	binding
+T53	Protein 1071 1078	protein
+T54	Value 1108 1121	5-6 degrees C
+T55	Process 1128 1137	mutations
+T56	Body_part 1145 1158	fingers-thumb
+T57	Protein_part 1159 1165	domain
+T58	Protein 1192 1199	protein
+T59	Value 1243 1254	6 degrees C
+T60	Protein_part 1285 1290	Phe30
+T61	Protein_part 1295 1300	Phe34
+T62	Geometrical_part 1310 1313	tip
+T63	Body_part 1321 1333	index finger
+T64	Geometrical_part 1341 1347	pocket
+T65	Body_part 1366 1371	thumb
+T66	Process 1380 1388	presence
+T67	Protein_part 1392 1398	Trp403
+T68	Body_part 1406 1411	thumb
+T69	Protein_part 1412 1418	domain
+T70	Process 1427 1439	interactions
+T71	Protein 1493 1503	polymerase
+T72	Body_part 1526 1533	fingers
+T73	Protein_part 1534 1540	domain
+T74	State 1557 1571	conformational
+T75	Body_part 1622 1629	globule
+T76	State 1630 1635	state
+T77	Parameter 1653 1664	temperature
+T78	Process 1670 1674	role
+T79	Protein_part 1691 1708	active site motif
+T80	Geometrical_part 1725 1733	scaffold
+T81	Body_part 1756 1763	fingers
+T82	Protein_part 1764 1770	domain
+T83	State 1789 1803	conformational
+T84	Process 1804 1811	changes
+T85	Protein 1815 1822	3D(pol)
+T86	Organism 1834 1839	viral
+T87	Protein 1840 1851	polymerases

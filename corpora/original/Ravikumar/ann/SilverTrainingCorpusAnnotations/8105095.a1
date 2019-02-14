@@ -1,0 +1,102 @@
+T1	Process 0 4	Role
+T2	Protein_part 8 14	Arg115
+T3	Process 22 38	catalytic action
+T4	Organism 42 47	human
+T5	Protein 48 56	lysozyme
+T6	Molecule 58 63	X-ray
+T7	Geometrical_part 64 73	structure
+T8	Protein_part 77 83	His115
+T9	Protein_part 88 94	Glu115
+T10	Molecule 95 102	mutants
+T11	Unknown 108 117	structure
+T12	Protein 130 151	human lysozymes (HLs)
+T13	Protein_part 162 168	Arg115
+T14	Protein_part 184 187	His
+T15	Protein_part 191 194	Glu
+T16	Technique 221 235	X-ray analysis
+T17	Value 239 245	1.77 A
+T18	Parameter 246 256	resolution
+T19	Process 262 270	mutation
+T20	Protein_part 278 291	115th residue
+T21	Protein_part 295 298	His
+T22	Unknown 328 337	structure
+T23	Process 356 392	root-mean-square deviation (r.m.s.d)
+T24	Value 396 402	0.14 A
+T25	Process 411 424	superposition
+T26	Chemical 439 452	C alpha atoms
+T27	Protein 461 470	His115 HL
+T28	Protein 475 487	wild-type HL
+T29	Process 521 529	r.m.s.d.
+T30	Parameter 530 535	value
+T31	Protein 540 549	Glu115 HL
+T32	Value 553 559	0.38 A
+T33	Value 622 627	0.2 A
+T34	Process 629 637	Movement
+T35	Unknown 654 663	structure
+T36	Protein_part 683 689	region
+T37	Protein_part 693 705	residues 100
+T38	Protein_part 709 712	130
+T39	Process 728 736	r.m.s.d.
+T40	Parameter 737 742	value
+T41	Value 746 752	0.61 A
+T42	Process 767 776	deviation
+T43	Value 780 786	1.46 A
+T44	Protein_part 791 797	Arg119
+T45	Process 813 821	movement
+T46	Protein_part 846 852	region
+T47	Protein_part 856 867	residues 45
+T48	Protein_part 871 873	50
+T49	Location 909 913	side
+T50	Protein_part 921 927	region
+T51	Protein_part 931 943	residues 100
+T52	Protein_part 947 950	120
+T53	Protein_part 971 982	active site
+T54	Geometrical_part 983 988	cleft
+T55	Protein_part 1007 1018	active site
+T56	Geometrical_part 1019 1024	cleft
+T57	Protein 1028 1037	Glu115 HL
+T58	Geometrical_part 1059 1064	cleft
+T59	Protein 1068 1077	His115 HL
+T60	Protein 1081 1093	wild-type HL
+T61	Process 1111 1117	change
+T62	Parameter 1172 1180	activity
+T63	Protein 1184 1193	Glu115 HL
+T64	Process 1202 1208	change
+T65	Parameter 1226 1234	property
+T66	Process 1248 1258	hydrolysis
+T67	Chemical 1262 1278	oligosaccharides
+T68	Process 1284 1295	replacement
+T69	Protein_part 1299 1305	Arg115
+T70	Protein_part 1309 1312	Glu
+T71	Parameter 1325 1344	charge distribution
+T72	Molecule 1352 1360	molecule
+T73	Process 1370 1376	change
+T74	Parameter 1398 1403	field
+T75	Process 1421 1433	interactions
+T76	Protein_part 1440 1448	residues
+T77	Protein_part 1454 1464	side-chain
+T78	Molecular_Part 1465 1470	group
+T79	Protein_part 1474 1480	His115
+T80	Protein_part 1485 1491	Glu115
+T81	Chemical 1518 1524	indole
+T82	Molecular_Part 1525 1531	moiety
+T83	Protein_part 1535 1540	Trp34
+T84	Chemical 1550 1558	carboxyl
+T85	Molecular_Part 1559 1564	group
+T86	Protein_part 1568 1574	Glu115
+T87	Location 1578 1587	laterally
+T88	Chemical 1627 1633	indole
+T89	Molecular_Part 1634 1640	moiety
+T90	Chemical 1646 1663	carboxylate anion
+T91	Protein_part 1667 1673	Glu115
+T92	Process 1714 1721	contact
+T93	Molecular_Part 1736 1742	groups
+T94	Parameter 1766 1771	force
+T95	Process 1791 1797	change
+T96	Process 1824 1830	change
+T97	Process 1852 1860	mutation
+T98	Protein_part 1875 1881	Arg115
+T99	Protein_part 1891 1898	residue
+T100	Geometrical_part 1918 1927	structure
+T101	Protein_part 1935 1946	active site
+T102	Geometrical_part 1947 1952	cleft

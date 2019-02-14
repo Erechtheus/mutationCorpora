@@ -1,0 +1,92 @@
+T1	Protein 4 26	MntC crystal structure
+T2	Process 41 47	import
+T3	Chemical 51 55	Mn2+
+T4	Organism 59 72	cyanobacteria
+T5	Protein 98 110	MntC protein
+T6	Location 118 129	periplasmic
+T7	Chemical 130 136	solute
+T8	Protein 145 152	protein
+T9	Protein_part 153 162	component
+T10	Chemical 184 197	manganese ATP
+T11	Process 220 229	transport
+T12	Unknown 230 236	system
+T13	Organism 244 258	cyanobacterium
+T14	Unknown 259 275	Synechocytis PCC
+T15	Unknown 309 318	structure
+T16	Protein 334 338	MntC
+T17	Value 342 347	2.9 A
+T18	Parameter 348 358	resolution
+T19	Technique 362 383	X-ray crystallography
+T20	Process 434 445	diffraction
+T21	Process 450 471	molecular replacement
+T22	Process 477 485	presence
+T23	Chemical 489 493	Mn2+
+T24	Chemical 501 510	metal ion
+T25	Protein_part 519 523	site
+T26	Process 560 570	difference
+T27	Molecule 571 579	electron
+T28	Parameter 580 587	density
+T29	Process 599 610	diffraction
+T30	Chemical 633 635	Mn
+T31	Process 636 646	absorption
+T32	Protein 657 669	MntC protein
+T33	Chemical 706 715	metal ion
+T34	Chemical 725 731	solute
+T35	Protein 740 748	proteins
+T36	Protein_part 758 774	globular domains
+T37	Protein_part 800 811	alpha-helix
+T38	Chemical 826 835	metal ion
+T39	Protein_part 844 848	site
+T40	Protein_part 894 902	residues
+T41	Protein_part 904 910	Glu220
+T42	Protein_part 915 921	Asp295
+T43	Chemical 946 949	ion
+T44	Protein_part 963 981	histidine residues
+T45	Protein_part 983 988	His89
+T46	Protein_part 993 999	His154
+T47	Protein 1033 1037	MntC
+T48	Process 1045 1054	existence
+T49	Chemical 1060 1074	disulfide bond
+T50	Protein_part 1083 1089	Cys219
+T51	Protein_part 1094 1100	Cys268
+T52	Technique 1102 1110	Analysis
+T53	Protein_part 1115 1135	amino acid sequences
+T54	Protein 1139 1158	homologous proteins
+T55	Process 1170 1182	conservation
+T56	Protein_part 1190 1207	cysteine residues
+T57	Chemical 1220 1234	disulfide bond
+T58	Organism 1250 1264	cyanobacterial
+T59	Chemical 1265 1281	manganese solute
+T60	Protein 1290 1298	proteins
+T61	Protein 1311 1319	monomers
+T62	Protein 1327 1331	MntC
+T63	Protein 1348 1354	trimer
+T64	Protein_part 1390 1405	globular domain
+T65	Chemical 1421 1435	disulfide bond
+T66	Molecule 1441 1449	electron
+T67	Parameter 1450 1457	density
+T68	Chemical 1465 1478	manganese ion
+T69	Chemical 1490 1504	disulfide bond
+T70	Protein 1513 1520	monomer
+T71	Process 1536 1545	reduction
+T72	Chemical 1554 1558	bond
+T73	Protein_part 1602 1608	domain
+T74	Protein_part 1620 1626	Glu220
+T75	Category 1627 1633	ligand
+T76	Parameter 1660 1668	affinity
+T77	Chemical 1677 1681	Mn2+
+T78	Process 1704 1713	reduction
+T79	Chemical 1721 1735	disulfide bond
+T80	Process 1758 1765	release
+T81	Chemical 1775 1779	Mn2+
+T82	Process 1801 1810	reduction
+T83	State 1814 1829	oxidation state
+T84	Chemical 1837 1851	disulfide bond
+T85	Parameter 1866 1882	binding affinity
+T86	Protein 1890 1897	protein
+T87	Chemical 1906 1910	Mn2+
+T88	Chemical 1944 1948	ions
+T89	Body_part 1978 1987	cytoplasm
+T90	Unknown 2009 2023	photosystem II
+T91	Physiology 2024 2034	biogenesis
+T92	Body_part 2042 2051	periplasm

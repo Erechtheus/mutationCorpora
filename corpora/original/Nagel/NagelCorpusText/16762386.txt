@@ -1,0 +1,12 @@
+The soluble venom from the scorpion Androctonus crassicauda was fractionated by high performance liquid chromatography . 
+At least 44 different sub-fractions were resolved and collected for finger print mass analysis using an electrospray mass spectrometer . 
+This analysis revealed the presence of 80 distinct molecular mass components, from which five were further characterized . 
+A peptide, named Acra1 was fully sequenced . 
+It contains 58 amino acid residues cross-bridged by six cysteines forming three disulfide pairs, with a molecular mass of 6497 Da . 
+A second purified peptide named Acra2 was partially sequenced with a molecular mass of 7849 Da . 
+Acra1 is toxic and Acra2 is lethal to mice, at the dose assayed . 
+Additionally, a cDNA library of the venomous gland of one specimen was prepared and several clones were obtained among which is one that codes for Acra1 . 
+Three analog gene sequences were found with point mutations either in the section that corresponds to the mature peptide or to the signal peptide . 
+The signal peptide is 22 amino acid residues long . 
+Several other gene sequences obtained suggest the presence in this venom of three distinct groups of peptides, among which are peptides similar to known Na(+)-channel specific toxins of other scorpions . 
+A new type of peptide was identified with odd number of cysteines (seven), allowing the formation of heterodimers with molecular masses in the range of 16,000 atomic mass units (a.m.u.) . 

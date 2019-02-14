@@ -1,0 +1,67 @@
+T1	Body_part 0 19	Membrane structures
+T2	Process 27 37	hemifusion
+T3	Process 47 53	fusion
+T4	Protein_part 54 61	peptide
+T5	Protein_part 62 72	mutant G1S
+T6	Process 82 88	fusion
+T7	Protein_part 98 108	mutant G1V
+T8	Physiology 112 121	influenza
+T9	Organism 122 127	virus
+T10	Protein 128 141	hemagglutinin
+T11	Process 152 161	mechanism
+T12	Body_part 166 178	pore opening
+T13	Body_part 182 190	membrane
+T14	Process 191 197	fusion
+T15	Physiology 199 208	Influenza
+T16	Organism 209 214	virus
+T17	Protein 215 233	hemagglutinin (HA)
+T18	Body_part 243 251	membrane
+T19	Process 252 258	fusion
+T20	State 277 291	conformational
+T21	Process 292 298	change
+T22	Unknown 315 316	V
+T23	Protein_part 336 349	fusion domain
+T24	Process 355 361	fusion
+T25	Protein_part 362 369	peptide
+T26	Chemical 380 393	lipid bilayer
+T27	Process 401 407	target
+T28	Body_part 408 416	membrane
+T29	Protein_part 427 445	N-terminal residue
+T30	Protein_part 454 460	domain
+T31	Chemical 464 471	glycine
+T32	Protein 526 528	HA
+T33	Process 529 537	function
+T34	Protein 539 542	G1S
+T35	Protein 547 561	G1V mutant HAs
+T36	Process 568 578	hemifusion
+T37	Process 591 597	fusion
+T38	Parameter 643 653	resolution
+T39	Unknown 654 664	structures
+T40	Protein_part 672 675	G1S
+T41	Protein_part 680 690	G1V mutant
+T42	Protein_part 691 705	fusion domains
+T43	Body_part 709 717	membrane
+T44	Process 718 730	environments
+T45	Protein_part 732 735	G1S
+T46	Unknown 744 745	V
+T47	Chemical 763 771	"glycine
+T48	Protein_part 785 795	N-terminal
+T49	Body_part 796 799	arm
+T50	Protein_part 804 807	G1V
+T51	Geometrical_part 841 858	helical structure
+T52	Body_part 862 871	membranes
+T53	Process 873 884	Abolishment
+T54	Protein_part 900 903	G1V
+T55	Process 935 946	penetration
+T56	Chemical 954 967	lipid bilayer
+T57	Unknown 1004 1019	beta-structures
+T58	Body_part 1027 1035	membrane
+T59	Geometrical_part 1036 1043	surface
+T60	Process 1084 1094	importance
+T61	Process 1114 1120	fusion
+T62	Protein_part 1121 1128	peptide
+T63	Process 1154 1158	role
+T64	Chemical 1167 1185	N-terminal glycine
+T65	Organism 1195 1200	viral
+T66	Body_part 1201 1209	membrane
+T67	Process 1210 1216	fusion

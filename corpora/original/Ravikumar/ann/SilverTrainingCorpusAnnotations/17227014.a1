@@ -1,0 +1,63 @@
+T1	Process 0 6	Effect
+T2	Chemical 14 24	methionine
+T3	Category 25 31	ligand
+T4	Process 39 53	reorganization
+T5	Parameter 54 60	energy
+T6	Protein_part 68 86	type-1 copper site
+T7	Protein 90 107	nitrite reductase
+T8	Chemical 109 115	Copper
+T9	Protein 127 144	nitrite reductase
+T10	Protein_part 155 161	type-1
+T11	Protein_part 168 182	type-2 Cu site
+T12	Molecule 207 215	electron
+T13	Category 216 224	acceptor
+T14	Protein_part 225 229	site
+T15	Protein 237 243	enzyme
+T16	Protein_part 267 271	site
+T17	Process 275 291	catalytic action
+T18	Process 297 303	effect
+T19	Chemical 311 321	methionine
+T20	Category 322 328	ligand
+T21	Process 336 350	reorganization
+T22	Parameter 351 357	energy
+T23	Protein_part 365 376	type-1 site
+T24	Parameter 424 432	kinetics
+T25	Protein 441 444	NiR
+T26	Protein 446 459	wild type (wt
+T27	Protein_part 469 487	variants Met150Gly
+T28	Protein_part 492 501	Met150Thr
+T29	Unknown 508 518	Fe(II)EDTA
+T30	Unknown 523 534	Fe(II)HEDTA
+T31	Process 540 549	mutations
+T32	Process 564 578	reorganization
+T33	Parameter 579 585	energy
+T34	Value 589 595	0.3 eV
+T35	Value 597 608	30 kJ mol-1
+T36	Process 621 629	increase
+T37	Parameter 646 651	pulse
+T38	Process 652 662	radiolysis
+T39	Process 663 674	experiments
+T40	Protein 682 688	wt NIR
+T41	Unknown 699 707	variants
+T42	Protein_part 709 718	Met150Gly
+T43	Protein_part 720 729	Met150His
+T44	Protein_part 735 744	Met150Thr
+T45	Process 747 754	Binding
+T46	Protein_part 769 774	Met62
+T47	Protein_part 782 796	type-1 Cu site
+T48	Protein_part 800 809	Met150Gly
+T49	Process 817 826	influence
+T50	Process 866 880	reorganization
+T51	Parameter 882 888	energy
+T52	Protein 915 917	wt
+T53	Parameter 918 923	value
+T54	Unknown 938 941	XRD
+T55	Unknown 951 960	structure
+T56	Protein_part 976 987	type-1 site
+T57	Protein_part 991 1004	Met150Gly NiR
+T58	Process 1012 1020	presence
+T59	Protein 1081 1087	wt NiR
+T60	Value 1099 1105	1.85 A
+T61	Process 1129 1139	similarity
+T62	Process 1143 1157	reorganization
+T63	Parameter 1158 1164	energy

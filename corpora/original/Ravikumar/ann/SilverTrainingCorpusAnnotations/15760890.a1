@@ -1,0 +1,90 @@
+T1	Organism 0 24	Encephalitozoon cuniculi
+T2	Protein 25 29	mRNA
+T3	Chemical 35 42	guanine
+T4	Unknown 43 46	N-7
+T5	Protein 48 65	methyltransferase
+T6	Chemical 67 73	methyl
+T7	Category 74 82	acceptor
+T8	Process 96 106	inhibition
+T9	Chemical 110 138	S-adenosylmethionine analogs
+T10	Unknown 144 153	structure
+T11	Technique 161 180	mutational analysis
+T12	Organism 186 210	Encephalitozoon cuniculi
+T13	Protein 211 215	mRNA
+T14	Chemical 221 228	guanine
+T15	Unknown 229 232	N-7
+T16	Protein 234 256	methyltransferase Ecm1
+T17	Protein 343 347	Ecm1
+T18	Protein 353 370	monomeric protein
+T19	Chemical 386 392	methyl
+T20	Process 393 401	transfer
+T21	Protein_part 407 436	S-adenosylmethionine (AdoMet)
+T22	Chemical 440 443	GTP
+T23	Process 449 457	reaction
+T24	Category 461 469	cofactor
+T25	Parameter 497 499	pH
+T26	Value 500 503	7.5
+T27	Protein 505 509	Ecm1
+T28	Chemical 526 531	GpppA
+T29	Chemical 533 536	GDP
+T30	Chemical 542 546	dGTP
+T31	Chemical 555 558	ATP
+T32	Chemical 560 563	CTP
+T33	Chemical 565 568	UTP
+T34	Chemical 570 573	ITP
+T35	Chemical 578 585	m(7)GTP
+T36	Parameter 591 599	affinity
+T37	Protein 603 607	Ecm1
+T38	Chemical 620 632	dinucleotide
+T39	Unknown 633 638	GpppA
+T40	Value 642 649	0.1  mm
+T41	Chemical 675 678	GTP
+T42	Value 685 689	1 mm
+T43	Chemical 694 697	GDP
+T44	Value 704 710	2.4 mm
+T45	Process 713 724	Methylation
+T46	Chemical 729 732	GTP
+T47	Protein 736 740	Ecm1
+T48	Process 748 756	presence
+T49	Value 760 768	5 microm
+T50	Protein_part 769 775	AdoMet
+T51	Process 796 804	reaction
+T52	Category 805 812	product
+T53	Unknown 813 819	AdoHcy
+T54	Parameter 821 827	IC(50)
+T55	Value 828 836	4 microm
+T56	Category 845 854	substrate
+T57	Unknown 855 862	analogs
+T58	Parameter 875 881	IC(50)
+T59	Value 882 893	1.5  microm
+T60	Protein_part 896 906	aza-AdoMet
+T61	Parameter 908 914	IC(50)
+T62	Value 915 925	100 microm
+T63	Protein_part 944 954	aza-AdoMet
+T64	Parameter 956 962	IC(50)
+T65	Value 963 972	35 microm
+T66	Geometrical_part 979 996	crystal structure
+T67	Protein_part 1003 1018	Ecm1.aza-AdoMet
+T68	Category 1026 1033	complex
+T69	Category 1052 1061	inhibitor
+T70	Protein_part 1080 1084	site
+T71	Protein_part 1088 1094	AdoMet
+T72	Unknown 1096 1105	Structure
+T73	Technique 1115 1123	analysis
+T74	Protein 1127 1131	Ecm1
+T75	Protein_part 1135 1142	alanine
+T76	Process 1169 1182	substitutions
+T77	Molecular_Part 1194 1211	functional groups
+T78	Protein 1226 1243	methyltransferase
+T79	Parameter 1244 1252	activity
+T80	Protein_part 1262 1280	Amino acids Lys-54
+T81	Protein_part 1282 1288	Asp-70
+T82	Protein_part 1290 1296	Asp-78
+T83	Protein_part 1302 1308	Asp-94
+T84	Protein_part 1329 1335	AdoMet
+T85	Protein_part 1344 1348	site
+T86	Protein_part 1354 1361	Phe-141
+T87	Process 1370 1378	contacts
+T88	Chemical 1387 1396	guanosine
+T89	Protein 1420 1437	methyltransferase
+T90	Parameter 1438 1446	activity

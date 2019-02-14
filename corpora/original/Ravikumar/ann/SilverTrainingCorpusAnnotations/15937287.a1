@@ -1,0 +1,60 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 24 61	enhancer of rudimentary homolog (ERH)
+T3	Value 65 68	2.1
+T4	Unknown 69 78	Angstroms
+T5	Parameter 79 89	resolution
+T6	Protein 119 123	gene
+T7	Organism 134 157	Drosophila melanogaster
+T8	Protein 169 205	enhancer of rudimentary (ER) protein
+T9	Process 211 220	functions
+T10	Chemical 235 245	pyrimidine
+T11	Process 246 258	biosynthesis
+T12	Physiology 267 277	cell cycle
+T13	Protein 283 299	ER homolog (ERH)
+T14	Organism 326 337	vertebrates
+T15	Organism 339 352	invertebrates
+T16	Organism 358 364	plants
+T17	Organism 366 384	Xenopus laevis ERH
+T18	Molecule 406 431	transcriptional repressor
+T19	Value 452 455	2.1
+T20	Unknown 456 483	Angstroms crystal structure
+T21	Organism 488 494	murine
+T22	Protein 495 498	ERH
+T23	Protein 500 525	Protein Data Bank ID 1WZ7
+T24	Process 546 588	multiwavelength anomalous dispersion (MAD)
+T25	Geometrical_part 601 620	monomeric structure
+T26	Protein 624 627	ERH
+T27	Protein_part 647 653	domain
+T28	Protein_part 674 687	alpha-helices
+T29	Protein_part 697 709	beta-strands
+T30	Geometrical_part 728 732	fold
+T31	Geometrical_part 741 758	crystal structure
+T32	Protein 760 763	ERH
+T33	Geometrical_part 774 791	dimeric structure
+T34	Process 801 813	interactions
+T35	Protein_part 826 844	beta-sheet regions
+T36	Process 850 859	formation
+T37	Protein 866 875	ERH dimer
+T38	Process 921 940	ultracentrifugation
+T39	Protein_part 946 954	residues
+T40	Protein_part 967 973	region
+T41	Protein 985 990	dimer
+T42	Process 1038 1050	conservation
+T43	Protein 1058 1063	dimer
+T44	Process 1064 1073	formation
+T45	Protein 1089 1096	monomer
+T46	Geometrical_part 1097 1101	fold
+T47	Geometrical_part 1121 1125	loop
+T48	Value 1130 1146	approximately 53
+T49	Geometrical_part 1202 1206	loop
+T50	Protein_part 1207 1213	region
+T51	Process 1239 1248	functions
+T52	Protein 1252 1255	ERH
+T53	Process 1283 1298	phosphorylation
+T54	Protein_part 1299 1304	sites
+T55	Protein_part 1337 1349	beta2-strand
+T56	Protein_part 1351 1356	Thr18
+T57	Protein_part 1382 1394	alpha1-helix
+T58	Protein_part 1396 1401	Ser24
+T59	Process 1422 1437	phosphorylation
+T60	Process 1466 1473	changes

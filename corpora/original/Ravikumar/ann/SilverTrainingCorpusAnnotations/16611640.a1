@@ -1,0 +1,73 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 30	mammalian
+T3	Protein 31 51	cysteine dioxygenase
+T4	Location 61 72	mononuclear
+T5	Chemical 73 77	iron
+T6	Chemical 89 103	cysteine thiol
+T7	Process 104 113	oxidation
+T8	Protein 115 135	Cysteine dioxygenase
+T9	Location 141 152	mononuclear
+T10	Chemical 153 157	iron
+T11	Protein 168 174	enzyme
+T12	Process 195 204	oxidation
+T13	Protein_part 208 216	cysteine
+T14	Chemical 222 238	molecular oxygen
+T15	Chemical 247 265	cysteine sulfinate
+T16	Process 272 280	reaction
+T17	Protein_part 289 297	cysteine
+T18	Physiology 308 318	catabolism
+T19	Chemical 322 329	sulfate
+T20	Chemical 334 342	pyruvate
+T21	Chemical 350 357	taurine
+T22	Process 371 378	pathway
+T23	Protein 380 400	Cysteine dioxygenase
+T24	Unknown 406 412	member
+T25	Unknown 426 437	superfamily
+T26	Protein 441 449	proteins
+T27	Geometrical_part 455 472	crystal structure
+T28	Organism 488 491	rat
+T29	Protein 492 512	cysteine dioxygenase
+T30	Value 536 541	1.5-A
+T31	Parameter 542 552	resolution
+T32	Geometrical_part 600 613	beta-sandwich
+T33	Geometrical_part 614 618	fold
+T34	Protein_part 632 649	cysteinyltyrosine
+T35	Protein_part 685 692	Cys(93)
+T36	Protein_part 697 705	Tyr(157)
+T37	Organism 737 743	murine
+T38	Protein 744 764	cysteine dioxygenase
+T39	Geometrical_part 765 774	structure
+T40	Location 819 830	mononuclear
+T41	Chemical 831 837	Ni(II)
+T42	Organism 867 873	murine
+T43	Geometrical_part 874 883	structure
+T44	Process 885 900	crystallization
+T45	Process 930 941	preparation
+T46	Organism 945 948	rat
+T47	Protein 949 969	cysteine dioxygenase
+T48	Location 1013 1024	mononuclear
+T49	Chemical 1025 1029	iron
+T50	Protein_part 1053 1063	histidines
+T51	Protein_part 1065 1068	His
+T52	Protein_part 1074 1081	His(88)
+T53	Protein_part 1087 1095	His(140)
+T54	Chemical 1103 1117	water molecule
+T55	Unknown 1141 1150	structure
+T56	Category 1162 1168	ligand
+T57	Process 1182 1199	cocrystallization
+T58	Unknown 1212 1220	crystals
+T59	Protein_part 1226 1234	cysteine
+T60	Process 1248 1257	formation
+T61	Chemical 1269 1278	disulfide
+T62	Protein_part 1289 1297	Cys(164)
+T63	Protein_part 1307 1318	active site
+T64	Category 1358 1367	substrate
+T65	Process 1368 1378	inhibition
+T66	Process 1433 1453	molecular mechanisms
+T67	Chemical 1466 1471	thiol
+T68	Process 1472 1485	dioxygenation
+T69	Process 1509 1520	exploration
+T70	Location 1556 1567	mononuclear
+T71	Chemical 1568 1572	iron
+T72	Process 1598 1602	role
+T73	Protein_part 1610 1636	cysteinyl-tyrosine linkage

@@ -1,0 +1,52 @@
+T1	Physiology 12 21	mutagenic
+T2	Parameter 27 34	kinetic
+T3	Technique 35 43	analysis
+T4	Process 51 58	binding
+T5	Category 62 72	substrates
+T6	Category 77 87	inhibitors
+T7	Protein 91 135	human phenylethanolamine N-methyltransferase
+T8	Technique 141 156	X-ray structure
+T9	Protein 160 212	human phenylethanolamine N-methyltransferase (hPNMT)
+T10	Category 232 239	product
+T11	Chemical 241 270	S-adenosyl-L-homocysteine (4)
+T12	Category 292 301	inhibitor
+T13	Unknown 320 324	SK&F
+T14	Protein_part 361 369	residues
+T15	Category 382 391	inhibitor
+T16	Process 392 399	binding
+T17	Protein_part 415 423	residues
+T18	Protein_part 425 430	Val53
+T19	Protein_part 432 437	Lys57
+T20	Protein_part 439 445	Glu219
+T21	Protein_part 450 456	Asp267
+T22	Protein_part 487 494	alanine
+T23	Unknown 500 508	variants
+T24	Parameter 523 532	Km values
+T25	Chemical 537 560	phenylethanolamine (10)
+T26	Protein_part 571 576	D267A
+T27	Value 598 605	20-fold
+T28	Process 608 616	decrease
+T29	Parameter 624 634	kcat value
+T30	Protein 641 649	WT hPNMT
+T31	Protein 654 659	D267A
+T32	Parameter 672 683	kcat values
+T33	Unknown 696 704	analogue
+T34	Chemical 706 758	anti-9-amino-6-(trifluoromethyl)benzonorbornene (12)
+T35	Protein_part 777 783	Asp267
+T36	Process 803 807	role
+T37	Category 827 836	substrate
+T38	Process 874 883	catalysis
+T39	Parameter 889 898	Ki values
+T40	Process 907 914	binding
+T41	Category 918 928	inhibitors
+T42	Protein_part 946 951	E219A
+T43	Unknown 956 970	D267A variants
+T44	Value 988 1007	orders of magnitude
+T45	Category 1022 1032	inhibitors
+T46	Value 1058 1065	50-fold
+T47	Process 1086 1094	presence
+T48	Chemical 1098 1125	S-adenosyl-L-methionine (3)
+T49	Process 1147 1154	binding
+T50	State 1184 1198	conformational
+T51	Process 1199 1205	change
+T52	Protein 1213 1219	enzyme

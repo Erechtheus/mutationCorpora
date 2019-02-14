@@ -1,0 +1,15 @@
+Pyruvate phosphate dikinase (PPDK) catalyzes the interconversion of ATP, P(i), and pyruvate with AMP, PP(i), and phosphoenolpyruvate (PEP) in three partial reactions as follows: 1) E-His + ATP --&gt; E-His-PP.AMP; 2) E-His-PP.AMP + P(i) --&gt; E-His-P.AMP.PP(i); and 3) E-His-P + pyruvate --&gt; E.PEP using His-455 as the carrier of the transferred phosphoryl groups . 
+The crystal structure of the Clostridium symbiosum PPDK (in the unbound state) reveals a three-domain structure consisting of consecutive N-terminal, central His-455, and C-terminal domains . 
+The N-terminal and central His-455 domains catalyze partial reactions 1 and 2, whereas the C-terminal and central His-455 domains catalyze partial reaction 3 . 
+Attempts to obtain a crystal structure of the enzyme with substrate ligands bound at the nucleotide binding domain have been unsuccessful . 
+The object of the present study is to demonstrate Mg(II) activation of catalysis at the ATP/P(i) active site, to identify the residues at the ATP/P(i) active site that contribute to catalysis, and to identify roles for these residues based on their positions within the active site scaffold . 
+First, Mg(II) activation studies of catalysis of E + ATP + P(i) --&gt; E-P + AMP + PP(i) partial reaction were carried out using a truncation mutant (Tem533) in which the C-terminal domain is absent . 
+The kinetics show that a minimum of 2 Mg(II) per active site is required for the reaction . 
+The active site residues used for substrate/cofactor binding/activation were identified by site-directed mutagenesis . 
+Lys-22, Arg-92, Asp-321, Glu-323, and Gln-335 mutants were found to be inactive; Arg-337, Glu-279, Asp-280, and Arg-135 mutants were partially active; and Thr-253 and Gln-240 mutants were almost fully active . 
+The participation of the nucleotide ribose 2'-OH and alpha-P in enzyme binding is indicated by the loss of productive binding seen with substrate analogs modified at these positions . 
+The ATP, P(i), and Mg(II) ions were docked into the PPDK N-terminal domain crevice, in an orientation consistent with substrate/cofactor binding modes observed for other members of the ATP-Grasp fold enzyme superfamily and consistent with the structure-function data . 
+On the basis of this docking model, the ATP polyphosphate moiety is oriented/activated for pyrophosphoryl transfer through interaction with Lys-22 (gamma-P), Arg-92 (alpha-P), and the Gly-101 to Met-103 loop (gamma-P) as well as with the Mg(II) cofactors . 
+The P(i) is oriented/activated for partial reaction 2 through interaction with Arg-337 and a Mg(II) cofactor . 
+The Mg(II) ions are bound through interaction with Asp-321, Glu-323, and Gln-335 and substrate . 
+Residues Glu-279, Asp-280, and Arg-135 are suggested to function in the closure of an active site loop, over the nucleotide ribose-binding site . 

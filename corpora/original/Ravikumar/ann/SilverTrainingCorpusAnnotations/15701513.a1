@@ -1,0 +1,93 @@
+T1	Process 0 7	Control
+T2	Organism 11 27	bacteriophage T4
+T3	Protein 28 41	tail lysozyme
+T4	Parameter 42 50	activity
+T5	Physiology 62 71	infection
+T6	Process 72 79	process
+T7	Body_part 81 97	Bacteriophage T4
+T8	Process 115 124	mechanism
+T9	Organism 143 147	host
+T10	Body_part 148 168	Escherichiacoli cell
+T11	Molecule 182 185	DNA
+T12	Category 191 211	gene product 5 (gp5)
+T13	Technique 218 224	needle
+T14	Unknown 230 239	structure
+T15	Geometrical_part 256 259	end
+T16	Body_part 265 269	tube
+T17	Molecule 288 291	DNA
+T18	Body_part 321 325	head
+T19	Organism 339 343	host
+T20	Category 349 352	gp5
+T21	Technique 353 359	needle
+T22	Body_part 374 393	outer cell membrane
+T23	Protein 415 428	peptidoglycan
+T24	Body_part 429 438	cell wall
+T25	Location 446 457	periplasmic
+T26	Category 465 468	gp5
+T27	Protein_part 518 530	residues 351
+T28	Protein_part 535 538	352
+T29	Process 544 552	function
+T30	Process 561 568	process
+T31	Protein 588 596	lysozyme
+T32	Parameter 597 605	activity
+T33	Category 609 612	gp5
+T34	Category 645 648	gp5
+T35	Organism 670 676	E.coli
+T36	Molecule 682 689	mutants
+T37	Molecule 691 696	S351H
+T38	Molecule 701 706	S351A
+T39	Process 717 726	reduction
+T40	Process 730 738	cleavage
+T41	Category 739 747	products
+T42	Molecule 763 770	mutants
+T43	Molecule 772 777	S351L
+T44	Molecule 779 784	S351K
+T45	Molecule 786 791	S351Y
+T46	Molecule 793 798	S351Q
+T47	Molecule 804 809	S351T
+T48	Process 821 829	cleavage
+T49	Process 849 864	complementation
+T50	Technique 865 870	assay
+T51	Value 874 886	20 degrees C
+T52	Molecule 892 899	mutants
+T53	Process 912 920	cleavage
+T54	Category 924 927	gp5
+T55	Physiology 957 964	plaques
+T56	Unknown 977 989	wild-type T4
+T57	Geometrical_part 995 1012	crystal structure
+T58	Physiology 1033 1042	phenotype
+T59	Molecule 1043 1049	mutant
+T60	Category 1053 1056	gp5
+T61	Molecule 1058 1063	S351L
+T62	Protein 1080 1084	gene
+T63	Category 1085 1095	product 27
+T64	Protein_part 1116 1124	residues
+T65	Location 1132 1140	vicinity
+T66	Process 1158 1166	cleavage
+T67	Protein_part 1167 1171	site
+T68	Protein 1191 1200	wild-type
+T69	Geometrical_part 1201 1210	structure
+T70	Molecule 1224 1232	electron
+T71	Parameter 1233 1240	density
+T72	Protein_part 1246 1257	polypeptide
+T73	Process 1279 1287	cleavage
+T74	Protein_part 1288 1292	site
+T75	Organism 1333 1339	E.coli
+T76	Protein 1340 1348	protease
+T77	Protein 1354 1362	lysozyme
+T78	Parameter 1363 1371	activity
+T79	Protein 1392 1401	wild-type
+T80	Geometrical_part 1402 1411	structure
+T81	Geometrical_part 1417 1421	loop
+T82	Location 1431 1439	adjacent
+T83	Category 1440 1443	gp5
+T84	Protein 1444 1451	monomer
+T85	Category 1472 1481	substrate
+T86	Protein_part 1490 1494	site
+T87	Process 1505 1515	inhibition
+T88	Unknown 1535 1551	mutant structure
+T89	Protein 1571 1579	lysozyme
+T90	Category 1600 1603	gp5
+T91	Protein 1636 1644	lysozyme
+T92	Category 1669 1672	gp5
+T93	Body_part 1692 1706	outer membrane

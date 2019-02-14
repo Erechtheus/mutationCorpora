@@ -1,0 +1,71 @@
+T1	Geometrical_part 0 18	Tertiary structure
+T2	Protein 25 59	amyloid immunoglobulin light chain
+T3	Protein 60 67	protein
+T4	Protein 90 104	amyloid fibril
+T5	Process 105 114	formation
+T6	Protein 119 145	immunoglobulin light chain
+T7	Protein 146 153	protein
+T8	Body_part 176 181	urine
+T9	Organism 188 198	individual
+T10	Organism 200 203	BRE
+T11	Chemical 219 230	amyloidosis
+T12	Protein_part 241 260	amino acid sequence
+T13	Protein_part 277 283	region
+T14	Protein 291 302	light chain
+T15	Protein 304 306	VL
+T16	Protein 308 315	protein
+T17	Protein 336 343	kappa I
+T18	Chemical 376 391	kappa I amyloid
+T19	Protein 403 411	proteins
+T20	Protein_part 423 431	residues
+T21	Protein_part 443 449	Ile-34
+T22	Protein_part 451 457	Leu-40
+T23	Protein_part 463 469	Tyr-71
+T24	Geometrical_part 484 502	tertiary structure
+T25	Protein 505 511	BRE VL
+T26	Organism 529 545	Escherichia coli
+T27	Technique 557 560	PCR
+T28	Category 561 568	product
+T29	Organism 588 595	patient
+T30	Body_part 596 613	BRE's bone marrow
+T31	Molecule 614 617	DNA
+T32	Technique 623 626	PCR
+T33	Category 627 634	product
+T34	Unknown 652 657	pCZ11
+T35	Process 679 690	replication
+T36	Unknown 691 697	vector
+T37	Protein 711 717	BRE VL
+T38	Chemical 783 799	ammonium sulfate
+T39	Unknown 824 831	crystal
+T40	Unknown 856 863	crystal
+T41	Unknown 864 870	form I
+T42	Protein_part 875 894	BRE VL kappa domain
+T43	Protein 913 918	dimer
+T44	Geometrical_part 924 933	unit cell
+T45	Parameter 934 943	constants
+T46	Protein 980 993	kappa protein
+T47	Geometrical_part 994 1004	structures
+T48	Process 1006 1016	Comparison
+T49	Protein_part 1024 1050	nonamyloid VL kappa domain
+T50	Organism 1057 1068	patient REI
+T51	Process 1093 1104	differences
+T52	Protein_part 1120 1128	residues
+T53	Protein_part 1150 1158	segments
+T54	Process 1164 1174	variations
+T55	Protein_part 1178 1214	framework region (FR) segments 40-46
+T56	Protein_part 1216 1219	FR2
+T57	Protein_part 1232 1235	FR3
+T58	Process 1262 1273	differences
+T59	Protein 1343 1358	monomer-monomer
+T60	Protein 1363 1374	dimer-dimer
+T61	Process 1396 1403	packing
+T62	Protein 1429 1460	amyloid light chain (AL) fibril
+T63	Unknown 1507 1516	structure
+T64	Process 1525 1529	rise
+T65	Parameter 1551 1556	width
+T66	Protein 1564 1570	dimers
+T67	Value 1575 1585	360 degree
+T68	Unknown 1604 1613	structure
+T69	Parameter 1643 1653	dimensions
+T70	Protein 1657 1672	amyloid fibrils
+T71	Technique 1690 1709	electron microscopy

@@ -1,0 +1,72 @@
+T1	Process 0 9	Formation
+T2	Geometrical_part 11 28	crystal structure
+T3	Process 34 47	rearrangement
+T4	Chemical 53 84	cytochrome P-450cam iron-phenyl
+T5	Category 85 92	complex
+T6	Protein 94 113	Cytochrome P-450cam
+T7	Unknown 141 144	PhN
+T8	Unknown 147 149	NH
+T9	Chemical 177 192	phenylhydrazine
+T10	Category 227 234	complex
+T11	Process 243 253	absorption
+T12	Value 265 271	474 nm
+T13	Molecular_Part 277 293	prosthetic group
+T14	Protein 339 346	protein
+T15	Technique 355 368	spectroscopic
+T16	Parameter 369 379	properties
+T17	Chemical 385 402	sigma phenyl-iron
+T18	Category 403 410	complex
+T19	Process 430 438	exposure
+T20	Chemical 442 445	air
+T21	Chemical 450 454	acid
+T22	Protein 502 540	N-phenylprotoporphyrin IX regioisomers
+T23	Geometrical_part 546 563	crystal structure
+T24	Protein 578 585	protein
+T25	Category 586 593	complex
+T26	Value 606 611	1.9-A
+T27	Parameter 612 622	resolution
+T28	Parameter 629 637	R factor
+T29	Value 641 644	20%
+T30	Chemical 664 670	phenyl
+T31	Molecular_Part 671 676	group
+T32	Chemical 715 722	carbons
+T33	Chemical 730 739	iron atom
+T34	Chemical 745 751	phenyl
+T35	Geometrical_part 752 756	ring
+T36	Chemical 776 780	heme
+T37	Value 791 807	about 10 degrees
+T38	Process 824 833	direction
+T39	Chemical 853 868	carbon monoxide
+T40	Unknown 890 898	P-450cam
+T41	Chemical 900 907	Camphor
+T42	Category 921 930	substrate
+T43	Unknown 935 943	P-450cam
+T44	Chemical 962 968	phenyl
+T45	Molecular_Part 969 974	group
+T46	Chemical 979 993	hydrogen bonds
+T47	Protein_part 997 1003	Tyr 96
+T48	Protein_part 1014 1033	hydrophilic residue
+T49	Protein_part 1043 1055	active  site
+T50	Molecule 1057 1065	Electron
+T51	Parameter 1066 1073	density
+T52	Protein_part 1081 1092	active site
+T53	Chemical 1133 1139	phenyl
+T54	Molecular_Part 1140 1145	group
+T55	Chemical 1164 1179	water molecules
+T56	Geometrical_part 1187 1191	part
+T57	Chemical 1199 1206	camphor
+T58	Process 1207 1214	binding
+T59	Protein_part 1215 1219	site
+T60	Chemical 1239 1247	hydrogen
+T61	Parameter 1256 1264	distance
+T62	Protein_part 1268 1274	Tyr 96
+T63	Technique 1302 1318	crystallographic
+T64	Unknown 1328 1346	inhibitor-P-450cam
+T65	Category 1347 1356	complexes
+T66	Unknown 1395 1407	Biochemistry
+T67	Process 1440 1447	changes
+T68	Protein_part 1500 1508	residues
+T69	Category 1525 1534	substrate
+T70	Protein 1542 1549	channel
+T71	Protein_part 1550 1556	region
+T72	Protein 1564 1571	protein

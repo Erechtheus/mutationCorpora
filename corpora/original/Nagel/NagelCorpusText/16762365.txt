@@ -1,0 +1,10 @@
+Sex-reversal mutations in human SRY cluster within its high-mobility group box, a conserved motif of DNA bending . 
+A classical substitution at the crux of this angular domain (M64I) has been reported to impair DNA bending but not DNA binding, implying that sharp bending is required for transcriptional activation and testis determination . 
+Surprisingly, we report that this defect was an inadvertent consequence of protein truncation: in the intact protein, sharp DNA bending is restored by the basic tail of the high-mobility group box . 
+Structural coupling between box and tail is tuned to the native DNA bend angle, damping conformational fluctuations and enabling bidirectional induced fit within the bent complex . 
+M64I-associated sex reversal is instead caused by the impaired function of a flanking non-classical nuclear localization signal (NLS) . 
+Similar impairment is caused by M64A, suggesting that mislocalization is due to loss of an M64-specific function and not gain of a non-native I64-specific function . 
+Transcriptional activity, attenuated by mislocalization, is rescued by fusion of a heterologous NLS . 
+In a male embryonic gonadal cell line, M64I and M64A SRY-NLS fusion proteins exhibit native transcriptional activation of Sox9, a key step in testicular differentiation . 
+Our results suggest that male development is robust to subtle alterations in SRY-DNA architecture but depends critically on nuclear localization . 
+The previously unsuspected role of M64 within a non-classical NLS may contribute to its invariance among SOX-related and LEF-1-related transcription factors . 

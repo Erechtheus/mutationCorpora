@@ -1,0 +1,54 @@
+T1	Unknown 0 9	Structure
+T2	Technique 16 41	site-directed mutagenesis
+T3	Chemical 49 72	UDP-MurNAc-pentapeptide
+T4	Body_part 82 88	cavity
+T5	Protein 96 119	FemX alanyl transferase
+T6	Organism 125 146	Weissella viridescens
+T7	Organism 148 185	Weissella viridescens FemX (FemX(Wv))
+T8	Unknown 201 211	Fem family
+T9	Protein 228 249	peptidyl transferases
+T10	Chemical 259 273	aminoacyl-tRNA
+T11	Protein_part 281 291	amino acid
+T12	Category 292 297	donor
+T13	Protein_part 316 336	peptide cross-bridge
+T14	Protein 350 363	peptidoglycan
+T15	Organism 372 379	species
+T16	Physiology 383 393	pathogenic
+T17	Organism 394 416	gram-positive bacteria
+T18	Geometrical_part 446 463	crystal structure
+T19	Organism 468 476	FemX(Wv)
+T20	Category 480 487	complex
+T21	Protein 497 520	peptidoglycan precursor
+T22	Chemical 521 544	UDP-MurNAc-pentapeptide
+T23	Technique 565 590	site-directed mutagenesis
+T24	Protein_part 599 607	residues
+T25	Process 623 630	binding
+T26	Body_part 631 637	cavity
+T27	Category 647 656	substrate
+T28	Process 662 675	substitutions
+T29	Protein_part 677 685	Lys36Met
+T30	Protein_part 690 699	Arg211Met
+T31	Organism 711 719	FemX(Wv)
+T32	Protein 720 731	transferase
+T33	Parameter 732 740	activity
+T34	Protein 783 790	protein
+T35	Process 791 798	folding
+T36	Unknown 800 809	Analogues
+T37	Chemical 813 836	UDP-MurNAc-pentapeptide
+T38	Chemical 849 858	phosphate
+T39	Molecular_Part 859 865	groups
+T40	Protein_part 873 901	C-terminal D-alanyl residues
+T41	Category 911 921	substrates
+T42	Protein 929 935	enzyme
+T43	Protein_part 965 970	Lys36
+T44	Protein_part 975 981	Arg211
+T45	Chemical 999 1020	complex hydrogen bond
+T46	Physiology 1021 1028	network
+T47	Protein_part 1047 1072	C-terminal D-Ala residues
+T48	Chemical 1080 1089	phosphate
+T49	Molecular_Part 1090 1096	groups
+T50	Chemical 1101 1124	UDP-MurNAc-pentapeptide
+T51	Category 1144 1153	substrate
+T52	State 1159 1171	conformation
+T53	Protein 1194 1205	transferase
+T54	Parameter 1206 1214	activity

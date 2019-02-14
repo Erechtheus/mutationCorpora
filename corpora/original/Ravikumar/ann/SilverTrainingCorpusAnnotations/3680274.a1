@@ -1,0 +1,78 @@
+T1	Technique 11 19	analysis
+T2	Parameter 27 38	temperature
+T3	Molecule 49 55	mutant
+T4	Organism 59 75	bacteriophage T4
+T5	Protein 76 84	lysozyme
+T6	Chemical 86 93	glycine
+T7	Protein_part 101 114	aspartic acid
+T8	Unknown 120 129	structure
+T9	Molecule 137 143	mutant
+T10	Organism 147 163	bacteriophage T4
+T11	Protein 164 172	lysozyme
+T12	Protein_part 182 189	Gly-156
+T13	Protein_part 205 218	aspartic acid
+T14	Protein 237 245	lysozyme
+T15	Process 262 271	screening
+T16	Parameter 276 287	temperature
+T17	Molecule 298 305	mutants
+T18	Parameter 316 335	melting temperature
+T19	Parameter 339 341	pH
+T20	Value 342 345	6.5
+T21	Value 354 367	6.1 degrees C
+T22	Unknown 394 410	mutant structure
+T23	Protein_part 445 452	Gly-156
+T24	State 457 471	conformational
+T25	Parameter 472 478	angles
+T26	Protein 480 483	phi
+T27	Protein 485 488	psi
+T28	Protein_part 517 524	residue
+T29	Chemical 532 543	beta-carbon
+T30	Parameter 550 560	resolution
+T31	Technique 561 577	crystallographic
+T32	Process 578 588	refinement
+T33	Unknown 597 613	mutant structure
+T34	Parameter 615 616	R
+T35	Value 619 624	17.7%
+T36	Value 628 633	1.7 A
+T37	Parameter 634 644	resolution
+T38	Protein_part 661 671	Gly----Asp
+T39	Process 672 684	substitution
+T40	Parameter 734 740	angles
+T41	Protein 742 745	phi
+T42	Protein 747 750	psi
+T43	Parameter 756 762	forces
+T44	Value 797 816	approximately 0.6 A
+T45	Protein 843 861	wild-type lysozyme
+T46	Organism 876 882	strain
+T47	Chemical 893 906	hydrogen bond
+T48	Physiology 907 914	network
+T49	Protein 934 943	wild-type
+T50	Geometrical_part 944 953	structure
+T51	State 990 999	stability
+T52	Protein 1007 1022	mutant lysozyme
+T53	Chemical 1047 1053	acidic
+T54	Protein_part 1054 1064	side chain
+T55	Parameter 1085 1091	charge
+T56	Molecule 1099 1107	molecule
+T57	State 1142 1151	stability
+T58	Unknown 1159 1175	mutant structure
+T59	Value 1211 1218	neutral
+T60	Parameter 1220 1222	pH
+T61	Process 1254 1267	stabilization
+T62	Process 1304 1313	repulsion
+T63	Protein_part 1322 1329	Asp-156
+T64	Protein_part 1334 1340	Asp-92
+T65	Parameter 1346 1354	activity
+T66	Protein 1362 1377	mutant lysozyme
+T67	Value 1381 1398	approximately 50%
+T68	Protein 1407 1425	wild-type lysozyme
+T69	Process 1432 1441	reduction
+T70	Parameter 1445 1453	activity
+T71	Value 1488 1496	negative
+T72	Parameter 1497 1503	charge
+T73	Process 1511 1523	perturbation
+T74	Geometrical_part 1531 1538	surface
+T75	Molecule 1546 1554	molecule
+T76	Protein_part 1562 1568	region
+T77	Protein 1602 1615	peptidoglycan
+T78	Category 1616 1626	substrates

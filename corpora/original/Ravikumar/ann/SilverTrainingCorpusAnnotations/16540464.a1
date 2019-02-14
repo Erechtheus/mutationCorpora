@@ -1,0 +1,71 @@
+T1	Technique 4 28	X-ray crystal structures
+T2	Organism 32 37	human
+T3	Protein 38 64	alpha-phosphomannomutase 1
+T4	Process 87 92	basis
+T5	Physiology 96 140	congenital disorder of glycosylation type 1a
+T6	Physiology 142 195	Congenital disorder of glycosylation type 1a (CDG-1a)
+T7	Physiology 201 219	congenital disease
+T8	Process 244 251	defects
+T9	Body_part 255 269	nervous system
+T10	Process 270 281	development
+T11	Process 299 308	mutations
+T12	Protein 312 336	alpha-phosphomannomutase
+T13	Protein 361 369	isozymes
+T14	Protein 371 381	alpha-PMM1
+T15	Unknown 386 396	alpha-PPM2
+T16	Molecule 418 423	x-ray
+T17	Geometrical_part 424 442	crystal structures
+T18	Organism 446 451	human
+T19	Protein 453 463	alpha-PMM1
+T20	State 471 488	open conformation
+T21	Category 517 526	substrate
+T22	Chemical 528 555	alpha-D-mannose 1-phosphate
+T23	Protein 557 567	Alpha-PMM1
+T24	Protein 579 637	haloalkanoic acid dehalogenase superfamily (HADSF) members
+T25	Protein_part 655 662	domains
+T26	Category 701 710	substrate
+T27	Chemical 739 746	solvent
+T28	Unknown 757 768	environment
+T29	Process 774 783	catalysis
+T30	Category 789 798	substrate
+T31	Chemical 799 808	phosphate
+T32	Molecular_Part 809 814	group
+T33	Protein_part 852 856	site
+T34	Protein_part 868 874	domain
+T35	Protein_part 900 931	domain phosphoryl-transfer site
+T36	Chemical 947 966	Asp(19) nucleophile
+T37	Chemical 971 977	Mg(2+)
+T38	Category 978 986	cofactor
+T39	Category 1007 1016	substrate
+T40	Protein_part 1067 1078	active site
+T41	Process 1089 1096	closure
+T42	Process 1102 1113	orientation
+T43	Protein 1121 1130	acid/base
+T44	Protein_part 1131 1146	residue Asp(21)
+T45	Protein 1161 1197	alpha-phosphomannomutase (alpha-PMM)
+T46	Process 1205 1214	different
+T47	Chemical 1240 1257	aspartylphosphate
+T48	Process 1263 1273	hydrolysis
+T49	Protein 1283 1295	HADSF member
+T50	Protein 1296 1319	beta-phosphoglucomutase
+T51	Process 1364 1373	repulsion
+T52	Value 1377 1385	positive
+T53	Parameter 1386 1393	charges
+T54	Protein_part 1431 1438	domains
+T55	Protein 1450 1460	alpha-PMM1
+T56	State 1468 1485	open conformation
+T57	Category 1518 1527	substrate
+T58	Process 1572 1579	closure
+T59	Protein_part 1594 1600	domain
+T60	Protein 1610 1618	isozymes
+T61	Protein 1620 1630	alpha-PMM1
+T62	Protein 1635 1645	alpha-PMM2
+T63	Protein_part 1677 1688	active-site
+T64	Unknown 1689 1698	structure
+T65	Parameter 1722 1740	kinetic properties
+T66	Technique 1742 1750	Analysis
+T67	Process 1764 1772	mutation
+T68	Protein_part 1773 1778	sites
+T69	Unknown 1801 1811	structures
+T70	Parameter 1843 1855	relationship
+T71	Physiology 1867 1873	CDG-1a

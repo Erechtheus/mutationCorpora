@@ -1,0 +1,65 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Technique 23 48	site-directed mutagenesis
+T3	Chemical 54 63	mycothiol
+T4	Protein 74 80	enzyme
+T5	Process 97 104	folding
+T6	Process 119 124	basis
+T7	Chemical 129 138	mycothiol
+T8	Chemical 148 162	maleylpyruvate
+T9	Process 164 177	isomerization
+T10	Chemical 179 188	Mycothiol
+T11	Chemical 190 193	MSH
+T12	Parameter 212 226	molecular mass
+T13	Chemical 227 233	thiols
+T14	Organism 242 264	Gram-positive bacteria
+T15	Organism 273 299	Mycobacterium tuberculosis
+T16	Organism 304 319	Corynebacterium
+T17	Chemical 320 330	glutamicum
+T18	Process 350 355	roles
+T19	Chemical 359 362	MSH
+T20	Unknown 405 408	GSH
+T21	Organism 412 434	Gram-negative bacteria
+T22	Chemical 461 464	MSH
+T23	Process 479 493	detoxification
+T24	Chemical 508 517	chemicals
+T25	Process 522 532	protection
+T26	Organism 538 542	host
+T27	Body_part 543 547	cell
+T28	Unknown 564 571	systems
+T29	Protein 586 632	MSH-dependent maleylpyruvate isomerase (MDMPI)
+T30	Chemical 653 666	C. glutamicum
+T31	Protein 677 686	isomerase
+T32	Chemical 727 730	MSH
+T33	Protein 741 748	enzymes
+T34	Chemical 759 762	MSH
+T35	Category 766 774	cofactor
+T36	Molecule 801 808	mutants
+T37	Protein 812 817	MDMPI
+T38	Protein_part 860 864	H52A
+T39	Protein 866 872	MDMPIs
+T40	Geometrical_part 895 911	their structures
+T41	Value 927 931	1.75
+T42	Value 936 942	2.05 A
+T43	Parameter 943 953	resolution
+T44	Geometrical_part 973 991	crystal structures
+T45	Protein 1009 1015	enzyme
+T46	Chemical 1027 1041	divalent metal
+T47	Protein_part 1050 1056	domain
+T48	Protein_part 1063 1080	C-terminal domain
+T49	Process 1100 1107	folding
+T50	Geometrical_part 1145 1149	fold
+T51	Chemical 1156 1170	divalent metal
+T52	Protein_part 1179 1183	site
+T53	Protein_part 1199 1213	residues His52
+T54	Protein_part 1215 1221	Glu144
+T55	Protein_part 1227 1233	His148
+T56	Location 1256 1262	bottom
+T57	Geometrical_part 1268 1275	surface
+T58	Geometrical_part 1276 1282	pocket
+T59	Technique 1313 1338	site-directed mutagenesis
+T60	Geometrical_part 1373 1380	surface
+T61	Geometrical_part 1381 1387	pocket
+T62	Chemical 1402 1411	metal ion
+T63	Chemical 1416 1419	MSH
+T64	Molecular_Part 1420 1426	moiety
+T65	Location 1447 1463	catalytic center

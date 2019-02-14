@@ -1,0 +1,34 @@
+T1	Unknown 0 9	Structure
+T2	Process 11 21	refinement
+T3	Process 27 35	function
+T4	Protein 39 66	carbonic anhydrase isozymes
+T5	Process 68 78	refinement
+T6	Organism 82 87	human
+T7	Protein 88 108	carbonic anhydrase I
+T8	Unknown 114 123	structure
+T9	Organism 127 132	human
+T10	Body_part 133 144	erythrocyte
+T11	Protein 145 165	carbonic anhydrase I
+T12	Parameter 194 201	R value
+T13	Value 205 208	19%
+T14	Value 212 215	2-A
+T15	Parameter 216 226	resolution
+T16	Process 261 271	refinement
+T17	Value 331 340	About 300
+T18	Chemical 341 354	solvent atoms
+T19	Protein 386 402	protein molecule
+T20	Chemical 419 432	hydrogen bond
+T21	Physiology 433 440	network
+T22	Chemical 451 455	Zn2+
+T23	Chemical 470 477	solvent
+T24	Protein_part 479 489	side chain
+T25	Molecular_Part 490 496	groups
+T26	Protein_part 501 508	Thr-199
+T27	Protein_part 510 517	Glu-106
+T28	Protein_part 519 524	Thr-7
+T29	Protein_part 530 536	His-64
+T30	Chemical 549 566	solvent molecules
+T31	Process 613 632	catalytic mechanism
+T32	Protein 640 658	carbonic anhydrase
+T33	Unknown 660 665	CRDT-
+T34	Value 674 682	01 00:00

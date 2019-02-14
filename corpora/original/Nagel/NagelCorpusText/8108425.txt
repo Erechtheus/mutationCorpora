@@ -1,0 +1,13 @@
+In vertebrates, the gonadotropin-releasing hormone (GnRH) decapeptide is secreted from hypothalamic nerve terminals to regulate reproduction via control of synthesis and release of pituitary gonadotropins . 
+Only one GnRH peptide has been found in mammals, with one exception, although numerous other vertebrate species express more than one of the eight known decapeptide forms as shown by immunocytochemical labeling of distinct cell groups in the brain . 
+However, neither the functional nor the evolutionary relationships among these GnRH forms are clear, because only one preprohormone gene sequence from any species has been reported . 
+The most ubiquitous alternative form of GnRH is His5,Trp7,Tyr8 GnRH (also referred to as chicken-II), which differs from the mammalian sequence at amino acids 5, 7, and 8 . 
+This peptide has been shown to have the most potent releasing-hormone activity, although immunocytochemical staining has suggested it is synthesized only in the mesencephalon . 
+Here we report the cloning and expression pattern of the gene for the precursor of this form from the teleost fish Haplochromis burtoni . 
+This is the second GnRH-encoding gene to be characterized in this species . 
+The newly discovered preprohormone gene differs from that previously reported in two ways . 
+First, whereas the original gene predicts only a single associated peptide, this one predicts two associated peptides, both of which appear to be unique . 
+Second, the gene for His5,Trp7,Tyr8 GnRH is expressed in only one cell group in the mesencephalon . 
+In contrast, the previously reported gene is expressed only in the terminal nerve . 
+The striking differences between the preprohormone structure and localization suggest that the genes coding for the two known GnRH forms in H. burtoni did not arise from a recent duplication event . 
+Interestingly, neither of the two genes found to date in this species is expressed in cells which project from the hypothalamus to the pituitary, suggesting that yet a third gene coding for GnRH may exist . 

@@ -1,0 +1,74 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Physiology 25 34	oncogenic
+T3	Molecule 35 41	mutant
+T4	Unknown 45 52	Cdc42Hs
+T5	Unknown 54 67	Cdc42Hs(F28L)
+T6	Molecule 86 92	mutant
+T7	Unknown 96 103	Cdc42Hs
+T8	Unknown 107 113	member
+T9	Unknown 121 136	Ras superfamily
+T10	Chemical 140 143	GTP
+T11	Protein 152 160	proteins
+T12	Body_part 179 187	cellular
+T13	Process 188 202	transformation
+T14	Parameter 233 237	rate
+T15	Chemical 257 260	GTP
+T16	Chemical 265 268	GDP
+T17	Technique 275 285	R., et al.
+T18	Unknown 293 304	Curr. Biol.
+T19	Chemical 338 355	Cdc42Hs(F28L)-GDP
+T20	Protein_part 401 409	residues
+T21	Chemical 417 427	nucleotide
+T22	Protein_part 436 440	site
+T23	Technique 449 462	P. D., et al.
+T24	Unknown 470 482	Biochemistry
+T25	Geometrical_part 503 521	solution structure
+T26	Chemical 526 537	Cdc42Hs-GDP
+T27	Technique 584 600	NMR spectroscopy
+T28	Technique 611 624	J. L., et al.
+T29	Unknown 632 644	Biochemistry
+T30	Geometrical_part 683 701	solution structure
+T31	Chemical 705 722	Cdc42Hs(F28L)-GDP
+T32	Process 739 746	insight
+T33	Process 767 772	basis
+T34	Process 781 787	change
+T35	Parameter 791 799	affinity
+T36	Chemical 804 807	GDP
+T37	Location 809 822	Heteronuclear
+T38	Technique 823 826	NMR
+T39	Process 827 838	experiments
+T40	Protein 882 889	protein
+T41	Parameter 895 903	distance
+T42	Chemical 905 921	hydrogen bonding
+T43	Process 940 948	coupling
+T44	Parameter 963 968	angle
+T45	Unknown 1025 1035	structures
+T46	Parameter 1042 1050	distance
+T47	Geometrical_part 1051 1059	geometry
+T48	Process 1084 1094	refinement
+T49	Technique 1095 1104	protocols
+T50	Unknown 1118 1127	structure
+T51	Chemical 1131 1148	Cdc42Hs(F28L)-GDP
+T52	Unknown 1176 1193	wild-type Cdc42Hs
+T53	Protein_part 1242 1252	beta-sheet
+T54	Unknown 1253 1262	structure
+T55	Protein_part 1279 1301	C-terminal alpha-helix
+T56	Technique 1312 1325	J. L., et al.
+T57	Unknown 1333 1345	Biochemistry
+T58	Protein_part 1390 1397	regions
+T59	Unknown 1401 1418	wild-type Cdc42Hs
+T60	Physiology 1440 1448	disorder
+T61	Process 1450 1456	Switch
+T62	Unknown 1457 1471	I, Switch II, 
+T63	Protein_part 1479 1492	Insert region
+T64	Protein_part 1512 1516	F28L
+T65	Unknown 1539 1548	structure
+T66	Chemical 1552 1569	Cdc42Hs(F28L)-GDP
+T67	Process 1613 1625	interactions
+T68	Chemical 1635 1645	nucleotide
+T69	Chemical 1650 1666	hydrogen bonding
+T70	Chemical 1678 1688	nucleotide
+T71	Process 1689 1696	binding
+T72	Protein_part 1697 1701	site
+T73	Protein_part 1723 1729	region
+T74	Protein_part 1742 1745	L28

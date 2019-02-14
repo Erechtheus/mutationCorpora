@@ -1,0 +1,81 @@
+T1	Unknown 7 10	MHC
+T2	Process 11 19	mutation
+T3	Parameter 31 39	enthalpy
+T4	Protein 56 71	T cell receptor
+T5	Process 72 79	binding
+T6	Body_part 110 116	immune
+T7	Process 117 125	response
+T8	Protein 129 150	T cell receptor (TCR)
+T9	Process 151 162	recognition
+T10	Protein_part 166 173	peptide
+T11	Category 212 219	complex
+T12	Category 221 225	pMHC
+T13	Molecule 227 236	molecules
+T14	Geometrical_part 242 259	crystal structure
+T15	Protein 263 272	AHIII TCR
+T16	Unknown 282 285	MHC
+T17	Molecule 287 293	HLA-A2
+T18	Process 337 344	binding
+T19	Process 345 356	orientation
+T20	Unknown 358 361	MHC
+T21	Process 362 371	mutations
+T22	Protein 396 404	proteins
+T23	Process 421 428	changes
+T24	Protein 432 435	TCR
+T25	Process 436 447	recognition
+T26	Process 467 476	responses
+T27	Molecule 509 515	HLA-A2
+T28	Molecule 516 523	mutants
+T29	Molecule 525 530	T163A
+T30	Molecule 532 537	W167A
+T31	Molecule 543 547	K66A
+T32	Parameter 582 599	Binding constants
+T33	Unknown 604 625	co-crystal structures
+T34	Protein 633 642	AHIII TCR
+T35	Molecule 657 664	mutants
+T36	Molecule 682 685	K66
+T37	Molecule 689 695	HLA-A2
+T38	Process 702 710	contacts
+T39	Protein_part 721 728	peptide
+T40	Protein 733 736	TCR
+T41	Protein_part 776 783	residue
+T42	Process 788 799	recognition
+T43	Protein 812 815	TCR
+T44	Molecule 821 825	K66A
+T45	Process 826 834	mutation
+T46	Body_part 858 870	AHIII T cell
+T47	Process 871 879	response
+T48	Parameter 895 911	binding affinity
+T49	Body_part 937 943	T cell
+T50	Process 944 952	response
+T51	Parameter 972 980	affinity
+T52	Molecule 999 1003	K66A
+T53	Process 1004 1012	mutation
+T54	State 1033 1045	conformation
+T55	Protein_part 1053 1060	peptide
+T56	Process 1066 1072	change
+T57	Parameter 1076 1084	affinity
+T58	Process 1109 1113	loss
+T59	Chemical 1117 1131	hydrogen bonds
+T60	State 1166 1180	conformational
+T61	Process 1181 1187	change
+T62	Protein_part 1195 1247	TCR complementarity-determining region 3 (CDR3) loop
+T63	Process 1260 1269	titration
+T64	Technique 1270 1281	calorimetry
+T65	Process 1296 1300	loss
+T66	Chemical 1304 1320	hydrogen bonding
+T67	Process 1332 1336	loss
+T68	Parameter 1340 1348	enthalpy
+T69	Protein_part 1405 1409	CDR1
+T70	Protein_part 1414 1424	CDR2 loops
+T71	Protein 1432 1435	TCR
+T72	Unknown 1456 1459	MHC
+T73	Process 1460 1471	restriction
+T74	Protein_part 1483 1493	CDR3 loops
+T75	Protein_part 1519 1526	peptide
+T76	Unknown 1556 1559	MHC
+T77	Process 1560 1568	mutation
+T78	State 1594 1606	conformation
+T79	Protein_part 1614 1621	peptide
+T80	State 1649 1661	conformation
+T81	Protein_part 1667 1671	CDR3

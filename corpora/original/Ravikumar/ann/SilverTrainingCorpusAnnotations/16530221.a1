@@ -1,0 +1,73 @@
+T1	Technique 4 19	X-ray structure
+T2	Protein_part 27 44	N-terminal domain
+T3	Protein 48 52	PILB
+T4	Organism 58 80	Neisseria meningitidis
+T5	Chemical 92 108	thioredoxin-fold
+T6	Protein 135 147	PilB protein
+T7	Body_part 186 200	outer membrane
+T8	Organism 204 225	Neisseria gonorrhoeae
+T9	Process 257 265	survival
+T10	Organism 274 282	pathogen
+T11	Organism 290 296	host's
+T12	Process 297 306	oxidative
+T13	Parameter 307 312	burst
+T14	Protein 314 318	PilB
+T15	Protein_part 340 347	domains
+T16	Protein_part 369 387	C-terminal domains
+T17	Protein 396 434	methionine sulfoxide reductase (Msr) A
+T18	Unknown 439 440	B
+T19	Parameter 441 451	activities
+T20	Protein 510 511	S
+T21	Protein 521 534	R enantiomers
+T22	Chemical 542 551	sulfoxide
+T23	Process 552 560	function
+T24	Chemical 568 589	methionine sulfoxides
+T25	Process 620 629	oxidation
+T26	Protein_part 633 652	methionine residues
+T27	Protein_part 658 696	N-terminal domain of PilB (Dom1(PILB))
+T28	Organism 700 714	N.meningitidis
+T29	Protein_part 734 744	CXXC motif
+T30	Protein_part 802 818	PilB Msr domains
+T31	Organism 836 852	Escherichia coli
+T32	Protein 853 872	thioredoxin (Trx) 1
+T33	Technique 883 898	X-ray structure
+T34	Protein_part 902 912	Dom1(PILB)
+T35	Organism 916 930	N.meningitidis
+T36	Protein 955 963	Trx-fold
+T37	Parameter 999 1009	properties
+T38	Protein_part 1013 1023	Dom1(PILB)
+T39	Process 1057 1068	differences
+T40	Organism 1074 1080	E.coli
+T41	Protein 1081 1085	Trx1
+T42	Protein_part 1093 1103	Dom1(PILB)
+T43	Location 1149 1160	periplasmic
+T44	Protein 1161 1186	disulfide oxidoreductases
+T45	Protein 1199 1209	cytochrome
+T46	Process 1210 1220	maturation
+T47	Process 1221 1229	pathways
+T48	Organism 1234 1242	bacteria
+T49	Protein_part 1248 1259	active site
+T50	State 1267 1279	reduced form
+T51	Protein_part 1283 1293	Dom1(PILB)
+T52	Process 1318 1331	stabilization
+T53	Protein_part 1339 1349	N-terminal
+T54	Protein_part 1360 1376	cysteine residue
+T55	Unknown 1395 1406	environment
+T56	Protein_part 1414 1424	C-terminal
+T57	Process 1425 1434	recycling
+T58	Protein_part 1435 1443	cysteine
+T59	Protein_part 1451 1461	CXXC motif
+T60	Unknown 1483 1490	pK(app)
+T61	Parameter 1491 1497	values
+T62	Protein_part 1511 1516	Cys67
+T63	Protein_part 1526 1531	Cys70
+T64	Value 1533 1536	9.3
+T65	Protein 1565 1612	cytochrome maturation disulfide oxidoreductases
+T66	Protein 1621 1625	Trx1
+T67	Protein_part 1643 1654	active site
+T68	Protein_part 1685 1707	residues (99)FLHE(102)
+T69	Process 1722 1726	role
+T70	Process 1773 1781	relation
+T71	Protein 1789 1808	disulfide reductase
+T72	Parameter 1809 1819	properties
+T73	Protein_part 1823 1833	Dom1(PILB)

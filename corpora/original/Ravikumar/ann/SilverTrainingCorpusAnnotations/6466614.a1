@@ -1,0 +1,73 @@
+T1	Process 0 4	Role
+T2	Protein_part 12 22	N-terminus
+T3	Process 30 41	interaction
+T4	Body_part 45 55	pancreatic
+T5	Protein 56 72	phospholipase A2
+T6	Category 89 99	substrates
+T7	Parameter 101 111	Properties
+T8	Geometrical_part 116 133	crystal structure
+T9	Protein 151 167	phospholipase A2
+T10	Chemical 176 197	N-terminal alpha-NH3+
+T11	Molecular_Part 198 203	group
+T12	Parameter 246 254	activity
+T13	Protein 258 274	phospholipase A2
+T14	Category 289 299	substrates
+T15	Chemical 323 333	alpha-NH3+
+T16	Molecular_Part 334 339	group
+T17	Parameter 359 367	activity
+T18	Molecular_Part 405 410	group
+T19	Body_part 422 432	pancreatic
+T20	Protein 433 450	phospholipases A2
+T21	Organism 452 459	Porcine
+T22	Organism 461 468	porcine
+T23	Organism 475 481	equine
+T24	Organism 483 488	human
+T25	Organism 490 495	ovine
+T26	Organism 501 507	bovine
+T27	Protein 508 525	phospholipases A2
+T28	Parameter 546 554	activity
+T29	Category 567 577	substrates
+T30	Protein 620 628	proteins
+T31	Category 657 666	substrate
+T32	Unknown 667 676	analogues
+T33	Protein 699 707	zymogens
+T34	Process 709 713	Loss
+T35	Parameter 717 725	activity
+T36	Parameter 753 767	rate constants
+T37	Protein 792 799	enzymes
+T38	Protein 827 844	phospholipases A2
+T39	Protein_part 860 871	active site
+T40	Parameter 887 897	activities
+T41	Category 911 921	substrates
+T42	Protein 964 972	zymogens
+T43	Technique 978 993	X-ray structure
+T44	Organism 1011 1017	bovine
+T45	Protein 1018 1034	phospholipase A2
+T46	Value 1038 1043	2.1-A
+T47	Parameter 1044 1054	resolution
+T48	Protein_part 1070 1087	N-terminal region
+T49	Protein_part 1096 1104	sequence
+T50	Protein 1119 1126	protein
+T51	Protein 1164 1170	enzyme
+T52	Protein 1214 1220	enzyme
+T53	Protein 1245 1252	zymogen
+T54	Geometrical_part 1253 1262	structure
+T55	Body_part 1341 1348	nuclear
+T56	Parameter 1349 1361	polarization
+T57	Chemical 1362 1364	1H
+T58	Technique 1365 1368	NMR
+T59	Protein_part 1397 1402	Trp-3
+T60	Protein_part 1407 1413	Tyr-69
+T61	Process 1431 1445	transamination
+T62	Technique 1460 1485	fluorescence spectroscopy
+T63	Protein_part 1500 1505	Trp-3
+T64	Organism 1523 1529	bovine
+T65	Protein 1530 1546	phospholipase A2
+T66	Process 1562 1567	shift
+T67	Process 1575 1583	emission
+T68	Unknown 1619 1630	environment
+T69	Protein_part 1634 1639	Trp-3
+T70	Protein 1661 1677	phospholipase A2
+T71	Protein 1697 1703	enzyme
+T72	Unknown 1738 1743	CRDT-
+T73	Value 1752 1760	05 00:00

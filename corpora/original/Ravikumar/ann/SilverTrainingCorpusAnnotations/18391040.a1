@@ -1,0 +1,61 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 60 87	penicillin-binding proteins
+T3	Unknown 88 90	2X
+T4	Protein_part 95 97	1A
+T5	Organism 103 127	Streptococcus pneumoniae
+T6	Chemical 143 175	parenteral carbapenem antibiotic
+T7	Unknown 203 216	antibacterial
+T8	Parameter 217 225	activity
+T9	State 238 256	chemical stability
+T10	State 272 281	stability
+T11	Organism 290 295	human
+T12	Body_part 296 301	renal
+T13	Chemical 302 320	dehydropeptidase-I
+T14	Body_part 381 385	oral
+T15	Chemical 386 407	carbapenem antibiotic
+T16	Parameter 433 448	bioavailability
+T17	Organism 452 458	humans
+T18	Chemical 505 528	beta-lactam antibiotics
+T19	Chemical 540 551	carbapenems
+T20	Process 553 559	target
+T21	Protein 560 594	penicillin-binding proteins (PBPs)
+T22	Body_part 606 614	membrane
+T23	Protein 626 633	enzymes
+T24	Process 654 659	roles
+T25	Protein 664 677	peptidoglycan
+T26	Process 678 690	biosynthesis
+T27	Process 708 715	binding
+T28	Chemical 719 730	carbapenems
+T29	Protein 734 738	PBPs
+T30	Geometrical_part 758 776	crystal structures
+T31	Protein 784 791	trypsin
+T32	Protein 815 821	PBP 2X
+T33	Protein 826 829	PBP
+T34	Protein_part 830 832	1A
+T35	Organism 838 862	Streptococcus pneumoniae
+T36	Organism 863 872	strain R6
+T37	Geometrical_part 922 932	structures
+T38	Category 940 949	complexes
+T39	Chemical 968 978	carbapenem
+T40	Protein_part 979 994	C-2 side chains
+T41	Process 1012 1024	interactions
+T42	Protein_part 1030 1036	Trp374
+T43	Protein_part 1041 1047	Thr526
+T44	Protein 1051 1057	PBP 2X
+T45	Protein_part 1067 1073	Trp411
+T46	Protein_part 1078 1084	Thr543
+T47	Protein 1088 1091	PBP
+T48	Protein_part 1092 1094	1A
+T49	Protein_part 1100 1103	Trp
+T50	Protein_part 1108 1120	Thr residues
+T51	Protein 1138 1144	PBP 2B
+T52	Process 1173 1185	interactions
+T53	Protein_part 1198 1213	C-2 side chains
+T54	Chemical 1217 1228	carbapenems
+T55	Protein_part 1247 1250	Trp
+T56	Protein_part 1255 1267	Thr residues
+T57	Protein 1271 1275	PBPs
+T58	Process 1291 1296	roles
+T59	Process 1304 1311	binding
+T60	Chemical 1315 1326	carbapenems
+T61	Protein 1330 1334	PBPs

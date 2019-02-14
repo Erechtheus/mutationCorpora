@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 26	M-Ras
+T3	Chemical 37 40	GTP
+T4	State 53 71	state conformation
+T5	Protein 75 99	Ras family small GTPases
+T6	Unknown 115 122	members
+T7	Protein 126 150	Ras family small GTPases
+T8	Protein 162 167	M-Ras
+T9	Geometrical_part 179 196	primary structure
+T10	Protein_part 215 222	regions
+T11	Protein 228 231	Ras
+T12	Process 253 262	different
+T13	Parameter 263 281	binding properties
+T14	Protein 285 288	Ras
+T15	Protein 307 314	c-Raf-1
+T16	Geometrical_part 335 352	crystal structure
+T17	Protein 356 361	M-Ras
+T18	Chemical 369 372	GDP
+T19	Chemical 383 392	guanosine
+T20	Unknown 393 401	5'-(beta
+T21	Chemical 402 426	gamma-imido)triphosphate
+T22	Unknown 428 431	Gpp
+T23	Unknown 432 434	NH
+T24	Geometrical_part 463 472	structure
+T25	Protein 476 481	M-Ras
+T26	Protein 501 506	H-Ras
+T27	Protein 511 516	Rap2A
+T28	Unknown 530 544	M-Ras-Gpp(NH)p
+T29	Process 569 575	switch
+T30	Unknown 576 577	I
+T31	State 578 590	conformation
+T32	Process 635 647	interactions
+T33	Protein_part 656 662	Thr-45
+T34	Protein_part 681 687	Thr-35
+T35	Protein 691 696	H-Ras
+T36	Protein_part 714 720	region
+T37	Chemical 729 744	gamma-phosphate
+T38	Unknown 748 756	Gpp(NH)p
+T39	Value 767 770	31P
+T40	Technique 771 774	NMR
+T41	Unknown 796 810	H-Ras-Gpp(NH)p
+T42	State 841 854	conformations
+T43	State 856 862	states
+T44	State 880 885	state
+T45	Protein 913 918	H-Ras
+T46	State 947 959	conformation
+T47	Category 973 980	complex
+T48	State 997 1002	state
+T49	State 1039 1051	conformation
+T50	Geometrical_part 1059 1077	tertiary structure
+T51	Value 1095 1098	31P
+T52	Technique 1099 1111	NMR analysis
+T53	Unknown 1128 1142	M-Ras-Gpp(NH)p
+T54	State 1169 1174	state
+T55	State 1177 1189	conformation
+T56	State 1207 1221	conformational
+T57	Process 1222 1232	transition
+T58	State 1236 1241	state
+T59	Process 1249 1260	association
+T60	Protein 1266 1273	c-Raf-1
+T61	Unknown 1314 1323	structure
+T62	Unknown 1327 1342	M-Ras-Gp-p(NH)p
+T63	State 1362 1367	state
+T64	State 1370 1382	conformation
+T65	State 1404 1409	state
+T66	Protein 1415 1420	M-Ras
+T67	Process 1455 1462	binding
+T68	Protein 1478 1481	Ras
+T69	Process 1508 1518	importance
+T70	Parameter 1535 1551	structure factor
+T71	Chemical 1561 1576	GTPase-effector
+T72	Process 1577 1588	interaction
+T73	State 1630 1635	state
+T74	Unknown 1638 1647	structure
+T75	Process 1669 1674	basis
+T76	Chemical 1708 1713	drugs
+T77	Chemical 1717 1726	compounds
+T78	Protein 1737 1740	Ras
+T79	State 1748 1753	state
+T80	State 1762 1774	conformation

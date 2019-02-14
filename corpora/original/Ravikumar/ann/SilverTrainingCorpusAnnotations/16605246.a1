@@ -1,0 +1,81 @@
+T1	Process 11 15	role
+T2	Organism 42 47	human
+T3	Protein 48 67	monoamine oxidase B
+T4	Unknown 69 79	structures
+T5	Parameter 94 104	properties
+T6	Protein_part 108 114	Tyr435
+T7	Protein 115 130	mutant proteins
+T8	Chemical 170 176	flavin
+T9	Protein 187 210	amine oxidizing enzymes
+T10	Organism 221 226	human
+T11	Protein 227 247	monoamine oxidases A
+T12	Unknown 252 253	B
+T13	Unknown 255 260	MAO A
+T14	Unknown 265 270	MAO B
+T15	Protein_part 277 306	aromatic amino  acid residues
+T16	Chemical 351 362	flavin ring
+T17	Process 388 392	role
+T18	Process 396 405	catalysis
+T19	Organism 422 427	human
+T20	Unknown 428 433	MAO B
+T21	Protein_part 439 462	tyrosyl residues  (Y398
+T22	Protein_part 467 472	Y435)
+T23	Category 490 499	substrate
+T24	Process 500 507	binding
+T25	Protein_part 508 512	site
+T26	Body_part 523 527	face
+T27	Technique 544 569	flavin ring [Binda et al.
+T28	Value 577 578	J
+T29	Molecular_Part 614 619	probe
+T30	Unknown 656 665	structure
+T31	Protein_part 667 673	Tyr435
+T32	Unknown 677 682	MAO B
+T33	Protein_part 705 720	amino acids Phe
+T34	Protein_part 722 725	His
+T35	Protein_part 727 730	Leu
+T36	Protein_part 735 738	Trp
+T37	Protein 744 759	mutant proteins
+T38	Organism 773 788	Pichia pastoris
+T39	Protein 824 838	mutant protein
+T40	Chemical 857 860	FAD
+T41	Process 924 935	alterations
+T42	Protein_part 939 961	active site structures
+T43	Process 978 988	comparison
+T44	Geometrical_part 1009 1027	crystal structures
+T45	Protein 1041 1050	WT enzyme
+T46	Parameter 1065 1083	k(cat)/K(m) values
+T47	Protein 1093 1106	mutant enzyme
+T48	Parameter 1112 1116	Y435
+T49	Value 1117 1124	> Y435F
+T50	Protein_part 1127 1132	Y435L
+T51	Parameter 1135 1140	Y435H
+T52	Value 1141 1148	> Y435W
+T53	Physiology 1160 1168	behavior
+T54	Body_part 1195 1203	membrane
+T55	Unknown 1219 1224	MAO A
+T56	Unknown 1229 1235	MAO  B
+T57	Protein_part 1237 1247	MAO A Y444
+T58	Protein 1248 1262	mutant enzymes
+T59	Body_part 1291 1299	membrane
+T60	Process 1300 1310	extraction
+T61	Chemical 1313 1331	p-Nitrobenzylamine
+T62	Category 1354 1363	substrate
+T63	Chemical 1370 1391	p-nitrophenethylamine
+T64	Category 1414 1423	substrate
+T65	Protein 1432 1434	WT
+T66	Unknown 1455 1460	MAO B
+T67	Technique 1462 1470	Analysis
+T68	Parameter 1480 1487	kinetic
+T69	Process 1521 1529	function
+T70	Unknown 1556 1559	MAO
+T71	Geometrical_part 1573 1579	steric
+T72	Process 1580 1584	role
+T73	Category 1588 1597	substrate
+T74	Process 1598 1605	binding
+T75	Protein 1624 1639	flavin coenzyme
+T76	Category 1683 1692	substrate
+T77	Chemical 1693 1698	amine
+T78	Molecular_Part 1699 1705	moiety
+T79	Process 1758 1780	nucleophilic mechanism
+T80	Chemical 1795 1800	amine
+T81	Process 1801 1810	oxidation

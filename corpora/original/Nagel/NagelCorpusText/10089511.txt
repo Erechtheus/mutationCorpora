@@ -1,0 +1,7 @@
+Ferredoxin I (Fd I) from Spinacia oleracea is composed of 97 amino-acid residues and a [2Fe-2S] cluster . 
+The crystal structure of the E92K mutant of Fd I was solved by molecular replacement and refined to an R factor of 19.6% for 11755 reflections at 1.7 A resolution . 
+The overall structure and the active centre of spinach Fd is highly conserved with respect to ferredoxins of known structure . 
+The E92K mutation appears to disturb a hydrogen-bond network which stabilizes the loop bearing the [2Fe-2S] cluster . 
+This observation provides a rationale for the reduced electron-transfer efficiency displayed by the E92K mutant . 
+Inspection of the crystal packing reveals that the side chain of Lys92 is engaged in an intermolecular interaction with Asp26 of a symmetry-related molecule . 
+This feature may explain why only the mutant E92K and not wild-type Fd I could be successfully crystallized . 

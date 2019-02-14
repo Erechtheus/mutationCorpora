@@ -1,0 +1,89 @@
+T1	Process 0 9	Interplay
+T2	Chemical 18 21	ion
+T3	Process 22 29	binding
+T4	Process 34 43	catalysis
+T5	Chemical 51 62	thioredoxin
+T6	Protein 80 96	reductase family
+T7	Protein 105 122	thioredoxin (Trx)
+T8	Protein 140 156	reductase family
+T9	Protein 167 176	reductase
+T10	Organism 182 203	Staphylococcus aureus
+T11	Body_part 204 217	plasmid pI258
+T12	Body_part 222 226	ArsC
+T13	Organism 237 264	Bacillus subtilis (Bs_ArsC)
+T14	Protein 290 312	detoxification enzymes
+T15	Process 314 323	Catalysis
+T16	Process 331 340	reduction
+T17	Chemical 356 364	arsenite
+T18	Protein 376 382	P-loop
+T19	Protein_part 384 419	Cys10Thr11Gly12Asn13Ser14Cys15Arg16
+T20	Protein_part 432 437	motif
+T21	Chemical 444 454	disulphide
+T22	Process 455 462	cascade
+T23	Protein_part 487 504	cysteine residues
+T24	Protein_part 506 511	Cys10
+T25	Protein_part 513 518	Cys82
+T26	Protein_part 523 528	Cys89
+T27	Parameter 539 547	activity
+T28	Process 575 582	binding
+T29	Chemical 598 607	oxyanions
+T30	Protein_part 615 633	P-loop active site
+T31	Process 647 654	binding
+T32	Chemical 658 667	potassium
+T33	Chemical 682 688	cation
+T34	Protein_part 697 701	site
+T35	Parameter 720 751	steady-state kinetic parameters
+T36	Organism 755 762	Bs_ArsC
+T37	Chemical 783 791	sulphate
+T38	Chemical 795 804	potassium
+T39	Process 829 837	mutation
+T40	Protein_part 843 852	histidine
+T41	Protein_part 854 857	H62
+T42	Value 868 877	about 6 A
+T43	Chemical 887 896	potassium
+T44	Protein_part 905 909	site
+T45	Chemical 927 936	glutamine
+T46	Parameter 951 958	kinetic
+T47	Chemical 973 982	potassium
+T48	Parameter 1001 1017	binding affinity
+T49	Chemical 1022 1031	potassium
+T50	Process 1051 1059	presence
+T51	Protein_part 1065 1071	lysine
+T52	Protein_part 1073 1076	K33
+T53	Protein_part 1084 1097	aspartic acid
+T54	Protein_part 1099 1102	D33
+T55	Value 1128 1136	negative
+T56	Parameter 1137 1144	charges
+T57	Parameter 1146 1149	D30
+T58	Parameter 1154 1157	E31
+T59	Geometrical_part 1166 1173	surface
+T60	Protein 1177 1180	Trx
+T61	Protein 1198 1208	reductases
+T62	Protein 1217 1223	P-loop
+T63	Protein 1231 1234	Trx
+T64	Protein 1252 1268	reductase family
+T65	Chemical 1274 1286	peptide bond
+T66	Protein_part 1295 1300	Gly12
+T67	Protein_part 1305 1310	Asn13
+T68	State 1334 1347	conformations
+T69	Geometrical_part 1360 1368	geometry
+T70	Protein 1376 1382	P-loop
+T71	Protein_part 1388 1393	Asn13
+T72	Protein 1397 1401	beta
+T73	State 1402 1414	conformation
+T74	Protein 1462 1473	LMW PTPases
+T75	Chemical 1504 1513	oxyanions
+T76	Unknown 1532 1537	pK(a)
+T77	Parameter 1538 1543	value
+T78	Protein_part 1547 1552	Cys10
+T79	Protein_part 1557 1562	Cys82
+T80	Chemical 1576 1585	oxyanions
+T81	Protein 1600 1606	P-loop
+T82	Process 1679 1687	increase
+T83	Parameter 1691 1703	k(cat) value
+T84	Process 1737 1746	interplay
+T85	Chemical 1750 1759	potassium
+T86	Chemical 1764 1772	sulphate
+T87	Parameter 1786 1794	kinetics
+T88	Protein 1798 1801	Trx
+T89	Protein 1819 1829	reductases

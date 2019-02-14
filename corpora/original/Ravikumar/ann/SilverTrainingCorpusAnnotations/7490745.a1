@@ -1,0 +1,104 @@
+T1	Geometrical_part 12 38	crystallographic structure
+T2	Protein 44 81	DD-peptidase penicillin-target enzyme
+T3	Value 85 90	1.6 A
+T4	Parameter 91 101	resolution
+T5	Protein 107 135	D-alanyl-D-alanine peptidase
+T6	Organism 141 153	Streptomyces
+T7	Protein 158 161	R61
+T8	Value 167 180	37,500 dalton
+T9	Body_part 181 192	exocellular
+T10	Protein 193 199	enzyme
+T11	Body_part 231 239	membrane
+T12	Protein 246 256	peptidases
+T13	Organism 279 288	bacterial
+T14	Body_part 289 298	cell wall
+T15	Process 299 311	biosynthesis
+T16	Process 313 323	Inhibition
+T17	Protein 333 340	enzymes
+T18	Chemical 345 368	beta-lactam antibiotics
+T19	Organism 389 398	bacterial
+T20	Body_part 399 403	cell
+T21	Physiology 404 409	death
+T22	Technique 415 438	X-ray crystal structure
+T23	Protein 446 478	R61 D-alanyl-D-alanine peptidase
+T24	Process 522 533	replacement
+T25	Process 573 583	refinement
+T26	Geometrical_part 589 600	space group
+T27	Geometrical_part 605 614	unit cell
+T28	Parameter 615 625	parameters
+T29	Unknown 630 643	P2(1)2(1)2(1)
+T30	Parameter 649 650	a
+T31	Value 653 659	51.1 A
+T32	Parameter 661 662	b
+T33	Value 665 671	67.3 A
+T34	Parameter 676 677	c
+T35	Value 680 687	102.4 A
+T36	Unknown 693 702	structure
+T37	Parameter 726 733	2 sigma
+T38	Value 743 748	1.6 A
+T39	Parameter 749 759	resolution
+T40	Technique 767 783	crystallographic
+T41	Parameter 784 792	R-factor
+T42	Value 796 801	0.148
+T43	Protein_part 826 834	residues
+T44	Chemical 841 846	atoms
+T45	Chemical 856 873	solvent molecules
+T46	Parameter 887 905	temperature factor
+T47	Value 909 915	9.6 A2
+T48	Value 955 961	0.14 A
+T49	Protein 967 974	protein
+T50	Protein 996 1013	polypeptide chain
+T51	Protein_part 1033 1040	regions
+T52	Protein_part 1046 1052	region
+T53	Geometrical_part 1078 1090	antiparallel
+T54	Protein_part 1091 1101	beta-sheet
+T55	Protein_part 1107 1114	helices
+T56	Body_part 1123 1128	faces
+T57	Protein_part 1135 1141	region
+T58	Chemical 1160 1165	amino
+T59	Protein_part 1170 1186	carboxyl termini
+T60	Protein_part 1192 1205	second region
+T61	Geometrical_part 1213 1220	helical
+T62	Value 1222 1235	Sixty percent
+T63	Protein_part 1243 1251	residues
+T64	Protein_part 1261 1268	helices
+T65	Protein_part 1272 1282	beta-sheet
+T66	Protein_part 1297 1302	Ser62
+T67	Protein_part 1328 1335	regions
+T68	Protein 1343 1349	enzyme
+T69	Chemical 1358 1367	amino end
+T70	Protein 1375 1384	protein's
+T71	Protein_part 1385 1398	longest-helix
+T72	Protein_part 1436 1441	helix
+T73	Protein_part 1475 1486	alpha-helix
+T74	Protein_part 1492 1503	active site
+T75	Geometrical_part 1520 1526	pocket
+T76	Protein_part 1570 1578	residues
+T77	Chemical 1583 1591	oxyanion
+T78	Protein_part 1610 1618	Ser62 NH
+T79	Protein_part 1623 1632	Thr301 NH
+T80	Geometrical_part 1638 1644	pocket
+T81	Protein_part 1671 1679	residues
+T82	Chemical 1706 1716	penicillin
+T83	Protein 1725 1733	proteins
+T84	Protein 1738 1753	beta-lactamases
+T85	Protein_part 1768 1776	residues
+T86	Protein_part 1778 1783	Lys65
+T87	Protein_part 1788 1794	Tyr159
+T88	Protein_part 1813 1824	side-chains
+T89	State 1847 1860	conformations
+T90	Protein 1868 1889	R61 crystal structure
+T91	Protein_part 1907 1920	proline rings
+T92	State 1931 1944	conformations
+T93	Chemical 2008 2020	anionic acid
+T94	Protein_part 2049 2055	Glu166
+T95	Protein 2065 2088	Class A beta-lactamases
+T96	Chemical 2102 2117	water molecules
+T97	Chemical 2119 2123	O507
+T98	Chemical 2128 2132	O644
+T99	Protein_part 2158 2169	active site
+T100	Chemical 2174 2182	hydrogen
+T101	Value 2205 2211	2.6  A
+T102	Chemical 2214 2218	O507
+T103	Chemical 2259 2273	water molecule
+T104	Process 2278 2289	deacylation

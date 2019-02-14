@@ -1,0 +1,63 @@
+T1	Process 26 42	characterization
+T2	Protein 48 64	thiol peroxidase
+T3	Organism 70 96	Mycobacterium tuberculosis
+T4	Protein 100 122	thiol peroxidase (Tpx)
+T5	Organism 128 154	Mycobacterium tuberculosis
+T6	Protein 186 192	enzyme
+T7	Chemical 199 204	NADPH
+T8	Protein 212 222	peroxidase
+T9	Parameter 223 231	activity
+T10	Protein 240 280	thioredoxin-thioredoxin reductase system
+T11	Molecule 284 292	electron
+T12	Category 293 298	donor
+T13	Chemical 304 316	anti-oxidant
+T14	Parameter 317 325	activity
+T15	Chemical 331 336	thiol
+T16	Chemical 347 352	metal
+T17	Process 363 372	oxidation
+T18	Unknown 373 379	system
+T19	Chemical 392 396	H2O2
+T20	Chemical 399 420	t-butyl hydroperoxide
+T21	Chemical 433 446	hydroperoxide
+T22	Chemical 468 487	sulfhydryl reagents
+T23	Protein_part 539 544	Cys60
+T24	Protein_part 562 567	Cys93
+T25	Protein_part 569 586	cysteine residues
+T26	Protein_part 600 611	amino acids
+T27	Parameter 626 634	activity
+T28	Technique 640 655	X-ray structure
+T29	Parameter 672 682	resolution
+T30	Value 686 692	1.75 A
+T31	Chemical 701 717	thioredoxin fold
+T32	Protein 743 771	peroxiredoxin family members
+T33	Process 773 786	Superposition
+T34	Protein 803 813	homologues
+T35	Organism 863 878	M. tuberculosis
+T36	Protein 879 882	Tpx
+T37	Unknown 888 894	member
+T38	Protein 911 939	two-Cys peroxiredoxin family
+T39	Parameter 964 972	distance
+T40	Chemical 992 1004	Calpha atoms
+T41	Protein_part 1008 1013	Cys60
+T42	Protein_part 1018 1023	Cys93
+T43	Protein_part 1050 1067	cysteine residues
+T44	Protein_part 1084 1091	regions
+T45	Organism 1115 1130	M. tuberculosis
+T46	Protein 1131 1137	enzyme
+T47	Protein_part 1162 1172	side-chain
+T48	Protein_part 1176 1181	Cys60
+T49	Organism 1229 1253	Streptococcus pneumoniae
+T50	Protein 1254 1257	Tpx
+T51	Geometrical_part 1258 1267	structure
+T52	Protein_part 1278 1286	residues
+T53	Geometrical_part 1291 1295	part
+T54	Geometrical_part 1312 1319	helical
+T55	Protein_part 1320 1328	segments
+T56	Organism 1334 1349	M. tuberculosis
+T57	Protein 1350 1353	Tpx
+T58	Chemical 1373 1381	solution
+T59	Geometrical_part 1393 1410	crystal structure
+T60	Protein_part 1412 1432	Amino  acid residues
+T61	Protein 1443 1451	monomers
+T62	Protein_part 1466 1477	active site
+T63	Geometrical_part 1478 1484	pocket

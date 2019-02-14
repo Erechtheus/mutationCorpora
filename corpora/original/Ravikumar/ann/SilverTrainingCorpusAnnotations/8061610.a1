@@ -1,0 +1,108 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 33 64	human triosephosphate isomerase
+T3	Value 68 73	2.8 A
+T4	Parameter 74 84	resolution
+T5	Protein 86 111	Triosephosphate isomerase
+T6	Organism 120 125	human
+T7	Physiology 126 143	genetic disorders
+T8	Process 148 158	comparison
+T9	Organism 168 180	trypanosomal
+T10	Protein 181 187	enzyme
+T11	Geometrical_part 193 210	crystal structure
+T12	Protein 226 264	human triosephosphate isomerase (hTIM)
+T13	State 304 320	transition-state
+T14	Chemical 321 348	analogue 2-phosphoglycolate
+T15	Parameter 354 364	resolution
+T16	Value 368 373	2.8 A
+T17	Process 381 391	refinement
+T18	Parameter 397 405	R-factor
+T19	Value 409 414	16.7%
+T20	Geometrical_part 425 433	geometry
+T21	Protein 475 480	dimer
+T22	Value 484 493	53,000 Da
+T23	Protein 514 522	subunits
+T24	Category 535 544	inhibitor
+T25	Geometrical_part 569 573	loop
+T26	Protein_part 586 602	residues 168-174
+T27	State 623 635	conformation
+T28	Protein 643 650	subunit
+T29	Category 666 675	inhibitor
+T30	State 695 707	conformation
+T31	Protein 721 728	subunit
+T32	Geometrical_part 734 738	tips
+T33	Geometrical_part 746 750	loop
+T34	State 762 775	conformations
+T35	Value 789 792	7 A
+T36	Unknown 810 813	RMS
+T37	Process 814 824	difference
+T38	Protein 833 837	hTIM
+T39	Protein 846 852	enzyme
+T40	Organism 856 874	Trypanosoma brucei
+T41	Value 921 927	1.12 A
+T42	Value 932 937	487 C
+T43	Protein 938 943	alpha
+T44	Value 959 962	53%
+T45	Parameter 963 980	sequence identity
+T46	Protein_part 994 1002	sequence
+T47	Process 1003 1014	differences
+T48	Organism 1027 1032	human
+T49	Organism 1037 1045	parasite
+T50	Protein 1046 1053	enzymes
+T51	Value 1063 1073	about 13 A
+T52	Chemical 1083 1092	phosphate
+T53	Process 1093 1100	binding
+T54	Protein_part 1101 1105	site
+T55	Organism 1111 1118	chicken
+T56	Organism 1123 1128	human
+T57	Protein 1129 1136	enzymes
+T58	Unknown 1145 1148	RMS
+T59	Process 1149 1159	difference
+T60	Value 1163 1169	0.69 A
+T61	Protein_part 1189 1197	residues
+T62	Value 1202 1211	about 90%
+T63	Parameter 1212 1229	sequence identity
+T64	Process 1245 1254	mutations
+T65	Process 1270 1280	similarity
+T66	Process 1288 1295	packing
+T67	Protein_part 1299 1310	side chains
+T68	Protein_part 1330 1342	beta-barrels
+T69	Protein 1354 1361	enzymes
+T70	Process 1370 1385	point mutations
+T71	Protein 1389 1393	hTIM
+T72	Physiology 1420 1444	severe genetic disorders
+T73	Physiology 1468 1476	disorder
+T74	Body_part 1480 1493	neuromuscular
+T75	Process 1494 1504	impairment
+T76	Unknown 1523 1532	structure
+T77	Organism 1540 1545	human
+T78	Protein 1546 1552	enzyme
+T79	Process 1562 1569	insight
+T80	Process 1588 1594	effect
+T81	Process 1609 1618	mutations
+T82	Protein_part 1620 1627	Glu 104
+T83	Protein_part 1631 1634	Asp
+T84	Protein_part 1639 1646	Phe 240
+T85	Protein_part 1650 1653	Ile
+T86	Protein 1662 1668	enzyme
+T87	Process 1680 1688	mutation
+T88	Physiology 1722 1738	genetic disorder
+T89	Protein_part 1740 1747	Gly 122
+T90	Protein_part 1751 1754	Arg
+T91	Protein_part 1794 1801	residue
+T92	Location 1824 1841	catalytic centers
+T93	Protein 1849 1854	dimer
+T94	Protein 1876 1881	dimer
+T95	State 1923 1932	stability
+T96	Parameter 1936 1944	activity
+T97	Process 1946 1956	Inspection
+T98	Unknown 1978 1987	structure
+T99	Organism 1991 2003	trypanosomal
+T100	Protein 2004 2029	triosephosphate isomerase
+T101	Chemical 2043 2053	methionine
+T102	Location 2057 2069	position 122
+T103	Process 2105 2112	effects
+T104	Protein_part 2120 2123	Gly
+T105	Protein_part 2127 2130	Arg
+T106	Process 2131 2139	mutation
+T107	Organism 2147 2152	human
+T108	Protein 2153 2159	enzyme

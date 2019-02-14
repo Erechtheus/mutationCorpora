@@ -1,0 +1,88 @@
+T1	Unknown 0 10	Structures
+T2	Organism 14 19	human
+T3	Protein 20 46	N-Acetylglucosamine kinase
+T4	Category 54 63	complexes
+T5	Chemical 69 88	N-Acetylglucosamine
+T6	Chemical 98 109	ADP/glucose
+T7	Category 125 134	substrate
+T8	Process 151 161	regulation
+T9	Chemical 163 191	N-Acetylglucosamine (GlcNAc)
+T10	Parameter 201 210	component
+T11	Chemical 214 235	complex carbohydrates
+T12	Chemical 298 313	glycoconjugates
+T13	Process 356 363	pathway
+T14	Protein 378 391	GlcNAc kinase
+T15	Chemical 401 407	GlcNAc
+T16	Chemical 411 429	GlcNAc-6-phosphate
+T17	Parameter 433 442	component
+T18	Chemical 455 465	UDP-GlcNAc
+T19	Process 466 478	biosynthesis
+T20	Parameter 482 488	energy
+T21	Process 489 499	metabolism
+T22	Protein 501 514	GlcNAc kinase
+T23	Chemical 530 535	sugar
+T24	Unknown 536 566	kinase/Hsp70/actin superfamily
+T25	Chemical 581 591	phosphoryl
+T26	Process 592 600	transfer
+T27	Chemical 606 609	ATP
+T28	Category 630 640	substrates
+T29	Process 660 669	catalysis
+T30	State 697 711	conformational
+T31	Process 712 718	change
+T32	Protein_part 732 742	N-terminal
+T33	Protein_part 753 763	C-terminal
+T34	Protein_part 770 777	domains
+T35	Category 790 800	substrates
+T36	Geometrical_part 821 839	crystal structures
+T37	Organism 855 860	human
+T38	Protein 861 874	GlcNAc kinase
+T39	Category 883 890	complex
+T40	Chemical 896 902	GlcNAc
+T41	Category 920 927	complex
+T42	Chemical 933 936	ADP
+T43	Chemical 941 948	glucose
+T44	Protein_part 954 965	active site
+T45	Protein 969 982	GlcNAc kinase
+T46	Geometrical_part 1004 1009	cleft
+T47	Protein_part 1026 1033	domains
+T48	Unknown 1041 1042	V
+T49	Protein 1050 1057	monomer
+T50	Protein 1063 1069	enzyme
+T51	Process 1088 1101	configuration
+T52	Chemical 1109 1115	GlcNAc
+T53	Category 1122 1129	complex
+T54	Chemical 1134 1140	GlcNAc
+T55	Protein_part 1156 1164	residues
+T56	Protein_part 1173 1180	domains
+T57	Chemical 1199 1214	N-acetyl methyl
+T58	Molecular_Part 1215 1220	group
+T59	Process 1221 1229	contacts
+T60	Protein_part 1230 1238	residues
+T61	Protein 1252 1259	monomer
+T62	Protein 1267 1276	homodimer
+T63	Unknown 1313 1320	members
+T64	Chemical 1328 1333	sugar
+T65	Unknown 1334 1364	kinase/Hsp70/actin superfamily
+T66	Process 1391 1404	configuration
+T67	Chemical 1412 1423	ADP/glucose
+T68	Unknown 1430 1439	structure
+T69	Chemical 1447 1454	glucose
+T70	Process 1473 1485	interactions
+T71	Parameter 1506 1522	binding affinity
+T72	Protein 1527 1540	GlcNAc kinase
+T73	Process 1573 1585	implications
+T74	Geometrical_part 1603 1621	crystal structures
+T75	Protein 1625 1639	GlcNAc kinases
+T76	Organism 1645 1667	Chromobacter violaceum
+T77	Organism 1672 1696	Porphyromonas gingivalis
+T78	Protein_part 1711 1717	Tyr205
+T79	Protein 1746 1754	thrombin
+T80	Body_part 1765 1774	platelets
+T81	Body_part 1776 1781	lines
+T82	Chemical 1787 1793	GlcNAc
+T83	Process 1794 1801	binding
+T84	Geometrical_part 1802 1808	pocket
+T85	Process 1829 1844	phosphorylation
+T86	Protein_part 1848 1854	Tyr205
+T87	Protein 1868 1881	GlcNAc kinase
+T88	Parameter 1882 1890	activity

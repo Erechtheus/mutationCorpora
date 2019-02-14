@@ -1,0 +1,96 @@
+T1	Unknown 4 13	structure
+T2	Protein 25 30	GluR2
+T3	Category 31 37	ligand
+T4	Protein 51 56	dimer
+T5	Category 60 67	complex
+T6	Parameter 73 86	(S)-glutamate
+T7	Category 95 105	antagonist
+T8	Parameter 106 116	(S)-NS1209
+T9	Protein 118 157	Ionotropic glutamate receptors (iGluRs)
+T10	Body_part 171 179	synaptic
+T11	Process 180 192	transmission
+T12	Body_part 201 206	cells
+T13	Body_part 214 236	central nervous system
+T14	Body_part 283 288	brain
+T15	Process 289 297	function
+T16	Protein 299 305	iGluRs
+T17	Body_part 332 337	brain
+T18	Physiology 338 347	disorders
+T19	Physiology 409 426	epileptic seizure
+T20	Unknown 428 439	(RS)-NS1209
+T21	Category 467 477	antagonist
+T22	Protein 481 544	2-amino-3-(3-hydroxy-5-methyl-4-isoxazolyl)propionate receptors
+T23	Chemical 575 589	anticonvulsant
+T24	Body_part 594 609	neuroprotective
+T25	Process 610 617	effects
+T26	Protein 639 701	2-amino-3-(3-hydroxy-5-methyl-4-isoxazolyl)propionate receptor
+T27	Process 702 709	binding
+T28	Parameter 714 725	selectivity
+T29	Category 749 760	antagonists
+T30	Technique 788 803	X-ray structure
+T31	Protein 815 820	GluR2
+T32	Category 821 827	ligand
+T33	Protein 841 846	dimer
+T34	Category 871 881	antagonist
+T35	Parameter 882 897	(S)-8-methyl-5-
+T36	Chemical 901 922	N,N-dimethylsulfamoyl
+T37	Unknown 922 938	)phenyl)-6,7,8,9
+T38	Chemical 939 1026	-tetrahydro-1H-pyrrolo[3 ,2-h]-isoquinoline-2,3-dione-3-O-(4-hydroxybutyrate-2-yl)oxime
+T39	Parameter 1028 1038	(S)-NS1209
+T40	Protein 1047 1055	protomer
+T41	Category 1075 1081	ligand
+T42	Parameter 1082 1095	(S)-glutamate
+T43	Parameter 1110 1120	(S)-NS1209
+T44	State 1145 1162	open conformation
+T45	Protein_part 1170 1172	D1
+T46	Protein_part 1177 1187	D2 domains
+T47	Category 1195 1201	ligand
+T48	Unknown 1236 1245	structure
+T49	Geometrical_part 1253 1259	steric
+T50	Parameter 1290 1294	time
+T51	Category 1295 1301	ligand
+T52	Process 1310 1324	hyperextension
+T53	Process 1332 1339	binding
+T54	Protein_part 1340 1347	domains
+T55	Parameter 1367 1377	(S)-NS1209
+T56	Process 1393 1400	binding
+T57	Chemical 1417 1433	hydrogen bonding
+T58	Protein_part 1437 1443	Tyr450
+T59	Protein_part 1448 1454	Gly451
+T60	Protein 1458 1460	D1
+T61	Geometrical_part 1462 1467	Parts
+T62	Parameter 1471 1481	(S)-NS1209
+T63	Parameter 1493 1498	areas
+T64	Protein 1506 1511	GluR2
+T65	Category 1512 1518	ligand
+T66	Geometrical_part 1527 1532	cleft
+T67	Protein_part 1548 1556	residues
+T68	Protein 1586 1603	receptor subtypes
+T69	Parameter 1609 1619	affinities
+T70	Unknown 1623 1634	(RS)-NS1209
+T71	Protein 1642 1647	GluR2
+T72	Category 1648 1654	ligand
+T73	Protein 1682 1689	GluR1-6
+T74	Protein 1702 1707	GluR1
+T75	Protein 1712 1727	GluR3 receptors
+T76	Parameter 1761 1779	binding affinities
+T77	Protein 1801 1806	GluR3
+T78	Protein 1811 1826	GluR4 receptors
+T79	Technique 1853 1858	assay
+T80	Process 1863 1873	difference
+T81	Protein 1906 1917	GluR2(Q)(o)
+T82	Protein 1922 1940	GluR3(o) receptors
+T83	Process 1964 1971	binding
+T84	Category 1979 1990	antagonists
+T85	Parameter 1991 2001	(S)-NS1209
+T86	Unknown 2003 2007	DNQX
+T87	Parameter 2012 2020	(S)-ATPO
+T88	Protein 2028 2033	GluR2
+T89	Category 2034 2040	ligand
+T90	Process 2078 2090	displacement
+T91	Process 2102 2111	titration
+T92	Technique 2112 2123	calorimetry
+T93	Process 2129 2141	displacement
+T94	Parameter 2145 2158	(S)-glutamate
+T95	Category 2166 2177	antagonists
+T96	Parameter 2204 2212	enthalpy

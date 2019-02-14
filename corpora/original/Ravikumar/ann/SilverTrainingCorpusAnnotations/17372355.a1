@@ -1,0 +1,60 @@
+T1	Geometrical_part 0 9	Structure
+T2	Category 17 24	complex
+T3	Protein 28 35	trypsin
+T4	Category 67 76	inhibitor
+T5	Value 80 86	0.97 A
+T6	Parameter 87 97	resolution
+T7	Geometrical_part 103 112	structure
+T8	Category 120 127	complex
+T9	Organism 143 149	bovine
+T10	Protein 150 162	beta-trypsin
+T11	Category 195 204	inhibitor
+T12	Chemical 205 271	2-{3'-[5'-methoxy-2'-(N-p-diaminomethylphenyl)amido]-1'-pyrido}-5-
+T13	Chemical 272 311	N-2''-t-butyle thanol)amidobenzoic acid
+T14	Unknown 313 314	C
+T15	Unknown 317 331	)H(32)N(5)O(6)
+T16	Value 356 362	0.97 A
+T17	Parameter 363 373	resolution
+T18	Molecule 375 380	X-ray
+T19	Parameter 381 390	intensity
+T20	Value 414 420	0.97 A
+T21	Unknown 454 463	structure
+T22	Unknown 498 505	REFMAC5
+T23	Unknown 510 518	SHELX-97
+T24	Protein 523 539	R(cryst) factors
+T25	Value 543 547	13.4
+T26	Value 552 557	12.6%
+T27	Protein 562 577	R(free) factors
+T28	Value 581 585	15.7
+T29	Value 590 595	16.3%
+T30	Protein_part 619 626	regions
+T31	Protein_part 634 644	main chain
+T32	Protein_part 649 660	side chains
+T33	Unknown 736 745	structure
+T34	Chemical 747 754	H atoms
+T35	Parameter 784 789	peaks
+T36	Unknown 789 789	
+T37	Process 810 820	difference
+T38	Value 858 861	35%
+T39	Chemical 869 876	H atoms
+T40	Unknown 904 905	C
+T41	Unknown 907 908	N
+T42	Chemical 914 921	O atoms
+T43	Chemical 988 998	amido part
+T44	Category 1006 1015	inhibitor
+T45	Geometrical_part 1041 1047	pocket
+T46	Geometrical_part 1086 1090	part
+T47	Category 1098 1104	ligand
+T48	Geometrical_part 1113 1118	cleft
+T49	Protein 1142 1148	enzyme
+T50	Physiology 1171 1178	network
+T51	Chemical 1182 1196	hydrogen bonds
+T52	Category 1202 1211	inhibitor
+T53	Protein_part 1248 1263	catalytic triad
+T54	Protein_part 1265 1284	Ser195-His57-Asp102
+T55	Process 1320 1327	process
+T56	Protein_part 1335 1346	active site
+T57	Process 1365 1374	formation
+T58	Chemical 1390 1403	hydrogen bond
+T59	Protein_part 1412 1427	His57 N(delta1)
+T60	Protein_part 1432 1448	Asp102 O(delta1)

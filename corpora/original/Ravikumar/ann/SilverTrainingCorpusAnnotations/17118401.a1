@@ -1,0 +1,87 @@
+T1	State 4 17	conformations
+T2	Molecule 25 54	manganese transport regulator
+T3	Organism 58 75	Bacillus subtilis
+T4	Chemical 83 93	metal-free
+T5	State 94 99	state
+T6	Molecule 105 141	manganese transport regulator (MntR)
+T7	Organism 147 164	Bacillus subtilis
+T8	Molecule 179 182	DNA
+T9	Protein_part 183 192	sequences
+T10	Process 196 204	response
+T11	Chemical 217 226	manganese
+T12	Parameter 227 241	concentrations
+T13	Molecule 243 247	MntR
+T14	Protein 263 272	homodimer
+T15	Chemical 288 302	manganese ions
+T16	Protein 307 314	subunit
+T17	Chemical 316 321	Metal
+T18	Process 322 329	binding
+T19	Protein_part 370 377	domains
+T20	Protein 397 409	MntR subunit
+T21	Protein_part 414 424	N-terminal
+T22	Molecule 425 428	DNA
+T23	Protein_part 437 443	domain
+T24	Protein_part 450 460	C-terminal
+T25	Process 461 473	dimerization
+T26	Protein_part 474 480	domain
+T27	Process 508 512	link
+T28	Chemical 521 526	metal
+T29	Process 527 534	binding
+T30	Process 539 549	activation
+T31	Technique 553 569	crystallographic
+T32	Molecule 579 583	MntR
+T33	Chemical 591 601	metal-free
+T34	State 602 607	state
+T35	Unknown 650 660	structures
+T36	Protein 675 682	protein
+T37	Chemical 689 705	selenomethionine
+T38	Unknown 717 724	variant
+T39	Value 736 741	2.8 A
+T40	Unknown 751 761	structures
+T41	Protein 803 811	subunits
+T42	Molecule 815 819	MntR
+T43	Protein 852 870	metal-free protein
+T44	Molecule 875 883	apo-MntR
+T45	Chemical 895 904	manganese
+T46	Category 905 912	complex
+T47	Protein 918 923	dimer
+T48	Protein_part 950 968	C-terminal domains
+T49	Molecule 1027 1030	DNA
+T50	Protein_part 1039 1045	domain
+T51	Geometrical_part 1066 1085	folded conformation
+T52	Chemical 1095 1100	metal
+T53	Molecule 1116 1120	MntR
+T54	Chemical 1143 1148	metal
+T55	Molecule 1159 1163	MntR
+T56	Molecule 1169 1172	DNA
+T57	Protein_part 1181 1188	domains
+T58	Protein 1228 1233	dimer
+T59	Molecule 1247 1255	apo-MntR
+T60	Molecule 1278 1286	apo-MntR
+T61	Unknown 1287 1297	structures
+T62	Unknown 1369 1370	N
+T63	Protein_part 1375 1393	C-terminal domains
+T64	Chemical 1401 1411	metal-free
+T65	State 1412 1417	state
+T66	Molecule 1431 1434	DNA
+T67	Protein_part 1443 1450	domains
+T68	Protein 1458 1463	dimer
+T69	Category 1504 1511	complex
+T70	State 1540 1552	conformation
+T71	Molecule 1560 1563	DNA
+T72	Protein_part 1572 1578	domain
+T73	Molecule 1582 1590	apo-MntR
+T74	Technique 1613 1621	labeling
+T75	Process 1622 1632	experiment
+T76	Molecule 1652 1658	mutant
+T77	Molecule 1662 1666	MntR
+T78	Protein_part 1678 1686	cysteine
+T79	Protein_part 1690 1699	residue 6
+T80	Technique 1721 1737	crystallographic
+T81	Unknown 1747 1750	EPR
+T82	Parameter 1751 1758	spectra
+T83	Geometrical_part 1800 1818	tertiary structure
+T84	Process 1839 1847	presence
+T85	Process 1851 1858	absence
+T86	Chemical 1868 1874	metals
+T87	Molecule 1944 1948	MntR

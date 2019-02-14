@@ -1,0 +1,71 @@
+T1	Molecule 45 53	molecule
+T2	Process 54 65	recognition
+T3	Organism 73 79	E.coli
+T4	Chemical 80 90	glyoxylate
+T5	Protein 95 104	allantoin
+T6	Process 105 116	utilization
+T7	Protein 128 140	protein AllR
+T8	Process 146 157	interaction
+T9	Organism 161 177	Escherichia coli
+T10	Molecule 178 192	AllR regulator
+T11	Molecule 207 210	DNA
+T12	Molecule 240 248	molecule
+T13	Chemical 249 259	glyoxylate
+T14	Process 300 320	regulatory mechanism
+T15	Protein 335 346	IclR family
+T16	Molecule 350 376	transcriptional regulators
+T17	Protein 386 390	AllR
+T18	Geometrical_part 404 422	crystal structures
+T19	Protein_part 430 440	C-terminal
+T20	Protein_part 458 464	domain
+T21	Molecule 468 482	AllR regulator
+T22	Category 491 498	complex
+T23	Chemical 504 514	glyoxylate
+T24	Value 534 537	1.7
+T25	Value 542 547	1.8 A
+T26	Protein_part 563 571	Residues
+T27	Chemical 584 594	glyoxylate
+T28	Process 595 602	binding
+T29	Protein_part 652 667	residues Cys217
+T30	Protein_part 669 675	Ser234
+T31	Protein_part 680 686	Ser236
+T32	Chemical 699 709	glyoxylate
+T33	Process 722 732	repression
+T34	Protein 736 740	AllR
+T35	Protein_part 742 750	Sequence
+T36	Technique 751 759	analysis
+T37	Process 773 785	conservation
+T38	Protein_part 789 808	amino acid residues
+T39	Process 835 842	binding
+T40	Molecule 849 865	IclR  regulators
+T41	Chemical 892 900	chemical
+T42	Molecule 923 932	molecules
+T43	Unknown 948 955	members
+T44	Unknown 964 970	family
+T45	Protein 986 990	AllR
+T46	Geometrical_part 991 1000	structure
+T47	Organism 1012 1038	Thermotoga maritima TM0065
+T48	Protein 1072 1083	IclR family
+T49	Protein 1147 1155	proteins
+T50	Geometrical_part 1171 1192	quaternary structures
+T51	Protein 1198 1203	dimer
+T52	Protein 1207 1213	dimers
+T53	Process 1215 1224	Mutations
+T54	Process 1232 1247	tetramerization
+T55	Protein_part 1248 1254	region
+T56	Protein 1265 1269	AllR
+T57	Protein_part 1282 1302	Cys135-Cys142 region
+T58	Process 1316 1328	dissociation
+T59	Protein 1333 1346	AllR tetramer
+T60	Protein 1350 1356	dimers
+T61	Chemical 1406 1416	Glyoxylate
+T62	Process 1457 1467	inhibition
+T63	Process 1471 1486	tetramerization
+T64	Process 1494 1507	sedimentation
+T65	Parameter 1508 1516	velocity
+T66	Chemical 1518 1528	glyoxylate
+T67	Protein 1570 1583	AllR tetramer
+T68	Protein 1595 1602	monomer
+T69	Protein 1607 1612	dimer
+T70	Geometrical_part 1634 1641	outline
+T71	Molecule 1645 1659	AllR molecules

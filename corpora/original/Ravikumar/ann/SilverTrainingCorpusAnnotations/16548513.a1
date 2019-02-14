@@ -1,0 +1,99 @@
+T1	State 0 16	Transition state
+T2	Process 27 36	mechanism
+T3	Process 62 74	substitution
+T4	Process 75 84	reactions
+T5	Organism 98 103	human
+T6	Protein 104 136	glutathione S-transferase M1a-1a
+T7	Protein_part 141 167	active site His107 residue
+T8	Organism 182 187	human
+T9	Protein 188 222	glutathione S-transferase hGSTM1-1
+T10	Organism 234 243	mammalian
+T11	Unknown 244 257	Mu-class GSTs
+T12	Geometrical_part 263 280	crystal structure
+T13	Protein 284 294	hGSTM1a-1a
+T14	Chemical 307 318	glutathione
+T15	Chemical 320 323	GSH
+T16	Value 339 344	1.9 A
+T17	Parameter 345 355	resolution
+T18	Technique 361 386	site-directed mutagenesis
+T19	Molecule 418 424	proton
+T20	Process 425 433	transfer
+T21	Chemical 457 462	water
+T22	Protein_part 470 484	catalytic site
+T23	Molecule 503 509	proton
+T24	Category 510 518	acceptor
+T25	Chemical 528 537	GSH thiol
+T26	Molecular_Part 539 544	group
+T27	Molecule 561 567	proton
+T28	Protein_part 571 577	His107
+T29	Unknown 583 592	structure
+T30	Category 607 616	substrate
+T31	Protein_part 625 629	site
+T32	Protein_part 631 637	H-site
+T33	Protein 659 669	hGSTM1a-1a
+T34	Chemical 685 727	1-glutathionyl-2,4-dinitrobenzene (GS-DNB)
+T35	Process 740 748	reaction
+T36	Unknown 756 763	crystal
+T37	Chemical 772 775	GSH
+T38	Chemical 780 814	1-chloro-2,4-dinitrobenzene (CDNB)
+T39	Unknown 824 833	structure
+T40	Protein_part 839 864	GSH-binding site (G-site)
+T41	Chemical 884 887	GSH
+T42	Molecular_Part 888 894	moiety
+T43	Category 902 909	product
+T44	Process 922 935	configuration
+T45	Unknown 951 961	enzyme-GSH
+T46	Category 962 969	complex
+T47	Chemical 979 998	dinitrobenzene ring
+T48	Protein_part 1023 1034	side chains
+T49	Protein_part 1038 1042	Tyr6
+T50	Protein_part 1044 1049	Leu12
+T51	Protein_part 1051 1057	His107
+T52	Protein_part 1059 1065	Met108
+T53	Protein_part 1071 1077	Tyr115
+T54	Process 1084 1095	orientation
+T55	State 1117 1133	transition state
+T56	Geometrical_part 1166 1175	structure
+T57	Protein 1179 1189	hGSTM1a-1a
+T58	State 1205 1221	transition state
+T59	Chemical 1222 1280	analogue 1-S-(glutathionyl)-2,4,6-trinitrocyclohexadienate
+T60	Protein 1282 1294	Meisenheimer
+T61	Category 1295 1302	complex
+T62	Parameter 1305 1312	Kinetic
+T63	Unknown 1322 1331	GSTM1a-1a
+T64	Chemical 1346 1356	kcat(CDNB)
+T65	Process 1365 1373	reaction
+T66	Value 1377 1394	more than 3 times
+T67	Chemical 1408 1418	kcat(FDNB)
+T68	Parameter 1462 1475	rate constant
+T69	Value 1480 1497	more than 50-fold
+T70	Chemical 1510 1544	1-fluoro-2,4-dinitrobenzene (FDNB)
+T71	Category 1554 1561	product
+T72	Category 1583 1593	substrates
+T73	Chemical 1608 1616	Km(FDNB)
+T74	Value 1620 1634	about 20 times
+T75	Chemical 1646 1654	Km(CDNB)
+T76	Process 1690 1699	mechanism
+T77	Process 1713 1722	formation
+T78	State 1730 1746	transition state
+T79	Process 1793 1805	substitution
+T80	Process 1806 1815	reactions
+T81	Protein_part 1836 1847	active-site
+T82	Molecule 1848 1855	mutants
+T83	State 1864 1881	transition states
+T84	Protein_part 1891 1897	Tyr115
+T85	Protein_part 1899 1903	Tyr6
+T86	Protein_part 1909 1915	His107
+T87	Protein_part 1916 1927	side chains
+T88	Process 1948 1961	stabilization
+T89	Protein 1969 1981	Meisenheimer
+T90	Category 1982 1989	complex
+T91	Process 1994 2006	interactions
+T92	Chemical 2016 2027	ortho nitro
+T93	Molecular_Part 2028 2033	group
+T94	Chemical 2037 2041	CDNB
+T95	Chemical 2045 2049	FDNB
+T96	Process 2062 2069	insight
+T97	Unknown 2094 2098	GSTs
+T98	Process 2120 2129	different
+T99	Category 2130 2140	substrates

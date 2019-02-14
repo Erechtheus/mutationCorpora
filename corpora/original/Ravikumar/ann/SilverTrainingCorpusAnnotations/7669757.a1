@@ -1,0 +1,74 @@
+T1	Protein_part 4 11	Arg7Lys
+T2	Molecule 12 18	mutant
+T3	Molecule 34 45	enterotoxin
+T4	Protein_part 76 87	active site
+T5	Geometrical_part 88 98	loop 47-56
+T6	Protein 108 115	subunit
+T7	Molecule 133 144	enterotoxin
+T8	Organism 150 166	Escherichia coli
+T9	Organism 168 170	LT
+T10	Unknown 177 183	member
+T11	Physiology 191 198	cholera
+T12	Molecule 199 204	toxin
+T13	Unknown 205 211	family
+T14	Unknown 229 236	members
+T15	Organism 260 273	AB5 bacterial
+T16	Molecule 274 280	toxins
+T17	Chemical 308 311	ADP
+T18	Location 336 349	intracellular
+T19	Process 350 357	targets
+T20	Protein 368 376	Gs alpha
+T21	Protein 384 391	subunit
+T22	Process 425 437	modification
+T23	Chemical 450 460	B pentamer
+T24	Protein 476 484	receptor
+T25	Process 485 496	recognition
+T26	Geometrical_part 517 534	crystal structure
+T27	Protein_part 550 561	single-site
+T28	Molecule 562 568	mutant
+T29	Organism 572 574	LT
+T30	Chemical 584 594	arginine 7
+T31	Protein 605 612	subunit
+T32	Protein_part 636 650	lysine residue
+T33	Protein_part 681 689	residues
+T34	Protein 711 721	B subunits
+T35	Protein_part 727 735	residues
+T36	Protein 744 754	A1 subunit
+T37	Protein_part 763 771	residues
+T38	Protein 780 790	A2 subunit
+T39	Protein_part 800 817	Arg7Lys structure
+T40	Protein_part 822 833	active site
+T41	Geometrical_part 834 839	cleft
+T42	Protein 853 860	subunit
+T43	Value 873 890	approximately 1 A
+T44	Unknown 911 924	wild-type  LT
+T45	Geometrical_part 941 945	loop
+T46	Protein_part 955 966	active site
+T47	Protein_part 981 995	residues 47-56
+T48	Protein_part 1017 1034	Arg7Lys structure
+T49	Protein_part 1056 1070	lysine residue
+T50	Location 1074 1084	position 7
+T51	Protein_part 1143 1147	Arg7
+T52	Protein 1156 1165	wild-type
+T53	Geometrical_part 1166 1175	structure
+T54	Process 1181 1193	displacement
+T55	Protein_part 1197 1211	residues 47-56
+T56	Unknown 1227 1243	mutant structure
+T57	Chemical 1285 1288	NAD
+T58	Protein_part 1303 1314	active site
+T59	Unknown 1323 1335	wild-type LT
+T60	Process 1344 1349	basis
+T61	Process 1357 1368	differences
+T62	Protein_part 1404 1422	Arg7Lys structures
+T63	Protein_part 1461 1469	sequence
+T64	State 1473 1487	conformational
+T65	Process 1488 1495	changes
+T66	Process 1514 1524	activation
+T67	Organism 1528 1530	LT
+T68	Process 1536 1545	reduction
+T69	Chemical 1549 1565	disulfide bridge
+T70	Process 1578 1586	cleavage
+T71	Protein_part 1594 1601	peptide
+T72	Geometrical_part 1602 1606	loop
+T73	Protein_part 1623 1632	cysteines
+T74	Protein 1642 1649	subunit

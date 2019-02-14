@@ -1,0 +1,76 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 42	acetylcholinesterase
+T3	Category 46 53	complex
+T4	Chemical 59 85	organophosphorus compounds
+T5	Chemical 103 114	acyl pocket
+T6	Physiology 129 134	aging
+T7	Process 135 143	reaction
+T8	Process 162 171	formation
+T9	State 200 216	transition state
+T10	Chemical 218 250	Organophosphorus compounds (OPs)
+T11	Chemical 260 272	nerve agents
+T12	Molecular_Part 279 284	group
+T13	Chemical 288 300	insecticides
+T14	Protein 327 361	enzyme acetylcholinesterase (AChE)
+T15	Process 373 388	phosphorylation
+T16	Protein_part 406 420	Ser203 residue
+T17	Chemical 433 450	AChE-OP conjugate
+T18	Process 477 488	elimination
+T19	Process 489 497	reaction
+T20	Physiology 506 511	aging
+T21	Protein 532 538	enzyme
+T22	Chemical 563 568	oxime
+T23	Process 578 590	reactivation
+T24	Geometrical_part 639 657	crystal structures
+T25	Category 683 692	complexes
+T26	Organism 701 726	Mus musculus AChE (mAChE)
+T27	Chemical 735 753	nerve agents sarin
+T28	Chemical 756 758	VX
+T29	Chemical 764 797	diisopropyl fluorophosphate (DFP)
+T30	Chemical 806 808	OP
+T31	Chemical 815 841	insecticides methamidophos
+T32	Chemical 843 846	MeP
+T33	Chemical 864 867	FeP
+T34	Chemical 879 889	conjugates
+T35	Chemical 893 896	MeP
+T36	Chemical 898 903	sarin
+T37	Chemical 910 913	FeP
+T38	Chemical 923 933	conjugates
+T39	Chemical 937 940	MeP
+T40	Chemical 942 947	sarin
+T41	Chemical 953 955	VX
+T42	State 997 1009	conformation
+T43	Organism 1013 1017	AChE
+T44	Process 1038 1044	change
+T45	Protein_part 1052 1062	side chain
+T46	Protein_part 1066 1072	His447
+T47	Chemical 1101 1110	conjugate
+T48	Unknown 1114 1116	VX
+T49	Process 1144 1157	rearrangement
+T50	Chemical 1165 1174	acyl loop
+T51	Protein_part 1175 1181	region
+T52	Protein_part 1183 1199	residues 287-299
+T53	Unknown 1229 1238	structure
+T54	Chemical 1242 1245	DFP
+T55	Unknown 1262 1272	structures
+T56	Chemical 1276 1279	DFP
+T57	Chemical 1284 1287	FeP
+T58	Chemical 1304 1307	FeP
+T59	Unknown 1330 1342	substituents
+T60	Chemical 1350 1365	phosphorus atom
+T61	Physiology 1389 1394	aging
+T62	Physiology 1433 1438	aging
+T63	Process 1439 1447	reaction
+T64	Chemical 1499 1514	phosphorus atom
+T65	Chemical 1520 1523	FeP
+T66	Physiology 1524 1529	aging
+T67	Parameter 1530 1543	rate constant
+T68	Parameter 1550 1555	times
+T69	Parameter 1585 1593	constant
+T70	Chemical 1623 1637	OP insecticide
+T71	Unknown 1638 1641	MeP
+T72	Geometrical_part 1665 1671	steric
+T73	Chemical 1691 1702	acyl pocket
+T74	Geometrical_part 1703 1707	loop
+T75	Process 1721 1730	formation
+T76	Molecule 1757 1769	intermediate

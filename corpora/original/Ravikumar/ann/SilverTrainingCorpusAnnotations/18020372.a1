@@ -1,0 +1,78 @@
+T1	Process 4 10	effect
+T2	Protein_part 16 25	Glu370Asp
+T3	Process 26 34	mutation
+T4	Protein 38 64	glutaryl-CoA dehydrogenase
+T5	Molecule 68 74	proton
+T6	Process 75 83	transfer
+T7	Molecule 101 113	intermediate
+T8	Parameter 134 161	steady-state rate constants
+T9	Parameter 170 184	rate constants
+T10	Chemical 193 201	chemical
+T11	Process 215 232	catalytic pathway
+T12	Protein_part 250 262	E370D mutant
+T13	Protein 266 292	glutaryl-CoA dehydrogenase
+T14	Protein 329 352	wild-type dehydrogenase
+T15	Process 379 386	changes
+T16	Parameter 396 410	rate constants
+T17	Unknown 418 427	structure
+T18	Category 476 485	substrate
+T19	Chemical 487 506	4-nitrobutyric acid
+T20	Process 508 520	Substitution
+T21	Chemical 524 533	aspartate
+T22	Protein_part 538 542	E370
+T23	Value 577 580	24%
+T24	Process 581 589	decrease
+T25	Parameter 597 610	rate constant
+T26	Molecule 615 621	proton
+T27	Process 622 633	abstraction
+T28	Location 637 640	C-2
+T29	Chemical 644 662	3-thiaglutaryl-CoA
+T30	Parameter 670 678	distance
+T31	Location 687 690	C-2
+T32	Category 698 704	ligand
+T33	Chemical 721 736	carboxyl oxygen
+T34	Protein_part 740 751	residue 370
+T35	Value 767 772	2.9 A
+T36	Value 776 781	3.1 A
+T37	Parameter 791 804	rate constant
+T38	Chemical 809 815	flavin
+T39	Process 816 825	reduction
+T40	Chemical 833 840	hydride
+T41	Process 841 849	transfer
+T42	Unknown 855 858	C-3
+T43	Category 874 883	substrate
+T44	Molecule 900 906	proton
+T45	Process 907 918	abstraction
+T46	Location 922 925	C-2
+T47	Location 930 932	N5
+T48	Chemical 940 946	flavin
+T49	Value 960 963	81%
+T50	Process 975 983	mutation
+T51	Parameter 998 1006	distance
+T52	Value 1025 1030	0.7 A
+T53	Parameter 1036 1047	intensities
+T54	Chemical 1104 1122	3-thiaglutaryl-CoA
+T55	Chemical 1161 1167	flavin
+T56	State 1173 1186	oxidized form
+T57	Category 1190 1199	substrate
+T58	Process 1230 1245	decarboxylation
+T59	Process 1287 1300	investigation
+T60	Parameter 1329 1337	distance
+T61	Process 1346 1352	change
+T62	Parameter 1356 1361	angle
+T63	Chemical 1369 1373	S-C1
+T64	Unknown 1376 1380	)-C2
+T65	Category 1394 1403	substrate
+T66	Chemical 1413 1426	isoalloxazine
+T67	Parameter 1448 1453	rates
+T68	Process 1475 1484	oxidative
+T69	Process 1506 1512	change
+T70	Protein_part 1516 1527	active site
+T71	Geometrical_part 1528 1536	geometry
+T72	Process 1566 1577	protonation
+T73	Chemical 1590 1596	carbon
+T74	Molecule 1607 1619	intermediate
+T75	Category 1653 1660	product
+T76	Chemical 1662 1677	vinylacetyl-CoA
+T77	Category 1746 1753	product
+T78	Chemical 1755 1767	crotonyl-CoA

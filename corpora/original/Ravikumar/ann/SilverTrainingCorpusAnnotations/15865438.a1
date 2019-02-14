@@ -1,0 +1,81 @@
+T1	Process 0 4	Role
+T2	Protein_part 8 15	Lys-226
+T3	Process 23 42	catalytic mechanism
+T4	Organism 46 54	Bacillus
+T5	Protein 55 125	stearothermophilus serine  hydroxymethyltransferase--crystal structure
+T6	Parameter 130 137	kinetic
+T7	Protein 147 185	Serine hydroxymethyltransferase (SHMT)
+T8	Chemical 189 217	pyridoxal 5'-phosphate (PLP)
+T9	Protein 229 235	enzyme
+T10	Process 261 271	conversion
+T11	Protein_part 275 280	l-Ser
+T12	Chemical 285 311	tetrahydropteroylglutamate
+T13	Unknown 313 314	H
+T14	Unknown 316 323	)PteGlu
+T15	Protein_part 328 331	Gly
+T16	Chemical 336 377	5,10-methylene tetrahydropteroylglutamate
+T17	Unknown 379 381	CH
+T18	Unknown 383 395	)-H(4)PteGlu
+T19	Protein 441 447	enzyme
+T20	Protein_part 472 480	residues
+T21	Process 488 507	catalytic mechanism
+T22	Protein_part 531 549	active site lysine
+T23	Chemical 565 568	PLP
+T24	Protein_part 601 608	residue
+T25	Category 624 631	product
+T26	Process 632 641	expulsion
+T27	Chemical 661 664	PLP
+T28	Protein 675 682	enzymes
+T29	Protein_part 702 709	residue
+T30	Molecule 737 743	proton
+T31	Process 744 755	abstraction
+T32	Process 764 773	catalysis
+T33	Process 790 803	investigation
+T34	Protein_part 805 812	Lys-226
+T35	Chemical 816 857	Bacillus stearothermophilus SHMT (bsSHMT)
+T36	Protein_part 873 876	Met
+T37	Protein_part 881 884	Gln
+T38	Process 902 906	role
+T39	Protein_part 915 922	residue
+T40	Process 926 935	catalysis
+T41	Protein 941 955	mutant enzymes
+T42	Value 966 971	1 mol
+T43	Chemical 975 978	PLP
+T44	Value 980 987	per mol
+T45	Protein 991 998	subunit
+T46	Chemical 1015 1026	Schiff base
+T47	Process 1027 1036	formation
+T48	Protein_part 1042 1048	lysine
+T49	Chemical 1070 1073	PLP
+T50	Process 1074 1081	binding
+T51	Geometrical_part 1087 1099	3D structure
+T52	Protein 1107 1121	mutant enzymes
+T53	Chemical 1136 1139	PLP
+T54	Protein_part 1157 1168	active site
+T55	Process 1175 1186	orientation
+T56	Protein 1214 1230	wild-type enzyme
+T57	Process 1239 1247	presence
+T58	Category 1251 1260	substrate
+T59	Chemical 1266 1274	PLP ring
+T60	Process 1285 1296	orientation
+T61	Location 1329 1337	external
+T62	Category 1347 1354	complex
+T63	Protein 1358 1374	wild-type enzyme
+T64	Protein 1389 1403	mutant enzymes
+T65	Parameter 1427 1434	kinetic
+T66	Technique 1435 1443	analysis
+T67	Process 1451 1460	different
+T68	Process 1470 1479	catalysis
+T69	Process 1514 1523	reduction
+T70	Parameter 1531 1535	rate
+T71	Process 1539 1548	formation
+T72	Chemical 1556 1578	quinonoid intermediate
+T73	Technique 1580 1588	Analysis
+T74	Geometrical_part 1621 1639	crystal structures
+T75	Unknown 1655 1660	K-226
+T76	Chemical 1692 1695	PLP
+T77	Process 1705 1716	orientation
+T78	Unknown 1750 1760	H(4)PteGlu
+T79	Chemical 1771 1788	Calpha-Cbeta bond
+T80	Process 1789 1797	cleavage
+T81	Protein_part 1801 1806	l-Ser

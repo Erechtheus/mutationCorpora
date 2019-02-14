@@ -1,0 +1,64 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 15 28	myristoyl-ACP
+T3	Protein 38 50	thioesterase
+T4	Organism 56 70	Vibrio harveyi
+T5	Geometrical_part 76 93	crystal structure
+T6	Protein 99 163	myristoyl acyl carrier protein specific thioesterase (C14ACP-TE)
+T7	Organism 186 195	bacterium
+T8	Organism 197 211	Vibrio harveyi
+T9	Process 248 259	replacement
+T10	Parameter 286 294	R factor
+T11	Value 298 301	22%
+T12	Value 305 310	2.1-A
+T13	Parameter 311 321	resolution
+T14	Process 341 352	elucidation
+T15	Geometrical_part 358 385	three-dimensional structure
+T16	Protein 392 404	thioesterase
+T17	Geometrical_part 427 439	architecture
+T18	Protein 447 453	enzyme
+T19	Geometrical_part 476 490	consensus fold
+T20	Unknown 516 527	superfamily
+T21	Protein 531 552	alpha/beta hydrolases
+T22	Unknown 611 618	members
+T23	Protein_part 626 645	amino acid sequence
+T24	Process 675 685	similarity
+T25	Protein 705 714	C14ACP-TE
+T26	Geometrical_part 715 724	structure
+T27	Protein 737 760	haloalkane dehalogenase
+T28	Organism 766 792	Xanthobacter autotrophicus
+T29	Unknown 880 894	J. Biol. Chem.
+T30	Protein_part 930 935	Ser77
+T31	Process 940 949	catalysis
+T32	Geometrical_part 955 972	crystal structure
+T33	Protein 976 985	C14ACP-TE
+T34	Protein 996 1002	lipase
+T35	Protein_part 1008 1023	catalytic triad
+T36	Protein_part 1035 1041	Ser114
+T37	Protein_part 1043 1049	His241
+T38	Protein_part 1055 1061	Asp211
+T39	Protein_part 1097 1103	Ser114
+T40	State 1128 1140	conformation
+T41	Parameter 1142 1145	phi
+T42	Value 1148 1158	53 degrees
+T43	Parameter 1160 1163	psi
+T44	Value 1166 1178	-127 degrees
+T45	Body_part 1226 1231	elbow
+T46	Protein 1276 1291	lipase/esterase
+T47	Protein_part 1292 1310	consensus sequence
+T48	Protein_part 1312 1327	Gly-X-Ser-X-Gly
+T49	Chemical 1355 1363	glycines
+T50	Protein_part 1387 1398	amino acids
+T51	Technique 1400 1426	Site-directed  mutagenesis
+T52	Technique 1443 1451	labeling
+T53	Process 1464 1482	catalytic function
+T54	Protein_part 1486 1492	Ser114
+T55	Technique 1494 1519	Crystallographic analysis
+T56	Protein_part 1527 1532	Ser77
+T57	Protein_part 1535 1538	Gly
+T58	Molecule 1539 1545	mutant
+T59	Value 1549 1554	2.5-A
+T60	Parameter 1555 1565	resolution
+T61	Process 1590 1597	changes
+T62	Geometrical_part 1617 1621	loop
+T63	Protein_part 1637 1644	residue
+T64	Location 1648 1660	position  77

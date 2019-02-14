@@ -1,0 +1,69 @@
+T1	Process 11 16	basis
+T2	Process 25 33	function
+T3	Organism 37 58	Clostridium difficile
+T4	Molecule 59 64	toxin
+T5	Unknown 65 66	B
+T6	Molecule 68 73	Toxin
+T7	Unknown 74 75	B
+T8	Unknown 81 87	member
+T9	Unknown 95 101	family
+T10	Molecule 123 133	cytotoxins
+T11	Process 161 171	importance
+T12	Unknown 187 195	fragment
+T13	Process 220 228	presence
+T14	Chemical 232 243	UDP-glucose
+T15	Chemical 248 252	Mn2+
+T16	Unknown 258 267	structure
+T17	Value 286 291	2.2 A
+T18	Parameter 292 302	resolution
+T19	Molecule 317 322	toxin
+T20	Unknown 323 324	B
+T21	Protein 340 366	glycosyltransferase type A
+T22	Unknown 367 373	family
+T23	Molecule 384 389	toxin
+T24	Unknown 390 391	B
+T25	Protein_part 416 424	residues
+T26	Process 498 504	target
+T27	Process 520 533	superposition
+T28	Protein 545 565	glycosyltransferases
+T29	Category 602 610	acceptor
+T30	Chemical 611 622	oxygen atom
+T31	Process 639 647	transfer
+T32	Process 679 687	reaction
+T33	Process 714 733	single-displacement
+T34	Process 734 741	pathway
+T35	Unknown 747 751	C1''
+T36	Category 752 757	donor
+T37	Chemical 758 769	carbon atom
+T38	Chemical 803 806	UDP
+T39	Chemical 811 818	glucose
+T40	Geometrical_part 835 842	surface
+T41	Parameter 843 847	area
+T42	Molecule 851 856	toxin
+T43	Unknown 857 858	B
+T44	Process 891 897	target
+T45	Protein 898 905	protein
+T46	Process 927 935	reaction
+T47	Process 939 946	docking
+T48	Category 973 981	acceptor
+T49	Chemical 982 986	atom
+T50	Protein_part 988 1003	Thr37 O(gamma1)
+T51	Process 1011 1017	switch
+T52	Protein_part 1018 1027	I  region
+T53	Chemical 1035 1043	RhoA:GDP
+T54	Process 1044 1050	target
+T55	Unknown 1051 1060	structure
+T56	Process 1103 1114	orientation
+T57	Protein 1126 1134	proteins
+T58	Body_part 1180 1188	membrane
+T59	Protein_part 1190 1198	Sequence
+T60	Process 1199 1210	comparisons
+T61	Molecule 1219 1224	toxin
+T62	Unknown 1225 1235	B variants
+T63	Process 1262 1270	exchange
+T64	Parameter 1271 1275	rate
+T65	Location 1294 1307	active center
+T66	Process 1324 1331	docking
+T67	Process 1375 1390	hit-and-evasion
+T68	Organism 1408 1418	Clostridia
+T69	Organism 1429 1445	eukaryotic hosts

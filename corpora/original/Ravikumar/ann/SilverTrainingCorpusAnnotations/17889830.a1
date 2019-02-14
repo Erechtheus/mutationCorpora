@@ -1,0 +1,63 @@
+T1	Process 12 21	catalysis
+T2	Geometrical_part 40 58	crystal structures
+T3	Protein 62 69	mutants
+T4	Protein 73 98	diaminopimelate epimerase
+T5	Chemical 100 115	Diaminopimelate
+T6	Chemical 117 120	DAP
+T7	Protein 122 131	epimerase
+T8	Process 146 161	stereoinversion
+T9	Unknown 165 171	ll-DAP
+T10	Unknown 175 183	meso-DAP
+T11	Unknown 187 196	precursor
+T12	Protein_part 200 208	l-lysine
+T13	Parameter 226 235	component
+T14	Organism 243 252	bacterial
+T15	Protein 253 266	peptidoglycan
+T16	Process 273 281	function
+T17	Organism 294 302	bacteria
+T18	Protein 311 317	enzyme
+T19	Process 353 359	target
+T20	Protein 401 414	DAP epimerase
+T21	Molecular_Part 430 435	group
+T22	Unknown 439 442	PLP
+T23	Protein 455 475	amino acid racemases
+T24	Process 515 524	mechanism
+T25	Protein_part 539 548	cysteines
+T26	Chemical 578 586	thiolate
+T27	Chemical 595 599	acid
+T28	Chemical 601 606	thiol
+T29	Geometrical_part 628 646	crystal structures
+T30	Protein 667 688	DAP epimerase mutants
+T31	Protein 690 694	C73S
+T32	Protein 699 704	C217S
+T33	Organism 711 733	Haemophilus influenzae
+T34	Value 737 741	2.3A
+T35	Value 746 750	2.2A
+T36	Parameter 751 761	resolution
+T37	Unknown 783 793	structures
+T38	Protein 820 826	enzyme
+T39	Process 869 880	Comparisons
+T40	Geometrical_part 890 900	structures
+T41	Category 908 917	inhibitor
+T42	Protein 945 951	enzyme
+T43	Process 989 996	absence
+T44	Category 1000 1010	substrates
+T45	Category 1014 1024	inhibitors
+T46	Protein_part 1038 1059	active site cysteines
+T47	Chemical 1074 1088	thiol-thiolate
+T48	Protein_part 1121 1138	C-terminal domain
+T49	Process 1152 1159	closure
+T50	Protein_part 1167 1184	N-terminal domain
+T51	Process 1204 1217	encapsulation
+T52	Category 1225 1231	ligand
+T53	Process 1233 1246	stabilization
+T54	State 1254 1266	conformation
+T55	Protein_part 1273 1284	active site
+T56	Geometrical_part 1285 1289	loop
+T57	Protein_part 1301 1306	Cys73
+T58	Process 1311 1320	expulsion
+T59	Chemical 1324 1339	water molecules
+T60	Process 1357 1368	desolvation
+T61	Chemical 1376 1389	thiolate base
+T62	Process 1407 1420	rearrangement
+T63	Process 1437 1446	catalysis

@@ -1,0 +1,11 @@
+The purified H+-ATPase from chromaffin granules is composed of several polypeptides, one of which has an apparent molecular weight of 39,000 . 
+Immunoblots with the antibody against this protein and various membrane preparations showed that similar or even identical polypeptides may be associated with the H+-ATPases from synaptic vesicle, kidney microsomes, and lysosomes . 
+A cDNA library was constructed from bovine adrenal medulla, and the cDNA encoding the polypeptide was isolated and sequenced . 
+Search in DNA and protein data banks revealed no significant homology to known genes . 
+Hydrophobicity plot revealed no obvious transmembrane segments with the exception of one stretch of hydrophobic and neutral amino acid starting at leucine 16 . 
+The cDNA was shown to encode the entire polypeptide by the virtue of an amino acid sequence corresponding to the N terminus of the open reading frame and by subunit and site-specific antibodies . 
+The cDNA was cloned into an expression vector, transcribed by T7 polymerase, and translated by reticulocyte lysate . 
+Even though the cDNA encodes a protein with a molecular weight of 31,495, the translation product comigrated on sodium dodecyl sulfate gels with the subunit of the purified H+-ATPase . 
+In line with several other subunits of vacuolar H+-ATPases, no signal sequence was detected in the translated gene . 
+Northern blots revealed the presence of a single mRNA of about 1.6 kb in bovine adrenal medulla . 
+However, liver, lung, and kidney may contain additional mRNA of about 1.7 kb . 

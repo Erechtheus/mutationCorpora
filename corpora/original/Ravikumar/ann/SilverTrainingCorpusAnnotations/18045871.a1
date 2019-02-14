@@ -1,0 +1,59 @@
+T1	Technique 26 34	analyses
+T2	Physiology 42 75	severe acute respiratory syndrome
+T3	Organism 76 87	coronavirus
+T4	Protein 88 110	endoribonuclease Nsp15
+T5	Physiology 116 156	severe acute respiratory syndrome (SARS)
+T6	Organism 157 168	coronavirus
+T7	Protein 185 188	RNA
+T8	Protein 200 207	enzymes
+T9	Protein 229 232	RNA
+T10	Organism 233 240	viruses
+T11	Protein 252 284	Nsp15 (nonstructural protein 15)
+T12	Protein 288 314	hexameric endoribonuclease
+T13	Chemical 349 357	uridines
+T14	Unknown 373 382	structure
+T15	Protein 429 434	Nsp15
+T16	Protein 464 471	hexamer
+T17	Unknown 477 486	structure
+T18	Protein_part 526 537	active site
+T19	Protein 546 553	subunit
+T20	Process 555 568	Substitutions
+T21	Protein_part 576 596	active site residues
+T22	Protein_part 597 603	serine
+T23	Protein_part 604 607	293
+T24	Protein_part 612 623	proline 343
+T25	Protein 632 637	Nsp15
+T26	Chemical 651 661	cytidylate
+T27	Process 671 679	mutation
+T28	Protein_part 683 694	leucine 345
+T29	Protein 704 709	Nsp15
+T30	Chemical 728 735	purines
+T31	Chemical 747 758	pyrimidines
+T32	Process 760 769	Mutations
+T33	Protein_part 788 796	residues
+T34	Protein 810 817	subunit
+T35	Process 818 830	interactions
+T36	Process 857 866	formation
+T37	Protein 893 901	monomers
+T38	Protein 907 910	RNA
+T39	Protein_part 919 927	residues
+T40	Process 971 984	cross-linking
+T41	Protein 986 989	RNA
+T42	Parameter 990 998	affinity
+T43	Process 999 1011	purification
+T44	Protein_part 1017 1024	peptide
+T45	Protein_part 1042 1049	Alanine
+T46	Process 1050 1062	substitution
+T47	Protein_part 1074 1082	residues
+T48	Protein 1090 1093	RNA
+T49	Protein 1116 1121	Nsp15
+T50	Protein 1137 1144	hexamer
+T51	Process 1145 1154	formation
+T52	Parameter 1173 1181	affinity
+T53	Protein 1185 1188	RNA
+T54	Process 1189 1196	binding
+T55	Protein 1209 1221	endonuclease
+T56	Parameter 1222 1230	activity
+T57	Protein 1258 1271	Nsp15 hexamer
+T58	Process 1272 1283	interaction
+T59	Protein 1289 1292	RNA

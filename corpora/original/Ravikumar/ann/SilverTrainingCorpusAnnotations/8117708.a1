@@ -1,0 +1,74 @@
+T1	Unknown 10 19	structure
+T2	Protein 51 70	iron-sulfur protein
+T3	Organism 85 113	Ectothiorhodospira vacuolata
+T4	Protein 134 153	iron-sulfur protein
+T5	Protein 164 166	II
+T6	Organism 182 210	Ectothiorhodospira vacuolata
+T7	Geometrical_part 241 268	three-dimensional structure
+T8	Process 283 304	molecular replacement
+T9	Technique 305 315	procedures
+T10	Value 331 336	1.8-A
+T11	Parameter 337 347	resolution
+T12	Technique 355 371	crystallographic
+T13	Parameter 372 380	R factor
+T14	Value 384 389	16.3%
+T15	Unknown 391 399	Crystals
+T16	Process 416 429	investigation
+T17	Geometrical_part 446 465	space group C222(1)
+T18	Geometrical_part 471 480	unit cell
+T19	Parameter 481 491	dimensions
+T20	Parameter 495 496	a
+T21	Value 500 506	58.4 A
+T22	Parameter 508 509	b
+T23	Value 512 518	64.7 A
+T24	Parameter 524 525	c
+T25	Value 528 534	39.3 A
+T26	Molecule 543 551	molecule
+T27	Molecule 584 590	HiPIPs
+T28	Organism 632 644	E. vacuolata
+T29	Molecule 645 653	molecule
+T30	Chemical 705 716	iron-sulfur
+T31	Protein_part 730 750	cysteine residues 34
+T32	Protein_part 752 754	37
+T33	Protein_part 756 758	51
+T34	Protein_part 764 766	65
+T35	Molecular_Part 780 792	metal center
+T36	Protein 800 817	polypeptide chain
+T37	Chemical 840 857	solvent molecules
+T38	Geometrical_part 884 891	surface
+T39	Protein 899 906	protein
+T40	Chemical 921 936	water molecules
+T41	Process 963 968	roles
+T42	Geometrical_part 988 993	loops
+T43	Protein_part 1010 1016	Asp 42
+T44	Protein_part 1021 1027	Lys 57
+T45	Molecular_Part 1033 1045	metal center
+T46	Process 1046 1053	binding
+T47	Geometrical_part 1054 1060	pocket
+T48	Chemical 1103 1119	solvent molecule
+T49	Value 1126 1131	6.9 A
+T50	Protein_part 1137 1139	S2
+T51	Chemical 1147 1155	[4Fe-4S]
+T52	Organism 1169 1181	E. vacuolata
+T53	Molecule 1182 1197	HiPIP molecules
+T54	Protein 1233 1239	dimers
+T55	Chemical 1251 1262	iron-sulfur
+T56	Value 1271 1291	approximately 17.5 A
+T57	Process 1306 1311	basis
+T58	Parameter 1327 1337	properties
+T59	Organism 1367 1379	E. vacuolata
+T60	Molecule 1380 1385	HiPIP
+T61	Molecule 1428 1433	HiPIP
+T62	Organism 1448 1476	Ectothiorhodospira halophila
+T63	Protein 1489 1496	protein
+T64	Organism 1511 1529	Chromatium vinosum
+T65	Organism 1544 1556	E. vacuolata
+T66	Molecule 1557 1565	molecule
+T67	Organism 1598 1608	C. vinosum
+T68	Molecule 1609 1614	HiPIP
+T69	Organism 1631 1643	E. halophila
+T70	Protein 1644 1651	protein
+T71	Process 1663 1671	presence
+T72	Process 1683 1693	insertions
+T73	Process 1698 1707	deletions
+T74	Process 1727 1734	folding

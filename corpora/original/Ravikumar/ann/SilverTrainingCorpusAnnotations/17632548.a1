@@ -1,0 +1,99 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 23 28	human
+T3	Protein 29 45	membrane protein
+T4	Chemical 58 79	cysteinyl leukotriene
+T5	Process 80 92	biosynthesis
+T6	Chemical 98 120	cysteinyl leukotrienes
+T7	Chemical 129 140	leukotriene
+T8	Unknown 141 147	(LT)C4
+T9	Chemical 156 172	metabolites LTD4
+T10	Chemical 177 181	LTE4
+T11	Parameter 187 197	components
+T12	Molecule 215 224	substance
+T13	Physiology 228 239	anaphylaxis
+T14	Chemical 245 260	lipid mediators
+T15	Body_part 264 277	smooth muscle
+T16	Process 278 290	constriction
+T17	Physiology 295 307	inflammation
+T18	Physiology 336 352	bronchial asthma
+T19	Protein 354 375	LTC4 synthase (LTC4S)
+T20	Protein 389 395	enzyme
+T21	Process 404 416	biosynthesis
+T22	Chemical 420 424	LTC4
+T23	Value 442 448	18-kDa
+T24	Protein 458 482	nuclear membrane protein
+T25	Unknown 501 512	superfamily
+T26	Body_part 516 524	membrane
+T27	Protein 536 544	proteins
+T28	Chemical 548 558	eicosanoid
+T29	Chemical 563 574	glutathione
+T30	Process 575 585	metabolism
+T31	Protein 600 614	5-lipoxygenase
+T32	Protein 626 633	protein
+T33	Protein 635 680	microsomal glutathione S-transferases (MGSTs)
+T34	Body_part 686 696	microsomal
+T35	Protein 697 723	prostaglandin E synthase 1
+T36	Chemical 735 763	LTC4S conjugates glutathione
+T37	Category 767 771	LTA4
+T38	Category 788 797	substrate
+T39	Chemical 811 827	arachidonic acid
+T40	Protein 840 854	5-lipoxygenase
+T41	Process 855 862	pathway
+T42	Protein 881 886	MGST2
+T43	Protein 891 896	MGST3
+T44	Molecule 912 917	LTC4S
+T45	Chemical 927 948	conjugate glutathione
+T46	Chemical 952 963	xenobiotics
+T47	Unknown 989 998	structure
+T48	Organism 1002 1007	human
+T49	Molecule 1008 1013	LTC4S
+T50	Category 1019 1026	complex
+T51	Chemical 1032 1043	glutathione
+T52	Value 1047 1052	3.3 A
+T53	Parameter 1053 1063	resolution
+T54	Technique 1067 1088	X-ray crystallography
+T55	Category 1124 1133	substrate
+T56	Chemical 1150 1161	glutathione
+T57	Unknown 1166 1170	LTA4
+T58	Molecule 1190 1195	LTC4S
+T59	Protein 1207 1212	MGSTs
+T60	Protein 1218 1231	LTC4S monomer
+T61	Body_part 1241 1254	transmembrane
+T62	Protein_part 1255 1268	alpha-helices
+T63	Value 1281 1290	threefold
+T64	Protein 1291 1307	symmetric trimer
+T65	Protein_part 1334 1341	domains
+T66	Chemical 1365 1376	Glutathione
+T67	Unknown 1390 1391	U
+T68	State 1399 1411	conformation
+T69	Location 1440 1448	adjacent
+T70	Protein 1449 1457	monomers
+T71	Process 1468 1475	binding
+T72	Geometrical_part 1496 1510	loop structure
+T73	Unknown 1540 1544	LTA4
+T74	Protein_part 1582 1589	Arg 104
+T75	Protein 1597 1604	monomer
+T76	Chemical 1615 1626	glutathione
+T77	Chemical 1642 1656	thiolate anion
+T78	Protein_part 1670 1672	C6
+T79	Unknown 1676 1680	LTA4
+T80	Chemical 1691 1700	thioether
+T81	Chemical 1701 1705	bond
+T82	Protein_part 1711 1717	Arg 31
+T83	Protein 1738 1745	monomer
+T84	Molecule 1756 1762	proton
+T85	Chemical 1773 1781	hydroxyl
+T86	Molecular_Part 1782 1787	group
+T87	Chemical 1791 1793	C5
+T88	Chemical 1808 1889	5(S)-hydroxy-6(R)-S-glutathionyl-7,9-trans-11,14-cis-eicosatetraenoic acid (LTC4)
+T89	Process 1927 1932	basis
+T90	Process 1941 1952	development
+T91	Molecule 1956 1961	LTC4S
+T92	Category 1962 1972	inhibitors
+T93	Physiology 1979 1994	proinflammatory
+T94	Process 1995 2002	pathway
+T95	Chemical 2021 2042	cysteinyl leukotriene
+T96	Category 2044 2051	ligands
+T97	State 2058 2067	stability
+T98	Protein 2110 2141	cysteinyl leukotriene receptors
+T99	Process 2148 2157	functions

@@ -1,0 +1,74 @@
+T1	Process 11 16	basis
+T2	Process 21 34	accommodation
+T3	Category 51 58	ligands
+T4	Protein 66 83	androgen receptor
+T5	Process 89 98	mechanism
+T6	Protein 112 134	androgen receptor (AR)
+T7	Category 157 164	agonist
+T8	Category 169 179	antagonist
+T9	Category 180 187	ligands
+T10	Protein 210 212	AR
+T11	Category 213 224	antagonists
+T12	Body_part 253 261	prostate
+T13	Physiology 262 268	cancer
+T14	Process 279 288	mutations
+T15	Organism 309 317	patients
+T16	Chemical 337 346	compounds
+T17	Category 350 358	agonists
+T18	Protein 406 434	androgen receptor modulators
+T19	Protein 481 483	AR
+T20	Category 484 495	antagonists
+T21	Chemical 496 508	bicalutamide
+T22	Chemical 513 529	hydroxyflutamide
+T23	Category 541 549	agonists
+T24	Protein 558 575	androgen receptor
+T25	Body_part 581 587	tissue
+T26	Process 643 650	changes
+T27	Category 663 669	ligand
+T28	Protein 678 686	receptor
+T29	Process 693 702	mutations
+T30	Process 722 729	changes
+T31	Parameter 733 741	activity
+T32	Unknown 754 772	structure-activity
+T33	Parameter 773 786	relationships
+T34	Protein 804 806	AR
+T35	Category 807 814	ligands
+T36	Technique 823 838	crystallography
+T37	Technique 843 868	site-directed mutagenesis
+T38	State 886 899	conformations
+T39	Chemical 903 917	R-bicalutamide
+T40	Chemical 919 935	hydroxyflutamide
+T41	Chemical 978 987	androgens
+T42	Chemical 989 992	S-1
+T43	Chemical 997 1000	R-3
+T44	Technique 1034 1050	crystallographic
+T45	Process 1067 1076	mechanism
+T46	Category 1099 1106	ligands
+T47	Protein 1125 1137	wild type AR
+T48	Process 1158 1165	changes
+T49	Protein_part 1194 1201	Trp-741
+T50	Protein_part 1203 1210	Thr-877
+T51	Protein_part 1216 1223	Met-895
+T52	Category 1234 1240	ligand
+T53	Process 1241 1254	accommodation
+T54	Protein 1267 1269	AR
+T55	Process 1270 1277	binding
+T56	Geometrical_part 1278 1284	pocket
+T57	Chemical 1296 1301	water
+T58	Chemical 1311 1324	hydrogen bond
+T59	Chemical 1341 1347	oxygen
+T60	Protein_part 1351 1358	Leu-873
+T61	Chemical 1367 1373	ketone
+T62	Chemical 1377 1393	hydroxyflutamide
+T63	Protein 1423 1439	T877A AR variant
+T64	Chemical 1476 1490	R-bicalutamide
+T65	Process 1518 1528	activation
+T66	Protein 1532 1534	AR
+T67	Protein_part 1549 1554	M895T
+T68	Process 1555 1569	point mutation
+T69	Process 1619 1626	insight
+T70	Protein 1631 1639	receptor
+T71	Chemical 1646 1650	drug
+T72	Protein 1674 1676	AR
+T73	Category 1677 1685	agonists
+T74	Category 1690 1701	antagonists

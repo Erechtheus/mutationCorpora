@@ -1,0 +1,82 @@
+T1	Technique 15 35	biochemical analysis
+T2	Protein 43 85	Rv0805 cyclic nucleotide phosphodiesterase
+T3	Organism 91 117	Mycobacterium tuberculosis
+T4	Chemical 119 157	Cyclic nucleotide monophosphate (cNMP)
+T5	Process 158 168	hydrolysis
+T6	Organism 172 180	bacteria
+T7	Organism 185 195	eukaryotes
+T8	Protein 225 255	cNMP phosphodiesterases (PDEs)
+T9	Protein 269 276	enzymes
+T10	Protein_part 287 306	amino acid sequence
+T11	Parameter 311 321	properties
+T12	Process 355 364	evolution
+T13	Protein 373 381	NMP PDEs
+T14	Chemical 389 394	cNMPs
+T15	Chemical 398 402	NMPs
+T16	Protein 412 423	Rv0805 gene
+T17	Category 424 431	product
+T18	Protein 468 476	cNMP PDE
+T19	Protein 484 490	genome
+T20	Organism 494 520	Mycobacterium tuberculosis
+T21	Protein 541 547	Rv0805
+T22	Chemical 553 562	cAMP/cGMP
+T23	Protein 580 583	PDE
+T24	Protein_part 606 625	amino acid sequence
+T25	Organism 633 642	mammalian
+T26	Protein 643 652	cNMP PDEs
+T27	Protein 654 660	Rv0805
+T28	Chemical 675 688	Fe(3+)-Mn(2+)
+T29	Location 689 698	binuclear
+T30	Protein 699 702	PDE
+T31	Technique 708 727	mutational analysis
+T32	Protein_part 750 761	active site
+T33	Chemical 762 768	metals
+T34	Chemical 799 808	aspartate
+T35	Protein_part 810 819	histidine
+T36	Protein_part 824 843	asparagine residues
+T37	Unknown 864 873	structure
+T38	Protein 899 905	Rv0805
+T39	Protein 941 970	calcineurin-like phosphatases
+T40	Geometrical_part 976 993	crystal structure
+T41	Protein 1001 1013	Rv0805 dimer
+T42	Protein_part 1029 1040	active site
+T43	Chemical 1041 1047	metals
+T44	Process 1062 1074	dimerization
+T45	Process 1114 1118	role
+T46	Process 1136 1147	involvement
+T47	Process 1151 1160	catalysis
+T48	Geometrical_part 1182 1200	crystal structures
+T49	Protein_part 1208 1216	Asn97Ala
+T50	Protein 1217 1231	mutant protein
+T51	Chemical 1254 1260	Mn(2+)
+T52	Protein_part 1275 1283	residues
+T53	Protein_part 1299 1307	Asp66Ala
+T54	Molecule 1308 1314	mutant
+T55	Chemical 1338 1342	cAMP
+T56	Parameter 1354 1362	activity
+T57	Process 1387 1392	basis
+T58	Parameter 1411 1421	properties
+T59	Protein 1431 1446	mutant proteins
+T60	Molecule 1450 1458	molecule
+T61	Chemical 1462 1471	phosphate
+T62	Chemical 1486 1495	bidentate
+T63	Protein_part 1510 1521	active site
+T64	Protein 1529 1553	Rv0805 wild-type protein
+T65	Geometrical_part 1606 1623	crystal structure
+T66	Protein_part 1631 1639	Asp66Ala
+T67	Protein 1640 1654	mutant protein
+T68	Category 1665 1674	substrate
+T69	Process 1675 1682	binding
+T70	Geometrical_part 1683 1689	pocket
+T71	Protein 1693 1699	Rv0805
+T72	Process 1732 1739	docking
+T73	Process 1757 1761	role
+T74	Protein_part 1769 1783	His140 residue
+T75	Chemical 1804 1808	cAMP
+T76	Technique 1831 1850	mutational analysis
+T77	Unknown 1877 1886	structure
+T78	Organism 1892 1901	bacterial
+T79	Protein 1902 1910	cNMP PDE
+T80	Chemical 1969 1973	cAMP
+T81	Process 1974 1984	hydrolysis
+T82	Protein 1988 2002	class III PDEs

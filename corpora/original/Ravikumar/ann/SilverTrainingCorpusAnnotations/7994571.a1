@@ -1,0 +1,79 @@
+T1	Chemical 0 11	Salt bridge
+T2	Protein 37 49	LDL receptor
+T3	Process 50 57	binding
+T4	Protein 63 84	mutant apolipoprotein
+T5	Protein 98 122	Apolipoprotein-E (apo-E)
+T6	Value 126 131	34kDa
+T7	Body_part 132 144	blood plasma
+T8	Protein 145 152	protein
+T9	Process 166 170	role
+T10	Chemical 184 195	cholesterol
+T11	Process 196 205	transport
+T12	Process 214 225	interaction
+T13	Protein 235 274	low density  lipoprotein (LDL) receptor
+T14	Protein_part 280 301	amino-terminal domain
+T15	Protein 305 310	apo-E
+T16	Protein_part 340 357	four-helix bundle
+T17	Protein_part 381 395	basic residues
+T18	Protein 408 420	LDL receptor
+T19	Process 421 428	binding
+T20	Geometrical_part 451 454	end
+T21	Protein_part 469 476	helices
+T22	Protein 487 501	apo-E  variant
+T23	Protein 503 509	apo-E2
+T24	Protein_part 532 543	single-site
+T25	Process 544 556	substitution
+T26	Protein_part 557 563	Arg158
+T27	Protein_part 566 569	Cys
+T28	Protein 588 600	LDL receptor
+T29	Process 601 608	binding
+T30	Process 644 651	changes
+T31	Body_part 656 662	plasma
+T32	Chemical 663 674	cholesterol
+T33	Parameter 675 681	levels
+T34	Process 696 700	risk
+T35	Body_part 704 718	coronary heart
+T36	Physiology 719 726	disease
+T37	Protein_part 746 750	site
+T38	Process 754 762	mutation
+T39	Unknown 771 778	variant
+T40	Value 807 813	>  12A
+T41	Protein 835 847	LDL receptor
+T42	Process 848 855	binding
+T43	Protein_part 856 864	residues
+T44	Geometrical_part 901 918	crystal structure
+T45	Protein_part 926 947	amino-terminal domain
+T46	Protein 951 957	apo-E2
+T47	Parameter 972 982	resolution
+T48	Value 986 990	3.0A
+T49	Unknown 997 1006	structure
+T50	State 1027 1041	conformational
+T51	Process 1042 1049	changes
+T52	Protein 1066 1083	wild-type protein
+T53	Protein 1113 1125	LDL receptor
+T54	Process 1126 1133	binding
+T55	Process 1135 1142	Removal
+T56	Protein_part 1150 1156	Arg158
+T57	Protein_part 1157 1167	side chain
+T58	Chemical 1196 1208	salt bridges
+T59	Process 1233 1247	reorganization
+T60	Chemical 1251 1262	salt bridge
+T61	Parameter 1302 1308	charge
+T62	Geometrical_part 1309 1316	surface
+T63	Protein 1330 1335	apo-E
+T64	Protein 1343 1351	receptor
+T65	Process 1399 1413	reorganization
+T66	Geometrical_part 1417 1424	surface
+T67	Chemical 1425 1437	salt bridges
+T68	Protein 1471 1479	receptor
+T69	Process 1480 1487	binding
+T70	Protein 1491 1497	apo-E2
+T71	Process 1504 1518	reorganization
+T72	Process 1584 1590	switch
+T73	Protein 1603 1611	receptor
+T74	Process 1612 1619	binding
+T75	Process 1640 1649	mechanism
+T76	Process 1658 1669	propagation
+T77	State 1673 1687	conformational
+T78	Process 1688 1695	changes
+T79	Parameter 1713 1722	distances

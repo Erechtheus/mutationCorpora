@@ -1,0 +1,67 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Chemical 25 61	carbon monoxide-substrate-cytochrome
+T3	Unknown 62 70	P-450CAM
+T4	Category 71 86	ternary complex
+T5	Geometrical_part 92 109	crystal structure
+T6	Category 117 132	ternary complex
+T7	Chemical 148 163	carbon monoxide
+T8	Unknown 164 168	(CO)
+T9	Chemical 170 177	camphor
+T10	Protein 183 210	ferrous cytochrome P-450CAM
+T11	Parameter 234 241	R value
+T12	Value 245 250	17.9%
+T13	Value 255 260	1.9-A
+T14	Parameter 261 271	resolution
+T15	Molecule 292 303	CO molecule
+T16	Category 309 318	substrate
+T17	Chemical 320 327	camphor
+T18	Value 335 346	about 0.8 A
+T19	Parameter 365 369	time
+T20	Process 393 400	contact
+T21	Protein 406 408	CO
+T22	Parameter 415 441	average temperature factor
+T23	Chemical 449 462	camphor atoms
+T24	Value 472 475	50%
+T25	Protein 490 492	CO
+T26	Category 493 500	complex
+T27	Chemical 522 529	camphor
+T28	Category 560 575	ternary complex
+T29	Chemical 581 587	Fe-C-O
+T30	Parameter 588 593	angle
+T31	Value 597 614	about 166 degrees
+T32	Protein 626 628	CO
+T33	Chemical 657 661	heme
+T34	Protein 690 699	CO-globin
+T35	Category 700 709	complexes
+T36	Geometrical_part 718 724	steric
+T37	Process 725 737	interactions
+T38	Protein_part 743 754	active site
+T39	Molecular_Part 755 761	groups
+T40	Chemical 767 778	oxygen atom
+T41	Molecule 786 797	CO molecule
+T42	Geometrical_part 816 822	groove
+T43	Geometrical_part 844 851	helical
+T44	Chemical 852 865	hydrogen bond
+T45	Protein_part 873 885	distal helix
+T46	Protein_part 915 922	Thr 252
+T47	Protein_part 927 934	Gly 248
+T48	Protein_part 935 943	residues
+T49	Process 952 962	transition
+T50	Chemical 972 986	ferric camphor
+T51	Category 1000 1007	complex
+T52	Chemical 1015 1033	ferrous CO-camphor
+T53	Category 1040 1055	ternary complex
+T54	Chemical 1061 1075	heme iron atom
+T55	Chemical 1112 1129	pyrrole nitrogens
+T56	Value 1133 1145	about 0.41 A
+T57	Location 1160 1165	axial
+T58	Protein_part 1166 1169	Cys
+T59	Category 1170 1176	ligand
+T60	Chemical 1199 1203	heme
+T61	Chemical 1209 1218	S-Fe bond
+T62	Molecular_Part 1219 1228	stretches
+T63	Value 1234 1246	about 2.20 A
+T64	Process 1254 1261	absence
+T65	Protein 1265 1267	CO
+T66	Value 1271 1283	about 2.41 A
+T67	Protein 1289 1291	CO

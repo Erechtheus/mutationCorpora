@@ -1,0 +1,56 @@
+T1	Process 0 7	Binding
+T2	Chemical 16 21	azide
+T3	Chemical 25 31	ferric
+T4	Organism 32 48	Aplysia limacina
+T5	Protein 49 58	myoglobin
+T6	Technique 60 85	Crystallographic analysis
+T7	Value 89 94	1.9 A
+T8	Parameter 95 105	resolution
+T9	Process 111 118	binding
+T10	Chemical 127 132	azide
+T11	Chemical 140 146	ferric
+T12	Organism 155 171	Aplysia limacina
+T13	Protein 172 181	myoglobin
+T14	Technique 202 223	X-ray crystallography
+T15	Geometrical_part 229 256	three-dimensional structure
+T16	Category 264 271	complex
+T17	Value 292 297	1.9 A
+T18	Parameter 298 308	resolution
+T19	Technique 314 330	crystallographic
+T20	Parameter 331 339	R-factor
+T21	Value 343 348	13.9%
+T22	Chemical 372 389	solvent molecules
+T23	Chemical 391 396	Azide
+T24	Chemical 410 419	heme iron
+T25	Process 435 448	co-ordination
+T26	Location 487 492	outer
+T27	Geometrical_part 493 497	part
+T28	Protein_part 505 516	distal site
+T29	Process 531 542	orientation
+T30	Process 569 580	interaction
+T31	Protein_part 591 601	side-chain
+T32	Protein_part 605 610	Arg66
+T33	Protein_part 611 612	(
+T34	Protein_part 612 615	E10
+T35	Protein_part 615 616	)
+T36	Location 632 637	outer
+T37	Process 638 649	orientation
+T38	Protein 681 690	myoglobin
+T39	Protein_part 715 726	distal site
+T40	Process 734 742	presence
+T41	Category 759 765	ligand
+T42	Process 774 781	absence
+T43	Chemical 787 800	hydrogen bond
+T44	Category 801 806	donor
+T45	Protein_part 807 814	residue
+T46	Location 822 828	distal
+T47	Protein_part 829 831	E7
+T48	Organism 845 861	Aplysia limacina
+T49	Protein 862 871	myoglobin
+T50	Process 875 884	different
+T51	Protein_part 885 898	polar residue
+T52	Protein_part 900 905	Arg66
+T53	Protein_part 913 916	E10
+T54	Process 960 979	molecular evolution
+T55	Category 998 1004	ligand
+T56	Process 1005 1018	stabilization

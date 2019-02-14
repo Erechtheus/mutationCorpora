@@ -1,0 +1,102 @@
+T1	Process 26 42	characterization
+T2	Protein 51 63	glutaminases
+T3	Organism 69 86	Escherichia  coli
+T4	Organism 91 108	Bacillus subtilis
+T5	Protein 110 122	Glutaminases
+T6	Unknown 143 154	superfamily
+T7	Protein_part 158 164	serine
+T8	Protein 175 190	beta-lactamases
+T9	Chemical 196 206	penicillin
+T10	Protein 215 223	proteins
+T11	Process 247 269	hydrolytic deamidation
+T12	Chemical 274 285	L-glutamine
+T13	Chemical 289 300	L-glutamate
+T14	Protein 375 387	glutaminases
+T15	Organism 393 409	Escherichia coli
+T16	Protein 411 415	YbaS
+T17	Protein 420 424	YneH
+T18	Organism 430 447	Bacillus subtilis
+T19	Organism 449 453	YlaM
+T20	Organism 458 462	YbgJ
+T21	Protein 469 477	proteins
+T22	Chemical 513 524	L-glutamine
+T23	Chemical 547 558	D-glutamine
+T24	Protein_part 562 574	L-asparagine
+T25	Organism 585 593	organism
+T26	Protein 599 610	glutaminase
+T27	Value 618 624	higher
+T28	Parameter 625 633	affinity
+T29	Chemical 637 646	glutamine
+T30	Organism 649 656	E. coli
+T31	Protein 657 661	YbaS
+T32	Organism 666 677	B. subtilis
+T33	Organism 678 682	YlaM
+T34	Unknown 684 687	K m
+T35	Value 688 691	7.3
+T36	Value 696 702	7.6 mM
+T37	Protein 734 745	glutaminase
+T38	Organism 748 755	E. coli
+T39	Protein 756 760	YneH
+T40	Organism 765 776	B. subtilis
+T41	Organism 777 781	YbgJ
+T42	Unknown 783 786	K m
+T43	Value 787 791	27.6
+T44	Value 796 803	30.6 mM
+T45	Geometrical_part 824 842	crystal structures
+T46	Organism 850 857	E. coli
+T47	Protein 858 862	YbaS
+T48	Organism 871 882	B. subtilis
+T49	Organism 883 887	YbgJ
+T50	Process 901 909	presence
+T51	Protein 925 939	beta-lactamase
+T52	Geometrical_part 945 949	fold
+T53	Process 954 966	conservation
+T54	Protein_part 992 1000	residues
+T55	Protein 1004 1019	beta-lactamases
+T56	Protein_part 1021 1026	Ser74
+T57	Protein_part 1028 1033	Lys77
+T58	Protein_part 1036 1042	Asn126
+T59	Protein_part 1044 1050	Lys268
+T60	Protein_part 1056 1062	Ser269
+T61	Organism 1066 1070	YbgJ
+T62	Protein_part 1073 1080	Alanine
+T63	Process 1081 1092	replacement
+T64	Process 1093 1104	mutagenesis
+T65	Protein_part 1145 1153	residues
+T66	Protein 1169 1189	putative glutaminase
+T67	Protein_part 1190 1204	catalytic site
+T68	Parameter 1223 1231	activity
+T69	Geometrical_part 1237 1254	crystal structure
+T70	Organism 1262 1266	YbgJ
+T71	Category 1267 1274	complex
+T72	Protein 1284 1295	glutaminase
+T73	Category 1296 1305	inhibitor
+T74	Protein_part 1306 1333	6-diazo-5-oxo- l-norleucine
+T75	Process 1347 1355	presence
+T76	Chemical 1362 1375	covalent bond
+T77	Category 1388 1397	inhibitor
+T78	Chemical 1406 1421	hydroxyl oxygen
+T79	Protein_part 1425 1430	Ser74
+T80	Protein_part 1456 1461	Ser74
+T81	Chemical 1487 1498	nucleophile
+T82	Protein 1512 1523	glutaminase
+T83	Process 1524 1532	reaction
+T84	Process 1550 1559	formation
+T85	Chemical 1566 1594	enzyme-glutamyl intermediate
+T86	Process 1596 1602	Growth
+T87	Process 1603 1614	experiments
+T88	Organism 1624 1631	E. coli
+T89	Protein 1632 1643	glutaminase
+T90	Process 1644 1652	deletion
+T91	Organism 1653 1660	strains
+T92	Protein 1675 1679	YneH
+T93	Process 1699 1711	assimilation
+T94	Chemical 1715 1726	l-glutamine
+T95	Chemical 1747 1753	carbon
+T96	Chemical 1758 1766	nitrogen
+T97	Protein 1791 1803	glutaminases
+T98	Protein 1805 1809	YbaS
+T99	Protein 1814 1818	YneH
+T100	Chemical 1840 1844	acid
+T101	Parameter 1845 1855	resistance
+T102	Organism 1859 1866	E. coli

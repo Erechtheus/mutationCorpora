@@ -1,0 +1,121 @@
+T1	Value 8 14	1.83 A
+T2	Unknown 15 24	structure
+T3	Organism 28 40	trypanosomal
+T4	Protein 41 66	triosephosphate isomerase
+T5	Process 87 95	presence
+T6	Value 99 102	2.4
+T7	Chemical 103 122	M-ammonium sulphate
+T8	Process 126 136	comparison
+T9	Unknown 146 155	structure
+T10	Organism 163 175	trypanosomal
+T11	Protein 176 222	triosephosphate isomerase-glycerol-3-phosphate
+T12	Category 223 230	complex
+T13	Protein 232 263	Triosephosphate isomerase (TIM)
+T14	Protein 269 294	dimeric glycolytic enzyme
+T15	Protein 296 299	TIM
+T16	Organism 305 323	Trypanosoma brucei
+T17	Parameter 356 358	pH
+T18	Value 359 362	7.0
+T19	Value 366 369	2.4
+T20	Chemical 370 389	M-ammonium sulphate
+T21	Unknown 412 420	crystals
+T22	Protein 430 435	dimer
+T23	Unknown 461 470	structure
+T24	Value 491 497	1.83 A
+T25	Parameter 498 508	resolution
+T26	Parameter 517 525	R-factor
+T27	Value 529 534	18.3%
+T28	Value 556 559	6 A
+T29	Value 564 570	1.83 A
+T30	Value 572 578	37,568
+T31	Parameter 579 590	reflections
+T32	Chemical 620 633	protein atoms
+T33	Chemical 642 655	solvent atoms
+T34	Protein 657 666	Subunit 1
+T35	Unknown 700 707	crystal
+T36	Process 708 716	contacts
+T37	Protein 722 731	subunit 2
+T38	Process 755 766	differences
+T39	Unknown 770 777	crystal
+T40	Protein_part 822 833	active site
+T41	Protein 837 846	subunit 2
+T42	Chemical 852 864	sulphate ion
+T43	Process 897 908	differences
+T44	Unknown 925 934	structure
+T45	Geometrical_part 973 978	loops
+T46	Protein_part 988 999	active site
+T47	Value 1027 1030	7 A
+T48	Process 1042 1052	difference
+T49	Geometrical_part 1060 1063	tip
+T50	Geometrical_part 1080 1084	loop
+T51	Geometrical_part 1087 1093	loop 6
+T52	Protein 1110 1119	subunit 1
+T53	Protein 1124 1133	subunit 2
+T54	Geometrical_part 1158 1163	loops
+T55	Geometrical_part 1165 1171	loop 5
+T56	Geometrical_part 1176 1182	loop 7
+T57	Process 1203 1212	different
+T58	State 1213 1226	conformations
+T59	Protein 1247 1256	subunit 1
+T60	Geometrical_part 1258 1264	loop 6
+T61	State 1281 1293	conformation
+T62	Protein 1298 1307	subunit 2
+T63	Geometrical_part 1309 1315	loop 6
+T64	State 1342 1354	conformation
+T65	Process 1368 1376	presence
+T66	Chemical 1382 1391	phosphate
+T67	Category 1403 1409	ligand
+T68	Chemical 1419 1439	glycerol-3-phosphate
+T69	Geometrical_part 1446 1452	loop 6
+T70	State 1474 1486	conformation
+T71	Geometrical_part 1488 1494	Loop 6
+T72	Geometrical_part 1499 1505	loop 7
+T73	Geometrical_part 1531 1537	loop 5
+T74	State 1573 1592	closed conformation
+T75	State 1627 1647	closed conformations
+T76	Process 1653 1660	closing
+T77	Geometrical_part 1664 1670	loop 6
+T78	State 1711 1730	closed conformation
+T79	Protein 1753 1763	main-chain
+T80	State 1764 1776	conformation
+T81	Chemical 1794 1803	glutamate
+T82	Protein_part 1805 1811	Glu167
+T83	Process 1826 1832	change
+T84	Parameter 1840 1851	chi 1 angle
+T85	Protein_part 1860 1867	residue
+T86	Value 1873 1898	approximately -60 degrees
+T87	Value 1902 1926	approximately 60 degrees
+T88	Chemical 1952 1966	hydrogen bonds
+T89	Protein_part 1979 1984	polar
+T90	Chemical 1985 2001	side-chain atoms
+T91	Protein_part 2006 2011	Ser96
+T92	State 2021 2040	closed conformation
+T93	Process 2049 2057	presence
+T94	Chemical 2061 2081	glycerol-3-phosphate
+T95	Chemical 2087 2104	main-chain  atoms
+T96	Protein_part 2108 2114	Glu167
+T97	State 2160 2179	closed conformation
+T98	Protein_part 2189 2199	side-chain
+T99	Chemical 2223 2233	CA-CB bond
+T100	Parameter 2243 2248	chi 1
+T101	Value 2254 2278	approximately 60 degrees
+T102	Value 2282 2307	approximately -60 degrees
+T103	Chemical 2334 2350	hydrogen bonding
+T104	Protein_part 2354 2359	Ser96
+T105	Chemical 2390 2395	water
+T106	Chemical 2405 2416	salt bridge
+T107	Unknown 2425 2436	OE2(Glu167)
+T108	Unknown 2441 2450	NE(Arg99)
+T109	Process 2460 2470	Comparison
+T110	Protein 2504 2512	subunits
+T111	Parameter 2530 2556	root-mean-square deviation
+T112	Chemical 2569 2577	CA atoms
+T113	Value 2581 2586	0.9 A
+T114	Chemical 2596 2604	CA atoms
+T115	Protein_part 2612 2624	beta-strands
+T116	Value 2638 2644	0.2  A
+T117	Parameter 2650 2666	average B-factor
+T118	Protein 2675 2684	subunit 1
+T119	Chemical 2689 2704	subunit 2 atoms
+T120	Value 2708 2713	20 A2
+T121	Value 2718 2723	25 A2

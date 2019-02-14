@@ -1,0 +1,58 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 34 39	human
+T3	Protein 40 56	lysozyme C77/95A
+T4	Process 72 81	secretion
+T5	Parameter 82 92	efficiency
+T6	Organism 96 101	yeast
+T7	Geometrical_part 107 134	three-dimensional structure
+T8	Organism 147 152	human
+T9	Protein 153 161	lysozyme
+T10	Protein 163 170	C77/95A
+T11	Protein_part 181 195	residues Cys77
+T12	Protein_part 200 205	Cys95
+T13	Protein_part 223 230	alanine
+T14	Value 250 255	1.8-A
+T15	Parameter 256 266	resolution
+T16	Technique 270 291	x-ray crystallography
+T17	Parameter 297 307	properties
+T18	Protein 316 330	mutant protein
+T19	State 380 397	thermal stability
+T20	Process 402 411	secretion
+T21	Parameter 412 422	efficiency
+T22	Organism 428 433	yeast
+T23	Body_part 434 451	expression system
+T24	Geometrical_part 465 492	three-dimensional structure
+T25	Protein 497 504	C77/95A
+T26	Organism 568 573	human
+T27	Protein 574 582	lysozyme
+T28	Value 625 640	more than 0.5 A
+T29	Protein 657 664	factors
+T30	Chemical 672 688	main-chain atoms
+T31	Location 711 719	vicinity
+T32	Protein_part 723 733	residue 77
+T33	Process 739 748	reduction
+T34	State 752 769	thermal stability
+T35	Process 821 829	increase
+T36	Parameter 833 840	entropy
+T37	State 857 862	state
+T38	Process 879 886	packing
+T39	Process 887 893	defect
+T40	Body_part 895 901	cavity
+T41	Process 919 926	removal
+T42	Chemical 934 948	disulfide bond
+T43	Geometrical_part 969 996	three-dimensional structure
+T44	Protein 1000 1007	C77/95A
+T45	Body_part 1014 1020	cavity
+T46	State 1051 1060	stability
+T47	Protein 1068 1075	protein
+T48	Parameter 1099 1110	free energy
+T49	Geometrical_part 1118 1130	folded state
+T50	Process 1176 1185	secretion
+T51	Parameter 1186 1196	efficiency
+T52	Geometrical_part 1225 1252	three-dimensional structure
+T53	Process 1303 1310	pathway
+T54	Protein 1314 1321	protein
+T55	Process 1322 1331	secretion
+T56	Geometrical_part 1416 1434	tertiary structure
+T57	Process 1439 1443	lack
+T58	Chemical 1458 1473	disulfide bonds

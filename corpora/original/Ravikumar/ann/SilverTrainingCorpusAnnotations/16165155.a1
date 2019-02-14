@@ -1,0 +1,88 @@
+T1	Unknown 0 12	pH-Dependent
+T2	Process 24 31	changes
+T3	Chemical 35 41	Ca(2+)
+T4	Protein_part 50 55	sites
+T5	Protein 59 80	coagulation factor IX
+T6	Protein 89 96	protein
+T7	Protein 98 119	Coagulation factor IX
+T8	Protein 128 135	protein
+T9	Unknown 151 163	Trimeresurus
+T10	Protein 178 183	IX-bp
+T11	Protein 191 217	C-type lectin-like protein
+T12	Protein 256 275	homologous subunits
+T13	Protein 283 284	B
+T14	Protein 291 298	subunit
+T15	Chemical 305 311	Ca(2+)
+T16	Protein_part 320 324	site
+T17	Parameter 339 347	affinity
+T18	Parameter 354 360	values
+T19	Value 364 369	14muM
+T20	Value 374 380	130muM
+T21	Parameter 384 386	pH
+T22	Value 387 390	7.5
+T23	Process 399 406	binding
+T24	Parameter 427 429	pH
+T25	Chemical 451 457	acidic
+T26	Chemical 474 480	Ca(2+)
+T27	Process 481 488	binding
+T28	Protein_part 509 513	site
+T29	Protein_part 567 571	site
+T30	Parameter 581 589	affinity
+T31	Parameter 613 615	pH
+T32	Chemical 626 632	Ca(2+)
+T33	Process 633 640	release
+T34	Process 641 650	mechanism
+T35	Geometrical_part 675 693	crystal structures
+T36	Protein 697 702	IX-bp
+T37	Parameter 706 708	pH
+T38	Value 709 712	6.5
+T39	Parameter 717 719	pH
+T40	Value 720 723	4.6
+T41	Chemical 753 759	Ca(2+)
+T42	Protein_part 768 773	sites
+T43	Unknown 819 829	structures
+T44	Chemical 836 844	alkaline
+T45	Parameter 857 859	pH
+T46	Value 860 863	7.8
+T47	Parameter 868 870	pH
+T48	Value 871 874	8.0
+T49	Parameter 896 898	pH
+T50	Value 899 902	6.5
+T51	Protein_part 904 909	Glu43
+T52	Chemical 917 923	Ca(2+)
+T53	Protein_part 932 936	site
+T54	Protein 940 949	subunit A
+T55	State 964 977	conformations
+T56	Chemical 1006 1014	alkaline
+T57	State 1015 1020	state
+T58	Parameter 1055 1057	pH
+T59	Value 1058 1061	4.6
+T60	Protein_part 1090 1103	Gln43 residue
+T61	Protein 1107 1116	subunit B
+T62	State 1137 1149	conformation
+T63	Chemical 1194 1202	alkaline
+T64	State 1203 1208	state
+T65	Parameter 1213 1215	pH
+T66	Value 1216 1219	4.6
+T67	Protein_part 1221 1226	Glu43
+T68	Protein 1230 1239	subunit A
+T69	State 1249 1261	conformation
+T70	Protein 1291 1300	conformer
+T71	Parameter 1313 1315	pH
+T72	Value 1316 1319	6.5
+T73	Protein_part 1327 1332	Gln43
+T74	Protein 1336 1345	subunit B
+T75	State 1360 1372	conformation
+T76	Chemical 1383 1389	Ca(2+)
+T77	Chemical 1416 1431	water molecules
+T78	Protein_part 1459 1464	Glu43
+T79	Protein 1468 1477	subunit A
+T80	Process 1504 1515	protonation
+T81	Protein_part 1521 1526	Gln43
+T82	Protein 1530 1539	subunit B
+T83	State 1549 1563	conformational
+T84	Process 1564 1570	change
+T85	Protein_part 1574 1579	Glu43
+T86	Unknown 1594 1599	pH6.5
+T87	Chemical 1637 1643	Ca(2+)
+T88	Process 1644 1651	release

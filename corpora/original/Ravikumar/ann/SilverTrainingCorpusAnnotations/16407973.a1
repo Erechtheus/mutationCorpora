@@ -1,0 +1,54 @@
+T1	Process 5 9	role
+T2	Chemical 13 27	MutS glutamate
+T3	Molecule 34 37	DNA
+T4	Process 47 61	discrimination
+T5	Process 73 86	authorization
+T6	Process 90 96	repair
+T7	Protein 98 102	MutS
+T8	Process 120 124	role
+T9	Molecule 128 131	DNA
+T10	Process 141 147	repair
+T11	Organism 151 167	Escherichia coli
+T12	Process 171 178	binding
+T13	Process 209 215	repair
+T14	Chemical 222 225	ATP
+T15	Technique 244 263	Mutational analysis
+T16	Chemical 286 295	glutamate
+T17	Protein_part 297 302	Glu38
+T18	Process 321 325	role
+T19	Process 338 349	recognition
+T20	Protein 362 366	MutS
+T21	Molecule 391 401	homoduplex
+T22	Molecule 417 420	DNA
+T23	Geometrical_part 422 440	Crystal structures
+T24	Protein 444 448	MutS
+T25	Protein_part 465 470	Glu38
+T26	Chemical 479 492	hydrogen bond
+T27	Geometrical_part 561 580	crystal  structures
+T28	Molecule 582 585	DNA
+T29	Process 586 593	binding
+T30	Process 602 610	response
+T31	Chemical 614 617	ATP
+T32	Process 618 625	binding
+T33	Protein_part 635 640	Glu38
+T34	Molecule 641 648	mutants
+T35	Process 671 675	role
+T36	Value 683 691	negative
+T37	Parameter 692 698	charge
+T38	Process 710 724	discrimination
+T39	Process 756 762	repair
+T40	Process 785 799	discrimination
+T41	Process 832 841	formation
+T42	Chemical 847 860	hydrogen bond
+T43	Protein_part 864 874	residue 38
+T44	Process 909 915	repair
+T45	Process 943 952	signaling
+T46	Process 975 985	inhibition
+T47	Process 995 1005	hydrolysis
+T48	Location 1009 1017	distally
+T49	Chemical 1024 1027	ATP
+T50	Process 1041 1050	formation
+T51	Chemical 1065 1077	MutS-ATP-DNA
+T52	Technique 1078 1083	clamp
+T53	Molecule 1091 1103	intermediate
+T54	Process 1129 1135	repair

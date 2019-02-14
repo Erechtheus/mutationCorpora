@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 9	Structure
+T2	Category 17 24	complex
+T3	Protein 28 59	Streptomyces griseus protease B
+T4	Protein_part 68 80	third domain
+T5	Organism 89 95	turkey
+T6	Protein 96 105	ovomucoid
+T7	Category 106 115	inhibitor
+T8	Value 119 124	1.8-A
+T9	Parameter 125 135	resolution
+T10	Geometrical_part 141 150	structure
+T11	Category 158 165	complex
+T12	Protein 178 232	serine protease Streptomyces griseus protease B (SGPB)
+T13	Protein_part 241 253	third domain
+T14	Protein 261 281	Kazal-type ovomucoid
+T15	Category 282 291	inhibitor
+T16	Organism 297 303	turkey
+T17	Value 323 328	1.8-A
+T18	Parameter 329 339	resolution
+T19	Parameter 370 378	R factor
+T20	Value 382 387	0.125
+T21	Category 438 447	complexes
+T22	Protein 451 460	proteases
+T23	Protein 465 472	protein
+T24	Category 473 483	inhibitors
+T25	Category 489 498	inhibitor
+T26	Category 539 548	substrate
+T27	Value 600 605	2.7 A
+T28	Protein_part 614 645	active site nucleophile Ser-195
+T29	Protein 646 653	O gamma
+T30	Chemical 661 676	carbonyl carbon
+T31	Chemical 693 705	peptide bond
+T32	Category 713 722	inhibitor
+T33	Category 796 805	complexes
+T34	Process 863 873	distortion
+T35	Chemical 882 894	peptide bond
+T36	Process 915 924	mechanism
+T37	Process 928 938	inhibition
+T38	Process 973 984	equilibrium
+T39	Parameter 999 1009	parameters
+T40	Unknown 1010 1012	Ka
+T41	Process 1035 1046	association
+T42	Parameter 1047 1055	constant
+T43	Parameter 1061 1065	Khyd
+T44	Parameter 1071 1091	equilibrium constant
+T45	Category 1096 1105	inhibitor
+T46	Process 1106 1116	hydrolysis
+T47	Parameter 1138 1148	parameters
+T48	Unknown 1194 1203	structure
+T49	Unknown 1205 1210	CRDT-
+T50	Value 1219 1227	13 00:00

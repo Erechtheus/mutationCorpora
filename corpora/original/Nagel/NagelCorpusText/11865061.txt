@@ -1,0 +1,6 @@
+Previous studies have demonstrated that phosphorylation of human p53 on serine 15 contributes to protein stabilization after DNA damage and that this is mediated by the ATM family of kinases . 
+However, cellular exposure to hypoxia does not induce any detectable level of DNA lesions compared to ionizing radiation, and the oxygen dependency of p53 protein accumulation differs from that of HIF-1, the hypoxia-inducible transcription factor . 
+Here we show that, under severe hypoxic conditions, p53 protein accumulates only in S phase and this accumulation correlates with replication arrest . 
+Inhibition of ATR kinase activity substantially reduces hypoxia-induced phosphorylation of p53 protein on serine 15 as well as p53 protein accumulation . 
+Thus, hypoxia-induced cell growth arrest is tightly linked to an ATR-signaling pathway that is required for p53 modification and accumulation . 
+These studies indicate that the ATR kinase plays an important role during tumor development in responding to hypoxia-induced replication arrest, and hypoxic conditions could select for the loss of key components of ATR-dependent checkpoint controls . 

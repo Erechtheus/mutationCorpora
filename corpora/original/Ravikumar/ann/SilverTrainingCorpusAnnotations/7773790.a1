@@ -1,0 +1,36 @@
+T1	Unknown 8 15	variant
+T2	Protein_part 23 38	catalytic triad
+T3	Organism 46 66	Streptomyces scabies
+T4	Protein 67 75	esterase
+T5	Geometrical_part 81 98	crystal structure
+T6	Protein 110 118	esterase
+T7	Organism 124 144	Streptomyces scabies
+T8	Organism 168 174	potato
+T9	Physiology 180 187	disease
+T10	Value 203 208	2.1 A
+T11	Parameter 209 219	resolution
+T12	Geometrical_part 234 238	fold
+T13	Protein 246 252	enzyme
+T14	Protein 297 324	alpha/beta hydrolase family
+T15	Protein 352 362	hydrolases
+T16	Protein_part 368 379	active site
+T17	Protein_part 400 406	Ser 14
+T18	Protein_part 411 418	His 283
+T19	Parameter 456 466	components
+T20	Unknown 478 494	Ser-His-Asp(Glu)
+T21	Protein 513 530	serine hydrolases
+T22	Process 539 550	orientation
+T23	Protein_part 559 570	active site
+T24	Chemical 571 579	imidazol
+T25	Chemical 599 612	hydrogen bond
+T26	Unknown 625 634	N delta-H
+T27	Molecular_Part 635 640	group
+T28	Protein_part 647 657	main chain
+T29	Chemical 658 664	oxygen
+T30	Protein 676 682	enzyme
+T31	Process 719 728	variation
+T32	Protein 736 748	chymotrypsin
+T33	Chemical 754 759	triad
+T34	Chemical 771 786	carboxylic acid
+T35	Chemical 812 825	hydrogen-bond
+T36	Category 826 834	acceptor

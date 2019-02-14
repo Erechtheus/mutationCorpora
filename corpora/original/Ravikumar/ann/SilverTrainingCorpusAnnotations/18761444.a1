@@ -1,0 +1,80 @@
+T1	Process 0 10	Inhibition
+T2	Protein 14 37	class A beta-lactamases
+T3	Chemical 41 52	carbapenems
+T4	Technique 54 70	crystallographic
+T5	State 90 103	conformations
+T6	Protein 120 125	SHV-1
+T7	Chemical 138 149	antibiotics
+T8	Process 185 194	treatment
+T9	Physiology 198 208	infections
+T10	Organism 219 227	bacteria
+T11	Chemical 241 252	penicillins
+T12	Chemical 257 271	cephalosporins
+T13	Process 317 327	hydrolysis
+T14	Protein 335 363	SHV-1 class A beta-lactamase
+T15	Unknown 376 385	structure
+T16	Protein 411 416	SHV-1
+T17	Value 431 437	1.05 A
+T18	Parameter 438 448	resolution
+T19	State 455 468	conformations
+T20	Chemical 476 503	Ser70 acylated intermediate
+T21	Protein 524 539	SHV-1-meropenem
+T22	Category 540 547	complex
+T23	Chemical 563 583	carbonyl oxygen atom
+T24	Protein 591 602	acyl-enzyme
+T25	Chemical 613 621	oxyanion
+T26	State 634 646	conformation
+T27	State 667 679	conformation
+T28	Geometrical_part 704 714	structures
+T29	Protein 722 737	SHV-1 apoenzyme
+T30	Protein 746 761	SHV-1-meropenem
+T31	Category 762 769	complex
+T32	Value 788 794	0.29 A
+T33	Unknown 795 799	rmsd
+T34	Chemical 804 816	Calpha atoms
+T35	Process 823 834	orientation
+T36	Protein_part 852 858	Ser130
+T37	Protein_part 886 895	Ser130-OH
+T38	Molecular_Part 896 901	group
+T39	Protein 909 924	SHV-1-meropenem
+T40	Category 925 932	complex
+T41	Unknown 952 960	Lys234Nz
+T42	Protein_part 972 981	Ser130-OH
+T43	Protein 993 999	enzyme
+T44	Chemical 1023 1034	Lys73 amino
+T45	Molecular_Part 1035 1040	group
+T46	Molecule 1075 1081	proton
+T47	Process 1082 1090	transfer
+T48	Protein_part 1095 1101	Ser130
+T49	Parameter 1110 1114	rate
+T50	Process 1118 1128	hydrolysis
+T51	Technique 1163 1179	crystallographic
+T52	Process 1180 1189	detection
+T53	Process 1193 1204	protonation
+T54	Protein_part 1212 1218	Glu166
+T55	Process 1247 1258	deacylation
+T56	Process 1259 1268	mechanism
+T57	Process 1283 1294	deacylation
+T58	Chemical 1295 1309	water molecule
+T59	Chemical 1328 1336	hydrogen
+T60	Process 1345 1356	interaction
+T61	Protein_part 1366 1368	OH
+T62	Molecular_Part 1369 1374	group
+T63	Unknown 1378 1389	meropenem's
+T64	Chemical 1390 1425	6alpha-1 R-hydroxyethyl substituent
+T65	Process 1432 1443	interaction
+T66	Process 1493 1502	direction
+T67	Molecule 1523 1532	electrons
+T68	Chemical 1541 1555	water molecule
+T69	Process 1575 1583	turnover
+T70	Protein 1604 1624	SHV-1 beta-lactamase
+T71	Technique 1638 1655	mass spectrometry
+T72	Protein 1715 1735	SHV-1 beta-lactamase
+T73	Value 1749 1755	60 min
+T74	Parameter 1788 1798	properties
+T75	Unknown 1802 1813	meropenem's
+T76	Process 1832 1842	hydrolysis
+T77	Protein 1846 1851	SHV-1
+T78	Chemical 1900 1910	carbapenem
+T79	Protein 1915 1929	beta-lactamase
+T80	Category 1930 1939	inhibitor

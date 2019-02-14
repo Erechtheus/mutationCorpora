@@ -1,0 +1,87 @@
+T1	Protein_part 12 27	C-terminal loop
+T2	Protein 32 43	glutaminase
+T3	Protein_part 44 51	domains
+T4	Protein 55 87	glucosamine-6-phosphate synthase
+T5	Chemical 97 107	sugar ring
+T6	Process 108 115	opening
+T7	Process 120 129	formation
+T8	Protein 137 152	ammonia channel
+T9	Chemical 154 210	Glucosamine-6-phosphate synthase (GlmS) channels ammonia
+T10	Chemical 216 225	glutamine
+T11	Protein 233 244	glutaminase
+T12	Protein_part 245 249	site
+T13	Chemical 253 281	fructose 6-phosphate (Fru6P)
+T14	Protein 289 297	synthase
+T15	Protein_part 298 302	site
+T16	Organism 304 320	Escherichia coli
+T17	Protein 321 325	GlmS
+T18	Protein 345 364	C-terminal synthase
+T19	Protein_part 365 372	domains
+T20	Protein 387 392	dimer
+T21	Protein 411 433	N-terminal glutaminase
+T22	Protein_part 434 441	domains
+T23	Geometrical_part 474 492	crystal structures
+T24	Protein 496 500	GlmS
+T25	Category 514 521	complex
+T26	Chemical 531 554	glucosamine-6-phosphate
+T27	Category 555 562	product
+T28	Value 566 572	2.95 A
+T29	Value 577 582	2.9 A
+T30	Parameter 583 593	resolution
+T31	Protein 642 649	protein
+T32	Unknown 669 676	crystal
+T33	Molecule 686 694	electron
+T34	Parameter 695 702	density
+T35	Protein 711 722	glutaminase
+T36	Protein_part 723 729	domain
+T37	Process 769 779	Comparison
+T38	Unknown 791 801	structures
+T39	Chemical 839 849	GlmS-Fru6P
+T40	Category 850 857	complex
+T41	Chemical 875 880	sugar
+T42	Process 881 888	binding
+T43	Protein_part 894 909	C-terminal loop
+T44	Geometrical_part 927 937	major part
+T45	Protein 945 952	channel
+T46	Body_part 953 958	walls
+T47	Protein 991 999	synthase
+T48	Protein_part 1000 1004	site
+T49	Protein 1026 1037	glutaminase
+T50	Protein_part 1038 1045	domains
+T51	Chemical 1061 1066	Fru6P
+T52	Process 1067 1074	binding
+T53	Process 1082 1091	anchoring
+T54	Protein_part 1095 1100	Trp74
+T55	Protein 1132 1139	channel
+T56	Protein_part 1156 1171	C-terminal loop
+T57	State 1204 1218	conformational
+T58	Process 1219 1225	change
+T59	Protein_part 1233 1243	side chain
+T60	Protein_part 1247 1253	Lys503
+T61	Protein 1274 1282	synthase
+T62	Protein_part 1283 1289	domain
+T63	Process 1311 1323	interactions
+T64	Protein 1331 1339	synthase
+T65	Protein_part 1340 1346	domain
+T66	Protein_part 1356 1371	C-terminal loop
+T67	Protein 1399 1407	synthase
+T68	Protein_part 1408 1412	site
+T69	State 1430 1444	conformational
+T70	Process 1445 1451	change
+T71	Protein_part 1503 1509	His504
+T72	Chemical 1546 1551	sugar
+T73	Chemical 1574 1579	sugar
+T74	Location 1601 1609	vicinity
+T75	Molecular_Part 1627 1633	groups
+T76	Chemical 1650 1655	sugar
+T77	Process 1656 1669	isomerization
+T78	Process 1670 1678	reaction
+T79	Geometrical_part 1719 1729	structures
+T80	Protein 1733 1737	GlmS
+T81	Category 1741 1748	complex
+T82	Chemical 1754 1759	Fru6P
+T83	Chemical 1763 1770	glucose
+T84	Chemical 1771 1782	6-phosphate
+T85	Chemical 1789 1807	glutamine analogue
+T86	Unknown 1817 1827	structures
+T87	Process 1850 1857	changes

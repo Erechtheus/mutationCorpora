@@ -1,0 +1,49 @@
+T1	Protein 52 79	arsenic resistance proteins
+T2	Chemical 127 134	Arsenic
+T3	Chemical 138 149	contaminant
+T4	Chemical 153 158	water
+T5	Chemical 204 218	inorganic ions
+T6	Chemical 228 237	arsenic's
+T7	Physiology 238 244	health
+T8	Process 314 326	interactions
+T9	Protein 332 340	proteins
+T10	Organism 342 350	Bacteria
+T11	Organism 359 375	Escherichia coli
+T12	Chemical 389 396	arsenic
+T13	Parameter 397 407	resistance
+T14	Protein 418 421	Ars
+T15	Protein 422 428	operon
+T16	Protein 450 454	ArsR
+T17	Protein 458 475	repressor protein
+T18	Molecule 498 501	DNA
+T19	Chemical 507 514	As(III)
+T20	Protein 527 534	protein
+T21	State 556 570	conformational
+T22	Process 571 577	change
+T23	Process 583 590	binding
+T24	Chemical 591 598	As(III)
+T25	Protein_part 610 627	cysteine residues
+T26	Geometrical_part 644 654	structures
+T27	Protein 658 662	ArsR
+T28	Chemical 679 686	As(III)
+T29	Protein_part 743 751	peptides
+T30	Chemical 762 769	As(III)
+T31	Process 781 794	configuration
+T32	Chemical 804 812	thiolate
+T33	Unknown 818 829	environment
+T34	Protein 869 873	ArsR
+T35	Protein 878 882	ArsD
+T36	Unknown 898 907	structure
+T37	Chemical 916 923	As(III)
+T38	Category 924 931	complex
+T39	Unknown 935 939	Coil
+T40	Protein_part 940 947	Ser L9C
+T41	Value 953 958	1.8-A
+T42	Parameter 959 969	resolution
+T43	Molecule 981 986	x-ray
+T44	Process 987 1003	characterization
+T45	Chemical 1007 1014	As(III)
+T46	Protein 1020 1041	Tris thiolate protein
+T47	Unknown 1042 1053	environment
+T48	Process 1080 1085	basis
+T49	Protein 1119 1123	ArsR

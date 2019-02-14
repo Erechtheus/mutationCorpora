@@ -1,0 +1,49 @@
+T1	State 9 21	conformation
+T2	Protein 25 52	intramembrane protease GlpG
+T3	Protein_part 58 70	active sites
+T4	Body_part 74 87	intramembrane
+T5	Protein 88 97	proteases
+T6	Chemical 120 133	lipid bilayer
+T7	Chemical 148 160	peptide bond
+T8	Process 161 171	hydrolysis
+T9	Body_part 179 187	membrane
+T10	Technique 198 224	crystallographic  analysis
+T11	Organism 228 244	Escherichia coli
+T12	Protein 245 249	GlpG
+T13	Protein 254 276	intramembrane protease
+T14	Unknown 293 299	family
+T15	Location 317 325	internal
+T16	Protein_part 330 353	hydrophilic active site
+T17	State 371 390	closed conformation
+T18	Geometrical_part 413 430	crystal structure
+T19	Protein 434 438	GlpG
+T20	State 449 466	open conformation
+T21	Geometrical_part 486 493	loop L5
+T22	Protein_part 570 577	Ser-201
+T23	Chemical 589 605	aqueous solution
+T24	Chemical 609 623	water molecule
+T25	Chemical 643 660	putative oxyanion
+T26	Chemical 691 707	main-chain amide
+T27	Protein_part 709 716	Ser-201
+T28	Protein_part 736 747	side chains
+T29	Protein_part 749 756	His-150
+T30	Protein_part 761 768	Asn-154
+T31	Geometrical_part 775 779	loop
+T32	Process 780 788	movement
+T33	Protein_part 821 831	side chain
+T34	Protein_part 833 840	Phe-245
+T35	Body_part 868 881	transmembrane
+T36	Protein_part 882 892	helices S2
+T37	Protein_part 897 899	S5
+T38	Location 914 918	side
+T39	Body_part 919 925	portal
+T40	Chemical 935 940	lipid
+T41	Protein_part 944 964	protease active site
+T42	State 1006 1020	conformational
+T43	Process 1021 1031	plasticity
+T44	Protein 1035 1039	GlpG
+T45	Category 1055 1064	substrate
+T46	Process 1065 1072	binding
+T47	Process 1077 1086	catalysis
+T48	Process 1117 1125	reaction
+T49	Molecule 1126 1138	intermediate

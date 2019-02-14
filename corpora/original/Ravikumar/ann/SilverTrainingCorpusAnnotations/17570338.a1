@@ -1,0 +1,52 @@
+T1	Technique 15 34	mutational analyses
+T2	Process 57 61	role
+T3	Protein_part 65 84	active-site Lys-154
+T4	Protein_part 89 96	Asp-173
+T5	Organism 100 122	Salmonella typhimurium
+T6	Protein 123 135	AphA protein
+T7	Organism 141 163	Salmonella typhimurium
+T8	Unknown 170 171	B
+T9	Protein 184 215	acid phosphatase (AphA protein)
+T10	Protein 231 267	L2-haloacid dehalogenase superfamily
+T11	Protein_part 283 290	Lys-154
+T12	Category 306 315	substrate
+T13	Chemical 316 325	phosphate
+T14	Protein_part 327 345	nucleophile Asp-46
+T15	Protein_part 351 358	Asp-173
+T16	Protein 366 388	wild-type AphA protein
+T17	Protein_part 390 397	Asp-173
+T18	Chemical 418 430	Mg(II) water
+T19	Category 431 437	ligand
+T20	Chemical 448 464	main-chain amide
+T21	Unknown 468 474	loop-4
+T22	Technique 495 514	mutational analysis
+T23	Protein_part 518 525	Lys-154
+T24	Protein_part 530 537	Asp-173
+T25	Geometrical_part 543 561	crystal structures
+T26	Protein_part 569 574	K154N
+T27	Protein_part 579 592	K154R mutants
+T28	Technique 637 649	calculations
+T29	Protein_part 655 660	K154N
+T30	Protein_part 662 667	K154R
+T31	Protein_part 672 685	D173N mutants
+T32	Process 706 715	reduction
+T33	Protein 723 734	phosphatase
+T34	Parameter 735 743	activity
+T35	Protein_part 745 752	Lys-154
+T36	Process 782 795	juxtaposition
+T37	Category 803 812	substrate
+T38	Chemical 813 822	phosphate
+T39	Chemical 831 851	aspartyl nucleophile
+T40	Process 892 896	role
+T41	Category 914 923	substrate
+T42	Chemical 924 949	phosphorous atom electron
+T43	Value 968 979	10,000-fold
+T44	Process 980 988	increase
+T45	Parameter 996 1006	K(d) value
+T46	Process 1011 1023	dissociation
+T47	Category 1031 1039	cofactor
+T48	Chemical 1040 1046	Mg(II)
+T49	Protein_part 1064 1076	D173N mutant
+T50	Process 1123 1129	change
+T51	Parameter 1137 1156	binding free energy
+T52	Chemical 1160 1166	Mg(II)

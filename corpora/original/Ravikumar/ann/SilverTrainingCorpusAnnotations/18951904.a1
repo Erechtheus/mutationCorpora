@@ -1,0 +1,84 @@
+T1	Process 18 32	reconstruction
+T2	Organism 36 45	tarantula
+T3	Protein 46 62	myosin filaments
+T4	Process 76 91	phosphorylation
+T5	Protein 105 111	myosin
+T6	Parameter 112 120	activity
+T7	Body_part 122 128	Muscle
+T8	Process 129 140	contraction
+T9	Process 154 165	interaction
+T10	Protein 173 179	myosin
+T11	Body_part 180 185	heads
+T12	Protein 199 208	filaments
+T13	Protein 214 228	actin subunits
+T14	Protein 241 250	filaments
+T15	Process 252 262	Relaxation
+T16	Process 281 292	interaction
+T17	Protein 335 344	filaments
+T18	Body_part 354 361	muscles
+T19	Protein 363 369	myosin
+T20	Process 377 387	regulation
+T21	Process 397 412	phosphorylation
+T22	Protein 420 458	myosin regulatory light  chains (RLCs)
+T23	Technique 460 479	Electron microscopy
+T24	Organism 483 493	vertebrate
+T25	Body_part 494 507	smooth muscle
+T26	Protein 508 524	myosin molecules
+T27	Process 539 554	phosphorylation
+T28	Process 569 576	insight
+T29	Unknown 594 603	structure
+T30	Protein 620 626	myosin
+T31	Process 661 673	interactions
+T32	Body_part 691 696	heads
+T33	Body_part 707 711	head
+T34	Body_part 728 732	head
+T35	Process 752 766	reconstruction
+T36	Chemical 776 785	-hydrated
+T37	Body_part 826 830	head
+T38	Process 831 842	interaction
+T39	Protein 875 884	filaments
+T40	Organism 888 897	tarantula
+T41	Body_part 898 913	striated muscle
+T42	Organism 987 996	tarantula
+T43	Protein 997 1005	filament
+T44	Process 1018 1033	phosphorylation
+T45	Process 1040 1050	regulation
+T46	Process 1058 1072	reconstruction
+T47	Protein 1108 1114	myosin
+T48	Process 1115 1127	interactions
+T49	Process 1188 1200	interactions
+T50	Organism 1219 1228	tarantula
+T51	Protein 1229 1232	RLC
+T52	Protein 1267 1273	myosin
+T53	Body_part 1274 1278	head
+T54	Protein 1307 1310	RLC
+T55	Unknown 1318 1327	structure
+T56	Unknown 1335 1371	S2 (subfragment 2) crystal structure
+T57	Process 1379 1393	reconstruction
+T58	Process 1435 1446	interaction
+T59	Physiology 1461 1475	cardiomyopathy
+T60	Geometrical_part 1476 1480	loop
+T61	Body_part 1493 1497	head
+T62	Protein_part 1510 1512	S2
+T63	Process 1537 1549	interactions
+T64	Body_part 1563 1570	cardiac
+T65	Geometrical_part 1571 1575	loop
+T66	Body_part 1588 1592	head
+T67	Protein 1611 1622	light chain
+T68	Body_part 1638 1642	head
+T69	Protein_part 1659 1672	Leu305-Gln327
+T70	Process 1673 1684	interaction
+T71	Geometrical_part 1685 1689	loop
+T72	Body_part 1702 1706	head
+T73	Protein_part 1715 1734	N-terminal fragment
+T74	Protein 1742 1745	RLC
+T75	Body_part 1761 1765	head
+T76	Process 1773 1785	interactions
+T77	Protein 1856 1864	filament
+T78	Process 1885 1896	simulations
+T79	Process 1909 1924	phosphorylation
+T80	Geometrical_part 1945 1952	helical
+T81	Protein_part 1968 1982	RLC N-terminus
+T82	Process 2000 2012	interactions
+T83	Body_part 2034 2039	heads
+T84	Protein 2065 2073	filament

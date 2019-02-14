@@ -1,0 +1,69 @@
+T1	Protein 0 19	Human mitochondrial
+T2	Protein 29 34	chain
+T3	Protein 35 59	aminotransferase isozyme
+T4	Process 72 76	role
+T5	Unknown 84 88	CXXC
+T6	Process 99 108	catalysis
+T7	Organism 110 119	Mammalian
+T8	Protein 120 160	branched chain aminotransferases (BCATs)
+T9	Unknown 175 179	CXXC
+T10	Parameter 188 195	Kinetic
+T11	Unknown 228 232	CXXC
+T12	Molecule 240 247	mutants
+T13	Molecule 249 254	C315A
+T14	Molecule 256 261	C318A
+T15	Molecule 267 278	C315A/C318A
+T16	Protein 283 319	human mitochondrial (hBCATm) isozyme
+T17	Protein 328 362	oxidized hBCATm enzyme (hBCATm-Ox)
+T18	Process 395 399	role
+T19	Protein 418 424	hBCATm
+T20	Process 426 435	catalysis
+T21	Technique 437 458	X-ray crystallography
+T22	Protein_part 477 487	CXXC motif
+T23	Physiology 501 508	network
+T24	Chemical 512 526	hydrogen bonds
+T25	Process 544 548	role
+T26	Category 566 575	substrate
+T27	Process 590 599	catalysis
+T28	Unknown 608 618	structures
+T29	Process 631 638	changes
+T30	Geometrical_part 646 655	structure
+T31	Protein_part 663 672	beta-turn
+T32	Protein_part 687 697	CXXC motif
+T33	Protein 722 734	type protein
+T34	Protein_part 740 755	N-terminal loop
+T35	Protein_part 764 775	residues 15
+T36	Protein_part 780 782	32
+T37	Protein 815 829	mutant enzymes
+T38	Physiology 835 843	disorder
+T39	Protein 868 875	protein
+T40	Protein_part 897 912	N-terminal loop
+T41	Protein_part 943 953	side chain
+T42	Process 954 961	binding
+T43	Geometrical_part 962 968	pocket
+T44	Protein 1000 1005	chain
+T45	Protein_part 1006 1016	side chain
+T46	Chemical 1034 1047	dicarboxylate
+T47	Category 1048 1057	substrate
+T48	Protein_part 1058 1068	side chain
+T49	Parameter 1074 1081	kinetic
+T50	Protein 1117 1124	enzymes
+T51	Technique 1148 1156	analysis
+T52	Parameter 1162 1169	kinetic
+T53	Process 1207 1213	effect
+T54	Process 1217 1226	oxidation
+T55	Protein 1309 1315	enzyme
+T56	Molecule 1353 1360	mutants
+T57	Parameter 1376 1384	activity
+T58	Category 1429 1438	substrate
+T59	Chemical 1439 1460	alpha-ketoisocaproate
+T60	Protein 1468 1510	pyridoxamine 5'-phosphate-hBCATm structure
+T61	Process 1526 1536	disruption
+T62	Unknown 1544 1548	CXXC
+T63	Category 1575 1584	substrate
+T64	Process 1585 1596	orientation
+T65	Process 1601 1614	deprotonation
+T66	Chemical 1622 1627	amino
+T67	Molecular_Part 1628 1633	group
+T68	Chemical 1637 1662	pyridoxamine 5'-phosphate
+T69	Process 1679 1688	catalysis

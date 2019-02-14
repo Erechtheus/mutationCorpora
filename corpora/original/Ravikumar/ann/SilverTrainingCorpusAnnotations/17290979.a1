@@ -1,0 +1,54 @@
+T1	Category 19 28	inhibitor
+T2	Protein 32 72	orotidine 5'-monophosphate decarboxylase
+T3	Parameter 91 99	activity
+T4	Protein 101 150	Orotidine 5'-monophosphate decarboxylase (ODCase)
+T5	Process 179 194	decarboxylation
+T6	Chemical 198 224	orotidine 5'-monophosphate
+T7	Molecule 246 259	intermediates
+T8	Protein_part 261 281	Active site residues
+T9	Protein 285 291	ODCase
+T10	Chemical 321 329	hydrogen
+T11	Physiology 338 345	network
+T12	Chemical 366 409	6-iodouridine 5'-monophosphate (6-iodo-UMP)
+T13	Parameter 446 456	activities
+T14	Protein 460 467	ODCases
+T15	Chemical 473 489	Methanobacterium
+T16	Body_part 514 535	Plasmodium falciparum
+T17	Technique 537 559	Mass spectral analysis
+T18	Category 584 591	complex
+T19	Process 610 620	attachment
+T20	Category 628 637	inhibitor
+T21	Protein 641 647	ODCase
+T22	Process 668 672	loss
+T23	Molecule 680 687	protons
+T24	Chemical 696 700	iodo
+T25	Molecular_Part 701 707	moiety
+T26	Technique 713 736	X-ray crystal structure
+T27	Value 738 743	1.6 A
+T28	Parameter 744 754	resolution
+T29	Category 763 770	complex
+T30	Category 778 787	inhibitor
+T31	Protein 792 798	ODCase
+T32	Chemical 817 830	covalent bond
+T33	Process 831 840	formation
+T34	Protein_part 850 868	active site Lys-72
+T35	Protein_part 881 888	residue
+T36	Chemical 890 900	6-Iodo-UMP
+T37	Protein 910 916	ODCase
+T38	Parameter 932 945	concentration
+T39	Chemical 965 978	6-Iodouridine
+T40	Chemical 984 994	nucleoside
+T41	Chemical 1003 1013	6-iodo-UMP
+T42	Parameter 1047 1055	activity
+T43	Parameter 1062 1067	IC50s
+T44	Value 1071 1089	4.4 +/- 1.3 microM
+T45	Value 1094 1112	6.2 +/- 0.7 microM
+T46	Organism 1122 1135	P. falciparum
+T47	Body_part 1136 1139	ItG
+T48	Body_part 1144 1156	3D7 isolates
+T49	Chemical 1172 1202	6-Iodouridine 5'-monophosphate
+T50	Category 1223 1232	inhibitor
+T51	Protein 1236 1242	ODCase
+T52	Chemical 1252 1271	nucleoside analogue
+T53	Category 1304 1314	inhibitors
+T54	Physiology 1323 1330	malaria

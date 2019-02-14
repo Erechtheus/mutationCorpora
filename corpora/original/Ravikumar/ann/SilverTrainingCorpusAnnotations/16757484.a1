@@ -1,0 +1,96 @@
+T1	Parameter 5 15	resolution
+T2	Unknown 16 26	structures
+T3	Chemical 30 49	p-aminobenzamidine-
+T4	Protein 54 92	benzamidine-VIIa/soluble tissue factor
+T5	State 106 118	conformation
+T6	Chemical 134 146	peptide bond
+T7	Technique 151 158	mapping
+T8	Chemical 162 166	Ca2+
+T9	Chemical 168 172	Mg2+
+T10	Chemical 174 177	Na+
+T11	Protein_part 183 193	Zn2+ sites
+T12	Protein 197 208	factor VIIa
+T13	Protein 210 229	Factor VIIa (FVIIa)
+T14	Chemical 244 270	gamma-carboxyglutamic acid
+T15	Protein_part 277 283	domain
+T16	Protein 289 312	epidermal growth factor
+T17	Protein_part 318 325	domains
+T18	Protein_part 333 348	protease domain
+T19	Protein 350 355	FVIIa
+T20	Chemical 368 379	Ca(2+) ions
+T21	Protein 387 390	Gla
+T22	Protein_part 403 407	EGF1
+T23	Protein_part 424 439	protease domain
+T24	Body_part 450 455	blood
+T25	Chemical 470 476	Ca(2+)
+T26	Chemical 481 487	Mg(2+)
+T27	Protein_part 497 509	Ca(2+) sites
+T28	Protein 513 518	FVIIa
+T29	Chemical 558 564	Mg(2+)
+T30	Protein 591 596	FVIIa
+T31	Chemical 608 613	Na(+)
+T32	Protein_part 622 634	Zn(2+) sites
+T33	Category 640 647	ligands
+T34	Chemical 658 665	cations
+T35	Protein 693 753	p-aminobenzamidine-VIIa/soluble tissue factor (sTF) crystals
+T36	Chemical 782 788	Ca(2+)
+T37	Chemical 790 796	Mg(2+)
+T38	Chemical 798 803	Na(+)
+T39	Chemical 809 815	Zn(2+)
+T40	Unknown 821 828	crystal
+T41	Value 843 847	1.8A
+T42	Parameter 848 858	resolution
+T43	Unknown 874 883	structure
+T44	Parameter 891 899	R-factor
+T45	Value 903 908	19.8%
+T46	Unknown 918 927	structure
+T47	Protein_part 933 943	Gla domain
+T48	Chemical 953 959	Ca(2+)
+T49	Chemical 976 982	Mg(2+)
+T50	Protein_part 988 999	EGF1 domain
+T51	Protein_part 1013 1024	Ca(2+) site
+T52	Protein_part 1034 1049	protease domain
+T53	Chemical 1063 1069	Ca(2+)
+T54	Chemical 1075 1080	Na(+)
+T55	Chemical 1090 1096	Zn(2+)
+T56	Chemical 1104 1114	(45)Ca(2+)
+T57	Process 1115 1122	binding
+T58	Chemical 1150 1156	Mg(2+)
+T59	Protein 1160 1165	FVIIa
+T60	Protein 1167 1187	Gla-domainless FVIIa
+T61	Protein 1193 1215	prothrombin fragment 1
+T62	Unknown 1229 1236	crystal
+T63	Protein 1272 1288	serine proteases
+T64	Chemical 1294 1301	amide N
+T65	Protein_part 1305 1313	Gly(193)
+T66	Protein 1317 1322	FVIIa
+T67	Chemical 1344 1352	oxyanion
+T68	Unknown 1366 1375	structure
+T69	Chemical 1394 1402	oxyanion
+T70	Protein 1430 1461	benzamidine-FVIIa/sTF structure
+T71	Value 1465 1470	1.87A
+T72	Parameter 1471 1481	resolution
+T73	Protein 1500 1530	benzamidine-FVIIa/sTF crystals
+T74	Chemical 1536 1569	d-Phe-Pro-Arg-chloromethyl ketone
+T75	Chemical 1581 1592	benzamidine
+T76	Process 1593 1605	displacement
+T77	Protein_part 1607 1620	d-Phe-Pro-Arg
+T78	Process 1621 1634	incorporation
+T79	Chemical 1640 1648	oxyanion
+T80	Process 1654 1663	formation
+T81	Chemical 1689 1701	peptide bond
+T82	Protein 1705 1710	FVIIa
+T83	Category 1728 1737	substrate
+T84	Protein 1750 1752	TF
+T85	Process 1753 1760	binding
+T86	Chemical 1774 1782	oxyanion
+T87	Process 1788 1797	formation
+T88	Protein_part 1813 1824	active site
+T89	Geometrical_part 1825 1833	geometry
+T90	Protein 1837 1842	FVIIa
+T91	Process 1844 1851	Absence
+T92	Chemical 1855 1863	oxyanion
+T93	Process 1897 1909	implications
+T94	Protein 1914 1919	FVIIa
+T95	Category 1935 1944	substrate
+T96	Process 1961 1970	catalysis

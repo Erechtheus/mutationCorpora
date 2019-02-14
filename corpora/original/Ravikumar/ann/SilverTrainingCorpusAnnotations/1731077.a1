@@ -1,0 +1,57 @@
+T1	Geometrical_part 0 9	Structure
+T2	Category 15 30	ternary complex
+T3	Protein 48 69	lactate dehydrogenase
+T4	Organism 75 83	Bacillus
+T5	Chemical 84 102	stearothermophilus
+T6	Value 106 111	2.5 A
+T7	Parameter 112 122	resolution
+T8	Geometrical_part 146 155	structure
+T9	Category 161 176	ternary complex
+T10	Protein 208 229	lactate dehydrogenase
+T11	Protein_part 255 266	active site
+T12	Geometrical_part 267 271	loop
+T13	Geometrical_part 304 312	symmetry
+T14	Parameter 351 358	density
+T15	Process 365 377	Interactions
+T16	Protein 390 397	protein
+T17	Protein 408 416	coenzyme
+T18	Chemical 421 428	oxamate
+T19	Process 446 454	relation
+T20	Technique 478 503	site-specific mutagenesis
+T21	Chemical 505 539	Fructose  1,6-bisphosphate (FruP2)
+T22	Protein 556 562	enzyme
+T23	Geometrical_part 581 592	2-fold axes
+T24	Protein 601 609	tetramer
+T25	Chemical 624 633	phosphate
+T26	Molecular_Part 634 642	moieties
+T27	Chemical 664 669	anion
+T28	Process 670 677	binding
+T29	Protein_part 679 684	sites
+T30	Protein 705 713	subunits
+T31	Chemical 755 760	FruP2
+T32	Protein_part 783 787	site
+T33	Location 813 821	internal
+T34	Geometrical_part 822 829	2-fold 
+T35	Geometrical_part 829 842	symmetry axis
+T36	Category 848 854	ligand
+T37	Protein_part 901 905	site
+T38	Process 913 922	different
+T39	Process 923 935	orientations
+T40	Process 937 944	Binding
+T41	Chemical 948 953	FruP2
+T42	Protein 961 969	tetramer
+T43	Protein_part 990 1001	active site
+T44	Process 1026 1038	interactions
+T45	Protein_part 1044 1050	His188
+T46	Protein_part 1055 1061	Arg173
+T47	Protein_part 1063 1069	His188
+T48	Protein_part 1086 1092	His195
+T49	Chemical 1110 1118	carbonyl
+T50	Molecular_Part 1119 1124	group
+T51	Category 1132 1141	substrate
+T52	Protein_part 1147 1153	Arg173
+T53	Protein_part 1170 1176	Arg171
+T54	Protein_part 1182 1189	residue
+T55	Chemical 1205 1216	carboxylate
+T56	Molecular_Part 1217 1222	group
+T57	Category 1230 1239	substrate

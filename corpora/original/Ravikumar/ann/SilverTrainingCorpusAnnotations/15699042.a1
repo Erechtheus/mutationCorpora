@@ -1,0 +1,68 @@
+T1	Unknown 0 10	Structures
+T2	Organism 14 34	Escherichia coli NAD
+T3	Protein 35 45	synthetase
+T4	Category 51 61	substrates
+T5	Category 66 74	products
+T6	Process 94 108	rearrangements
+T7	Protein 110 162	Nicotinamide adenine dinucleotide synthetases (NADS)
+T8	Process 176 185	amidation
+T9	Chemical 189 231	nicotinic acid adenine dinucleotide (NAAD)
+T10	Protein 245 251	enzyme
+T11	Category 252 260	cofactor
+T12	Chemical 261 300	nicotinamide adenine dinucleotide (NAD)
+T13	Geometrical_part 323 341	crystal structures
+T14	Chemical 350 357	ammonia
+T15	Protein 368 384	homodimeric NADS
+T16	Organism 390 406	Escherichia coli
+T17	Category 420 427	complex
+T18	Category 441 451	substrates
+T19	Process 465 473	reaction
+T20	Category 474 481	product
+T21	Chemical 482 485	NAD
+T22	Unknown 491 501	structures
+T23	Chemical 516 524	NAAD/NAD
+T24	Process 525 532	binding
+T25	Protein_part 533 538	sites
+T26	Protein 546 551	dimer
+T27	Chemical 569 597	adenosine triphosphate (ATP)
+T28	Process 598 605	binding
+T29	Protein_part 606 610	site
+T30	Protein 623 630	subunit
+T31	Process 632 642	Comparison
+T32	Organism 652 674	Bacillus subtilis NADS
+T33	Chemical 693 701	chemical
+T34	Process 702 713	differences
+T35	Chemical 721 729	NAAD/NAD
+T36	Process 730 737	binding
+T37	Protein_part 738 743	sites
+T38	Process 763 774	differences
+T39	Chemical 782 785	ATP
+T40	Process 786 793	binding
+T41	Organism 820 832	E. coli NADS
+T42	Unknown 833 843	structures
+T43	Process 874 888	rearrangements
+T44	Chemical 896 904	NAAD/NAD
+T45	Process 905 912	binding
+T46	Geometrical_part 913 919	pocket
+T47	Chemical 925 936	NAAD-to-NAD
+T48	Process 937 947	conversion
+T49	Process 964 973	catalysis
+T50	State 974 979	state
+T51	Process 1004 1012	exchange
+T52	State 1013 1018	state
+T53	State 1028 1034	states
+T54	Process 1060 1068	movement
+T55	Chemical 1076 1087	nicotinysyl
+T56	Molecular_Part 1088 1096	moieties
+T57	Chemical 1100 1104	NAAD
+T58	Chemical 1109 1112	NAD
+T59	Protein_part 1114 1121	Phe-170
+T60	Protein_part 1127 1143	residues 224-228
+T61	Process 1171 1196	differential coordination
+T62	Chemical 1202 1215	magnesium ion
+T63	Chemical 1219 1223	NAAD
+T64	Chemical 1228 1231	NAD
+T65	Unknown 1246 1255	structure
+T66	Process 1256 1267	comparisons
+T67	Organism 1328 1335	species
+T68	Chemical 1345 1356	antibiotics

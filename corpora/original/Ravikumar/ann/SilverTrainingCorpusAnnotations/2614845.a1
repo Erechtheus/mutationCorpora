@@ -1,0 +1,109 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 27	bovine
+T3	Protein 28 40	beta-trypsin
+T4	Value 44 49	1.5 A
+T5	Parameter 50 60	resolution
+T6	Unknown 66 73	crystal
+T7	Process 88 105	molecular packing
+T8	Parameter 106 113	density
+T9	Protein_part 115 126	Active site
+T10	Geometrical_part 127 135	geometry
+T11	Chemical 137 146	ion pairs
+T12	Chemical 151 168	solvent structure
+T13	Geometrical_part 174 191	crystal structure
+T14	Protein 195 231	bovine pancreatic beta-trypsin (BPT)
+T15	Unknown 278 285	crystal
+T16	Chemical 325 332	solvent
+T17	Parameter 335 342	filling
+T18	Value 343 346	57%
+T19	Parameter 354 360	volume
+T20	Geometrical_part 368 377	unit cell
+T21	Value 420 423	44%
+T22	Value 439 442	37%
+T23	Protein 444 447	BPT
+T24	Geometrical_part 448 458	structures
+T25	Chemical 475 486	benzamidine
+T26	Geometrical_part 497 515	crystal structures
+T27	Protein 519 522	BPT
+T28	Chemical 526 543	ammonium sulphate
+T29	Parameter 547 549	pH
+T30	Value 550 553	5.3
+T31	Process 595 616	molecular replacement
+T32	Technique 617 627	techniques
+T33	Unknown 633 643	structures
+T34	Value 665 670	1.5 A
+T35	Parameter 671 681	resolution
+T36	Parameter 693 701	R-values
+T37	Value 705 710	16.7%
+T38	Value 715 720	16.9%
+T39	Process 736 746	Comparison
+T40	State 821 833	conformation
+T41	Protein 841 848	protein
+T42	Protein_part 918 929	side-chains
+T43	Parameter 951 958	density
+T44	Protein_part 967 977	C terminus
+T45	Chemical 987 995	ion pair
+T46	Protein_part 1006 1016	lysines 87
+T47	Chemical 1088 1105	solvent structure
+T48	Chemical 1131 1136	water
+T49	Chemical 1176 1181	water
+T50	Physiology 1182 1189	network
+T51	Chemical 1207 1214	calcium
+T52	Process 1215 1222	binding
+T53	Protein_part 1223 1227	site
+T54	Process 1235 1245	activation
+T55	Parameter 1246 1250	area
+T56	Process 1259 1268	autolysis
+T57	Geometrical_part 1269 1273	loop
+T58	Protein 1299 1312	water channel
+T59	Parameter 1331 1336	depth
+T60	Geometrical_part 1356 1362	pocket
+T61	Protein 1377 1384	protein
+T62	Geometrical_part 1385 1392	surface
+T63	Process 1424 1436	displacement
+T64	Chemical 1440 1455	water molecules
+T65	Category 1461 1470	substrate
+T66	Process 1471 1478	binding
+T67	Chemical 1482 1496	sulphate anion
+T68	Chemical 1509 1523	hydrogen bonds
+T69	Protein_part 1531 1557	active site residues His57
+T70	Protein_part 1559 1565	Ser195
+T71	Protein_part 1570 1576	Gly193
+T72	Parameter 1595 1599	time
+T73	Molecule 1630 1638	electron
+T74	Parameter 1639 1646	density
+T75	Process 1648 1659	Interaction
+T76	Chemical 1669 1681	sulphate ion
+T77	Process 1698 1706	increase
+T78	Parameter 1714 1723	pKa value
+T79	Protein_part 1727 1732	His57
+T80	Chemical 1741 1749	sulphate
+T81	Parameter 1750 1764	concentrations
+T82	Technique 1787 1813	nuclear magnetic resonance
+T83	Organism 1828 1837	bacterial
+T84	Protein 1838 1853	serine protease
+T85	Chemical 1886 1894	solution
+T86	Chemical 1905 1926	His-Ser hydrogen bond
+T87	Chemical 1945 1953	solvents
+T88	Chemical 1965 1973	sulphate
+T89	Value 1977 1980	low
+T90	Parameter 1981 1983	pH
+T91	Value 2000 2003	6.8
+T92	Chemical 2015 2024	imidazole
+T93	Protein_part 2028 2033	His57
+T94	Unknown 2057 2064	crystal
+T95	Category 2103 2112	substrate
+T96	Process 2113 2120	binding
+T97	Protein 2135 2151	solvent channels
+T98	Process 2165 2174	diffusion
+T99	Category 2184 2194	substrates
+T100	Parameter 2210 2214	size
+T101	Body_part 2225 2235	pancreatic
+T102	Protein 2236 2243	trypsin
+T103	Category 2244 2253	inhibitor
+T104	Protein 2264 2270	enzyme
+T105	Geometrical_part 2271 2278	crystal
+T106	Protein_part 2284 2295	active site
+T107	Process 2326 2333	contact
+T108	Parameter 2334 2339	areas
+T109	Protein_part 2368 2379	active site

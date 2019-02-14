@@ -1,0 +1,107 @@
+T1	Geometrical_part 8 25	crystal structure
+T2	Location 29 40	cytoplasmic
+T3	Protein 41 61	malate dehydrogenase
+T4	Value 65 70	2.5-A
+T5	Parameter 71 81	resolution
+T6	Unknown 97 106	structure
+T7	Location 110 121	cytoplasmic
+T8	Protein 122 142	malate dehydrogenase
+T9	Organism 148 151	pig
+T10	Body_part 152 157	heart
+T11	Process 244 256	readjustment
+T12	Unknown 284 290	system
+T13	Unknown 306 315	structure
+T14	Protein_part 330 341	amino acids
+T15	Protein 361 369	subunits
+T16	Chemical 373 386	NAD molecules
+T17	Chemical 392 409	solvent molecules
+T18	Molecule 443 452	molecules
+T19	Chemical 476 488	sulfate ions
+T20	Technique 494 510	crystallographic
+T21	Protein 540 545	dimer
+T22	Geometrical_part 554 562	symmetry
+T23	Technique 575 583	Analysis
+T24	Protein 620 628	subunits
+T25	Protein 645 650	dimer
+T26	Value 671 677	2-fold
+T27	Geometrical_part 689 697	symmetry
+T28	Protein 712 720	subunits
+T29	Value 738 749	173 degrees
+T30	Process 750 758	rotation
+T31	Unknown 764 773	structure
+T32	Parameter 787 795	R factor
+T33	Value 799 804	16.7%
+T34	Process 809 820	diffraction
+T35	Value 834 837	6.0
+T36	Value 842 847	2.5 A
+T37	Unknown 857 860	rms
+T38	Process 861 871	deviations
+T39	Parameter 883 895	bond lengths
+T40	Parameter 900 906	angles
+T41	Value 911 918	0.017 A
+T42	Value 923 935	2.57 degrees
+T43	Protein 961 969	coenzyme
+T44	Process 997 1009	interactions
+T45	Chemical 1025 1039	hydrogen bonds
+T46	Chemical 1073 1076	NAD
+T47	Protein 1085 1091	enzyme
+T48	Chemical 1104 1121	solvent molecules
+T49	Chemical 1149 1157	hydrogen
+T50	Protein 1172 1178	enzyme
+T51	Chemical 1184 1195	carboxamide
+T52	Molecular_Part 1196 1201	group
+T53	Chemical 1205 1208	NAD
+T54	Chemical 1212 1220	hydrogen
+T55	Protein_part 1235 1245	side chain
+T56	Protein_part 1249 1256	Asn-130
+T57	Chemical 1267 1281	water molecule
+T58	Chemical 1298 1307	nitrogens
+T59	Protein_part 1311 1318	Leu-157
+T60	Protein_part 1323 1330	Asp-158
+T61	Chemical 1342 1357	carbonyl oxygen
+T62	Protein_part 1361 1368	Leu-154
+T63	Protein_part 1370 1377	Asn-130
+T64	Protein_part 1399 1407	residues
+T65	Protein_part 1413 1422	beta-turn
+T66	Chemical 1446 1462	cis peptide bond
+T67	Location 1466 1477	cytoplasmic
+T68	Protein 1478 1498	malate dehydrogenase
+T69	Protein_part 1517 1524	Asn-130
+T70	Protein_part 1529 1536	Pro-131
+T71	Protein_part 1542 1563	active site histidine
+T72	Protein_part 1565 1572	His-186
+T73	Chemical 1577 1585	hydrogen
+T74	Chemical 1598 1606	nitrogen
+T75	Chemical 1607 1610	ND1
+T76	Chemical 1618 1629	carboxylate
+T77	Protein_part 1633 1640	Asp-158
+T78	Chemical 1654 1662	nitrogen
+T79	Unknown 1663 1666	NE2
+T80	Chemical 1674 1685	sulfate ion
+T81	Category 1708 1717	substrate
+T82	Process 1718 1725	binding
+T83	Protein_part 1727 1731	site
+T84	Process 1736 1744	addition
+T85	Protein_part 1769 1790	active site histidine
+T86	Chemical 1797 1808	sulfate ion
+T87	Chemical 1817 1825	hydrogen
+T88	Chemical 1840 1851	guanidinium
+T89	Molecular_Part 1852 1857	group
+T90	Protein_part 1861 1868	Arg-161
+T91	Chemical 1877 1888	carboxamide
+T92	Molecular_Part 1889 1894	group
+T93	Protein_part 1898 1905	Asn-140
+T94	Chemical 1918 1926	hydroxyl
+T95	Molecular_Part 1927 1932	group
+T96	Protein_part 1936 1943	Ser-241
+T97	Category 1971 1980	substrate
+T98	Chemical 1982 1988	malate
+T99	Chemical 1992 2004	oxaloacetate
+T100	Chemical 2022 2029	sulfate
+T101	Process 2030 2037	binding
+T102	Protein_part 2038 2042	site
+T103	Category 2053 2062	substrate
+T104	Chemical 2063 2082	1-carboxyl hydrogen
+T105	Chemical 2097 2108	guanidinium
+T106	Molecular_Part 2109 2114	group
+T107	Protein_part 2118 2125	Arg-161

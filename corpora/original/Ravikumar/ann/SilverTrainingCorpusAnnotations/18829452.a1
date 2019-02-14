@@ -1,0 +1,81 @@
+T1	Process 15 27	interactions
+T2	Molecule 36 49	mDia isoforms
+T3	Protein 54 66	Rho proteins
+T4	Protein 68 75	Formins
+T5	Molecule 84 94	regulators
+T6	Protein 98 103	actin
+T7	Process 104 114	nucleation
+T8	Process 119 133	polymerization
+T9	Protein 148 171	formin homology 1 (FH1)
+T10	Protein 179 182	FH2
+T11	Protein_part 184 191	domains
+T12	Process 227 236	formation
+T13	Protein 247 252	actin
+T14	Geometrical_part 253 259	cables
+T15	Protein 275 282	formins
+T16	Organism 299 309	Diaphanous
+T17	Protein 318 325	formins
+T18	Unknown 327 334	members
+T19	Process 365 372	binding
+T20	Chemical 384 387	GTP
+T21	Protein 396 403	protein
+T22	Protein 411 424	Rho subfamily
+T23	Process 426 433	Binding
+T24	Process 453 459	switch
+T25	Protein 460 468	proteins
+T26	Protein_part 487 497	N-terminal
+T27	Molecule 498 505	mDia(N)
+T28	Protein 521 527	GTPase
+T29	Protein_part 536 542	domain
+T30	Process 557 564	release
+T31	Molecule 600 613	mDia isoforms
+T32	Protein 615 620	mDia1
+T33	Protein 642 645	Rho
+T34	Protein 647 651	RhoA
+T35	Protein 653 655	-B
+T36	Protein 661 663	-C
+T37	Protein 681 686	mDia2
+T38	Unknown 722 725	Rac
+T39	Unknown 730 735	Cdc42
+T40	Process 815 827	interactions
+T41	Protein 831 835	RhoA
+T42	Protein 837 841	Rac1
+T43	Protein 847 852	Cdc42
+T44	Protein 859 864	mDia1
+T45	Molecule 872 905	mDia1 mutant (mDia(N)-Thr-Ser-His
+T46	Unknown 906 912	(TSH))
+T47	Category 960 965	mimic
+T48	Protein 966 971	mDia2
+T49	Technique 1044 1052	analysis
+T50	Category 1058 1065	complex
+T51	Molecule 1074 1088	Cdc42.Gpp(NH)p
+T52	Molecule 1093 1104	mDia(N)-TSH
+T53	Protein_part 1115 1124	NNN motif
+T54	Protein 1128 1133	mDia1
+T55	Chemical 1135 1140	amino
+T56	Chemical 1141 1146	acids
+T57	Protein_part 1179 1188	TSH motif
+T58	Unknown 1192 1199	mDia2/3
+T59	Protein_part 1201 1220	amino acids 183-185
+T60	Protein_part 1225 1232	190-192
+T61	Protein 1243 1250	epitope
+T62	Protein_part 1272 1288	Rho insert helix
+T63	Parameter 1312 1320	affinity
+T64	Process 1321 1328	binding
+T65	Protein_part 1341 1348	N motif
+T66	Protein 1352 1357	mDia1
+T67	Process 1371 1382	interaction
+T68	Protein 1388 1391	Rho
+T69	Process 1407 1415	presence
+T70	Protein_part 1419 1426	Phe-106
+T71	Protein_part 1454 1461	His-104
+T72	Unknown 1465 1468	Rac
+T73	Unknown 1473 1478	Cdc42
+T74	Protein_part 1520 1529	TSH motif
+T75	Unknown 1533 1540	mDia2/3
+T76	Protein_part 1564 1569	F106H
+T77	Protein_part 1574 1579	H104F
+T78	Process 1580 1589	mutations
+T79	Parameter 1612 1622	affinities
+T80	Protein 1646 1650	mDia
+T81	Process 1651 1663	interactions

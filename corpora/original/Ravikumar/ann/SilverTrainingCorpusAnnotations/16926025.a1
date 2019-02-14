@@ -1,0 +1,98 @@
+T1	Process 4 8	role
+T2	Protein_part 12 18	Arg165
+T3	Process 47 60	stabilization
+T4	Process 65 74	catalysis
+T5	Protein 78 84	M.HhaI
+T6	Protein_part 86 92	Arg165
+T7	Geometrical_part 99 103	part
+T8	Protein_part 131 135	base
+T9	Process 136 144	flipping
+T10	Protein_part 145 150	motif
+T11	Organism 158 167	bacterial
+T12	Molecule 168 171	DNA
+T13	Protein 172 198	cytosine methyltransferase
+T14	Protein 200 206	M.HhaI
+T15	Process 208 219	Replacement
+T16	Protein_part 223 229	Arg165
+T17	Protein_part 235 238	Ala
+T18	Process 257 263	effect
+T19	Molecule 274 277	DNA
+T20	Unknown 281 287	AdoMet
+T21	Parameter 288 296	affinity
+T22	Protein_part 313 317	base
+T23	Process 343 354	transitions
+T24	Value 371 387	approximately 16
+T25	Value 392 400	190-fold
+T26	Process 435 445	importance
+T27	Protein_part 454 459	motif
+T28	Parameter 476 483	kinetic
+T29	Process 484 491	changes
+T30	Molecule 515 523	mutant's
+T31	Value 533 543	10(5)-fold
+T32	Parameter 564 568	rate
+T33	Molecule 596 599	DNA
+T34	Geometrical_part 600 619	cocrystal structure
+T35	Value 621 627	2.79 A
+T36	Parameter 628 638	resolution
+T37	Process 650 656	target
+T38	Chemical 657 665	cytosine
+T39	Value 683 707	approximately 30 degrees
+T40	Geometrical_part 717 729	major groove
+T41	Geometrical_part 758 770	major groove
+T42	Process 771 778	pathway
+T43	Chemical 783 793	nucleotide
+T44	Protein 808 828	pyrimidine-sugar chi
+T45	Parameter 829 834	angle
+T46	Value 849 875	approximately +171 degrees
+T47	Value 893 904	-95 degrees
+T48	Value 908 920	-120 degrees
+T49	Molecule 924 929	B DNA
+T50	Value 935 946	-77 degrees
+T51	Unknown 954 963	WT M.HhaI
+T52	Category 964 971	complex
+T53	Protein_part 979 985	Arg165
+T54	Chemical 1019 1027	cytosine
+T55	Protein_part 1066 1071	Cys81
+T56	Chemical 1077 1091	cytosine sugar
+T57	Unknown 1109 1125	C2'-endo-C3'-exo
+T58	State 1133 1145	conformation
+T59	Unknown 1187 1195	C3'-endo
+T60	State 1203 1215	conformation
+T61	Value 1244 1250	2.70 A
+T62	Parameter 1251 1261	resolution
+T63	Geometrical_part 1262 1281	cocrystal structure
+T64	Unknown 1289 1302	WT M.HhaI/DNA
+T65	Category 1303 1310	complex
+T66	Parameter 1333 1343	resolution
+T67	Unknown 1344 1353	structure
+T68	Unknown 1361 1374	WT M.HhaI/DNA
+T69	Category 1375 1382	complex
+T70	Value 1384 1390	1.96 A
+T71	Chemical 1416 1421	sugar
+T72	Unknown 1439 1448	structure
+T73	Value 1477 1482	lower
+T74	Parameter 1483 1493	resolution
+T75	Unknown 1494 1503	WT M.HhaI
+T76	Category 1504 1511	complex
+T77	Chemical 1532 1537	sugar
+T78	State 1548 1556	O4'-endo
+T79	State 1563 1575	conformation
+T80	Molecule 1578 1590	intermediate
+T81	Protein 1603 1608	South
+T82	Protein 1613 1629	North conformers
+T83	Protein_part 1643 1649	Arg165
+T84	Process 1668 1673	roles
+T85	Chemical 1692 1700	cytosine
+T86	Process 1718 1727	catalysis
+T87	Protein 1766 1772	M.HhaI
+T88	Process 1782 1789	changes
+T89	Chemical 1793 1798	sugar
+T90	Protein_part 1850 1854	base
+T91	Process 1855 1863	flipping
+T92	Process 1864 1873	mechanism
+T93	Protein_part 1916 1920	base
+T94	Process 1921 1929	flipping
+T95	Process 1934 1954	catalytic mechanisms
+T96	Organism 1959 1968	bacterial
+T97	Organism 1973 1983	eukaryotic
+T98	Protein 1984 2006	DNA methyltransferases

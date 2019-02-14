@@ -1,0 +1,75 @@
+T1	Unknown 38 43	TREX1
+T2	Process 44 54	inhibition
+T3	Chemical 58 64	metals
+T4	Process 66 80	Identification
+T5	Protein_part 98 107	histidine
+T6	Protein 121 139	DEDDh exonucleases
+T7	Unknown 141 146	TREX1
+T8	Protein 160 171	exonuclease
+T9	Organism 175 184	mammalian
+T10	Body_part 185 190	cells
+T11	Parameter 224 232	activity
+T12	Parameter 248 256	activity
+T13	Protein 263 274	exonuclease
+T14	Organism 293 299	humans
+T15	Physiology 304 330	Aicardi-Goutieres syndrome
+T16	Physiology 342 381	autosomal dominant retinal vasculopathy
+T17	Physiology 387 410	cerebral leukodystrophy
+T18	Protein 430 436	enzyme
+T19	Physiology 456 484	systemic lupus erythematosus
+T20	Unknown 486 491	TREX1
+T21	Protein 507 531	exonuclease DEDDh family
+T22	Unknown 539 546	members
+T23	Parameter 569 586	sequence identity
+T24	Geometrical_part 615 619	fold
+T25	Protein_part 624 635	active site
+T26	Process 636 648	organization
+T27	Protein 660 672	exonucleases
+T28	Process 676 695	catalytic mechanism
+T29	Chemical 733 752	divalent metal ions
+T30	Protein_part 766 776	DEDD motif
+T31	Process 799 810	interaction
+T32	Unknown 814 819	TREX1
+T33	Chemical 829 855	monovalent cations lithium
+T34	Chemical 861 867	sodium
+T35	Chemical 895 901	metals
+T36	Parameter 929 937	activity
+T37	Unknown 941 946	TREX1
+T38	Chemical 977 980	gel
+T39	Technique 1009 1018	technique
+T40	Protein 1058 1069	exonuclease
+T41	Process 1070 1078	reaction
+T42	Technique 1084 1100	X-ray structures
+T43	Protein 1108 1114	enzyme
+T44	Category 1118 1125	complex
+T45	Chemical 1141 1148	cations
+T46	Chemical 1160 1170	nucleotide
+T47	Category 1174 1181	product
+T48	Protein 1190 1201	exonuclease
+T49	Process 1202 1210	reaction
+T50	Value 1231 1236	2.1 A
+T51	Value 1241 1246	2.3 A
+T52	Process 1265 1275	comparison
+T53	Unknown 1285 1295	structures
+T54	Category 1310 1319	complexes
+T55	Process 1328 1336	presence
+T56	Chemical 1340 1349	magnesium
+T57	Chemical 1353 1362	manganese
+T58	Process 1382 1392	inhibition
+T59	Process 1393 1402	mechanism
+T60	Chemical 1433 1439	metals
+T61	Parameter 1464 1474	affinities
+T62	Chemical 1487 1492	metal
+T63	Protein_part 1502 1507	sites
+T64	Process 1528 1542	rearrangements
+T65	Location 1546 1560	active centers
+T66	Technique 1566 1574	analysis
+T67	Protein_part 1595 1612	histidine residue
+T68	Protein_part 1614 1620	His124
+T69	Protein 1647 1659	DEDDh family
+T70	Parameter 1681 1689	activity
+T71	Unknown 1693 1698	TREX1
+T72	Process 1774 1783	mechanism
+T73	Parameter 1787 1795	activity
+T74	Unknown 1803 1815	DEDEh family
+T75	Protein 1819 1831	exonucleases

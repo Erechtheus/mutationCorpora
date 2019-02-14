@@ -1,0 +1,74 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 23 28	human
+T3	Body_part 29 39	autoimmune
+T4	Category 40 47	complex
+T5	Protein 56 59	IgM
+T6	Protein 71 77	factor
+T7	Protein 78 82	RF61
+T8	Protein 87 94	IgG1 Fc
+T9	Protein 111 118	epitope
+T10	Parameter 136 144	affinity
+T11	Process 145 155	maturation
+T12	Protein 157 180	Rheumatoid factors (RF)
+T13	Molecule 185 199	autoantibodies
+T14	Protein 215 223	epitopes
+T15	Protein_part 231 240	Fc region
+T16	Protein 244 265	immunoglobulin (Ig) G
+T17	Physiology 316 341	rheumatoid arthritis (RA)
+T18	Technique 362 384	X-ray crystallographic
+T19	Unknown 385 394	structure
+T20	Value 399 402	3 A
+T21	Parameter 403 413	resolution
+T22	Category 420 427	complex
+T23	Protein_part 440 449	Fc region
+T24	Organism 453 458	human
+T25	Protein 459 463	IgG1
+T26	Protein_part 472 484	Fab fragment
+T27	Protein 501 514	IgM RF (RF61)
+T28	Physiology 532 534	RA
+T29	Organism 535 542	patient
+T30	Parameter 570 578	affinity
+T31	Protein 583 589	IgG Fc
+T32	Category 598 605	complex
+T33	Protein_part 611 624	Fab fragments
+T34	Protein_part 638 640	Fc
+T35	Protein 644 652	epitopes
+T36	Protein_part 666 676	C terminus
+T37	Protein 687 694	epitope
+T38	Protein_part 705 713	residues
+T39	Protein_part 725 740	Cgamma3 domains
+T40	Process 752 756	role
+T41	Protein 774 793	hydrophilic epitope
+T42	Protein_part 811 821	side-chain
+T43	Protein_part 825 831	Arg355
+T44	Protein 876 880	RF61
+T45	Protein 899 903	IgG1
+T46	Protein 932 936	IgG4
+T47	Protein_part 965 972	residue
+T48	Protein_part 976 982	Gln355
+T49	Category 1022 1029	complex
+T50	Value 1035 1040	lower
+T51	Parameter 1041 1060	affinity RF (RF-AN)
+T52	Protein 1070 1077	IgG4 Fc
+T53	Protein_part 1093 1101	residues
+T54	Molecule 1127 1135	antibody
+T55	Protein_part 1146 1150	site
+T56	Process 1168 1175	binding
+T57	Protein 1181 1188	epitope
+T58	Protein 1198 1202	RF61
+T59	Location 1241 1245	axis
+T60	Protein_part 1253 1274	V(H):V(L) beta-barrel
+T61	Geometrical_part 1309 1323	region-H3 loop
+T62	Process 1336 1340	role
+T63	Geometrical_part 1352 1358	pocket
+T64	Protein_part 1368 1374	Arg355
+T65	Chemical 1391 1403	salt-bridges
+T66	Molecule 1409 1417	antibody
+T67	Process 1418 1426	contacts
+T68	Protein_part 1465 1478	V(H) residues
+T69	Process 1512 1519	process
+T70	Unknown 1523 1537	antigen-driven
+T71	Process 1538 1548	maturation
+T72	Protein 1567 1573	IgG Fc
+T73	Process 1585 1595	generation
+T74	Molecule 1605 1620	RF autoantibody

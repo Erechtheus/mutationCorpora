@@ -1,0 +1,66 @@
+T1	Unknown 10 19	structure
+T2	Molecule 27 32	toxin
+T3	Protein_part 33 39	domain
+T4	Molecule 55 66	enterotoxin
+T5	Physiology 82 92	pathogenic
+T6	Organism 93 99	strain
+T7	Organism 103 119	Escherichia coli
+T8	Process 132 139	binding
+T9	Protein_part 140 144	site
+T10	Protein 151 166	binding protein
+T11	Organism 170 173	rat
+T12	Body_part 174 210	intestinal epithelial cell membranes
+T13	Molecule 224 236	enterotoxins
+T14	Unknown 243 249	family
+T15	Molecule 253 258	toxin
+T16	Protein_part 259 267	peptides
+T17	Physiology 289 304	enterotoxigenic
+T18	Organism 305 321	Escherichia coli
+T19	Protein_part 347 366	amino acid residues
+T20	Unknown 376 441	S., Takao, T., Shimonishi, Y., Hara, S., Takeda, T., Takeda, Y., 
+T21	Unknown 445 457	Miwatani, T.
+T22	Unknown 465 481	Eur. J. Biochem.
+T23	Unknown 521 527	analog
+T24	Molecule 535 546	enterotoxin
+T25	Molecule 548 562	Mpr5-STp(5-17)
+T26	Unknown 570 573	Mpr
+T27	Chemical 577 604	beta-mercaptopropionic acid
+T28	Protein_part 630 649	amino acid residues
+T29	Protein_part 655 659	Cys5
+T30	Protein_part 663 668	Cys17
+T31	Molecule 686 697	enterotoxin
+T32	Protein_part 723 733	N terminus
+T33	Unknown 743 806	H., Hidaka,  Y., Ozaki, H., Ito, H., Hirayama, T., Takeda, Y., 
+T34	Unknown 810 824	Shimonishi, Y.
+T35	Unknown 832 862	Biochem. Biophys. Res. Commun.
+T36	Chemical 904 909	water
+T37	Geometrical_part 919 936	crystal structure
+T38	Technique 1000 1010	procedures
+T39	Parameter 1022 1030	R factor
+T40	Value 1034 1039	0.089
+T41	Unknown 1045 1052	crystal
+T42	Geometrical_part 1081 1106	space group P2(1)2(1)2(1)
+T43	Geometrical_part 1112 1121	unit cell
+T44	Parameter 1122 1131	constants
+T45	Parameter 1132 1133	a
+T46	Value 1136 1148	21.010 (2) A
+T47	Parameter 1150 1151	b
+T48	Value 1154 1166	27.621 (4) A
+T49	Parameter 1172 1173	c
+T50	Value 1176 1188	12.781 (1) A
+T51	Unknown 1217 1225	crystals
+T52	Protein_part 1239 1246	peptide
+T53	Molecule 1247 1255	molecule
+T54	Chemical 1264 1279	water molecules
+T55	Body_part 1283 1293	right-hand
+T56	Protein_part 1301 1308	peptide
+T57	Molecule 1341 1349	molecule
+T58	Protein_part 1357 1367	beta-turns
+T59	Protein_part 1440 1458	disulfide linkages
+T60	Unknown 1471 1480	structure
+T61	Protein_part 1503 1509	region
+T62	Molecule 1517 1528	enterotoxin
+T63	Protein 1536 1552	receptor protein
+T64	Body_part 1560 1568	membrane
+T65	Organism 1572 1575	rat
+T66	Body_part 1576 1603	intestinal epithelial cells

@@ -1,0 +1,53 @@
+T1	Process 11 27	characterization
+T2	Process 42 46	ADCC
+T3	Organism 56 61	human
+T4	Protein_part 62 73	Fc fragment
+T5	Geometrical_part 94 121	three-dimensional structure
+T6	Organism 127 132	human
+T7	Protein_part 133 144	Fc fragment
+T8	Process 170 222	antibody dependent cell mediated cytotoxicity (ADCC)
+T9	Process 235 243	mutation
+T10	Protein_part 244 261	S239D/A330L/I332E
+T11	Protein 293 298	C(H)2
+T12	Organism 312 317	human
+T13	Protein 318 345	immunoglobulin G1 (IgG1) Fc
+T14	Process 359 372	substitutions
+T15	Value 403 414	10-100-fold
+T16	Process 415 423	increase
+T17	Organism 427 432	human
+T18	Protein 433 437	IgG1
+T19	Organism 449 454	human
+T20	Protein 455 469	Fc gamma RIIIA
+T21	Protein 471 475	CD16
+T22	Protein 505 519	Fc/3M fragment
+T23	Geometrical_part 541 554	its structure
+T24	Parameter 567 577	resolution
+T25	Value 581 585	2.5A
+T26	Process 592 613	molecular replacement
+T27	Process 638 645	changes
+T28	Protein 663 668	Fc/3M
+T29	Organism 698 703	human
+T30	Protein_part 704 716	Fc fragments
+T31	Protein_part 771 784	C(H)2 domains
+T32	State 810 829	'open' conformation
+T33	Unknown 844 852	fragment
+T34	Process 914 929	crystallization
+T35	Location 943 952	intrinsic
+T36	Process 953 964	variability
+T37	Process 982 1002	molecular mechanisms
+T38	Process 1010 1015	basis
+T39	Process 1032 1043	interaction
+T40	Protein 1052 1057	Fc/3M
+T41	Protein 1062 1066	CD16
+T42	Protein 1090 1092	Fc
+T43	Process 1156 1164	contacts
+T44	Chemical 1166 1180	hydrogen bonds
+T45	Process 1202 1214	interactions
+T46	Process 1251 1260	existence
+T47	Geometrical_part 1282 1287	cleft
+T48	Protein 1304 1313	Fc chains
+T49	Protein 1353 1364	intra-chain
+T50	Process 1365 1377	interactions
+T51	Protein 1445 1450	Fc/3M
+T52	Protein 1457 1459	3M
+T53	Protein 1479 1500	anti-human EphA2 IgG1

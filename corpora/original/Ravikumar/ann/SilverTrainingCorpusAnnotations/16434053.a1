@@ -1,0 +1,78 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 45	Yersinia enterocolitica
+T3	Protein 46 65	salicylate synthase
+T4	Category 74 81	complex
+T5	Process 91 99	reaction
+T6	Category 100 108	products
+T7	Chemical 109 119	salicylate
+T8	Chemical 124 132	pyruvate
+T9	Protein 138 157	salicylate synthase
+T10	Protein 159 163	Irp9
+T11	Organism 170 193	Yersinia enterocolitica
+T12	Process 213 225	biosynthesis
+T13	Chemical 233 244	siderophore
+T14	Protein 282 288	enzyme
+T15	Chemical 301 311	salicylate
+T16	Chemical 316 324	pyruvate
+T17	Chemical 330 340	chorismate
+T18	Chemical 345 350	water
+T19	Molecule 359 371	intermediate
+T20	Chemical 372 385	isochorismate
+T21	Geometrical_part 412 429	crystal structure
+T22	Protein 433 437	Irp9
+T23	Category 454 461	complex
+T24	Process 471 479	reaction
+T25	Category 480 488	products
+T26	Chemical 489 499	salicylate
+T27	Chemical 504 512	pyruvate
+T28	Value 516 522	1.85 A
+T29	Value 527 532	2.1 A
+T30	Parameter 533 543	resolution
+T31	Unknown 570 577	members
+T32	Chemical 585 595	chorismate
+T33	Protein 606 619	enzyme family
+T34	Protein 630 642	TrpE subunit
+T35	Protein 646 667	anthranilate synthase
+T36	Protein 676 688	PabB subunit
+T37	Protein 692 726	4-amino-4-deoxychorismate synthase
+T38	Protein 728 732	Irp9
+T39	Protein 739 757	complex alpha/beta
+T40	Geometrical_part 758 762	fold
+T41	Geometrical_part 768 785	crystal structure
+T42	Protein 789 793	Irp9
+T43	Molecule 807 815	molecule
+T44	Chemical 824 833	phosphate
+T45	Chemical 838 845	acetate
+T46	Process 863 878	crystallization
+T47	Unknown 891 904	Irp9-products
+T48	Geometrical_part 913 922	structure
+T49	Chemical 948 958	chorismate
+T50	Protein 964 968	Irp9
+T51	Protein 993 999	enzyme
+T52	Unknown 1038 1045	crystal
+T53	Unknown 1052 1062	structures
+T54	Chemical 1071 1077	Mg(2+)
+T55	Protein_part 1085 1096	active site
+T56	Protein_part 1137 1147	tryptophan
+T57	Process 1148 1155	binding
+T58	Protein_part 1156 1160	site
+T59	Protein 1170 1174	TrpE
+T60	Protein 1179 1183	PabB
+T61	Physiology 1185 1196	Mutagenesis
+T62	Protein_part 1200 1206	Glu240
+T63	Protein_part 1208 1214	His321
+T64	Protein_part 1219 1225	Tyr372
+T65	Process 1240 1247	insight
+T66	Process 1257 1266	mechanism
+T67	Process 1278 1293	transformations
+T68	Protein 1307 1311	Irp9
+T69	Geometrical_part 1330 1339	structure
+T70	Protein 1343 1347	Irp9
+T71	Category 1381 1391	inhibitors
+T72	Chemical 1395 1405	salicylate
+T73	Process 1406 1415	formation
+T74	Organism 1430 1439	bacterial
+T75	Chemical 1440 1444	iron
+T76	Process 1445 1451	uptake
+T77	Physiology 1486 1495	virulence
+T78	Organism 1499 1507	Yersinia

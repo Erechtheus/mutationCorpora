@@ -1,0 +1,90 @@
+T1	Molecule 0 6	Proton
+T2	Process 7 15	transfer
+T3	Process 23 32	oxidative
+T4	Protein 50 88	pentaerythritol tetranitrate reductase
+T5	Unknown 90 99	Structure
+T6	Chemical 115 134	enzyme-progesterone
+T7	Category 135 142	complex
+T8	Process 151 156	roles
+T9	Protein_part 161 176	residues Tyr186
+T10	Protein_part 178 184	His181
+T11	Protein_part 186 192	His184
+T12	Process 198 203	roles
+T13	Protein_part 207 213	His181
+T14	Protein_part 215 221	His184
+T15	Protein_part 226 232	Tyr186
+T16	Protein 236 250	PETN reductase
+T17	Process 273 284	mutagenesis
+T18	Technique 286 299	spectroscopic
+T19	Parameter 317 325	kinetics
+T20	Geometrical_part 351 378	crystallographic structures
+T21	Protein 387 407	Y186F PETN reductase
+T22	Chemical 420 449	wild-type enzyme-progesterone
+T23	Category 450 457	complex
+T24	Protein_part 459 474	Residues His181
+T25	Protein_part 479 485	His184
+T26	Process 507 514	binding
+T27	Protein 518 526	coenzyme
+T28	Chemical 528 536	steroids
+T29	Chemical 538 551	nitroaromatic
+T30	Category 552 559	ligands
+T31	Category 568 577	substrate
+T32	Chemical 578 596	2-cyclohexen-1-one
+T33	Protein 602 607	H181A
+T34	Protein 612 625	H184A enzymes
+T35	Parameter 633 641	activity
+T36	Process 660 669	oxidative
+T37	Process 720 724	role
+T38	Process 728 737	catalysis
+T39	Molecule 739 745	Ligand
+T40	Process 746 753	binding
+T41	Process 758 767	catalysis
+T42	Protein 801 821	Y186F PETN reductase
+T43	Process 868 876	mutation
+T44	Protein_part 878 883	Y196F
+T45	Organism 888 891	Old
+T46	Protein 892 905	Yellow Enzyme
+T47	Geometrical_part 911 920	structure
+T48	Protein 924 944	Y186F PETN reductase
+T49	Protein 961 977	wild-type enzyme
+T50	Process 996 1005	exception
+T51	Process 1013 1021	mutation
+T52	Protein 1034 1048	PETN reductase
+T53	Protein_part 1054 1060	Tyr186
+T54	Molecule 1074 1080	proton
+T55	Category 1081 1086	donor
+T56	Process 1094 1103	reduction
+T57	Chemical 1107 1149	alpha/beta unsaturated  carbonyl compounds
+T58	Unknown 1155 1164	structure
+T59	Molecule 1172 1180	electron
+T60	Protein 1189 1203	PETN reductase
+T61	Category 1217 1226	inhibitor
+T62	Chemical 1227 1239	progesterone
+T63	Category 1240 1246	mimics
+T64	Chemical 1261 1275	enzyme-steroid
+T65	Category 1276 1285	substrate
+T66	Category 1286 1293	complex
+T67	Unknown 1317 1326	structure
+T68	Category 1360 1367	complex
+T69	Chemical 1382 1404	C1-C2 unsaturated bond
+T70	Chemical 1412 1419	steroid
+T71	Chemical 1459 1473	flavin N5 atom
+T72	Chemical 1478 1485	hydride
+T73	Process 1486 1494	transfer
+T74	Chemical 1501 1508	steroid
+T75	Category 1509 1519	substrates
+T76	State 1537 1549	conformation
+T77	Chemical 1581 1588	steroid
+T78	Value 1609 1620	180 degrees
+T79	Chemical 1660 1667	hydride
+T80	Process 1668 1676	transfer
+T81	Protein 1680 1692	flavoenzymes
+T82	Process 1726 1737	differences
+T83	Organism 1746 1749	Old
+T84	Protein 1750 1763	Yellow Enzyme
+T85	Protein 1768 1782	PETN reductase
+T86	Process 1801 1810	catalysis
+T87	Chemical 1833 1847	enzyme-steroid
+T88	Category 1848 1855	complex
+T89	Category 1880 1887	complex
+T90	Technique 1900 1916	crystallographic

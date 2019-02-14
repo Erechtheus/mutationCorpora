@@ -1,0 +1,8 @@
+The Arabidopsis NPR1 protein is essential for regulating salicylic acid-dependent gene expression during systemic acquired resistance . 
+NPR1 interacts differentially with members of the TGA class of basic domain/Leu zipper transcription factors and regulates their DNA binding activity . 
+Here, we report that although TGA1 does not interact with NPR1 in yeast two-hybrid assays, treatment with salicylic acid induces the interaction between these proteins in Arabidopsis leaves . 
+This phenomenon is correlated with a reduction of TGA1 Cys residues . 
+Furthermore, site-directed mutagenesis of TGA1 Cys-260 and Cys-266 enables the interaction with NPR1 in yeast and Arabidopsis . 
+Together, these results indicate that TGA1 relies on the oxidation state of Cys residues to mediate the interaction with NPR1 . 
+An intramolecular disulfide bridge in TGA1 precludes interaction with NPR1, and NPR1 can only stimulate the DNA binding activity of the reduced form of TGA1 . 
+Unlike its animal and yeast counterparts, the DNA binding activity of TGA1 is not redox regulated; however, this property is conferred by interaction with the NPR1 cofactor . 

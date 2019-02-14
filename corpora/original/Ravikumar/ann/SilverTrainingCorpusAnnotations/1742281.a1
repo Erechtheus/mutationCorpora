@@ -1,0 +1,86 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 56	cytochrome P-450CAM active site
+T3	Molecule 57 63	mutant
+T4	Protein_part 64 73	Thr252Ala
+T5	Geometrical_part 79 96	crystal structure
+T6	Protein 102 121	cytochrome P-450CAM
+T7	Molecule 136 142	mutant
+T8	Protein_part 157 175	active site Thr252
+T9	Protein_part 202 205	Ala
+T10	Protein_part 207 216	Thr252Ala
+T11	Parameter 242 250	R factor
+T12	Value 254 258	0.18
+T13	Value 262 267	2.2 A
+T14	Protein_part 282 290	sequence
+T15	Process 291 301	alignments
+T16	Unknown 312 319	Strobel
+T17	Protein_part 328 334	Thr252
+T18	Protein 361 374	P-450 enzymes
+T19	Geometrical_part 380 406	crystallographic structure
+T20	Chemical 410 426	ferrous camphor-
+T21	Chemical 431 446	carbon monoxide
+T22	Protein 453 461	P-450CAM
+T23	Unknown 470 476	Poulos
+T24	Unknown 479 484	1989b
+T25	Protein_part 500 506	Thr252
+T26	Protein_part 516 535	active site residue
+T27	Geometrical_part 545 549	part
+T28	Chemical 557 565	dioxygen
+T29	Protein_part 574 578	site
+T30	Process 580 588	Mutation
+T31	Protein_part 596 617	active site threonine
+T32	Protein_part 621 628	alanine
+T33	Protein 642 648	enzyme
+T34	Category 658 667	substrate
+T35	Process 668 681	hydroxylation
+T36	Molecule 700 708	electron
+T37	Process 709 717	transfer
+T38	Chemical 733 750	hydrogen peroxide
+T39	Chemical 764 769	water
+T40	Category 798 805	product
+T41	Chemical 807 827	5-exo-hydroxycamphor
+T42	Technique 833 848	X-ray structure
+T43	Process 875 885	distortion
+T44	Protein_part 893 905	distal helix
+T45	Protein_part 914 920	Gly248
+T46	Protein_part 925 931	Thr252
+T47	Protein_part 964 973	Thr252Ala
+T48	Molecule 974 980	mutant
+T49	Chemical 997 1013	solvent molecule
+T50	Protein 1040 1046	enzyme
+T51	Chemical 1068 1076	dioxygen
+T52	Protein_part 1085 1091	region
+T53	Protein 1099 1112	mutant enzyme
+T54	Protein_part 1113 1124	active site
+T55	Chemical 1148 1164	solvent molecule
+T56	Chemical 1213 1221	dioxygen
+T57	Process 1222 1229	binding
+T58	Protein_part 1248 1259	active site
+T59	Chemical 1260 1276	solvent molecule
+T60	Physiology 1297 1304	network
+T61	Chemical 1308 1322	hydrogen bonds
+T62	Location 1332 1340	internal
+T63	Protein 1341 1357	solvent  channel
+T64	Protein_part 1370 1391	distal helix residues
+T65	Protein_part 1404 1407	Glu
+T66	Protein_part 1408 1418	side chain
+T67	Chemical 1426 1441	solvent protons
+T68	Chemical 1479 1487	dioxygen
+T69	Molecule 1495 1501	mutant
+T70	Protein 1515 1531	wild-type enzyme
+T71	Chemical 1560 1577	hydrogen peroxide
+T72	Chemical 1585 1590	water
+T73	Process 1591 1601	production
+T74	Category 1613 1622	substrate
+T75	Process 1623 1636	hydroxylation
+T76	Process 1645 1650	basis
+T77	Technique 1654 1670	crystallographic
+T78	Process 1675 1686	mutagenesis
+T79	Molecule 1695 1701	proton
+T80	Process 1711 1718	pathway
+T81	Protein_part 1729 1751	residues Lys178/Arg186
+T82	Protein_part 1753 1759	Asp251
+T83	Protein_part 1765 1771	Thr252
+T84	Unknown 1788 1806	wild-type P-450CAM
+T85	Unknown 1823 1833	structures
+T86	Protein 1885 1913	Brookhaven Protein Data Bank

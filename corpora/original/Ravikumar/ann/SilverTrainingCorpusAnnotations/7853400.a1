@@ -1,0 +1,50 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 25 53	dihydrodipicolinate synthase
+T3	Organism 59 75	Escherichia coli
+T4	Value 79 84	2.5 A
+T5	Parameter 85 95	resolution
+T6	Geometrical_part 101 118	crystal structure
+T7	Protein 122 150	dihydrodipicolinate synthase
+T8	Organism 156 163	E. coli
+T9	Process 203 214	replacement
+T10	Unknown 228 237	structure
+T11	Parameter 255 265	resolution
+T12	Value 269 274	2.5 A
+T13	Parameter 289 297	R-factor
+T14	Value 301 306	19.6%
+T15	Value 311 317	32,190
+T16	Parameter 318 329	reflections
+T17	Value 338 344	10.0 A
+T18	Value 349 354	2.5 A
+T19	Value 359 360	F
+T20	Parameter 363 370	2 sigma
+T21	Unknown 372 373	F
+T22	Technique 380 396	crystallographic
+T23	Protein 426 434	monomers
+T24	Geometrical_part 458 473	2-fold symmetry
+T25	Protein 477 485	tetramer
+T26	Geometrical_part 507 515	symmetry
+T27	Technique 531 547	crystallographic
+T28	Geometrical_part 548 556	symmetry
+T29	Protein 562 570	tetramer
+T30	Process 596 604	contacts
+T31	Protein 617 625	subunits
+T32	Protein_part 672 684	active sites
+T33	Chemical 712 717	water
+T34	Protein 725 732	channel
+T35	Protein 754 762	tetramer
+T36	Protein 768 804	dihydrodipicolinate synthase monomer
+T37	Protein_part 824 831	domains
+T38	Protein 838 855	polypeptide chain
+T39	Geometrical_part 874 898	8-fold alpha/beta barrel
+T40	Protein_part 905 936	C-terminal alpha-helical domain
+T41	Protein_part 948 960	residues 224
+T42	Protein_part 964 967	292
+T43	Geometrical_part 973 977	fold
+T44	Protein 1000 1025	N-acetylneuraminate lyase
+T45	Protein_part 1031 1053	active site lysine 161
+T46	Geometrical_part 1072 1089	alpha/beta barrel
+T47	Location 1113 1122	entrances
+T48	Protein_part 1132 1142	C-terminal
+T49	Location 1143 1147	side
+T50	Geometrical_part 1155 1161	barrel

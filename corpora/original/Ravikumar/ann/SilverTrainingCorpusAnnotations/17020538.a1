@@ -1,0 +1,64 @@
+T1	Protein 4 67	crystal structure of human dipeptidyl peptidase I (cathepsin C)
+T2	Category 71 78	complex
+T3	Category 88 97	inhibitor
+T4	Unknown 98 110	Gly-Phe-CHN2
+T5	Protein 112 148	hDDPI (human dipeptidyl peptidase I)
+T6	Body_part 154 163	lysosomal
+T7	Protein 164 181	cysteine protease
+T8	Protein 194 201	zymogen
+T9	Process 202 212	activation
+T10	Body_part 216 223	granule
+T11	Protein 235 244	proteases
+T12	Unknown 272 273	B
+T13	Body_part 279 302	cytotoxic T-lymphocytes
+T14	Body_part 307 327	natural killer cells
+T15	Protein 329 340	cathepsin G
+T16	Body_part 345 355	neutrophil
+T17	Protein 356 364	elastase
+T18	Body_part 370 379	mast cell
+T19	Protein 380 388	tryptase
+T20	Protein 393 400	chymase
+T21	Geometrical_part 445 462	crystal structure
+T22	Unknown 469 484	hDPPI-inhibitor
+T23	Category 485 492	complex
+T24	Category 498 507	inhibitor
+T25	Unknown 508 520	Gly-Phe-CHN2
+T26	Chemical 522 542	Gly-Phe-diazomethane
+T27	Protein 569 574	hDPPI
+T28	Unknown 583 592	structure
+T29	Value 611 616	2.0 A
+T30	Value 618 619	1
+T31	Parameter 620 621	A
+T32	Value 622 628	0.1 nm
+T33	Parameter 630 640	resolution
+T34	Unknown 646 655	structure
+T35	Protein 670 676	enzyme
+T36	Value 700 706	2.05 A
+T37	Parameter 707 717	resolution
+T38	Geometrical_part 772 781	structure
+T39	Unknown 811 820	structure
+T40	Protein 835 841	enzyme
+T41	Unknown 851 860	structure
+T42	Protein 875 881	enzyme
+T43	Unknown 936 945	structure
+T44	Category 970 977	complex
+T45	Category 998 1007	inhibitor
+T46	Protein 1029 1037	subunits
+T47	Protein 1041 1046	hDPPI
+T48	Protein_part 1075 1081	Cys234
+T49	Protein_part 1089 1100	active site
+T50	Process 1106 1117	interaction
+T51	Protein_part 1148 1152	Asp1
+T52	Protein 1156 1161	hDPPI
+T53	Chemical 1170 1178	ammonium
+T54	Molecular_Part 1179 1184	group
+T55	Category 1192 1201	inhibitor
+T56	Process 1222 1233	interaction
+T57	Category 1239 1245	mimics
+T58	Process 1263 1275	interactions
+T59	Geometrical_part 1281 1290	structure
+T60	Category 1298 1307	inhibitor
+T61	Category 1308 1315	complex
+T62	Category 1347 1356	substrate
+T63	Protein 1372 1377	hDPPI
+T64	Category 1424 1434	inhibitors

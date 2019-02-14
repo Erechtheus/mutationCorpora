@@ -1,0 +1,77 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 25 57	NAD(P)H quinone oxidoreductase 1
+T3	Category 61 68	complex
+T4	Category 85 94	inhibitor
+T5	Chemical 95 105	dicoumarol
+T6	Protein 107 146	NAD(P)H quinone oxidoreductase 1 (NQO1)
+T7	Protein 163 174	flavoenzyme
+T8	Process 203 212	reduction
+T9	Chemical 216 224	quinones
+T10	Chemical 228 241	hydroquinones
+T11	Chemical 252 259	NAD(P)H
+T12	Molecule 266 274	electron
+T13	Category 275 280	donor
+T14	Protein 282 286	NQO1
+T15	Protein 328 336	proteins
+T16	Protein 351 372	tumor suppressors p53
+T17	Protein 377 380	p73
+T18	Protein 389 425	enzyme ornithine decarboxylase (ODC)
+T19	Chemical 427 437	Dicoumarol
+T20	Category 474 483	inhibitor
+T21	Protein 488 492	NQO1
+T22	Protein 493 502	enzymatic
+T23	Parameter 503 511	activity
+T24	Chemical 533 540	NAD(P)H
+T25	Process 545 552	binding
+T26	Protein 556 560	NQO1
+T27	Chemical 562 572	Dicoumarol
+T28	Process 591 598	binding
+T29	Protein 602 606	NQO1
+T30	Protein 610 613	p53
+T31	Protein 615 618	p73
+T32	Protein 624 627	ODC
+T33	Protein 646 655	ubiquitin
+T34	Body_part 668 679	proteasomal
+T35	Process 680 691	degradation
+T36	Geometrical_part 712 729	crystal structure
+T37	Organism 733 738	human
+T38	Protein 739 743	NQO1
+T39	Category 747 754	complex
+T40	Chemical 760 770	dicoumarol
+T41	Value 774 780	2.75 A
+T42	Parameter 781 791	resolution
+T43	Process 817 829	interactions
+T44	Chemical 833 843	dicoumarol
+T45	Process 853 862	different
+T46	Protein_part 863 871	residues
+T47	Protein 875 879	NQO1
+T48	State 888 902	conformational
+T49	Process 903 910	changes
+T50	Chemical 924 934	dicoumarol
+T51	Process 935 942	binding
+T52	State 963 977	conformational
+T53	Process 978 985	changes
+T54	Process 1004 1012	presence
+T55	Chemical 1016 1026	dicoumarol
+T56	Protein_part 1035 1042	Tyr 128
+T57	Protein_part 1047 1054	Phe 232
+T58	Geometrical_part 1079 1086	surface
+T59	Protein 1094 1098	NQO1
+T60	Geometrical_part 1109 1115	pocket
+T61	Process 1125 1130	basis
+T62	Process 1138 1148	comparison
+T63	Protein 1156 1160	NQO1
+T64	Geometrical_part 1161 1170	structure
+T65	Category 1174 1181	complex
+T66	Process 1187 1196	different
+T67	Protein 1197 1201	NQO1
+T68	Category 1202 1212	inhibitors
+T69	Technique 1230 1238	analysis
+T70	Protein 1242 1254	NQO1 mutants
+T71	State 1285 1297	conformation
+T72	Protein_part 1301 1308	Tyr 128
+T73	Protein_part 1313 1320	Phe 232
+T74	Protein 1338 1342	NQO1
+T75	Process 1343 1354	interaction
+T76	Protein 1360 1363	p53
+T77	Protein 1374 1389	client proteins

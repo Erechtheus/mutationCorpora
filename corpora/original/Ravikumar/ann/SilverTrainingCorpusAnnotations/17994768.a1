@@ -1,0 +1,78 @@
+T1	Technique 27 35	analyses
+T2	Process 43 48	roles
+T3	Protein_part 52 58	Arg409
+T4	Protein_part 63 69	Asp402
+T5	Process 77 85	reaction
+T6	Protein 93 125	flavoprotein nitroalkane oxidase
+T7	Protein 131 169	flavoprotein nitroalkane oxidase (NAO)
+T8	Process 184 193	oxidation
+T9	Chemical 219 231	nitroalkanes
+T10	Chemical 253 262	aldehydes
+T11	Chemical 267 274	ketones
+T12	Protein 280 286	enzyme
+T13	Protein 293 302	homologue
+T14	Protein 306 328	acyl-CoA dehydrogenase
+T15	Protein_part 330 336	Asp402
+T16	Protein 340 343	NAO
+T17	Protein_part 373 384	active site
+T18	Category 419 428	substrate
+T19	Molecule 429 435	proton
+T20	Chemical 500 509	glutamate
+T21	Protein_part 528 532	base
+T22	Body_part 536 542	medium
+T23	Protein 543 571	chain acyl-CoA dehydrogenase
+T24	Protein_part 580 591	active site
+T25	Protein 595 598	NAO
+T26	Chemical 604 615	carboxylate
+T27	Protein_part 619 625	Asp402
+T28	Process 641 652	interaction
+T29	Protein_part 662 672	side chain
+T30	Protein_part 676 682	Arg409
+T31	Protein 688 700	R409K enzyme
+T32	Process 762 770	mutation
+T33	Process 784 792	decrease
+T34	Parameter 800 813	rate constant
+T35	Molecule 818 824	proton
+T36	Process 825 836	abstraction
+T37	Value 840 848	100-fold
+T38	Technique 850 858	Analysis
+T39	Geometrical_part 866 893	three-dimensional structure
+T40	Protein 901 913	R409K enzyme
+T41	Technique 929 950	X-ray crystallography
+T42	Parameter 956 966	resolution
+T43	Value 970 976	2.65 A
+T44	Process 1013 1019	change
+T45	Process 1026 1034	increase
+T46	Parameter 1042 1050	distance
+T47	Chemical 1063 1074	carboxylate
+T48	Protein_part 1078 1084	Asp402
+T49	Chemical 1112 1120	nitrogen
+T50	Protein_part 1128 1138	side chain
+T51	Protein_part 1146 1153	residue
+T52	Location 1157 1169	position 409
+T53	Protein 1175 1180	D402E
+T54	Process 1181 1189	mutation
+T55	Process 1211 1219	decrease
+T56	Parameter 1227 1240	rate constant
+T57	Molecule 1245 1251	proton
+T58	Process 1252 1263	abstraction
+T59	Value 1267 1274	18-fold
+T60	Geometrical_part 1280 1289	structure
+T61	Protein 1297 1309	D402E enzyme
+T62	Value 1325 1330	2.4 A
+T63	Parameter 1331 1341	resolution
+T64	Process 1373 1381	increase
+T65	Parameter 1389 1397	distance
+T66	Protein_part 1406 1412	Arg409
+T67	Chemical 1421 1432	carboxylate
+T68	Location 1436 1448	position 402
+T69	Process 1458 1469	interaction
+T70	Protein_part 1479 1486	residue
+T71	Protein_part 1492 1498	Ser276
+T72	Process 1550 1560	importance
+T73	Process 1568 1579	interaction
+T74	Protein_part 1588 1594	Asp402
+T75	Protein_part 1599 1605	Arg409
+T76	Molecule 1610 1616	proton
+T77	Process 1617 1628	abstraction
+T78	Protein 1632 1651	nitroalkane oxidase

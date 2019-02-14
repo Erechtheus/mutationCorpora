@@ -1,0 +1,84 @@
+T1	Technique 0 16	Crystallographic
+T2	Parameter 38 46	kinetics
+T3	Process 58 65	binding
+T4	Chemical 69 73	NADH
+T5	Chemical 91 100	isoniazid
+T6	Protein 111 135	enoyl-ACP(CoA) reductase
+T7	Protein 136 143	enzymes
+T8	Organism 149 175	Mycobacterium tuberculosis
+T9	Chemical 197 206	isoniazid
+T10	Chemical 208 211	INH
+T11	Chemical 213 217	drug
+T12	Parameter 218 228	resistance
+T13	Process 229 238	mechanism
+T14	Organism 242 268	Mycobacterium tuberculosis
+T15	Process 296 303	insight
+T16	Process 312 323	development
+T17	Chemical 372 375	INH
+T18	Physiology 386 403	tuberculosis (TB)
+T19	Protein 409 413	inhA
+T20	Protein 422 456	2-trans enoyl-acyl carrier protein
+T21	Protein 457 466	reductase
+T22	Protein 467 473	enzyme
+T23	Protein 475 479	InhA
+T24	Protein 521 528	genetic
+T25	Process 555 561	target
+T26	Chemical 566 569	INH
+T27	Process 604 613	mutations
+T28	Protein 621 625	inhA
+T29	Protein 637 641	gene
+T30	Chemical 662 665	INH
+T31	Body_part 685 693	isolates
+T32	Organism 697 711	M.tuberculosis
+T33	Physiology 736 738	TB
+T34	Molecule 757 761	InhA
+T35	Molecule 762 769	mutants
+T36	Value 789 795	higher
+T37	Parameter 796 824	dissociation constant values
+T38	Chemical 829 833	NADH
+T39	Value 838 843	lower
+T40	Parameter 844 850	values
+T41	Parameter 880 893	rate constant
+T42	Chemical 898 901	INH
+T43	Process 902 914	inactivation
+T44	Unknown 930 944	wild-type InhA
+T45	Process 985 992	changes
+T46	Chemical 1015 1018	INH
+T47	Protein 1029 1041	InhA enzymes
+T48	Geometrical_part 1063 1081	crystal structures
+T49	Protein_part 1102 1106	S94A
+T50	Protein 1108 1112	I47T
+T51	Protein 1117 1135	I21V InhA proteins
+T52	Category 1139 1146	complex
+T53	Chemical 1152 1156	NADH
+T54	Process 1160 1171	resolutions
+T55	Value 1190 1194	2.3A
+T56	Value 1196 1200	2.2A
+T57	Value 1202 1207	2.0 A
+T58	Value 1213 1217	1.9A
+T59	Process 1249 1260	differences
+T60	Chemical 1314 1326	dinucleotide
+T61	Process 1327 1334	binding
+T62	Geometrical_part 1335 1349	loop structure
+T63	Parameter 1390 1398	kinetics
+T64	Chemical 1402 1406	NADH
+T65	Process 1407 1414	binding
+T66	Parameter 1475 1495	rate constant values
+T67	Chemical 1500 1504	NADH
+T68	Process 1505 1517	dissociation
+T69	Chemical 1527 1536	InhA-NADH
+T70	Category 1544 1553	complexes
+T71	Parameter 1555 1561	k(off)
+T72	Value 1586 1593	tenfold
+T73	Protein 1620 1624	I21V
+T74	Protein 1626 1630	I47T
+T75	Chemical 1636 1644	S94A INH
+T76	Molecule 1655 1662	mutants
+T77	Protein 1666 1670	InhA
+T78	Chemical 1686 1689	INH
+T79	Unknown 1700 1714	wild-type InhA
+T80	Process 1787 1796	reduction
+T81	Parameter 1800 1808	affinity
+T82	Chemical 1813 1817	NADH
+T83	Chemical 1826 1829	INH
+T84	Protein 1840 1852	InhA enzymes

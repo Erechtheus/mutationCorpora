@@ -1,0 +1,104 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Organism 37 42	human
+T3	Protein 43 58	metalloelastase
+T4	Protein 60 66	MMP-12
+T5	Location 82 90	internal
+T6	State 91 105	conformational
+T7	Process 106 116	adjustment
+T8	Body_part 118 128	Macrophage
+T9	Protein 129 144	metalloelastase
+T10	Protein 148 184	matrix metalloproteinase-12 (MMP-12)
+T11	Physiology 207 222	atherosclerosis
+T12	Physiology 224 233	emphysema
+T13	Physiology 235 250	aortic aneurysm
+T14	Physiology 252 272	rheumatoid arthritis
+T15	Physiology 278 290	inflammatory
+T16	Body_part 291 296	bowel
+T17	Physiology 297 304	disease
+T18	Protein_part 322 327	E219A
+T19	Process 328 336	mutation
+T20	Technique 351 366	crystallography
+T21	Technique 371 374	NMR
+T22	Parameter 375 382	spectra
+T23	Process 393 402	autolysis
+T24	Protein 406 412	MMP-12
+T25	Technique 444 447	NMR
+T26	Unknown 448 457	structure
+T27	Category 469 478	inhibitor
+T28	Protein_part 512 528	catalytic domain
+T29	Category 540 549	inhibitor
+T30	Protein 562 600	2813 nuclear Overhauser effects (NOEs)
+T31	Parameter 612 619	average
+T32	Unknown 620 624	RMSD
+T33	Parameter 632 636	mean
+T34	Unknown 637 646	structure
+T35	Value 650 656	0.25 A
+T36	Value 678 684	0.61 A
+T37	Chemical 699 704	atoms
+T38	Protein_part 709 731	residues Trp109-Gly263
+T39	Geometrical_part 745 763	crystal structures
+T40	Protein 767 773	MMP-12
+T41	Protein_part 775 787	helix B (hB)
+T42	Protein_part 795 806	active site
+T43	Protein_part 854 864	beta-sheet
+T44	Geometrical_part 879 885	pocket
+T45	Protein_part 894 896	hB
+T46	Protein_part 901 912	beta-strand
+T47	Unknown 913 915	IV
+T48	Protein_part 924 941	active-site cleft
+T49	Protein_part 948 950	hB
+T50	Body_part 958 973	internal cavity
+T51	Protein_part 993 1004	beta-strand
+T52	Unknown 1005 1006	I
+T53	Protein_part 1008 1019	beta-strand
+T54	Unknown 1020 1023	III
+T55	Protein_part 1029 1036	helix A
+T56	Location 1049 1053	side
+T57	Protein 1061 1069	protease
+T58	Value 1071 1079	About 25
+T59	Location 1080 1088	internal
+T60	Protein 1089 1092	NOE
+T61	Process 1093 1101	contacts
+T62	Geometrical_part 1133 1151	solution structure
+T63	Protein_part 1166 1170	hB's
+T64	Parameter 1179 1184	depth
+T65	Protein_part 1206 1211	sheet
+T66	Protein_part 1216 1223	helix A
+T67	Body_part 1225 1229	Line
+T68	Chemical 1261 1273	amide proton
+T69	Technique 1274 1277	NMR
+T70	Parameter 1278 1283	peaks
+T71	Protein_part 1289 1291	hB
+T72	Protein_part 1312 1314	hB
+T73	State 1333 1347	conformational
+T74	Process 1348 1356	exchange
+T75	Process 1370 1379	different
+T76	Process 1380 1392	environments
+T77	Process 1420 1433	perturbations
+T78	Technique 1441 1444	NMR
+T79	Parameter 1445 1452	spectra
+T80	Protein 1456 1461	MMP-1
+T81	Protein 1466 1471	MMP-3
+T82	Protein 1504 1510	MMP-12
+T83	Location 1529 1537	internal
+T84	State 1538 1552	conformational
+T85	Process 1553 1564	adjustments
+T86	Technique 1585 1593	analysis
+T87	Physiology 1628 1635	network
+T88	Protein_part 1639 1647	residues
+T89	State 1700 1712	conformation
+T90	Protein_part 1727 1735	residues
+T91	Protein 1741 1744	NOE
+T92	Process 1745 1753	contacts
+T93	Protein 1779 1785	MMP-12
+T94	State 1791 1805	conformational
+T95	Process 1806 1812	change
+T96	Technique 1814 1831	sequence analysis
+T97	Category 1837 1846	inhibitor
+T98	Process 1847 1860	perturbations
+T99	Technique 1864 1867	NMR
+T100	Parameter 1868 1875	spectra
+T101	Physiology 1889 1896	network
+T102	Geometrical_part 1930 1938	scaffold
+T103	Protein_part 1947 1958	active site
+T104	Protein 1962 1966	MMPs

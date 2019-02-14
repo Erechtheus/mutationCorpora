@@ -1,0 +1,82 @@
+T1	Protein 4 8	gene
+T2	Physiology 30 40	catabolism
+T3	Organism 44 65	Enterococcus faecalis
+T4	Protein 88 115	putrescine transcarbamylase
+T5	Protein 120 138	agmatine deiminase
+T6	Protein 158 176	agmatine deiminase
+T7	Process 192 200	reaction
+T8	Organism 202 223	Enterococcus faecalis
+T9	Chemical 230 233	ATP
+T10	Protein 276 301	agmatine deiminase (AgDI)
+T11	Protein 303 336	putrescine transcarbamylase (PTC)
+T12	Protein 342 363	carbamate kinase (CK)
+T13	Protein 368 378	antiporter
+T14	Process 379 388	exchanges
+T15	Chemical 389 399	putrescine
+T16	Organism 434 445	E. faecalis
+T17	Protein 446 452	ef0732
+T18	Protein 457 469	ef0734 genes
+T19	Protein 486 490	gene
+T20	Physiology 512 522	catabolism
+T21	Organism 546 562	Escherichia coli
+T22	Category 577 585	products
+T23	Protein 622 625	PTC
+T24	Protein 630 634	AgDI
+T25	Technique 657 662	X-ray
+T26	Unknown 684 698	1.65-Angstroms
+T27	Geometrical_part 710 719	structure
+T28	Protein 723 727	AgDI
+T29	Molecule 747 753	adduct
+T30	Chemical 779 786	amidine
+T31	Molecule 798 810	intermediate
+T32	Process 847 861	identification
+T33	Protein 869 873	gene
+T34	Physiology 896 906	catabolism
+T35	Chemical 924 933	ornithine
+T36	Protein 956 959	PTC
+T37	Category 960 969	substrate
+T38	Protein 987 990	PTC
+T39	Protein 1032 1058	ornithine transcarbamylase
+T40	Chemical 1060 1090	N-(Phosphonoacetyl)-putrescine
+T41	Value 1134 1139	10 nM
+T42	Protein 1165 1168	PTC
+T43	Protein 1184 1187	PTC
+T44	Process 1188 1203	crystallization
+T45	Organism 1218 1229	E. faecalis
+T46	Protein 1230 1234	AgDI
+T47	Chemical 1258 1261	ATP
+T48	Process 1262 1272	generation
+T49	Protein 1296 1301	AgDIs
+T50	Chemical 1321 1331	polyamines
+T51	Process 1348 1359	recruitment
+T52	Chemical 1365 1374	polyamine
+T53	Protein 1388 1392	AgDI
+T54	Protein 1402 1406	AgDI
+T55	Process 1407 1414	pathway
+T56	Protein 1420 1444	arginine deiminase (ADI)
+T57	Process 1445 1452	pathway
+T58	Chemical 1456 1464	arginine
+T59	Physiology 1465 1475	catabolism
+T60	Protein 1498 1503	genes
+T61	Protein 1508 1511	PTC
+T62	Protein 1516 1518	CK
+T63	Protein 1541 1571	agmatine/putrescine antiporter
+T64	Protein 1586 1590	AgDI
+T65	Protein 1595 1598	ADI
+T66	Process 1599 1607	pathways
+T67	Process 1646 1657	duplication
+T68	Protein 1670 1692	AgDI crystal structure
+T69	Protein 1703 1711	tetramer
+T70	Protein 1741 1748	subunit
+T71	Geometrical_part 1749 1753	fold
+T72	Protein 1767 1771	AgDI
+T73	Protein 1790 1793	ADI
+T74	Process 1804 1808	lack
+T75	Parameter 1812 1829	sequence identity
+T76	Category 1844 1853	substrate
+T77	Parameter 1854 1862	affinity
+T78	Parameter 1864 1875	selectivity
+T79	Unknown 1881 1905	Cys357-mediated-covalent
+T80	Process 1906 1915	catalysis
+T81	Process 1952 1958	gating
+T82	Location 1989 2002	active center

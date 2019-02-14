@@ -1,0 +1,67 @@
+T1	Protein 16 29	CaV1 channels
+T2	Chemical 48 52	Ca2+
+T3	Parameter 53 64	sensitivity
+T4	Protein 74 84	calmodulin
+T5	Protein 86 96	Calmodulin
+T6	Parameter 106 108	IQ
+T7	Protein_part 109 115	motifs
+T8	Protein 123 139	alpha(1) subunit
+T9	Protein 143 151	Ca(V)1.1
+T10	Protein 156 164	Ca(V)1.2
+T11	Parameter 174 184	affinities
+T12	Protein 188 198	calmodulin
+T13	Protein_part 207 212	motif
+T14	Chemical 221 227	Ca(2+)
+T15	Protein 253 261	Ca(V)1.2
+T16	Parameter 262 264	IQ
+T17	Protein 270 278	Ca(V)1.1
+T18	Parameter 279 281	IQ
+T19	Protein 286 294	Ca(V)1.2
+T20	Parameter 295 297	IQ
+T21	Protein_part 298 307	sequences
+T22	Protein_part 323 334	amino acids
+T23	Geometrical_part 354 363	structure
+T24	Protein 367 377	calmodulin
+T25	Protein 387 395	Ca(V)1.1
+T26	Parameter 396 398	IQ
+T27	Protein 428 438	calmodulin
+T28	Protein 448 456	Ca(V)1.2
+T29	Parameter 457 459	IQ
+T30	Chemical 466 477	methionines
+T31	Chemical 481 498	Ca(2+)-calmodulin
+T32	Process 518 525	binding
+T33	Geometrical_part 526 532	pocket
+T34	Protein_part 541 548	peptide
+T35	Protein_part 588 599	amino acids
+T36	Protein_part 601 609	His-1532
+T37	Protein 613 621	Ca(V)1.1
+T38	Protein_part 626 634	Tyr-1675
+T39	Protein 638 646	Ca(V)1.2
+T40	Process 648 656	contacts
+T41	Protein 662 672	calmodulin
+T42	Geometrical_part 673 679	pocket
+T43	Protein_part 690 698	Tyr-1675
+T44	Protein 702 710	Ca(V)1.2
+T45	Value 744 750	higher
+T46	Parameter 751 759	affinity
+T47	Protein_part 768 775	peptide
+T48	Protein 780 790	calmodulin
+T49	Protein_part 809 820	amino acids
+T50	Protein 824 832	Ca(V)1.2
+T51	Process 865 875	difference
+T52	Chemical 883 889	Ca(2+)
+T53	Parameter 890 898	affinity
+T54	Protein 912 922	calmodulin
+T55	Process 948 955	contact
+T56	Protein 961 971	calmodulin
+T57	Protein_part 979 987	residues
+T58	Process 1007 1018	interaction
+T59	Protein 1024 1034	calmodulin
+T60	Body_part 1044 1048	lobe
+T61	Chemical 1049 1055	Ca(2+)
+T62	Body_part 1070 1074	lobe
+T63	Chemical 1075 1086	Ca(2+)-free
+T64	Body_part 1123 1132	lobe-lobe
+T65	Process 1133 1145	interactions
+T66	Protein 1149 1159	calmodulin
+T67	Protein 1169 1177	Ca(V)1.2

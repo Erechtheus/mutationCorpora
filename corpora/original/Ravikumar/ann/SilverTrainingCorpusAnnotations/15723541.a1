@@ -1,0 +1,71 @@
+T1	Parameter 0 7	Kinetic
+T2	Technique 12 37	crystallographic analysis
+T3	Protein_part 41 52	active site
+T4	Molecule 53 60	mutants
+T5	Organism 64 80	Escherichia coli
+T6	Protein 82 118	gamma-aminobutyrate aminotransferase
+T7	Organism 124 131	E. coli
+T8	Protein 132 139	isozyme
+T9	Protein 143 189	gamma-aminobutyrate aminotransferase (GABA-AT)
+T10	Chemical 206 225	pyridoxal phosphate
+T11	Protein 236 242	enzyme
+T12	Process 258 272	transamination
+T13	Chemical 289 295	amines
+T14	Chemical 300 316	alpha-keto acids
+T15	Process 322 327	roles
+T16	Protein_part 335 360	active site residues V241
+T17	Protein_part 362 366	E211
+T18	Protein_part 372 375	I50
+T19	Protein 383 390	GABA-AT
+T20	Process 391 400	mechanism
+T21	Technique 421 446	site-directed mutagenesis
+T22	Protein 448 456	The beta
+T23	Protein_part 466 476	side chain
+T24	Protein_part 480 484	V241
+T25	Process 497 506	formation
+T26	Location 510 518	external
+T27	Molecule 528 541	intermediates
+T28	Chemical 555 560	amine
+T29	Category 561 571	substrates
+T30	Protein_part 579 583	E211
+T31	Parameter 593 599	charge
+T32	Process 600 612	compensation
+T33	Protein_part 616 620	R398
+T34	Chemical 648 653	amine
+T35	Protein_part 672 675	I50
+T36	Category 718 727	substrate
+T37	Process 728 735	binding
+T38	Protein_part 736 740	site
+T39	Unknown 746 756	structures
+T40	Protein_part 764 768	I50Q
+T41	Protein_part 770 775	V241A
+T42	Protein_part 781 794	E211S mutants
+T43	Technique 810 831	X-ray crystallography
+T44	Process 835 846	resolutions
+T45	Value 850 853	2.1
+T46	Value 855 858	2.5
+T47	Value 864 870	2.52 A
+T48	Geometrical_part 890 899	structure
+T49	Protein 903 910	GABA-AT
+T50	Geometrical_part 933 937	fold
+T51	Protein_part 942 963	active site structure
+T52	Protein 975 1003	dialkylglycine decarboxylase
+T53	Process 1026 1040	transamination
+T54	Process 1045 1060	decarboxylation
+T55	Protein 1149 1156	GABA-AT
+T56	Process 1164 1179	decarboxylation
+T57	Protein 1190 1206	aminotransferase
+T58	Protein 1218 1246	dialkylglycine decarboxylase
+T59	Process 1261 1269	mutation
+T60	Organism 1273 1280	E. coli
+T61	Protein_part 1281 1309	GABA-AT active site residues
+T62	Molecule 1329 1336	mutants
+T63	Protein 1348 1363	E211S/I50G/C77K
+T64	Protein 1368 1383	E211S/I50H/V80D
+T65	Value 1390 1411	approximately 10-fold
+T66	Process 1419 1434	decarboxylation
+T67	Parameter 1435 1445	activities
+T68	Protein 1455 1471	wild-type enzyme
+T69	Protein 1481 1496	E211S/I50H/V80D
+T70	Process 1522 1530	reaction
+T71	Protein 1556 1569	decarboxylase

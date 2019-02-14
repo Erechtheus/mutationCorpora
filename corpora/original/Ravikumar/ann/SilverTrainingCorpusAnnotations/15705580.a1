@@ -1,0 +1,71 @@
+T1	Protein 0 64	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase
+T2	Process 65 74	functions
+T3	Protein 93 111	acid-base catalyst
+T4	Process 117 126	mechanism
+T5	Protein 128 199	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase (LpxC)
+T6	Chemical 205 209	zinc
+T7	Protein 220 226	enzyme
+T8	Process 246 259	deacetylation
+T9	Chemical 263 315	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine
+T10	Chemical 324 363	UDP-3-O-(R-hydroxymyristoyl)glucosamine
+T11	Chemical 368 375	acetate
+T12	Process 392 402	similarity
+T13	Protein_part 410 421	active site
+T14	Protein 425 429	LpxC
+T15	Protein 433 449	metalloproteases
+T16	Molecule 475 479	LpxC
+T17	Process 480 489	functions
+T18	Protein 496 511	metalloprotease
+T19	Process 517 526	mechanism
+T20	Parameter 532 534	pH
+T21	Parameter 549 558	k(cat)/Km
+T22	Organism 572 588	Escherichia coli
+T23	Organism 593 609	Aquifex aeolicus
+T24	Protein 610 614	LpxC
+T25	Parameter 639 644	curve
+T26	Unknown 646 652	EcLpxC
+T27	Parameter 660 679	apparent pKa values
+T28	Value 683 692	6.4+/-0.1
+T29	Value 697 706	9.1+/-0.1
+T30	Process 741 752	ionizations
+T31	Parameter 771 787	maximal activity
+T32	Chemical 789 794	Metal
+T33	Process 795 807	substitution
+T34	Process 812 823	mutagenesis
+T35	Process 824 835	experiments
+T36	Body_part 853 863	basic limb
+T37	Parameter 871 873	pH
+T38	Process 896 909	deprotonation
+T39	Chemical 915 919	zinc
+T40	Molecular_Part 932 937	group
+T41	Chemical 950 969	zinc-water molecule
+T42	Body_part 983 994	acidic limb
+T43	Parameter 1002 1004	pH
+T44	Process 1026 1037	protonation
+T45	Protein_part 1048 1053	Glu78
+T46	Protein_part 1057 1063	His265
+T47	Parameter 1082 1091	magnitude
+T48	Parameter 1099 1107	activity
+T49	Process 1122 1129	synergy
+T50	Protein_part 1147 1158	active site
+T51	Molecule 1159 1166	mutants
+T52	Protein_part 1180 1185	Glu78
+T53	Protein_part 1190 1196	His265
+T54	Protein 1214 1232	acid-base catalyst
+T55	Geometrical_part 1239 1257	Crystal structures
+T56	Protein 1261 1265	LpxC
+T57	Chemical 1295 1304	palmitate
+T58	Protein_part 1327 1332	Glu78
+T59	Chemical 1337 1357	His265 hydrogen-bond
+T60	Chemical 1372 1383	oxygen atom
+T61	Molecule 1403 1415	intermediate
+T62	Category 1424 1431	product
+T63	Chemical 1432 1443	carboxylate
+T64	Protein 1484 1488	LpxC
+T65	Process 1499 1512	deacetylation
+T66	Protein_part 1522 1527	Glu78
+T67	Protein_part 1532 1538	His265
+T68	Protein 1552 1561	acid-base
+T69	Chemical 1575 1579	zinc
+T70	Chemical 1586 1591	water
+T71	Chemical 1597 1608	nucleophile

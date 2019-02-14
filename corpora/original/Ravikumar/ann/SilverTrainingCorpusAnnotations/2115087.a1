@@ -1,0 +1,121 @@
+T1	Geometrical_part 14 32	crystal structures
+T2	Organism 47 54	porcine
+T3	Protein 55 61	pepsin
+T4	Value 73 78	1.8 A
+T5	Parameter 79 89	resolution
+T6	Unknown 105 114	structure
+T7	Protein_part 133 141	aspartic
+T8	Protein 142 152	proteinase
+T9	Organism 154 161	porcine
+T10	Protein 162 168	pepsin
+T11	Protein 170 181	EC 3.4.23.1
+T12	Unknown 247 254	crystal
+T13	Unknown 284 290	system
+T14	Value 294 299	1.8 A
+T15	Parameter 300 310	resolution
+T16	Technique 324 340	crystallographic
+T17	Parameter 341 349	R-factor
+T18	Geometrical_part 353 367	sigma parallel
+T19	Geometrical_part 371 400	Fo/-/Fc parallel to/sigma/Fo/
+T20	Value 406 411	0.174
+T21	Value 420 426	20,519
+T22	Parameter 427 438	reflections
+T23	Unknown 444 448	/Fo/
+T24	Parameter 474 486	3 sigma (Fo)
+T25	Value 501 513	8.0 to 1.8 A
+T26	Unknown 524 528	/Fc/
+T27	Parameter 561 588	structure factor amplitudes
+T28	Process 608 618	refinement
+T29	Protein_part 667 686	amino acid residues
+T30	Organism 690 697	porcine
+T31	Protein 698 704	pepsin
+T32	Protein_part 706 712	Ile230
+T33	Molecule 735 743	molecule
+T34	Protein_part 753 777	catalytic residues Asp32
+T35	Protein_part 782 788	Asp215
+T36	Process 794 806	dispositions
+T37	Organism 810 817	porcine
+T38	Protein 818 824	pepsin
+T39	Process 845 857	dispositions
+T40	Protein_part 876 884	residues
+T41	Protein_part 898 906	aspartic
+T42	Protein 907 918	proteinases
+T43	Unknown 928 937	structure
+T44	Chemical 947 963	solvent molecule
+T45	Chemical 988 996	carboxyl
+T46	Molecular_Part 997 1003	groups
+T47	Protein_part 1011 1022	active site
+T48	Chemical 1033 1049	ethanol molecule
+T49	Unknown 1090 1099	structure
+T50	Parameter 1105 1112	average
+T51	Process 1113 1127	thermal motion
+T52	Parameter 1128 1137	parameter
+T53	Protein_part 1145 1153	residues
+T54	Protein_part 1172 1189	C-terminal domain
+T55	Protein 1193 1199	pepsin
+T56	Protein_part 1235 1243	residues
+T57	Protein_part 1251 1268	N-terminal domain
+T58	Process 1270 1281	Comparisons
+T59	Geometrical_part 1289 1307	tertiary structure
+T60	Protein 1311 1317	pepsin
+T61	Organism 1323 1330	porcine
+T62	Protein 1331 1341	pepsinogen
+T63	Protein 1343 1358	penicillopepsin
+T64	Protein 1369 1375	pepsin
+T65	Protein 1389 1395	pepsin
+T66	Protein_part 1412 1430	N-terminal domains
+T67	Protein_part 1499 1517	C-terminal domains
+T68	State 1523 1537	conformational
+T69	Process 1538 1549	differences
+T70	Technique 1568 1578	rigid-body
+T71	Process 1579 1588	movements
+T72	Protein_part 1602 1620	C-terminal domains
+T73	Protein_part 1622 1634	residues 193
+T74	Protein_part 1638 1641	212
+T75	Protein_part 1646 1649	223
+T76	Protein_part 1653 1656	298
+T77	Protein 1661 1667	pepsin
+T78	Process 1690 1698	movement
+T79	Protein_part 1706 1723	C-terminal domain
+T80	Protein 1736 1742	pepsin
+T81	Category 1766 1775	inhibitor
+T82	Process 1776 1783	binding
+T83	Chemical 1787 1797	phosphoryl
+T84	Molecular_Part 1798 1803	group
+T85	Protein 1828 1841	Ser68 O gamma
+T86	Molecule 1869 1877	electron
+T87	Parameter 1878 1885	density
+T88	Organism 1893 1900	porcine
+T89	Protein 1901 1907	pepsin
+T90	Protein 1917 1921	pKa1
+T91	Parameter 1922 1927	value
+T92	Molecular_Part 1937 1942	group
+T93	Process 1965 1982	microenvironments
+T94	Chemical 2002 2022	aspartyl carboxylate
+T95	Molecular_Part 2023 2029	groups
+T96	Value 2045 2053	negative
+T97	Parameter 2054 2060	charge
+T98	Organism 2065 2072	porcine
+T99	Protein 2073 2079	pepsin
+T100	Chemical 2094 2105	acid medium
+T101	Organism 2204 2211	porcine
+T102	Protein 2212 2218	pepsin
+T103	Parameter 2222 2224	pH
+T104	Value 2225 2226	1
+T105	Unknown 2236 2244	crystals
+T106	Molecule 2250 2259	molecules
+T107	Geometrical_part 2297 2306	unit cell
+T108	Process 2329 2337	contacts
+T109	Value 2361 2366	4.0 A
+T110	Protein 2386 2401	pepsin molecule
+T111	Geometrical_part 2422 2430	symmetry
+T112	Molecule 2439 2448	molecules
+T113	Process 2503 2510	packing
+T114	Body_part 2519 2523	cell
+T115	Protein 2530 2538	pepsin's
+T116	Protein_part 2539 2550	active site
+T117	Process 2555 2562	binding
+T118	Geometrical_part 2563 2568	cleft
+T119	Category 2596 2605	substrate
+T120	Unknown 2606 2613	analogs
+T121	Category 2617 2627	inhibitors

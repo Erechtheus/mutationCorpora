@@ -1,0 +1,73 @@
+T1	Protein 0 14	Beta-lactamase
+T2	Organism 18 40	Bacillus licheniformis
+T3	Unknown 41 46	749/C
+T4	Value 50 53	2 A
+T5	Parameter 54 64	resolution
+T6	Unknown 70 77	crystal
+T7	Unknown 91 92	B
+T8	Value 101 110	29,500 Da
+T9	Protein 111 133	Class A beta-lactamase
+T10	Protein 135 148	penicillinase
+T11	Organism 155 177	Bacillus licheniformis
+T12	Unknown 178 183	749/C
+T13	Unknown 229 238	structure
+T14	Unknown 242 257	B-form crystals
+T15	Value 277 280	2 A
+T16	Parameter 281 291	resolution
+T17	Value 328 333	3.5 A
+T18	Unknown 334 343	structure
+T19	Unknown 358 373	A-form crystals
+T20	Protein 379 393	beta-lactamase
+T21	Protein 401 406	alpha
+T22	Protein 409 413	beta
+T23	Geometrical_part 414 423	structure
+T24	Protein_part 432 439	helices
+T25	Protein_part 446 458	beta-strands
+T26	Chemical 474 484	penicillin
+T27	Process 485 491	target
+T28	Protein 492 504	DD-peptidase
+T29	Organism 508 520	Streptomyces
+T30	Protein_part 522 525	R61
+T31	Parameter 534 544	parameters
+T32	Molecule 556 565	molecules
+T33	Value 628 633	2.0 A
+T34	Parameter 634 644	resolution
+T35	Parameter 650 658	R factor
+T36	Value 662 667	0.208
+T37	Value 676 682	27,330
+T38	Parameter 702 709	3 sigma
+T39	Unknown 711 712	F
+T40	Chemical 720 735	water molecules
+T41	Protein_part 776 782	Ser-70
+T42	Protein_part 793 803	N-terminus
+T43	Protein_part 809 814	helix
+T44	Chemical 829 845	hydrogen bonding
+T45	Parameter 846 854	distance
+T46	Protein_part 868 874	Lys-73
+T47	Protein_part 902 908	Lys-73
+T48	Protein_part 913 920	Asn-132
+T49	Protein_part 939 946	Glu-166
+T50	Protein_part 983 988	helix
+T51	Geometrical_part 1000 1004	loop
+T52	Unknown 1011 1020	structure
+T53	Process 1034 1041	binding
+T54	Chemical 1045 1056	beta-lactam
+T55	Category 1057 1067	substrates
+T56	Process 1086 1098	interactions
+T57	Protein_part 1104 1111	Lys-234
+T58	Protein_part 1113 1120	Thr-235
+T59	Protein_part 1126 1133	Ala-237
+T60	Protein_part 1149 1168	beta-strand peptide
+T61	Protein_part 1199 1230	beta-lactam's acylamido linkage
+T62	Body_part 1243 1249	cavity
+T63	Protein_part 1255 1262	Asn-170
+T64	Chemical 1274 1296	acylamido substituents
+T65	Chemical 1311 1322	double bond
+T66	Chemical 1326 1342	clavulanate-type
+T67	Category 1343 1353	inhibitors
+T68	Protein_part 1372 1379	Arg-244
+T69	Protein_part 1387 1405	fourth beta-strand
+T70	Process 1422 1429	binding
+T71	Protein_part 1430 1434	site
+T72	Geometrical_part 1435 1447	architecture
+T73	Protein 1463 1475	DD-peptidase

@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 22 32	peroxidase
+T3	Parameter 33 41	activity
+T4	Protein 45 54	myoglobin
+T5	Chemical 74 78	iron
+T6	Process 95 108	incorporation
+T7	Chemical 136 141	metal
+T8	Category 142 149	complex
+T9	Protein 158 170	apomyoglobin
+T10	Protein 219 230	hemoprotein
+T11	Process 231 244	modifications
+T12	Unknown 253 261	crystals
+T13	Organism 265 276	sperm whale
+T14	Protein 277 286	myoglobin
+T15	Chemical 306 381	13,16-dicarboxyethyl-2,7-diethyl-3,6,12,17-tetramethylporphycenatoiron(III)
+T16	Chemical 404 413	imidazole
+T17	Geometrical_part 430 442	3D structure
+T18	Value 450 456	2.25-A
+T19	Parameter 457 467	resolution
+T20	Chemical 487 491	iron
+T21	Chemical 517 523	isomer
+T22	Protein 527 532	hemin
+T23	Chemical 575 586	heme pocket
+T24	Protein 637 646	myoglobin
+T25	Chemical 661 665	H2O2
+T26	Process 676 686	oxidations
+T27	Category 690 700	substrates
+T28	Chemical 709 717	guaiacol
+T29	Chemical 719 730	thioanisole
+T30	Chemical 736 743	styrene
+T31	Parameter 748 750	pH
+T32	Value 751 754	7.0
+T33	Value 759 771	20 degrees C
+T34	Parameter 785 789	rate
+T35	Chemical 797 805	guaiacol
+T36	Process 806 815	oxidation
+T37	Value 819 826	11-fold
+T38	Protein 868 877	myoglobin
+T39	Technique 906 914	analysis
+T40	Process 922 930	reaction
+T41	Protein 953 960	protein
+T42	Chemical 966 970	H2O2
+T43	Process 985 994	formation
+T44	Process 1002 1010	reaction
+T45	Molecule 1011 1024	intermediates
+T46	Chemical 1026 1039	compounds II-
+T47	Chemical 1044 1047	III
+T48	Organism 1053 1060	species
+T49	Process 1069 1076	absence
+T50	Category 1082 1091	substrate
+T51	Chemical 1119 1131	compound III
+T52	Chemical 1146 1157	compound II
+T53	Protein 1161 1170	myoglobin
+T54	Process 1186 1197	enhancement
+T55	Protein 1205 1215	peroxidase
+T56	Parameter 1216 1224	activity
+T57	Process 1233 1242	formation
+T58	Chemical 1257 1269	compound III
+T59	Protein 1273 1282	myoglobin
+T60	Chemical 1288 1292	iron
+T61	Process 1333 1345	coordination
+T62	Chemical 1353 1366	Fe-His93 bond

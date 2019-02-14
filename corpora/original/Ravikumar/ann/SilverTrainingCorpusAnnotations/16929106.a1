@@ -1,0 +1,67 @@
+T1	Category 4 12	cofactor
+T2	State 32 44	conformation
+T3	Chemical 48 52	PhoB
+T4	Chemical 54 58	PhoB
+T5	Organism 65 81	Escherichia coli
+T6	Protein 82 102	transcription factor
+T7	Process 124 143	signal transduction
+T8	Unknown 144 150	system
+T9	Chemical 195 204	phosphate
+T10	Protein_part 235 266	N-terminal receiver domain (RD)
+T11	Protein_part 273 283	C-terminal
+T12	Molecule 284 287	DNA
+T13	Protein_part 296 302	domain
+T14	Protein 308 315	protein
+T15	Process 334 349	phosphorylation
+T16	Protein_part 357 359	RD
+T17	Chemical 386 392	Mg(2+)
+T18	Process 393 400	binding
+T19	Unknown 406 415	structure
+T20	Chemical 419 423	PhoB
+T21	Protein_part 424 426	RD
+T22	Category 430 437	complex
+T23	Chemical 443 449	Mg(2+)
+T24	Protein 482 491	protomers
+T25	Process 540 549	different
+T26	Geometrical_part 550 558	surfaces
+T27	Process 564 575	association
+T28	Process 628 640	dimerization
+T29	Process 641 648	contact
+T30	Protein 673 692	alpha4-beta5-alpha5
+T31	Process 719 726	contact
+T32	Chemical 746 750	PhoB
+T33	Process 776 787	interaction
+T34	Protein_part 819 831	helix alpha4
+T35	Molecule 857 865	molecule
+T36	Geometrical_part 878 885	helical
+T37	Process 886 891	shift
+T38	Protein 949 957	monomers
+T39	Protein 963 972	protomers
+T40	Chemical 982 988	cation
+T41	Process 1048 1055	binding
+T42	Protein_part 1056 1060	site
+T43	Chemical 1069 1078	phosphate
+T44	Molecular_Part 1079 1085	moiety
+T45	Protein_part 1090 1101	side chains
+T46	Protein_part 1112 1117	Glu88
+T47	Protein_part 1122 1134	helix alpha4
+T48	Protein_part 1139 1144	Trp54
+T49	Chemical 1173 1190	active-site atoms
+T50	Protein_part 1197 1202	Glu88
+T51	Body_part 1217 1223	cavity
+T52	Protein_part 1225 1237	helix alpha4
+T53	Protein 1278 1287	wild-type
+T54	Geometrical_part 1288 1297	structure
+T55	Protein_part 1311 1316	Trp54
+T56	Protein_part 1333 1338	helix
+T57	Process 1349 1357	contacts
+T58	Protein_part 1367 1378	active-site
+T59	Body_part 1379 1385	cavity
+T60	Process 1417 1425	presence
+T61	Protein_part 1429 1434	Trp54
+T62	Protein_part 1442 1453	active site
+T63	State 1473 1478	state
+T64	Protein_part 1482 1494	helix alpha4
+T65	Geometrical_part 1519 1526	helical
+T66	Process 1527 1532	shift
+T67	Process 1538 1553	phosphorylation

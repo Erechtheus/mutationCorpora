@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 52	mannosyl-3-phosphoglycerate phosphatase
+T3	Organism 58 79	Pyrococcus horikoshii
+T4	Protein 81 127	Mannosyl-3-phosphoglycerate phosphatase (MPGP)
+T5	Process 142 159	dephosphorylation
+T6	Chemical 163 202	alpha-mannosyl-3-phosphoglycerate (MPG)
+T7	Chemical 214 242	alpha-mannosylglycerate (MG)
+T8	Organism 269 290	Pyrococcus horikoshii
+T9	Protein 292 296	MPGP
+T10	Process 305 309	role
+T11	Protein 325 331	enzyme
+T12	Process 332 341	reactions
+T13	Chemical 367 382	MG-biosynthesis
+T14	Process 383 390	pathway
+T15	Chemical 457 461	salt
+T16	Parameter 462 475	concentration
+T17	Geometrical_part 477 495	Crystal structures
+T18	Organism 499 527	P. horikoshii MPGP (PhoMPGP)
+T19	Chemical 577 590	magnesium ion
+T20	Process 644 655	diffraction
+T21	Unknown 669 674	SeMet
+T22	Organism 687 694	PhoMPGP
+T23	Organism 696 703	PhoMPGP
+T24	Protein_part 720 727	domains
+T25	Protein_part 736 742	domain
+T26	Protein 768 801	haloacid dehalogenase superfamily
+T27	Protein_part 812 818	domain
+T28	Chemical 843 846	C2B
+T29	Unknown 867 878	superfamily
+T30	State 880 888	Apo-form
+T31	Unknown 889 897	crystals
+T32	Organism 910 917	PhoMPGP
+T33	Molecule 918 927	molecules
+T34	State 940 957	open conformation
+T35	State 979 998	closed conformation
+T36	Unknown 1013 1021	crystals
+T37	Molecule 1038 1047	molecules
+T38	State 1059 1078	closed conformation
+T39	Chemical 1084 1093	phosphate
+T40	Chemical 1098 1113	magnesium  ions
+T41	Organism 1115 1122	PhoMPGP
+T42	Geometrical_part 1138 1145	hairpin
+T43	Geometrical_part 1146 1150	loop
+T44	Protein_part 1176 1187	active site
+T45	State 1195 1214	closed conformation
+T46	Organism 1247 1254	PhoMPGP
+T47	Body_part 1261 1267	cavity
+T48	Protein_part 1284 1291	domains
+T49	Category 1322 1331	substrate
+T50	Protein_part 1340 1344	site
+T51	Chemical 1350 1363	phosphate ion
+T52	Body_part 1382 1388	cavity
+T53	Process 1404 1411	binding
+T54	Chemical 1426 1435	phosphate
+T55	Molecular_Part 1436 1441	group
+T56	Chemical 1445 1448	MPG
+T57	Body_part 1454 1460	cavity
+T58	State 1483 1502	closed conformation
+T59	State 1515 1529	conformational
+T60	Process 1530 1536	change
+T61	Process 1562 1569	release
+T62	Category 1573 1581	products
+T63	Chemical 1585 1596	salt bridge
+T64	Protein 1614 1623	acid/base
+T65	Protein_part 1624 1629	Asp10
+T66	Protein_part 1633 1639	Arg170
+T67	Organism 1669 1676	PhoMPGP
+T68	Process 1720 1730	importance
+T69	State 1738 1752	conformational
+T70	Process 1753 1759	change
+T71	Parameter 1767 1775	activity
+T72	Organism 1779 1786	PhoMPGP

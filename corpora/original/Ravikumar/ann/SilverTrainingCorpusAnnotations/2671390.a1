@@ -1,0 +1,77 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 24	rat
+T3	Protein 25 62	intestinal fatty-acid-binding protein
+T4	Process 64 74	Refinement
+T5	Technique 79 87	analysis
+T6	Organism 95 111	Escherichia coli
+T7	Protein 120 127	protein
+T8	Chemical 139 148	palmitate
+T9	Organism 150 153	Rat
+T10	Protein 154 200	intestinal fatty-acid-binding protein (I-FABP)
+T11	Value 213 222	15,124 Mr
+T12	Protein_part 224 247	cytoplasmic polypeptide
+T13	Chemical 259 281	long-chain fatty acids
+T14	Protein 309 315	I-FABP
+T15	Unknown 321 327	member
+T16	Unknown 333 339	family
+T17	Location 343 356	intracellular
+T18	Protein 357 373	binding proteins
+T19	Process 413 419	uptake
+T20	Process 421 430	transport
+T21	Physiology 438 447	metabolic
+T22	Process 448 457	targeting
+T23	Category 473 480	ligands
+T24	Geometrical_part 486 503	crystal structure
+T25	Organism 507 523	Escherichia coli
+T26	Organism 532 535	rat
+T27	Protein 536 542	I-FABP
+T28	Molecule 557 565	molecule
+T29	Chemical 575 584	palmitate
+T30	Value 605 608	2 A
+T31	Parameter 609 619	resolution
+T32	Parameter 666 672	energy
+T33	Process 673 683	refinement
+T34	Technique 756 772	crystallographic
+T35	Parameter 773 781	R-factor
+T36	Value 785 790	17.8%
+T37	Process 797 808	reflections
+T38	Protein 810 815	sigma
+T39	Value 829 832	2.0
+T40	Parameter 835 851	root-mean-square
+T41	Chemical 852 856	bond
+T42	Parameter 857 873	length deviation
+T43	Value 877 884	0.009 A
+T44	Parameter 889 905	root-mean-square
+T45	Chemical 906 910	bond
+T46	Parameter 911 926	angle deviation
+T47	Value 930 942	2.85 degrees
+T48	Protein 944 950	I-FABP
+T49	Geometrical_part 964 976	antiparallel
+T50	Protein_part 977 989	beta-strands
+T51	Protein_part 1035 1046	beta-sheets
+T52	Protein_part 1052 1068	hydrocarbon tail
+T53	Unknown 1083 1088	C16:0
+T54	Category 1089 1095	ligand
+T55	State 1145 1157	conformation
+T56	Chemical 1163 1174	carboxylate
+T57	Molecular_Part 1175 1180	group
+T58	Chemical 1188 1198	fatty acid
+T59	Location 1217 1225	interior
+T60	Protein 1229 1235	I-FABP
+T61	Process 1282 1294	interactions
+T62	Protein_part 1305 1311	Arg106
+T63	Protein_part 1313 1320	Gln 115
+T64	Chemical 1330 1347	solvent molecules
+T65	Protein_part 1353 1369	hydrocarbon tail
+T66	Location 1392 1396	left
+T67	Geometrical_part 1404 1411	helical
+T68	Chemical 1427 1438	carboxylate
+T69	Molecular_Part 1439 1444	group
+T70	Unknown 1448 1452	C-16
+T71	Protein 1463 1478	methylene chain
+T72	Protein_part 1515 1526	side-chains
+T73	Protein_part 1561 1580	amino acid residues
+T74	Protein 1613 1624	holo-I-FABP
+T75	Parameter 1643 1652	potential
+T76	Process 1667 1672	entry
+T77	Chemical 1692 1702	fatty acid

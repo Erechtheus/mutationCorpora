@@ -1,0 +1,70 @@
+T1	Protein 44 47	RNA
+T2	Protein_part 58 66	cysteine
+T3	Process 67 79	biosynthesis
+T4	Organism 83 90	archaea
+T5	Geometrical_part 92 109	crystal structure
+T6	Protein 113 139	Sep-tRNA:Cys-tRNA synthase
+T7	Organism 145 167	Archaeoglobus fulgidus
+T8	Organism 184 193	organisms
+T9	Organism 195 215	methanogenic archaea
+T10	Protein 239 264	cysteinyl-tRNA synthetase
+T11	Unknown 266 279	Cys-tRNA(Cys)
+T12	Process 307 314	pathway
+T13	Protein 325 355	O-phosphoseryl-tRNA synthetase
+T14	Chemical 364 385	O-phosphoserine (Sep)
+T15	Protein 389 398	tRNA(Cys)
+T16	Protein 403 429	Sep-tRNA:Cys-tRNA synthase
+T17	Protein 431 438	SepCysS
+T18	Unknown 449 462	Sep-tRNA(Cys)
+T19	Unknown 466 479	Cys-tRNA(Cys)
+T20	Geometrical_part 500 517	crystal structure
+T21	Protein 521 528	SepCysS
+T22	Organism 534 556	Archaeoglobus fulgidus
+T23	Value 580 585	2.4 A
+T24	Parameter 586 596	resolution
+T25	Chemical 598 605	SepCysS
+T26	Protein 614 619	dimer
+T27	Protein 633 641	monomers
+T28	Protein_part 667 674	domains
+T29	Protein_part 686 692	domain
+T30	Protein_part 720 730	beta-sheet
+T31	Chemical 756 784	pyridoxal 5'-phosphate (PLP)
+T32	Protein 795 802	enzymes
+T33	Protein_part 811 822	active site
+T34	Protein 850 855	dimer
+T35	Chemical 867 870	PLP
+T36	Protein_part 898 908	side-chain
+T37	Protein_part 926 932	Lys209
+T38	Chemical 954 957	PLP
+T39	Chemical 961 972	sulfate ion
+T40	Protein_part 989 1000	side-chains
+T41	Protein_part 1018 1023	Arg79
+T42	Protein_part 1025 1031	His103
+T43	Protein_part 1037 1052	Tyr104 residues
+T44	Protein_part 1058 1069	active site
+T45	Geometrical_part 1110 1115	cleft
+T46	Unknown 1131 1144	Sep-tRNA(Cys)
+T47	Process 1153 1158	basis
+T48	Geometrical_part 1166 1173	surface
+T49	Parameter 1188 1197	potential
+T50	Protein_part 1203 1221	amino acid residue
+T51	Process 1222 1234	conservation
+T52	Technique 1235 1242	mapping
+T53	Chemical 1270 1281	sulfate ion
+T54	Category 1291 1300	substrate
+T55	Protein_part 1301 1311	amino acid
+T56	Process 1312 1319	binding
+T57	Chemical 1336 1339	PLP
+T58	Protein 1350 1357	enzymes
+T59	Process 1361 1368	binding
+T60	Unknown 1378 1391	Sep-tRNA(Cys)
+T61	Chemical 1395 1402	SepCysS
+T62	Protein_part 1457 1469	Cys residues
+T63	Protein_part 1471 1476	Cys39
+T64	Protein_part 1478 1483	Cys42
+T65	Protein_part 1488 1494	Cys247
+T66	Protein 1504 1511	subunit
+T67	Process 1531 1535	role
+T68	Process 1543 1552	catalysis
+T69	Protein_part 1560 1571	active site
+T70	Protein 1585 1592	subunit

@@ -1,0 +1,95 @@
+T1	Protein 12 18	enzyme
+T2	Protein_part 19 26	subsite
+T3	Process 40 51	preparation
+T4	Parameter 53 60	kinetic
+T5	Process 61 77	characterization
+T6	Technique 83 97	X-ray analysis
+T7	Value 101 106	2.0-A
+T8	Parameter 107 117	resolution
+T9	Protein_part 121 135	Val111Phe site
+T10	Organism 144 148	calf
+T11	Protein 149 157	chymosin
+T12	Process 159 169	Comparison
+T13	Geometrical_part 177 204	three-dimensional structure
+T14	Organism 208 214	bovine
+T15	Protein 215 223	chymosin
+T16	Unknown 233 243	structures
+T17	Protein_part 258 266	aspartic
+T18	Protein 267 278	proteinases
+T19	Protein_part 294 301	peptide
+T20	Category 302 312	inhibitors
+T21	Protein_part 324 330	Val111
+T22	Protein 334 342	chymosin
+T23	Protein_part 387 398	subsites S1
+T24	Protein_part 403 405	S3
+T25	Process 409 417	mutation
+T26	Protein_part 435 441	Val111
+T27	Protein_part 445 448	Phe
+T28	Body_part 488 495	plasmid
+T29	Protein_part 496 505	construct
+T30	Protein 509 520	prochymosin
+T31	Process 544 555	restriction
+T32	Protein_part 556 561	sites
+T33	Chemical 577 599	mutant oligonucleotide
+T34	Protein 610 621	prochymosin
+T35	Process 622 628	fusion
+T36	Category 629 636	product
+T37	Organism 654 670	Escherichia coli
+T38	Process 694 703	extension
+T39	Process 708 720	substitution
+T40	Process 764 774	activation
+T41	Protein 782 789	zymogen
+T42	Process 797 807	activation
+T43	Protein 821 832	prochymosin
+T44	Protein 838 844	enzyme
+T45	Technique 861 884	affinity chromatography
+T46	Chemical 888 897	Sepharose
+T47	Unknown 903 918	V-dL-P-F-F-V-dL
+T48	Category 922 928	ligand
+T49	Technique 935 944	procedure
+T50	Protein 976 983	protein
+T51	Protein 997 1001	FPLC
+T52	Protein 1007 1023	activity/protein
+T53	Parameter 1024 1029	ratio
+T54	Technique 1035 1043	SDS-PAGE
+T55	Protein 1049 1058	enzymatic
+T56	Parameter 1059 1069	properties
+T57	Protein_part 1108 1115	peptide
+T58	Category 1116 1126	substrates
+T59	Category 1131 1141	inhibitors
+T60	Parameter 1143 1152	KM values
+T61	Protein 1161 1174	mutant enzyme
+T62	Parameter 1232 1243	kcat values
+T63	Protein 1270 1283	mutant enzyme
+T64	Technique 1302 1307	X-ray
+T65	Value 1332 1337	2.0-A
+T66	Parameter 1338 1348	resolution
+T67	Unknown 1360 1364	FAST
+T68	Parameter 1365 1369	area
+T69	Unknown 1388 1397	structure
+T70	Process 1418 1428	difference
+T71	Unknown 1429 1436	Fourier
+T72	Parameter 1463 1471	R factor
+T73	Value 1475 1480	19.5%
+T74	Process 1486 1494	mutation
+T75	Process 1515 1522	changes
+T76	State 1526 1538	conformation
+T77	Protein_part 1549 1562	phenylalanine
+T78	Protein_part 1563 1573	side chain
+T79	Geometrical_part 1584 1588	part
+T80	Protein_part 1596 1598	S1
+T81	Protein_part 1603 1605	S3
+T82	Parameter 1647 1649	KM
+T83	Molecule 1658 1664	mutant
+T84	Category 1671 1680	substrate
+T85	Protein_part 1694 1707	phenylalanine
+T86	Protein_part 1708 1718	side chain
+T87	Protein_part 1722 1724	P1
+T88	Value 1757 1763	higher
+T89	Parameter 1764 1772	affinity
+T90	Molecule 1780 1786	mutant
+T91	Category 1794 1803	inhibitor
+T92	Protein_part 1815 1826	side chains
+T93	Protein_part 1830 1832	P1
+T94	Protein_part 1837 1839	P3
+T95	Protein 1863 1879	wild-type enzyme

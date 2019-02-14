@@ -1,0 +1,76 @@
+T1	Process 27 38	differences
+T2	Protein 42 55	putidaredoxin
+T3	Unknown 80 89	structure
+T4	Process 90 100	refinement
+T5	Process 122 131	couplings
+T6	Process 144 155	differences
+T7	Unknown 164 170	2Fe-2S
+T8	Protein 172 182	ferredoxin
+T9	Protein 184 203	putidaredoxin (Pdx)
+T10	Chemical 215 222	camphor
+T11	Process 223 236	hydroxylation
+T12	Process 237 244	pathway
+T13	Organism 248 266	Pseudomonas putida
+T14	Process 295 303	function
+T15	State 307 322	oxidation state
+T16	Chemical 330 334	iron
+T17	Protein 344 347	Pdx
+T18	Molecule 374 382	electron
+T19	Process 383 391	transfer
+T20	Protein 395 415	cytochrome P450(cam)
+T21	Protein 417 423	CYP101
+T22	Process 442 453	differences
+T23	Protein 488 491	Pdx
+T24	Parameter 504 522	binding affinities
+T25	Protein 526 532	CYP101
+T26	Technique 534 537	NMR
+T27	Process 547 558	differences
+T28	Parameter 572 582	properties
+T29	Process 614 625	differences
+T30	Unknown 627 636	structure
+T31	Process 637 647	refinement
+T32	Protein 677 680	Pdx
+T33	Parameter 749 757	distance
+T34	Technique 773 776	NMR
+T35	Chemical 826 831	(15)N
+T36	Process 849 858	couplings
+T37	Unknown 905 914	structure
+T38	Protein 927 930	Pdx
+T39	Chemical 961 969	solution
+T40	Technique 970 973	NMR
+T41	Geometrical_part 974 983	structure
+T42	Unknown 992 995	RDC
+T43	Unknown 1021 1030	structure
+T44	Geometrical_part 1058 1062	fold
+T45	Technique 1089 1113	X-ray crystal structures
+T46	Process 1154 1166	orientations
+T47	Unknown 1190 1208	structure elements
+T48	State 1224 1236	conformation
+T49	Chemical 1244 1249	metal
+T50	Process 1250 1257	binding
+T51	Geometrical_part 1258 1262	loop
+T52	Protein_part 1263 1269	region
+T53	Process 1271 1280	Extension
+T54	Unknown 1301 1310	structure
+T55	Technique 1311 1322	calculation
+T56	Protein 1334 1337	Pdx
+T57	Process 1364 1375	differences
+T58	Protein_part 1409 1417	residues
+T59	Protein_part 1425 1435	C-terminal
+T60	Process 1436 1447	interaction
+T61	Protein_part 1448 1454	domain
+T62	Protein_part 1497 1512	residue Trp 106
+T63	Protein_part 1517 1524	regions
+T64	Chemical 1534 1539	metal
+T65	Process 1540 1547	binding
+T66	Geometrical_part 1548 1552	loop
+T67	Protein 1556 1559	Pdx
+T68	Process 1594 1605	differences
+T69	Protein 1609 1612	Pdx
+T70	Process 1634 1641	changes
+T71	Process 1679 1690	differences
+T72	Process 1694 1701	binding
+T73	Molecule 1706 1714	electron
+T74	Process 1715 1723	transfer
+T75	Parameter 1724 1734	properties
+T76	Protein 1764 1767	Pdx

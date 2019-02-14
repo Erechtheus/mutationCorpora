@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 26	human
+T3	Protein 27 51	sulfotransferase SULT1A3
+T4	Category 55 62	complex
+T5	Chemical 68 76	dopamine
+T6	Chemical 82 114	3'-phosphoadenosine 5'-phosphate
+T7	Organism 120 125	human
+T8	Protein 126 142	sulfotransferase
+T9	Protein 144 151	SULT1A3
+T10	Process 180 191	sulfonation
+T11	Chemical 195 205	monoamines
+T12	Chemical 214 222	dopamine
+T13	Chemical 224 235	epinephrine
+T14	Chemical 241 255	norepinephrine
+T15	Protein 257 264	SULT1A3
+T16	Protein_part 284 326	3,4-dihydroxyphenylalanine (Dopa)/tyrosine
+T17	Chemical 326 336	-sulfating
+T18	Parameter 337 345	activity
+T19	Protein 382 400	D-form enantiomers
+T20	Chemical 439 443	Mn2+
+T21	Process 491 496	basis
+T22	Category 512 521	substrate
+T23	Protein 542 548	enzyme
+T24	Geometrical_part 564 581	crystal structure
+T25	Organism 585 590	human
+T26	Protein 591 598	SULT1A3
+T27	Chemical 615 623	dopamine
+T28	Chemical 628 660	3'-phosphoadenosine 5'-phosphate
+T29	Value 665 670	2.6 A
+T30	Parameter 671 681	resolution
+T31	Technique 710 718	analysis
+T32	Unknown 724 730	D-Dopa
+T33	Unknown 736 745	structure
+T34	Protein 749 756	SULT1A3
+T35	Category 771 778	complex
+T36	Protein_part 799 813	residue Glu146
+T37	Process 837 848	interaction
+T38	Chemical 854 862	dopamine
+T39	Process 886 890	role
+T40	Chemical 920 929	sulfating
+T41	Parameter 930 938	activity
+T42	Protein_part 959 972	residue Asp86
+T43	Chemical 1004 1008	Mn2+
+T44	Protein_part 1028 1041	Dopa/tyrosine
+T45	Chemical 1041 1051	-sulfating
+T46	Parameter 1052 1060	activity
+T47	Protein 1064 1071	SULT1A3
+T48	Process 1101 1105	role
+T49	Chemical 1135 1144	sulfating
+T50	Parameter 1145 1153	activity

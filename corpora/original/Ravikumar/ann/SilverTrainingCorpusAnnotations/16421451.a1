@@ -1,0 +1,57 @@
+T1	Geometrical_part 4 22	crystal structures
+T2	Organism 26 31	human
+T3	Protein 32 60	glutathione transferase A1-1
+T4	Chemical 75 86	glutathione
+T5	Process 87 94	binding
+T6	State 103 115	conformation
+T7	Protein_part 123 139	C-terminal helix
+T8	Organism 141 146	Human
+T9	Protein 147 175	glutathione transferase A1-1
+T10	Protein 194 200	enzyme
+T11	Process 285 303	catalytic function
+T12	Geometrical_part 349 367	crystal structures
+T13	Protein 376 382	enzyme
+T14	Geometrical_part 441 450	structure
+T15	Category 456 463	complex
+T16	Organism 481 486	human
+T17	Protein 487 493	enzyme
+T18	Chemical 499 510	glutathione
+T19	Parameter 540 544	time
+T20	Value 549 562	2.0 angstroms
+T21	Parameter 563 573	resolution
+T22	Chemical 593 604	glutathione
+T23	Protein_part 618 624	G site
+T24	Chemical 659 670	glutathione
+T25	Category 682 691	substrate
+T26	Unknown 692 701	analogues
+T27	Unknown 711 721	structures
+T28	Chemical 736 747	glutathione
+T29	Process 748 755	binding
+T30	Protein_part 793 809	C-terminal helix
+T31	Protein 817 824	protein
+T32	Category 856 863	complex
+T33	Chemical 871 907	decarboxylated glutathione conjugate
+T34	Parameter 951 959	activity
+T35	Protein 967 973	enzyme
+T36	Protein_part 979 990	T68E mutant
+T37	Organism 994 999	human
+T38	Protein 1000 1028	glutathione transferase A1-1
+T39	Parameter 1050 1058	activity
+T40	Chemical 1081 1107	decarboxylated glutathione
+T41	Unknown 1117 1127	structures
+T42	Unknown 1269 1279	structures
+T43	State 1296 1308	conformation
+T44	Protein_part 1324 1341	C-terminal region
+T45	Unknown 1382 1392	structures
+T46	Protein_part 1398 1415	C-terminal region
+T47	Protein_part 1437 1442	helix
+T48	Unknown 1448 1457	structure
+T49	State 1474 1479	state
+T50	Process 1520 1529	Different
+T51	State 1530 1543	conformations
+T52	Protein_part 1551 1569	C-terminal regions
+T53	State 1595 1601	states
+T54	Protein 1613 1621	monomers
+T55	Process 1670 1674	role
+T56	Parameter 1682 1690	activity
+T57	Protein 1698 1704	enzyme

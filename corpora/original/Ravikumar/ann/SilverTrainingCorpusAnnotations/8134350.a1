@@ -1,0 +1,32 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 17 21	gene
+T3	Protein 22 31	V protein
+T4	Organism 35 48	bacteriophage
+T5	Unknown 49 51	f1
+T6	Technique 82 99	x-ray diffraction
+T7	Protein 107 130	selenomethionyl protein
+T8	Geometrical_part 136 153	crystal structure
+T9	Protein 161 173	dimeric gene
+T10	Protein 174 183	V protein
+T11	Organism 187 200	bacteriophage
+T12	Unknown 201 203	f1
+T13	Process 251 262	diffraction
+T14	Chemical 270 286	selenomethionine
+T15	Protein_part 312 325	isoleucine-47
+T16	Protein 328 354	methionine mutant proteins
+T17	Technique 360 377	x-ray diffraction
+T18	Value 393 398	2.5 A
+T19	Parameter 399 409	resolution
+T20	Geometrical_part 415 424	structure
+T21	Protein 432 449	wild-type protein
+T22	Parameter 473 481	R factor
+T23	Value 485 490	19.2%
+T24	Value 513 518	1.8 A
+T25	Parameter 519 529	resolution
+T26	Geometrical_part 535 544	structure
+T27	Protein 552 556	gene
+T28	Protein 557 566	V protein
+T29	Protein 602 609	protein
+T30	Protein 625 631	gene V
+T31	Molecule 656 659	DNA
+T32	Category 660 667	complex

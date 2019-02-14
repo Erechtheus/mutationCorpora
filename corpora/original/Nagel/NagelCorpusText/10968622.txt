@@ -1,0 +1,12 @@
+Rubrerythrin is a non-heme iron dimeric protein isolated from the sulfate-reducing bacterium Desulfovibrio vulgaris . 
+Each monomer has one mononuclear iron center similar to rubredoxin and one dinuclear metal center similar to hemerythrin or ribonucleotide reductase . 
+The 1.88 A X-ray structure of the &quot;as isolated&quot; molecule and a uranyl heavy atom derivative have been solved by molecular replacement techniques . 
+The resulting model of the native &quot;as isolated&quot; molecule, including 164 water molecules, has been refined giving a final R factor of 0.197 (R(free) = 0.255) . 
+The structure has the same general protein fold, domain structure, and dimeric interactions as previously found for rubrerythrin [1, 2], but it also has some interesting undetected differences at the metal centers . 
+The refined model of the protein structure has a cis peptide between residues 78 and 79 . 
+The Fe-Cys4 center has a previously undetected strong seventh N-H...S hydrogen bond in addition to the six N-H...S bonds usually found in rubredoxin . 
+The dinuclear metal center has a hexacoordinate Fe atom and a tetracoordinate Zn atom . 
+Each metal is coordinated by a GluXXHis polypeptide chain segment . 
+The Zn atom binds at a site distinctly different from that found in the structure of a diiron rubrerythrin . 
+Difference electron density for the uranyl derivative shows an extremely large peak adjacent to and replacing the Zn atom, indicating that this particular site is capable of binding other atoms . 
+This feature/ability may give rise to some of the confusing activities ascribed to this molecule . 

@@ -1,0 +1,77 @@
+T1	Unknown 14 37	[Fe4-S4]-dependent NirA
+T2	Organism 43 69	Mycobacterium tuberculosis
+T3	Protein 75 92	sulfite reductase
+T4	Chemical 109 121	Cys-Tyr bond
+T5	Protein_part 129 140	active site
+T6	Protein 146 155	nirA gene
+T7	Organism 159 185	Mycobacterium tuberculosis
+T8	State 220 225	state
+T9	Organism 233 241	bacteria
+T10	Parameter 267 276	potential
+T11	Process 277 283	target
+T12	Process 292 303	development
+T13	Organism 363 371	pathogen
+T14	State 387 392	phase
+T15	Protein 399 403	gene
+T16	Protein 414 452	ferredoxin-dependent sulfite reductase
+T17	Geometrical_part 462 471	structure
+T18	Protein 479 485	enzyme
+T19	Technique 512 533	x-ray crystallography
+T20	Protein 540 546	enzyme
+T21	Protein 552 559	monomer
+T22	Protein_part 575 586	amino acids
+T23	Parameter 602 610	[Fe4-S4]
+T24	Category 634 642	cofactor
+T25	Molecule 648 656	molecule
+T26	Protein_part 678 685	domains
+T27	Geometrical_part 694 709	alpha/beta fold
+T28	Protein_part 715 720	first
+T29	Protein_part 721 727	domain
+T30	Protein 744 754	ferredoxin
+T31	Protein_part 760 770	subdomains
+T32	Chemical 786 808	pseudo-2-fold symmetry
+T33	Location 809 813	axis
+T34	Molecule 840 848	molecule
+T35	Protein_part 865 872	domains
+T36	Process 900 907	binding
+T37	Process 908 920	interactions
+T38	Category 930 939	cofactors
+T39	Geometrical_part 955 959	fold
+T40	Protein 982 1014	sulfite/nitrite reductase family
+T41	Protein_part 1020 1027	domains
+T42	Unknown 1044 1053	structure
+T43	Category 1064 1073	cofactors
+T44	Protein_part 1082 1094	active  site
+T45	Protein_part 1133 1140	domains
+T46	Molecule 1162 1170	molecule
+T47	Unknown 1172 1176	NirA
+T48	Chemical 1197 1210	covalent bond
+T49	Protein_part 1223 1234	side chains
+T50	Protein_part 1238 1243	Tyr69
+T51	Protein_part 1248 1254	Cys161
+T52	Protein_part 1262 1273	active site
+T53	Category 1310 1318	cofactor
+T54	Process 1320 1327	Removal
+T55	Chemical 1336 1349	covalent bond
+T56	Technique 1353 1378	site-directed mutagenesis
+T57	Parameter 1397 1405	activity
+T58	Process 1447 1465	enzymatic reaction
+T59	Protein_part 1473 1481	residues
+T60	Geometrical_part 1486 1490	part
+T61	Protein_part 1496 1504	sequence
+T62	Protein 1546 1556	ferredoxin
+T63	Chemical 1568 1575	sulfite
+T64	Protein 1580 1598	nitrite reductases
+T65	Process 1600 1610	Comparison
+T66	Unknown 1614 1618	NirA
+T67	Unknown 1628 1637	structure
+T68	Chemical 1655 1660	NADPH
+T69	Protein 1671 1688	sulfite reductase
+T70	Organism 1694 1710	Escherichia coli
+T71	Process 1722 1729	binding
+T72	Protein_part 1730 1734	site
+T73	Location 1743 1751	external
+T74	Molecule 1752 1760	electron
+T75	Category 1761 1766	donor
+T76	Protein 1767 1777	ferredoxin
+T77	Parameter 1791 1799	[Fe4-S4]

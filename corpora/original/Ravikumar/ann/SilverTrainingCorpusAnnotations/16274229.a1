@@ -1,0 +1,99 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein_part 37 47	P1A mutant
+T3	Protein 65 100	malonate semialdehyde decarboxylase
+T4	Process 115 120	basis
+T5	Protein 129 142	decarboxylase
+T6	Protein 147 156	hydratase
+T7	Parameter 157 167	activities
+T8	Protein 169 211	Malonate semialdehyde decarboxylase (MSAD)
+T9	Organism 217 239	Pseudomonas pavonaceae
+T10	Protein 249 272	tautomerase superfamily
+T11	Unknown 273 279	member
+T12	Chemical 294 315	malonate semialdehyde
+T13	Chemical 319 331	acetaldehyde
+T14	Process 337 346	mechanism
+T15	Protein_part 357 362	Pro-1
+T16	Protein_part 367 373	Arg-75
+T17	Protein_part 375 380	Pro-1
+T18	Protein_part 385 391	Arg-75
+T19	Protein 425 434	hydratase
+T20	Parameter 435 443	activity
+T21	Protein 447 451	MSAD
+T22	Chemical 461 479	2-oxo-3-pentynoate
+T23	Chemical 496 509	acetopyruvate
+T24	Geometrical_part 511 529	Crystal structures
+T25	Protein 533 537	MSAD
+T26	Value 539 544	1.8 A
+T27	Parameter 545 555	resolution
+T28	Protein_part 562 572	P1A mutant
+T29	Protein 576 580	MSAD
+T30	Value 582 587	2.7 A
+T31	Parameter 588 598	resolution
+T32	Protein 605 609	MSAD
+T33	Chemical 625 643	3-chloropropiolate
+T34	Value 645 650	1.6 A
+T35	Parameter 651 661	resolution
+T36	Process 666 675	mechanism
+T37	Category 682 691	inhibitor
+T38	Protein 709 718	hydratase
+T39	Parameter 719 727	activity
+T40	Protein 731 735	MSAD
+T41	Process 761 771	comparison
+T42	Protein 779 787	P1A-MSAD
+T43	Protein 792 796	MSAD
+T44	Geometrical_part 797 807	structures
+T45	Process 833 843	alteration
+T46	Protein_part 861 866	Pro-1
+T47	Process 896 900	role
+T48	Process 931 935	role
+T49	Geometrical_part 941 951	structures
+T50	Protein 955 969	wild-type MSAD
+T51	Protein 974 978	MSAD
+T52	Protein_part 1002 1007	Pro-1
+T53	Chemical 1011 1026	3-oxopropanoate
+T54	Molecule 1032 1038	adduct
+T55	Process 1058 1068	incubation
+T56	Protein 1072 1076	MSAD
+T57	Chemical 1081 1099	3-chloropropiolate
+T58	Protein_part 1111 1117	Asp-37
+T59	Protein_part 1125 1132	residue
+T60	Chemical 1150 1164	water molecule
+T61	Location 1179 1182	C-3
+T62	Chemical 1186 1204	3-chloropropiolate
+T63	Unknown 1219 1226	Michael
+T64	Process 1227 1235	addition
+T65	Chemical 1239 1244	water
+T66	Process 1250 1262	interactions
+T67	Protein_part 1266 1272	Arg-73
+T68	Protein_part 1277 1283	Arg-75
+T69	Chemical 1293 1308	C-1 carboxylate
+T70	Molecular_Part 1309 1314	group
+T71	Molecule 1322 1328	adduct
+T72	Protein_part 1343 1351	residues
+T73	Protein 1365 1370	alpha
+T74	Protein 1371 1375	beta
+T75	Chemical 1388 1392	acid
+T76	Process 1412 1420	addition
+T77	Chemical 1424 1429	water
+T78	Process 1438 1443	basis
+T79	Unknown 1453 1463	structures
+T80	Process 1467 1476	mechanism
+T81	Process 1485 1497	inactivation
+T82	Protein 1501 1505	MSAD
+T83	Chemical 1509 1527	3-chloropropiolate
+T84	Process 1557 1567	mechanisms
+T85	Protein 1576 1589	decarboxylase
+T86	Protein 1594 1603	hydratase
+T87	Parameter 1604 1614	activities
+T88	Protein 1692 1696	MSAD
+T89	Protein 1701 1740	trans-3-chloroacrylic acid dehalogenase
+T90	Protein 1744 1767	tautomerase superfamily
+T91	Unknown 1768 1774	member
+T92	Protein 1785 1789	MSAD
+T93	Chemical 1797 1822	trans-1,3-dichloropropene
+T94	Process 1823 1834	degradation
+T95	Process 1835 1842	pathway
+T96	Unknown 1897 1905	elements
+T97	Chemical 1914 1923	conjugate
+T98	Process 1924 1932	addition
+T99	Chemical 1936 1941	water

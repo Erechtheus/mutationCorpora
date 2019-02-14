@@ -1,0 +1,66 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein_part 15 30	nonadecapeptide
+T3	Protein_part 44 54	EGF domain
+T4	Protein 58 72	thrombomodulin
+T5	Protein 88 96	thrombin
+T6	Geometrical_part 102 128	crystallographic structure
+T7	Category 154 161	complex
+T8	Protein_part 172 187	nonadecapeptide
+T9	Protein_part 203 240	epidermal growth factor (EGF5) domain
+T10	Organism 244 249	human
+T11	Protein 250 264	thrombomodulin
+T12	Organism 269 274	human
+T13	Protein 275 301	D-PheProArg-alpha-thrombin
+T14	Protein_part 307 314	peptide
+T15	Protein_part 330 363	amino acid residues Glu408-Glu426
+T16	Protein 367 381	thrombomodulin
+T17	Chemical 405 419	disulfide loop
+T18	Protein 423 427	EGF5
+T19	Molecular_Part 436 442	linker
+T20	Protein 446 450	EGF6
+T21	Unknown 456 465	structure
+T22	Value 481 486	3.0-A
+T23	Parameter 487 497	resolution
+T24	Parameter 504 511	R-value
+T25	Value 515 520	0.146
+T26	Protein 536 554	thrombin molecules
+T27	Unknown 587 596	structure
+T28	Unknown 604 611	crystal
+T29	Value 617 620	2:1
+T30	Protein 621 629	thrombin
+T31	Category 630 637	complex
+T32	Process 644 651	folding
+T33	Protein_part 659 666	peptide
+T34	Chemical 700 714	disulfide loop
+T35	Protein 718 722	EGF2
+T36	Protein 726 735	factor Xa
+T37	Protein 737 740	rms
+T38	Parameter 741 746	delta
+T39	Value 749 754	1.0 A
+T40	Protein_part 761 768	peptide
+T41	Protein 814 824	fibrinogen
+T42	Process 825 836	recognition
+T43	Protein_part 841 846	sites
+T44	Protein 858 876	thrombin molecules
+T45	Protein_part 888 895	peptide
+T46	Protein_part 917 925	aspartic
+T47	Protein_part 930 952	glutamic acid residues
+T48	Process 968 975	binding
+T49	Process 976 987	interaction
+T50	Protein 993 1001	thrombin
+T51	Process 1040 1051	association
+T52	Unknown 1116 1127	environment
+T53	Protein_part 1140 1149	TyrIleLeu
+T54	Protein_part 1165 1172	peptide
+T55	Protein_part 1177 1182	Phe34
+T56	Protein_part 1184 1189	Leu65
+T57	Protein_part 1191 1196	Tyr76
+T58	Protein_part 1202 1207	Ile82
+T59	Protein 1209 1225	chymotrypsinogen
+T60	Protein 1244 1261	thrombin molecule
+T61	Protein_part 1267 1275	tyrosine
+T62	Protein_part 1284 1291	peptide
+T63	Protein 1318 1326	thrombin
+T64	Geometrical_part 1336 1341	rings
+T65	Protein 1405 1428	thrombomodulin-thrombin
+T66	Process 1429 1440	interaction

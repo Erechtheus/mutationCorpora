@@ -1,0 +1,89 @@
+T1	Protein_part 0 4	Site
+T2	Process 14 23	mutations
+T3	Protein_part 27 39	tyrosine 195
+T4	Protein 43 75	cyclodextrin glycosyltransferase
+T5	Organism 82 100	Bacillus circulans
+T6	Organism 101 111	strain 251
+T7	Parameter 119 127	activity
+T8	Category 132 139	product
+T9	Protein_part 153 165	Tyrosine 195
+T10	Protein_part 198 209	active site
+T11	Geometrical_part 210 215	cleft
+T12	Protein 219 251	cyclodextrin glycosyltransferase
+T13	Protein 253 264	EC 2.4.1.19
+T14	Organism 271 289	Bacillus circulans
+T15	Organism 290 300	strain 251
+T16	Process 302 311	Alignment
+T17	Protein_part 315 335	amino acid sequences
+T18	Protein 339 346	CGTases
+T19	Protein 351 365	alpha-amylases
+T20	Technique 375 383	analysis
+T21	Process 391 398	binding
+T22	Category 411 420	substrate
+T23	Unknown 421 429	analogue
+T24	Protein_part 446 457	active site
+T25	Geometrical_part 458 463	cleft
+T26	Unknown 478 480	B.
+T27	Unknown 496 511	Biochemistry 34
+T28	Protein_part 541 547	Tyr195
+T29	Process 567 571	role
+T30	Process 575 586	cyclization
+T31	Chemical 590 606	oligosaccharides
+T32	Protein_part 608 614	Tyr195
+T33	Protein_part 643 646	Phe
+T34	Protein_part 648 653	Y195F
+T35	Protein_part 656 659	Trp
+T36	Protein_part 661 666	Y195W
+T37	Protein_part 669 672	Leu
+T38	Protein_part 674 679	Y195L
+T39	Protein_part 686 689	Gly
+T40	Protein_part 691 696	Y195G
+T41	Protein 699 714	Mutant proteins
+T42	Technique 757 773	X-ray structures
+T43	Value 793 800	2.5-2.6
+T44	Parameter 810 820	resolution
+T45	Process 842 852	comparison
+T46	Parameter 874 884	properties
+T47	Geometrical_part 889 917	three-dimensional structures
+T48	Protein 937 961	wild-type CGTase protein
+T49	Protein 967 982	mutant proteins
+T50	Chemical 1015 1027	cyclodextrin
+T51	Process 1040 1048	coupling
+T52	Parameter 1049 1059	activities
+T53	Process 1100 1118	disproportionation
+T54	Process 1137 1146	reactions
+T55	Process 1159 1169	production
+T56	Process 1170 1177	process
+T57	Value 1198 1202	45 h
+T58	Process 1203 1213	incubation
+T59	Value 1221 1224	10%
+T60	Chemical 1225 1240	starch solution
+T61	Protein_part 1246 1251	Y195W
+T62	Protein_part 1253 1258	Y195L
+T63	Protein_part 1264 1269	Y195G
+T64	Molecule 1270 1277	mutants
+T65	Process 1301 1311	conversion
+T66	Chemical 1315 1321	starch
+T67	Chemical 1327 1340	cyclodextrins
+T68	Molecule 1348 1355	mutants
+T69	Chemical 1397 1418	maltooligosaccharides
+T70	Process 1424 1432	presence
+T71	Chemical 1436 1456	aromatic amino acids
+T72	Protein_part 1458 1461	Tyr
+T73	Protein_part 1465 1468	Phe
+T74	Protein_part 1477 1483	Tyr195
+T75	Process 1523 1533	importance
+T76	Process 1552 1563	cyclization
+T77	Process 1564 1572	reaction
+T78	Process 1599 1608	formation
+T79	Category 1619 1627	products
+T80	Technique 1629 1646	Mass spectrometry
+T81	Protein_part 1654 1659	Y195L
+T82	Process 1660 1668	reaction
+T83	Molecule 1704 1711	mutants
+T84	Process 1742 1747	shift
+T85	Process 1759 1768	synthesis
+T86	Category 1795 1803	products
+T87	Chemical 1852 1865	cyclodextrins
+T88	Chemical 1906 1911	zeta-
+T89	Chemical 1916 1933	eta-cyclodextrins

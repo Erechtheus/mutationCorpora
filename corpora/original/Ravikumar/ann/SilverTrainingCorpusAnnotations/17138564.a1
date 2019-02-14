@@ -1,0 +1,67 @@
+T1	Protein 4 12	nuclease
+T2	Category 25 32	complex
+T3	Chemical 61 77	metal ion bridge
+T4	Location 92 105	extracellular
+T5	Protein 106 115	nucleases
+T6	Process 191 195	role
+T7	Protein 207 214	enzymes
+T8	Organism 258 262	host
+T9	Body_part 263 273	neutrophil
+T10	Process 274 281	defense
+T11	Unknown 282 288	system
+T12	Parameter 294 302	activity
+T13	Organism 310 324	cyanobacterial
+T14	Protein 325 338	nuclease NucA
+T15	Unknown 342 348	member
+T16	Unknown 370 372	Me
+T17	Unknown 373 384	superfamily
+T18	Protein 416 424	nuclease
+T19	Category 425 434	inhibitor
+T20	Molecule 436 440	NuiA
+T21	Value 461 466	2.3-A
+T22	Parameter 467 477	resolution
+T23	Geometrical_part 478 495	crystal structure
+T24	Molecule 503 512	NucA-NuiA
+T25	Category 513 520	complex
+T26	Protein 535 539	NucA
+T27	Process 540 550	inhibition
+T28	Molecule 554 558	NuiA
+T29	Chemical 579 604	divalent metal ion bridge
+T30	Protein 623 631	nuclease
+T31	Category 641 650	inhibitor
+T32	Protein_part 656 666	C-terminal
+T33	Chemical 667 696	Thr-135(NuiA) hydroxyl oxygen
+T34	Chemical 740 746	Mg(2+)
+T35	Protein 754 762	nuclease
+T36	Protein_part 763 774	active site
+T37	Unknown 780 792	Glu-24(NuiA)
+T38	Protein_part 815 826	active site
+T39	Parameter 842 848	charge
+T40	Chemical 863 872	phosphate
+T41	Protein_part 874 895	NuiA  residues Asp-75
+T42	Protein_part 900 906	Trp-76
+T43	Process 921 932	interaction
+T44	Protein_part 933 937	site
+T45	Parameter 959 967	strength
+T46	Process 991 1002	interaction
+T47	Molecule 1117 1121	NuiA
+T48	Molecule 1122 1129	mutants
+T49	Process 1144 1154	inhibition
+T50	Protein_part 1185 1192	exosite
+T51	Process 1193 1202	mechanism
+T52	Process 1206 1216	inhibition
+T53	Protein 1231 1251	DNase colicins E7/E9
+T54	Category 1286 1295	complexes
+T55	Unknown 1324 1333	structure
+T56	Category 1342 1349	complex
+T57	Process 1385 1396	development
+T58	Category 1400 1410	inhibitors
+T59	Protein 1436 1445	nucleases
+T60	Protein_part 1461 1483	DRGH active site motif
+T61	Organism 1496 1520	Streptococcus pneumoniae
+T62	Protein 1521 1534	nuclease EndA
+T63	Organism 1571 1579	pathogen
+T64	Body_part 1585 1598	mitochondrial
+T65	Protein 1599 1604	EndoG
+T66	Process 1627 1640	recombination
+T67	Physiology 1645 1654	apoptosis

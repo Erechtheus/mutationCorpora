@@ -1,0 +1,63 @@
+T1	Technique 0 8	Analysis
+T2	Value 16 21	2.0 A
+T3	Geometrical_part 22 39	crystal structure
+T4	Protein 47 58	protein-DNA
+T5	Category 59 66	complex
+T6	Organism 74 79	human
+T7	Protein_part 80 95	PDEF Ets domain
+T8	Body_part 109 117	prostate
+T9	Protein 127 134	antigen
+T10	Protein_part 135 150	regulatory site
+T11	Protein 152 156	PDEF
+T12	Body_part 160 179	prostate epithelial
+T13	Protein 189 209	transcription factor
+T14	Unknown 216 222	member
+T15	Unknown 230 240	Ets family
+T16	Molecule 244 247	DNA
+T17	Protein 248 264	binding proteins
+T18	Value 283 288	2.0 A
+T19	Geometrical_part 289 306	crystal structure
+T20	Protein_part 314 329	PDEF Ets domain
+T21	Category 333 340	complex
+T22	Molecule 371 374	DNA
+T23	Process 375 382	binding
+T24	Protein_part 383 387	site
+T25	Protein_part 414 420	region
+T26	Organism 428 433	human
+T27	Body_part 434 442	prostate
+T28	Protein 452 464	antigen gene
+T29	Process 466 476	Comparison
+T30	Protein 485 493	PDEF-DNA
+T31	Category 494 501	complex
+T32	Unknown 513 516	Ets
+T33	Category 517 526	complexes
+T34	Unknown 571 582	Ets members
+T35	Process 605 616	differences
+T36	Category 620 629	substrate
+T37	Process 630 643	specification
+T38	Protein_part 656 661	"GGA"
+T39	Protein_part 684 691	regions
+T40	Molecule 699 702	DNA
+T41	Protein_part 703 707	site
+T42	Protein_part 732 746	serine residue
+T43	Location 750 762	position 308
+T44	Chemical 771 780	glutamine
+T45	Location 784 796	position 311
+T46	Protein 840 844	PDEF
+T47	Chemical 871 878	thymine
+T48	Process 905 912	binding
+T49	Protein_part 913 917	site
+T50	Unknown 979 990	Ets members
+T51	Protein 992 996	PDEF
+T52	Process 1031 1043	interactions
+T53	Process 1047 1056	different
+T54	Molecule 1070 1073	DNA
+T55	Protein_part 1087 1095	sequence
+T56	Process 1105 1116	recognition
+T57	Process 1154 1166	interactions
+T58	Molecule 1181 1184	DNA
+T59	Chemical 1208 1218	phosphates
+T60	Category 1227 1236	substrate
+T61	Organism 1253 1263	individual
+T62	Molecule 1287 1290	DNA
+T63	Protein_part 1291 1296	sites

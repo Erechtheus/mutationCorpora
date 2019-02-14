@@ -1,0 +1,80 @@
+T1	Category 14 20	ligand
+T2	Process 40 47	control
+T3	Parameter 51 69	catalytic activity
+T4	Chemical 73 79	copper
+T5	Protein 91 108	nitrite reductase
+T6	Chemical 113 115	Cu
+T7	Protein 127 144	nitrite reductase
+T8	Protein 150 161	Alcaligenes
+T9	Unknown 171 174	S-6
+T10	Location 179 184	axial
+T11	Chemical 185 195	methionine
+T12	Category 196 202	ligand
+T13	Protein_part 210 221	type-1 site
+T14	Unknown 236 241	M150G
+T15	Chemical 255 265	copper ion
+T16	Location 281 289	external
+T17	Category 290 297	ligands
+T18	Protein 320 328	enzyme's
+T19	Parameter 329 347	catalytic activity
+T20	Protein_part 353 364	type-1 site
+T21	Parameter 373 381	spectrum
+T22	Unknown 385 390	M150G
+T23	Parameter 397 405	)/A(600)
+T24	Value 406 410	0.71
+T25	Protein 458 475	nitrite reductase
+T26	Parameter 482 490	)/A(600)
+T27	Value 491 494	1.3
+T28	Parameter 502 520	midpoint potential
+T29	Protein_part 528 539	type-1 site
+T30	Protein 543 566	nitrite reductase M150G
+T31	Value 573 584	312(+/-5)mV
+T32	Chemical 592 600	hydrogen
+T33	Parameter 636 648	enzyme (E(M)
+T34	Value 649 660	213(+/-5)mV
+T35	Unknown 663 668	M150G
+T36	Value 675 680	lower
+T37	Parameter 681 707	catalytic activity (k(cat)
+T38	Value 708 722	133(+/-6)s(-1)
+T39	Protein 734 761	wild-type nitrite reductase
+T40	Organism 765 768	cat
+T41	Value 770 785	416(+/-10)s(-1)
+T42	Process 792 799	binding
+T43	Location 803 811	external
+T44	Category 812 819	ligands
+T45	Unknown 823 828	M150G
+T46	Parameter 847 857	properties
+T47	Parameter 859 877	midpoint potential
+T48	Value 884 889	225mV
+T49	Parameter 896 922	catalytic activity (k(cat)
+T50	Value 923 938	374(+/-28)s(-1)
+T51	Protein_part 950 955	M150H
+T52	Parameter 962 970	)/A(600)
+T53	Value 971 974	7.7
+T54	Parameter 976 980	E(M)
+T55	Value 981 992	104(+/-5)mV
+T56	Parameter 994 1000	k(cat)
+T57	Value 1001 1021	0.099(+/-0.006)s(-1)
+T58	Protein_part 1027 1032	M150T
+T59	Parameter 1039 1047	)/A(600)
+T60	Value 1048 1053	0.085
+T61	Parameter 1055 1059	E(M)
+T62	Value 1060 1071	340(+/-5)mV
+T63	Parameter 1073 1079	k(cat)
+T64	Value 1080 1094	126(+/-2)s(-1)
+T65	Unknown 1096 1104	variants
+T66	Geometrical_part 1125 1143	Crystal structures
+T67	Category 1158 1165	ligands
+T68	Protein_part 1208 1213	Met62
+T69	Chemical 1242 1244	Cu
+T70	Unknown 1276 1281	M150G
+T71	Process 1282 1290	mutation
+T72	Protein_part 1310 1321	type-1 site
+T73	Geometrical_part 1349 1357	geometry
+T74	Process 1380 1387	removal
+T75	Category 1405 1411	ligand
+T76	Process 1437 1444	control
+T77	Protein 1456 1462	enzyme
+T78	Parameter 1472 1481	potential
+T79	Chemical 1528 1534	copper
+T80	Protein_part 1552 1557	sites

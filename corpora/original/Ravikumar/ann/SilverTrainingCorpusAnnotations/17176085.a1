@@ -1,0 +1,75 @@
+T1	Chemical 0 7	Micelle
+T2	Process 16 23	folding
+T3	Organism 27 34	spinach
+T4	Body_part 35 44	thylakoid
+T5	Protein 45 67	soluble phosphoprotein
+T6	Value 71 76	9 kDa
+T7	Process 97 109	implications
+T8	Body_part 111 120	Thylakoid
+T9	Protein 121 143	soluble phosphoprotein
+T10	Value 147 152	9 kDa
+T11	Unknown 153 159	(TSP9)
+T12	Organism 185 190	plant
+T13	Protein 200 207	protein
+T14	Protein 312 334	Nonphosphorylated TSP9
+T15	Body_part 358 366	membrane
+T16	Process 397 412	phosphorylation
+T17	Parameter 416 424	fraction
+T18	Protein 432 451	phosphorylated TSP9
+T19	Body_part 481 487	stroma
+T20	Technique 492 508	NMR spectroscopy
+T21	Protein 556 578	nonphosphorylated TSP9
+T22	Chemical 587 603	aqueous solution
+T23	Body_part 611 619	membrane
+T24	Chemical 628 636	micelles
+T25	Protein 675 697	nonphosphorylated TSP9
+T26	Protein_part 719 723	T46E
+T27	Protein_part 726 730	T53E
+T28	Protein_part 733 737	T60E
+T29	Category 739 744	mimic
+T30	Chemical 752 769	triphosphorylated
+T31	Protein 778 782	TSP9
+T32	State 845 857	conformation
+T33	Process 865 873	presence
+T34	Chemical 877 895	detergent micelles
+T35	Chemical 901 908	micelle
+T36	Chemical 959 967	micelles
+T37	Chemical 978 981	SDS
+T38	Chemical 986 1013	dodecylphosphocholine (DPC)
+T39	Protein_part 1029 1051	N-terminal alpha-helix
+T40	Protein_part 1077 1089	primary site
+T41	Process 1093 1104	interaction
+T42	Protein 1113 1117	TSP9
+T43	Process 1122 1129	binding
+T44	Geometrical_part 1163 1170	helical
+T45	Protein_part 1185 1195	C-terminus
+T46	Unknown 1214 1222	elements
+T47	Protein_part 1238 1258	hydrophobic residues
+T48	Technique 1260 1263	NMR
+T49	Process 1264 1274	relaxation
+T50	Protein 1284 1306	nonphosphorylated TSP9
+T51	Chemical 1310 1322	SDS micelles
+T52	Molecule 1342 1350	molecule
+T53	Protein_part 1400 1422	N-terminal alpha-helix
+T54	Unknown 1439 1442	NOE
+T55	Molecular_Part 1469 1474	probe
+T56	Technique 1497 1500	NMR
+T57	Chemical 1532 1544	SDS micelles
+T58	Process 1545 1552	contact
+T59	Protein_part 1607 1614	regions
+T60	Protein 1618 1622	TSP9
+T61	Process 1666 1681	phosphorylation
+T62	Protein_part 1682 1687	sites
+T63	Protein_part 1689 1692	T46
+T64	Protein_part 1694 1697	T53
+T65	Protein_part 1704 1707	T60
+T66	Process 1715 1726	interaction
+T67	Process 1753 1765	dissociation
+T68	Protein 1769 1788	phosphorylated TSP9
+T69	Body_part 1798 1806	membrane
+T70	Process 1855 1859	role
+T71	Protein_part 1902 1909	regions
+T72	Protein 1913 1917	TSP9
+T73	Body_part 1925 1933	membrane
+T74	Process 1934 1945	association
+T75	Process 1961 1969	function

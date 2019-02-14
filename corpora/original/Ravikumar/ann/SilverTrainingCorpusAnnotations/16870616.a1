@@ -1,0 +1,52 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 28	murine
+T3	Protein 29 56	carnitine acetyltransferase
+T4	Category 60 77	ternary complexes
+T5	Category 87 97	substrates
+T6	Protein 99 125	Carnitine acyltransferases
+T7	Process 150 158	exchange
+T8	Chemical 162 166	acyl
+T9	Molecular_Part 167 173	groups
+T10	Protein 182 198	coenzyme A (CoA)
+T11	Chemical 203 212	carnitine
+T12	Process 234 239	roles
+T13	Body_part 248 266	cellular processes
+T14	Process 283 292	oxidation
+T15	Chemical 296 318	long-chain fatty acids
+T16	Body_part 326 338	mitochondria
+T17	Parameter 343 349	energy
+T18	Process 350 360	production
+T19	Process 381 388	targets
+T20	Chemical 393 397	drug
+T21	Physiology 416 424	diabetes
+T22	Physiology 429 436	obesity
+T23	Process 477 496	catalytic mechanism
+T24	Protein 506 513	enzymes
+T25	Parameter 539 549	resolution
+T26	Geometrical_part 550 567	crystal structure
+T27	Organism 582 588	murine
+T28	Protein 589 623	carnitine acetyltransferase (CrAT)
+T29	Category 629 644	ternary complex
+T30	Category 655 665	substrates
+T31	Protein 666 676	acetyl-CoA
+T32	Chemical 681 690	carnitine
+T33	Unknown 700 709	structure
+T34	Molecule 717 728	S554A/M564G
+T35	Molecule 729 742	double mutant
+T36	Category 748 763	ternary complex
+T37	Category 773 783	substrates
+T38	Protein 784 787	CoA
+T39	Chemical 792 809	hexanoylcarnitine
+T40	Technique 820 828	analyses
+T41	Unknown 848 858	structures
+T42	Category 871 877	mimics
+T43	Unknown 886 895	Michaelis
+T44	Category 896 905	complexes
+T45	Process 926 943	reverse reactions
+T46	Protein 951 957	enzyme
+T47	Parameter 982 986	time
+T48	Category 997 1006	complexes
+T49	Protein 1010 1014	CrAT
+T50	Process 1124 1143	catalytic mechanism
+T51	Protein 1147 1151	CrAT
+T52	Protein 1165 1191	carnitine acyltransferases

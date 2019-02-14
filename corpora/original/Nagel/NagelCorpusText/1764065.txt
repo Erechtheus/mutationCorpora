@@ -1,0 +1,4 @@
+A cDNA encoding bovine tissue factor has been isolated from a lambda gt11 bovine adrenal cDNA library . 
+The cDNA insert was 1877 base pairs with an open reading frame of 876 base pairs that encoded a presequence of 35 amino acids and a mature tissue factor of 257 amino acids . 
+Bovine tissue factor had three potential N-glycosylation sites, four extracellular cysteine residues, a cytoplasmic cysteine residue, and one tripeptide tryptophan-lysine-serine motif . 
+Identities of the amino acid sequences of the mature forms between the bovine tissue factor and each of human, mouse, and rabbit tissue factors were 70.4%, 57.2%, and 74.1%, respectively . 

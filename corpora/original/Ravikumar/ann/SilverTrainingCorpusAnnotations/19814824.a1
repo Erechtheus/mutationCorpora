@@ -1,0 +1,92 @@
+T1	State 0 14	Conformational
+T2	Process 15 22	changes
+T3	Organism 49 56	E. coli
+T4	Protein 57 70	Tryptophanase
+T5	Physiology 71 75	cold
+T6	Protein 109 116	enzymes
+T7	Process 142 146	loss
+T8	Parameter 150 158	activity
+T9	Parameter 166 178	temperatures
+T10	Protein 189 195	enzyme
+T11	Protein 199 212	tryptophanase
+T12	Protein 214 220	Trpase
+T13	Organism 227 243	Escherichia coli
+T14	Protein 245 251	Trpase
+T15	Chemical 257 282	pyridoxal phosphate (PLP)
+T16	Protein 293 310	tetrameric enzyme
+T17	Parameter 318 320	Mw
+T18	Value 324 330	210 kD
+T19	Chemical 332 335	PLP
+T20	Chemical 367 379	enamine bond
+T21	Protein_part 383 389	Lys270
+T22	Protein_part 397 408	active site
+T23	Process 414 424	incubation
+T24	Organism 433 440	E. coli
+T25	Protein 441 448	Trpases
+T26	Value 452 463	2 degrees C
+T27	Value 468 472	20 h
+T28	Chemical 498 510	enamine bond
+T29	Chemical 515 518	PLP
+T30	Process 519 526	release
+T31	Process 552 556	loss
+T32	Parameter 560 568	activity
+T33	Process 573 585	dissociation
+T34	Protein 591 597	dimers
+T35	Physiology 633 637	cold
+T36	Food 669 674	bears
+T37	Protein 688 695	protein
+T38	State 696 705	stability
+T39	Physiology 757 761	cold
+T40	Organism 774 781	E. coli
+T41	Protein 782 788	Trpase
+T42	Protein_part 798 802	Y74F
+T43	Protein_part 804 809	C298S
+T44	Protein_part 814 827	W330F mutants
+T45	Organism 853 860	E. coli
+T46	Protein 861 867	Trpase
+T47	Protein 885 891	Trpase
+T48	Protein 909 915	dimers
+T49	Value 927 939	25 degrees C
+T50	Value 974 985	2 degrees C
+T51	Geometrical_part 991 1009	crystal structures
+T52	Molecule 1021 1028	mutants
+T53	Protein_part 1030 1034	Y74F
+T54	Protein_part 1040 1045	C298S
+T55	Value 1083 1087	1.9A
+T56	Parameter 1088 1098	resolution
+T57	Molecule 1110 1117	mutants
+T58	State 1135 1152	open conformation
+T59	State 1169 1188	closed conformation
+T60	Organism 1200 1211	P. vulgaris
+T61	State 1235 1249	conformational
+T62	Process 1250 1256	change
+T63	Parameter 1289 1297	pressure
+T64	Physiology 1333 1337	cold
+T65	Organism 1350 1357	E. coli
+T66	Protein 1358 1365	Trpases
+T67	Chemical 1391 1394	PLP
+T68	Process 1395 1402	release
+T69	Process 1417 1421	loss
+T70	Parameter 1425 1433	activity
+T71	Molecule 1447 1454	mutants
+T72	Parameter 1488 1492	size
+T73	Protein_part 1500 1510	side chain
+T74	Protein_part 1519 1530	amino acids
+T75	Process 1556 1564	assembly
+T76	Protein 1579 1587	tetramer
+T77	Physiology 1623 1627	cold
+T78	Process 1635 1642	changes
+T79	Process 1658 1670	interactions
+T80	Chemical 1688 1691	PLP
+T81	Process 1692 1699	release
+T82	Process 1717 1729	interactions
+T83	Process 1779 1785	effect
+T84	Process 1789 1804	point mutations
+T85	Process 1829 1840	differences
+T86	Process 1848 1860	dissociation
+T87	Organism 1864 1871	E. coli
+T88	Protein 1872 1878	Trpase
+T89	Protein 1882 1888	dimers
+T90	Organism 1893 1904	P. vulgaris
+T91	Protein 1905 1911	Trpase
+T92	Protein 1915 1923	monomers

@@ -1,0 +1,62 @@
+T1	Process 4 15	interaction
+T2	Protein 19 27	thrombin
+T3	Protein 33 43	fibrinogen
+T4	Process 58 63	basis
+T5	Geometrical_part 89 98	structure
+T6	Category 106 121	ternary complex
+T7	Organism 125 130	human
+T8	Protein 131 145	alpha-thrombin
+T9	Unknown 170 178	analogue
+T10	Protein_part 182 198	fibrinopeptide A
+T11	Protein_part 205 231	C-terminal hirudin peptide
+T12	Technique 255 272	X-ray diffraction
+T13	Value 284 291	0.25 nm
+T14	Parameter 292 302	resolution
+T15	Protein_part 304 320	Fibrinopeptide A
+T16	Protein_part 366 386	hydrophobic residues
+T17	Process 414 421	binding
+T18	Protein_part 422 426	site
+T19	Organism 430 435	human
+T20	Protein 436 450	alpha-thrombin
+T21	Protein_part 452 475	Fibrinogen residue Phe8
+T22	Chemical 489 493	aryl
+T23	Protein_part 502 506	site
+T24	Protein 510 518	thrombin
+T25	Location 520 528	adjacent
+T26	Protein_part 532 556	fibrinogen residues Leu9
+T27	Protein_part 561 566	Val15
+T28	Protein_part 574 584	S2 subsite
+T29	Organism 590 597	species
+T30	Protein_part 611 627	fibrinopeptide A
+T31	State 660 672	conformation
+T32	Process 681 692	interaction
+T33	Protein 698 706	thrombin
+T34	Unknown 736 767	peptide fragment hirudin(54-65)
+T35	State 790 802	conformation
+T36	Protein 827 843	hirudin-thrombin
+T37	Category 844 851	complex
+T38	Protein 874 894	secondary fibrinogen
+T39	Protein_part 907 914	exosite
+T40	Protein_part 923 930	peptide
+T41	Process 939 951	restrictions
+T42	Protein 969 979	fibrinogen
+T43	Process 980 987	binding
+T44	Geometrical_part 993 1000	surface
+T45	Protein 1017 1034	thrombin molecule
+T46	Location 1045 1062	positions P1'-P3'
+T47	Protein 1099 1116	serine-proteinase
+T48	Category 1117 1127	inhibitors
+T49	Process 1167 1176	switching
+T50	Protein 1180 1188	thrombin
+T51	Parameter 1189 1197	activity
+T52	Protein 1204 1214	fibrinogen
+T53	Process 1215 1223	cleavage
+T54	Protein 1227 1236	protein-C
+T55	Process 1237 1247	activation
+T56	Protein 1251 1265	thrombomodulin
+T57	Process 1274 1283	formation
+T58	Process 1298 1310	interactions
+T59	Protein 1319 1327	thrombin
+T60	Protein 1332 1342	fibrinogen
+T61	Protein 1396 1404	thrombin
+T62	Physiology 1456 1485	congenital clotting disorders

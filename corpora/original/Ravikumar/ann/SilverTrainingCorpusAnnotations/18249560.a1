@@ -1,0 +1,48 @@
+T1	Parameter 14 24	resolution
+T2	Unknown 25 34	structure
+T3	Organism 40 62	Melanocarpus albomyces
+T4	Geometrical_part 89 106	crystal structure
+T5	Organism 112 134	Melanocarpus albomyces
+T6	Organism 173 205	fungus Trichoderma reesei (rMaL)
+T7	Value 209 213	1.3A
+T8	Parameter 214 224	resolution
+T9	Process 246 255	radiation
+T10	Value 259 263	100K
+T11	Parameter 300 310	resolution
+T12	Protein 342 361	multicopper oxidase
+T13	Unknown 375 384	structure
+T14	Physiology 438 447	behaviour
+T15	Chemical 455 461	copper
+T16	Chemical 493 505	copper atoms
+T17	Process 516 525	movements
+T18	Location 529 539	trinuclear
+T19	Chemical 540 552	site coppers
+T20	Process 558 567	direction
+T21	Chemical 575 588	type-3 copper
+T22	Process 589 595	motion
+T23	Chemical 621 634	type-2 copper
+T24	Unknown 653 662	structure
+T25	Value 666 670	1.3A
+T26	Parameter 671 681	resolution
+T27	Chemical 715 731	solvent cavities
+T28	Protein 739 745	enzyme
+T29	Unknown 754 763	structure
+T30	Protein 798 818	multicopper oxidases
+T31	Chemical 820 822	T2
+T32	Chemical 827 846	T3 solvent cavities
+T33	Unknown 863 871	SDS-gate
+T34	Protein_part 883 889	Ser142
+T35	Protein_part 891 897	Ser510
+T36	Protein_part 906 923	C-terminal Asp556
+T37	Protein 927 931	rMaL
+T38	Chemical 967 981	2-oxohistidine
+T39	Protein_part 995 1004	histidine
+T40	Chemical 1027 1032	metal
+T41	Process 1043 1052	oxidation
+T42	Location 1060 1070	trinuclear
+T43	Chemical 1071 1083	site coppers
+T44	Parameter 1121 1125	time
+T45	Chemical 1131 1145	2-oxohistidine
+T46	Protein 1169 1176	protein
+T47	Protein 1177 1184	crystal
+T48	Geometrical_part 1185 1194	structure

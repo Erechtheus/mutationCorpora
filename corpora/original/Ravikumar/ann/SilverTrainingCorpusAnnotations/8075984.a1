@@ -1,0 +1,75 @@
+T1	Unknown 0 10	Structures
+T2	Organism 17 20	HIV
+T3	Category 25 28	MHC
+T4	Process 29 36	binding
+T5	Unknown 37 45	fragment
+T6	Organism 51 56	human
+T7	Protein 57 60	CD4
+T8	Unknown 79 86	crystal
+T9	Body_part 113 119	T-cell
+T10	Geometrical_part 120 127	surface
+T11	Protein 128 144	glycoprotein CD4
+T12	Molecule 160 178	class II molecules
+T13	Category 186 224	major histocompatibility complex (MHC)
+T14	Body_part 250 256	T-cell
+T15	Process 257 267	activation
+T16	Organism 269 274	Human
+T17	Protein 275 278	CD4
+T18	Parameter 303 311	affinity
+T19	Organism 322 325	HIV
+T20	Protein 326 347	envelope glycoprotein
+T21	Protein 349 354	gp120
+T22	Body_part 367 373	T-cell
+T23	Physiology 374 383	infection
+T24	Organism 387 390	HIV
+T25	Geometrical_part 392 410	Crystal structures
+T26	Protein_part 414 439	amino-terminal two-domain
+T27	Protein_part 441 445	D1D2
+T28	Unknown 447 456	fragments
+T29	Organism 460 465	human
+T30	Protein 466 469	CD4
+T31	Protein_part 489 497	residues
+T32	Organism 512 515	HIV
+T33	Category 520 523	MHC
+T34	Process 524 536	interactions
+T35	Geometrical_part 598 615	crystal structure
+T36	Protein_part 625 639	D1D2 construct
+T37	Process 643 664	molecular replacement
+T38	Geometrical_part 693 710	crystal structure
+T39	Protein 714 718	D1D2
+T40	Unknown 725 734	structure
+T41	Process 760 768	contacts
+T42	Protein_part 825 834	domain D2
+T43	Process 872 882	refinement
+T44	Unknown 898 907	structure
+T45	Value 911 916	2.3 A
+T46	Parameter 917 927	resolution
+T47	Unknown 966 975	structure
+T48	Unknown 990 997	crystal
+T49	Value 1023 1028	2.9 A
+T50	Parameter 1029 1039	resolution
+T51	Protein_part 1061 1069	residues
+T52	Geometrical_part 1120 1124	loop
+T53	Protein_part 1126 1133	regions
+T54	Protein_part 1137 1139	D2
+T55	Process 1154 1166	Similarities
+T56	Unknown 1184 1193	structure
+T57	Unknown 1231 1244	D1D2 fragment
+T58	Body_part 1315 1323	junction
+T59	Protein_part 1332 1342	domains D2
+T60	Protein_part 1347 1349	D3
+T61	Process 1351 1362	Variability
+T62	State 1366 1378	conformation
+T63	Geometrical_part 1382 1387	loops
+T64	Category 1419 1422	MHC
+T65	Organism 1427 1430	HIV
+T66	Process 1431 1438	binding
+T67	Process 1475 1487	interactions
+T68	Parameter 1502 1509	density
+T69	Protein_part 1526 1536	side chain
+T70	Protein_part 1540 1545	Phe43
+T71	Unknown 1554 1562	crystals
+T72	Process 1584 1588	role
+T73	Protein_part 1598 1605	residue
+T74	Protein 1609 1614	gp120
+T75	Process 1615 1622	binding

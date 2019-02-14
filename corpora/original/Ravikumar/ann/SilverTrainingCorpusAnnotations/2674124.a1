@@ -1,0 +1,82 @@
+T1	Molecule 22 29	mutants
+T2	Protein 33 44	T4 lysozyme
+T3	Process 68 81	stabilization
+T4	Process 92 104	replacements
+T5	Protein_part 108 118	amino acid
+T6	Location 119 129	position 3
+T7	Organism 133 149	bacteriophage T4
+T8	Protein 150 158	lysozyme
+T9	State 180 204	conformational stability
+T10	Protein 212 219	protein
+T11	Parameter 248 262	hydrophobicity
+T12	Protein_part 270 277	residue
+T13	Unknown 302 322	M., Becktel, W. J., 
+T14	Unknown 326 341	Matthews, B. W.
+T15	Unknown 349 355	Nature
+T16	Protein 378 397	13 mutant lysozymes
+T17	Technique 406 431	site-directed mutagenesis
+T18	Unknown 437 445	variants
+T19	Protein_part 456 462	valine
+T20	Protein_part 464 467	I3V
+T21	Protein_part 488 496	tyrosine
+T22	Protein_part 498 501	I3Y
+T23	Geometrical_part 526 542	their structures
+T24	Geometrical_part 583 601	crystal structures
+T25	Unknown 611 619	variants
+T26	Value 623 628	1.7 A
+T27	Parameter 629 639	resolution
+T28	Geometrical_part 652 661	structure
+T29	Protein_part 669 679	I3V mutant
+T30	Protein 715 733	wild-type lysozyme
+T31	Protein_part 739 749	I3Y mutant
+T32	Process 766 773	changes
+T33	Geometrical_part 777 790	its structure
+T34	Protein_part 835 845	side chain
+T35	Protein_part 853 861	tyrosine
+T36	Location 894 902	interior
+T37	Protein 910 917	protein
+T38	Protein_part 926 952	amino-terminal polypeptide
+T39	Protein_part 954 966	residues 1-9
+T40	Value 974 983	0.6-1.1 A
+T41	Protein 1000 1009	wild-type
+T42	Geometrical_part 1010 1019	structure
+T43	Unknown 1076 1093	mutant structures
+T44	Chemical 1095 1102	solvent
+T45	Geometrical_part 1114 1121	surface
+T46	Parameter 1122 1126	area
+T47	Protein_part 1130 1139	residue 3
+T48	Location 1155 1163	adjacent
+T49	Protein_part 1166 1174	residues
+T50	Geometrical_part 1182 1193	folded form
+T51	Parameter 1215 1226	free energy
+T52	Process 1230 1243	stabilization
+T53	Process 1257 1265	transfer
+T54	Protein_part 1275 1283	residues
+T55	Geometrical_part 1297 1310	extended form
+T56	Location 1318 1326	interior
+T57	Protein 1341 1348	protein
+T58	Protein 1386 1393	protein
+T59	State 1394 1403	stability
+T60	Technique 1432 1440	analysis
+T61	Protein_part 1478 1498	variant Ile-3----Leu
+T62	Protein 1512 1530	wild-type lysozyme
+T63	Technique 1573 1585	calculations
+T64	Unknown 1609 1618	structure
+T65	Process 1620 1638	Noncrystallization
+T66	Protein 1647 1664	lysozyme variants
+T67	Location 1668 1678	position 3
+T68	Process 1700 1710	disruption
+T69	Process 1729 1737	contacts
+T70	Unknown 1745 1752	crystal
+T71	Protein_part 1758 1778	Ile-3----Val variant
+T72	Unknown 1840 1847	crystal
+T73	Process 1848 1856	contacts
+T74	Unknown 1865 1874	Ile-3----
+T75	Value 1874 1877	Tyr
+T76	Unknown 1878 1885	variant
+T77	Process 1910 1918	contacts
+T78	Chemical 1943 1973	protein-protein hydrogen bonds
+T79	Chemical 1990 2026	protein-water-protein hydrogen bonds
+T80	Chemical 2046 2059	hydrogen bond
+T81	Chemical 2074 2091	phenolic hydroxyl
+T82	Protein_part 2111 2119	tyrosine

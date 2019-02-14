@@ -1,0 +1,32 @@
+T1	Chemical 0 8	Hydrogen
+T2	Protein 34 40	enzyme
+T3	Process 51 59	reaction
+T4	Molecule 76 83	neutron
+T5	Geometrical_part 84 93	structure
+T6	Protein 97 115	D-xylose isomerase
+T7	Chemical 127 137	D-xylulose
+T8	Molecule 158 165	neutron
+T9	Technique 166 180	Laue technique
+T10	Chemical 224 238	hydrogen atoms
+T11	Protein 246 276	enzyme d-xylose isomerase (XI)
+T12	Molecule 282 289	neutron
+T13	Unknown 290 299	structure
+T14	Protein 315 317	XI
+T15	Category 329 336	product
+T16	Chemical 338 348	d-xylulose
+T17	Location 376 378	O5
+T18	Chemical 382 392	d-xylulose
+T19	Chemical 418 426	hydrogen
+T20	Protein_part 455 460	His54
+T21	Protein_part 468 474	Lys289
+T22	Protein 503 505	XI
+T23	Chemical 564 569	water
+T24	Protein 580 582	XI
+T25	Chemical 609 623	hydroxyl anion
+T26	Protein_part 653 655	C1
+T27	Protein_part 660 662	C2
+T28	Protein_part 678 682	site
+T29	Process 686 699	isomerization
+T30	Chemical 703 709	xylose
+T31	Process 758 766	reaction
+T32	Process 767 776	mechanism

@@ -1,0 +1,61 @@
+T1	Process 11 16	basis
+T2	Process 25 39	autoinhibition
+T3	Protein 43 64	focal adhesion kinase
+T4	Protein 78 93	tyrosine kinase
+T5	Process 94 103	signaling
+T6	Process 138 146	coupling
+T7	Protein 151 166	protein-protein
+T8	Process 167 179	interactions
+T9	Process 185 205	catalytic activation
+T10	Protein 207 235	Focal adhesion kinase  (FAK)
+T11	Protein 260 268	integrin
+T12	Protein 273 286	growth factor
+T13	Protein 287 296	receptors
+T14	Body_part 309 317	cellular
+T15	Process 318 327	responses
+T16	Body_part 338 342	cell
+T17	Process 343 351	adhesion
+T18	Process 353 362	migration
+T19	Process 368 376	survival
+T20	Geometrical_part 396 414	crystal structures
+T21	State 451 464	active states
+T22	Protein 469 472	FAK
+T23	Unknown 487 496	structure
+T24	Process 507 516	mechanism
+T25	Process 520 530	inhibition
+T26	Protein_part 544 566	N-terminal FERM domain
+T27	Protein 586 592	kinase
+T28	Protein_part 593 599	domain
+T29	Geometrical_part 634 639	cleft
+T30	Protein 659 662	FAK
+T31	Process 663 673	activation
+T32	Geometrical_part 674 678	loop
+T33	Protein 684 687	Src
+T34	Process 688 703	phosphorylation
+T35	Protein_part 724 735	FERM domain
+T36	Protein_part 751 757	Tyr397
+T37	Process 758 777	autophosphorylation
+T38	Protein 782 785	Src
+T39	Process 786 797	recruitment
+T40	Protein_part 798 802	site
+T41	Molecular_Part 822 828	linker
+T42	Protein_part 844 848	FERM
+T43	Protein 853 859	kinase
+T44	Protein_part 860 867	domains
+T45	Protein 880 905	phosphorylated FAK kinase
+T46	State 915 927	conformation
+T47	Body_part 936 942	immune
+T48	Protein_part 946 950	FERM
+T49	Process 951 961	inhibition
+T50	Technique 994 1002	analysis
+T51	Geometrical_part 1018 1030	architecture
+T52	Protein 1048 1051	FAK
+T53	Process 1068 1078	activation
+T54	Protein_part 1079 1087	sequence
+T55	Protein_part 1091 1102	FERM domain
+T56	Process 1103 1115	displacement
+T57	Molecular_Part 1117 1123	linker
+T58	Process 1124 1143	autophosphorylation
+T59	Protein 1145 1148	Src
+T60	Process 1149 1160	recruitment
+T61	Process 1171 1191	catalytic activation

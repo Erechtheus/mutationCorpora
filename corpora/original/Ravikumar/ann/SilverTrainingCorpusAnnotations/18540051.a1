@@ -1,0 +1,32 @@
+T1	Unknown 0 9	Structure
+T2	Organism 15 31	SARS coronavirus
+T3	Protein_part 40 47	peptide
+T4	Organism 61 66	human
+T5	Category 92 99	complex
+T6	Protein 100 127	class I molecule HLA-B*1501
+T7	Protein 133 168	human leukocyte antigen (HLA) class
+T8	Unknown 169 177	I system
+T9	Molecule 216 225	molecules
+T10	Protein_part 261 269	peptides
+T11	Body_part 273 290	cytotoxic T cells
+T12	Protein 292 302	HLA-B*1501
+T13	Unknown 321 327	member
+T14	Protein 335 342	HLA-B62
+T15	Protein 367 396	peptide-HLA-B*1501 structures
+T16	Geometrical_part 429 446	crystal structure
+T17	Protein 450 460	HLA-B*1501
+T18	Category 464 471	complex
+T19	Organism 479 495	SARS coronavirus
+T20	Protein_part 504 515	nonapeptide
+T21	Protein_part 517 526	VQQESSFVM
+T22	Parameter 557 567	resolution
+T23	Value 569 575	1.87 A
+T24	Protein_part 582 589	peptide
+T25	Unknown 616 617	B
+T26	Unknown 622 623	F
+T27	Protein_part 646 658	Glu4 residue
+T28	Protein_part 695 702	peptide
+T29	Geometrical_part 711 717	groove
+T30	Process 743 755	interactions
+T31	Body_part 773 779	T-cell
+T32	Protein 780 788	receptor

@@ -1,0 +1,55 @@
+T1	Process 11 16	basis
+T2	Chemical 34 38	drug
+T3	Parameter 39 49	resistance
+T4	Process 65 75	generation
+T5	Chemical 76 103	benzophenone non-nucleoside
+T6	Organism 104 109	HIV-1
+T7	Protein 110 117	reverse
+T8	Protein 118 131	transcriptase
+T9	Category 132 142	inhibitors
+T10	Process 157 166	emergence
+T11	Organism 180 185	virus
+T12	Process 192 202	generation
+T13	Category 203 263	non-nucleoside HIV reverse transcriptase inhibitors (NNRTIs)
+T14	Chemical 278 282	drug
+T15	Parameter 283 293	resistance
+T16	Organism 333 336	HIV
+T17	Physiology 337 346	infection
+T18	Geometrical_part 348 366	Crystal structures
+T19	Organism 370 375	HIV-1
+T20	Unknown 376 378	RT
+T21	Chemical 394 407	benzophenones
+T22	Process 422 432	inhibition
+T23	Organism 436 439	HIV
+T24	Molecule 440 447	mutants
+T25	Chemical 485 497	benzophenone
+T26	Unknown 498 506	GF128590
+T27	Protein 516 523	factors
+T28	Chemical 564 573	compounds
+T29	Unknown 589 595	GW4511
+T30	Unknown 597 605	GW678248
+T31	Unknown 608 625	Meta-substituents
+T32	Chemical 633 647	benzophenone A
+T33	Process 670 676	effect
+T34	Process 697 705	contacts
+T35	Protein_part 725 729	W229
+T36	Process 754 762	stacking
+T37	Process 763 775	interactions
+T38	Protein_part 800 804	Y181
+T39	Protein_part 805 815	side chain
+T40	Chemical 875 900	main-chain hydrogen bonds
+T41	Category 908 917	inhibitor
+T42	Unknown 973 983	Structures
+T43	Unknown 987 997	mutant RTs
+T44	Protein_part 999 1004	K103N
+T45	Protein_part 1006 1017	V106A/Y181C
+T46	Chemical 1024 1037	benzophenones
+T47	Process 1056 1070	rearrangements
+T48	Category 1078 1084	NNRTIs
+T49	Process 1115 1125	adaptation
+T50	Category 1139 1144	NNRTI
+T51	Geometrical_part 1145 1151	pocket
+T52	Category 1155 1164	inhibitor
+T53	Process 1165 1178	rearrangement
+T54	Chemical 1208 1221	benzophenones
+T55	Category 1249 1255	NNRTIs

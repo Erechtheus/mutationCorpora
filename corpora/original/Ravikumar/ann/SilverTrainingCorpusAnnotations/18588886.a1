@@ -1,0 +1,43 @@
+T1	Protein_part 0 10	Multi-site
+T2	Category 11 20	substrate
+T3	Process 21 28	binding
+T4	Process 33 42	interplay
+T5	Organism 46 52	barley
+T6	Protein 53 68	alpha-amylase 1
+T7	Protein 78 95	starch hydrolases
+T8	Chemical 114 126	carbohydrate
+T9	Process 127 134	binding
+T10	Protein_part 135 140	sites
+T11	Protein_part 156 167	active site
+T12	Protein_part 185 195	multi-site
+T13	Category 196 205	substrate
+T14	Process 206 218	interactions
+T15	Organism 252 258	barley
+T16	Protein 259 272	alpha-amylase
+T17	Protein_part 278 284	Tyr380
+T18	Protein_part 307 327	non-catalytic domain
+T19	Protein_part 333 339	Tyr105
+T20	Protein_part 343 353	subsite -6
+T21	Protein_part 361 372	active site
+T22	Geometrical_part 373 378	cleft
+T23	Chemical 393 405	carbohydrate
+T24	Process 406 413	binding
+T25	Protein_part 414 422	residues
+T26	Protein_part 440 444	site
+T27	Protein_part 461 480	mutants Y105A/Y380A
+T28	Protein_part 485 496	Y105A/Y380M
+T29	Protein_part 515 521	Tyr380
+T30	Protein_part 526 532	Tyr105
+T31	Process 572 579	binding
+T32	Process 581 592	degradation
+T33	Chemical 618 633	polysaccharides
+T34	Protein_part 641 647	Tyr105
+T35	Chemical 664 679	oligosaccharide
+T36	Process 680 690	hydrolysis
+T37	Process 712 730	structure/function
+T38	Parameter 731 744	relationships
+T39	Protein_part 752 766	secondary site
+T40	Protein_part 787 798	Y380A/H395A
+T41	Protein_part 800 805	Y380A
+T42	Molecule 811 821	H395A AMY1
+T43	Molecule 822 829	mutants

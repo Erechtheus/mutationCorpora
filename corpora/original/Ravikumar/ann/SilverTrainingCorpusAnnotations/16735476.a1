@@ -1,0 +1,64 @@
+T1	Organism 4 30	Mycobacterium tuberculosis
+T2	Protein 31 42	LipB enzyme
+T3	Protein_part 58 78	cysteine/lysine dyad
+T4	Protein 79 94	acyltransferase
+T5	Chemical 96 107	Lipoic acid
+T6	Process 129 139	activation
+T7	Protein 155 162	protein
+T8	Category 163 172	complexes
+T9	Physiology 189 198	metabolic
+T10	Process 199 208	processes
+T11	Process 210 216	Growth
+T12	Organism 220 246	Mycobacterium tuberculosis
+T13	Process 260 267	pathway
+T14	Chemical 281 288	lipoate
+T15	Process 289 299	attachment
+T16	Molecular_Part 300 305	group
+T17	Chemical 351 364	octanoic acid
+T18	Molecular_Part 365 371	moiety
+T19	Organism 376 384	patients
+T20	Chemical 390 403	multiple-drug
+T21	Organism 414 429	M. tuberculosis
+T22	Process 431 441	expression
+T23	Protein 449 453	gene
+T24	Process 464 471	pathway
+T25	Protein 473 477	lipB
+T26	Protein 492 531	octanoyl-[acyl carrier protein]-protein
+T27	Protein 532 547	acyltransferase
+T28	Parameter 595 604	potential
+T29	Process 605 611	target
+T30	Chemical 636 650	antiinfectives
+T31	Physiology 659 671	tuberculosis
+T32	Geometrical_part 694 711	crystal structure
+T33	Organism 719 734	M. tuberculosis
+T34	Protein 735 747	LipB protein
+T35	Parameter 758 768	resolution
+T36	Chemical 792 801	thioether
+T37	Protein_part 809 820	active-site
+T38	Category 821 828	complex
+T39	Chemical 834 847	decanoic acid
+T40	Protein 878 889	transferase
+T41	Protein_part 905 925	cysteine/lysine dyad
+T42	Protein 926 941	acyltransferase
+T43	Unknown 956 965	invariant
+T44	Protein_part 966 974	residues
+T45	Protein_part 976 983	Lys-142
+T46	Protein_part 988 995	Cys-176
+T47	Protein 1023 1042	acid/base catalysts
+T48	Technique 1044 1052	Analysis
+T49	Unknown 1056 1058	MS
+T50	Protein 1076 1080	LipB
+T51	Process 1081 1099	catalytic reaction
+T52	Location 1124 1132	internal
+T53	Chemical 1133 1159	thioesteracyl intermediate
+T54	Process 1172 1182	comparison
+T55	Protein 1186 1190	LipB
+T56	Protein 1196 1211	lipoate protein
+T57	Protein 1212 1220	ligase A
+T58	Protein_part 1270 1290	sequence active-site
+T59	Protein 1311 1318	enzymes
+T60	Chemical 1320 1341	4'-phosphopantetheine
+T61	Chemical 1348 1361	octanoic acid
+T62	Process 1362 1373	recognition
+T63	Parameter 1379 1396	specific property
+T64	Protein 1400 1404	LipB

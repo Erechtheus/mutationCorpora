@@ -1,0 +1,44 @@
+T1	Value 8 13	1.8 A
+T2	Parameter 14 24	resolution
+T3	Geometrical_part 25 42	crystal structure
+T4	Organism 50 57	porcine
+T5	Protein 58 73	epsilon-trypsin
+T6	Organism 75 82	Porcine
+T7	Protein 83 98	epsilon-trypsin
+T8	Protein 104 115	three-chain
+T9	Protein 128 135	trypsin
+T10	Process 153 162	autolysis
+T11	Organism 166 173	porcine
+T12	Protein 174 186	beta-trypsin
+T13	Protein_part 215 226	Lys60-Ser61
+T14	Protein_part 231 244	Lys145-Ser146
+T15	Geometrical_part 250 267	crystal structure
+T16	Process 301 322	molecular replacement
+T17	Value 346 351	1.8 A
+T18	Parameter 352 362	resolution
+T19	Parameter 368 375	R-value
+T20	Value 394 399	0.184
+T21	Process 401 411	Comparison
+T22	Molecule 421 429	electron
+T23	Parameter 430 437	density
+T24	Organism 445 452	porcine
+T25	Protein 453 465	beta-trypsin
+T26	Protein 467 471	PTRY
+T27	Category 476 490	complex (BBIT)
+T28	Organism 509 522	native bovine
+T29	Protein 523 535	beta-trypsin
+T30	Protein 537 541	HTNA
+T31	Process 564 571	changes
+T32	Process 586 595	autolysis
+T33	Process 614 621	changes
+T34	Location 629 642	active center
+T35	Process 662 671	autolysis
+T36	Protein_part 685 696	Lys60-Ser61
+T37	Protein_part 701 714	Lys145-Ser146
+T38	State 735 747	conformation
+T39	Protein_part 751 757	His-57
+T40	Location 765 778	active center
+T41	Process 814 818	loss
+T42	Organism 822 829	porcine
+T43	Protein 830 845	epsilon-trypsin
+T44	Parameter 846 854	activity

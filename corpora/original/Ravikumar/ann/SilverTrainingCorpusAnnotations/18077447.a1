@@ -1,0 +1,80 @@
+T1	Process 11 16	basis
+T2	Process 33 41	cleavage
+T3	Category 45 88	bovine pancreatic trypsin inhibitor  (BPTI)
+T4	Organism 92 97	human
+T5	Protein 98 109	mesotrypsin
+T6	Organism 111 116	Human
+T7	Protein 117 128	mesotrypsin
+T8	Molecule 135 142	isoform
+T9	Protein 146 153	trypsin
+T10	Parameter 176 186	resistance
+T11	Protein 190 209	polypeptide trypsin
+T12	Category 210 220	inhibitors
+T13	Category 266 276	inhibitors
+T14	Category 280 290	substrates
+T15	Process 300 312	substitution
+T16	Chemical 316 324	arginine
+T17	Protein_part 350 361	glycine 193
+T18	Protein_part 369 388	trypsin active site
+T19	Protein 423 429	factor
+T20	Category 437 446	inhibitor
+T21	Parameter 447 457	resistance
+T22	Protein 461 472	mesotrypsin
+T23	Process 483 495	substitution
+T24	Category 517 526	inhibitor
+T25	Process 527 535	cleavage
+T26	Category 550 592	Bovine pancreatic trypsin inhibitor (BPTI)
+T27	Process 623 631	cleavage
+T28	Category 642 649	complex
+T29	Protein 655 662	trypsin
+T30	Process 693 702	challenge
+T31	Protein 706 717	mesotrypsin
+T32	Parameter 728 736	activity
+T33	Protein_part 744 755	polypeptide
+T34	Category 756 766	inhibitors
+T35	Parameter 784 801	kinetic constants
+T36	Protein 806 817	mesotrypsin
+T37	Category 850 859	inhibitor
+T38	Organism 871 876	human
+T39	Protein 886 893	trypsin
+T40	Process 906 916	inhibition
+T41	Process 925 933	cleavage
+T42	Category 937 941	BPTI
+T43	Geometrical_part 954 972	crystal structures
+T44	Category 981 997	mesotrypsin-BPTI
+T45	Organism 1002 1007	human
+T46	Category 1017 1029	trypsin-BPTI
+T47	Category 1030 1039	complexes
+T48	Protein 1054 1065	mesotrypsin
+T49	Category 1074 1078	BPTI
+T50	Parameter 1086 1099	rate constant
+T51	Value 1112 1120	350-fold
+T52	Organism 1134 1139	human
+T53	Protein 1149 1156	trypsin
+T54	Value 1161 1173	150,000-fold
+T55	Organism 1187 1193	bovine
+T56	Protein 1194 1201	trypsin
+T57	Geometrical_part 1212 1230	crystal structures
+T58	State 1250 1264	conformational
+T59	Process 1265 1276	adjustments
+T60	Protein_part 1296 1307	side chains
+T61	Category 1315 1331	mesotrypsin-BPTI
+T62	Process 1340 1349	formation
+T63	Geometrical_part 1377 1383	steric
+T64	Protein_part 1404 1411	Arg-193
+T65	Category 1439 1455	mesotrypsin-BPTI
+T66	Process 1473 1482	catalysis
+T67	Process 1509 1518	repulsion
+T68	Protein_part 1546 1565	mesotrypsin Arg-193
+T69	Category 1570 1574	BPTI
+T70	Protein_part 1575 1581	Arg-17
+T71	Process 1591 1602	elimination
+T72	Chemical 1610 1624	hydrogen bonds
+T73	Protein 1637 1643	enzyme
+T74	Chemical 1652 1657	amine
+T75	Molecular_Part 1666 1671	group
+T76	Category 1684 1688	BPTI
+T77	Process 1732 1744	interactions
+T78	Molecular_Part 1764 1769	group
+T79	Process 1770 1782	dissociation
+T80	Process 1787 1798	deacylation

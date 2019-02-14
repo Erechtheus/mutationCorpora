@@ -1,0 +1,86 @@
+T1	Process 0 21	Allosteric regulation
+T2	Process 26 39	communication
+T3	Protein 48 56	subunits
+T4	Protein 60 92	uracil phosphoribosyltransferase
+T5	Organism 98 121	Sulfolobus solfataricus
+T6	Protein 123 165	Uracil phosphoribosyltransferase (UPRTase)
+T7	Process 180 190	conversion
+T8	Chemical 194 225	5-phosphate-alpha-1-diphosphate
+T9	Chemical 227 231	PRPP
+T10	Chemical 237 243	uracil
+T11	Chemical 247 277	uridine 5'-monophosphate (UMP)
+T12	Chemical 282 293	diphosphate
+T13	Protein 299 306	UPRTase
+T14	Organism 312 335	Sulfolobus solfataricus
+T15	Process 349 359	regulation
+T16	Chemical 363 387	nucleoside triphosphates
+T17	Protein 400 408	UPRTases
+T18	Organism 420 429	organisms
+T19	Process 449 470	allosteric regulation
+T20	Geometrical_part 472 490	crystal structures
+T21	Organism 511 526	S. solfataricus
+T22	Protein 527 534	UPRTase
+T23	Category 538 545	complex
+T24	Chemical 551 554	UMP
+T25	Chemical 564 567	UMP
+T26	Category 587 596	inhibitor
+T27	Chemical 597 600	CTP
+T28	Unknown 610 619	structure
+T29	Chemical 625 628	UMP
+T30	Protein_part 650 662	active sites
+T31	Category 689 698	complexes
+T32	Protein 704 713	tetramers
+T33	Process 725 736	differences
+T34	Protein 744 752	subunits
+T35	Process 772 783	arrangement
+T36	Protein 792 803	UPRTase-UMP
+T37	Category 804 811	complex
+T38	Chemical 817 830	peptide  bond
+T39	Protein_part 851 867	arginine residue
+T40	Protein_part 869 874	Arg80
+T41	Protein_part 894 901	residue
+T42	Protein_part 903 908	Leu79
+T43	Geometrical_part 919 922	cis
+T44	State 923 935	conformation
+T45	Protein 951 959	subunits
+T46	Geometrical_part 966 971	trans
+T47	State 972 984	conformation
+T48	Protein 1011 1019	tetramer
+T49	Protein 1044 1050	dimers
+T50	Protein 1080 1088	subunits
+T51	Protein 1101 1125	UPRTase-UMP-CTP tetramer
+T52	Chemical 1127 1130	CTP
+T53	Process 1131 1138	binding
+T54	State 1151 1163	conformation
+T55	Protein_part 1167 1172	Arg80
+T56	Protein_part 1182 1187	Arg80
+T57	State 1188 1200	conformation
+T58	Protein 1208 1223	UPRTase-UMP-CTP
+T59	Category 1224 1231	complex
+T60	Process 1251 1258	binding
+T61	Category 1266 1275	substrate
+T62	Chemical 1276 1280	PRPP
+T63	Process 1286 1295	different
+T64	State 1296 1309	conformations
+T65	Protein_part 1313 1318	Arg80
+T66	Process 1330 1344	rearrangements
+T67	Geometrical_part 1352 1372	quaternary structure
+T68	Protein_part 1389 1396	residue
+T69	Process 1411 1415	role
+T70	Process 1419 1429	regulation
+T71	Protein 1437 1443	enzyme
+T72	Process 1452 1465	communication
+T73	Protein 1474 1482	subunits
+T74	Chemical 1488 1499	ribose ring
+T75	Chemical 1503 1506	UMP
+T76	State 1527 1540	conformations
+T77	Geometrical_part 1548 1551	cis
+T78	Protein 1556 1570	trans subunits
+T79	Protein 1578 1598	UPRTase-UMP tetramer
+T80	Process 1615 1626	differences
+T81	Process 1634 1646	interactions
+T82	Protein_part 1678 1684	Asp209
+T83	Protein_part 1690 1701	active-site
+T84	Process 1702 1713	differences
+T85	Parameter 1744 1751	kinetic
+T86	Protein_part 1825 1842	C-terminal Gly216

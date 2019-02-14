@@ -1,0 +1,61 @@
+T1	Body_part 7 10	TCR
+T2	Process 11 23	conservation
+T3	Body_part 36 42	T cell
+T4	Unknown 75 79	B*57
+T5	Body_part 91 97	immune
+T6	Process 98 106	response
+T7	Organism 110 115	HIV-1
+T8	Physiology 116 125	infection
+T9	Unknown 127 135	HLA-B*57
+T10	Physiology 162 169	disease
+T11	Process 170 181	progression
+T12	Physiology 185 189	AIDS
+T13	Body_part 195 206	CD8+ T cell
+T14	Process 207 216	responses
+T15	Unknown 220 224	B*57
+T16	Protein 236 244	epitopes
+T17	Process 290 296	effect
+T18	Unknown 329 333	B*57
+T19	Protein 345 360	p24 KAFSPEVIPMF
+T20	Protein 362 366	KF11
+T21	Body_part 368 374	immune
+T22	Process 375 383	response
+T23	Physiology 415 432	chronic infection
+T24	Protein 467 471	KF11
+T25	Organism 472 477	clade
+T26	Protein_part 478 498	variants KGFNPEVIPMF
+T27	Unknown 500 507	A2G,S4N
+T28	Unknown 513 524	KAFNPEIIMPF
+T29	Unknown 526 533	S4N,V7I
+T30	Location 546 556	position 4
+T31	Process 557 565	mutation
+T32	Protein 600 604	KF11
+T33	Body_part 614 621	T cells
+T34	Body_part 651 659	cellular
+T35	Protein 697 701	KF11
+T36	Protein 707 714	A2G,S4N
+T37	Protein 716 724	epitopes
+T38	Process 753 762	responses
+T39	Unknown 767 774	A2G,S4N
+T40	Protein 780 784	KF11
+T41	Body_part 794 801	T cells
+T42	Process 844 855	differences
+T43	Protein_part 879 891	B*57-peptide
+T44	Category 892 901	complexes
+T45	Geometrical_part 952 961	structure
+T46	Protein 965 969	KF11
+T47	Category 974 981	complex
+T48	Unknown 987 993	B*5703
+T49	Body_part 1026 1037	CD8+ T cell
+T50	Protein 1066 1073	epitope
+T51	Unknown 1110 1113	TCR
+T52	Process 1114 1126	conservation
+T53	Protein 1144 1154	TCR Valpha
+T54	Protein 1159 1170	Vbeta chain
+T55	Protein_part 1211 1217	region
+T56	Unknown 1280 1298	B*5701/B*5703-KF11
+T57	Body_part 1308 1314	immune
+T58	Process 1315 1324	responses
+T59	Physiology 1347 1354	disease
+T60	Process 1355 1366	progression
+T61	Chemical 1429 1436	vaccine

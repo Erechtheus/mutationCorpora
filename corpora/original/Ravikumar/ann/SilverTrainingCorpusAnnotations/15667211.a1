@@ -1,0 +1,80 @@
+T1	Technique 0 16	Crystallographic
+T2	Technique 35 43	analysis
+T3	Process 51 58	binding
+T4	Chemical 62 80	S-octylglutathione
+T5	Protein_part 89 94	Tyr 7
+T6	Protein_part 98 101	Phe
+T7	Molecule 102 108	mutant
+T8	Protein 112 137	glutathione S-transferase
+T9	Organism 143 164	Schistosoma japonicum
+T10	Protein 166 192	Glutathione S-transferases
+T11	Unknown 199 205	family
+T12	Protein 225 232	enzymes
+T13	Process 249 259	metabolism
+T14	Chemical 263 268	drugs
+T15	Chemical 273 284	xenobiotics
+T16	Protein_part 290 307	tyrosine residues
+T17	Protein_part 309 314	Tyr 7
+T18	Protein_part 319 326	Tyr 111
+T19	Protein_part 335 346	active site
+T20	Protein 354 360	enzyme
+T21	Process 379 383	role
+T22	Process 391 398	binding
+T23	Process 403 412	catalysis
+T24	Category 416 425	substrate
+T25	Category 426 433	ligands
+T26	Geometrical_part 439 457	crystal structures
+T27	Organism 461 482	Schistosoma japonicum
+T28	Protein_part 483 519	glutathione S-transferase tyrosine 7
+T29	Protein_part 523 536	phenylalanine
+T30	Molecule 537 543	mutant
+T31	Unknown 545 555	SjGST(Y7F)
+T32	Category 560 567	complex
+T33	Chemical 577 604	substrate glutathione (GSH)
+T34	Category 625 634	inhibitor
+T35	Chemical 635 667	S-octylglutathione (S-octyl-GSH)
+T36	Technique 728 753	fluorescence spectroscopy
+T37	Process 810 819	titration
+T38	Technique 820 831	calorimetry
+T39	Process 852 868	characterization
+T40	Category 876 882	ligand
+T41	Process 891 898	process
+T42	Process 904 911	binding
+T43	Chemical 915 926	S-octyl-GSH
+T44	Unknown 930 940	SjGST(Y7F)
+T45	Parameter 985 997	temperatures
+T46	Value 998 1016	below 30 degrees C
+T47	Technique 1022 1035	stoichiometry
+T48	Process 1044 1051	binding
+T49	Molecule 1059 1067	molecule
+T50	Chemical 1071 1082	S-octyl-GSH
+T51	Protein 1087 1099	mutant dimer
+T52	Chemical 1117 1134	alkyl derivatives
+T53	Technique 1147 1160	stoichiometry
+T54	Molecule 1168 1177	molecules
+T55	Protein 1182 1194	mutant dimer
+T56	Unknown 1200 1210	SjGST(Y7F)
+T57	Chemical 1211 1224	GSH structure
+T58	Process 1252 1263	differences
+T59	Protein 1280 1296	wild-type enzyme
+T60	Unknown 1315 1324	structure
+T61	Unknown 1328 1338	SjGST(Y7F)
+T62	Chemical 1339 1350	S-octyl-GSH
+T63	Process 1369 1376	binding
+T64	Chemical 1380 1391	S-octyl-GSH
+T65	Process 1398 1402	lack
+T66	Geometrical_part 1406 1414	symmetry
+T67	Geometrical_part 1441 1449	symmetry
+T68	Geometrical_part 1450 1461	space group
+T69	Unknown 1469 1479	SjGST(Y7F)
+T70	Chemical 1480 1500	S-octyl-GSH crystals
+T71	Unknown 1533 1543	SjGST(Y7F)
+T72	Chemical 1544 1556	GSH crystals
+T73	Process 1582 1589	binding
+T74	Chemical 1594 1605	S-octyl-GSH
+T75	Protein 1615 1622	subunit
+T76	State 1641 1655	conformational
+T77	Process 1656 1663	changes
+T78	Process 1696 1700	lack
+T79	Process 1704 1711	binding
+T80	Protein 1719 1728	B subunit

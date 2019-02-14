@@ -1,0 +1,80 @@
+T1	Process 15 43	biochemical characterization
+T2	Protein 51 91	type II fructose-1,6-bisphosphatase GlpX
+T3	Organism 97 113	Escherichia coli
+T4	Physiology 115 130	Gluconeogenesis
+T5	Physiology 147 156	metabolic
+T6	Process 157 164	pathway
+T7	Chemical 181 188	glucose
+T8	Chemical 194 220	noncarbohydrate precursors
+T9	Chemical 229 242	organic acids
+T10	Chemical 244 255	fatty acids
+T11	Protein_part 257 268	amino acids
+T12	Chemical 273 281	glycerol
+T13	Protein 283 310	Fructose-1,6-bisphosphatase
+T14	Protein 318 324	enzyme
+T15	Physiology 328 343	gluconeogenesis
+T16	Organism 362 371	organisms
+T17	Process 382 391	different
+T18	Protein 409 416	enzymes
+T19	Organism 464 480	Escherichia coli
+T20	Protein 489 526	class II fructose-1,6-bisphosphatases
+T21	Protein 528 532	GlpX
+T22	Protein 537 541	YggF
+T23	Process 554 563	different
+T24	Parameter 574 584	properties
+T25	Geometrical_part 607 624	crystal structure
+T26	Protein 630 666	class II fructose-1,6-bisphosphatase
+T27	Protein 668 672	GlpX
+T28	State 695 700	state
+T29	Category 712 719	complex
+T30	Category 728 737	substrate
+T31	Chemical 739 764	fructose 1,6-bisphosphate
+T32	Category 769 778	inhibitor
+T33	Chemical 780 789	phosphate
+T34	Geometrical_part 796 813	crystal structure
+T35	Protein 833 837	GlpX
+T36	Geometrical_part 867 872	shape
+T37	Geometrical_part 882 901	alpha/beta-sandwich
+T38	Protein_part 902 909	domains
+T39	Geometrical_part 915 924	core fold
+T40	Protein 928 932	GlpX
+T41	Chemical 968 971	Li+
+T42	Protein 982 994	phosphatases
+T43	Process 1053 1072	catalytic mechanism
+T44	Unknown 1078 1087	structure
+T45	Protein 1095 1099	GlpX
+T46	Category 1100 1107	complex
+T47	Chemical 1113 1138	fructose 1,6-bisphosphate
+T48	Protein_part 1157 1168	active site
+T49	Protein_part 1192 1199	domains
+T50	Protein_part 1235 1243	residues
+T51	Chemical 1261 1271	metal ions
+T52	Category 1280 1289	substrate
+T53	Chemical 1301 1310	metal ion
+T54	Chemical 1323 1334	phosphate 6
+T55	Category 1342 1351	substrate
+T56	Chemical 1353 1372	Inorganic phosphate
+T57	Parameter 1392 1400	activity
+T58	Protein 1409 1413	GlpX
+T59	Protein 1418 1422	YggF
+T60	Geometrical_part 1432 1449	crystal structure
+T61	Protein 1457 1461	GlpX
+T62	Category 1462 1469	complex
+T63	Chemical 1475 1484	phosphate
+T64	Category 1507 1516	inhibitor
+T65	Molecule 1517 1525	molecule
+T66	Protein_part 1539 1550	active site
+T67	Protein_part 1552 1559	Alanine
+T68	Process 1560 1571	replacement
+T69	Process 1572 1583	mutagenesis
+T70	Protein 1587 1591	GlpX
+T71	Protein_part 1616 1624	residues
+T72	Parameter 1639 1647	activity
+T73	Protein_part 1667 1674	Thr(90)
+T74	Protein_part 1700 1707	residue
+T75	Process 1726 1733	insight
+T76	Process 1743 1763	molecular mechanisms
+T77	Category 1771 1780	substrate
+T78	Process 1797 1806	catalysis
+T79	Protein 1810 1814	GlpX
+T80	Protein 1825 1862	class II fructose-1,6-bisphosphatases

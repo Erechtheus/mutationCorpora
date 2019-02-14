@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 60	bovine heart phosphotyrosyl phosphatase
+T3	Value 64 69	2.2-A
+T4	Parameter 70 80	resolution
+T5	Technique 92 114	X-ray crystallographic
+T6	Unknown 115 124	structure
+T7	Unknown 130 136	member
+T8	Parameter 157 173	molecular weight
+T9	Value 180 186	18,000
+T10	Protein 188 215	phosphotyrosyl phosphatases
+T11	Protein 230 277	Bovine heart phosphotyrosyl phosphatase (BHPTP)
+T12	Value 327 330	94%
+T13	Parameter 331 348	sequence identity
+T14	Protein 356 365	isoenzyme
+T15	Body_part 375 383	red cell
+T16	Protein 384 400	acid phosphatase
+T17	Organism 428 433	human
+T18	Body_part 434 441	tissues
+T19	Value 464 469	2.2-A
+T20	Geometrical_part 471 488	crystal structure
+T21	Protein 492 497	BHPTP
+T22	Protein 513 519	enzyme
+T23	Protein_part 534 545	four-strand
+T24	Geometrical_part 554 562	parallel
+T25	Protein_part 563 573	beta sheet
+T26	Protein_part 579 592	alpha helices
+T27	Location 608 613	sides
+T28	Geometrical_part 646 659	Rossmann fold
+T29	Chemical 669 682	phosphate ion
+T30	Protein_part 695 706	active site
+T31	Geometrical_part 722 726	loop
+T32	Protein_part 740 761	beta alpha beta motif
+T33	Protein_part 769 779	C-terminus
+T34	Protein_part 787 797	beta sheet
+T35	Protein 816 825	enzymatic
+T36	Protein_part 846 854	residues
+T37	Protein 881 904	molecular weight PTPase
+T38	Protein_part 905 922	active site motif
+T39	Chemical 948 956	arginine
+T40	Protein_part 958 964	Arg 18
+T41	Protein_part 983 991	cysteine
+T42	Protein_part 993 999	Cys 12
+T43	Process 1032 1036	role
+T44	Protein_part 1042 1051	histidine
+T45	Protein_part 1053 1059	His 72
+T46	Protein_part 1097 1108	active site
+T47	Unknown 1127 1136	structure
+T48	Molecule 1161 1167	proton
+T49	Category 1168 1173	donor
+T50	Molecular_Part 1183 1196	leaving group
+T51	Chemical 1204 1221	tyrosyl phosphate
+T52	Process 1222 1230	cleavage
+T53	Geometrical_part 1232 1239	Surface
+T54	Protein 1248 1253	BHPTP
+T55	Protein_part 1296 1318	phosphotyrosyl peptide
+T56	Process 1319 1326	binding
+T57	Process 1328 1338	Comparison
+T58	Protein 1347 1352	BHPTP
+T59	Geometrical_part 1353 1362	structure
+T60	Protein 1405 1417	enzyme PTP1B
+T61	Protein 1478 1490	phosphatases
+T62	Protein_part 1507 1534	phosphotyrosine active site

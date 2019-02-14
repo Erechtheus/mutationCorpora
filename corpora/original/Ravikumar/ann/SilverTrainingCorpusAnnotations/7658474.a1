@@ -1,0 +1,82 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 27 32	human
+T3	Protein 33 62	nucleoside diphosphate kinase
+T4	Protein 64 71	NM23-H2
+T5	Value 77 82	2.8 A
+T6	Parameter 83 93	resolution
+T7	Technique 94 109	X-ray structure
+T8	Protein 113 120	NM23-H2
+T9	Process 144 166	molecular  replacement
+T10	Unknown 177 186	structure
+T11	Organism 190 208	Myxococcus xanthus
+T12	Protein 209 244	nucleoside diphosphate (NDP) kinase
+T13	Protein 246 253	NM23-H2
+T14	Organism 259 264	human
+T15	Protein 265 275	NDP kinase
+T16	Protein 281 287	enzyme
+T17	Chemical 298 308	phosphoryl
+T18	Process 309 317	transfer
+T19	Molecule 325 328	DNA
+T20	Process 351 364	transcription
+T21	Protein 378 386	oncogene
+T22	Unknown 398 402	NM23
+T23	Molecule 434 444	suppressor
+T24	Physiology 448 458	metastasis
+T25	Body_part 476 483	tumours
+T26	Organism 497 511	M. xanthus NDP
+T27	Protein 512 518	kinase
+T28	Protein 524 532	tetramer
+T29	Protein 534 541	NM23-H2
+T30	Protein 547 554	hexamer
+T31	Geometrical_part 560 564	fold
+T32	Protein 568 575	NM23-H2
+T33	Geometrical_part 596 600	fold
+T34	Protein 610 621	NDP kinases
+T35	Geometrical_part 627 639	antiparallel
+T36	Protein_part 640 647	helices
+T37	Chemical 686 696	nucleotide
+T38	Process 697 704	binding
+T39	Geometrical_part 705 710	cleft
+T40	Protein_part 717 723	region
+T41	Geometrical_part 735 740	hinge
+T42	Process 757 765	response
+T43	Category 769 778	substrate
+T44	Process 779 786	binding
+T45	Unknown 791 798	crystal
+T46	Process 799 806	packing
+T47	Parameter 807 813	forces
+T48	Process 826 837	differences
+T49	State 841 853	conformation
+T50	Protein 864 876	NDP  kinases
+T51	Protein_part 896 903	regions
+T52	Protein 916 931	protein-protein
+T53	Process 932 940	contacts
+T54	Protein 952 961	oligomers
+T55	Protein 972 987	protein-protein
+T56	Process 988 999	interaction
+T57	Protein 1020 1031	NDP kinases
+T58	Process 1045 1056	interaction
+T59	Process 1066 1075	mutations
+T60	Protein 1079 1086	NM23-H2
+T61	Body_part 1109 1123	tumour tissues
+T62	Process 1131 1140	mutations
+T63	Protein_part 1156 1164	residues
+T64	Category 1186 1196	substrates
+T65	Protein 1227 1233	enzyme
+T66	Parameter 1275 1283	activity
+T67	Process 1295 1310	phosphorylation
+T68	Protein_part 1314 1321	serines
+T69	Unknown 1344 1348	NM23
+T70	Geometrical_part 1380 1389	structure
+T71	Protein 1397 1404	hexamer
+T72	Protein_part 1424 1439	serine residues
+T73	Protein_part 1489 1494	Ser44
+T74	Protein_part 1499 1505	Ser122
+T75	Geometrical_part 1518 1525	surface
+T76	Protein 1533 1540	hexamer
+T77	Protein 1591 1598	kinases
+T78	Protein_part 1613 1619	Ser120
+T79	Process 1677 1685	transfer
+T80	Chemical 1695 1724	phosphohistidine intermediate
+T81	Process 1732 1740	reaction
+T82	Process 1741 1750	mechanism

@@ -1,0 +1,87 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 57	undecaprenyl pyrophosphate synthase
+T3	Category 61 68	complex
+T4	Chemical 74 83	magnesium
+T5	Chemical 85 110	isopentenyl pyrophosphate
+T6	Chemical 125 142	thiopyrophosphate
+T7	Process 144 149	roles
+T8	Chemical 157 166	metal ion
+T9	Protein_part 181 189	residues
+T10	Process 193 202	catalysis
+T11	Protein 204 246	Undecaprenyl pyrophosphate synthase (UPPs)
+T12	Process 273 285	condensation
+T13	Process 286 295	reactions
+T14	Chemical 301 329	farnesyl pyrophosphate (FPP)
+T15	Chemical 341 373	isopentenyl pyrophosphates (IPP)
+T16	Chemical 399 404	bonds
+T17	Chemical 429 455	undecaprenyl pyrophosphate
+T18	Chemical 473 486	lipid carrier
+T19	Protein 491 504	peptidoglycan
+T20	Process 505 514	synthesis
+T21	Organism 518 527	bacterial
+T22	Body_part 528 537	cell wall
+T23	Unknown 543 553	structures
+T24	Organism 557 573	Escherichia coli
+T25	Protein 574 578	UPPs
+T26	Unknown 625 632	crystal
+T27	Protein 644 653	apoenzyme
+T28	Category 658 665	complex
+T29	Chemical 671 692	Mg(2+)/sulfate/Triton
+T30	Chemical 709 712	FPP
+T31	Process 741 760	catalytic mechanism
+T32	Protein 766 780	wild-type UPPs
+T33	Protein_part 789 800	D26A mutant
+T34	Geometrical_part 836 845	unit cell
+T35	Chemical 851 888	Mg(2+)/IPP/farnesyl thiopyrophosphate
+T36	Chemical 893 905	FPP analogue
+T37	Protein_part 920 931	active site
+T38	Protein 940 956	wild-type enzyme
+T39	Chemical 958 964	Mg(2+)
+T40	Chemical 987 1000	pyrophosphate
+T41	Chemical 1013 1030	thiopyrophosphate
+T42	Chemical 1036 1047	carboxylate
+T43	Protein_part 1051 1058	Asp(26)
+T44	Chemical 1070 1085	water molecules
+T45	Protein 1094 1107	mutant enzyme
+T46	Chemical 1128 1141	pyrophosphate
+T47	Chemical 1146 1149	IPP
+T48	Parameter 1155 1163	[Mg(2+)]
+T49	Parameter 1192 1196	rate
+T50	Protein 1200 1204	UPPs
+T51	Parameter 1220 1228	activity
+T52	Chemical 1244 1250	Mg(2+)
+T53	Parameter 1250 1251	]
+T54	Value 1254 1258	1 mm
+T55	Chemical 1288 1299	Mg(2+) ions
+T56	Value 1315 1320	50 mm
+T57	Chemical 1331 1337	Mg(2+)
+T58	Chemical 1339 1342	IPP
+T59	Protein 1352 1356	UPPs
+T60	Parameter 1370 1383	concentration
+T61	Process 1385 1393	Mutation
+T62	Protein_part 1397 1404	Asp(26)
+T63	Protein_part 1422 1433	amino acids
+T64	Process 1457 1465	decrease
+T65	Protein 1473 1477	UPPs
+T66	Parameter 1478 1486	activity
+T67	Process 1492 1496	role
+T68	Protein_part 1500 1507	Asp(26)
+T69	Process 1534 1543	migration
+T70	Chemical 1547 1553	Mg(2+)
+T71	Chemical 1559 1562	IPP
+T72	Chemical 1566 1569	FPP
+T73	Process 1592 1604	condensation
+T74	Process 1605 1613	reaction
+T75	Process 1617 1627	ionization
+T76	Chemical 1635 1648	pyrophosphate
+T77	Molecular_Part 1649 1654	group
+T78	Chemical 1660 1663	FPP
+T79	Protein_part 1681 1689	residues
+T80	Protein_part 1701 1708	His(43)
+T81	Protein_part 1710 1717	Ser(71)
+T82	Protein_part 1719 1726	Asn(74)
+T83	Protein_part 1732 1739	Arg(77)
+T84	Protein 1763 1772	acid/base
+T85	Chemical 1777 1798	pyrophosphate carrier
+T86	Protein 1850 1861	UPPs enzyme
+T87	Process 1862 1870	reaction

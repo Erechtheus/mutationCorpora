@@ -1,0 +1,40 @@
+T1	Chemical 4 7	ATP
+T2	Protein_part 16 20	site
+T3	Protein 24 42	protein kinase CK2
+T4	Parameter 74 78	area
+T5	Chemical 93 108	water molecules
+T6	Protein_part 110 113	CK2
+T7	Protein_part 138 145	Ser/Thr
+T8	Protein 146 160	protein kinase
+T9	Body_part 185 189	cell
+T10	Process 190 198	survival
+T11	Body_part 215 221	tumour
+T12	Physiology 222 231	phenotype
+T13	Geometrical_part 285 302	crystal structure
+T14	Category 316 325	complexes
+T15	Chemical 331 366	tetrabromobenzimidazole derivatives
+T16	Parameter 380 391	K(i) values
+T17	Value 400 404	0.15
+T18	Value 409 420	0.30 microM
+T19	Technique 436 444	analysis
+T20	Category 484 494	inhibitors
+T21	Unknown 507 513	family
+T22	Process 527 535	presence
+T23	Chemical 561 576	water molecules
+T24	Chemical 584 587	ATP
+T25	Protein_part 596 600	site
+T26	Chemical 608 614	waters
+T27	Protein_part 627 632	Lys68
+T28	Parameter 640 644	area
+T29	Parameter 675 684	potential
+T30	Category 739 746	ligands
+T31	Process 752 760	presence
+T32	Protein_part 778 784	region
+T33	Protein_part 806 814	residues
+T34	Protein_part 835 838	CK2
+T35	Protein_part 840 845	Ile66
+T36	Protein_part 850 856	Ile174
+T37	Process 874 878	role
+T38	Category 898 904	ligand
+T39	Process 905 916	orientation
+T40	Parameter 921 940	binding selectivity

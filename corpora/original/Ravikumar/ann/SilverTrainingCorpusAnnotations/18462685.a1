@@ -1,0 +1,46 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Unknown 28 43	saposins C andD
+T3	Process 45 57	implications
+T4	Chemical 62 67	lipid
+T5	Process 68 79	recognition
+T6	Body_part 84 92	membrane
+T7	Process 93 105	interactions
+T8	Organism 107 112	Human
+T9	Protein 113 121	saposins
+T10	Protein 136 144	proteins
+T11	Process 158 169	degradation
+T12	Chemical 173 186	sphingolipids
+T13	Protein 191 204	lipid antigen
+T14	Process 205 217	presentation
+T15	Process 252 264	organization
+T16	Protein 269 277	saposins
+T17	Process 303 314	interaction
+T18	Body_part 331 340	membranes
+T19	Geometrical_part 383 401	crystal structures
+T20	Organism 405 410	human
+T21	Protein 411 420	saposin C
+T22	Process 434 447	configuration
+T23	Protein_part 461 467	domain
+T24	Protein 476 486	homodimers
+T25	Protein 501 511	SapC dimer
+T26	Protein 545 549	SapC
+T27	Body_part 558 565	vesicle
+T28	Process 566 572	fusion
+T29	Geometrical_part 603 620	crystal structure
+T30	Protein 624 628	SapD
+T31	Unknown 636 643	crystal
+T32	Protein 667 682	monomer-monomer
+T33	Protein 701 711	SapD dimer
+T34	Chemical 736 744	solution
+T35	Process 760 779	ultracentrifugation
+T36	Geometrical_part 785 802	crystal structure
+T37	Protein 806 810	SapD
+T38	Protein_part 825 837	side  chains
+T39	Protein_part 841 846	Lys10
+T40	Protein_part 851 856	Arg17
+T41	Process 881 892	association
+T42	Body_part 932 941	membranes
+T43	Chemical 953 965	salt bridges
+T44	Chemical 971 978	sulfate
+T45	Chemical 982 997	phosphate lipid
+T46	Molecular_Part 998 1008	headgroups

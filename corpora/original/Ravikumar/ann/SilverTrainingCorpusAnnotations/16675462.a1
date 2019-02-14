@@ -1,0 +1,68 @@
+T1	Process 0 10	Alteration
+T2	Protein_part 14 22	sequence
+T3	Unknown 42 49	type II
+T4	Protein 50 81	restriction endonuclease HincII
+T5	Process 110 119	mechanism
+T6	Process 151 163	consequences
+T7	Process 169 177	mutation
+T8	Molecule 185 188	DNA
+T9	Protein_part 203 210	residue
+T10	Protein 214 220	HincII
+T11	Protein 222 227	Q138F
+T12	Molecule 276 279	DNA
+T13	Process 280 293	intercalation
+T14	Protein_part 297 304	Gln-138
+T15	Molecule 316 319	DNA
+T16	Process 320 331	distortions
+T17	Protein 352 358	HincII
+T18	Molecule 394 397	DNA
+T19	Unknown 399 405	GTYRAC
+T20	Protein_part 407 408	Y
+T21	Protein_part 411 412	C
+T22	Protein_part 416 417	T
+T23	Unknown 419 420	R
+T24	Unknown 428 429	G
+T25	Unknown 440 463	N.  C., Dorner, L. F., 
+T26	Unknown 467 480	Perona, J. J.
+T27	Unknown 488 506	Nat. Struct. Biol.
+T28	Parameter 518 525	Kinetic
+T29	Process 564 572	mutation
+T30	Protein_part 576 589	glutamine 138
+T31	Protein_part 593 606	phenylalanine
+T32	Protein 609 614	Q138F
+T33	Process 629 635	change
+T34	Protein_part 639 647	sequence
+T35	Protein_part 678 688	base pairs
+T36	Protein_part 705 721	recognition site
+T37	Protein 754 760	HincII
+T38	Process 782 789	binding
+T39	Protein_part 809 814	sites
+T40	Protein_part 843 853	base pairs
+T41	Process 878 886	mutation
+T42	Protein 887 892	Q138F
+T43	Geometrical_part 903 921	crystal structures
+T44	Unknown 946 958	Q138F HincII
+T45	Unknown 968 974	GTTAAC
+T46	Unknown 979 985	GTCGAC
+T47	Chemical 1008 1012	Ca2+
+T48	Unknown 1028 1037	structure
+T49	Unknown 1041 1057	wild type HincII
+T50	Unknown 1067 1073	GTTAAC
+T51	Protein 1079 1095	Q138F HincII/DNA
+T52	Geometrical_part 1096 1106	structures
+T53	State 1112 1126	conformational
+T54	Process 1127 1134	changes
+T55	Protein 1142 1149	protein
+T56	Molecule 1157 1160	DNA
+T57	Protein 1173 1184	protein-DNA
+T58	Process 1216 1225	formation
+T59	Category 1239 1248	complexes
+T60	Technique 1250 1258	Analysis
+T61	Unknown 1268 1278	structures
+T62	Process 1287 1293	effect
+T63	Chemical 1297 1301	Ca2+
+T64	Process 1302 1309	binding
+T65	Protein 1317 1328	protein-DNA
+T66	Process 1396 1404	mutation
+T67	Protein 1405 1410	Q138F
+T68	Protein 1418 1431	HincII enzyme

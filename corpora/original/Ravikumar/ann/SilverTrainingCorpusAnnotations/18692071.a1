@@ -1,0 +1,67 @@
+T1	Unknown 4 11	crystal
+T2	Unknown 26 36	structures
+T3	Chemical 42 73	cathepsin K:chondroitin sulfate
+T4	Category 74 81	complex
+T5	Protein 83 94	Cathepsin K
+T6	Protein 123 129	enzyme
+T7	Body_part 142 146	bone
+T8	Body_part 157 168	osteoclasts
+T9	Protein 204 227	triple-helical collagen
+T10	Parameter 239 247	activity
+T11	Protein 251 262	cathepsin K
+T12	Process 278 287	formation
+T13	Category 291 300	complexes
+T14	Chemical 333 351	glycosaminoglycans
+T15	Chemical 361 389	chondroitin 4-sulfate (C4-S)
+T16	Geometrical_part 413 430	crystal structure
+T17	Unknown 436 439	1:n
+T18	Category 440 447	complex
+T19	Chemical 451 467	cathepsin K:C4-S
+T20	Protein_part 481 484	E64
+T21	Parameter 490 500	resolution
+T22	Value 504 509	1.8 A
+T23	Unknown 523 532	structure
+T24	Process 577 589	organization
+T25	Protein 600 611	cathepsin K
+T26	Molecule 612 621	molecules
+T27	Parameter 659 664	curve
+T28	Protein_part 672 678	strand
+T29	Chemical 682 686	C4-S
+T30	Protein 697 708	cathepsin K
+T31	Molecule 709 717	molecule
+T32	Protein_part 741 762	disaccharide residues
+T33	Chemical 766 770	C4-S
+T34	Process 806 818	interactions
+T35	Protein_part 847 852	helix
+T36	Protein_part 866 876	N terminus
+T37	Protein 884 894	proteinase
+T38	Protein_part 914 924	amino acid
+T39	Protein_part 934 949	Arg8-Lys9-Lys10
+T40	Chemical 971 985	hydrogen bonds
+T41	Chemical 1000 1010	caboxylate
+T42	Chemical 1022 1031	4-sulfate
+T43	Molecular_Part 1032 1038	groups
+T44	Chemical 1042 1046	C4-S
+T45	Process 1064 1071	binding
+T46	Protein_part 1072 1077	sites
+T47	Chemical 1083 1087	C4-S
+T48	Protein_part 1107 1115	R-domain
+T49	Protein 1119 1130	cathepsin K
+T50	Protein_part 1156 1167	active site
+T51	Parameter 1211 1219	activity
+T52	Protein 1223 1234	cathepsin K
+T53	Process 1258 1265	binding
+T54	Chemical 1269 1288	chondroitin sulfate
+T55	Technique 1290 1310	Biochemical analyses
+T56	Protein 1314 1325	cathepsin K
+T57	Chemical 1330 1334	C4-S
+T58	Process 1357 1365	presence
+T59	Unknown 1371 1374	1:n
+T60	Category 1375 1382	complex
+T61	Chemical 1386 1394	solution
+T62	Parameter 1398 1419	dissociation constant
+T63	Parameter 1421 1425	K(d)
+T64	Value 1430 1441	about 10 nM
+T65	Process 1465 1476	interaction
+T66	Protein 1485 1496	cathepsin K
+T67	Chemical 1501 1505	C4-S

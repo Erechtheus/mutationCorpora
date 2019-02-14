@@ -1,0 +1,86 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 41	cytochrome P-450CAM
+T3	Chemical 57 65	camphane
+T4	Chemical 67 78	thiocamphor
+T5	Chemical 84 94	adamantane
+T6	Protein 96 103	factors
+T7	Unknown 116 121	P-450
+T8	Category 122 131	substrate
+T9	Process 132 145	hydroxylation
+T10	Molecule 147 152	X-ray
+T11	Geometrical_part 153 171	crystal structures
+T12	Category 197 206	complexes
+T13	Protein 210 229	cytochrome P-450CAM
+T14	Category 239 249	substrates
+T15	Chemical 250 258	camphane
+T16	Chemical 260 270	adamantane
+T17	Chemical 276 287	thiocamphor
+T18	Category 308 317	substrate
+T19	Chemical 318 325	camphor
+T20	Chemical 333 347	hydrogen bonds
+T21	Protein_part 351 356	Tyr96
+T22	Category 389 396	product
+T23	Chemical 398 406	camphane
+T24	Chemical 408 418	adamantane
+T25	Chemical 423 434	thiocamphor
+T26	Chemical 442 455	hydrogen bond
+T27	Protein 464 470	enzyme
+T28	Process 533 537	lack
+T29	Chemical 543 573	substrate-enzyme hydrogen bond
+T30	Category 581 591	substrates
+T31	Protein_part 616 627	active site
+T32	Process 671 681	metabolism
+T33	Category 716 726	substrates
+T34	Location 743 749	distal
+T35	Category 750 756	ligand
+T36	Chemical 764 773	heme iron
+T37	Protein_part 775 780	Tyr96
+T38	Category 786 792	ligand
+T39	Chemical 802 822	carbonyl oxygen atom
+T40	Chemical 829 835	cation
+T41	Chemical 869 885	camphor-P-450CAM
+T42	Category 886 893	complex
+T43	Unknown 938 940	J.
+T44	Unknown 948 961	J. Mol. Biol.
+T45	Parameter 995 1013	temperature factor
+T46	Protein_part 1030 1034	site
+T47	Process 1078 1086	presence
+T48	Chemical 1094 1106	non-hydrogen
+T49	Category 1115 1125	substrates
+T50	Process 1156 1164	presence
+T51	Chemical 1168 1175	camphor
+T52	Parameter 1194 1206	relationship
+T53	Chemical 1215 1221	cation
+T54	Category 1226 1235	substrate
+T55	Process 1236 1243	binding
+T56	Chemical 1245 1256	Thiocamphor
+T57	Process 1282 1293	orientation
+T58	Protein_part 1301 1312	active site
+T59	Category 1327 1337	substrates
+T60	Process 1372 1383	orientation
+T61	Chemical 1387 1398	thiocamphor
+T62	Chemical 1432 1439	camphor
+T63	Chemical 1450 1459	carbons 5
+T64	Chemical 1476 1487	thiocamphor
+T65	Unknown 1553 1567	J. Biol. Chem.
+T66	Protein_part 1607 1612	Tyr96
+T67	Chemical 1634 1643	heme iron
+T68	Chemical 1690 1720	thiocamphor-P-450CAM structure
+T69	Category 1755 1762	complex
+T70	Chemical 1775 1782	solvent
+T71	Protein_part 1811 1822	active site
+T72	Process 1830 1838	presence
+T73	Process 1842 1852	uncoupling
+T74	Category 1853 1863	substrates
+T75	Protein 1869 1876	channel
+T76	Category 1908 1917	substrate
+T77	Process 1918 1931	hydroxylation
+T78	Chemical 1939 1956	hydrogen peroxide
+T79	Chemical 1973 1978	water
+T80	Process 1979 1989	production
+T81	Chemical 2000 2016	solvent molecule
+T82	Process 2061 2071	uncoupling
+T83	Location 2090 2098	internal
+T84	Protein_part 2115 2126	active site
+T85	Process 2134 2142	presence
+T86	Category 2160 2170	substrates

@@ -1,0 +1,92 @@
+T1	Technique 15 34	mutational analyses
+T2	Process 42 64	molecular interactions
+T3	Protein_part 77 93	catalytic domain
+T4	Protein 97 107	factor XIa
+T5	Category 116 141	Kunitz protease inhibitor
+T6	Protein_part 142 148	domain
+T7	Protein 152 168	protease nexin 2
+T8	Protein 170 187	Factor XIa (FXIa)
+T9	Protein 193 208	serine protease
+T10	Location 238 247	intrinsic
+T11	Process 248 255	pathway
+T12	Body_part 259 264	blood
+T13	Process 265 276	coagulation
+T14	Protein 278 300	Protease nexin 2 (PN2)
+T15	Protein 306 326	Kunitz-type protease
+T16	Category 327 336	inhibitor
+T17	Body_part 359 368	platelets
+T18	Category 401 410	inhibitor
+T19	Protein 414 418	FXIa
+T20	Process 420 430	Inhibition
+T21	Protein 434 438	FXIa
+T22	Protein 442 445	PN2
+T23	Process 455 467	interactions
+T24	Protein 484 492	proteins
+T25	Protein_part 518 534	catalytic domain
+T26	Protein 542 548	enzyme
+T27	Category 557 588	Kunitz protease inhibitor (KPI)
+T28	Protein_part 589 595	domain
+T29	Protein 599 602	PN2
+T30	Protein 616 622	PN2KPI
+T31	Protein_part 648 668	FXI catalytic domain
+T32	Protein 670 675	FXIac
+T33	Organism 695 700	yeast
+T34	Geometrical_part 752 761	structure
+T35	Category 769 776	complex
+T36	Value 791 805	2.6  angstroms
+T37	Technique 807 824	Protein Data Bank
+T38	Unknown 830 834	1ZJD
+T39	Category 845 852	complex
+T40	Protein 854 860	PN2KPI
+T41	Chemical 883 892	disulfide
+T42	Geometrical_part 911 925	loop structure
+T43	Physiology 931 935	fits
+T44	Protein_part 945 962	FXIac active site
+T45	Process 981 994	contributions
+T46	Protein_part 998 1006	residues
+T47	Protein 1014 1020	PN2KPI
+T48	Parameter 1028 1047	inhibitory activity
+T49	Process 1058 1073	point mutations
+T50	Protein 1077 1083	PN2KPI
+T51	Geometrical_part 1084 1090	loop 1
+T52	Technique 1091 1105	11TGPCRAMISR20
+T53	Geometrical_part 1110 1116	loop 2
+T54	Unknown 1117 1126	34FYGGC38
+T55	Protein 1168 1172	FXIa
+T56	Protein_part 1178 1185	P1 site
+T57	Process 1186 1194	mutation
+T58	Protein_part 1195 1199	R15A
+T59	Protein 1244 1248	FXIa
+T60	Parameter 1250 1261	IC50 values
+T61	Protein 1270 1287	wild type protein
+T62	Molecule 1306 1313	mutants
+T63	Protein 1331 1340	PN2KPI WT
+T64	Value 1342 1350	1.28  nM
+T65	Value 1352 1356	P13A
+T66	Value 1358 1365	5.92 nM
+T67	Value 1367 1371	M17A
+T68	Value 1373 1380	1.62 nM
+T69	Value 1382 1386	S19A
+T70	Value 1388 1395	1.86 nM
+T71	Value 1397 1401	R20A
+T72	Value 1403 1410	5.67 nM
+T73	Value 1412 1416	F34A
+T74	Value 1418 1425	9.85 nM
+T75	Parameter 1431 1442	IC50 values
+T76	Value 1451 1455	M17A
+T77	Protein_part 1460 1472	S19A mutants
+T78	Protein 1531 1547	wild type PN2KPI
+T79	Protein 1596 1610	thromboplastin
+T80	Parameter 1611 1615	time
+T81	Technique 1616 1624	analysis
+T82	Process 1634 1645	predictions
+T83	Protein 1660 1693	PN2KPI-FXIac co-crystal structure
+T84	Protein_part 1708 1723	PN2KPI residues
+T85	Process 1748 1758	importance
+T86	Protein_part 1760 1765	Arg15
+T87	Protein_part 1767 1772	Phe34
+T88	Protein_part 1774 1779	Pro13
+T89	Protein_part 1785 1790	Arg20
+T90	Protein 1794 1798	FXIa
+T91	Process 1799 1809	inhibition
+T92	Protein 1813 1819	PN2KPI

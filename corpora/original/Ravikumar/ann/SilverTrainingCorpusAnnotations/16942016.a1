@@ -1,0 +1,68 @@
+T1	Process 0 10	Comparison
+T2	Process 18 25	binding
+T3	Chemical 29 86	3-fluoromethyl-7-sulfonyl-1,2,3,4-tetrahydroisoquinolines
+T4	Chemical 108 120	sulfonamides
+T5	Protein_part 128 139	active site
+T6	Protein 143 181	phenylethanolamine N-methyltransferase
+T7	Chemical 183 200	3-Fluoromethyl-7-
+T8	Chemical 215 261	aminosulfonyl)-1,2,3,4-tetrahydroisoquinolines
+T9	Category 314 324	inhibitors
+T10	Protein 328 373	phenylethanolamine N-methyltransferase (PNMT)
+T11	Chemical 407 424	3-fluoromethyl-7-
+T12	Chemical 425 479	N-alkyl aminosulfonyl)-1,2,3,4-tetrahydroisoquinolines
+T13	Chemical 512 528	sulfonamide -NH-
+T14	Chemical 542 555	hydrogen bond
+T15	Protein_part 565 576	side  chain
+T16	Protein_part 580 585	Lys57
+T17	Technique 596 607	SAR studies
+T18	Technique 612 620	analysis
+T19	Geometrical_part 628 645	crystal structure
+T20	Organism 649 667	human PNMT (hPNMT)
+T21	Category 671 678	complex
+T22	Chemical 705 724	sulfonamide oxygens
+T23	Chemical 739 755	sulfonamide -NH-
+T24	Process 774 786	interactions
+T25	Protein 796 802	enzyme
+T26	Process 831 842	replacement
+T27	Chemical 850 866	sulfonamide -NH-
+T28	Chemical 874 883	methylene
+T29	Molecular_Part 884 889	group
+T30	Chemical 906 915	compounds
+T31	Organism 945 949	PNMT
+T32	Body_part 1046 1057	blood brain
+T33	Chemical 1079 1136	3-fluoromethyl-7-sulfonyl-1,2,3,4-tetrahydroisoquinolines
+T34	Organism 1186 1190	PNMT
+T35	Parameter 1214 1222	affinity
+T36	Protein 1232 1251	alpha2-adrenoceptor
+T37	Process 1255 1265	comparison
+T38	Chemical 1275 1284	compounds
+T39	Chemical 1306 1318	sulfonamides
+T40	Chemical 1355 1363	sulfones
+T41	Chemical 1426 1438	sulfonamides
+T42	Chemical 1440 1447	Sulfone
+T43	Organism 1452 1457	hPNMT
+T44	Parameter 1458 1460	Ki
+T45	Value 1463 1473	1.3 microM
+T46	Chemical 1494 1502	compound
+T47	Organism 1545 1549	PNMT
+T48	Protein 1561 1580	alpha2-adrenoceptor
+T49	Chemical 1627 1638	sulfonamide
+T50	Organism 1644 1649	hPNMT
+T51	Parameter 1650 1652	Ki
+T52	Value 1655 1666	0.13 microM
+T53	Geometrical_part 1688 1705	crystal structure
+T54	Organism 1709 1714	hPNMT
+T55	Category 1718 1725	complex
+T56	Chemical 1731 1742	sulfonamide
+T57	Chemical 1770 1783	hydrogen bond
+T58	Category 1784 1792	acceptor
+T59	Organism 1804 1809	hPNMT
+T60	Protein_part 1810 1821	active site
+T61	Protein_part 1847 1857	main chain
+T62	Chemical 1858 1873	carbonyl oxygen
+T63	Protein_part 1877 1882	Asn39
+T64	Process 1888 1899	interaction
+T65	Protein_part 1908 1915	residue
+T66	Chemical 1925 1941	sulfonamide -NH-
+T67	Chemical 2015 2027	sulfonamides
+T68	Chemical 2039 2047	sulfones

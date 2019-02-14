@@ -1,0 +1,35 @@
+T1	Process 13 21	reaction
+T2	Chemical 39 61	pyridoxal-5'-phosphate
+T3	Protein 72 78	enzyme
+T4	Molecule 84 92	electron
+T5	Parameter 93 105	distribution
+T6	Molecule 132 138	adduct
+T7	Protein 142 168	aspartate aminotransferase
+T8	Protein_part 194 212	active-site Arg386
+T9	Protein_part 218 225	alanine
+T10	Protein_part 248 264	arginine residue
+T11	Unknown 273 279	[Y225R
+T12	Chemical 281 340	R386A]Aspartate aminotransferase decarboxylates L-aspartate
+T13	Protein_part 344 353	L-alanine
+T14	Parameter 355 359	kcat
+T15	Value 362 370	0.04 s-1
+T16	Protein 383 395	transaminase
+T17	Parameter 396 404	activity
+T18	Chemical 413 437	dicarboxylic amino acids
+T19	Value 454 480	three  orders of magnitude
+T20	Parameter 482 486	kcat
+T21	Value 489 497	0.19 s-1
+T22	Process 519 530	simulations
+T23	Geometrical_part 544 561	crystal structure
+T24	Protein 569 582	mutant enzyme
+T25	Chemical 602 615	hydrogen bond
+T26	Chemical 623 635	imine N atom
+T27	Chemical 643 683	pyridoxal-5'-phosphate- aspartate adduct
+T28	Parameter 713 722	potential
+T29	Chemical 734 750	beta-carboxylate
+T30	Molecular_Part 751 756	group
+T31	Value 770 782	650,000-fold
+T32	Process 783 791	increase
+T33	Parameter 799 804	ratio
+T34	Protein 808 839	beta-decarboxylase/transaminase
+T35	Parameter 840 848	activity

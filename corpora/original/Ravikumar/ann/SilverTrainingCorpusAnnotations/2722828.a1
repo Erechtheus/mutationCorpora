@@ -1,0 +1,50 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Chemical 25 35	erabutoxin
+T3	Value 41 46	2.0-A
+T4	Parameter 47 57	resolution
+T5	Geometrical_part 63 90	three-dimensional structure
+T6	Chemical 94 104	erabutoxin
+T7	Protein 110 122	single-chain
+T8	Protein 124 153	62-residue protein neurotoxin
+T9	Organism 159 164	snake
+T10	Chemical 165 170	venom
+T11	Value 195 200	2.0-A
+T12	Parameter 201 211	resolution
+T13	Molecule 215 220	x-ray
+T14	Geometrical_part 221 238	crystal structure
+T15	Technique 239 247	analysis
+T16	Process 249 270	Molecular replacement
+T17	Unknown 298 307	structure
+T18	Parameter 330 331	R
+T19	Value 334 338	0.17
+T20	Protein_part 344 349	sites
+T21	Chemical 356 371	water molecules
+T22	Chemical 378 389	sulfate ion
+T23	Unknown 425 434	structure
+T24	Chemical 438 448	erabutoxin
+T25	Chemical 499 509	erabutoxin
+T26	Molecule 519 525	toxins
+T27	Chemical 531 536	venom
+T28	Organism 549 554	snake
+T29	Protein_part 565 573	sequence
+T30	Protein_part 582 592	residue 26
+T31	Protein_part 603 606	Asn
+T32	Chemical 610 620	erabutoxin
+T33	Protein_part 627 630	His
+T34	Chemical 634 644	erabutoxin
+T35	Process 652 664	substitution
+T36	Process 685 695	variations
+T37	Chemical 714 730	hydrogen bonding
+T38	Parameter 749 761	distribution
+T39	Parameter 773 783	parameters
+T40	Unknown 843 853	structures
+T41	Protein_part 905 936	peripheral segment  Pro44-Gly49
+T42	Unknown 945 955	structures
+T43	Process 978 982	role
+T44	Protein_part 1001 1008	segment
+T45	Molecule 1012 1022	neurotoxin
+T46	Protein 1038 1060	acetylcholine receptor
+T47	Protein_part 1081 1094	solvent sites
+T48	Location 1116 1133	surface positions
+T49	Protein_part 1185 1198	solvent sites
+T50	Chemical 1202 1212	erabutoxin

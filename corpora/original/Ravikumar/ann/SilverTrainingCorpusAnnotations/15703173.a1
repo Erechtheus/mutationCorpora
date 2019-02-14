@@ -1,0 +1,68 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 56	N-succinylarginine dihydrolase AstB
+T3	Category 67 76	substrate
+T4	Category 82 89	product
+T5	Protein 94 100	enzyme
+T6	Chemical 110 118	arginine
+T7	Physiology 119 128	catabolic
+T8	Process 129 136	pathway
+T9	Organism 140 156	Escherichia coli
+T10	Chemical 162 169	ammonia
+T11	Protein 180 208	arginine succinyltransferase
+T12	Process 209 216	pathway
+T13	Process 230 237	pathway
+T14	Organism 241 257	Escherichia coli
+T15	Organism 270 278	bacteria
+T16	Chemical 283 291	arginine
+T17	Physiology 292 302	catabolism
+T18	Chemical 313 321	nitrogen
+T19	Process 335 342	pathway
+T20	Protein 396 402	enzyme
+T21	Geometrical_part 423 440	crystal structure
+T22	Protein 444 479	N-succinylarginine dihydrolase AstB
+T23	Protein 492 498	enzyme
+T24	Protein 506 534	arginine succinyltransferase
+T25	Process 535 542	pathway
+T26	Process 576 583	insight
+T27	Protein 589 596	enzymes
+T28	Process 607 614	pathway
+T29	Protein 620 626	enzyme
+T30	Value 645 651	5-fold
+T31	Protein 662 672	alpha/beta
+T32	Geometrical_part 683 687	fold
+T33	Protein_part 751 762	active site
+T34	Geometrical_part 768 785	crystal structure
+T35	Protein 814 820	enzyme
+T36	Protein 836 871	amidinotransferase (AT) superfamily
+T37	Protein_part 885 896	active site
+T38	Chemical 908 925	Cys-His-Glu triad
+T39	Protein 948 962	AT superfamily
+T40	Geometrical_part 964 974	Structures
+T41	Category 982 991	complexes
+T42	Protein 995 999	AstB
+T43	Process 1009 1017	reaction
+T44	Category 1018 1025	product
+T45	Protein_part 1032 1044	C365S mutant
+T46	Chemical 1060 1078	N-succinylarginine
+T47	Category 1079 1088	substrate
+T48	Process 1099 1118	catalytic mechanism
+T49	Process 1150 1160	hydrolysis
+T50	Chemical 1165 1172	ammonia
+T51	Process 1173 1180	release
+T52	Process 1210 1219	mechanism
+T53	Protein 1249 1268	arginine deiminases
+T54	Unknown 1281 1288	members
+T55	Protein 1296 1310	AT superfamily
+T56	Protein 1314 1321	enzymes
+T57	Protein 1323 1327	AstB
+T58	Geometrical_part 1349 1353	loop
+T59	Process 1380 1387	absence
+T60	Category 1391 1400	substrate
+T61	State 1424 1436	conformation
+T62	Category 1442 1451	substrate
+T63	Process 1452 1459	binding
+T64	Category 1475 1481	ligand
+T65	Chemical 1496 1503	solvent
+T66	Category 1525 1534	substrate
+T67	Category 1546 1553	product
+T68	Process 1554 1561	release

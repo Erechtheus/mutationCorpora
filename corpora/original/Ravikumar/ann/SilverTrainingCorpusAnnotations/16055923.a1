@@ -1,0 +1,74 @@
+T1	Parameter 5 15	resolution
+T2	Geometrical_part 16 34	crystal structures
+T3	Chemical 42 69	trans-enamine intermediates
+T4	Chemical 80 89	sulbactam
+T5	Chemical 94 109	clavulanic acid
+T6	Protein 114 142	E166A SHV-1 {beta}-lactamase
+T7	Chemical 144 154	Antibiotic
+T8	Parameter 155 165	resistance
+T9	Protein 198 213	beta-lactamases
+T10	Organism 237 242	human
+T11	Physiology 243 249	health
+T12	Process 255 264	mechanism
+T13	Process 268 278	inhibition
+T14	Protein 288 295	enzymes
+T15	Protein 311 325	beta-lactamase
+T16	Category 326 336	inhibitors
+T17	Technique 381 397	Raman microscopy
+T18	Technique 402 423	x-ray crystallography
+T19	Parameter 457 467	resolution
+T20	Geometrical_part 468 486	crystal structures
+T21	Protein 494 508	beta-lactamase
+T22	Category 509 519	inhibitors
+T23	Chemical 520 529	sulbactam
+T24	Chemical 534 549	clavulanic acid
+T25	Process 563 574	deacylation
+T26	Unknown 585 598	E166A variant
+T27	Protein 602 622	SHV-1 beta-lactamase
+T28	Unknown 637 642	Raman
+T29	Process 643 655	measurements
+T30	Chemical 676 697	trans-enamine species
+T31	Category 707 717	inhibitors
+T32	Parameter 753 757	time
+T33	Parameter 762 775	concentration
+T34	Protein_part 809 821	active sites
+T35	Category 831 840	inhibitor
+T36	Molecule 847 852	x-ray
+T37	Unknown 853 863	structures
+T38	Chemical 882 908	trans-enamine intermediate
+T39	Protein_part 936 962	active site Ser-70 residue
+T40	Molecule 969 981	intermediate
+T41	Process 1008 1012	role
+T42	Process 1030 1040	inhibition
+T43	Protein 1044 1067	class A beta-lactamases
+T44	Molecule 1078 1083	Raman
+T45	Molecule 1088 1093	x-ray
+T46	Chemical 1129 1146	acid intermediate
+T47	Chemical 1211 1221	tazobactam
+T48	Category 1228 1237	inhibitor
+T49	Geometrical_part 1238 1247	structure
+T50	Category 1257 1266	inhibitor
+T51	Unknown 1273 1283	structures
+T52	Physiology 1306 1314	disorder
+T53	Protein_part 1322 1333	tail region
+T54	Category 1341 1351	inhibitors
+T55	Chemical 1370 1377	enamine
+T56	Body_part 1378 1386	skeleton
+T57	Technique 1392 1414	x-ray crystallographic
+T58	Protein_part 1466 1469	O-C
+T59	Protein_part 1470 1473	C-N
+T60	Chemical 1475 1482	enamine
+T61	Molecular_Part 1494 1501	stretch
+T62	Unknown 1502 1507	Raman
+T63	Value 1518 1529	1595 cm(-1)
+T64	Chemical 1554 1563	sulbactam
+T65	Chemical 1568 1583	clavulanic acid
+T66	State 1625 1639	conformational
+T67	Process 1669 1679	variations
+T68	Parameter 1694 1700	angles
+T69	Unknown 1708 1712	O-(C
+T70	Unknown 1713 1717	O)-C
+T71	Body_part 1718 1733	C=NH-C skeleton
+T72	State 1782 1806	conformational stability
+T73	Chemical 1814 1827	trans-enamine
+T74	Process 1876 1884	efficacy

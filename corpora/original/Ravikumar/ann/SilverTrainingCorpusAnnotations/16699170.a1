@@ -1,0 +1,76 @@
+T1	Molecule 2 8	proton
+T2	Process 18 25	pathway
+T3	Protein 41 59	fumarate reductase
+T4	Organism 65 89	Shewanella frigidimarina
+T5	Process 95 104	mechanism
+T6	Chemical 109 117	fumarate
+T7	Process 118 127	reduction
+T8	Protein 143 161	fumarate reductase
+T9	Organism 167 191	Shewanella frigidimarina
+T10	Chemical 201 208	hydride
+T11	Process 209 217	transfer
+T12	Chemical 223 226	FAD
+T13	Molecule 231 237	proton
+T14	Process 238 246	transfer
+T15	Chemical 256 272	active-site acid
+T16	Protein_part 274 281	Arg-402
+T17	Protein_part 309 316	Arg-402
+T18	Geometrical_part 323 327	part
+T19	Molecule 334 340	proton
+T20	Process 341 349	transfer
+T21	Process 350 357	pathway
+T22	Protein_part 377 384	Glu-378
+T23	Protein_part 389 396	Arg-381
+T24	Chemical 440 455	water molecules
+T25	Process 473 480	insight
+T26	Process 490 500	importance
+T27	Molecule 509 515	proton
+T28	Process 516 523	pathway
+T29	Protein_part 561 568	Arg-381
+T30	Protein_part 572 578	lysine
+T31	Chemical 583 593	methionine
+T32	Protein_part 598 605	Glu-378
+T33	Chemical 609 618	aspartate
+T34	Protein 637 651	mutant enzymes
+T35	Parameter 670 680	activities
+T36	Process 712 721	decreases
+T37	Parameter 731 744	k(cat) values
+T38	Protein 763 779	wild-type enzyme
+T39	Chemical 781 788	Solvent
+T40	Parameter 789 796	kinetic
+T41	Chemical 797 804	isotope
+T42	Process 805 812	effects
+T43	Molecule 823 829	proton
+T44	Process 830 838	transfer
+T45	Protein 877 891	mutant enzymes
+T46	Molecule 893 899	Proton
+T47	Technique 900 911	inventories
+T48	Molecule 930 936	proton
+T49	Process 937 944	pathway
+T50	Molecular_Part 976 982	groups
+T51	Protein 1045 1058	R381K enzymes
+T52	Molecule 1073 1079	proton
+T53	Process 1080 1088	transfer
+T54	Process 1089 1096	pathway
+T55	Molecule 1110 1116	proton
+T56	Molecule 1185 1191	proton
+T57	Process 1199 1208	transfers
+T58	Chemical 1214 1221	hydride
+T59	Chemical 1251 1254	FAD
+T60	Geometrical_part 1261 1279	crystal structures
+T61	Protein 1283 1288	E378D
+T62	Protein 1293 1313	R381M mutant enzymes
+T63	Value 1338 1341	1.7
+T64	Value 1347 1352	2.1 A
+T65	Parameter 1353 1363	resolution
+T66	Process 1393 1404	examination
+T67	Process 1423 1430	changes
+T68	Molecule 1444 1450	proton
+T69	Process 1451 1460	transport
+T70	Protein_part 1505 1512	Arg-381
+T71	Protein_part 1514 1521	Glu-378
+T72	Protein_part 1527 1534	Arg-402
+T73	Molecule 1542 1548	proton
+T74	Process 1549 1556	pathway
+T75	Protein 1602 1651	fumarate reductase/succinate dehydrogenase family
+T76	Protein 1655 1662	enzymes

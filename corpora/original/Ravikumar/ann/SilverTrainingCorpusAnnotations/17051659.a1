@@ -1,0 +1,42 @@
+T1	Body_part 24 31	antenna
+T2	Molecule 32 44	chromophores
+T3	Protein 52 66	DNA photolyase
+T4	Organism 72 92	Thermus thermophilus
+T5	Technique 94 116	X-ray crystallographic
+T6	Technique 132 140	analysis
+T7	Protein 148 170	class I DNA photolyase
+T8	Organism 176 196	Thermus thermophilus
+T9	Process 210 217	binding
+T10	Chemical 221 248	flavin mononucleotide (FMN)
+T11	Body_part 255 262	antenna
+T12	Molecule 263 274	chromophore
+T13	Process 280 287	binding
+T14	Chemical 296 299	FMN
+T15	Process 327 334	binding
+T16	Chemical 340 351	deazaflavin
+T17	Molecule 357 368	chromophore
+T18	Protein 384 406	class I DNA photolyase
+T19	Unknown 412 421	Anacystis
+T20	Protein_part 448 459	R46E mutant
+T21	Chemical 485 493	arginine
+T22	Process 501 508	binding
+T23	Protein_part 509 513	site
+T24	Body_part 522 529	antenna
+T25	Molecule 530 541	chromophore
+T26	Chemical 547 550	FMN
+T27	Protein 562 576	holophotolyase
+T28	Value 589 605	eightfold higher
+T29	Parameter 606 614	activity
+T30	Value 618 624	450 nm
+T31	Process 637 650	incorporation
+T32	Chemical 658 664	flavin
+T33	Category 665 674	cofactors
+T34	Chemical 675 700	8-hydroxy-deazariboflavin
+T35	Chemical 705 733	8-iodo-8-demethyl-riboflavin
+T36	Process 743 750	binding
+T37	Protein_part 751 755	site
+T38	Body_part 764 771	antenna
+T39	Molecule 772 783	chromophore
+T40	Parameter 802 812	wavelength
+T41	Parameter 827 843	activity spectra
+T42	Protein 847 862	DNA photolyases

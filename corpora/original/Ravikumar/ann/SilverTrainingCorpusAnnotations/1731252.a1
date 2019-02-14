@@ -1,0 +1,56 @@
+T1	Body_part 2 8	cavity
+T2	Molecule 20 26	mutant
+T3	Protein 30 41	T4 lysozyme
+T4	Chemical 66 73	benzene
+T5	Geometrical_part 79 96	hydrophobic cores
+T6	Protein 100 108	proteins
+T7	Geometrical_part 145 153	cavities
+T8	Process 155 164	Mutations
+T9	Protein_part 189 196	residue
+T10	Protein_part 205 212	leucine
+T11	Protein_part 216 229	phenylalanine
+T12	Protein_part 255 262	residue
+T13	Protein_part 271 278	alanine
+T14	Geometrical_part 290 298	cavities
+T15	Protein 317 324	protein
+T16	Parameter 356 361	sizes
+T17	Geometrical_part 366 372	shapes
+T18	Geometrical_part 381 389	cavities
+T19	Protein 426 433	factors
+T20	Geometrical_part 448 456	geometry
+T21	Body_part 476 482	cavity
+T22	Protein_part 505 509	site
+T23	Process 513 525	substitution
+T24	Protein 555 562	protein
+T25	Geometrical_part 563 572	structure
+T26	Protein_part 616 635	substituted residue
+T27	Technique 648 664	crystallographic
+T28	Technique 683 691	analysis
+T29	Body_part 701 707	cavity
+T30	Process 723 734	replacement
+T31	Protein_part 735 748	Leu 99----Ala
+T32	Protein 752 763	T4 lysozyme
+T33	Chemical 788 795	benzene
+T34	Category 806 812	ligand
+T35	Process 813 820	binding
+T36	Parameter 835 854	melting temperature
+T37	Protein 862 869	protein
+T38	Value 873 886	6.0 degrees C
+T39	Parameter 890 892	pH
+T40	Value 893 896	3.0
+T41	Chemical 898 905	Benzene
+T42	Body_part 937 943	cavity
+T43	Protein_part 959 973	Phe 153----Ala
+T44	Process 974 985	replacement
+T45	Geometrical_part 1009 1017	cavities
+T46	Protein 1039 1047	proteins
+T47	Geometrical_part 1070 1078	cavities
+T48	Category 1114 1121	ligands
+T49	Process 1127 1134	binding
+T50	Chemical 1138 1145	benzene
+T51	Location 1152 1160	internal
+T52	Protein_part 1161 1165	site
+T53	Value 1166 1169	7 A
+T54	Geometrical_part 1189 1196	surface
+T55	Protein 1236 1244	proteins
+T56	Unknown 1254 1262	crystals

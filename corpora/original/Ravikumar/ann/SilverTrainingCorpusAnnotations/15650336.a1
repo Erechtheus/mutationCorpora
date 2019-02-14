@@ -1,0 +1,59 @@
+T1	Process 11 16	basis
+T2	Process 25 32	changes
+T3	Parameter 36 51	redox potential
+T4	Protein 59 70	nitrogenase
+T5	Protein 71 92	Phe135Trp  Fe protein
+T6	Chemical 98 103	MgADP
+T7	Unknown 104 109	Bound
+T8	Geometrical_part 115 132	crystal structure
+T9	Organism 140 162	Azotobacter vinelandii
+T10	Protein 163 185	nitrogenase Fe protein
+T11	Protein_part 191 204	phenylalanine
+T12	Location 208 220	position 135
+T13	Protein_part 236 246	tryptophan
+T14	Chemical 270 275	MgADP
+T15	Technique 290 307	X-ray diffraction
+T16	Protein_part 317 327	Amino acid
+T17	Process 328 340	substitution
+T18	Protein_part 373 386	phenylalanine
+T19	Location 390 402	position 135
+T20	Chemical 420 428	[4Fe-4S]
+T21	Parameter 461 479	midpoint potential
+T22	Chemical 484 494	nucleotide
+T23	Process 503 510	changes
+T24	Chemical 518 526	[4Fe-4S]
+T25	Process 536 548	Substitution
+T26	Protein_part 552 562	tryptophan
+T27	Protein_part 567 580	phenylalanine
+T28	Location 584 596	position 135
+T29	Process 632 637	shift
+T30	Parameter 645 663	midpoint potential
+T31	Chemical 689 699	nucleotide
+T32	State 706 712	states
+T33	Protein 718 725	factors
+T34	Parameter 749 767	midpoint potential
+T35	Chemical 776 779	FeS
+T36	Chemical 797 804	solvent
+T37	Unknown 828 839	environment
+T38	Organism 856 862	strain
+T39	Unknown 868 877	structure
+T40	Value 938 951	more positive
+T41	Parameter 952 970	midpoint potential
+T42	Chemical 988 998	nucleotide
+T43	State 1005 1010	state
+T44	Process 1053 1066	contributions
+T45	Chemical 1074 1084	nucleotide
+T46	Process 1085 1096	interaction
+T47	State 1104 1125	conformational states
+T48	Protein 1147 1158	nitrogenase
+T49	Process 1159 1168	catalysis
+T50	Process 1174 1182	presence
+T51	Chemical 1186 1191	MgADP
+T52	Protein 1195 1215	Phe135Trp Fe protein
+T53	Process 1229 1238	mechanism
+T54	Process 1257 1270	communication
+T55	Chemical 1280 1290	nucleotide
+T56	Protein_part 1299 1303	site
+T57	Parameter 1322 1330	affinity
+T58	Protein 1339 1351	MoFe protein
+T59	Protein_part 1352 1361	component

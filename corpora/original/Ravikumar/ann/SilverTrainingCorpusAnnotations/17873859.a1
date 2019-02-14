@@ -1,0 +1,73 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 40	T4 endonuclease VII
+T3	Body_part 53 70	Holliday junction
+T4	Molecule 101 104	DNA
+T5	Body_part 105 113	junction
+T6	Molecule 120 132	intermediate
+T7	Process 136 160	homologous recombination
+T8	Body_part 171 189	Holliday junctions
+T9	Parameter 230 239	component
+T10	Molecule 243 246	DNA
+T11	Process 247 260	recombination
+T12	Process 265 271	repair
+T13	Organism 273 281	Phage T4
+T14	Protein 282 298	endonuclease VII
+T15	Protein 305 308	VII
+T16	Protein 324 330	enzyme
+T17	Body_part 348 366	Holliday junctions
+T18	Molecule 372 383	duplex DNAs
+T19	Location 399 410	symmetrical
+T20	Protein_part 431 438	strands
+T21	Body_part 448 465	Holliday junction
+T22	Protein 466 476	resolvases
+T23	Geometrical_part 522 531	structure
+T24	Protein 537 546	resolvase
+T25	Category 547 554	complex
+T26	Body_part 562 579	Holliday junction
+T27	Geometrical_part 617 634	crystal structure
+T28	Protein_part 650 652	T4
+T29	Unknown 658 667	VII(N62D)
+T30	Body_part 704 712	junction
+T31	Body_part 730 733	arm
+T32	Parameter 734 741	lengths
+T33	Protein_part 755 765	base pairs
+T34	Body_part 771 779	junction
+T35	State 830 839	stacked-X
+T36	State 840 852	conformation
+T37	Protein 859 862	VII
+T38	Body_part 882 890	junction
+T39	Geometrical_part 906 918	minor groove
+T40	Location 919 923	side
+T41	Value 941 945	14 A
+T42	Protein_part 946 947	x
+T43	Value 948 952	32 A
+T44	Process 973 984	interaction
+T45	Process 1009 1017	stacking
+T46	Protein_part 1029 1038	base pair
+T47	Body_part 1055 1063	junction
+T48	Process 1091 1103	interactions
+T49	Protein 1135 1142	protein
+T50	Molecule 1147 1150	DNA
+T51	Chemical 1151 1160	phosphate
+T52	Chemical 1187 1196	phosphate
+T53	Protein_part 1209 1219	base pairs
+T54	Chemical 1256 1264	Mg2+ ion
+T55	Protein_part 1272 1283	active site
+T56	Geometrical_part 1305 1310	shape
+T57	Geometrical_part 1315 1322	surface
+T58	Parameter 1323 1339	charge potential
+T59	Body_part 1347 1364	Holliday junction
+T60	Protein 1365 1375	resolvases
+T61	Protein 1381 1384	VII
+T62	Unknown 1386 1390	RuvC
+T63	Unknown 1392 1396	Ydc2
+T64	Unknown 1398 1401	Hjc
+T65	Unknown 1406 1410	RecU
+T66	Process 1427 1436	different
+T67	Geometrical_part 1437 1442	folds
+T68	Protein_part 1444 1455	active site
+T69	Process 1456 1467	composition
+T70	Molecule 1472 1475	DNA
+T71	Protein_part 1476 1484	sequence
+T72	Process 1517 1524	binding
+T73	Body_part 1534 1552	Holliday junctions

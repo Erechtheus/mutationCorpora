@@ -1,0 +1,88 @@
+T1	Process 11 16	basis
+T2	Process 43 51	function
+T3	Protein 55 72	small GTPase RHEB
+T4	Protein 78 95	small GTPase Rheb
+T5	Parameter 139 149	properties
+T6	Protein 171 184	small GTPases
+T7	Unknown 215 223	mediator
+T8	Protein 236 266	tumor suppressor proteins TSC1
+T9	Protein 271 275	TSC2
+T10	Protein 284 313	mammalian target of rapamycin
+T11	Body_part 327 331	cell
+T12	Process 332 338	growth
+T13	Geometrical_part 359 387	three-dimensional structures
+T14	Organism 391 396	human
+T15	Protein 397 401	Rheb
+T16	Category 405 414	complexes
+T17	Chemical 420 423	GDP
+T18	Chemical 425 428	GTP
+T19	Chemical 434 440	GppNHp
+T20	Unknown 442 450	5'-(beta
+T21	Chemical 451 475	gamma-imide)triphosphate
+T22	Protein 520 524	Rheb
+T23	Process 549 554	basis
+T24	Parameter 572 582	properties
+T25	Chemical 591 598	GTP/GDP
+T26	Process 608 614	switch
+T27	Unknown 615 616	I
+T28	Protein 620 624	Rheb
+T29	State 635 649	conformational
+T30	Process 650 656	change
+T31	Process 663 669	switch
+T32	Unknown 670 672	II
+T33	State 703 724	extended conformation
+T34	State 768 794	alpha-helical conformation
+T35	Protein 809 822	small GTPases
+T36	Process 835 841	switch
+T37	Unknown 842 844	II
+T38	State 845 857	conformation
+T39	Process 871 883	displacement
+T40	Protein_part 887 892	Gln64
+T41	Protein_part 922 927	Gln61
+T42	Protein 931 934	Ras
+T43	Chemical 977 980	GTP
+T44	Process 981 991	hydrolysis
+T45	Location 1024 1033	intrinsic
+T46	Protein 1034 1040	GTPase
+T47	Parameter 1041 1049	activity
+T48	Protein 1053 1057	Rheb
+T49	Process 1064 1077	rearrangement
+T50	Protein_part 1116 1126	side chain
+T51	Protein_part 1130 1135	Arg15
+T52	Geometrical_part 1150 1156	steric
+T53	Protein_part 1186 1193	residue
+T54	Process 1213 1227	noninvolvement
+T55	Chemical 1231 1234	GTP
+T56	Process 1235 1245	hydrolysis
+T57	Protein 1254 1257	Ras
+T58	Chemical 1263 1272	phosphate
+T59	Molecular_Part 1273 1279	moiety
+T60	Chemical 1283 1286	GTP
+T61	Protein 1290 1294	Rheb
+T62	Protein_part 1324 1329	Tyr35
+T63	Process 1333 1339	switch
+T64	Unknown 1340 1341	I
+T65	Process 1358 1365	closure
+T66	Chemical 1373 1376	GTP
+T67	Protein_part 1385 1389	site
+T68	Process 1421 1430	insertion
+T69	Chemical 1446 1454	arginine
+T70	Body_part 1455 1461	finger
+T71	Protein 1471 1477	GTPase
+T72	Protein 1489 1496	protein
+T73	Protein 1509 1516	genetic
+T74	Protein 1589 1593	Rheb
+T75	Molecular_Part 1606 1611	group
+T76	Unknown 1620 1637	Ras/Rap subfamily
+T77	Chemical 1655 1658	GTP
+T78	Process 1659 1669	hydrolysis
+T79	Process 1670 1679	mechanism
+T80	Protein_part 1695 1702	Asn1643
+T81	Physiology 1710 1728	tuberous sclerosis
+T82	Category 1729 1738	complex 2
+T83	Protein 1739 1745	GTPase
+T84	Protein 1757 1764	protein
+T85	Protein_part 1765 1771	domain
+T86	Protein_part 1783 1788	Gln64
+T87	Protein 1792 1796	Rheb
+T88	Protein_part 1814 1821	residue

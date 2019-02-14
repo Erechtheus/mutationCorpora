@@ -1,0 +1,40 @@
+T1	Process 15 20	basis
+T2	Chemical 24 31	aspirin
+T3	Parameter 32 40	activity
+T4	Geometrical_part 59 76	crystal structure
+T5	Protein 92 117	prostaglandin H2 synthase
+T6	Chemical 119 126	Aspirin
+T7	Physiology 138 155	anti-inflammatory
+T8	Process 156 163	effects
+T9	Process 182 193	acetylation
+T10	Protein_part 197 207	serine 530
+T11	Protein 211 243	prostaglandin H2 synthase (PGHS)
+T12	Value 265 270	3.4 A
+T13	Parameter 271 281	resolution
+T14	Technique 282 305	X-ray crystal structure
+T15	Protein 309 323	PGHS isoform-1
+T16	Chemical 350 394	aspirin analogue 2-bromoacetoxy-benzoic acid
+T17	Process 396 407	Acetylation
+T18	Unknown 416 424	analogue
+T19	Protein 435 449	cyclooxygenase
+T20	Parameter 450 458	activity
+T21	Geometrical_part 462 468	steric
+T22	Process 469 477	blockage
+T23	Protein 485 504	active-site channel
+T24	State 529 543	conformational
+T25	Process 544 550	change
+T26	State 567 583	rotameric states
+T27	Chemical 591 604	acetyl-serine
+T28	Protein_part 605 615	side chain
+T29	Protein 632 639	channel
+T30	Process 643 652	different
+T31	Process 704 711	effects
+T32	Chemical 715 722	aspirin
+T33	Protein 734 747	PGHS isoforms
+T34	Category 769 776	product
+T35	Chemical 777 791	salicylic acid
+T36	Process 792 799	binding
+T37	Protein_part 805 809	site
+T38	Process 843 849	effect
+T39	Chemical 853 860	aspirin
+T40	Parameter 861 869	activity

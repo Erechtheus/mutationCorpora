@@ -1,0 +1,72 @@
+T1	Process 11 16	basis
+T2	Protein 21 30	ubiquitin
+T3	Process 31 42	recognition
+T4	Organism 50 54	Otu1
+T5	Physiology 55 68	ovarian tumor
+T6	Protein_part 69 75	domain
+T7	Protein 76 83	protein
+T8	Process 85 99	Ubiquitination
+T9	Protein 103 111	proteins
+T10	Protein 121 128	protein
+T11	Process 129 137	function
+T12	Parameter 163 173	activities
+T13	Process 191 202	degradation
+T14	Body_part 222 233	subcellular
+T15	Process 234 246	localization
+T16	Protein 265 272	enzymes
+T17	Protein 277 286	proteases
+T18	Process 305 319	ubiquitination
+T19	Protein 355 363	proteins
+T20	Physiology 380 399	ovarian tumor (OTU)
+T21	Protein_part 400 406	domain
+T22	Parameter 432 440	activity
+T23	Protein_part 447 453	domain
+T24	Value 457 474	approximately 130
+T25	Protein_part 475 486	amino acids
+T26	Protein 512 525	papain family
+T27	Protein 529 538	proteases
+T28	Organism 568 573	yeast
+T29	Organism 577 584	mammals
+T30	Physiology 642 645	OTU
+T31	Protein_part 646 652	domain
+T32	Protein 664 671	protein
+T33	Organism 677 682	yeast
+T34	Organism 684 688	Otu1
+T35	Organism 703 707	Otu1
+T36	Protein 714 741	polyubiquitin chain analogs
+T37	Protein 811 831	polyubiquitin chains
+T38	Protein_part 837 853	Lys(48) linkages
+T39	Parameter 875 883	activity
+T40	Protein_part 887 895	Lys(63)-
+T41	Protein_part 900 907	Lys(29)
+T42	Protein 915 921	chains
+T43	Organism 942 946	Otu1
+T44	Molecule 962 967	Cdc48
+T45	Molecule 971 980	regulator
+T46	Body_part 988 990	ER
+T47	Process 1002 1013	degradation
+T48	Process 1014 1021	pathway
+T49	Molecule 1042 1047	x-ray
+T50	Geometrical_part 1048 1065	crystal structure
+T51	Physiology 1073 1076	OTU
+T52	Protein_part 1077 1083	domain
+T53	Protein 1087 1091	Otu1
+T54	Protein 1118 1127	ubiquitin
+T55	Unknown 1142 1151	structure
+T56	Process 1159 1170	mutagenesis
+T57	Protein 1197 1206	ubiquitin
+T58	Process 1207 1218	recognition
+T59	Process 1225 1234	variation
+T60	Protein 1242 1257	papain protease
+T61	Protein_part 1258 1272	catalytic site
+T62	Process 1273 1286	configuration
+T63	Physiology 1327 1330	OTU
+T64	Unknown 1331 1337	family
+T65	Protein 1341 1361	ubiquitin hydrolases
+T66	Protein 1413 1422	ubiquitin
+T67	Process 1435 1445	hydrolysis
+T68	Organism 1449 1454	yeast
+T69	Organism 1455 1459	Otu1
+T70	Physiology 1470 1473	OTU
+T71	Protein_part 1474 1480	domain
+T72	Protein 1492 1500	proteins

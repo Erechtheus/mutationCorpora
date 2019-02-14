@@ -1,0 +1,99 @@
+T1	Protein 23 27	IL-4
+T2	Parameter 48 56	affinity
+T3	Protein 95 108	IL-4 receptor
+T4	Protein 122 142	Interleukin 4 (IL-4)
+T5	Molecule 152 161	regulator
+T6	Body_part 169 182	immune system
+T7	Process 214 225	development
+T8	Physiology 229 237	allergic
+T9	Parameter 238 254	hypersensitivity
+T10	Protein 270 292	interleukin 13 (IL-13)
+T11	Protein 294 298	IL-4
+T12	Process 318 322	role
+T13	Physiology 339 347	allergic
+T14	Physiology 352 370	asthmatic symptoms
+T15	Process 376 395	signal transduction
+T16	Protein 402 411	cytokines
+T17	Protein 434 442	receptor
+T18	Protein 462 472	IL-4Ralpha
+T19	Protein 481 499	IL-13Ralpha1 chain
+T20	Process 558 567	functions
+T21	Protein 580 588	cytokine
+T22	Category 589 596	ligands
+T23	Process 617 627	similarity
+T24	Protein_part 635 654	amino acid sequence
+T25	Process 662 683	molecular recognition
+T26	Category 691 698	ligands
+T27	Protein 707 724	receptor subunits
+T28	Protein 747 751	IL-4
+T29	Protein 756 761	IL-13
+T30	Process 778 785	targets
+T31	Physiology 790 797	allergy
+T32	Physiology 802 808	asthma
+T33	Technique 809 818	therapies
+T34	Process 837 844	binding
+T35	Process 845 854	mechanism
+T36	Process 881 891	generation
+T37	Protein 902 906	IL-4
+T38	Protein 910 915	IL-13
+T39	Chemical 925 930	drugs
+T40	Process 954 972	structure/function
+T41	Technique 973 981	analysis
+T42	Protein 989 1009	IL-4 ligand-receptor
+T43	Process 1010 1021	interaction
+T44	Protein 1063 1076	IL-4 variants
+T45	Process 1100 1107	binding
+T46	Protein 1126 1130	IL-4
+T47	Protein 1153 1161	receptor
+T48	Protein 1162 1180	subunit IL-4Ralpha
+T49	Protein 1204 1219	protein-protein
+T50	Process 1271 1282	interaction
+T51	Process 1311 1318	binding
+T52	Protein 1322 1336	wild-type IL-4
+T53	Protein 1344 1363	receptor IL-4Ralpha
+T54	Protein_part 1424 1428	Glu9
+T55	Protein_part 1450 1455	Arg88
+T56	Parameter 1489 1508	free binding energy
+T57	Protein_part 1519 1533	residues Thr13
+T58	Protein_part 1537 1542	Phe82
+T59	Chemical 1567 1576	aspartate
+T60	Protein 1604 1617	IL-4 variants
+T61	Unknown 1665 1673	variants
+T62	Value 1688 1705	three-fold higher
+T63	Parameter 1706 1713	binding
+T64	Parameter 1714 1722	affinity
+T65	Protein 1727 1737	IL-4Ralpha
+T66	Physiology 1739 1750	Mutagenesis
+T67	Protein 1771 1776	IL-13
+T68	Process 1800 1807	binding
+T69	Protein_part 1827 1832	Glu11
+T70	Protein_part 1849 1854	Arg64
+T71	Protein 1884 1889	IL-13
+T72	Protein 1913 1920	protein
+T73	Geometrical_part 1931 1943	architecture
+T74	Geometrical_part 1969 1981	architecture
+T75	Protein 1989 2004	IL-4-IL-4Ralpha
+T76	Process 2035 2044	mechanism
+T77	Protein 2054 2062	proteins
+T78	Parameter 2089 2105	binding affinity
+T79	Parameter 2145 2153	affinity
+T80	Parameter 2240 2248	affinity
+T81	Parameter 2278 2296	binding affinities
+T82	Protein 2300 2304	IL-4
+T83	Protein 2309 2314	IL-13
+T84	Protein 2318 2328	IL-4Ralpha
+T85	Protein 2409 2417	receptor
+T86	Protein 2418 2436	subunit IL-4Ralpha
+T87	Protein 2458 2462	IL-4
+T88	Protein 2467 2472	IL-13
+T89	Process 2505 2516	interaction
+T90	Parameter 2572 2582	affinities
+T91	Process 2614 2625	interaction
+T92	Parameter 2666 2685	binding free energy
+T93	Protein 2705 2713	proteins
+T94	Parameter 2723 2731	affinity
+T95	Protein 2778 2791	growth factor
+T96	Protein 2792 2809	receptor families
+T97	Process 2827 2834	binding
+T98	Category 2855 2862	ligands
+T99	Parameter 2925 2943	binding affinities

@@ -1,0 +1,59 @@
+T1	Protein 0 6	S100A1
+T2	Protein 11 21	calmodulin
+T3	Process 43 50	binding
+T4	Protein_part 51 55	site
+T5	Protein 59 77	ryanodine receptor
+T6	Body_part 82 87	heart
+T7	Body_part 92 107	skeletal muscle
+T8	Protein 111 137	S100 protein family member
+T9	Protein 139 145	S100A1
+T10	Protein 161 185	ryanodine receptor (RyR)
+T11	Chemical 199 205	Ca(2+)
+T12	Process 206 213	release
+T13	Process 221 232	competition
+T14	Technique 233 247	binding assays
+T15	Unknown 279 285	system
+T16	Body_part 289 304	skeletal muscle
+T17	Chemical 321 334	Ca(2+)-S100A1
+T18	Protein 349 372	Ca(2+)-calmodulin (CaM)
+T19	Process 386 393	binding
+T20	Protein_part 394 398	site
+T21	Protein 403 407	RyR1
+T22	Technique 426 429	NMR
+T23	Unknown 430 439	structure
+T24	Chemical 459 472	Ca(2+)-S100A1
+T25	Protein_part 485 492	peptide
+T26	Protein 511 521	CaM/S100A1
+T27	Process 522 529	binding
+T28	Protein_part 530 536	domain
+T29	Protein_part 540 546	region
+T30	Protein 560 564	RyR1
+T31	Protein 569 573	RyR2
+T32	Protein 585 591	RyRP12
+T33	Protein_part 593 611	residues 3616-3627
+T34	Organism 615 620	human
+T35	Protein 621 625	RyR1
+T36	Process 628 639	Examination
+T37	Protein 647 660	S100A1-RyRP12
+T38	Category 661 668	complex
+T39	Protein_part 678 686	residues
+T40	Geometrical_part 694 701	helical
+T41	Protein_part 702 716	RyRP12 peptide
+T42	Protein_part 718 726	Lys-3616
+T43	Protein_part 729 737	Trp-3620
+T44	Protein_part 739 747	Lys-3622
+T45	Protein_part 749 757	Leu-3623
+T46	Protein_part 759 767	Leu-3624
+T47	Protein_part 773 781	Lys-3626
+T48	Process 844 856	interactions
+T49	Chemical 862 875	Ca(2+)-S100A1
+T50	Protein_part 888 896	residues
+T51	Protein 939 943	RyR1
+T52	Protein 955 965	Ca(2+)-CaM
+T53	Body_part 990 996	muscle
+T54	Process 997 1008	contraction
+T55	Chemical 1031 1044	Ca(2+)-S100A1
+T56	Protein 1049 1059	Ca(2+)-CaM
+T57	Process 1090 1097	binding
+T58	Protein_part 1098 1102	site
+T59	Protein 1110 1128	ryanodine receptor

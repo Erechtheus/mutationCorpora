@@ -1,0 +1,78 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Process 22 33	mutagenesis
+T3	Protein 58 62	MeaB
+T4	Process 64 71	insight
+T5	Chemical 92 105	methylmalonic
+T6	Physiology 106 114	aciduria
+T7	Protein 116 120	MeaB
+T8	Protein 137 144	protein
+T9	Process 166 170	role
+T10	Process 178 188	protection
+T11	Process 193 201	assembly
+T12	Unknown 209 214	B(12)
+T13	Protein 225 256	enzyme methylmalonyl-CoA mutase
+T14	Process 258 269	Impairments
+T15	Organism 277 282	human
+T16	Protein 283 292	homologue
+T17	Protein 296 300	MeaB
+T18	Protein 302 306	MMAA
+T19	Chemical 316 329	methylmalonic
+T20	Physiology 330 338	aciduria
+T21	Process 359 369	metabolism
+T22	Process 386 390	role
+T23	Geometrical_part 417 430	its structure
+T24	Chemical 450 465	nucleotide-free
+T25	Process 490 498	presence
+T26	Category 502 509	product
+T27	Chemical 511 514	GDP
+T28	Protein 516 520	MeaB
+T29	Protein 526 535	homodimer
+T30	Protein 547 554	subunit
+T31	Protein_part 593 601	G domain
+T32	Protein 625 638	GTPase family
+T33	Process 665 675	extensions
+T34	Protein_part 683 684	N
+T35	Protein_part 689 698	C termini
+T36	Protein 727 758	metalloenzyme chaperone GTPases
+T37	Protein_part 764 774	C-terminal
+T38	Process 775 784	extension
+T39	Chemical 813 823	nucleotide
+T40	Process 836 848	dimerization
+T41	Protein_part 858 875	N-terminal region
+T42	Protein 893 908	protein-protein
+T43	Process 909 920	interaction
+T44	Protein 938 945	protein
+T45	Protein 947 971	methylmalonyl-CoA mutase
+T46	Geometrical_part 977 986	structure
+T47	Protein 990 994	MeaB
+T48	Unknown 1017 1023	member
+T49	Protein 1031 1041	G3E family
+T50	Protein 1045 1059	P-loop GTPases
+T51	Unknown 1109 1113	HypB
+T52	Unknown 1115 1119	CooC
+T53	Unknown 1125 1129	UreG
+T54	Process 1160 1166	switch
+T55	Protein_part 1167 1174	regions
+T56	Process 1192 1211	signal transduction
+T57	Chemical 1223 1226	GTP
+T58	Process 1227 1237	hydrolysis
+T59	Protein 1256 1261	dimer
+T60	Protein 1275 1279	MeaB
+T61	Geometrical_part 1315 1322	surface
+T62	Protein 1330 1337	protein
+T63	Protein 1356 1388	protein methylmalonyl-CoA mutase
+T64	State 1436 1448	conformation
+T65	Process 1449 1455	change
+T66	Protein 1459 1463	MeaB
+T67	Chemical 1487 1491	GDP-
+T68	Chemical 1496 1499	GTP
+T69	Protein 1520 1527	protein
+T70	Parameter 1551 1568	sequence homology
+T71	Process 1574 1592	missense mutations
+T72	Protein 1597 1601	MMAA
+T73	Chemical 1617 1630	methylmalonic
+T74	Physiology 1631 1639	aciduria
+T75	Protein 1662 1666	MeaB
+T76	Process 1675 1686	conjunction
+T77	Process 1692 1703	mutagenesis
+T78	Physiology 1766 1773	disease

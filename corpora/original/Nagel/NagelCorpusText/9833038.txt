@@ -1,0 +1,9 @@
+Ichthyosis bullosa of Siemens is a rare autosomal dominant skin disorder whose clinical findings are quite similar to those of epidermolytic hyperkeratosis . 
+The differences between those two diseases include absence of erythroderma and different distributions in the skin in ichthyosis bullosa of Siemens . 
+Recent studies have confirmed that ichthyosis bullosa of Siemens is caused by the mutation in the keratin 2e (K2e) gene, which is expressed in the upper spinous and granular layers . 
+We have identified a sporadic case of ichthyosis bullosa of Siemens; based on diagnosis by histopathological findings, the K2e gene of the patient was analysed . 
+Direct sequencing of PCR products revealed a single base change in sequences encoding the highly conserved end of the 2B rod domain segment of the K2e gene . 
+This mutation results in substitution of the codon for glutamic acid by a codon for lysine in position 493 in K2e (E493K) . 
+Mutations of the K2e gene involving five different residue positions (Q187P, T485P, L490P, E493D, E493K and E494K) are known to cause ichthyosis bullosa of Siemens . 
+Of these sites, E493, which is conserved in type I and type II keratin genes, is the most frequently altered amino acid in the K2e gene . 
+These data together suggest that this codon constitutes a hot spot for mutations in the K2e gene . 

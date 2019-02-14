@@ -1,0 +1,90 @@
+T1	Unknown 0 10	Structures
+T2	Chemical 14 23	BmrR-drug
+T3	Category 24 33	complexes
+T4	Chemical 49 58	multidrug
+T5	Process 59 66	binding
+T6	Geometrical_part 67 73	pocket
+T7	Process 78 91	transcription
+T8	Process 92 102	activation
+T9	Protein_part 111 119	tyrosine
+T10	Process 120 129	expulsion
+T11	Protein 131 135	BmrR
+T12	Unknown 141 147	member
+T13	Unknown 155 166	MerR family
+T14	Chemical 173 182	multidrug
+T15	Process 183 190	binding
+T16	Protein 191 211	transcription factor
+T17	Process 235 245	expression
+T18	Protein 253 285	bmr multidrug efflux transporter
+T19	Protein 286 290	gene
+T20	Process 295 303	response
+T21	Chemical 325 343	cationic compounds
+T22	Process 360 369	mechanism
+T23	Protein 379 383	BmrR
+T24	Process 424 433	different
+T25	Chemical 434 439	drugs
+T26	Process 467 480	transcription
+T27	Geometrical_part 526 544	crystal structures
+T28	Protein 548 552	BmrR
+T29	Chemical 562 580	rhodamine 6G (R6G)
+T30	Chemical 584 593	berberine
+T31	Molecule 612 615	DNA
+T32	Unknown 623 633	structures
+T33	Chemical 646 650	drug
+T34	Protein_part 684 692	residues
+T35	Value 704 712	positive
+T36	Parameter 713 720	charges
+T37	Location 726 734	proximal
+T38	Chemical 742 753	carboxylate
+T39	Molecular_Part 754 759	group
+T40	Protein_part 763 770	Glu-253
+T41	Chemical 794 803	multidrug
+T42	Process 804 811	binding
+T43	Protein 829 833	BmrR
+T44	Process 845 857	Substitution
+T45	Protein_part 861 868	Glu-253
+T46	Protein_part 881 888	alanine
+T47	Protein_part 890 895	E253A
+T48	Chemical 900 909	glutamine
+T49	Chemical 911 916	E253Q
+T50	Parameter 944 962	binding affinities
+T51	Chemical 967 970	R6G
+T52	Chemical 972 975	Ber
+T53	Chemical 981 1003	tetraphenylphosphonium
+T54	Chemical 1021 1025	drug
+T55	Process 1026 1033	binding
+T56	Value 1058 1066	negative
+T57	Parameter 1067 1073	charge
+T58	Protein_part 1077 1084	Glu-253
+T59	Parameter 1111 1119	affinity
+T60	Unknown 1131 1134	Ber
+T61	Chemical 1139 1161	tetraphenylphosphonium
+T62	Process 1212 1216	role
+T63	Chemical 1220 1223	R6G
+T64	Process 1224 1231	binding
+T65	Process 1242 1255	transcription
+T66	Protein_part 1271 1276	E253A
+T67	Protein_part 1281 1286	E253Q
+T68	Unknown 1318 1328	structures
+T69	Chemical 1336 1345	drug-free
+T70	Protein 1346 1355	E253A-DNA
+T71	Protein 1360 1369	E253Q-DNA
+T72	Category 1370 1379	complexes
+T73	Process 1390 1403	transcription
+T74	Process 1404 1414	activation
+T75	Process 1415 1424	mechanism
+T76	Process 1439 1448	expulsion
+T77	Protein_part 1452 1459	Tyr-152
+T78	Chemical 1469 1478	multidrug
+T79	Process 1479 1486	binding
+T80	Geometrical_part 1487 1493	pocket
+T81	Process 1528 1537	mechanism
+T82	Protein 1547 1551	BmrR
+T83	Chemical 1570 1599	monovalent cationic compounds
+T84	Process 1616 1626	importance
+T85	Chemical 1688 1692	drug
+T86	Process 1693 1700	binding
+T87	Geometrical_part 1701 1707	pocket
+T88	Molecule 1750 1759	molecules
+T89	Category 1773 1783	substrates
+T90	Protein 1791 1816	Bmr multidrug efflux pump

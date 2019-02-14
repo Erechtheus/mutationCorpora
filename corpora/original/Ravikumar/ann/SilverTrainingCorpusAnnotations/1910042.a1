@@ -1,0 +1,72 @@
+T1	Body_part 13 18	mouth
+T2	Geometrical_part 36 42	pocket
+T3	Unknown 44 53	Structure
+T4	Parameter 58 66	kinetics
+T5	Organism 70 75	human
+T6	Protein 76 105	carbonic anhydrase II mutants
+T7	Protein_part 109 124	residue Val-121
+T8	Chemical 126 143	Eleven amino acid
+T9	Process 144 157	substitutions
+T10	Protein_part 161 168	Val-121
+T11	Organism 172 177	human
+T12	Protein 178 199	carbonic anhydrase II
+T13	Protein_part 210 213	Gly
+T14	Protein_part 215 218	Ala
+T15	Protein_part 220 223	Ser
+T16	Protein_part 225 228	Leu
+T17	Protein_part 230 233	Ile
+T18	Protein_part 235 238	Lys
+T19	Protein_part 244 247	Arg
+T20	Technique 269 294	site-directed mutagenesis
+T21	Protein_part 301 308	residue
+T22	Body_part 319 324	mouth
+T23	Geometrical_part 344 350	pocket
+T24	Protein 358 364	enzyme
+T25	Protein_part 365 376	active site
+T26	Protein 382 393	CO2 hydrase
+T27	Parameter 394 402	activity
+T28	Protein 411 433	p-nitrophenyl esterase
+T29	Parameter 434 442	activity
+T30	Unknown 452 465	CAII variants
+T31	Parameter 485 499	hydrophobicity
+T32	Protein_part 507 514	residue
+T33	Protein_part 566 573	residue
+T34	Process 591 600	catalysis
+T35	Process 606 613	effects
+T36	Process 623 632	mutations
+T37	Parameter 640 661	steady-state kinetics
+T38	Protein 666 669	CO2
+T39	Process 670 679	hydration
+T40	Parameter 696 703	kcat/Km
+T41	Parameter 708 710	Km
+T42	Process 728 739	involvement
+T43	Protein_part 748 755	residue
+T44	Protein 759 762	CO2
+T45	Process 763 774	association
+T46	Protein_part 780 794	Val-121----Ala
+T47	Molecule 795 801	mutant
+T48	Protein 841 852	CO2 hydrase
+T49	Parameter 853 861	activity
+T50	Technique 883 905	x-ray crystallographic
+T51	Process 930 937	changes
+T52	Protein 945 958	mutant enzyme
+T53	State 959 971	conformation
+T54	Protein 1000 1016	wild-type enzyme
+T55	Protein_part 1024 1031	Val-121
+T56	Body_part 1042 1047	mouth
+T57	Geometrical_part 1067 1073	pocket
+T58	Process 1079 1091	substitution
+T59	Chemical 1099 1105	methyl
+T60	Protein_part 1106 1116	side chain
+T61	Protein_part 1120 1127	alanine
+T62	Geometrical_part 1138 1144	pocket
+T63	Body_part 1145 1150	mouth
+T64	Protein 1188 1204	wild-type enzyme
+T65	Geometrical_part 1251 1257	pocket
+T66	Category 1275 1284	substrate
+T67	Process 1285 1296	association
+T68	Body_part 1306 1311	mouth
+T69	Geometrical_part 1320 1326	pocket
+T70	Protein 1383 1386	CO2
+T71	Chemical 1407 1411	zinc
+T72	Chemical 1418 1427	hydroxide

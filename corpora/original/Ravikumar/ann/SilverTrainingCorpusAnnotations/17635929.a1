@@ -1,0 +1,79 @@
+T1	Geometrical_part 10 14	loop
+T2	Location 22 35	active center
+T3	Organism 43 59	Escherichia coli
+T4	Protein 60 82	pyruvate dehydrogenase
+T5	Category 83 90	complex
+T6	Geometrical_part 91 103	E1 component
+T7	Category 114 123	substrate
+T8	Process 124 135	utilization
+T9	Chemical 140 148	chemical
+T10	Process 149 162	communication
+T11	Geometrical_part 172 184	E2 component
+T12	Technique 190 206	crystallographic
+T13	Location 235 248	active center
+T14	Geometrical_part 249 254	loops
+T15	Location 259 264	inner
+T16	Geometrical_part 265 269	loop
+T17	Protein_part 280 296	residues 401-413
+T18	Location 301 306	outer
+T19	Geometrical_part 307 311	loop
+T20	Protein_part 322 338	residues 541-557
+T21	Geometrical_part 347 359	E1 component
+T22	Organism 367 383	Escherichia coli
+T23	Protein 384 406	pyruvate dehydrogenase
+T24	Category 407 414	complex
+T25	Category 450 459	substrate
+T26	Unknown 460 466	analog
+T27	Chemical 504 523	thiamin diphosphate
+T28	Molecule 539 551	intermediate
+T29	Protein_part 568 583	residue His-407
+T30	Location 591 596	inner
+T31	Geometrical_part 597 601	loop
+T32	Process 612 616	role
+T33	Process 624 633	mechanism
+T34	Process 663 674	acetylation
+T35	Organism 682 689	E. coli
+T36	Protein 690 721	dihydrolipoamide transacetylase
+T37	Protein_part 722 731	component
+T38	Technique 741 757	crystallographic
+T39	Process 775 779	role
+T40	Protein_part 788 795	residue
+T41	Process 816 830	transformation
+T42	Geometrical_part 844 849	loops
+T43	State 867 879	conformation
+T44	Process 907 915	contacts
+T45	Location 928 933	inner
+T46	Geometrical_part 934 938	loop
+T47	Location 947 960	active center
+T48	Technique 973 980	mapping
+T49	Protein_part 998 1006	residues
+T50	Location 1014 1019	inner
+T51	Geometrical_part 1020 1024	loop
+T52	Parameter 1026 1033	Kinetic
+T53	Technique 1035 1048	spectroscopic
+T54	Technique 1055 1071	crystallographic
+T55	Location 1088 1093	inner
+T56	Geometrical_part 1094 1098	loop
+T57	Unknown 1099 1107	variants
+T58	Protein_part 1140 1148	residues
+T59	Protein_part 1158 1165	His-407
+T60	Location 1214 1219	inner
+T61	Geometrical_part 1220 1224	loop
+T62	Protein_part 1264 1275	active site
+T63	Physiology 1312 1320	disorder
+T64	Process 1330 1340	transition
+T65	Location 1356 1361	inner
+T66	Geometrical_part 1362 1366	loop
+T67	Category 1385 1394	substrate
+T68	Process 1395 1400	entry
+T69	Protein_part 1408 1419	active site
+T70	Protein_part 1438 1449	active site
+T71	Location 1477 1481	side
+T72	Process 1482 1491	reactions
+T73	Process 1508 1521	communication
+T74	Geometrical_part 1534 1536	E1
+T75	Geometrical_part 1541 1554	E2 components
+T76	Organism 1562 1569	E. coli
+T77	Protein 1570 1592	pyruvate dehydrogenase
+T78	Protein 1593 1604	multienzyme
+T79	Category 1605 1612	complex

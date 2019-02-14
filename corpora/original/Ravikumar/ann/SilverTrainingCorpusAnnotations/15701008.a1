@@ -1,0 +1,69 @@
+T1	Chemical 40 49	cation-Pi
+T2	Process 50 62	interactions
+T3	Unknown 66 79	lectin-ligand
+T4	Category 80 89	complexes
+T5	Protein 105 115	galectin-3
+T6	Category 116 126	inhibitors
+T7	Chemical 153 167	arginine-arene
+T8	Process 168 179	interaction
+T9	Technique 201 225	X-ray crystal structures
+T10	Chemical 233 245	carbohydrate
+T11	Protein_part 246 264	recognition domain
+T12	Organism 268 273	human
+T13	Protein 274 284	galectin-3
+T14	Category 300 307	complex
+T15	Chemical 313 341	N-acetyllactosamine (LacNAc)
+T16	Category 364 373	inhibitor
+T17	Chemical 375 504	methyl 2-acetamido-2-deoxy-4-O-(3-deoxy-3-[4-methoxy-2,3,5,6-tetrafluorobenzamido]-beta-D-galactopyranose)-beta-D-glucopyranoside
+T18	Process 514 521	insight
+T19	Process 531 536	basis
+T20	Parameter 545 553	affinity
+T21	Process 564 570	effect
+T22	Chemical 578 616	4-methoxy-2,3,5,6-tetrafluorobenzamido
+T23	Molecular_Part 617 623	moiety
+T24	Unknown 629 639	structures
+T25	Protein_part 654 664	side chain
+T26	Protein_part 668 674	Arg144
+T27	Molecular_Part 703 709	moiety
+T28	Category 717 726	inhibitor
+T29	Process 731 742	interaction
+T30	Process 762 775	reorientation
+T31	Protein_part 783 793	side chain
+T32	Chemical 823 829	LacNAc
+T33	Category 830 837	complex
+T34	Unknown 854 864	structures
+T35	Process 866 875	synthesis
+T36	Value 879 896	second generation
+T37	Chemical 897 915	LacNAc derivatives
+T38	Chemical 925 940	aromatic amides
+T39	Unknown 944 948	3'-C
+T40	Process 962 971	screening
+T41	Technique 985 997	fluorescence
+T42	Parameter 998 1010	polarization
+T43	Technique 1011 1016	assay
+T44	Process 1033 1047	identification
+T45	Category 1051 1061	inhibitors
+T46	Parameter 1084 1092	affinity
+T47	Protein 1097 1107	galectin-3
+T48	Value 1121 1127	320 nM
+T49	Parameter 1148 1158	parameters
+T50	Process 1175 1182	binding
+T51	Protein_part 1190 1211	galectin-3 C-terminal
+T52	Category 1224 1234	inhibitors
+T53	Process 1265 1274	titration
+T54	Technique 1275 1286	calorimetry
+T55	Parameter 1307 1315	affinity
+T56	Process 1316 1328	enhancements
+T57	Process 1361 1374	contributions
+T58	Process 1382 1394	enhancements
+T59	Process 1433 1440	effects
+T60	Category 1448 1457	inhibitor
+T61	Unknown 1467 1476	structure
+T62	Chemical 1482 1491	cation-Pi
+T63	Process 1492 1503	interaction
+T64	Process 1518 1530	interactions
+T65	Unknown 1552 1564	substituents
+T66	Protein 1573 1580	protein
+T67	Process 1626 1638	interactions
+T68	Chemical 1691 1705	arginine-arene
+T69	Process 1706 1718	interactions

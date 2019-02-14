@@ -1,0 +1,79 @@
+T1	Molecule 15 21	proton
+T2	Process 22 30	transfer
+T3	Molecule 43 51	catalyst
+T4	Organism 55 64	mammalian
+T5	Protein 65 99	fructose-1,6-bisphosphate aldolase
+T6	Protein 101 144	Class I fructose-1,6-bisphosphate aldolases
+T7	Process 158 173	interconversion
+T8	Chemical 187 194	enamine
+T9	Chemical 199 206	iminium
+T10	Protein 216 225	enzymatic
+T11	Molecule 226 239	intermediates
+T12	Process 258 266	exchange
+T13	Molecule 274 287	pro(S) proton
+T14	Chemical 295 331	dihydroxyacetone-phosphate C3 carbon
+T15	Process 347 355	reaction
+T16	Category 368 377	substrate
+T17	Process 378 386	cleavage
+T18	Process 407 416	mechanism
+T19	Molecule 436 442	proton
+T20	Process 443 451	exchange
+T21	Parameter 458 468	resolution
+T22	Geometrical_part 469 487	crystal structures
+T23	Protein_part 504 519	mutant Lys(146)
+T24	Protein_part 524 527	Met
+T25	Protein 528 536	aldolase
+T26	Category 552 559	complex
+T27	Chemical 565 591	dihydroxyacetone phosphate
+T28	Technique 608 616	analysis
+T29	Chemical 642 662	enamine intermediate
+T30	Protein_part 666 674	Lys(229)
+T31	Protein 685 693	aldolase
+T32	Process 695 703	Mutation
+T33	Protein_part 717 736	active site residue
+T34	Protein_part 737 745	Lys(146)
+T35	Protein_part 749 752	Met
+T36	Parameter 775 783	activity
+T37	Chemical 813 842	putative iminium intermediate
+T38	Geometrical_part 850 867	crystal structure
+T39	Protein_part 876 887	active site
+T40	Process 888 898	attachment
+T41	Protein_part 902 929	C-terminal residues 360-363
+T42	Process 931 941	Attachment
+T43	Chemical 966 994	C-terminal Tyr(363) hydroxyl
+T44	Value 1002 1006	2.9A
+T45	Chemical 1014 1023	C3 carbon
+T46	Chemical 1031 1038	iminium
+T47	Process 1045 1056	orientation
+T48	Body_part 1086 1090	face
+T49	Molecule 1091 1097	proton
+T50	Process 1098 1106	transfer
+T51	Process 1121 1140	catalytic mechanism
+T52	Protein_part 1161 1180	C-terminal Tyr(363)
+T53	Chemical 1201 1218	iminium phosphate
+T54	Chemical 1248 1262	water molecule
+T55	Value 1310 1318	negative
+T56	Parameter 1319 1325	charge
+T57	Protein_part 1345 1353	Lys(146)
+T58	Value 1354 1362	positive
+T59	Parameter 1363 1369	charge
+T60	Molecule 1395 1411	C3 pro(S) proton
+T61	Chemical 1424 1431	enamine
+T62	Protein_part 1446 1456	C-terminal
+T63	Process 1457 1464	binding
+T64	Process 1486 1494	presence
+T65	Chemical 1498 1507	phosphate
+T66	Protein_part 1522 1553	structure corroborates Tyr(363)
+T67	Process 1554 1565	interaction
+T68	Protein_part 1571 1579	Lys(146)
+T69	Protein_part 1613 1623	C terminus
+T70	Process 1624 1631	binding
+T71	Chemical 1639 1646	enamine
+T72	Process 1652 1659	absence
+T73	Parameter 1663 1669	charge
+T74	Process 1670 1683	stabilization
+T75	Protein_part 1700 1710	C-terminal
+T76	Molecule 1711 1719	catalyst
+T77	State 1747 1756	stability
+T78	Chemical 1760 1781	enamine intermediates
+T79	Protein 1785 1799	transaldolases

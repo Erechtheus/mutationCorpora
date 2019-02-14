@@ -1,0 +1,50 @@
+T1	Unknown 0 13	4-Substituted
+T2	Protein 31 54	spectrum beta-lactamase
+T3	Category 55 65	inhibitors
+T4	Unknown 67 76	structure
+T5	Process 91 100	synthesis
+T6	Parameter 106 125	biological activity
+T7	Organism 145 154	pathogens
+T8	Chemical 169 182	antimicrobial
+T9	Parameter 183 193	resistance
+T10	Process 224 232	response
+T11	Unknown 257 270	antibacterial
+T12	Chemical 322 332	antibiotic
+T13	Chemical 359 371	beta-lactams
+T14	Process 421 430	mechanism
+T15	Organism 434 443	bacterial
+T16	Parameter 444 454	resistance
+T17	Process 462 471	synthesis
+T18	Protein 475 490	beta-lactamases
+T19	Protein 492 514	Class C beta-lactamase
+T20	Protein 516 523	enzymes
+T21	Protein 538 555	cephalosporinases
+T22	Process 608 616	exposure
+T23	Chemical 625 643	beta-lactam agents
+T24	Process 661 671	inhibition
+T25	Protein 684 698	beta-lactamase
+T26	Category 699 709	inhibitors
+T27	Parameter 849 868	inhibitory activity
+T28	Organism 894 903	bacterial
+T29	Protein 904 919	beta-lactamases
+T30	Unknown 929 930	C
+T31	Chemical 974 982	compound
+T32	Unknown 983 989	LK-157
+T33	Process 1015 1024	mechanism
+T34	Process 1044 1053	Acylation
+T35	Protein_part 1061 1072	active site
+T36	Protein_part 1073 1079	Ser 64
+T37	Protein 1087 1101	class C enzyme
+T38	Protein 1102 1116	beta-lactamase
+T39	Geometrical_part 1144 1162	crystal structures
+T40	Category 1170 1180	inhibitors
+T41	Category 1181 1190	complexes
+T42	Protein 1194 1205	AmpC enzyme
+T43	Organism 1211 1221	E. cloacae
+T44	Unknown 1223 1241	Structure-activity
+T45	Parameter 1242 1255	relationships
+T46	Process 1281 1291	importance
+T47	Geometrical_part 1307 1315	scaffold
+T48	Parameter 1320 1339	inhibitory activity
+T49	Parameter 1360 1369	potential
+T50	Process 1397 1408	development

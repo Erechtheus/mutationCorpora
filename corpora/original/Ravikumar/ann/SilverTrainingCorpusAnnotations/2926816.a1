@@ -1,0 +1,74 @@
+T1	Organism 0 16	Aplysia limacina
+T2	Protein 17 26	myoglobin
+T3	Technique 28 53	Crystallographic analysis
+T4	Value 57 62	1.6 A
+T5	Parameter 63 73	resolution
+T6	Geometrical_part 79 96	crystal structure
+T7	Chemical 104 110	ferric
+T8	Protein 119 128	myoglobin
+T9	Organism 138 162	mollusc Aplysia limacina
+T10	Value 183 188	1.6 A
+T11	Parameter 189 199	resolution
+T12	Technique 215 231	crystallographic
+T13	Process 232 242	refinement
+T14	Technique 256 272	crystallographic
+T15	Parameter 273 281	R-factor
+T16	Value 285 289	0.19
+T17	Geometrical_part 295 313	tertiary structure
+T18	Molecule 321 329	molecule
+T19	Protein 353 359	globin
+T20	Geometrical_part 360 364	fold
+T21	Protein_part 386 399	alpha-helices
+T22	Protein_part 405 423	N-terminal helix A
+T23	Protein_part 428 435	helix G
+T24	Protein_part 478 492	distal residue
+T25	Protein_part 510 515	Val63
+T26	Protein_part 516 517	(
+T27	Protein_part 517 519	E7
+T28	Protein_part 519 520	)
+T29	Chemical 559 563	heme
+T30	Location 594 600	distal
+T31	Process 602 615	co-ordination
+T32	Chemical 628 637	heme iron
+T33	Chemical 659 673	water molecule
+T34	Chemical 704 717	acid-alkaline
+T35	Process 718 728	transition
+T36	Organism 738 749	A. limacina
+T37	Protein 750 759	myoglobin
+T38	Chemical 765 769	heme
+T39	Molecular_Part 770 775	group
+T40	Process 816 827	orientation
+T41	Chemical 844 848	heme
+T42	Chemical 876 885	iron atom
+T43	Value 889 895	0.26 A
+T44	Chemical 907 916	porphyrin
+T45	Parameter 931 935	mean
+T46	Chemical 936 940	Fe-N
+T47	Chemical 942 951	porphyrin
+T48	Parameter 953 961	distance
+T49	Value 965 971	2.01 A
+T50	Process 977 990	co-ordination
+T51	Chemical 991 995	bond
+T52	Location 1003 1011	proximal
+T53	Protein_part 1012 1021	histidine
+T54	Parameter 1029 1035	length
+T55	Value 1039 1045	2.05 A
+T56	Parameter 1060 1065	angle
+T57	Value 1069 1078	4 degrees
+T58	Chemical 1088 1092	heme
+T59	Chemical 1124 1138	imidazole ring
+T60	Location 1146 1154	proximal
+T61	Protein_part 1155 1158	His
+T62	Chemical 1174 1178	heme
+T63	Parameter 1185 1190	angle
+T64	Value 1194 1204	29 degrees
+T65	Chemical 1215 1224	porphyrin
+T66	Unknown 1226 1231	4N-2N
+T67	Process 1232 1241	direction
+T68	Process 1243 1253	Inspection
+T69	Unknown 1261 1270	structure
+T70	Parameter 1274 1276	pH
+T71	Value 1277 1280	9.0
+T72	Chemical 1298 1310	hydroxyl ion
+T73	Chemical 1327 1329	Fe
+T74	Process 1336 1349	co-ordination

@@ -1,0 +1,51 @@
+T1	Process 26 42	characterization
+T2	Protein 54 65	phosphatase
+T3	Organism 75 95	Arabidopsis thaliana
+T4	Protein 96 100	gene
+T5	Protein_part 101 116	locus At1g05000
+T6	Geometrical_part 122 139	crystal structure
+T7	Protein 147 154	protein
+T8	Category 155 162	product
+T9	Protein 170 174	gene
+T10	Protein_part 175 190	locus At1g05000
+T11	Protein 207 214	protein
+T12	Organism 220 231	A. thaliana
+T13	Process 286 297	diffraction
+T14	Parameter 327 335	R factor
+T15	Value 339 344	20.4%
+T16	Value 356 361	24.9%
+T17	Value 366 371	3.3 A
+T18	Protein 377 384	protein
+T19	Geometrical_part 396 411	alpha/beta fold
+T20	Protein 421 442	cysteine phosphatases
+T21	Unknown 446 457	superfamily
+T22	Protein 461 473	phosphatases
+T23	Protein_part 499 507	cysteine
+T24	Chemical 528 556	thiol-phosphate intermediate
+T25	Protein 588 597	At1g05000
+T26	Protein_part 613 621	cysteine
+T27	Protein_part 623 631	Cys(150)
+T28	Geometrical_part 682 688	pocket
+T29	Protein_part 699 707	residues
+T30	Chemical 735 743	arginine
+T31	Protein_part 746 754	Arg(156)
+T32	Geometrical_part 763 772	signature
+T33	Protein_part 773 790	active site motif
+T34	Protein_part 792 801	HCxxGxxRT
+T35	Protein 815 826	phosphatase
+T36	Category 827 837	substrates
+T37	Protein 867 876	At1g05000
+T38	Parameter 892 900	activity
+T39	Chemical 909 938	polyphosphate (poly-P(12-13))
+T40	Chemical 943 953	deoxyribo-
+T41	Chemical 958 986	ribonucleoside triphosphates
+T42	Parameter 997 1005	activity
+T43	Chemical 1013 1032	phosphoenolpyruvate
+T44	Chemical 1034 1049	phosphotyrosine
+T45	Chemical 1051 1066	phosphotyrosine
+T46	Protein_part 1078 1086	peptides
+T47	Chemical 1092 1114	phosphatidyl inositols
+T48	Chemical 1116 1138	Divalent metal cations
+T49	Parameter 1161 1169	activity
+T50	Process 1185 1191	effect
+T51	Process 1199 1207	reaction

@@ -1,0 +1,54 @@
+T1	Process 0 9	Mechanism
+T2	Chemical 13 22	metal ion
+T3	Process 23 33	activation
+T4	Molecule 41 72	diphtheria toxin repressor DtxR
+T5	Molecule 78 111	diphtheria toxin repressor (DtxR)
+T6	Chemical 117 126	metal ion
+T7	Molecule 137 162	transcriptional regulator
+T8	Physiology 191 200	virulence
+T9	Organism 204 231	Corynebacterium diphtheriae
+T10	Unknown 233 242	Structure
+T11	Chemical 286 295	metal ion
+T12	Process 296 303	binding
+T13	Protein_part 304 309	sites
+T14	Protein 315 332	repressor monomer
+T15	Technique 338 363	site-directed mutagenesis
+T16	Process 386 393	binding
+T17	Protein_part 394 400	site 2
+T18	Process 428 439	recognition
+T19	Process 447 453	target
+T20	Molecule 454 467	DNA repressor
+T21	Process 481 485	role
+T22	Process 489 496	binding
+T23	Protein_part 497 503	site 1
+T24	Technique 538 548	techniques
+T25	Process 581 588	binding
+T26	Protein_part 589 595	site 1
+T27	Parameter 617 625	affinity
+T28	Chemical 631 640	metal ion
+T29	Parameter 648 664	binding constant
+T30	Value 668 678	2 x 10(-7)
+T31	Process 680 687	binding
+T32	Protein_part 688 694	site 2
+T33	Process 723 730	binding
+T34	Protein_part 731 735	site
+T35	Parameter 743 759	binding constant
+T36	Value 763 775	6.3 x 10(-4)
+T37	Process 787 794	binding
+T38	Protein_part 795 800	sites
+T39	Process 842 854	contribution
+T40	Technique 894 913	mutational analysis
+T41	Process 952 959	binding
+T42	Protein_part 960 966	site 1
+T43	Chemical 1018 1027	metal ion
+T44	Process 1029 1039	activation
+T45	Process 1060 1064	role
+T46	Process 1068 1081	stabilization
+T47	Molecule 1089 1098	repressor
+T48	Molecule 1146 1166	mutants Ni-DtxR(H79A
+T49	Molecule 1167 1173	C102D)
+T50	Molecule 1219 1229	DtxR(H79A)
+T51	Process 1259 1268	mechanism
+T52	Chemical 1272 1277	metal
+T53	Process 1278 1288	activation
+T54	Molecule 1293 1297	DtxR

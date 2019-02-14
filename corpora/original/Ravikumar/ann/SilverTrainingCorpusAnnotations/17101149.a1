@@ -1,0 +1,72 @@
+T1	Protein 3 64	anti-urokinase plasminogen activator receptor (uPAR) antibody
+T2	Geometrical_part 66 83	crystal structure
+T3	Protein 88 103	binding epitope
+T4	Organism 105 110	Human
+T5	Location 229 245	microenvironment
+T6	Organism 254 259	human
+T7	Physiology 260 267	cancers
+T8	Geometrical_part 294 299	array
+T9	Location 303 316	extracellular
+T10	Molecule 317 326	molecules
+T11	Protein 331 350	anti-uPAR  antibody
+T12	Protein 352 358	ATN615
+T13	Body_part 379 388	hybridoma
+T14	Molecule 406 414	antibody
+T15	Protein 424 428	uPAR
+T16	Parameter 448 456	affinity
+T17	Value 463 481	approximately 1 nM
+T18	Chemical 511 514	uPA
+T19	Protein 526 530	uPAR
+T20	Geometrical_part 551 568	crystal structure
+T21	Protein_part 576 588	Fab fragment
+T22	Protein 592 598	ATN615
+T23	Value 602 608	1.77 A
+T24	Technique 617 625	analysis
+T25	Protein 629 645	ATN615-suPAR-ATF
+T26	Geometrical_part 646 655	structure
+T27	Protein 705 717	ATN615-suPAR
+T28	Process 718 729	interaction
+T29	Protein_part 735 777	complementarity determining regions (CDRs)
+T30	Protein 781 787	ATN615
+T31	Protein_part 829 837	residues
+T32	Geometrical_part 881 888	surface
+T33	Unknown 894 913	ATN615 Fab fragment
+T34	Protein_part 925 933	domain 3
+T35	Protein 937 942	suPAR
+T36	Protein 948 964	antibody-antigen
+T37	Process 965 976	recognition
+T38	Protein_part 989 1003	suPAR residues
+T39	Protein_part 1011 1023	Fab residues
+T40	Protein_part 1034 1038	CDRs
+T41	Protein_part 1069 1075	Pro188
+T42	Protein_part 1077 1083	Asn190
+T43	Protein_part 1085 1091	Gly191
+T44	Protein_part 1097 1112	Arg192 residues
+T45	Protein 1116 1120	uPAR
+T46	Protein_part 1134 1142	residues
+T47	Molecule 1151 1159	antibody
+T48	Process 1160 1171	recognition
+T49	Protein_part 1179 1185	Pro189
+T50	Protein_part 1190 1196	Arg192
+T51	Protein 1219 1225	ATN615
+T52	Organism 1230 1235	human
+T53	Protein 1236 1240	uPAR
+T54	Protein 1262 1278	antibody-antigen
+T55	Process 1301 1308	contact
+T56	Parameter 1309 1313	area
+T57	Process 1328 1339	interaction
+T58	Parameter 1388 1404	binding strength
+T59	Chemical 1427 1444	solvent molecules
+T60	Chemical 1458 1478	polyethylene glycols
+T61	Process 1509 1516	binding
+T62	Molecule 1535 1543	antibody
+T63	Protein 1548 1555	antigen
+T64	Chemical 1573 1590	solvent molecules
+T65	Process 1624 1631	binding
+T66	Protein 1640 1645	suPAR
+T67	Protein 1650 1660	ATN615 Fab
+T68	Protein 1662 1668	ATN615
+T69	Process 1700 1707	changes
+T70	Protein_part 1715 1725	CDR region
+T71	Protein 1731 1738	antigen
+T72	Process 1739 1746	binding

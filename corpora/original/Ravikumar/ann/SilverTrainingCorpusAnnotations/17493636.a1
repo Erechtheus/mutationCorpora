@@ -1,0 +1,104 @@
+T1	State 0 14	Conformational
+T2	Process 15 22	changes
+T3	Process 34 41	binding
+T4	Chemical 42 58	UDP-2F-galactose
+T5	Protein 62 94	alpha-1,3 galactosyltransferase-
+T6	Process 95 107	implications
+T7	Process 112 121	catalysis
+T8	Protein 123 165	Alpha-1,3 galactosyltransferase (alpha3GT)
+T9	Process 180 188	transfer
+T10	Chemical 192 201	galactose
+T11	Chemical 207 220	UDP-galactose
+T12	Protein 224 228	beta
+T13	Chemical 236 248	galactosides
+T14	Process 254 263	retention
+T15	State 271 276	alpha
+T16	Process 277 290	configuration
+T17	Category 309 318	complexes
+T18	Protein 322 330	alpha3GT
+T19	Category 336 346	inhibitors
+T20	Category 351 361	substrates
+T21	Unknown 385 394	structure
+T22	Category 420 427	complex
+T23	Chemical 446 459	UDP-galactose
+T24	Geometrical_part 477 486	structure
+T25	Category 492 499	complex
+T26	Unknown 525 533	analogue
+T27	Chemical 537 550	UDP-galactose
+T28	Chemical 552 568	UDP-2F-galactose
+T29	Category 575 582	complex
+T30	Protein_part 592 601	Arg365Lys
+T31	Molecule 602 608	mutant
+T32	Protein 612 620	alpha3GT
+T33	Category 626 635	inhibitor
+T34	Process 666 679	configuration
+T35	Process 684 694	comparison
+T36	Unknown 704 713	structure
+T37	Process 760 771	interaction
+T38	Process 791 798	changes
+T39	Protein 806 812	enzyme
+T40	Process 825 829	role
+T41	State 834 846	ground state
+T42	Process 847 862	destabilization
+T43	Process 866 875	catalysis
+T44	Process 902 911	reduction
+T45	Protein 934 940	enzyme
+T46	Process 962 971	reduction
+T47	Technique 975 991	crystallographic
+T48	Parameter 992 1001	B-factors
+T49	Geometrical_part 1007 1012	loops
+T50	Protein_part 1033 1039	Trp195
+T51	Protein_part 1065 1078	C-terminal 11
+T52	Protein_part 1079 1087	residues
+T53	Process 1113 1120	changes
+T54	Category 1124 1133	complexes
+T55	Chemical 1139 1142	UDP
+T56	Chemical 1147 1162	UDP derivatives
+T57	Process 1178 1191	configuration
+T58	Chemical 1206 1222	UDP-2F-galactose
+T59	Category 1230 1237	complex
+T60	Process 1265 1277	interactions
+T61	Protein_part 1283 1291	residues
+T62	Geometrical_part 1301 1305	part
+T63	Geometrical_part 1330 1335	loops
+T64	Physiology 1337 1348	Mutagenesis
+T65	Process 1353 1363	truncation
+T66	Protein_part 1414 1433	amino acid residues
+T67	Protein_part 1441 1458	C-terminal region
+T68	Protein_part 1460 1466	Lys359
+T69	Protein_part 1471 1477	Arg365
+T70	Process 1496 1505	catalysis
+T71	Process 1533 1538	roles
+T72	Category 1548 1554	ligand
+T73	State 1564 1578	conformational
+T74	Process 1579 1586	changes
+T75	Chemical 1598 1604	Mn(2+)
+T76	Category 1605 1613	cofactor
+T77	Protein_part 1641 1655	catalytic site
+T78	Category 1661 1668	complex
+T79	Protein_part 1676 1685	Arg365Lys
+T80	Chemical 1691 1694	UDP
+T81	Process 1740 1744	role
+T82	Chemical 1761 1764	UDP
+T83	Process 1765 1772	release
+T84	Parameter 1790 1797	kinetic
+T85	Protein 1816 1824	alpha3GT
+T86	Parameter 1825 1833	activity
+T87	Process 1849 1856	binding
+T88	Chemical 1864 1878	manganese ions
+T89	State 1880 1894	Conformational
+T90	Process 1895 1902	changes
+T91	Protein_part 1911 1924	C-terminal 11
+T92	Protein_part 1925 1933	residues
+T93	Process 1953 1967	reorganization
+T94	Protein_part 1975 1986	Trp195 loop
+T95	Protein 2005 2011	enzyme
+T96	Category 2060 2065	donor
+T97	Category 2066 2075	substrate
+T98	Process 2076 2086	distortion
+T99	Process 2088 2096	cleavage
+T100	Chemical 2104 2122	UDP-galactose bond
+T101	Chemical 2124 2133	galactose
+T102	Process 2134 2142	transfer
+T103	Chemical 2148 2151	UDP
+T104	Process 2152 2159	release

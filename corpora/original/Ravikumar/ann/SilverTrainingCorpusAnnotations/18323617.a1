@@ -1,0 +1,60 @@
+T1	Process 0 10	Modulation
+T2	Parameter 14 22	activity
+T3	Protein_part 26 32	Arg407
+T4	Unknown 34 43	structure
+T5	Organism 49 55	fungal
+T6	Protein 56 77	alpha-1,2-mannosidase
+T7	Category 82 89	complex
+T8	Category 97 106	substrate
+T9	Unknown 107 115	analogue
+T10	Protein 117 143	Class I alpha-mannosidases
+T11	Unknown 145 176	glycoside hydrolase family GH47
+T12	Process 187 192	roles
+T13	Process 200 210	maturation
+T14	Protein 214 223	N-glycans
+T15	Body_part 232 234	ER
+T16	Process 246 257	degradation
+T17	Protein 270 283	glycoproteins
+T18	Value 289 295	1.95 A
+T19	Parameter 296 306	resolution
+T20	Unknown 307 316	structure
+T21	Organism 322 328	fungal
+T22	Protein 329 350	alpha-1,2-mannosidase
+T23	Category 355 362	complex
+T24	Category 372 381	substrate
+T25	Chemical 382 450	analogue methyl-alpha-D-lyxopyranosyl-(1',2)-alpha-D-mannopyranoside
+T26	Chemical 452 454	LM
+T27	Chemical 473 485	disaccharide
+T28	Value 499 504	-1/+1
+T29	Protein_part 505 513	subsites
+T30	Geometrical_part 524 539	D-lyxoside ring
+T31	Protein_part 547 557	-1 subsite
+T32	Unknown 565 568	1C4
+T33	State 575 587	conformation
+T34	Process 602 609	insight
+T35	Process 619 628	mechanism
+T36	Process 632 641	catalysis
+T37	Process 647 654	absence
+T38	Chemical 662 679	C5' hydroxymethyl
+T39	Molecular_Part 680 685	group
+T40	Protein 693 703	D-lyxoside
+T41	Molecular_Part 704 710	moiety
+T42	Protein_part 726 736	side chain
+T43	Protein_part 740 746	Arg407
+T44	State 772 785	conformations
+T45	Protein_part 818 824	Asp375
+T46	Protein 869 879	D-lyxoside
+T47	Protein_part 898 909	base Glu409
+T48	Process 931 939	function
+T49	Chemical 941 949	Chemical
+T50	Process 951 963	modification
+T51	Protein_part 967 973	Asp375
+T52	Protein 1018 1024	enzyme
+T53	Protein_part 1065 1071	Arg407
+T54	Protein_part 1094 1125	conserved sequence motif RPExxE
+T55	Parameter 1151 1159	activity
+T56	Protein 1167 1173	enzyme
+T57	Process 1188 1197	mechanism
+T58	Parameter 1217 1225	activity
+T59	Process 1251 1260	mechanism
+T60	Unknown 1270 1281	superfamily

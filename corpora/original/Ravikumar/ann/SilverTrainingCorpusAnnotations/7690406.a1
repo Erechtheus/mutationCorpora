@@ -1,0 +1,54 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Molecule 36 41	toxin
+T3	Protein_part 42 49	peptide
+T4	Category 50 57	complex
+T5	Value 61 66	2.3 A
+T6	Protein_part 68 98	Cholera toxin peptide 3 (CTP3)
+T7	Protein_part 104 122	15-residue peptide
+T8	Protein_part 140 148	sequence
+T9	Physiology 156 167	immunogenic
+T10	Geometrical_part 168 172	loop
+T11	Geometrical_part 180 187	surface
+T12	Protein 195 205	B-subunits
+T13	Physiology 214 221	cholera
+T14	Molecule 222 227	toxin
+T15	Molecule 248 253	toxin
+T16	Organism 259 275	Escherichia coli
+T17	Protein 277 281	TE33
+T18	Protein_part 289 301	Fab fragment
+T19	Molecule 307 326	monoclonal antibody
+T20	Protein_part 344 348	CTP3
+T21	Geometrical_part 354 371	crystal structure
+T22	Protein_part 379 388	TE33-CTP3
+T23	Category 389 396	complex
+T24	Value 400 405	2.3 A
+T25	Parameter 406 416	resolution
+T26	Protein 428 435	antigen
+T27	Geometrical_part 444 450	pocket
+T28	Value 452 456	13 A
+T29	Value 466 470	13 A
+T30	Protein_part 511 519	residues
+T31	Protein_part 525 535	N-terminal
+T32	Protein_part 551 571	peptide antigen CTP3
+T33	Protein_part 580 597	type II beta-turn
+T34	Physiology 603 607	fits
+T35	Geometrical_part 625 631	pocket
+T36	Protein_part 636 640	gln7
+T37	Protein_part 645 652	peptide
+T38	Protein_part 665 669	CTP3
+T39	Protein 707 723	C-terminal chain
+T40	Food 729 734	seals
+T41	Geometrical_part 743 748	cleft
+T42	Protein_part 764 773	beta-turn
+T43	Protein_part 825 832	regions
+T44	Protein 836 840	TE33
+T45	Process 859 866	binding
+T46	Protein_part 871 875	CTP3
+T47	Protein_part 881 897	antibody-peptide
+T48	Process 898 906	contacts
+T49	Unknown 931 945	van der Waals'
+T50	Process 946 958	interactions
+T51	Chemical 963 977	hydrogen bonds
+T52	Chemical 988 999	salt bridge
+T53	Chemical 1008 1022	water molecule
+T54	Process 1043 1054	interaction

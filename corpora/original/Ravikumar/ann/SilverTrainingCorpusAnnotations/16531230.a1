@@ -1,0 +1,39 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 26 38	SWIRM domain
+T3	Organism 42 47	human
+T4	Protein 48 72	histone demethylase LSD1
+T5	Protein_part 74 79	SWIRM
+T6	Protein_part 101 117	conserved domain
+T7	Protein 138 147	chromatin
+T8	Category 158 167	complexes
+T9	Protein 183 195	LSD1 protein
+T10	Food 203 208	bears
+T11	Protein_part 211 223	SWIRM domain
+T12	Protein 243 254	demethylase
+T13	Protein 259 285	Lys4-methylated histone H3
+T14	Geometrical_part 305 323	solution structure
+T15	Protein_part 331 343	SWIRM domain
+T16	Organism 347 352	human
+T17	Protein 353 357	LSD1
+T18	Geometrical_part 378 382	fold
+T19	Protein_part 397 410	alpha helices
+T20	Protein_part 426 436	amino acid
+T21	Protein_part 442 447	helix
+T22	Protein 449 455	alpha4
+T23	Protein_part 488 495	helices
+T24	Protein_part 501 523	SWIRM domain structure
+T25	Protein_part 551 566	N-terminal part
+T26	Protein 568 581	alpha1-alpha3
+T27	Protein_part 591 606	C-terminal part
+T28	Protein 608 621	alpha4-alpha6
+T29	Chemical 663 674	salt bridge
+T30	Protein_part 686 701	N-terminal part
+T31	Protein_part 710 715	SWIRM
+T32	Unknown 725 734	structure
+T33	Protein_part 740 755	C-terminal part
+T34	Protein_part 765 787	helix-turn-helix (HTH)
+T35	Geometrical_part 796 800	fold
+T36	Protein_part 834 846	SWIRM domain
+T37	Geometrical_part 858 864	anchor
+T38	Protein_part 865 869	site
+T39	Protein_part 876 888	histone tail

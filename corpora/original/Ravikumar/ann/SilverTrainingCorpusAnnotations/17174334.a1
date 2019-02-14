@@ -1,0 +1,95 @@
+T1	Geometrical_part 4 14	structures
+T2	Protein 18 27	alliinase
+T3	Organism 33 51	Alliium sativum L.
+T4	Category 66 81	ternary complex
+T5	Chemical 87 100	aminoacrylate
+T6	Process 101 109	reaction
+T7	Molecule 110 122	intermediate
+T8	Unknown 147 150	PLP
+T9	Category 151 159	cofactor
+T10	Protein 161 170	Alliinase
+T11	Protein 179 187	lyase EC
+T12	Unknown 200 203	PLP
+T13	Protein 214 219	alpha
+T14	Protein 221 225	beta
+T15	Protein 238 243	lyase
+T16	Protein 274 281	protein
+T17	Protein_part 282 292	components
+T18	Food 296 302	garlic
+T19	Organism 304 322	Alliium sativum L.
+T20	Protein 335 341	enzyme
+T21	Protein 347 371	homodimeric glycoprotein
+T22	Process 390 400	conversion
+T23	Chemical 416 434	non-protein sulfur
+T24	Protein_part 446 456	amino acid
+T25	Chemical 465 496	(+S)-allyl-L-cysteine sulfoxide
+T26	Chemical 510 531	diallyl thiosulfinate
+T27	Parameter 568 577	component
+T28	Food 597 603	garlic
+T29	Chemical 606 614	pyruvate
+T30	Chemical 619 626	ammonia
+T31	Protein 632 638	enzyme
+T32	Process 663 671	presence
+T33	Chemical 679 696	-allyl-L-cysteine
+T34	Body_part 706 714	dendrite
+T35	Unknown 731 739	crystals
+T36	Protein 777 787	apo-enzyme
+T37	Geometrical_part 831 841	structures
+T38	Protein 845 854	alliinase
+T39	Protein 871 878	glycans
+T40	Value 896 901	1.4 A
+T41	Value 906 912	1.61 A
+T42	Process 916 937	molecular replacement
+T43	Protein 948 978	hexasaccharide chains N-linked
+T44	Protein_part 982 988	Asn146
+T45	Protein 993 1023	trisaccharide  chains N-linked
+T46	Protein_part 1027 1033	Asn328
+T47	Unknown 1048 1057	structure
+T48	Chemical 1061 1075	hexasaccharide
+T49	Protein 1104 1109	chain
+T50	Category 1110 1117	complex
+T51	Body_part 1118 1125	vacuole
+T52	Chemical 1132 1147	oligosaccharide
+T53	Organism 1171 1176	plant
+T54	Protein 1177 1190	glycoproteins
+T55	State 1206 1211	state
+T56	Protein 1219 1225	enzyme
+T57	Protein_part 1226 1237	active site
+T58	Unknown 1271 1280	structure
+T59	Molecule 1286 1294	electron
+T60	Parameter 1295 1302	density
+T61	Protein_part 1310 1316	region
+T62	Category 1324 1332	cofactor
+T63	Category 1366 1374	cofactor
+T64	Molecular_Part 1375 1381	moiety
+T65	Chemical 1385 1411	aminoacrylate intermediate
+T66	Unknown 1436 1439	PLP
+T67	Category 1440 1448	cofactor
+T68	Unknown 1478 1487	structure
+T69	Process 1524 1536	interactions
+T70	Protein 1554 1561	protein
+T71	Protein_part 1562 1570	residues
+T72	Process 1586 1595	existence
+T73	Location 1612 1620	internal
+T74	Chemical 1630 1634	bond
+T75	Chemical 1648 1661	epsilon-amino
+T76	Molecular_Part 1662 1667	group
+T77	Protein_part 1671 1677	Lys251
+T78	Chemical 1686 1694	aldehyde
+T79	Unknown 1702 1705	PLP
+T80	Process 1726 1731	basis
+T81	Process 1746 1756	separation
+T82	Molecule 1760 1768	electron
+T83	Parameter 1769 1776	density
+T84	Protein_part 1780 1786	Lys251
+T85	Geometrical_part 1792 1801	structure
+T86	Protein_part 1809 1820	active site
+T87	Body_part 1821 1827	cavity
+T88	State 1835 1843	apo-form
+T89	Chemical 1904 1916	sulfate ions
+T90	Chemical 1921 1928	acetate
+T91	Chemical 1941 1956	water molecules
+T92	Process 1962 1977	crystallization
+T93	Category 2006 2011	mimic
+T94	Unknown 2016 2019	PLP
+T95	Category 2020 2028	cofactor

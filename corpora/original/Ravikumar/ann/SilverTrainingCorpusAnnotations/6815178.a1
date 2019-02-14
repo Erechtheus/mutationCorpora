@@ -1,0 +1,70 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 22 38	Escherichia coli
+T3	Organism 43 62	Lactobacillus casei
+T4	Protein 63 86	dihydrofolate reductase
+T5	Value 98 103	1.7 A
+T6	Parameter 104 114	resolution
+T7	Process 140 147	binding
+T8	Chemical 151 163	methotrexate
+T9	Molecule 165 170	X-ray
+T10	Value 198 203	1.7 A
+T11	Category 217 224	complex
+T12	Organism 228 244	Escherichia coli
+T13	Protein 245 268	dihydrofolate reductase
+T14	Chemical 274 286	methotrexate
+T15	Category 293 308	ternary complex
+T16	Organism 312 332	Lactobacillus  casei
+T17	Protein 333 356	dihydrofolate reductase
+T18	Chemical 362 374	methotrexate
+T19	Chemical 379 384	NADPH
+T20	Unknown 402 412	structures
+T21	Parameter 434 443	R factors
+T22	Value 447 451	0.15
+T23	Parameter 464 474	parameters
+T24	Chemical 496 503	solvent
+T25	Organism 513 520	species
+T26	Protein 524 547	dihydrofolate reductase
+T27	Process 628 638	refinement
+T28	Geometrical_part 716 719	cis
+T29	Protein_part 720 727	peptide
+T30	Protein_part 736 742	Gly-97
+T31	Protein_part 747 753	Gly-98
+T32	Organism 755 763	L. Casei
+T33	Organism 783 790	species
+T34	Protein_part 795 807	alpha  helix
+T35	Protein_part 818 829	residues 43
+T36	Organism 848 855	E. coli
+T37	Protein 856 862	enzyme
+T38	Process 872 881	existence
+T39	Process 908 917	hydration
+T40	Protein_part 918 922	site
+T41	Protein_part 934 947	alpha helices
+T42	Process 949 959	Refinement
+T43	Process 981 992	description
+T44	Chemical 1011 1023	methotrexate
+T45	Process 1024 1031	binding
+T46	Chemical 1057 1071	water molecule
+T47	Process 1085 1096	interaction
+T48	Chemical 1105 1127	methotrexate's 2-amino
+T49	Molecular_Part 1128 1133	group
+T50	Protein_part 1138 1145	Thr-116
+T51	Organism 1147 1155	L. casei
+T52	Unknown 1180 1191	inhibitor's
+T53	Chemical 1192 1199	4-amino
+T54	Molecular_Part 1200 1205	group
+T55	Chemical 1216 1230	hydrogen bonds
+T56	Protein 1240 1246	enzyme
+T57	Process 1271 1280	revisions
+T58	Category 1327 1336	substrate
+T59	Process 1337 1344	binding
+T60	Chemical 1370 1384	pteridine ring
+T61	Protein 1417 1424	protein
+T62	Chemical 1429 1442	solvent atoms
+T63	Protein_part 1457 1463	Asp-26
+T64	Chemical 1481 1489	hydrogen
+T65	Unknown 1504 1515	substrate's
+T66	Chemical 1516 1523	2-amino
+T67	Molecular_Part 1524 1529	group
+T68	Protein_part 1537 1539	N3
+T69	Unknown 1541 1546	CRDT-
+T70	Value 1555 1563	25 00:00

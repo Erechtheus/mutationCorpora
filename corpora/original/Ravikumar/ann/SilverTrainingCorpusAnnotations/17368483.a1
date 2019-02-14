@@ -1,0 +1,45 @@
+T1	Process 11 21	comparison
+T2	Protein_part 56 68	Fc fragments
+T3	Organism 72 77	human
+T4	Protein 78 95	immunoglobulin G1
+T5	Process 97 104	Removal
+T6	Protein_part 112 126	fucose residue
+T7	Chemical 136 152	oligosaccharides
+T8	Protein_part 165 171	Asn297
+T9	Organism 175 180	human
+T10	Protein 181 205	immunoglobulin G1 (IgG1)
+T11	Process 231 242	enhancement
+T12	Process 246 293	antibody-dependent cellular cytotoxicity (ADCC)
+T13	Protein 307 311	IgG1
+T14	Protein 323 344	Fcgamma receptor IIIa
+T15	Process 368 375	insight
+T16	Process 385 395	mechanisms
+T17	Parameter 399 407	affinity
+T18	Process 408 419	enhancement
+T19	Geometrical_part 439 456	crystal structure
+T20	Protein_part 479 490	Fc fragment
+T21	Protein_part 532 534	Fc
+T22	State 548 561	conformations
+T23	Protein_part 600 612	Fc fragments
+T24	Process 637 646	hydration
+T25	Protein_part 659 665	Tyr296
+T26	Chemical 667 681	Stable-isotope
+T27	Technique 691 703	NMR analyses
+T28	Process 718 728	similarity
+T29	Unknown 744 754	structures
+T30	Protein_part 794 806	Fc fragments
+T31	Chemical 810 818	solution
+T32	Chemical 848 857	glycoform
+T33	Process 868 872	ADCC
+T34	Process 873 884	enhancement
+T35	State 911 925	conformational
+T36	Process 926 936	alteration
+T37	Protein_part 950 956	region
+T38	Protein 960 967	IgG1-Fc
+T39	Molecule 986 994	electron
+T40	Parameter 995 1002	density
+T41	Protein_part 1041 1047	Asp280
+T42	Protein_part 1052 1058	Asn297
+T43	Unknown 1097 1108	Fc crystals
+T44	Process 1119 1128	different
+T45	Unknown 1174 1185	Fc crystals

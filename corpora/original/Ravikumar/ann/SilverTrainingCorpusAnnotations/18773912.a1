@@ -1,0 +1,69 @@
+T1	Organism 8 13	HIV-1
+T2	Protein 14 34	nucleocapsid protein
+T3	Protein 62 71	(-)primer
+T4	Process 72 79	binding
+T5	Protein_part 80 84	site
+T6	Process 92 113	reverse transcription
+T7	Organism 119 147	human immunodeficiency virus
+T8	Protein 148 182	type 1 nucleocapsid protein (NCp7)
+T9	Process 202 206	role
+T10	Protein_part 214 227	second strand
+T11	Process 228 236	transfer
+T12	Process 244 265	reverse transcription
+T13	Chemical 296 309	18-nucleotide
+T14	Molecule 324 327	DNA
+T15	Protein_part 328 363	primer-binding site (PBS) sequences
+T16	Location 371 378	3' ends
+T17	Unknown 382 388	(-)DNA
+T18	Unknown 393 399	(+)DNA
+T19	Technique 401 404	NMR
+T20	Protein 423 434	NCp7(12-55)
+T21	Protein 439 449	NCp7(1-55)
+T22	Location 466 472	5' end
+T23	Geometrical_part 480 484	loop
+T24	Protein_part 488 500	DeltaP(-)PBS
+T25	Protein_part 505 511	(-)PBS
+T26	Unknown 512 522	derivative
+T27	Protein_part 549 557	sequence
+T28	Process 578 589	equilibrium
+T29	Process 596 607	interaction
+T30	Process 632 639	binding
+T31	Protein_part 669 674	Val13
+T32	Protein_part 676 681	Phe16
+T33	Protein_part 683 688	Thr24
+T34	Protein_part 690 695	Ala25
+T35	Protein_part 697 702	Trp37
+T36	Protein_part 708 713	Met46
+T37	Protein_part 722 733	zinc finger
+T38	Protein_part 734 740	domain
+T39	Protein_part 750 758	peptides
+T40	Protein_part 766 782	5-CTG-7 sequence
+T41	Protein_part 786 798	DeltaP(-)PBS
+T42	Process 804 812	stacking
+T43	Protein_part 820 825	Trp37
+T44	Geometrical_part 835 839	ring
+T45	Protein_part 849 859	G7 residue
+T46	Protein 895 901	factor
+T47	Process 909 920	interaction
+T48	Protein 931 942	NCp7(12-55)
+T49	Protein_part 961 973	DeltaP(-)PBS
+T50	Unknown 984 993	structure
+T51	Geometrical_part 1008 1012	loop
+T52	Chemical 1029 1040	C5.G11 base
+T53	Geometrical_part 1058 1062	loop
+T54	Protein 1074 1085	NCp7(12-55)
+T55	Value 1118 1123	lower
+T56	Parameter 1124 1132	affinity
+T57	Protein_part 1140 1158	10-CGG-12 sequence
+T58	Process 1187 1198	equilibrium
+T59	Technique 1206 1209	NMR
+T60	Parameter 1210 1214	time
+T61	Geometrical_part 1226 1230	loop
+T62	Process 1231 1244	modifications
+T63	Process 1266 1277	interaction
+T64	Protein_part 1301 1312	(+)PBS loop
+T65	Protein_part 1351 1360	base pair
+T66	Body_part 1368 1372	stem
+T67	Body_part 1408 1412	stem
+T68	Category 1453 1460	complex
+T69	Protein_part 1477 1485	(+/-)PBS

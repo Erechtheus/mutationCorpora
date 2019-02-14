@@ -1,0 +1,72 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 25 32	Rv1347c
+T3	Protein 36 74	putative antibiotic resistance protein
+T4	Organism 80 106	Mycobacterium tuberculosis
+T5	Unknown 118 122	GCN5
+T6	Geometrical_part 131 135	fold
+T7	Process 164 172	function
+T8	Chemical 176 187	siderophore
+T9	Process 188 200	biosynthesis
+T10	Organism 202 228	Mycobacterium tuberculosis
+T11	Process 234 239	cause
+T12	Physiology 243 255	tuberculosis
+T13	Organism 274 288	human pathogen
+T14	Process 294 303	emergence
+T15	Chemical 307 316	multidrug
+T16	Parameter 317 327	resistance
+T17	Chemical 374 378	drug
+T18	Process 379 386	targets
+T19	Process 421 431	mechanisms
+T20	Parameter 435 445	resistance
+T21	Protein 468 472	gene
+T22	Category 473 480	product
+T23	Protein_part 487 505	open reading frame
+T24	Organism 511 526	M. tuberculosis
+T25	Organism 528 535	Rv1347c
+T26	Protein 561 604	putative aminoglycoside N-acetyltransferase
+T27	Protein 610 625	Rv1347c protein
+T28	Parameter 645 653	activity
+T29	Geometrical_part 685 702	crystal structure
+T30	Process 773 777	role
+T31	Process 788 800	biosynthesis
+T32	Organism 820 835	M. tuberculosis
+T33	Chemical 836 847	siderophore
+T34	Geometrical_part 853 870	crystal structure
+T35	Protein 874 881	Rv1347c
+T36	Process 926 937	diffraction
+T37	Protein 951 987	selenomethionine-substituted protein
+T38	Value 1003 1015	2.2 angstrom
+T39	Parameter 1016 1026	resolution
+T40	Parameter 1028 1029	r
+T41	Value 1032 1037	0.227
+T42	Parameter 1039 1046	R(free)
+T43	Value 1049 1054	0.257
+T44	Protein 1062 1069	protein
+T45	Geometrical_part 1091 1095	fold
+T46	Protein 1118 1164	GCN5-related N-acetyltransferase (GNAT) family
+T47	Protein 1168 1184	acyltransferases
+T48	Unknown 1202 1211	structure
+T49	Chemical 1220 1228	acyl-CoA
+T50	Process 1229 1236	binding
+T51	Protein_part 1237 1241	site
+T52	Protein 1268 1287	GNAT family members
+T53	Location 1295 1303	adjacent
+T54	Protein 1304 1323	hydrophobic channel
+T55	Geometrical_part 1339 1346	surface
+T56	Chemical 1370 1385	long-chain acyl
+T57	Molecular_Part 1386 1392	groups
+T58	Category 1418 1427	substrate
+T59	Chemical 1433 1457	N(epsilon)-hydroxylysine
+T60	Protein_part 1458 1468	side chain
+T61	Category 1493 1501	acceptor
+T62	Category 1502 1511	substrate
+T63	Process 1512 1519	binding
+T64	Geometrical_part 1520 1526	groove
+T65	Protein_part 1542 1550	residues
+T66	Protein_part 1558 1569	active site
+T67	Protein_part 1571 1577	His130
+T68	Protein_part 1582 1588	Asp168
+T69	Process 1609 1614	roles
+T70	Category 1618 1627	substrate
+T71	Process 1628 1635	binding
+T72	Process 1640 1649	catalysis

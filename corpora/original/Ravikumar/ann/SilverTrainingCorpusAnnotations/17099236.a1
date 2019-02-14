@@ -1,0 +1,75 @@
+T1	Process 11 16	basis
+T2	Protein_part 21 29	sequence
+T3	Process 40 51	recognition
+T4	Protein 55 72	colicin E5 tRNase
+T5	Unknown 90 99	mRNA-tRNA
+T6	Process 100 111	interaction
+T7	Protein 113 125	Colicin E5--
+T8	Protein 127 133	tRNase
+T9	Unknown 162 165	QUN
+T10	Organism 199 215	Escherichia coli
+T11	Protein 216 221	tRNAs
+T12	Protein_part 226 229	Tyr
+T13	Protein_part 231 234	His
+T14	Protein_part 236 239	Asn
+T15	Protein_part 244 247	Asp
+T16	Geometrical_part 269 286	crystal structure
+T17	Protein_part 294 330	C-terminal ribonuclease domain (CRD)
+T18	Protein 334 336	E5
+T19	Category 354 363	substrate
+T20	Unknown 364 370	analog
+T21	Unknown 380 386	dGpdUp
+T22	Parameter 393 403	resolution
+T23	Value 407 412	1.9 A
+T24	Unknown 414 427	Thisstructure
+T25	Category 456 465	substrate
+T26	Process 466 477	recognition
+T27	Process 478 487	mechanism
+T28	Protein_part 491 499	sequence
+T29	Protein 509 522	ribonucleases
+T30	Protein_part 524 530	E5-CRD
+T31	Process 551 562	recognition
+T32	Chemical 576 583	guanine
+T33	Chemical 588 600	uracil bases
+T34	Unknown 604 610	dGpdUp
+T35	Chemical 619 651	Watson-Crick-type hydrogen bonds
+T36	Geometrical_part 656 660	ring
+T37	Process 670 682	interactions
+T38	Protein_part 703 709	codons
+T39	Protein 713 718	mRNAs
+T40	Protein 730 734	tRNA
+T41	Process 752 759	docking
+T42	Protein_part 769 775	E5-CRD
+T43	Protein 781 785	tRNA
+T44	Category 804 813	substrate
+T45	Protein 829 833	tRNA
+T46	Unknown 839 844	ssRNA
+T47	Geometrical_part 863 872	structure
+T48	Protein_part 876 889	E5-CRD/dGpdUp
+T49	Technique 905 924	mutational analysis
+T50	Protein_part 939 944	Arg33
+T51	Process 967 971	role
+T52	Parameter 989 997	activity
+T53	Protein_part 1003 1014	Lys25/Lys60
+T54	Protein_part 1044 1047	His
+T55	Protein_part 1051 1057	E5-CRD
+T56	Process 1072 1082	comparison
+T57	Unknown 1090 1100	structures
+T58	Protein_part 1104 1117	E5-CRD/dGpdUp
+T59	Protein_part 1122 1134	E5-CRD/ImmE5
+T60	Category 1139 1148	inhibitor
+T61	Protein 1150 1157	protein
+T62	Category 1159 1168	complexes
+T63	Process 1187 1194	binding
+T64	Protein_part 1203 1209	E5-CRD
+T65	Unknown 1214 1219	ImmE5
+T66	Category 1220 1226	mimics
+T67	Protein 1235 1239	mRNA
+T68	Protein 1244 1248	tRNA
+T69	Process 1286 1293	pathway
+T70	Protein 1303 1311	proteins
+T71	Unknown 1321 1328	RNA-RNA
+T72	Process 1329 1340	interaction
+T73	Protein 1353 1364	RNA-protein
+T74	Process 1365 1376	interaction
+T75	Protein_part 1380 1391	tRNA/E5-CRD

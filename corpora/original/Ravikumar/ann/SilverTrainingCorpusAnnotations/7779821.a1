@@ -1,0 +1,47 @@
+T1	Process 14 26	inactivation
+T2	Protein 30 38	elastase
+T3	Chemical 42 74	N-peptidyl-O-aroyl hydroxylamine
+T4	Process 80 88	function
+T5	Parameter 92 94	pH
+T6	Process 100 109	mechanism
+T7	Process 113 125	inactivation
+T8	Protein 129 162	porcine pancreatic elastase (PPE)
+T9	Chemical 166 197	N-peptidyl-O-aroylhydroxylamine
+T10	Technique 213 234	X-ray crystallography
+T11	Category 267 274	complex
+T12	Protein 284 290	enzyme
+T13	Process 314 324	attachment
+T14	Protein_part 332 343	active site
+T15	Protein_part 344 347	Ser
+T16	Protein 357 364	O gamma
+T17	Category 384 391	complex
+T18	Parameter 432 434	pH
+T19	Process 448 460	inactivation
+T20	Process 461 469	reaction
+T21	Parameter 481 483	pH
+T22	Value 484 485	5
+T23	Category 491 498	complex
+T24	Chemical 511 535	hydroxylamine derivative
+T25	Protein_part 539 542	Ser
+T26	Chemical 565 572	O gamma
+T27	Protein_part 576 582	serine
+T28	Chemical 590 596	oxygen
+T29	Chemical 604 628	hydroxylamine derivative
+T30	Parameter 633 635	pH
+T31	Value 637 640	7.5
+T32	Category 646 653	complex
+T33	Chemical 666 675	carbamate
+T34	Unknown 676 686	derivative
+T35	Protein_part 690 693	Ser
+T36	Protein 703 710	O gamma
+T37	Category 729 738	complexes
+T38	Protein_part 769 780	S' subsites
+T39	Protein 788 794	enzyme
+T40	Geometrical_part 824 836	antiparallel
+T41	Protein_part 837 847	beta-sheet
+T42	Protein_part 857 867	S subsites
+T43	Process 873 884	implication
+T44	Process 893 902	mechanism
+T45	Process 906 918	inactivation
+T46	Process 922 931	different
+T47	Parameter 932 935	pHs

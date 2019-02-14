@@ -1,0 +1,52 @@
+T1	State 4 23	active conformation
+T2	Protein 31 42	PAK1 kinase
+T3	Protein_part 43 49	domain
+T4	Protein 55 83	p21-activated kinases (PAKs)
+T5	Body_part 99 111	cytoskeletal
+T6	Process 112 119	control
+T7	Physiology 120 128	networks
+T8	Unknown 144 154	Rho-family
+T9	Protein 155 162	GTPases
+T10	Geometrical_part 166 175	structure
+T11	Protein 179 183	PAK1
+T12	State 212 217	state
+T13	Protein_part 232 249	regulatory region
+T14	Protein_part 251 261	N-terminal
+T15	Protein 269 275	kinase
+T16	Protein_part 276 282	domain
+T17	Parameter 284 290	forces
+T18	State 310 331	inactive conformation
+T19	Process 342 357	phosphorylation
+T20	Protein_part 361 367	Thr423
+T21	Process 375 385	activation
+T22	Geometrical_part 386 390	loop
+T23	Process 405 417	dimerization
+T24	Unknown 442 452	structures
+T25	Value 456 461	1.8 A
+T26	Parameter 462 472	resolution
+T27	Protein 486 497	PAK1 kinase
+T28	Protein_part 498 504	domain
+T29	Process 513 521	mutation
+T30	Protein_part 529 540	active site
+T31	Protein 553 562	enzymatic
+T32	Parameter 563 571	activity
+T33	Protein_part 590 596	domain
+T34	Chemical 604 620	"phosphomimetic"
+T35	Process 621 629	mutation
+T36	Process 637 647	activation
+T37	Geometrical_part 648 652	loop
+T38	Unknown 675 685	structures
+T39	Process 708 715	absence
+T40	Protein_part 721 742	phosphorylated Thr423
+T41	Protein 748 754	kinase
+T42	State 774 793	active conformation
+T43	Unknown 800 805	Cdc42
+T44	Protein_part 816 833	regulatory region
+T45	Protein 854 859	dimer
+T46	Protein 861 865	PAK1
+T47	State 902 907	state
+T48	Parameter 916 924	capacity
+T49	Category 958 968	substrates
+T50	Process 983 995	modification
+T51	Process 1003 1013	activation
+T52	Geometrical_part 1014 1018	loop

@@ -1,0 +1,108 @@
+T1	Process 0 5	Roles
+T2	Protein_part 10 16	Arg426
+T3	Protein_part 21 27	Trp111
+T4	Process 35 45	modulation
+T5	Protein 49 61	NADH oxidase
+T6	Parameter 62 70	activity
+T7	Protein 78 102	catalase-peroxidase KatG
+T8	Organism 108 133	Burkholderia pseudomallei
+T9	Parameter 148 150	pH
+T10	Process 171 178	changes
+T11	Unknown 180 188	Crystals
+T12	Organism 192 217	Burkholderia pseudomallei
+T13	Protein 218 222	KatG
+T14	Technique 256 262	X-rays
+T15	Parameter 271 281	resolution
+T16	Process 288 298	adjustment
+T17	Parameter 306 308	pH
+T18	Value 314 317	5.6
+T19	Value 321 324	4.5
+T20	Value 326 329	6.5
+T21	Value 331 334	7.5
+T22	Value 340 343	8.5
+T23	Process 376 382	effect
+T24	Parameter 386 388	pH
+T25	Protein 392 399	protein
+T26	Geometrical_part 400 409	structure
+T27	Parameter 427 429	pH
+T28	Process 440 446	change
+T29	Chemical 475 485	perhydroxy
+T30	Molecular_Part 486 491	group
+T31	Chemical 508 523	indole nitrogen
+T32	Protein_part 531 549	active site Trp111
+T33	Parameter 556 558	pH
+T34	Value 559 560	7
+T35	Process 576 588	modification
+T36	Protein_part 616 633	Ser324Thr variant
+T37	Protein 641 647	enzyme
+T38	Parameter 651 653	pH
+T39	Value 654 657	5.6
+T40	Process 663 675	modification
+T41	Chemical 695 711	molecular oxygen
+T42	Value 731 735	100%
+T43	Value 752 762	one minute
+T44	Unknown 781 788	crystal
+T45	Value 792 796	room
+T46	Parameter 797 808	temperature
+T47	Parameter 813 815	pH
+T48	Value 816 819	8.5
+T49	Parameter 829 840	temperature
+T50	Value 842 845	4 K
+T51	Chemical 847 853	ferric
+T52	Unknown 854 857	EPR
+T53	Parameter 858 865	spectra
+T54	Protein 881 887	enzyme
+T55	Process 913 920	changes
+T56	Chemical 928 937	heme iron
+T57	Location 938 954	microenvironment
+T58	Process 968 976	presence
+T59	Process 984 996	modification
+T60	Parameter 1003 1005	pH
+T61	Value 1006 1007	7
+T62	Protein 1018 1024	enzyme
+T63	Unknown 1029 1037	variants
+T64	Protein_part 1046 1052	Arg426
+T65	Protein_part 1056 1062	Met264
+T66	Process 1071 1078	absence
+T67	Unknown 1082 1090	variants
+T68	Protein_part 1099 1105	Trp111
+T69	Protein_part 1109 1115	Tyr238
+T70	Chemical 1121 1138	indole-perhydroxy
+T71	Molecular_Part 1139 1144	group
+T72	Molecule 1173 1185	intermediate
+T73	Chemical 1189 1205	molecular oxygen
+T74	Protein 1213 1225	NADH oxidase
+T75	Process 1226 1234	reaction
+T76	Protein_part 1240 1246	Arg426
+T77	Process 1267 1276	reduction
+T78	Parameter 1301 1303	pH
+T79	Process 1314 1320	change
+T80	Protein_part 1341 1351	side chain
+T81	Protein_part 1355 1361	Arg426
+T82	Process 1367 1374	changes
+T83	State 1396 1408	conformation
+T84	Value 1412 1415	low
+T85	Parameter 1416 1418	pH
+T86	Value 1434 1438	high
+T87	Parameter 1439 1441	pH
+T88	Parameter 1447 1449	pH
+T89	Protein 1466 1476	peroxidase
+T90	Protein 1478 1486	catalase
+T91	Protein 1492 1504	NADH oxidase
+T92	Process 1505 1514	reactions
+T93	Parameter 1543 1555	distribution
+T94	Protein_part 1559 1565	Arg426
+T95	State 1566 1579	conformations
+T96	Parameter 1587 1589	pH
+T97	Process 1609 1616	changes
+T98	Geometrical_part 1637 1644	surface
+T99	Protein_part 1654 1665	side chains
+T100	Process 1689 1695	change
+T101	Process 1708 1720	displacement
+T102	Protein_part 1724 1734	main chain
+T103	Chemical 1735 1740	atoms
+T104	Process 1758 1769	protonation
+T105	Protein_part 1773 1778	His53
+T106	Geometrical_part 1789 1795	pocket
+T107	Location 1803 1811	vicinity
+T108	Geometrical_part 1829 1840	2-fold axis

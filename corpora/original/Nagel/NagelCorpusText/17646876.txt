@@ -1,0 +1,16 @@
+Most proteomics studies involving mapping post-translational modifications, such as the phosphorylation of serine and threonine, are performed today using the 'bottom-up' approach . 
+This approach involves enzymatic cleavage of proteins, most often by trypsin, with subsequent nano-LC-MS/MS . 
+The occupancy rates of phosphosites in proteins may differ by orders of magnitude, and thus the occupancy rate must be reported for each occupied phosphosite . 
+To highlight potential pitfalls in quantifying the occupancy rates, alpha(s1)-casein from human milk was selected as a model molecule representing moderately phosphorylated proteins . 
+For this purpose, human milk from one Caucasian woman in the eighth month of lactation was used . 
+The phosphorylation level of caseins is believed to have major implications for the formation of micelles that are involved in delivering valuable calcium phosphate and other minerals to the new-born . 
+Human alpha(s1)-casein has been reported to be much less phosphorylated than ruminant caseins, which may indicate a different function of caseins in humans . 
+Revealing the phosphorylation pattern in human casein can thus shed light on its function . 
+The current study found that the sequence region between the residues Ser70 and Ser76 in human alpha(s1)-casein is in fact phosphorylated, contrary to previous knowledge . 
+The site of the most abundant phosphorylation is Ser75, in agreement with the known action of the mammary gland casein kinase . 
+There is evidence for the second phosphorylation in that region, possibly at Ser73 . 
+Earlier reported positions of phosphorylations at Ser18 and Ser26 are also confirmed, but not the dominance of Ser18 phosphorylation . 
+The occupancy rates at Ser18, Ser26 and Ser75 are estimated to be (7 +/- 2), (20 +/- 6) and (27 +/- 9)%, respectively . 
+Owing to differences in the ionization efficiency between phosphorylated and unphosphorylated peptides a 30% error margin is added to the occupancy rates . 
+The highlighted pitfalls of the bottom-up strategy include the sensitivity of enzymes to proximal acidic and phosphorylated residues and the presence of multiple isoforms, including unexpected ones, of the tryptic peptides . 
+The utility of the earlier introduced PhosTS_hunter and ModifiComb approaches for evading the latter pitfall is demonstrated . 

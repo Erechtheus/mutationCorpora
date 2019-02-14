@@ -1,0 +1,75 @@
+T1	Parameter 0 8	Affinity
+T2	Process 19 29	difference
+T3	Process 44 55	interaction
+T4	Protein_part 63 73	UBA domain
+T5	Protein 77 88	Ubiquilin-1
+T6	Protein 94 113	monomeric ubiquitin
+T7	Protein 118 138	polyubiquitin chains
+T8	Protein 140 163	Ubiquilin/PLIC proteins
+T9	Unknown 178 184	family
+T10	Protein 188 204	UBL-UBA proteins
+T11	Process 223 233	regulation
+T12	Protein 241 250	ubiquitin
+T13	Body_part 261 272	proteasomal
+T14	Process 273 284	degradation
+T15	Protein 288 305	cellular proteins
+T16	Organism 309 314	human
+T17	Protein 315 325	presenilin
+T18	Protein 338 345	protein
+T19	Protein 347 358	ubiquilin-1
+T20	Parameter 382 391	potential
+T21	Process 404 410	target
+T22	Physiology 424 444	Huntington's disease
+T23	Unknown 446 457	Ubiquilin's
+T24	Process 458 470	interactions
+T25	Protein 486 500	polyubiquitins
+T26	Protein_part 521 531	UBA domain
+T27	Protein 563 572	ubiquitin
+T28	Protein 593 602	ubiquitin
+T29	Protein_part 611 618	domains
+T30	Geometrical_part 639 666	three-dimensional structure
+T31	Protein_part 674 709	UBA domain of ubiquilin-1 (UQ1-UBA)
+T32	Chemical 718 726	solution
+T33	Category 734 741	complex
+T34	Protein 747 756	ubiquitin
+T35	Protein_part 758 765	UQ1-UBA
+T36	Protein_part 782 800	three-helix bundle
+T37	Protein_part 837 841	UBAs
+T38	Technique 872 877	patch
+T39	Protein 881 890	ubiquitin
+T40	Parameter 898 902	K(d)
+T41	Value 906 915	20 microM
+T42	Protein_part 950 959	UQ1-UBA's
+T43	Process 960 972	interactions
+T44	Protein 978 998	polyubiquitin chains
+T45	Process 1019 1026	binding
+T46	Protein_part 1045 1052	UQ1-UBA
+T47	Protein_part 1057 1063	Lys48-
+T48	Protein_part 1068 1073	Lys63
+T49	Protein 1081 1094	di-ubiquitins
+T50	Parameter 1117 1125	strength
+T51	Protein_part 1129 1136	UQ1-UBA
+T52	Protein 1154 1160	chains
+T53	Technique 1166 1169	NMR
+T54	Protein_part 1185 1192	UQ1-UBA
+T55	Protein 1223 1232	ubiquitin
+T56	Protein 1247 1253	chains
+T57	Process 1279 1290	interaction
+T58	Protein 1296 1310	mono-ubiquitin
+T59	Parameter 1339 1355	binding affinity
+T60	Protein 1364 1370	chains
+T61	Protein_part 1414 1418	UBA2
+T62	Unknown 1422 1428	hHR23A
+T63	Process 1445 1452	binding
+T64	Protein_part 1468 1473	Lys48
+T65	Protein 1481 1487	chains
+T66	Protein_part 1489 1496	UQ1-UBA
+T67	Parameter 1516 1535	binding selectivity
+T68	Protein 1556 1561	chain
+T69	Protein_part 1562 1569	linkage
+T70	Protein 1589 1598	ubiquitin
+T71	Molecular_Part 1599 1607	moieties
+T72	Protein 1620 1625	chain
+T73	Protein 1746 1765	polyubiquitin chain
+T74	Process 1766 1777	recognition
+T75	Protein_part 1781 1792	UBA domains

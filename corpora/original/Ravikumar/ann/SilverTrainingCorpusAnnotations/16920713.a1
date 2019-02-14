@@ -1,0 +1,89 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 50 65	monomeric actin
+T3	Chemical 73 76	ADP
+T4	Chemical 82 85	ATP
+T5	State 86 92	states
+T6	Protein 94 108	Actin filament
+T7	Process 109 115	growth
+T8	Process 120 131	disassembly
+T9	Parameter 144 152	affinity
+T10	Protein 157 162	actin
+T11	Protein 171 179	proteins
+T12	Chemical 200 210	nucleotide
+T13	State 217 222	state
+T14	Protein 230 254	component actin monomers
+T15	Process 271 282	differences
+T16	Chemical 291 300	ATP-actin
+T17	Chemical 305 314	ADP-actin
+T18	Location 362 373	cytoplasmic
+T19	Protein 374 379	actin
+T20	Body_part 383 392	Sf9 cells
+T21	Process 448 463	point mutations
+T22	Protein_part 467 492	subdomain 4 (A204E/P243K)
+T23	Protein 511 518	monomer
+T24	Unknown 527 535	AP-actin
+T25	Process 561 568	absence
+T26	Molecule 572 578	toxins
+T27	Protein 580 596	binding proteins
+T28	Chemical 601 609	chemical
+T29	Process 610 622	modification
+T30	Chemical 629 632	ATP
+T31	Chemical 636 639	ADP
+T32	Protein_part 647 658	active site
+T33	Geometrical_part 668 675	surface
+T34	Process 676 685	mutations
+T35	Unknown 705 714	structure
+T36	Process 728 739	differences
+T37	State 756 762	states
+T38	Protein_part 783 801	active site region
+T39	Geometrical_part 806 812	sensor
+T40	Geometrical_part 813 817	loop
+T41	Protein_part 823 834	active site
+T42	Geometrical_part 835 840	cleft
+T43	State 864 870	states
+T44	Process 889 895	shifts
+T45	Protein_part 915 926	active site
+T46	Protein_part 934 945	subdomain 2
+T47	Protein 981 986	DNase
+T48	Process 987 994	binding
+T49	Geometrical_part 995 999	loop
+T50	Chemical 1047 1050	ADP
+T51	Chemical 1055 1058	ATP
+T52	State 1059 1065	states
+T53	Geometrical_part 1103 1113	structures
+T54	Protein 1117 1122	actin
+T55	Process 1141 1153	modification
+T56	Chemical 1159 1179	tetramethylrhodamine
+T57	Process 1192 1201	formation
+T58	Protein_part 1208 1219	alpha-helix
+T59	Location 1227 1233	distal
+T60	Geometrical_part 1234 1237	end
+T61	Protein 1245 1251	D-loop
+T62	Chemical 1259 1262	ADP
+T63	Chemical 1281 1284	ATP
+T64	Unknown 1308 1310	L.
+T65	Unknown 1311 1329	R., Graceffa, P., 
+T66	Unknown 1333 1346	Dominguez, R.
+T67	Unknown 1354 1361	Science
+T68	Unknown 1399 1402	TMR
+T69	Protein 1412 1417	actin
+T70	Geometrical_part 1418 1428	structures
+T71	Chemical 1447 1457	nucleotide
+T72	Process 1468 1477	formation
+T73	Protein_part 1485 1497	D-loop helix
+T74	Process 1521 1532	propagation
+T75	Unknown 1541 1548	crystal
+T76	Process 1549 1556	packing
+T77	Process 1557 1569	interactions
+T78	Chemical 1592 1602	nucleotide
+T79	Process 1613 1620	changes
+T80	Unknown 1628 1637	structure
+T81	Process 1660 1669	different
+T82	Geometrical_part 1670 1678	surfaces
+T83	Location 1686 1694	exterior
+T84	Protein 1702 1715	actin monomer
+T85	Protein 1739 1753	actin filament
+T86	Unknown 1763 1774	actin-actin
+T87	Process 1775 1787	interactions
+T88	Protein_part 1805 1811	region
+T89	Process 1836 1843	changes

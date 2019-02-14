@@ -1,0 +1,65 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 41	glycyl endopeptidase
+T3	Organism 47 60	Carica papaya
+T4	Protein 64 86	cysteine endopeptidase
+T5	Category 98 107	substrate
+T6	Protein 121 141	Glycyl endopeptidase
+T7	Protein 147 169	cysteine endopeptidase
+T8	Protein 177 190	papain family
+T9	Process 225 233	cleavage
+T10	Protein_part 234 244	C-terminal
+T11	Protein_part 248 263	glycyl residues
+T12	Parameter 277 287	resistance
+T13	Process 291 301	inhibition
+T14	Unknown 305 312	members
+T15	Protein 320 335	cystatin family
+T16	Protein 339 358	cysteine proteinase
+T17	Category 359 369	inhibitors
+T18	Protein 371 391	Glycyl endopeptidase
+T19	Chemical 424 428	salt
+T20	Category 437 446	substrate
+T21	Category 452 461	inhibitor
+T22	Protein_part 496 502	Cys 25
+T23	Unknown 508 517	structure
+T24	Process 537 558	molecular replacement
+T25	Geometrical_part 568 577	structure
+T26	Protein 581 587	papain
+T27	Value 603 608	2.1 A
+T28	Parameter 615 623	R factor
+T29	Value 627 632	0.196
+T30	Parameter 634 639	Rfree
+T31	Value 642 647	0.258
+T32	Geometrical_part 659 667	geometry
+T33	Unknown 674 683	structure
+T34	Protein_part 691 693	S1
+T35	Category 694 703	substrate
+T36	Process 704 711	binding
+T37	Protein_part 712 716	site
+T38	Protein 720 740	glycyl endopeptidase
+T39	Protein 762 768	papain
+T40	Process 776 788	substitution
+T41	Chemical 792 800	glycines
+T42	Protein_part 804 815	residues 23
+T43	Protein_part 820 822	65
+T44	Protein 826 832	papain
+T45	Protein_part 839 852	glutamic acid
+T46	Chemical 857 865	arginine
+T47	Protein 884 904	glycyl endopeptidase
+T48	Protein_part 910 921	side chains
+T49	Protein_part 931 939	residues
+T50	Process 966 973	binding
+T51	Geometrical_part 974 980	pocket
+T52	Category 1004 1013	substrate
+T53	Protein_part 1014 1022	residues
+T54	Protein_part 1034 1045	side chains
+T55	Protein_part 1055 1065	S1 subsite
+T56	Process 1071 1083	constriction
+T57	Protein_part 1092 1099	subsite
+T58	Protein 1103 1123	glycyl endopeptidase
+T59	Protein 1164 1170	enzyme
+T60	Process 1175 1183	cleavage
+T61	Protein_part 1190 1205	glycyl residues
+T62	Parameter 1221 1230	component
+T63	Parameter 1238 1248	resistance
+T64	Process 1252 1262	inhibition
+T65	Protein 1266 1275	cystatins

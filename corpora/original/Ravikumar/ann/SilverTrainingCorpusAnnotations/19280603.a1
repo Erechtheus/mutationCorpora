@@ -1,0 +1,84 @@
+T1	Process 0 6	Effect
+T2	Protein_part 10 11	D
+T3	Protein_part 15 16	E
+T4	Process 17 25	mutation
+T5	Protein_part 33 42	RGD motif
+T6	Parameter 65 73	activity
+T7	Unknown 75 84	structure
+T8	Process 100 110	importance
+T9	Process 118 130	interactions
+T10	Protein_part 143 152	D residue
+T11	Protein 157 165	integrin
+T12	Unknown 167 170	Rho
+T13	Organism 190 195	snake
+T14	Protein 196 209	venom protein
+T15	Protein_part 224 233	RGD motif
+T16	Protein 265 273	integrin
+T17	Process 282 290	function
+T18	Unknown 292 295	Rho
+T19	Organism 308 323	Pichia pastoris
+T20	Body_part 333 341	platelet
+T21	Process 342 353	aggregation
+T22	Parameter 361 365	K(I)
+T23	Value 369 374	78 nM
+T24	Unknown 395 398	Rho
+T25	Protein_part 417 428	D51E mutant
+T26	Body_part 438 446	platelet
+T27	Process 447 458	aggregation
+T28	Parameter 466 470	K(I)
+T29	Value 474 480	49 muM
+T30	Technique 493 501	analysis
+T31	Unknown 505 508	Rho
+T32	Protein_part 517 528	D51E mutant
+T33	Geometrical_part 569 573	fold
+T34	Geometrical_part 598 610	antiparallel
+T35	Protein_part 611 622	beta-sheets
+T36	Process 657 668	differences
+T37	Geometrical_part 681 693	RG[D/E] loop
+T38	Location 708 715	outward
+T39	Protein 725 732	protein
+T40	Geometrical_part 733 737	core
+T41	Protein_part 746 762	RG[D/E] sequence
+T42	Location 770 774	apex
+T43	Protein_part 780 792	four-residue
+T44	Unknown 793 801	RG[D/E]M
+T45	Unknown 802 808	type I
+T46	Process 825 836	differences
+T47	Unknown 845 848	Rho
+T48	Protein_part 857 868	D51E mutant
+T49	Geometrical_part 919 932	3D structures
+T50	Unknown 938 942	R(2)
+T51	Parameter 943 948	value
+T52	Protein_part 952 955	E51
+T53	Value 960 963	13%
+T54	Protein_part 988 999	D51 residue
+T55	Process 1003 1013	difference
+T56	Parameter 1021 1027	charge
+T57	Process 1028 1038	separation
+T58	Value 1042 1048	1.76 A
+T59	Protein_part 1071 1081	sidechains
+T60	Protein_part 1095 1098	R49
+T61	Protein_part 1113 1121	residues
+T62	Protein_part 1123 1126	D51
+T63	Protein_part 1130 1133	E51
+T64	Process 1139 1146	docking
+T65	Protein 1150 1153	Rho
+T66	Protein 1159 1179	integrin alphavbeta3
+T67	Chemical 1205 1210	amide
+T68	Chemical 1215 1223	carbonyl
+T69	Molecular_Part 1224 1230	groups
+T70	Protein_part 1238 1249	D51 residue
+T71	Protein 1253 1256	Rho
+T72	Chemical 1269 1283	hydrogen bonds
+T73	Protein_part 1293 1315	integrin residues R216
+T74	Protein_part 1320 1324	R214
+T75	Chemical 1359 1373	hydrogen bonds
+T76	Protein_part 1393 1397	D51E
+T77	Category 1414 1421	complex
+T78	Process 1453 1465	interactions
+T79	Protein_part 1483 1492	sidechain
+T80	Protein_part 1513 1522	D residue
+T81	Unknown 1526 1529	RGD
+T82	Category 1541 1548	ligands
+T83	Protein 1553 1561	integrin
+T84	Process 1586 1593	binding

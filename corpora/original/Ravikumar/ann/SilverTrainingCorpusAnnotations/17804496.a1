@@ -1,0 +1,94 @@
+T1	Technique 0 16	Crystallographic
+T2	Technique 21 41	biochemical analysis
+T3	Organism 45 54	rotavirus
+T4	Protein 55 59	NSP2
+T5	Chemical 65 76	nucleotides
+T6	Protein 87 116	nucleoside diphosphate kinase
+T7	Parameter 122 130	activity
+T8	Organism 132 141	Rotavirus
+T9	Organism 153 161	pathogen
+T10	Physiology 165 190	infantile gastroenteritis
+T11	Protein 216 223	protein
+T12	Protein 225 229	NSP2
+T13	Body_part 245 254	viroplasm
+T14	Process 255 264	formation
+T15	Protein 269 275	genome
+T16	Protein 314 317	RNA
+T17	Protein_part 330 335	helix
+T18	Parameter 350 360	properties
+T19	Protein 362 366	NSP2
+T20	Protein 376 401	nucleoside triphosphatase
+T21	Parameter 402 410	activity
+T22	Protein_part 424 433	histidine
+T23	Protein_part 435 439	H225
+T24	Protein_part 468 475	residue
+T25	Protein 485 494	enzymatic
+T26	Parameter 495 503	activity
+T27	Process 510 518	mutation
+T28	Protein_part 527 534	residue
+T29	Protein 569 572	RNA
+T30	Process 573 582	synthesis
+T31	Body_part 601 610	viroplasm
+T32	Process 611 620	formation
+T33	Process 651 656	basis
+T34	Protein 665 676	phosphatase
+T35	Parameter 677 685	activity
+T36	Protein 689 693	NSP2
+T37	Technique 708 733	crystallographic analyses
+T38	Protein 744 748	NSP2
+T39	Protein_part 778 790	H225A mutant
+T40	Process 798 806	presence
+T41	Chemical 810 821	nucleotides
+T42	Chemical 849 860	nucleotides
+T43	Geometrical_part 875 880	cleft
+T44	Protein_part 897 904	domains
+T45	Protein 908 912	NSP2
+T46	Protein_part 918 924	region
+T47	Process 950 960	similarity
+T48	Body_part 975 983	cellular
+T49	Protein 984 1014	HIT (histidine triad) proteins
+T50	State 1027 1041	conformational
+T51	Process 1042 1053	alterations
+T52	Geometrical_part 1075 1080	cleft
+T53	Chemical 1086 1096	nucleotide
+T54	Process 1097 1104	binding
+T55	Process 1109 1119	hydrolysis
+T56	Process 1126 1136	hydrolysis
+T57	Process 1150 1159	formation
+T58	Chemical 1172 1201	phosphohistidine intermediate
+T59	Body_part 1238 1246	cellular
+T60	Protein 1247 1283	nucleoside diphosphate (NDP) kinases
+T61	Protein 1320 1324	NSP2
+T62	Chemical 1334 1353	phosphoryl-transfer
+T63	Parameter 1354 1362	activity
+T64	Technique 1380 1385	assay
+T65	Protein 1398 1402	NSP2
+T66	Protein 1415 1425	NDP kinase
+T67	Parameter 1431 1439	activity
+T68	Chemical 1466 1475	phosphate
+T69	Chemical 1479 1483	NDPs
+T70	Protein 1494 1498	NSP2
+T71	Body_part 1538 1546	cellular
+T72	Protein 1547 1558	NDP kinases
+T73	Geometrical_part 1567 1580	its structure
+T74	Process 1585 1604	catalytic mechanism
+T75	Protein 1618 1622	NSP2
+T76	Parameter 1625 1634	potential
+T77	Process 1635 1641	target
+T78	Physiology 1646 1655	antiviral
+T79	Chemical 1656 1660	drug
+T80	Process 1685 1697	similarities
+T81	Protein 1701 1713	HIT proteins
+T82	Protein 1746 1756	NDP kinase
+T83	Parameter 1757 1765	activity
+T84	Protein 1767 1771	NSP2
+T85	Unknown 1806 1824	structure-activity
+T86	Parameter 1825 1838	relationships
+T87	Chemical 1859 1878	phosphoryl-transfer
+T88	Parameter 1879 1887	activity
+T89	Protein 1891 1895	NSP2
+T90	Process 1916 1927	homeostasis
+T91	Chemical 1931 1941	nucleotide
+T92	Body_part 1951 1961	viroplasms
+T93	Protein 1969 1975	genome
+T94	Process 1976 1987	replication

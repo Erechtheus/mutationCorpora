@@ -1,0 +1,76 @@
+T1	Protein 0 6	P22 c2
+T2	Category 26 33	complex
+T3	Process 35 45	mechanisms
+T4	Protein 82 113	P22 c2 repressor protein (P22R)
+T5	Molecule 123 126	DNA
+T6	Protein_part 127 135	sequence
+T7	Body_part 184 192	lambdoid
+T8	Organism 193 210	bacteriophage P22
+T9	Physiology 218 227	lysogenic
+T10	Process 242 249	pathway
+T11	Value 267 272	1.6 A
+T12	Technique 273 288	X-ray structure
+T13	Protein_part 296 319	N-terminal domain (NTD)
+T14	Protein 324 328	P22R
+T15	Category 334 341	complex
+T16	Molecule 349 352	DNA
+T17	Unknown 353 361	fragment
+T18	Protein_part 396 430	sequence  [d(ATTTAAGATATCTTAAAT)]2
+T19	Chemical 453 461	A-T base
+T20	Value 479 481	9L
+T21	Chemical 488 496	T-A base
+T22	Unknown 514 516	9R
+T23	Molecule 531 536	DNA9T
+T24	Unknown 570 583	van der Waals
+T25	Process 584 596	interactions
+T26	Protein 605 612	protein
+T27	Molecule 617 620	DNA
+T28	Protein_part 638 646	sequence
+T29	Geometrical_part 664 673	structure
+T30	Protein_part 681 695	P22R NTD-DNA9T
+T31	Category 696 703	complex
+T32	Protein_part 718 726	sequence
+T33	Process 778 789	interaction
+T34	Protein_part 795 801	valine
+T35	Process 823 830	binding
+T36	Geometrical_part 831 836	cleft
+T37	Geometrical_part 844 856	major groove
+T38	Geometrical_part 857 864	surface
+T39	Molecule 868 873	DNA9T
+T40	Geometrical_part 879 884	cleft
+T41	Chemical 903 909	methyl
+T42	Molecular_Part 910 916	groups
+T43	Protein_part 931 941	base pairs
+T44	Protein_part 945 955	5'-TTAA-3'
+T45	Protein_part 961 973	valine cleft
+T46	Location 977 986	intrinsic
+T47	Molecule 994 997	DNA
+T48	Protein_part 998 1006	sequence
+T49	Protein 1031 1038	protein
+T50	Molecule 1047 1050	DNA
+T51	State 1051 1065	conformational
+T52	Process 1066 1073	changes
+T53	Chemical 1075 1095	Protein-DNA hydrogen
+T54	Process 1096 1103	bonding
+T55	Process 1123 1127	role
+T56	Category 1223 1230	complex
+T57	Parameter 1261 1269	affinity
+T58	Protein 1275 1282	protein
+T59	Process 1293 1303	transition
+T60	Protein_part 1324 1330	region
+T61	Unknown 1336 1341	B-DNA
+T62	Unknown 1346 1352	B'-DNA
+T63	Unknown 1358 1360	B'
+T64	State 1361 1366	state
+T65	Geometrical_part 1396 1408	minor groove
+T66	Body_part 1422 1427	spine
+T67	Process 1431 1440	hydration
+T68	Parameter 1446 1457	free energy
+T69	Process 1465 1475	transition
+T70	Unknown 1481 1483	B-
+T71	Unknown 1487 1493	B'-DNA
+T72	Protein_part 1521 1529	sequence
+T73	Molecule 1550 1553	DNA
+T74	State 1554 1566	conformation
+T75	Process 1571 1580	hydration
+T76	Process 1596 1607	formulation

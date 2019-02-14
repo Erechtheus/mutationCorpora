@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Process 22 31	mechanism
+T3	Organism 35 40	human
+T4	Protein_part 41 47	lysine
+T5	Protein 57 70	demethylase-1
+T6	Process 87 98	methylation
+T7	Protein_part 111 126	lysine residues
+T8	Protein_part 130 143	histone tails
+T9	Physiology 158 168	epigenetic
+T10	Protein 169 173	gene
+T11	Process 174 184	regulation
+T12	Protein 186 190	LSD1
+T13	Protein_part 208 214	lysine
+T14	Protein 224 235	demethylase
+T15	Chemical 257 267	monomethyl
+T16	Chemical 272 280	dimethyl
+T17	Chemical 290 299	trimethyl
+T18	Process 300 313	modifications
+T19	Protein_part 317 321	Lys4
+T20	Protein_part 325 329	Lys9
+T21	Protein 333 342	histone-3
+T22	Geometrical_part 365 382	crystal structure
+T23	Protein 386 390	LSD1
+T24	Value 394 399	2.9-A
+T25	Parameter 400 410	resolution
+T26	Protein 412 416	LSD1
+T27	Protein_part 459 475	domain structure
+T28	Geometrical_part 494 501	helical
+T29	Protein_part 510 516	domain
+T30	Protein_part 532 543	active site
+T31	Body_part 544 550	cavity
+T32	Protein_part 593 601	residues
+T33	Protein_part 609 621	histone tail
+T34	Category 622 631	substrate
+T35	Process 680 689	different
+T36	Process 691 702	methylation
+T37	State 703 709	states
+T38	Category 717 726	substrate
+T39	Protein_part 727 733	lysine
+T40	Protein_part 769 789	trimethylated lysine
+T41	Technique 855 875	biochemical analysis
+T42	Molecule 879 883	LSD1
+T43	Molecule 884 891	mutants
+T44	Protein_part 916 924	residues
+T45	Protein_part 932 943	active site
+T46	Body_part 944 950	cavity
+T47	Process 965 975	importance
+T48	Protein_part 983 988	SWIRM
+T49	Protein_part 999 1006	domains
+T50	Process 1011 1020	catalysis

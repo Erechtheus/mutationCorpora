@@ -1,0 +1,65 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 15	structure
+T3	Organism 19 24	human
+T4	Protein 25 46	acid-beta-glucosidase
+T5	Chemical 67 87	conduritol-B-epoxide
+T6	Process 89 101	Implications
+T7	Unknown 106 113	Gaucher
+T8	Physiology 114 121	disease
+T9	Physiology 131 138	disease
+T10	Physiology 155 173	metabolic disorder
+T11	Process 184 193	mutations
+T12	Protein 201 251	lysosomal enzyme acid-beta-glucosidase (GlcCerase)
+T13	Molecule 280 285	x-ray
+T14	Geometrical_part 286 295	structure
+T15	Protein 299 308	GlcCerase
+T16	Value 312 317	2.0 A
+T17	Parameter 318 328	resolution
+T18	Unknown 336 361	H., Harel, M., McCarthy, 
+T19	Unknown 365 402	A., Toker, L., Silman, I., Futerman, 
+T20	Unknown 405 409	H., 
+T21	Unknown 413 427	Sussman, J. L.
+T22	Unknown 435 447	EMBO Rep.4, 
+T23	Geometrical_part 480 489	structure
+T24	Protein 493 503	Glc-Cerase
+T25	Category 536 545	inhibitor
+T26	Chemical 547 573	conduritol-B-epoxide (CBE)
+T27	Geometrical_part 579 596	crystal structure
+T28	Process 610 617	binding
+T29	Chemical 621 624	CBE
+T30	Protein_part 632 643	active site
+T31	State 669 683	conformational
+T32	Process 684 690	change
+T33	Protein 694 703	GlcCerase
+T34	Protein_part 722 728	Glu340
+T35	Chemical 746 757	nucleophile
+T36	State 796 809	conformations
+T37	Geometrical_part 832 837	loops
+T38	Protein_part 839 855	residues 345-349
+T39	Protein_part 860 867	394-399
+T40	Location 884 892	entrance
+T41	Protein_part 900 911	active site
+T42	Protein 922 931	GlcCerase
+T43	Protein 951 964	GlcCerase-CBE
+T44	Geometrical_part 965 974	structure
+T45	State 978 990	conformation
+T46	Protein_part 1004 1015	active site
+T47	Chemical 1033 1036	CBE
+T48	Technique 1038 1046	Analysis
+T49	State 1088 1101	conformations
+T50	Geometrical_part 1124 1129	loops
+T51	Location 1150 1158	entrance
+T52	Protein_part 1166 1177	active site
+T53	Process 1225 1234	mutations
+T54	Geometrical_part 1238 1250	loop 394-399
+T55	Unknown 1262 1269	Gaucher
+T56	Physiology 1270 1277	disease
+T57	Parameter 1300 1308	activity
+T58	Technique 1330 1349	mutational analysis
+T59	Process 1378 1387	mutations
+T60	State 1402 1414	conformation
+T61	Protein_part 1441 1452	active site
+T62	Process 1502 1511	mutations
+T63	Geometrical_part 1520 1524	loop
+T64	Unknown 1536 1543	Gaucher
+T65	Physiology 1544 1551	disease

@@ -1,0 +1,62 @@
+T1	Organism 44 51	tobacco
+T2	Protein 52 57	SABP2
+T3	Protein 63 90	methyl salicylate  esterase
+T4	Organism 111 116	plant
+T5	Physiology 124 132	immunity
+T6	Chemical 134 153	Salicylic acid (SA)
+T7	Process 183 193	activation
+T8	Organism 197 202	plant
+T9	Process 203 210	defense
+T10	Process 211 220	responses
+T11	Organism 229 237	pathogen
+T12	Physiology 238 248	infections
+T13	Protein 273 302	SA-binding protein  2 (SABP2)
+T14	Organism 308 315	tobacco
+T15	Protein 321 328	protein
+T16	Parameter 348 356	affinity
+T17	Chemical 361 363	SA
+T18	Process 385 389	role
+T19	Process 397 407	activation
+T20	Parameter 429 439	resistance
+T21	Organism 443 458	plant pathogens
+T22	Geometrical_part 479 497	crystal structures
+T23	Protein 501 506	SABP2
+T24	Category 521 528	complex
+T25	Chemical 534 536	SA
+T26	Value 546 551	2.1-A
+T27	Parameter 552 562	resolution
+T28	Unknown 568 578	structures
+T29	Protein 592 597	SABP2
+T30	Unknown 603 609	member
+T31	Protein 618 650	alpha/beta hydrolase superfamily
+T32	Protein 654 661	enzymes
+T33	Protein_part 668 674	Ser-81
+T34	Protein_part 676 683	His-238
+T35	Protein_part 689 696	Asp-210
+T36	Protein_part 704 719	catalytic triad
+T37	Chemical 721 723	SA
+T38	Protein_part 740 751	active site
+T39	Chemical 789 796	solvent
+T40	Parameter 823 831	affinity
+T41	Chemical 840 848	compound
+T42	Protein 853 858	SABP2
+T43	Protein 896 901	SABP2
+T44	Protein 913 921	esterase
+T45	Parameter 922 930	activity
+T46	Chemical 936 953	methyl salicylate
+T47	Category 961 970	substrate
+T48	Chemical 981 983	SA
+T49	Category 996 1003	product
+T50	Category 1004 1013	inhibitor
+T51	Process 1022 1031	catalysis
+T52	Protein 1045 1050	SABP2
+T53	Chemical 1056 1060	MeSA
+T54	Protein_part 1068 1079	active site
+T55	Protein 1160 1165	SABP2
+T56	Chemical 1193 1197	MeSA
+T57	Chemical 1201 1203	SA
+T58	Process 1219 1238	signal transduction
+T59	Process 1239 1247	pathways
+T60	Parameter 1280 1290	resistance
+T61	Process 1309 1316	defense
+T62	Process 1317 1326	responses

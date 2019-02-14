@@ -1,0 +1,66 @@
+T1	Process 12 22	importance
+T2	Unknown 43 52	structure
+T3	Process 62 66	link
+T4	Chemical 82 98	hydrogen bonding
+T5	Chemical 102 106	iron
+T6	Protein 118 138	superoxide dismutase
+T7	Chemical 140 142	Fe
+T8	Protein_part 154 188	superoxide dismutase's active site
+T9	Chemical 189 191	Fe
+T10	Chemical 212 228	solvent molecule
+T11	Process 236 247	protonation
+T12	State 248 253	state
+T13	Chemical 272 274	Fe
+T14	State 275 290	oxidation state
+T15	Unknown 321 322	H
+T16	Protein_part 339 351	glutamine 69
+T17	Chemical 361 377	solvent molecule
+T18	Parameter 405 419	redox activity
+T19	Chemical 427 429	Fe
+T20	Protein 433 459	superoxide dismutase (SOD)
+T21	Process 479 487	mutation
+T22	Protein_part 496 499	Gln
+T23	Protein_part 503 506	His
+T24	Protein_part 525 546	active site structure
+T25	Value 561 564	30%
+T26	Parameter 565 573	activity
+T27	Process 588 596	mutation
+T28	Protein_part 600 603	Glu
+T29	Protein_part 628 649	active site structure
+T30	Protein 670 676	enzyme
+T31	Protein 684 690	enzyme
+T32	Process 691 699	function
+T33	Chemical 720 724	atom
+T34	Protein_part 744 751	residue
+T35	Process 752 760	identity
+T36	Process 806 821	destabilization
+T37	Protein 829 839	Q69E-FeSOD
+T38	State 849 854	state
+T39	State 879 884	state
+T40	Molecule 889 901	intermediate
+T41	Process 902 917	destabilization
+T42	Protein 931 941	Q69H-FeSOD
+T43	Process 957 967	titrations
+T44	Process 982 990	mutation
+T45	Protein_part 994 999	Gln69
+T46	Protein_part 1004 1007	His
+T47	Process 1022 1031	reduction
+T48	Parameter 1032 1041	potential
+T49	Value 1045 1051	240 mV
+T50	Process 1061 1069	mutation
+T51	Protein_part 1073 1076	Glu
+T52	Value 1104 1120	more than 660 mV
+T53	Molecule 1164 1172	mutants'
+T54	Process 1173 1177	loss
+T55	Parameter 1181 1189	activity
+T56	Protein 1211 1218	factors
+T57	Process 1262 1271	reduction
+T58	Parameter 1272 1281	potential
+T59	Protein 1285 1295	Q69E-FeSOD
+T60	Process 1308 1322	reorganization
+T61	Protein_part 1330 1343	active site H
+T62	Physiology 1352 1359	network
+T63	Process 1396 1404	polarity
+T64	Chemical 1416 1422	H-bond
+T65	Protein_part 1431 1441	residue 69
+T66	Chemical 1458 1465	solvent

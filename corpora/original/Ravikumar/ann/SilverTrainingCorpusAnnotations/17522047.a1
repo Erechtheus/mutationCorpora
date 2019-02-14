@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 10	Structures
+T2	Protein 14 39	5-methylthioribose kinase
+T3	Category 47 56	substrate
+T4	Chemical 90 100	nucleotide
+T5	Process 101 108	binding
+T6	Chemical 114 124	methionine
+T7	Process 133 140	pathway
+T8	Organism 162 171	organisms
+T9	Physiology 177 186	metabolic
+T10	Process 187 197	variations
+T11	Organism 212 220	bacteria
+T12	Organism 225 232	mammals
+T13	Protein 234 265	5-Methylthioribose (MTR) kinase
+T14	Protein 275 281	enzyme
+T15	Chemical 285 295	methionine
+T16	Organism 307 315	bacteria
+T17	Process 324 331	absence
+T18	Organism 337 346	mammalian
+T19	Protein 347 354	homolog
+T20	Process 382 388	target
+T21	Chemical 413 424	antibiotics
+T22	Unknown 430 440	structures
+T23	State 448 456	apo-form
+T24	Organism 460 481	Bacillus subtilis MTR
+T25	Protein 482 488	kinase
+T26	Chemical 505 508	ADP
+T27	Chemical 510 519	ADP-PO(4)
+T28	Chemical 521 527	AMPPCP
+T29	Chemical 533 543	AMPPCP-MTR
+T30	Category 544 553	complexes
+T31	Protein 576 586	MTR kinase
+T32	Organism 601 611	eukaryotic
+T33	Protein 612 626	protein kinase
+T34	Geometrical_part 627 631	fold
+T35	Protein 678 685	protein
+T36	Protein_part 696 705	DFG motif
+T37	Geometrical_part 729 738	beginning
+T38	Process 746 756	activation
+T39	Geometrical_part 757 761	loop
+T40	Chemical 786 795	magnesium
+T41	Protein_part 802 811	DXE motif
+T42	Protein_part 813 816	Asp
+T43	Protein_part 820 830	)-Glu(252)
+T44	Chemical 850 857	glycine
+T45	Geometrical_part 863 867	loop
+T46	Protein 875 882	protein
+T47	Unknown 901 905	"Gly
+T48	Protein 916 931	protein kinases
+T49	Chemical 972 982	nucleotide
+T50	Chemical 988 991	MTR
+T51	Category 992 1001	substrate
+T52	Protein_part 1010 1014	site
+T53	Protein_part 1027 1035	Asp(233)
+T54	Protein_part 1054 1063	HGD motif
+T55	Protein_part 1078 1092	arginine motif
+T56	Protein_part 1094 1097	Arg
+T57	Protein_part 1101 1111	)/Arg(341)
+T58	Unknown 1136 1142	W-loop
+T59	Chemical 1170 1173	MTR
+T60	Process 1174 1181	binding
+T61	Body_part 1198 1202	lobe
+T62	Process 1203 1210	closure
+T63	Protein 1227 1237	MTR kinase
+T64	Category 1243 1252	substrate
+T65	Process 1253 1260	binding
+T66	Protein 1291 1297	enzyme
+T67	Body_part 1308 1312	lobe
+T68	Process 1313 1320	closure
+T69	Process 1330 1342	interactions
+T70	Body_part 1355 1361	C-lobe
+T71	Protein 1369 1376	protein
+T72	Chemical 1385 1392	ribosyl
+T73	Molecular_Part 1393 1399	moiety
+T74	Chemical 1407 1417	nucleotide
+T75	Body_part 1453 1457	lobe
+T76	Process 1458 1465	closure
+T77	Protein 1469 1484	protein kinases
+T78	Unknown 1498 1508	structures
+T79	Protein 1522 1532	MTR kinase
+T80	Process 1552 1561	mechanism

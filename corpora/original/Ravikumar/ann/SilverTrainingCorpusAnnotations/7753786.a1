@@ -1,0 +1,66 @@
+T1	Unknown 4 13	structure
+T2	Organism 17 24	Ascaris
+T3	Protein 25 35	hemoglobin
+T4	Protein_part 36 44	domain I
+T5	Value 48 53	2.2 A
+T6	Parameter 54 64	resolution
+T7	Chemical 88 94	oxygen
+T8	Protein 120 130	hemoglobin
+T9	Organism 138 164	parasitic nematode Ascaris
+T10	Parameter 191 199	affinity
+T11	Chemical 204 210	oxygen
+T12	Protein 221 238	octameric protein
+T13	Chemical 262 266	heme
+T14	Protein_part 275 282	domains
+T15	Protein 287 294	subunit
+T16	Protein_part 312 322	constructs
+T17	Chemical 354 358	heme
+T18	Protein_part 367 373	domain
+T19	Protein_part 375 383	domain 1
+T20	Protein 385 387	D1
+T21	Chemical 401 407	oxygen
+T22	Geometrical_part 437 454	crystal structure
+T23	Protein 458 460	D1
+T24	Value 464 469	2.2 A
+T25	Parameter 470 480	resolution
+T26	Technique 482 490	Analysis
+T27	Unknown 498 507	structure
+T28	Protein 533 539	globin
+T29	Geometrical_part 540 544	fold
+T30	Chemical 593 599	oxygen
+T31	Organism 611 618	Ascaris
+T32	Protein 631 641	hemoglobin
+T33	Chemical 652 665	hydrogen bond
+T34	Protein_part 674 682	tyrosine
+T35	Location 686 697	position 10
+T36	Protein_part 705 712	B helix
+T37	Protein_part 714 726	tyrosine-B10
+T38	Location 736 742	distal
+T39	Chemical 743 749	oxygen
+T40	Category 757 763	ligand
+T41	Chemical 786 799	hydrogen bond
+T42	Chemical 808 820	glutamine-E7
+T43	Location 829 837	proximal
+T44	Chemical 838 844	oxygen
+T45	Category 856 862	ligand
+T46	Process 870 877	binding
+T47	Geometrical_part 878 884	pocket
+T48	Chemical 894 907	hydrogen bond
+T49	Protein_part 926 937	amino acids
+T50	Unknown 963 972	structure
+T51	Protein_part 978 985	B helix
+T52	Protein 989 991	D1
+T53	Location 1005 1014	laterally
+T54	Value 1018 1023	2.5 A
+T55	Organism 1043 1054	sperm whale
+T56	Protein 1055 1064	myoglobin
+T57	Chemical 1082 1103	tyrosine-B10 hydroxyl
+T58	Chemical 1129 1135	oxygen
+T59	Chemical 1154 1167	hydrogen bond
+T60	Geometrical_part 1176 1182	steric
+T61	Process 1194 1201	Changes
+T62	Protein_part 1209 1216	F helix
+T63	Protein 1231 1240	myoglobin
+T64	Chemical 1264 1268	heme
+T65	Chemical 1300 1306	oxygen
+T66	Parameter 1307 1315	affinity

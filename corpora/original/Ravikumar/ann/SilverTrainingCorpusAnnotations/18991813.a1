@@ -1,0 +1,66 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Process 23 42	catalytic mechanism
+T3	Organism 46 51	human
+T4	Protein 52 83	protein histidine phosphatase 1
+T5	Protein_part 85 102	Protein histidine
+T6	Process 103 118	phosphorylation
+T7	Organism 136 147	vertebrates
+T8	Process 172 177	roles
+T9	Process 181 200	signal transduction
+T10	Body_part 211 219	cellular
+T11	Process 220 229	functions
+T12	Organism 256 266	eukaryotic
+T13	Protein 267 303	PHPT (protein histidine phosphatase)
+T14	Organism 345 355	vertebrate
+T15	Protein 356 360	PHPT
+T16	Geometrical_part 390 408	crystal structures
+T17	Protein 412 432	hPHPT1 (human PHPT1)
+T18	Unknown 470 480	structures
+T19	Process 486 495	different
+T20	Category 496 502	ligand
+T21	Protein_part 511 516	sites
+T22	Process 521 534	co-ordination
+T23	Chemical 586 605	solution structures
+T24	Protein 609 615	hPHPT1
+T25	State 624 633	P(i)-free
+T26	State 638 642	P(i)
+T27	State 649 655	states
+T28	Process 665 675	comparison
+T29	Unknown 683 693	structures
+T30	Process 708 719	mutagenesis
+T31	Protein_part 750 761	active site
+T32	Protein 765 771	hPHPT1
+T33	Protein_part 838 849	active site
+T34	Protein_part 869 881	helix alpha1
+T35	Geometrical_part 886 893	loop L5
+T36	Protein_part 895 902	His(53)
+T37	Protein_part 938 945	residue
+T38	Unknown 955 957	NH
+T39	Molecular_Part 958 964	groups
+T40	Protein_part 968 984	residues His(53)
+T41	Protein_part 986 993	Ala(54)
+T42	Protein_part 998 1005	Ala(96)
+T43	Protein_part 1014 1016	OH
+T44	Molecular_Part 1017 1022	group
+T45	Protein_part 1026 1033	Ser(94)
+T46	Geometrical_part 1048 1055	anchors
+T47	Category 1059 1063	P(i)
+T48	Category 1067 1076	substrate
+T49	Chemical 1088 1095	H-bonds
+T50	Unknown 1101 1105	P(i)
+T51	Process 1115 1120	basis
+T52	Process 1139 1158	catalytic mechanism
+T53	Protein 1175 1181	hPHPT1
+T54	Chemical 1187 1201	imidazole ring
+T55	Protein_part 1205 1212	His(53)
+T56	Chemical 1225 1237	general base
+T57	Chemical 1252 1266	water molecule
+T58	Chemical 1287 1292	water
+T59	Category 1310 1319	substrate
+T60	Chemical 1325 1336	nucleophile
+T61	Process 1344 1353	catalysis
+T62	Protein_part 1378 1388	side chain
+T63	Protein_part 1392 1399	Lys(21)
+T64	State 1423 1439	transition state
+T65	Process 1452 1471	catalytic mechanism
+T66	Technique 1492 1508	EzCatDB database

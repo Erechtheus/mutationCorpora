@@ -1,0 +1,69 @@
+T1	Category 0 4	ING4
+T2	Process 14 23	crosstalk
+T3	Protein 32 42	histone H3
+T4	Value 43 45	K4
+T5	Process 46 60	trimethylation
+T6	Protein 65 67	H3
+T7	Process 68 79	acetylation
+T8	Body_part 93 101	cellular
+T9	Process 102 116	transformation
+T10	Physiology 118 129	Aberrations
+T11	Protein 133 142	chromatin
+T12	Process 171 175	role
+T13	Physiology 179 192	tumorigenesis
+T14	Process 232 252	molecular mechanisms
+T15	Protein_part 261 275	histone lysine
+T16	Process 276 287	methylation
+T17	Physiology 291 309	neoplastic disease
+T18	Category 311 339	ING4 (Inhibitor of Growth 4)
+T19	Protein 352 359	subunit
+T20	Protein 366 402	HBO1 histone acetyltransferase (HAT)
+T21	Category 403 410	complex
+T22	Physiology 417 422	tumor
+T23	Protein 423 441	suppressor protein
+T24	Process 467 471	role
+T25	Process 485 496	recognition
+T26	Protein 500 510	histone H3
+T27	Protein_part 528 546	lysine 4 (H3K4me3)
+T28	Category 554 558	ING4
+T29	Body_part 559 569	PHD finger
+T30	Category 583 587	ING4
+T31	Protein 588 592	gene
+T32	Process 593 603	expression
+T33	Physiology 608 613	tumor
+T34	Molecule 614 624	suppressor
+T35	Process 625 634	functions
+T36	Process 640 651	interaction
+T37	Category 660 664	ING4
+T38	Protein_part 669 676	H3K4me3
+T39	Protein 686 690	HBO1
+T40	Process 691 702	acetylation
+T41	Parameter 703 711	activity
+T42	Protein_part 715 723	H3 tails
+T43	Protein 735 737	H3
+T44	Process 738 749	acetylation
+T45	Category 754 758	ING4
+T46	Process 759 765	target
+T47	Protein_part 766 775	promoters
+T48	Category 786 790	ING4
+T49	Physiology 803 812	apoptosis
+T50	Process 816 824	response
+T51	Physiology 838 844	stress
+T52	Body_part 880 884	cell
+T53	Process 885 891	growth
+T54	Process 903 912	functions
+T55	Category 923 927	ING4
+T56	Process 928 940	interactions
+T57	Protein_part 946 953	H3K4me3
+T58	Process 991 1000	mechanism
+T59	Process 1015 1024	crosstalk
+T60	Protein 1033 1037	H3K4
+T61	Process 1038 1049	methylation
+T62	Protein 1054 1056	H3
+T63	Process 1057 1068	acetylation
+T64	Process 1092 1096	link
+T65	Protein 1105 1114	chromatin
+T66	Process 1115 1125	modulation
+T67	Physiology 1130 1135	tumor
+T68	Molecule 1136 1146	suppressor
+T69	Process 1147 1157	mechanisms

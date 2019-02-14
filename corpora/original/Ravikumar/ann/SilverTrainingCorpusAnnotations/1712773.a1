@@ -1,0 +1,47 @@
+T1	Technique 0 16	Crystallographic
+T2	Process 17 27	refinement
+T3	Geometrical_part 35 62	three-dimensional structure
+T4	Protein 70 86	FabD1.3-lysozyme
+T5	Category 87 94	complex
+T6	Value 98 103	2.5-A
+T7	Parameter 104 114	resolution
+T8	Geometrical_part 138 155	crystal structure
+T9	Category 163 170	complex
+T10	Protein_part 183 186	Fab
+T11	Protein 196 234	monoclonal anti-lysozyme antibody D1.3
+T12	Protein 243 250	antigen
+T13	Organism 252 259	hen egg
+T14	Protein 266 274	lysozyme
+T15	Technique 296 323	crystallographic techniques
+T16	Molecule 330 335	x-ray
+T17	Parameter 336 345	intensity
+T18	Value 354 359	2.5-A
+T19	Parameter 360 370	resolution
+T20	Molecule 376 384	antibody
+T21	Process 385 393	contacts
+T22	Protein 398 405	antigen
+T23	Protein_part 411 419	residues
+T24	Protein_part 461 468	regions
+T25	Protein 470 477	Antigen
+T26	Protein_part 478 492	residues 18-27
+T27	Protein_part 497 504	117-125
+T28	Physiology 526 535	antigenic
+T29	Chemical 555 569	hydrogen bonds
+T30	Unknown 574 587	van der Waals
+T31	Process 588 600	interactions
+T32	Molecule 610 618	antibody
+T33	Chemical 620 635	Water molecules
+T34	Unknown 651 667	antigen-antibody
+T35	Process 691 699	contacts
+T36	Protein 708 715	antigen
+T37	Molecule 720 728	antibody
+T38	Molecule 754 762	antibody
+T39	Molecule 763 767	D1.3
+T40	Protein 792 797	alpha
+T41	Value 798 817	less than 10(5) M-1
+T42	Organism 819 824	avian
+T43	Protein 825 834	lysozymes
+T44	Protein_part 841 847	Gln121
+T45	Protein_part 855 874	amino acid sequence
+T46	Protein_part 890 893	His
+T47	Process 919 924	basis

@@ -1,0 +1,74 @@
+T1	Protein_part 0 11	Active-site
+T2	Process 12 19	changes
+T3	Category 27 69	pyruvate dehydrogenase multienzyme complex
+T4	Protein 70 82	E1 apoenzyme
+T5	Protein_part 83 92	component
+T6	Organism 98 114	Escherichia coli
+T7	Value 127 133	2.32 A
+T8	Parameter 134 144	resolution
+T9	Protein_part 156 175	enzymatic component
+T10	Protein 177 179	E1
+T11	Protein 181 191	EC 1.2.4.1
+T12	Category 201 250	pyruvate dehydrogenase multienzyme complex (PDHc)
+T13	Chemical 260 287	thiamine diphosphate (ThDP)
+T14	Chemical 292 298	Mg(2+)
+T15	Category 302 311	cofactors
+T16	Geometrical_part 317 326	structure
+T17	Protein 332 346	branched-chain
+T18	Protein 356 368	E1 apoenzyme
+T19	Unknown 395 420	alpha(2)beta(2) E1 family
+T20	Process 478 493	transformations
+T21	Protein_part 501 518	active-site loops
+T22	Category 535 543	cofactor
+T23	Process 544 551	binding
+T24	Process 571 577	effect
+T25	Process 582 589	absence
+T26	Category 593 601	cofactor
+T27	Organism 630 655	alpha(2) Escherichia coli
+T28	Category 656 660	PDHc
+T29	Protein 661 663	E1
+T30	Protein 683 692	apoenzyme
+T31	Geometrical_part 719 746	three-dimensional structure
+T32	Value 775 781	2.32 A
+T33	Technique 785 801	crystallographic
+T34	Protein 846 855	apoenzyme
+T35	Geometrical_part 857 866	structure
+T36	Geometrical_part 875 887	E1 component
+T37	Unknown 909 924	alpha(2) family
+T38	Protein_part 969 975	region
+T39	Category 986 994	cofactor
+T40	Chemical 995 1010	pyrimidine ring
+T41	Parameter 1053 1057	size
+T42	Geometrical_part 1059 1064	shape
+T43	Chemical 1094 1109	water molecules
+T44	Chemical 1122 1130	hydrogen
+T45	Protein_part 1138 1145	linkage
+T46	Protein_part 1154 1169	residues Glu571
+T47	Protein_part 1174 1180	Val192
+T48	Process 1212 1224	interactions
+T49	Chemical 1234 1238	ThDP
+T50	Category 1239 1247	cofactor
+T51	Protein_part 1251 1260	histidine
+T52	Protein_part 1261 1271	side chain
+T53	Chemical 1292 1306	hydrogen bonds
+T54	Chemical 1310 1314	ThDP
+T55	Process 1337 1344	absence
+T56	Protein_part 1372 1377	sites
+T57	Protein 1402 1440	heterotetrameric branched-chain apo-E1
+T58	Geometrical_part 1460 1464	loop
+T59	Process 1465 1480	transformations
+T60	Category 1496 1504	apo-PDHc
+T61	Protein 1505 1507	E1
+T62	Protein 1524 1538	holo-E1 enzyme
+T63	Category 1540 1544	PDHc
+T64	Chemical 1545 1559	E1-ThDP-Mg(2+)
+T65	Process 1562 1573	Differences
+T66	Chemical 1591 1599	hydrogen
+T67	Physiology 1608 1616	networks
+T68	Protein 1631 1644	apo-E1 enzyme
+T69	Protein 1650 1664	holo-E1 enzyme
+T70	Category 1675 1684	inhibitor
+T71	Category 1685 1692	complex
+T72	Chemical 1704 1745	thiamine 2-thiazolone diphosphate (ThTDP)
+T73	Category 1747 1751	PDHc
+T74	Chemical 1752 1767	E1-ThTDP-Mg(2+)

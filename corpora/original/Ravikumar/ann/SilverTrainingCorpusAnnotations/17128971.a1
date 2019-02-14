@@ -1,0 +1,64 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 33	Arabidopsis thaliana
+T3	Protein 34 51	At1g77540 protein
+T4	Protein 63 80	acetyltransferase
+T5	Unknown 91 105	COG2388 family
+T6	Technique 119 132	X-ray crystal
+T7	Technique 137 140	NMR
+T8	Chemical 141 160	solution structures
+T9	Protein 168 175	protein
+T10	Organism 189 209	Arabidopsis thaliana
+T11	Protein 210 238	gene At1g77540.1 (At1g77540)
+T12	Geometrical_part 244 261	crystal structure
+T13	Value 280 286	1.15 A
+T14	Parameter 295 303	R factor
+T15	Value 307 312	14.9%
+T16	Parameter 314 319	Rfree
+T17	Value 322 327	17.0%
+T18	Process 362 373	diffraction
+T19	Chemical 380 394	sodium bromide
+T20	Unknown 407 415	crystals
+T21	Technique 433 436	NMR
+T22	Protein 437 447	conformers
+T23	Protein 468 475	protein
+T24	Value 497 500	15N
+T25	Protein_part 505 508	13C
+T26	Value 511 514	15N
+T27	Technique 520 535	X-ray structure
+T28	Technique 540 543	NMR
+T29	Unknown 579 583	rmsd
+T30	Value 584 589	1.4 A
+T31	Protein_part 594 607	residues 8-93
+T32	Protein 609 618	At1g77540
+T33	Geometrical_part 640 644	fold
+T34	Unknown 664 668	GCN5
+T35	Protein 677 697	N-acetyltransferases
+T36	Protein 699 708	Enzymatic
+T37	Parameter 709 717	activity
+T38	Technique 718 724	assays
+T39	Protein 742 751	At1g77540
+T40	Protein 767 784	acetyltransferase
+T41	Parameter 785 793	activity
+T42	Protein 802 813	histones H3
+T43	Protein 818 820	H4
+T44	Chemical 822 830	Chemical
+T45	Process 831 836	shift
+T46	Process 837 850	perturbations
+T47	Unknown 863 871	15N-HSQC
+T48	Parameter 872 879	spectra
+T49	Process 889 897	addition
+T50	Chemical 901 904	CoA
+T51	Category 924 932	cofactor
+T52	Process 958 965	binding
+T53	Protein_part 966 970	site
+T54	Process 1002 1013	interaction
+T55	Technique 1053 1068	X-ray structure
+T56	Chemical 1076 1089	At1g77540-CoA
+T57	Category 1090 1097	complex
+T58	Unknown 1130 1151	domain family COG2388
+T59	Protein 1180 1197	acetyltransferase
+T60	Process 1211 1218	insight
+T61	Process 1245 1250	roles
+T62	Protein_part 1268 1273	Cys76
+T63	Protein_part 1278 1292	His41 residues
+T64	Unknown 1301 1307	family

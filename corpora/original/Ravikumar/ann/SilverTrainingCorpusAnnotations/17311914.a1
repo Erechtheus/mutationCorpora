@@ -1,0 +1,87 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 30	T877A
+T3	Organism 31 36	human
+T4	Protein_part 37 76	androgen receptor ligand-binding domain
+T5	Chemical 90 109	cyproterone acetate
+T6	Process 119 126	insight
+T7	Category 131 137	ligand
+T8	State 146 160	conformational
+T9	Process 161 168	changes
+T10	Unknown 173 182	structure
+T11	Chemical 189 193	drug
+T12	Chemical 202 227	Cyproterone acetate (CPA)
+T13	Chemical 243 255	antiandrogen
+T14	Process 279 288	treatment
+T15	Body_part 292 300	prostate
+T16	Physiology 301 307	cancer
+T17	Category 333 341	agonists
+T18	Protein 350 372	androgen receptor (AR)
+T19	Chemical 379 398	dihydrotestosterone
+T20	Unknown 400 405	R1881
+T21	Chemical 408 411	CPA
+T22	Unknown 426 435	structure
+T23	Process 483 490	binding
+T24	Molecule 531 536	x-ray
+T25	Geometrical_part 537 555	crystal structures
+T26	Protein_part 563 593	AR ligand-binding domain (LBD)
+T27	Molecule 609 614	x-ray
+T28	Geometrical_part 615 632	crystal structure
+T29	Organism 640 645	human
+T30	Protein_part 646 652	AR LBD
+T31	Chemical 662 665	CPA
+T32	Value 669 673	1.8A
+T33	Protein 681 694	T877A variant
+T34	Process 698 706	mutation
+T35	Category 729 736	agonist
+T36	Parameter 737 745	activity
+T37	Chemical 749 752	CPA
+T38	Process 778 790	purification
+T39	Unknown 795 802	crystal
+T40	Process 803 812	formation
+T41	Category 834 841	complex
+T42	Unknown 847 856	structure
+T43	Chemical 889 904	17alpha-acetate
+T44	Molecular_Part 905 910	group
+T45	Chemical 914 917	CPA
+T46	Process 926 934	movement
+T47	Protein_part 942 949	Leu-701
+T48	Protein_part 950 960	side chain
+T49	Process 987 996	unfolding
+T50	Protein_part 1004 1018	C-terminal end
+T51	Protein_part 1022 1030	helix 11
+T52	Process 1035 1047	displacement
+T53	Geometrical_part 1055 1059	loop
+T54	Protein_part 1069 1079	helices 11
+T55	Process 1090 1100	comparison
+T56	Protein_part 1114 1139	AR LBD crystal structures
+T57	Process 1176 1186	alteration
+T58	Process 1199 1208	expansion
+T59	Protein 1216 1218	AR
+T60	Process 1219 1226	binding
+T61	Body_part 1227 1233	cavity
+T62	Geometrical_part 1259 1265	pocket
+T63	Protein_part 1278 1285	Leu-701
+T64	Protein_part 1287 1294	Leu-704
+T65	Protein_part 1296 1303	Ser-778
+T66	Protein_part 1305 1312	Met-780
+T67	Protein_part 1314 1321	Phe-876
+T68	Protein_part 1327 1334	Leu-880
+T69	Chemical 1359 1362	CPA
+T70	Process 1387 1397	activation
+T71	Protein 1405 1413	L701A AR
+T72	Parameter 1431 1445	concentrations
+T73	Protein_part 1461 1473	T877A mutant
+T74	Process 1485 1494	mutations
+T75	Protein 1502 1530	glucocorticoid receptor (GR)
+T76	Protein 1535 1557	progesterone  receptor
+T77	Chemical 1594 1597	CPA
+T78	Category 1631 1638	agonist
+T79	Protein 1646 1654	M560A GR
+T80	Unknown 1701 1710	structure
+T81	Chemical 1717 1721	drug
+T82	Protein_part 1749 1756	regions
+T83	Protein_part 1764 1770	AR LBD
+T84	Process 1784 1791	insight
+T85	Chemical 1802 1805	CPA
+T86	Protein 1822 1824	AR
+T87	Protein 1829 1831	GR

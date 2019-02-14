@@ -1,0 +1,14 @@
+We have isolated and characterized omwaprin, a 50-amino-acid cationic protein from the venom of inland taipan (Oxyuranus microlepidotus) . 
+It is a new member of the waprin family of snake venom proteins . 
+A synthetic gene was designed and constructed for expressing the recombinant protein in Escherichia coli . 
+Recombinant omwaprin was used for carrying out functional analyses . 
+The protein is non-toxic to Swiss albino mice at doses of up to 10 mg/kg when administered intraperitoneally . 
+However, it shows selective and dose-dependant antibacterial activity against Gram-positive bacteria . 
+The minimum inhibitory doses were in the range 2-10 microg for selected species of bacteria in radial diffusion assays . 
+The antibacterial activity is salt-tolerant up to 350 mM NaCl . 
+However, omwaprin lost its antibacterial activity upon reduction and alkylation of its cysteine residues, or upon deletion of six N-terminal amino acid residues, four of which are positively charged . 
+These observations indicate that the three-dimensional structure constrained by four disulfide bonds and the N-terminal residues are essential for its activity . 
+The mechanism of action is via membrane disruption, as shown by scanning electron microscopy . 
+Importantly, omwaprin lacks haemolytic activity on human erythrocytes . 
+This demonstrates the specificity of omwaprin for bacterial membranes . 
+Unlike other reported WAP (whey acidic protein) domain-containing antibacterial proteins, including elafin, EPPIN (epididymal proteinase inhibitor), SWAM1 and SWAM2 [single WAP (whey acidic protein) motif proteins 1 and 2] and SLPI (secretory leucocyte proteinase inhibitor), omwaprin shows species-specific activity on the Gram-positive bacteria tested . 

@@ -1,0 +1,89 @@
+T1	Process 21 29	response
+T2	Chemical 33 43	tipranavir
+T3	Organism 47 83	human immunodeficiency virus type  1
+T4	Chemical 84 97	protease drug
+T5	Parameter 98 108	resistance
+T6	Process 109 118	mutations
+T7	Chemical 120 124	Drug
+T8	Parameter 125 135	resistance
+T9	Process 178 186	efficacy
+T10	Protein 223 231	protease
+T11	Category 232 242	inhibitors
+T12	Process 251 260	treatment
+T13	Physiology 264 273	infection
+T14	Organism 279 314	human immunodeficiency virus type 1
+T15	Unknown 315 327	(HIV-1)/AIDS
+T16	Process 347 358	elucidation
+T17	Process 366 376	mechanisms
+T18	Organism 386 391	HIV-1
+T19	Protein 392 400	protease
+T20	Category 401 411	inhibitors
+T21	Physiology 421 430	antiviral
+T22	Parameter 431 439	activity
+T23	Process 447 455	presence
+T24	Process 459 468	mutations
+T25	Process 488 499	development
+T26	Location 503 511	superior
+T27	Category 512 522	inhibitors
+T28	Chemical 524 534	Tipranavir
+T29	Organism 550 555	HIV-1
+T30	Protein 556 564	protease
+T31	Category 565 574	inhibitor
+T32	Process 611 620	treatment
+T33	Organism 624 627	HIV
+T34	Physiology 628 637	infection
+T35	Chemical 639 649	Tipranavir
+T36	Protein 659 677	wild-type protease
+T37	Value 704 709	19 pM
+T38	Process 736 744	efficacy
+T39	Process 752 761	treatment
+T40	Organism 765 773	patients
+T41	Organism 788 801	HIV-1 strains
+T42	Process 829 838	mutations
+T43	Parameter 855 865	resistance
+T44	Chemical 887 897	tipranavir
+T45	Parameter 934 941	entropy
+T46	Process 942 948	change
+T47	Parameter 950 958	-TDeltaS
+T48	Value 961 975	-14.6 kcal/mol
+T49	Parameter 1018 1026	enthalpy
+T50	Process 1027 1033	change
+T51	Parameter 1035 1041	DeltaH
+T52	Value 1044 1057	-0.7 kcal/mol
+T53	Value 1059 1071	25 degrees C
+T54	Process 1074 1090	Characterization
+T55	Chemical 1094 1104	tipranavir
+T56	Protein 1116 1134	wild-type protease
+T57	Protein_part 1136 1147	active site
+T58	Protein_part 1148 1160	mutants I50V
+T59	Protein_part 1165 1174	V82F/I84V
+T60	Chemical 1180 1189	multidrug
+T61	Protein_part 1200 1247	mutant  L10I/L33I/M46I/I54V/L63I/V82A/I84V/L90M
+T62	Chemical 1257 1267	tipranavir
+T63	Protein_part 1286 1322	mutant I13V/V32L/L33F/K45I/V82L/I84V
+T64	Process 1351 1360	titration
+T65	Technique 1361 1372	calorimetry
+T66	Technique 1377 1392	crystallography
+T67	Process 1422 1430	response
+T68	Chemical 1434 1444	tipranavir
+T69	Physiology 1466 1474	behavior
+T70	Molecule 1596 1603	mutants
+T71	Process 1631 1635	loss
+T72	Parameter 1639 1655	binding affinity
+T73	Chemical 1671 1681	tipranavir
+T74	Chemical 1708 1721	hydrogen bond
+T75	Physiology 1722 1729	network
+T76	Unknown 1735 1744	invariant
+T77	Protein_part 1745 1752	regions
+T78	Protein 1760 1768	protease
+T79	Molecule 1799 1806	mutants
+T80	Protein_part 1828 1833	Asp25
+T81	Protein_part 1855 1860	Asp29
+T82	Protein_part 1862 1867	Asp30
+T83	Protein_part 1869 1874	Gly48
+T84	Protein_part 1879 1884	Ile50
+T85	Chemical 1896 1906	tipranavir
+T86	Chemical 1913 1927	hydrogen bonds
+T87	Protein_part 1940 1945	Ile50
+T88	Category 1963 1973	inhibitors
+T89	Chemical 2003 2017	water molecule

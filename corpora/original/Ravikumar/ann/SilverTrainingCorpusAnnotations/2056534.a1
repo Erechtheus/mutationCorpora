@@ -1,0 +1,110 @@
+T1	Unknown 8 17	structure
+T2	Organism 21 28	porcine
+T3	Protein 29 39	pepsinogen
+T4	Value 43 48	1.8 A
+T5	Parameter 49 59	resolution
+T6	Unknown 75 84	structure
+T7	Organism 88 95	porcine
+T8	Protein 96 106	pepsinogen
+T9	Value 110 115	1.8 A
+T10	Parameter 116 126	resolution
+T11	Process 167 188	molecular replacement
+T12	Technique 222 232	techniques
+T13	Unknown 248 257	structure
+T14	Chemical 273 293	restrained-parameter
+T15	Parameter 327 335	R factor
+T16	Value 359 364	0.164
+T17	Value 369 375	32,264
+T18	Parameter 376 387	reflections
+T19	Unknown 393 394	I
+T20	Protein 420 425	sigma
+T21	Unknown 427 428	I
+T22	Parameter 437 453	resolution range
+T23	Value 458 461	8.0
+T24	Value 465 470	1.8 A
+T25	Chemical 499 512	protein atoms
+T26	Protein_part 520 528	residues
+T27	Chemical 532 542	phosphoryl
+T28	Molecular_Part 543 548	group
+T29	Protein_part 552 557	Ser68
+T30	Chemical 574 589	water molecules
+T31	Geometrical_part 665 682	crystal structure
+T32	Value 725 729	0.10
+T33	Value 733 739	0.15 A
+T34	Protein_part 761 768	regions
+T35	Molecule 776 784	molecule
+T36	Value 788 803	less than 15 A2
+T37	Protein 814 820	enzyme
+T38	Protein 836 843	zymogen
+T39	Parameter 849 865	root-mean-square
+T40	Process 866 876	difference
+T41	Chemical 880 892	C alpha atom
+T42	Organism 923 930	porcine
+T43	Protein 931 937	pepsin
+T44	Geometrical_part 938 947	structure
+T45	Value 951 957	0.90 A
+T46	Chemical 970 975	atoms
+T47	Chemical 990 1003	C alpha atoms
+T48	Protein 1007 1022	penicillopepsin
+T49	Value 1029 1035	1.63 A
+T50	Chemical 1048 1053	atoms
+T51	Chemical 1074 1096	N-terminal amino acids
+T52	Protein_part 1104 1114	prosegment
+T53	Protein_part 1116 1121	Leu1p
+T54	Protein_part 1125 1131	Leu44p
+T55	Protein_part 1162 1169	residue
+T56	Protein_part 1196 1204	residues
+T57	Protein_part 1212 1222	prosegment
+T58	Unknown 1251 1260	structure
+T59	Protein_part 1282 1293	beta-strand
+T60	Protein_part 1335 1348	alpha-helices
+T61	Protein_part 1361 1372	3(10)-helix
+T62	Process 1383 1391	contacts
+T63	Process 1428 1440	interactions
+T64	Protein_part 1456 1464	residues
+T65	Protein_part 1472 1490	pepsin active site
+T66	Protein_part 1496 1518	N-terminal beta-strand
+T67	Protein_part 1520 1525	Leu1p
+T68	Protein_part 1529 1534	Leu6p
+T69	Geometrical_part 1542 1546	part
+T70	Protein_part 1567 1577	beta-sheet
+T71	Protein_part 1592 1600	aspartic
+T72	Protein 1601 1612	proteinases
+T73	Protein 1621 1628	zymogen
+T74	Protein_part 1642 1650	residues
+T75	Protein 1654 1660	pepsin
+T76	Protein_part 1662 1666	Ile1
+T77	Protein_part 1670 1675	Glu13
+T78	Process 1696 1705	different
+T79	State 1706 1718	conformation
+T80	Protein 1743 1749	enzyme
+T81	Chemical 1755 1767	C alpha atom
+T82	Protein_part 1771 1775	Ile1
+T83	Value 1786 1804	approximately 44 A
+T84	Protein 1848 1855	zymogen
+T85	Protein 1891 1897	pepsin
+T86	Process 1913 1925	interactions
+T87	Chemical 1929 1936	Lys36pN
+T88	Chemical 1941 1949	hydrogen
+T89	Process 1958 1970	interactions
+T90	Unknown 1974 1982	Tyr37pOH
+T91	Protein_part 1988 1994	Tyr90H
+T92	Chemical 2018 2027	aspartate
+T93	Molecular_Part 2028 2034	groups
+T94	Protein_part 2036 2041	Asp32
+T95	Protein_part 2046 2052	Asp215
+T96	Category 2062 2071	substrate
+T97	Protein_part 2086 2097	active site
+T98	Protein 2105 2112	zymogen
+T99	Process 2138 2148	comparison
+T100	Organism 2156 2165	mammalian
+T101	Protein 2166 2176	pepsinogen
+T102	Organism 2191 2197	fungal
+T103	Protein_part 2198 2206	aspartic
+T104	Protein 2207 2217	proteinase
+T105	Geometrical_part 2218 2222	fold
+T106	Protein 2226 2241	penicillopepsin
+T107	Process 2256 2277	molecular replacement
+T108	Chemical 2278 2286	solution
+T109	Process 2311 2320	alignment
+T110	Protein_part 2332 2341	sequences

@@ -1,0 +1,144 @@
+T1	Chemical 2 7	metal
+T2	Chemical 17 24	hydride
+T3	Process 25 30	shift
+T4	Process 31 40	mechanism
+T5	Protein 45 61	xylose isomerase
+T6	Value 75 80	1.6 A
+T7	Organism 82 106	Streptomyces rubiginosus
+T8	Geometrical_part 107 117	structures
+T9	Chemical 123 130	xylitol
+T10	Chemical 135 143	D-xylose
+T11	Geometrical_part 149 166	crystal structure
+T12	Organism 182 206	Streptomyces rubiginosus
+T13	Protein 207 225	D-xylose isomerase
+T14	Protein 228 251	D-xylose keto-isomerase
+T15	Protein 253 263	EC 5.3.1.5
+T16	Process 300 311	replacement
+T17	Technique 312 321	technique
+T18	Parameter 342 343	R
+T19	Value 346 350	0.16
+T20	Value 354 360	1.64 A
+T21	Parameter 361 371	resolution
+T22	Value 408 413	4.0 A
+T23	Technique 414 429	(Carrell et al.
+T24	Technique 431 432	J
+T25	Protein 469 485	xylose isomerase
+T26	Protein 491 499	tetramer
+T27	Protein 527 535	subunits
+T28	Protein 541 548	monomer
+T29	Geometrical_part 579 587	parallel
+T30	Protein_part 588 599	beta-barrel
+T31	Protein_part 620 627	helices
+T32	Protein_part 645 660	C-terminal tail
+T33	Process 685 693	contacts
+T34	Protein 713 720	monomer
+T35	Protein_part 726 737	active site
+T36	Geometrical_part 738 744	pocket
+T37	Process 763 770	opening
+T38	Geometrical_part 778 784	barrel
+T39	Location 791 799	entrance
+T40	Protein_part 814 834	hydrophobic residues
+T41	Location 845 851	bottom
+T42	Geometrical_part 859 865	pocket
+T43	Chemical 885 894	glutamate
+T44	Chemical 896 905	aspartate
+T45	Protein_part 911 929	histidine residues
+T46	Chemical 949 963	manganese ions
+T47	Geometrical_part 969 979	structures
+T48	Protein 987 993	enzyme
+T49	Process 1001 1009	presence
+T50	Chemical 1013 1018	MnCl2
+T51	Category 1024 1033	inhibitor
+T52	Chemical 1034 1041	xylitol
+T53	Category 1051 1060	substrate
+T54	Chemical 1061 1069	D-xylose
+T55	Process 1077 1085	presence
+T56	Process 1090 1097	absence
+T57	Chemical 1101 1106	MnCl2
+T58	Parameter 1133 1134	R
+T59	Value 1137 1141	0.14
+T60	Value 1146 1152	1.60 A
+T61	Parameter 1154 1155	R
+T62	Value 1158 1162	0.15
+T63	Value 1166 1172	1.71 A
+T64	Parameter 1174 1175	R
+T65	Value 1178 1182	0.15
+T66	Value 1186 1192	1.60 A
+T67	Parameter 1198 1199	R
+T68	Value 1202 1206	0.14
+T69	Value 1210 1216	1.60 A
+T70	Geometrical_part 1241 1245	ring
+T71	Chemical 1246 1252	oxygen
+T72	Chemical 1260 1281	cyclic alpha-D-xylose
+T73	Chemical 1290 1301	C1 hydroxyl
+T74	Chemical 1313 1329	hydrogen bonding
+T75	Parameter 1330 1338	distance
+T76	Chemical 1342 1345	NE2
+T77	Protein_part 1349 1355	His-54
+T78	Unknown 1363 1372	structure
+T79	Process 1393 1401	presence
+T80	Chemical 1405 1413	D-xylose
+T81	Category 1424 1433	inhibitor
+T82	Chemical 1435 1442	xylitol
+T83	Geometrical_part 1452 1465	extended form
+T84	Category 1473 1482	substrate
+T85	Chemical 1484 1492	D-xylose
+T86	Protein_part 1513 1515	C2
+T87	Protein_part 1520 1525	C4 OH
+T88	Molecular_Part 1526 1532	groups
+T89	Chemical 1563 1579	divalent cations
+T90	Protein_part 1593 1604	active site
+T91	Protein_part 1613 1618	C1 OH
+T92	Chemical 1634 1640	cation
+T93	Protein_part 1663 1665	OH
+T94	Molecular_Part 1666 1672	groups
+T95	Chemical 1673 1686	hydrogen bond
+T96	Protein_part 1704 1714	amino acid
+T97	Protein_part 1715 1726	side chains
+T98	Process 1739 1748	mechanism
+T99	Protein 1753 1771	D-xylose isomerase
+T100	Process 1790 1797	binding
+T101	Chemical 1801 1822	cyclic alpha-D-xylose
+T102	Protein 1826 1842	xylose isomerase
+T103	Protein_part 1844 1850	His-54
+T104	Geometrical_part 1883 1887	ring
+T105	Process 1888 1895	opening
+T106	Process 1896 1904	reaction
+T107	Geometrical_part 1910 1914	ring
+T108	Process 1915 1922	opening
+T109	Process 1943 1950	binding
+T110	Chemical 1954 1962	D-xylose
+T111	Chemical 1978 1994	divalent cations
+T112	State 2002 2023	extended conformation
+T113	Process 2029 2042	isomerization
+T114	Chemical 2046 2054	D-xylose
+T115	Chemical 2058 2068	D-xylulose
+T116	Chemical 2080 2085	metal
+T117	Chemical 2095 2106	1,2-hydride
+T118	Process 2107 2112	shift
+T119	Process 2136 2145	mechanism
+T120	Geometrical_part 2151 2155	ring
+T121	Process 2156 2163	closure
+T122	Chemical 2175 2191	alpha-D-xylulose
+T123	Geometrical_part 2197 2201	ring
+T124	Geometrical_part 2232 2236	ring
+T125	Process 2238 2245	opening
+T126	Process 2257 2266	mechanism
+T127	Protein 2296 2314	xylose isomerase's
+T128	Parameter 2327 2337	properties
+T129	Process 2357 2361	lack
+T130	Chemical 2365 2372	solvent
+T131	Process 2373 2381	exchange
+T132	Location 2394 2404	2-position
+T133	Chemical 2408 2416	D-xylose
+T134	Location 2425 2441	1-pro-R position
+T135	Chemical 2445 2455	D-xylulose
+T136	Chemical 2465 2473	chemical
+T137	Process 2474 2486	modification
+T138	Protein_part 2490 2499	histidine
+T139	Protein_part 2504 2510	lysine
+T140	Parameter 2520 2522	pH
+T141	Parameter 2527 2535	activity
+T142	Process 2557 2568	requirement
+T143	Chemical 2577 2593	divalent cations
+T144	Process 2601 2610	mechanism

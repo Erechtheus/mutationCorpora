@@ -1,0 +1,58 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 40	quinone reductase 2
+T3	Category 44 51	complex
+T4	Physiology 57 63	cancer
+T5	Chemical 72 78	CB1954
+T6	Chemical 80 86	CB1954
+T7	Physiology 92 98	cancer
+T8	Chemical 99 107	pro-drug
+T9	Process 138 147	reduction
+T10	Organism 151 167	Escherichia coli
+T11	Protein 168 184	nitro-reductases
+T12	Protein 189 207	quinone reductases
+T13	Organism 209 214	Human
+T14	Protein 215 234	quinone reductase 2
+T15	Process 260 270	activation
+T16	Chemical 274 280	CB1954
+T17	Value 282 300	approximately 3000
+T18	Parameter 301 306	times
+T19	Organism 327 332	human
+T20	Protein 333 336	QR1
+T21	Parameter 349 360	k(cat)/K(m)
+T22	Geometrical_part 381 408	three-dimensional structure
+T23	Protein 412 415	QR2
+T24	Category 419 426	complex
+T25	Chemical 432 438	CB1954
+T26	Parameter 452 462	resolution
+T27	Value 466 470	1.5A
+T28	Geometrical_part 484 493	structure
+T29	Chemical 532 537	nitro
+T30	Molecular_Part 538 544	groups
+T31	Chemical 550 555	nitro
+T32	Molecular_Part 556 561	group
+T33	Chemical 568 582	hydrogen bonds
+T34	Protein_part 592 602	side-chain
+T35	Protein_part 606 612	Asn161
+T36	Protein 616 619	QR2
+T37	Chemical 638 643	nitro
+T38	Molecular_Part 644 649	group
+T39	Process 670 679	reduction
+T40	Protein_part 707 718	residue 161
+T41	Protein_part 723 726	Asn
+T42	Protein 730 733	QR2
+T43	Protein_part 740 743	His
+T44	Protein 747 750	QR1
+T45	Category 788 797	substrate
+T46	Protein 825 832	enzymes
+T47	Process 834 842	Mutation
+T48	Protein_part 846 852	Asn161
+T49	Protein_part 856 862	His161
+T50	Protein 866 869	QR2
+T51	Process 892 896	loss
+T52	Protein 904 913	enzymatic
+T53	Parameter 914 922	activity
+T54	Process 931 941	activation
+T55	Chemical 945 951	CB1954
+T56	Parameter 965 970	rates
+T57	Process 974 983	reduction
+T58	Chemical 992 1001	menadione

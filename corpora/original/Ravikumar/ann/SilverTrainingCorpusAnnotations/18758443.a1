@@ -1,0 +1,53 @@
+T1	Process 11 16	basis
+T2	Process 30 38	cleavage
+T3	Protein 42 76	Lys 63-linked polyubiquitin chains
+T4	Protein 95 102	enzymes
+T5	Unknown 104 108	DUBs
+T6	Protein 117 126	ubiquitin
+T7	Category 143 153	substrates
+T8	Body_part 174 192	cellular processes
+T9	Chemical 198 204	Zn(2+)
+T10	Unknown 215 224	DUBs AMSH
+T11	Protein 229 236	AMSH-LP
+T12	Protein 246 254	receptor
+T13	Process 255 266	trafficking
+T14	Protein 292 326	Lys 63-linked polyubiquitin chains
+T15	Protein 345 354	receptors
+T16	Geometrical_part 375 393	crystal structures
+T17	Organism 401 406	human
+T18	Protein_part 407 425	AMSH-LP DUB domain
+T19	Category 439 446	complex
+T20	Protein 454 480	Lys 63-linked di-ubiquitin
+T21	Value 484 489	1.2 A
+T22	Value 494 499	1.6 A
+T23	Process 500 511	resolutions
+T24	Protein_part 531 550	AMSH-LP  DUB domain
+T25	Chemical 565 571	Zn(2+)
+T26	Process 623 633	insertions
+T27	Process 635 640	Ins-1
+T28	Process 645 650	Ins-2
+T29	Location 656 662	distal
+T30	Protein 663 672	ubiquitin
+T31	Process 688 693	Ins-1
+T32	Location 720 728	proximal
+T33	Protein 729 738	ubiquitin
+T34	Process 754 759	Ins-2
+T35	Process 787 792	Ins-1
+T36	Geometrical_part 810 816	groove
+T37	Protein_part 839 845	Lys 63
+T38	Protein_part 846 856	side chain
+T39	Location 864 872	proximal
+T40	Protein 873 882	ubiquitin
+T41	Protein_part 891 901	isopeptide
+T42	Protein_part 909 930	carboxy-terminal tail
+T43	Location 938 944	distal
+T44	Protein 945 954	ubiquitin
+T45	Unknown 983 992	structure
+T46	Unknown 998 1001	DUB
+T47	Category 1005 1012	complex
+T48	Protein_part 1021 1031	isopeptide
+T49	Protein 1039 1054	ubiquitin chain
+T50	Process 1074 1083	mechanism
+T51	Protein_part 1088 1102	Lys 63-linkage
+T52	Process 1112 1128	deubiquitination
+T53	Unknown 1132 1151	AMSH family members

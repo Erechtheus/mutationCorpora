@@ -1,0 +1,55 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 48 83	phosphotyrosine protein phosphatase
+T3	Protein_part 85 101	Protein tyrosine
+T4	Process 102 117	phosphorylation
+T5	Process 122 139	dephosphorylation
+T6	Process 152 161	reactions
+T7	Process 167 174	control
+T8	Body_part 178 186	cellular
+T9	Process 187 195	division
+T10	Process 197 212	differentiation
+T11	Process 217 228	development
+T12	Geometrical_part 251 268	crystal structure
+T13	Protein 295 339	phosphotyrosine protein phosphatase (PTPase)
+T14	Location 343 352	cytosolic
+T15	Protein 353 364	phosphatase
+T16	Organism 381 390	mammalian
+T17	Body_part 391 396	cells
+T18	Protein 402 408	enzyme
+T19	Process 423 440	dephosphorylation
+T20	Chemical 444 459	phosphotyrosine
+T21	Category 471 481	substrates
+T22	Process 487 501	overexpression
+T23	Protein 509 516	protein
+T24	Body_part 543 548	cells
+T25	Body_part 558 562	cell
+T26	Process 563 576	proliferation
+T27	Unknown 582 591	structure
+T28	Protein 620 626	PTPase
+T29	Protein 638 656	alpha/beta protein
+T30	Chemical 670 679	phosphate
+T31	Geometrical_part 688 692	loop
+T32	Protein_part 693 698	motif
+T33	Chemical 706 715	amino end
+T34	Protein 719 732	helix alpha 1
+T35	Protein_part 739 744	motif
+T36	Protein_part 768 788	active-site residues
+T37	Protein_part 789 792	Cys
+T38	Protein_part 800 806	Arg 18
+T39	Food 811 816	bears
+T40	Process 826 838	similarities
+T41	Protein_part 846 863	active-site motif
+T42	Unknown 890 899	structure
+T43	Organism 903 908	human
+T44	Unknown 909 914	PTP1B
+T45	Unknown 920 929	structure
+T46	Protein 958 964	PTPase
+T47	Process 976 984	reaction
+T48	Process 985 994	mechanism
+T49	Protein_part 1019 1025	Cys 12
+T50	Chemical 1042 1053	nucleophile
+T51	Process 1080 1089	mechanism
+T52	Unknown 1095 1104	structure
+T53	Process 1131 1135	role
+T54	Protein_part 1140 1147	Asp 129
+T55	Process 1155 1163	reaction

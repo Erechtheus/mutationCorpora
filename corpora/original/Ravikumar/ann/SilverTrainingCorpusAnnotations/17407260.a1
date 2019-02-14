@@ -1,0 +1,87 @@
+T1	Process 8 16	function
+T2	Protein 25 57	N-terminal nucleophile hydrolase
+T3	Geometrical_part 58 62	fold
+T4	Unknown 83 92	structure
+T5	Organism 99 107	archaeal
+T6	Protein 108 144	inosine monophosphate cyclohydrolase
+T7	Protein 146 191	Inosine 5'-monophosphate (IMP) cyclohydrolase
+T8	Process 206 217	cyclization
+T9	Chemical 221 279	5-formaminoimidazole-4-carboxamide ribonucleotide (FAICAR)
+T10	Chemical 283 286	IMP
+T11	Chemical 316 322	purine
+T12	Process 323 335	biosynthesis
+T13	Protein 361 367	enzyme
+T14	Protein 398 402	PurH
+T15	Organism 406 414	Bacteria
+T16	Unknown 419 426	Eukarya
+T17	Protein 431 435	PurO
+T18	Organism 439 446	Archaea
+T19	Geometrical_part 452 461	structure
+T20	Protein 469 481	MTH1020 gene
+T21	Category 482 489	product
+T22	Organism 495 534	Methanothermobacter thermoautotrophicus
+T23	Process 576 586	annotation
+T24	Protein_part 602 621	amino acid sequence
+T25	Parameter 622 632	similarity
+T26	Protein 642 647	PurOs
+T27	Geometrical_part 667 684	crystal structure
+T28	Protein 692 704	MTH1020 gene
+T29	Category 705 712	product
+T30	Category 716 723	complex
+T31	Chemical 736 739	IMP
+T32	Chemical 743 796	5-aminoimidazole-4-carboxamide ribonucleotide (AICAR)
+T33	Value 800 803	2.0
+T34	Value 808 813	2.6 A
+T35	Parameter 814 824	resolution
+T36	Process 847 852	basis
+T37	Technique 860 877	sequence analysis
+T38	Category 879 885	ligand
+T39	Unknown 892 902	structures
+T40	Protein 926 933	MTH1020
+T41	Organism 953 961	archaeal
+T42	Protein 962 980	IMP cyclohydrolase
+T43	Unknown 1001 1008	MthPurO
+T44	Unknown 1010 1017	MthPurO
+T45	Protein 1037 1057	alphabeta  betaalpha
+T46	Unknown 1063 1072	structure
+T47	Protein 1085 1123	N-terminal nucleophile (NTN) hydrolase
+T48	Geometrical_part 1124 1128	fold
+T49	Protein_part 1134 1145	active site
+T50	Geometrical_part 1169 1175	pocket
+T51	Protein_part 1188 1207	central beta-sheets
+T52	Protein_part 1221 1229	residues
+T53	Protein 1256 1261	PurOs
+T54	Process 1263 1274	Comparisons
+T55	Protein 1295 1313	IMP cyclohydrolase
+T56	Protein 1315 1319	PurO
+T57	Protein 1324 1328	PurH
+T58	Value 1354 1356	no
+T59	Parameter 1357 1369	similarities
+T60	Protein_part 1374 1382	sequence
+T61	Unknown 1384 1393	structure
+T62	Protein_part 1402 1413	active site
+T63	Geometrical_part 1414 1426	architecture
+T64	Molecule 1499 1505	MjR31K
+T65	Molecule 1506 1512	mutant
+T66	Protein 1516 1520	PurO
+T67	Organism 1526 1555	Methanocaldococcus jannaschii
+T68	Value 1563 1566	76%
+T69	Parameter 1577 1585	activity
+T70	Unknown 1594 1601	MjE102Q
+T71	Process 1602 1610	mutation
+T72	Protein 1632 1641	enzymatic
+T73	Parameter 1642 1650	activity
+T74	Protein_part 1691 1699	residues
+T75	Process 1714 1719	roles
+T76	Process 1723 1732	catalysis
+T77	Protein 1749 1780	green fluorescent protein (GFP)
+T78	Protein 1825 1829	PurO
+T79	Protein 1833 1837	PurH
+T80	Protein 1877 1891	cyclohydrolase
+T81	Process 1892 1900	reaction
+T82	Molecule 1915 1926	chromophore
+T83	Process 1927 1937	maturation
+T84	Protein_part 1948 1953	Arg96
+T85	Protein_part 1958 1964	Glu222
+T86	Process 1970 1979	mechanism
+T87	Protein 2001 2005	PurO

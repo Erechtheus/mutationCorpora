@@ -1,0 +1,96 @@
+T1	Geometrical_part 4 31	three-dimensional structure
+T2	Protein 35 72	Bacillus amyloliquefaciens subtilisin
+T3	Value 76 81	1.8 A
+T4	Technique 89 97	analysis
+T5	Process 116 128	consequences
+T6	Chemical 132 140	peroxide
+T7	Process 141 153	inactivation
+T8	Geometrical_part 159 186	three-dimensional structure
+T9	Protein 194 204	subtilisin
+T10	Chemical 210 242	Bacillus amyloliquefaciens (BAS)
+T11	Value 263 268	1.8 A
+T12	Protein_part 279 298	amino acid sequence
+T13	Molecule 316 319	DNA
+T14	Protein_part 320 335	coding sequence
+T15	Unknown 341 350	structure
+T16	Geometrical_part 402 412	structures
+T17	Protein 416 431	subtilisin BPN'
+T18	Unknown 441 460	C.S., Alden, R.A., 
+T19	Unknown 464 473	Kraut, J.
+T20	Unknown 482 488	Nature
+T21	Unknown 507 511	Novo
+T22	Unknown 521 558	J., Hol, W. G. J., Jansonius, J. N., 
+T23	Unknown 562 573	Koekoek, R.
+T24	Unknown 581 597	Eur. J. Biochem.
+T25	Process 625 634	different
+T26	Unknown 636 643	crystal
+T27	Value 654 657	2.5
+T28	Value 662 667	2.8 A
+T29	Parameter 668 678	resolution
+T30	Process 706 717	differences
+T31	Technique 731 747	crystallographic
+T32	Protein_part 767 774	regions
+T33	Protein_part 785 804	amino acid sequence
+T34	Molecule 828 836	electron
+T35	Parameter 837 844	density
+T36	Protein 853 857	BPN'
+T37	Protein 862 866	Novo
+T38	Protein 884 888	gene
+T39	Protein_part 889 897	sequence
+T40	Chemical 901 904	BAS
+T41	Unknown 913 964	J. A., Ferrari, E., Henner, D. J., Estell,  D. A., 
+T42	Unknown 968 979	Chen, E. Y.
+T43	Chemical 987 1000	Nucleic Acids
+T44	Unknown 1001 1005	Res.
+T45	Chemical 1034 1037	BAS
+T46	Chemical 1067 1073	cation
+T47	Process 1074 1081	binding
+T48	Chemical 1083 1099	hydrogen bonding
+T49	Location 1105 1113	internal
+T50	Chemical 1114 1131	solvent structure
+T51	Chemical 1145 1148	BAS
+T52	Process 1171 1176	basis
+T53	Technique 1185 1193	analysis
+T54	Protein 1212 1219	factors
+T55	Chemical 1236 1244	peroxide
+T56	Process 1245 1257	inactivation
+T57	Protein 1265 1271	enzyme
+T58	Protein_part 1273 1287	Methionine 222
+T59	Location 1298 1306	adjacent
+T60	Protein_part 1324 1330	Ser221
+T61	Chemical 1366 1375	sulfoxide
+T62	Chemical 1379 1396	hydrogen peroxide
+T63	Organism 1442 1464	Bacillus licheniformis
+T64	Protein 1465 1471	enzyme
+T65	Unknown 1483 1490	C. E., 
+T66	Unknown 1494 1503	Etson, D.
+T67	Unknown 1512 1526	J. Biol. Chem.
+T68	Protein_part 1564 1568	site
+T69	Process 1572 1584	modification
+T70	Process 1613 1622	oxidation
+T71	Chemical 1652 1663	methionines
+T72	Process 1669 1678	oxidation
+T73	Chemical 1686 1697	methionines
+T74	Chemical 1733 1740	solvent
+T75	Molecule 1775 1780	x-ray
+T76	Unknown 1781 1790	structure
+T77	Protein 1847 1860	stereoisomers
+T78	Chemical 1864 1884	methionine sulfoxide
+T79	Chemical 1912 1929	hydrogen peroxide
+T80	Process 1938 1950	modification
+T81	Chemical 1958 1966	hydroxyl
+T82	Molecular_Part 1967 1973	groups
+T83	Protein_part 1981 1990	tyrosines
+T84	Process 2036 2042	effect
+T85	Process 2046 2055	oxidation
+T86	Protein 2063 2071	enzyme's
+T87	Parameter 2082 2092	efficiency
+T88	Process 2126 2138	interactions
+T89	Chemical 2146 2154	oxyanion
+T90	Process 2155 2162	binding
+T91	Protein_part 2163 2167	site
+T92	Chemical 2180 2189	sulfoxide
+T93	Molecular_Part 2190 2195	group
+T94	Chemical 2211 2226	carbonyl oxygen
+T95	Chemical 2243 2255	peptide bond
+T96	Category 2269 2278	substrate

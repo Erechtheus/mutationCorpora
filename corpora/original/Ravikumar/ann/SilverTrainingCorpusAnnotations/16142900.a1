@@ -1,0 +1,113 @@
+T1	Parameter 0 7	Kinetic
+T2	Technique 9 22	spectroscopic
+T3	Technique 28 50	X-ray crystallographic
+T4	Process 51 67	characterization
+T5	Protein 86 106	E151H aminopeptidase
+T6	Organism 112 134	Aeromonas proteolytica
+T7	Chemical 136 148	Glutamate151
+T8	Chemical 150 154	E151
+T9	Protein 209 255	aminopeptidase from Vibrio proteolyticus (AAP)
+T10	Protein_part 257 261	E151
+T11	Protein 282 291	acid/base
+T12	Process 303 322	catalytic mechanism
+T13	Protein_part 326 333	peptide
+T14	Process 334 344	hydrolysis
+T15	Protein_part 357 374	glutamate residue
+T16	Protein_part 391 398	residue
+T17	Protein 435 444	acid/base
+T18	Process 452 461	catalysis
+T19	Location 466 475	dinuclear
+T20	Protein 476 493	metallohydrolases
+T21	Technique 502 518	crystallographic
+T22	Process 519 535	characterization
+T23	Protein 543 559	D-aminopeptidase
+T24	Organism 565 582	Bacillus subtilis
+T25	Protein 585 589	DppA
+T26	Protein_part 602 619	histidine residue
+T27	Protein_part 661 665	E151
+T28	Protein 669 672	AAP
+T29	Protein_part 686 697	active-site
+T30	Category 698 705	ligands
+T31	Protein 710 714	DppA
+T32	Protein 719 722	AAP
+T33	Protein 738 741	AAP
+T34	Protein 767 773	enzyme
+T35	Process 804 808	role
+T36	Protein_part 812 816	H115
+T37	Protein 820 824	DppA
+T38	Process 826 838	Substitution
+T39	Protein_part 842 846	E151
+T40	Protein_part 852 861	histidine
+T41	Protein 884 894	AAP enzyme
+T42	Parameter 908 918	kcat value
+T43	Value 922 933	2.0 min(-1)
+T44	Value 949 959	2000 times
+T45	Protein 974 977	AAP
+T46	Value 979 991	4380 min(-1)
+T47	Chemical 994 997	ITC
+T48	Process 998 1009	experiments
+T49	Chemical 1024 1028	ZnII
+T50	Value 1035 1038	330
+T51	Value 1043 1050	3 times
+T52	Protein 1066 1075	E151H-AAP
+T53	Protein 1088 1093	r-AAP
+T54	Technique 1095 1101	UV-vis
+T55	Unknown 1106 1109	EPR
+T56	Parameter 1110 1117	spectra
+T57	Chemical 1121 1125	CoII
+T58	Protein 1133 1142	E151H-AAP
+T59	Chemical 1168 1177	metal ion
+T60	Chemical 1191 1221	hexacoordinate/pentacoordinate
+T61	Process 1222 1233	equilibrium
+T62	Unknown 1234 1245	environment
+T63	Chemical 1266 1275	metal ion
+T64	Parameter 1295 1297	pH
+T65	Parameter 1316 1339	kinetic parameters kcat
+T66	Parameter 1344 1348	K(m)
+T67	Process 1357 1367	hydrolysis
+T68	Chemical 1371 1403	L-leucine p-nitroanilide (L-pNA)
+T69	Process 1415 1421	change
+T70	Process 1428 1438	ionization
+T71	Parameter 1439 1447	constant
+T72	Category 1472 1479	complex
+T73	Value 1485 1488	5.3
+T74	Protein 1492 1497	r-AAP
+T75	Value 1501 1504	6.4
+T76	Protein 1508 1517	E151H-AAP
+T77	Protein_part 1535 1539	E151
+T78	Protein 1543 1546	AAP
+T79	Protein_part 1557 1568	active-site
+T80	Protein 1577 1586	acid/base
+T81	Molecule 1588 1594	Proton
+T82	Technique 1595 1604	inventory
+T83	Parameter 1616 1618	pH
+T84	Value 1619 1623	8.50
+T85	Process 1637 1645	transfer
+T86	Molecule 1653 1659	proton
+T87	Process 1694 1702	reaction
+T88	Technique 1718 1741	X-ray crystal structure
+T89	Protein 1746 1761	ZnZn(E151H-AAP)
+T90	Value 1782 1787	1.9 A
+T91	Parameter 1788 1798	resolution
+T92	Process 1804 1814	alteration
+T93	Protein_part 1818 1822	E151
+T94	Protein_part 1826 1835	histidine
+T95	State 1865 1879	conformational
+T96	Process 1880 1887	changes
+T97	Protein 1903 1910	protein
+T98	Geometrical_part 1911 1920	structure
+T99	Location 1928 1937	dinuclear
+T100	Protein_part 1938 1954	ZnII active site
+T101	Protein_part 1969 1986	histidine residue
+T102	Protein 2015 2024	acid/base
+T103	Process 2028 2038	hydrolysis
+T104	Process 2039 2048	reactions
+T105	Protein_part 2052 2060	peptides
+T106	Process 2089 2093	role
+T107	Protein_part 2097 2101	E151
+T108	Protein 2105 2108	AAP
+T109	Protein_part 2110 2114	H115
+T110	Protein 2118 2122	DppA
+T111	Molecule 2141 2147	proton
+T112	Molecular_Part 2155 2168	leaving group
+T113	Category 2176 2185	substrate

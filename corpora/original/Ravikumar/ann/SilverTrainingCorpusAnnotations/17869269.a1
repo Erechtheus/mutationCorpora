@@ -1,0 +1,56 @@
+T1	Molecule 0 5	X-ray
+T2	Unknown 6 15	structure
+T3	Unknown 21 43	NF-kappaB p50/RelB/DNA
+T4	Category 44 51	complex
+T5	Process 60 68	assembly
+T6	Protein 82 88	dimers
+T7	Protein_part 99 111	kappaB sites
+T8	Technique 134 157	X-ray crystal structure
+T9	Protein 161 191	NF-kappaB p50/RelB heterodimer
+T10	Molecule 203 213	kappaB DNA
+T11	Protein 244 251	subunit
+T12	Process 252 263	association
+T13	Molecule 268 278	kappaB DNA
+T14	Process 279 290	recognition
+T15	Protein 312 325	NF-kappaB/DNA
+T16	Category 326 335	complexes
+T17	Category 342 349	complex
+T18	Unknown 396 404	non-RelB
+T19	Category 405 414	complexes
+T20	Protein_part 429 435	Lys274
+T21	Protein 439 443	RelB
+T22	Protein 464 475	protein-DNA
+T23	Protein_part 512 520	residues
+T24	Protein 534 542	subunits
+T25	Process 562 570	contacts
+T26	Process 585 592	binding
+T27	Protein 607 611	RelB
+T28	Process 626 637	recognition
+T29	Protein_part 654 670	kappaB sequences
+T30	Geometrical_part 686 694	surfaces
+T31	Protein 698 702	RelB
+T32	Protein 707 710	p50
+T33	Unknown 731 738	crystal
+T34	Process 739 747	contacts
+T35	Process 774 782	assembly
+T36	Protein 795 816	p50/RelB heterodimers
+T37	Protein_part 827 839	kappaB sites
+T38	Chemical 843 851	solution
+T39	Process 893 900	binding
+T40	Process 901 912	experiments
+T41	Process 928 936	assembly
+T42	Protein 944 975	wild-type p50/RelB heterodimers
+T43	Organism 986 989	HIV
+T44	Molecule 990 1000	kappaB DNA
+T45	Value 1006 1010	2 bp
+T46	Parameter 1011 1018	spacing
+T47	Protein 1032 1050	mutant heterodimer
+T48	Protein 1068 1072	RelB
+T49	Process 1073 1080	packing
+T50	Geometrical_part 1081 1088	surface
+T51	Protein 1126 1142	NF-kappaB dimers
+T52	Protein_part 1163 1179	kappaB promoters
+T53	Process 1195 1207	interactions
+T54	Protein 1225 1240	protein-protein
+T55	Process 1241 1252	interaction
+T56	Geometrical_part 1253 1261	surfaces

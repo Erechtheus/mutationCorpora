@@ -1,0 +1,50 @@
+T1	Unknown 0 10	Structures
+T2	Body_part 14 18	lung
+T3	Physiology 19 25	cancer
+T4	Molecule 34 38	EGFR
+T5	Molecule 39 46	mutants
+T6	Category 51 60	inhibitor
+T7	Category 61 70	complexes
+T8	Process 72 81	mechanism
+T9	Process 85 95	activation
+T10	Category 127 136	inhibitor
+T11	Parameter 137 148	sensitivity
+T12	Process 150 159	Mutations
+T13	Protein 167 178	EGFR kinase
+T14	Process 185 190	cause
+T15	Body_part 194 213	non-small-cell lung
+T16	Physiology 214 220	cancer
+T17	Process 242 251	mechanism
+T18	Process 255 265	activation
+T19	Process 270 277	effects
+T20	Chemical 281 285	drug
+T21	Process 286 293	binding
+T22	Parameter 311 319	kinetics
+T23	Protein_part 327 332	L858R
+T24	Protein_part 337 350	G719S mutants
+T25	Geometrical_part 372 390	crystal structures
+T26	Category 396 406	inhibitors
+T27	Chemical 417 426	gefitinib
+T28	Chemical 428 434	AEE788
+T29	Chemical 442 455	staurosporine
+T30	Process 474 483	mutations
+T31	Protein 497 503	kinase
+T32	Process 533 545	interactions
+T33	Process 572 581	catalysis
+T34	Value 593 600	50-fold
+T35	Geometrical_part 611 621	Structures
+T36	Category 625 635	inhibitors
+T37	Category 639 646	complex
+T38	Protein 671 685	mutant kinases
+T39	Process 701 708	binding
+T40	Chemical 719 728	gefitinib
+T41	Unknown 733 739	AEE788
+T42	Process 754 762	rotation
+T43	Chemical 770 783	staurosporine
+T44	Protein_part 791 803	G719S mutant
+T45	Process 824 831	binding
+T46	Process 832 844	measurements
+T47	Chemical 855 864	gefitinib
+T48	Value 871 878	20-fold
+T49	Protein_part 899 911	L858R mutant
+T50	Protein 924 940	wild-type enzyme

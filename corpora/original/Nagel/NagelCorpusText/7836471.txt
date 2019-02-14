@@ -1,0 +1,10 @@
+Exposure of preadipocytes to long chain fatty acids induces expression of several gene markers of adipocyte differentiation . 
+This report describes the cloning, from a preadipocyte library, of a cDNA encoding a fatty acid-activated receptor, FAAR . 
+The cDNA had the characteristics and ligand-binding domains of nuclear hormone receptors and encoded a 440 amino acid protein related to peroxisome proliferator-activated receptors, PPAR . 
+The deduced protein sequence was 88% homologous to that of hNUC I, isolated from human osteosarcoma cells . 
+FAAR mRNA was abundant in adipose tissue, intestine, brain, heart, and skeletal muscles and less abundant in kidney, liver, testis, and spleen . 
+The mRNA was undetectable in growing Ob1771 and 3T3-F442A preadipocytes, was strongly induced early during differentiation, and was increased by fatty acid . 
+Transcription assays using hybrid receptor showed strong stimulation by fatty acid and weaker induction by fibrates . 
+Transfection of 3T3-C2 fibroblasts, with a FAAR expression vector, conferred fatty acid inducibility of the adipocyte lipid-binding protein and the fatty acid transporter . 
+Transcriptional induction of these genes exhibited inducer specificity identical to that described in preadipocytes . 
+In summary, the data indicate that FAAR is likely a mediator of fatty acid transcriptional effects in preadipocytes . 

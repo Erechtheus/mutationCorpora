@@ -1,0 +1,42 @@
+T1	Value 0 5	2.2 A
+T2	Unknown 6 15	structure
+T3	Protein 19 33	oxy-peroxidase
+T4	Protein 63 69	enzyme
+T5	Chemical 71 79	peroxide
+T6	Category 80 87	complex
+T7	Chemical 93 101	Fe+3-OOH
+T8	Category 102 109	complex
+T9	Protein 113 124	peroxidases
+T10	Geometrical_part 157 170	its structure
+T11	Chemical 221 228	Fe+2-O2
+T12	Category 229 236	complex
+T13	Molecule 281 293	intermediate
+T14	Molecule 321 329	electron
+T15	Molecule 338 344	proton
+T16	Chemical 364 372	Fe+3-OOH
+T17	Category 373 380	complex
+T18	Geometrical_part 410 427	crystal structure
+T19	Chemical 435 442	Fe+2-O2
+T20	Category 443 450	complex
+T21	Organism 463 468	yeast
+T22	Protein 469 481	cytochrome c
+T23	Protein 482 499	peroxidase mutant
+T24	Protein_part 505 512	Trp 191
+T25	Protein_part 525 528	Phe
+T26	Unknown 542 551	structure
+T27	Chemical 564 572	dioxygen
+T28	Chemical 584 597	hydrogen bond
+T29	Location 617 623	distal
+T30	Protein_part 624 635	His residue
+T31	Location 665 671	distal
+T32	Protein_part 672 683	Arg residue
+T33	Chemical 704 712	Fe+3-OOH
+T34	Category 713 720	complex
+T35	Process 746 757	orientation
+T36	Protein_part 763 774	active site
+T37	Protein 778 788	peroxidase
+T38	Protein_part 817 827	catalysing
+T39	Molecule 828 834	proton
+T40	Process 835 843	transfer
+T41	Chemical 864 876	oxygen atoms
+T42	Chemical 885 897	peroxy-anion

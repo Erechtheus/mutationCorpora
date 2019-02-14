@@ -1,0 +1,53 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 22	human
+T3	Protein_part 23 46	Tim44 C-terminal domain
+T4	Category 50 57	complex
+T5	Chemical 63 83	pentaethylene glycol
+T6	Category 85 91	ligand
+T7	Body_part 113 130	oncocytic thyroid
+T8	Physiology 131 140	carcinoma
+T9	Process 162 179	missense mutation
+T10	Process 181 186	P308Q
+T11	Protein_part 195 212	C-terminal domain
+T12	Protein 216 221	Tim44
+T13	Protein 223 228	Tim44
+T14	Body_part 236 264	mitochondrial inner-membrane
+T15	Protein 265 284	translocase subunit
+T16	Body_part 307 315	membrane
+T17	Geometrical_part 316 322	anchor
+T18	Protein 332 377	mitochondrial heat-shock protein 70 (mtHsp70)
+T19	Geometrical_part 389 406	crystal structure
+T20	Organism 414 419	human
+T21	Protein_part 420 443	Tim44 C-terminal domain
+T22	Chemical 459 479	pentaethylene glycol
+T23	Value 503 508	1.9 A
+T24	Parameter 509 519	resolution
+T25	Unknown 533 542	structure
+T26	Body_part 565 572	nuclear
+T27	Protein 573 591	transport factor 2
+T28	Protein_part 597 603	domain
+T29	Geometrical_part 612 629	crystal structure
+T30	Chemical 631 661	pentaethylene glycol molecules
+T31	Body_part 694 702	membrane
+T32	Protein_part 711 716	sites
+T33	Body_part 728 746	hydrophobic cavity
+T34	Geometrical_part 755 776	highly conserved loop
+T35	Protein 789 795	alpha1
+T36	Protein_part 800 814	alpha2 helices
+T37	Protein_part 820 826	Pro308
+T38	Process 830 840	comparison
+T39	Organism 850 855	yeast
+T40	Protein 856 863	homolog
+T41	Chemical 878 883	lipid
+T42	Process 884 891	binding
+T43	State 900 914	conformational
+T44	Process 915 922	changes
+T45	Protein 934 947	alpha1-alpha2
+T46	Geometrical_part 948 952	loop
+T47	Protein_part 981 993	alpha1 helix
+T48	Protein_part 1010 1020	beta-sheet
+T49	Process 1028 1035	changes
+T50	Process 1055 1060	roles
+T51	Process 1068 1081	translocation
+T52	Protein_part 1085 1097	polypeptides
+T53	Body_part 1109 1137	mitochondrial inner membrane

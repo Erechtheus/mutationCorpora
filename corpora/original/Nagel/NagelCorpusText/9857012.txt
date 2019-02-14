@@ -1,0 +1,16 @@
+Glycogenin-2 is a recently described self-glucosylating protein potentially involved in the initiation of glycogen biosynthesis (Mu, J., Skurat, A . 
+V., and Roach, P . 
+J . 
+(1997) J . 
+Biol . 
+Chem . 
+272, 27589-27597) . 
+In human liver extracts, most of the glycogenin-2 was only detectable after treatment with alpha-amylase . 
+Similarly, purifed high Mr glycogen was only detected after release by alpha-amylase treatment . 
+Based on analysis by polymerase chain reaction, the predominant isoform in liver was glycogenin-2beta . 
+Glycogenin-2 was found in Ewing's sarcoma RD-ES cells where, however, it was not associated with high Mr carbohydrate . 
+Both human liver and human RD-ES cell extracts also contained glycogenin-1 . 
+Glycogenin-1 and glycogenin-2 interact with one another, based on in vitro interactions and co-immunoprecipitation from liver and cell extracts . 
+Mutation of Tyr-196 in glycogenin-2 to a Phe residue abolished the ability of glycogenin-2 to self-glucosylate but not to interact with glycogenin-1 . 
+Stable overexpression of glycogenin-2alpha in Rat-1 fibroblast cells resulted in a 5-fold increase in the level of glycogen present in the low speed pellet but little change in the low speed supernatant . 
+This result is important since it indicates that the level of glycogenin-2 can determine glycogen accumulation and hence has the potential to control glycogen synthesis . 

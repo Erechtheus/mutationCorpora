@@ -1,0 +1,50 @@
+T1	Process 0 9	Mechanism
+T2	Protein 13 31	poly(A) polymerase
+T3	Unknown 33 42	structure
+T4	Chemical 50 66	enzyme-MgATP-RNA
+T5	Category 67 82	ternary complex
+T6	Parameter 87 94	kinetic
+T7	Technique 95 103	analysis
+T8	Value 119 124	1.8 A
+T9	Unknown 125 134	structure
+T10	Organism 138 143	yeast
+T11	Protein 144 168	poly(A) polymerase (PAP)
+T12	Category 180 187	complex
+T13	Chemical 193 196	ATP
+T14	Protein_part 208 223	residue poly(A)
+T15	Process 227 235	mutation
+T16	Protein_part 266 283	aspartic acid 154
+T17	Protein_part 287 294	alanine
+T18	Protein 300 306	enzyme
+T19	Protein_part 333 339	domain
+T20	Process 340 348	movement
+T21	State 363 382	closed conformation
+T22	Process 398 410	interactions
+T23	Category 423 433	substrates
+T24	Protein 448 458	polymerase
+T25	Protein_part 459 466	domains
+T26	Category 473 483	substrates
+T27	Chemical 498 513	water molecules
+T28	Body_part 536 550	central cavity
+T29	Geometrical_part 573 577	ends
+T30	Protein 584 595	PAP mutants
+T31	Parameter 623 630	kinetic
+T32	Technique 631 639	analysis
+T33	Chemical 660 676	adenylyltransfer
+T34	Process 688 706	pyrophosphorolysis
+T35	Process 742 750	reaction
+T36	Chemical 761 764	CTP
+T37	Molecule 773 780	mutants
+T38	Process 833 840	binding
+T39	Chemical 849 856	poly(A)
+T40	Chemical 873 883	nucleotide
+T41	Chemical 885 890	MgATP
+T42	State 902 916	conformational
+T43	Process 917 923	change
+T44	Process 938 947	formation
+T45	Protein 968 974	enzyme
+T46	State 975 980	state
+T47	Protein_part 1056 1062	domain
+T48	Process 1063 1070	closure
+T49	Category 1072 1081	substrate
+T50	Protein 1132 1135	PAP

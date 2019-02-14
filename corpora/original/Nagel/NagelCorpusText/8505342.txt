@@ -1,0 +1,8 @@
+Rab geranylgeranyl transferase (Rab GG transferase) attaches 20-carbon geranylgeranyl groups to cysteine residues in Rab proteins that contain the COOH-terminal sequence Cys-X-Cys or Cys-Cys . 
+Rab GG transferase consists of two components that are separable in high salt solutions . 
+Component A is a 95-kDa protein, and Component B is a heterodimer consisting of a 60-kDa alpha subunit and a 38-kDa beta subunit . 
+In the current paper, we have cloned cDNAs for the alpha and beta subunits of Component B . 
+The cDNAs for the rat alpha and beta subunits predict proteins of 567 and 331 amino acids, respectively . 
+The mRNAs for both subunits are expressed in many tissues . 
+When transfected together in embryonic kidney 293 cells, the alpha and beta subunit cDNAs produced Rab GG transferase activity that was stimulated in vitro by the addition of purified Component A . 
+Comparisons of the amino acid sequences suggest that the proteins encoded by the Saccharomyces cerevisiae genes MAD2 and BET2 are the yeast counterparts of the mammalian Rab GG transferase alpha and beta subunits, respectively . 

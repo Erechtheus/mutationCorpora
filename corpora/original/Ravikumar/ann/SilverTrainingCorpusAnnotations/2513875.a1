@@ -1,0 +1,27 @@
+T1	Geometrical_part 17 34	crystal structure
+T2	Protein_part 41 52	active-site
+T3	Molecule 53 59	mutant
+T4	Protein 63 89	aspartate aminotransferase
+T5	Organism 95 111	Escherichia coli
+T6	Geometrical_part 117 144	three-dimensional structure
+T7	Molecule 150 156	mutant
+T8	Protein 164 190	aspartate aminotransferase
+T9	Organism 196 212	Escherichia coli
+T10	Protein_part 227 245	active-site lysine
+T11	Protein_part 270 277	alanine
+T12	Protein_part 279 284	K258A
+T13	Value 310 315	2.8-A
+T14	Parameter 316 326	resolution
+T15	Technique 330 347	X-ray diffraction
+T16	Protein 353 366	mutant enzyme
+T17	Chemical 376 398	pyridoxamine phosphate
+T18	Category 402 410	cofactor
+T19	Unknown 416 425	structure
+T20	Protein 453 493	mitochondrial aspartate aminotransferase
+T21	Process 513 524	differences
+T22	Process 541 548	absence
+T23	Protein_part 556 562	lysine
+T24	Protein_part 563 573	side chain
+T25	Chemical 605 617	pyridoxamine
+T26	Molecular_Part 618 623	group
+T27	Protein_part 631 645	tryptophan 140

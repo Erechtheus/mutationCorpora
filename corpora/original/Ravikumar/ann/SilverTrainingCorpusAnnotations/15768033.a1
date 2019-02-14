@@ -1,0 +1,53 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 29	archaeal
+T3	Unknown 30 55	toxin-antitoxin RelE-RelB
+T4	Category 56 63	complex
+T5	Process 69 81	implications
+T6	Molecule 86 91	toxin
+T7	Parameter 92 100	activity
+T8	Molecule 105 114	antitoxin
+T9	Process 115 122	effects
+T10	Organism 128 144	Escherichia coli
+T11	Protein 145 155	chromosome
+T12	Protein 164 179	toxin-antitoxin
+T13	Molecule 191 196	toxin
+T14	Protein 197 201	RelE
+T15	Protein 210 214	mRNA
+T16	Protein_part 233 239	A-site
+T17	Body_part 243 252	ribosomes
+T18	Molecule 266 275	antitoxin
+T19	Unknown 276 280	RelB
+T20	Process 294 300	effect
+T21	Protein 304 308	RelE
+T22	Organism 332 366	archaeon Pyrococcus horikoshii OT3
+T23	Organism 375 383	archaeal
+T24	Protein 384 398	homologs aRelE
+T25	Unknown 403 408	aRelB
+T26	Geometrical_part 429 446	crystal structure
+T27	Protein 450 455	aRelE
+T28	Category 459 466	complex
+T29	Unknown 472 477	aRelB
+T30	Parameter 494 504	resolution
+T31	Value 508 513	2.3 A
+T32	Protein 515 520	aRelE
+T33	Protein 535 545	alpha/beta
+T34	Geometrical_part 546 555	structure
+T35	Unknown 565 570	aRelB
+T36	Geometrical_part 588 604	hydrophobic core
+T37	Geometrical_part 648 655	surface
+T38	Protein 659 664	aRelE
+T39	Parameter 674 683	component
+T40	Protein 719 732	ribonucleases
+T41	Category 742 752	inhibitors
+T42	Technique 754 779	Site-directed mutagenesis
+T43	Protein_part 794 799	Arg85
+T44	Protein_part 808 825	C-terminal region
+T45	Parameter 866 874	activity
+T46	Protein 878 883	aRelE
+T47	Protein_part 893 898	Arg40
+T48	Protein_part 901 906	Leu48
+T49	Protein_part 908 913	Arg58
+T50	Protein_part 918 923	Arg65
+T51	Process 938 942	role
+T52	Molecule 950 957	toxin's
+T53	Parameter 958 966	activity

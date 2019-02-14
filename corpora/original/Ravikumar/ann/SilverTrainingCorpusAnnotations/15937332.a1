@@ -1,0 +1,87 @@
+T1	Parameter 30 40	properties
+T2	Protein 86 107	progesterone receptor
+T3	Category 108 115	agonist
+T4	Protein 128 154	Progesterone receptor (PR)
+T5	Category 155 163	agonists
+T6	Process 187 199	applications
+T7	Organism 203 210	women's
+T8	Physiology 211 217	health
+T9	Body_part 230 234	oral
+T10	Process 235 248	contraception
+T11	Molecule 269 276	hormone
+T12	Technique 277 284	therapy
+T13	Protein 301 303	PR
+T14	Category 304 312	agonists
+T15	Chemical 333 341	steroids
+T16	Process 360 372	interactions
+T17	Protein 384 401	steroid receptors
+T18	Chemical 403 410	steroid
+T19	Protein 424 431	enzymes
+T20	Chemical 442 449	steroid
+T21	Process 460 468	pathways
+T22	Chemical 476 481	drugs
+T23	Process 503 515	side effects
+T24	Organism 524 529	women
+T25	Protein 570 572	PR
+T26	Category 573 581	agonists
+T27	Parameter 596 617	biological properties
+T28	Protein 654 658	TNPR
+T29	Protein 661 665	TNPR
+T30	Protein 679 681	PR
+T31	Organism 695 702	species
+T32	Parameter 726 734	affinity
+T33	Chemical 760 770	progestins
+T34	Body_part 775 785	T47D cells
+T35	Protein 787 791	TNPR
+T36	Protein 800 820	alkaline phosphatase
+T37	Parameter 821 829	activity
+T38	Parameter 838 850	EC(50) value
+T39	Value 854 860	0.1 nm
+T40	Chemical 895 905	progestins
+T41	Chemical 915 948	medroxyprogesterone acetate (MPA)
+T42	Chemical 953 971	trimegestone (TMG)
+T43	Process 995 1003	efficacy
+T44	Value 1006 1023	approximately 60%
+T45	Organism 1031 1040	mammalian
+T46	Technique 1052 1057	assay
+T47	Protein 1069 1071	PR
+T48	Category 1072 1079	agonist
+T49	Process 1088 1099	interaction
+T50	Protein 1108 1124	steroid receptor
+T51	Protein 1144 1146	PR
+T52	Protein 1148 1152	TNPR
+T53	Parameter 1177 1189	EC(50) value
+T54	Value 1193 1200	0.02 nm
+T55	Process 1206 1214	efficacy
+T56	Chemical 1218 1221	MPA
+T57	Chemical 1226 1229	TMG
+T58	Organism 1251 1257	animal
+T59	Organism 1277 1280	rat
+T60	Process 1281 1290	ovulation
+T61	Process 1291 1301	inhibition
+T62	Technique 1302 1307	assay
+T63	Protein 1309 1313	TNPR
+T64	Process 1332 1340	efficacy
+T65	Chemical 1357 1371	progestational
+T66	Value 1381 1388	30-fold
+T67	Chemical 1409 1412	MPA
+T68	Chemical 1417 1420	TMG
+T69	Protein 1435 1439	TNPR
+T70	Process 1460 1472	interactions
+T71	Protein 1484 1501	steroid receptors
+T72	Protein 1506 1522	binding proteins
+T73	Process 1534 1540	effect
+T74	Protein 1545 1560	cytochrome P450
+T75	Physiology 1561 1570	metabolic
+T76	Process 1571 1579	pathways
+T77	Geometrical_part 1612 1629	crystal structure
+T78	Protein 1637 1639	PR
+T79	Category 1640 1646	ligand
+T80	Process 1647 1654	binding
+T81	Protein_part 1655 1661	domain
+T82	Protein 1667 1671	TNPR
+T83	Category 1729 1735	ligand
+T84	Parameter 1754 1770	binding affinity
+T85	Protein 1783 1787	TNPR
+T86	Protein 1831 1833	PR
+T87	Category 1834 1841	agonist

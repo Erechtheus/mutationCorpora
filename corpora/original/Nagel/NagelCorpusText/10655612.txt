@@ -1,0 +1,6 @@
+Aspartic proteinase A from yeast is specifically and potently inhibited by a small protein called IA3 from Saccharomyces cerevisiae . 
+Although this inhibitor consists of 68 residues, we show that the inhibitory activity resides within the N-terminal half of the molecule . 
+Structures solved at 2.2 and 1.8 A, respectively, for complexes of proteinase A with full-length IA3 and with a truncated form consisting only of residues 2-34, reveal an unprecedented mode of inhibitor-enzyme interactions . 
+Neither form of the free inhibitor has detectable intrinsic secondary structure in solution . 
+However, upon contact with the enzyme, residues 2-32 become ordered and adopt a near-perfect alpha-helical conformation . 
+Thus, the proteinase acts as a folding template, stabilizing the helical conformation in the inhibitor, which results in the potent and specific blockage of the proteolytic activity . 

@@ -1,0 +1,50 @@
+T1	Unknown 4 13	structure
+T2	Value 17 20	1.6
+T3	Unknown 21 30	Angstroms
+T4	Parameter 31 41	resolution
+T5	Protein 49 56	protein
+T6	Category 57 64	product
+T7	Protein 72 86	At4g34215 gene
+T8	Organism 92 112	Arabidopsis thaliana
+T9	Geometrical_part 118 135	crystal structure
+T10	Protein 143 160	At4g34215 protein
+T11	Organism 164 184	Arabidopsis thaliana
+T12	Process 203 224	molecular replacement
+T13	Parameter 243 251	R factor
+T14	Value 255 260	14.6%
+T15	Value 273 278	18.3%
+T16	Value 283 286	1.6
+T17	Unknown 287 296	Angstroms
+T18	Parameter 297 307	resolution
+T19	Geometrical_part 313 330	crystal structure
+T20	Protein 345 354	At4g34215
+T21	Protein 370 396	SGNH-hydrolase superfamily
+T22	Protein 400 407	enzymes
+T23	Protein_part 413 428	catalytic triad
+T24	Protein 436 442	enzyme
+T25	Protein_part 453 467	residues Ser31
+T26	Protein_part 469 475	His238
+T27	Protein_part 480 486	Asp235
+T28	Unknown 496 505	structure
+T29	Protein_part 520 534	serine residue
+T30	Chemical 584 613	phenylmethylsulfonyl fluoride
+T31	Unknown 619 628	structure
+T32	Process 667 676	variation
+T33	Protein_part 688 699	active site
+T34	Protein_part 715 725	asparagine
+T35	Unknown 737 740	III
+T36	Chemical 759 772	hydrogen bond
+T37	Chemical 780 788	oxyanion
+T38	Protein 801 835	SGNH-hydrolase superfamily enzymes
+T39	Protein 851 860	At4g34215
+T40	Protein_part 893 898	Gln30
+T41	Process 904 909	block
+T42	Unknown 910 911	I
+T43	Protein_part 918 925	residue
+T44	State 969 981	conformation
+T45	Protein_part 992 1000	residues
+T46	Protein_part 1012 1018	Gln159
+T47	Protein_part 1020 1026	Gly160
+T48	Protein_part 1031 1037	Glu161
+T49	Protein 1072 1102	carbohydrate esterase family 6
+T50	Protein 1103 1110	enzymes

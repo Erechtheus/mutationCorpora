@@ -1,0 +1,10 @@
+The alpha-hemolysin ( alpha HL) polypeptide is secreted by Staphylococcus aureus as a water-soluble monomer that assembles into lipid bilayers to form cylindrical heptameric pores 1-2 nm in effective internal diameter . 
+We have individually replaced each charged residue (79 of 293 amino acids) and four neutral residues in alpha HL with cysteine, which is not found in the wild-type protein . 
+The properties of these mutants have been examined before and after modification with the 450-Da dianionic sulfhydryl reagent 4-acetamido-4'-((iodoacetyl)amino)stilbene-2,2'-disulfonate (IASD) . 
+This modification was highly informative as 28 of 83 modified polypeptides showed substantially reduced pore forming activity on rabbit erythrocytes (rRBC) , while only five of the unmodified cysteine mutants were markedly affected . 
+Through detailed examination of the phenotypes of the mutant and modified hemolysins, we have pinpointed residues and regions in the alpha HL polypeptide chain that are important for binding to rRBC, oligomer formation and pore activity . 
+Residues in both the N-terminal (Arg-66 and Glu-70 ) and C-terminal (Arg-200, Asp-254, Asp-255, and Asp-276) thirds of the protein are implicated in binding to cells . 
+The His-35 replacement mutant modified with IASD was the only polypeptide in this study that failed to form SDS-resistant oligomers on rRBC . 
+Altered hemolysins that formed oligomers but failed to lyse rRBC represented the most common defect . 
+These alterations were clustered in the central glycine-rich loop, which has previously been implicated as a component of the lumen of the membrane-spanning channel, and in the regions flanking the loop . 
+Alterations in mutant and modified hemolysins with the same defect were also scattered between the N terminus and His-48, in keeping with previous suggestions that an N-terminal segment and the central loop cooperate in the final step of pore assembly . 

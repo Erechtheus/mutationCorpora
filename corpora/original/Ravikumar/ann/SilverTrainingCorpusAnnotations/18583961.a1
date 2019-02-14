@@ -1,0 +1,57 @@
+T1	Process 10 15	basis
+T2	Process 20 31	maintenance
+T3	Unknown 55 58	CCA
+T4	Process 66 74	reaction
+T5	Unknown 80 83	CCA
+T6	Protein 91 97	enzyme
+T7	Unknown 99 102	CCA
+T8	Protein 110 116	enzyme
+T9	Unknown 128 138	3'-end CCA
+T10	Protein 142 146	tRNA
+T11	Chemical 157 178	nucleic acid template
+T12	Process 185 194	mechanism
+T13	Process 203 214	maintenance
+T14	Unknown 238 241	CCA
+T15	Process 249 257	reaction
+T16	Geometrical_part 315 325	structures
+T17	Unknown 333 345	class  I CCA
+T18	Protein 353 359	enzyme
+T19	Protein_part 364 381	tRNA mini-helices
+T20	Unknown 392 398	)N(74)
+T21	Unknown 400 420	mini-D(73)N(74)C(75)
+T22	Unknown 426 446	mini-D(73)C(74)N(75)
+T23	Unknown 448 453	D(73)
+T24	Chemical 473 483	nucleotide
+T25	Unknown 488 489	N
+T26	Unknown 504 505	G
+T27	Unknown 510 511	U
+T28	Unknown 518 533	mini-D(73)N(74)
+T29	Category 534 543	complexes
+T30	Chemical 590 593	CTP
+T31	Protein 605 612	enzymes
+T32	Unknown 651 656	N(74)
+T33	Chemical 669 672	CMP
+T34	Process 673 686	incorporation
+T35	Unknown 752 772	mini-D(73)C(74)C(75)
+T36	Category 773 780	complex
+T37	Category 786 806	mini-D(73)N(74)C(75)
+T38	Category 811 831	mini-D(73)C(74)N(75)
+T39	Category 832 841	complexes
+T40	Unknown 878 898	mini-D(73)C(74)U(75)
+T41	Chemical 907 910	AMP
+T42	Unknown 934 954	mini-D(73)C(74)C(75)
+T43	Chemical 960 963	ATP
+T44	Protein 975 981	enzyme
+T45	Unknown 1018 1023	U(75)
+T46	Chemical 1036 1039	AMP
+T47	Process 1040 1053	incorporation
+T48	Protein_part 1087 1096	3'-region
+T49	Protein 1100 1103	RNA
+T50	Chemical 1128 1138	nucleotide
+T51	Process 1139 1148	additions
+T52	Category 1184 1191	complex
+T53	Chemical 1200 1203	AMP
+T54	Process 1204 1217	incorporation
+T55	Process 1269 1280	maintenance
+T56	Unknown 1307 1310	CCA
+T57	Process 1311 1320	synthesis

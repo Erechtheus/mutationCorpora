@@ -1,0 +1,59 @@
+T1	Process 0 6	Target
+T2	Unknown 7 16	structure
+T3	Molecule 42 51	molecules
+T4	Organism 63 68	human
+T5	Protein 69 72	p53
+T6	Unknown 77 81	CREB
+T7	Protein 82 97	binding protein
+T8	Process 98 109	association
+T9	Protein_part 111 117	Lysine
+T10	Process 118 129	acetylation
+T11	Organism 133 138	human
+T12	Protein 139 159	tumor suppressor p53
+T13	Process 163 171	response
+T14	Body_part 175 183	cellular
+T15	Physiology 184 190	stress
+T16	Process 219 227	function
+T17	Protein 233 253	transcription factor
+T18	Physiology 269 286	cell cycle arrest
+T19	Physiology 288 298	senescence
+T20	Physiology 303 312	apoptosis
+T21	Molecule 336 345	molecules
+T22	Protein 357 382	lysine 382-acetylated p53
+T23	Process 383 394	association
+T24	Chemical 404 415	bromodomain
+T25	Category 423 434	coactivator
+T26	Protein 435 438	CBP
+T27	Process 443 454	interaction
+T28	Protein 469 472	p53
+T29	Process 481 494	transcription
+T30	Physiology 502 512	cell cycle
+T31	Category 513 522	inhibitor
+T32	Protein 523 526	p21
+T33	Process 530 538	response
+T34	Physiology 542 552	DNA damage
+T35	Chemical 560 569	chemicals
+T36	Process 589 595	target
+T37	Unknown 596 605	structure
+T38	Technique 613 652	nuclear magnetic resonance spectroscopy
+T39	Process 653 662	screening
+T40	Chemical 676 684	chemical
+T41	Chemical 742 768	CBP bromodomain/p53-AcK382
+T42	Process 769 776	binding
+T43	Process 789 805	characterization
+T44	Chemical 823 832	chemicals
+T45	Unknown 841 848	CBP/p53
+T46	Process 849 860	association
+T47	Process 864 871	binding
+T48	Chemical 879 892	acetyl-lysine
+T49	Process 893 900	binding
+T50	Protein_part 901 905	site
+T51	Chemical 913 924	bromodomain
+T52	Body_part 926 930	Cell
+T53	Technique 948 954	assays
+T54	Chemical 981 990	chemicals
+T55	Protein 1004 1007	p53
+T56	State 1008 1017	stability
+T57	Process 1022 1030	function
+T58	Process 1034 1042	response
+T59	Physiology 1046 1056	DNA damage

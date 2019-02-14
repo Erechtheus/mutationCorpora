@@ -1,0 +1,72 @@
+T1	Process 11 18	insight
+T2	Organism 22 27	human
+T3	Protein 28 52	DEAD-box protein rck/p54
+T4	Category 62 71	substrate
+T5	Process 72 83	recognition
+T6	State 89 103	conformational
+T7	Process 104 111	changes
+T8	Organism 113 118	Human
+T9	Protein 119 126	rck/p54
+T10	Category 130 137	product
+T11	Protein 145 149	gene
+T12	Unknown 178 182	t(11
+T13	Unknown 189 192	q23
+T14	Unknown 193 196	q32
+T15	Process 210 223	translocation
+T16	Protein_part 227 232	11q23
+T17	Body_part 236 242	B-cell
+T18	Physiology 243 251	lymphoma
+T19	Unknown 258 264	member
+T20	Protein 272 300	DEAD-box RNA helicase family
+T21	Geometrical_part 312 329	crystal structure
+T22	Unknown 333 343	Nc-rck/p54
+T23	Protein_part 350 360	N-terminal
+T24	Protein_part 366 372	domain
+T25	Protein 376 383	rck/p54
+T26	Unknown 403 409	P-loop
+T27	Protein_part 413 420	motif I
+T28	State 430 449	closed conformation
+T29	Protein_part 472 478	Asn131
+T30	Protein_part 482 489	residue
+T31	Unknown 504 517	RCK subfamily
+T32	Chemical 535 538	ATP
+T33	Unknown 560 566	P-loop
+T34	Chemical 620 623	ATP
+T35	State 632 646	conformational
+T36	Process 647 653	change
+T37	Protein 657 664	rck/p54
+T38	Protein 696 703	rck/p54
+T39	Molecule 719 727	molecule
+T40	Chemical 731 739	solution
+T41	Protein_part 771 781	N-terminal
+T42	Protein_part 791 809	C-terminal domains
+T43	Chemical 814 817	ATP
+T44	Process 818 825	binding
+T45	Protein 860 863	RNA
+T46	Protein 882 890	helicase
+T47	Technique 892 897	assay
+T48	Molecule 904 912	electron
+T49	Technique 913 923	micrograph
+T50	Chemical 925 928	ATP
+T51	Protein 944 954	luciferase
+T52	Technique 955 960	assay
+T53	Protein 980 988	IRES RNA
+T54	Geometrical_part 996 1015	secondary structure
+T55	Unknown 1026 1040	IRES-dependant
+T56	Process 1041 1052	translation
+T57	Protein 1069 1076	rck/p54
+T58	Category 1109 1118	substrate
+T59	Protein 1123 1130	rck/p54
+T60	Process 1132 1147	Over-expression
+T61	Protein 1151 1158	rck/p54
+T62	Body_part 1162 1172	HeLa cells
+T63	Process 1180 1186	growth
+T64	Process 1187 1197	inhibition
+T65	Physiology 1202 1220	cell cycle  arrest
+T66	State 1224 1228	G2/M
+T67	Process 1234 1249	down-regulation
+T68	Process 1259 1269	expression
+T69	Protein 1310 1317	rck/p54
+T70	Unknown 1333 1337	IRES
+T71	Process 1348 1359	translation
+T72	Body_part 1381 1386	cells

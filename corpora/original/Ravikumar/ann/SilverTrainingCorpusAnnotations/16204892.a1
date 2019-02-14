@@ -1,0 +1,28 @@
+T1	Unknown 0 9	Structure
+T2	Protein 18 28	fumarase C
+T3	Organism 34 50	Escherichia coli
+T4	Geometrical_part 61 79	crystal structures
+T5	Protein 83 93	fumarase C
+T6	Organism 99 115	Escherichia coli
+T7	Chemical 140 153	dicarboxylate
+T8	Protein_part 162 167	sites
+T9	Protein_part 179 190	active site
+T10	Protein_part 199 205	B site
+T11	Protein 229 249	fumarase C structure
+T12	Protein_part 276 281	sites
+T13	Category 306 312	ligand
+T14	Unknown 336 343	crystal
+T15	Process 355 367	conservation
+T16	Chemical 375 392	active-site water
+T17	Process 406 417	orientation
+T18	Protein 444 473	fumarase C crystal structures
+T19	Process 495 500	shift
+T20	Protein_part 504 510	His129
+T21	Protein_part 536 542	B site
+T22	Technique 553 569	crystallographic
+T23	Chemical 602 607	water
+T24	Unknown 623 629	member
+T25	Protein_part 637 648	active site
+T26	Chemical 667 688	imidazole-imidazolium
+T27	Process 689 699	conversion
+T28	Protein_part 736 742	B site

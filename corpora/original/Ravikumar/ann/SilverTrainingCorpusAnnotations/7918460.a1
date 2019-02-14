@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Body_part 35 41	muscle
+T3	Chemical 42 52	fatty-acid
+T4	Protein 61 68	protein
+T5	Organism 101 122	Schistocerca gregaria
+T6	Geometrical_part 128 155	three-dimensional structure
+T7	Chemical 163 173	fatty-acid
+T8	Protein 182 189	protein
+T9	Body_part 215 221	muscle
+T10	Organism 243 264	Schistocerca gregaria
+T11	Technique 299 315	crystallographic
+T12	Parameter 316 323	R-value
+T13	Value 327 332	18.5%
+T14	Technique 350 355	X-ray
+T15	Value 375 380	2.2-A
+T16	Parameter 381 391	resolution
+T17	Unknown 393 401	Crystals
+T18	Process 418 431	investigation
+T19	Value 448 451	2.6
+T20	Value 455 460	2.8 M
+T21	Chemical 461 487	ammonium sulfate solutions
+T22	Parameter 501 503	pH
+T23	Value 504 507	7.5
+T24	Value 523 527	2-5%
+T25	Chemical 528 552	2-methyl-2,4-pentanediol
+T26	Geometrical_part 575 592	space group P2(1)
+T27	Geometrical_part 598 607	unit cell
+T28	Parameter 608 618	dimensions
+T29	Parameter 622 623	a
+T30	Value 626 632	61.6 A
+T31	Parameter 634 635	b
+T32	Value 638 644	44.8 A
+T33	Parameter 646 647	c
+T34	Value 650 656	63.9 A
+T35	Parameter 662 666	beta
+T36	Value 669 682	113.6 degrees
+T37	Molecule 691 700	molecules
+T38	Protein 726 733	protein
+T39	Geometrical_part 734 738	fold
+T40	Protein_part 755 762	strands
+T41	Geometrical_part 766 778	antiparallel
+T42	Protein 779 783	beta
+T43	Protein_part 792 797	sheet
+T44	Protein_part 825 836	beta-barrel
+T45	Protein_part 871 884	alpha-helices
+T46	Unknown 893 899	type I
+T47	Unknown 905 912	type II
+T48	Unknown 923 931	type II'
+T49	Molecule 947 956	molecules
+T50	Protein 990 995	dimer
+T51	Value 1009 1015	2-fold
+T52	Location 1027 1031	axis
+T53	Protein 1037 1052	subunit-subunit
+T54	Protein_part 1072 1082	amino acid
+T55	Protein_part 1083 1094	side chains
+T56	Parameter 1110 1114	area
+T57	Protein_part 1122 1144	helix-turn-helix motif
+T58	Protein_part 1166 1178	beta-strands
+T59	Unknown 1179 1180	E
+T60	Unknown 1185 1186	F
+T61	Parameter 1199 1203	area
+T62	Body_part 1241 1247	portal
+T63	Chemical 1262 1273	fatty acids
+T64	Process 1284 1291	binding
+T65	Body_part 1292 1298	cavity
+T66	Chemical 1313 1330	solvent molecules
+T67	Molecule 1378 1387	molecules
+T68	Chemical 1426 1432	waters
+T69	Process 1459 1464	roles
+T70	Process 1486 1496	comparison
+T71	Organism 1509 1515	insect
+T72	Organism 1520 1525	human
+T73	Body_part 1526 1532	muscle
+T74	Chemical 1533 1543	fatty-acid
+T75	Protein 1552 1560	proteins
+T76	Chemical 1578 1591	alpha-carbons
+T77	Parameter 1611 1637	root-mean-square deviation
+T78	Value 1641 1647	0.77 A
+T79	Chemical 1679 1684	atoms

@@ -1,0 +1,47 @@
+T1	Protein 40 56	glycine receptor
+T2	Protein 70 78	gephyrin
+T3	Chemical 80 87	Glycine
+T4	Chemical 112 128	neurotransmitter
+T5	Body_part 136 147	spinal cord
+T6	Body_part 152 162	brain stem
+T7	Protein 164 172	Gephyrin
+T8	Parameter 203 216	concentration
+T9	Protein 220 245	glycine receptors (GlyRs)
+T10	Body_part 253 274	postsynaptic membrane
+T11	Chemical 307 318	glycinergic
+T12	Process 320 339	signal transduction
+T13	Process 345 356	interaction
+T14	Protein 365 373	gephyrin
+T15	Protein 382 386	GlyR
+T16	Protein_part 400 408	E-domain
+T17	Protein 412 420	gephyrin
+T18	Location 427 438	cytoplasmic
+T19	Geometrical_part 439 443	loop
+T20	Body_part 460 482	transmembrane segments
+T21	Protein 505 522	GlyR beta subunit
+T22	Geometrical_part 541 559	crystal structures
+T23	Protein_part 567 584	gephyrin E-domain
+T24	Protein 606 610	GlyR
+T25	Geometrical_part 611 620	beta-loop
+T26	Value 624 627	2.4
+T27	Value 632 637	2.7 A
+T28	Process 638 649	resolutions
+T29	Protein 669 673	GlyR
+T30	Geometrical_part 674 683	beta-loop
+T31	Protein 739 755	E-domain monomer
+T32	Geometrical_part 761 767	pocket
+T33	Location 768 776	adjacent
+T34	Protein 784 789	dimer
+T35	Unknown 801 810	Structure
+T36	Process 818 829	mutagenesis
+T37	Process 851 858	binding
+T38	Process 872 886	colocalization
+T39	Technique 887 893	assays
+T40	Process 925 936	interaction
+T41	Protein_part 947 954	Phe 330
+T42	Protein 958 966	gephyrin
+T43	Protein_part 971 978	Phe 398
+T44	Protein_part 983 990	Ile 400
+T45	Protein 998 1002	GlyR
+T46	Geometrical_part 1003 1012	beta-loop
+T47	Process 1028 1035	binding

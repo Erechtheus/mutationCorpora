@@ -1,0 +1,80 @@
+T1	Process 2 9	binding
+T2	Protein_part 10 23	site tyrosine
+T3	Process 31 46	desensitization
+T4	Parameter 47 55	kinetics
+T5	Category 60 67	agonist
+T6	Protein 79 84	GluR2
+T7	Physiology 88 97	mutagenic
+T8	Parameter 99 106	kinetic
+T9	Technique 112 128	crystallographic
+T10	Process 136 143	Binding
+T11	Category 150 157	agonist
+T12	Protein 165 246	2-amino-3-(3-hydroxy-5-methyl-4-isoxazolyl)-propionic acid (AMPA) receptor family
+T13	Protein 254 281	glutamate receptors (GluRs)
+T14	Process 299 309	activation
+T15	Protein 316 327	ion channel
+T16	Process 340 351	application
+T17	Process 383 391	response
+T18	Category 396 404	agonists
+T19	Protein 411 418	kainate
+T20	Category 439 447	agonists
+T21	Category 472 479	agonist
+T22	Parameter 480 493	(S)-glutamate
+T23	Process 502 517	desensitization
+T24	Protein_part 558 566	tyrosine
+T25	Geometrical_part 578 583	wedge
+T26	Category 596 603	agonist
+T27	Protein_part 612 627	N-terminal part
+T28	Category 644 650	ligand
+T29	Protein_part 659 663	site
+T30	Process 677 681	role
+T31	Protein 689 697	receptor
+T32	Parameter 698 706	kinetics
+T33	Category 718 725	agonist
+T34	Parameter 738 749	selectivity
+T35	Protein 755 774	AMPA receptor GluR2
+T36	Process 781 790	mutations
+T37	Protein_part 794 801	Tyr-450
+T38	Organism 821 835	Xenopus laevis
+T39	Body_part 836 843	oocytes
+T40	Technique 881 894	voltage clamp
+T41	Protein 906 927	mutation GluR2(Y450A)
+T42	Protein 940 948	receptor
+T43	Protein 956 963	kainate
+T44	Process 985 996	application
+T45	Protein 1000 1007	kainate
+T46	Technique 1011 1030	outside-out patches
+T47	Parameter 1062 1070	currents
+T48	Protein_part 1077 1084	Tyr-450
+T49	Protein_part 1117 1127	tryptophan
+T50	Parameter 1133 1146	(S)-glutamate
+T51	Process 1147 1162	desensitization
+T52	Value 1184 1191	10-fold
+T53	Process 1192 1200	increase
+T54	Parameter 1222 1230	currents
+T55	Value 1232 1235	19%
+T56	Value 1250 1254	1.9%
+T57	Protein_part 1291 1301	tryptophan
+T58	Molecule 1302 1308	mutant
+T59	Protein 1333 1344	GluR2-S1S2J
+T60	Category 1345 1351	ligand
+T61	Process 1352 1359	binding
+T62	Protein_part 1365 1374	construct
+T63	Protein 1400 1407	kainate
+T64	Value 1417 1422	2.1-A
+T65	Molecule 1423 1428	x-ray
+T66	Unknown 1429 1438	structure
+T67	Category 1471 1477	ligand
+T68	Process 1478 1485	binding
+T69	Category 1522 1529	complex
+T70	Protein 1539 1546	genetic
+T71	Process 1547 1560	manipulations
+T72	Technique 1590 1619	electrophysiological analysis
+T73	Process 1636 1645	mutations
+T74	Location 1649 1661	position 450
+T75	Category 1696 1704	agonists
+T76	Category 1745 1752	agonist
+T77	Process 1753 1761	efficacy
+T78	Process 1770 1785	desensitization
+T79	Parameter 1786 1794	kinetics
+T80	Protein 1802 1821	AMPA receptor GluR2

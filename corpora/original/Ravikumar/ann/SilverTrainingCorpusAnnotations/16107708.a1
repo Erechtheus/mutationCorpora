@@ -1,0 +1,33 @@
+T1	Process 11 27	characterization
+T2	Unknown 35 59	histone variant macroH2A
+T3	Protein 61 69	macroH2A
+T4	Unknown 76 87	H2A variant
+T5	Process 121 133	organization
+T6	Protein_part 145 162	C-terminal domain
+T7	Protein_part 180 205	N-terminal histone domain
+T8	Molecular_Part 211 217	linker
+T9	Technique 219 235	Crystallographic
+T10	Process 270 277	changes
+T11	Geometrical_part 285 292	L1 loop
+T12	Protein 301 308	histone
+T13	Geometrical_part 309 313	fold
+T14	Protein_part 314 320	region
+T15	Protein 324 332	macroH2A
+T16	Unknown 344 353	structure
+T17	Process 374 382	function
+T18	Body_part 386 397	nucleosomes
+T19	Value 403 408	1.6-A
+T20	Technique 409 424	X-ray structure
+T21	Protein_part 443 449	region
+T22	Protein 461 471	alpha/beta
+T23	Molecular_Part 535 540	group
+T24	Protein 544 552	proteins
+T25	Protein_part 559 565	region
+T26	Protein 582 602	histone deacetylases
+T27	Process 619 630	acetylation
+T28	Body_part 641 652	nucleosomes
+T29	Protein 664 672	macroH2A
+T30	Protein_part 692 708	domain structure
+T31	Protein 712 720	macroH2A
+T32	Process 744 753	functions
+T33	Protein_part 831 847	chromatin domain

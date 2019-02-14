@@ -1,0 +1,72 @@
+T1	Process 0 12	Substitution
+T2	Protein_part 16 22	ASP193
+T3	Protein_part 26 29	ASN
+T4	Protein_part 37 48	active site
+T5	Protein 52 89	ribulose-1,5-bisphosphate carboxylase
+T6	State 101 115	conformational
+T7	Process 116 123	changes
+T8	Geometrical_part 129 146	crystal structure
+T9	Molecule 152 158	mutant
+T10	Protein 162 205	ribulose bisphosphate carboxylase/oxygenase
+T11	Unknown 212 227	Rhodospirillium
+T12	Protein_part 242 248	Asp193
+T13	Category 261 268	ligands
+T14	Chemical 276 289	magnesium ion
+T15	Category 297 306	activator
+T16	Protein_part 307 311	site
+T17	Protein_part 328 331	Asn
+T18	Parameter 366 376	resolution
+T19	Value 380 387	0.26 nm
+T20	Process 393 401	mutation
+T21	Protein_part 405 408	Asp
+T22	Protein_part 412 415	Asn
+T23	State 446 458	conformation
+T24	Process 459 466	changes
+T25	Protein_part 483 493	side chain
+T26	Protein_part 497 503	Asn193
+T27	Protein_part 524 535	active site
+T28	Chemical 555 572	main-chain oxygen
+T29	Protein_part 576 587	residue 165
+T30	Protein 617 630	strand beta 1
+T31	Geometrical_part 638 655	alpha/beta barrel
+T32	Protein_part 661 671	side chain
+T33	Protein_part 675 681	Lys166
+T34	Chemical 697 708	salt bridge
+T35	Protein_part 714 720	Asp193
+T36	Protein 728 744	wild-type enzyme
+T37	Protein_part 761 766	Asn54
+T38	Protein 783 790	subunit
+T39	Protein 809 824	subunit-subunit
+T40	Process 825 836	interaction
+T41	Protein 850 865	subunit-subunit
+T42	Process 866 877	interaction
+T43	Value 889 905	more than 1.2 nm
+T44	Protein_part 920 924	site
+T45	Process 932 940	mutation
+T46	Protein 949 962	mutant enzyme
+T47	Protein_part 968 978	side chain
+T48	Protein_part 982 988	Asp263
+T49	Protein_part 1008 1018	side chain
+T50	Protein_part 1022 1028	Thr106
+T51	Protein 1045 1052	subunit
+T52	Protein_part 1054 1060	Asp193
+T53	Geometrical_part 1068 1072	part
+T54	Protein 1078 1093	subunit-subunit
+T55	Parameter 1104 1108	area
+T56	Protein_part 1126 1141	regulatory site
+T57	Process 1157 1168	replacement
+T58	Protein_part 1177 1184	residue
+T59	Protein_part 1188 1191	Asn
+T60	Process 1220 1230	difference
+T61	Process 1239 1246	packing
+T62	Protein 1258 1266	subunits
+T63	Process 1303 1311	rotation
+T64	Protein 1326 1334	subunits
+T65	Process 1383 1390	changes
+T66	Protein_part 1398 1409	active site
+T67	Protein 1417 1423	enzyme
+T68	Process 1464 1473	differing
+T69	Physiology 1474 1483	behaviour
+T70	Protein_part 1491 1504	Asp193----Asn
+T71	Molecule 1505 1511	mutant
+T72	Process 1528 1538	activation

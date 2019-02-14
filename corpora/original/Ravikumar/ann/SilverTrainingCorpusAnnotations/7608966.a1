@@ -1,0 +1,57 @@
+T1	Technique 0 3	NMR
+T2	Unknown 4 13	structure
+T3	Protein_part 36 46	sub-domain
+T4	Organism 61 75	staphylococcal
+T5	Protein 76 84	nuclease
+T6	Geometrical_part 94 99	folds
+T7	Protein 115 123	proteins
+T8	Protein_part 140 149	sequences
+T9	Protein_part 155 162	OB-fold
+T10	Geometrical_part 171 175	part
+T11	Unknown 183 193	structures
+T12	Protein 227 235	proteins
+T13	Chemical 254 269	oligonucleotide
+T14	Chemical 273 288	oligosaccharide
+T15	Process 289 296	binding
+T16	Process 297 306	functions
+T17	Unknown 316 324	fragment
+T18	Protein_part 346 353	OB-fold
+T19	Protein_part 365 383	amino acid residue
+T20	Organism 384 398	staphylococcal
+T21	Protein 399 407	nuclease
+T22	Technique 414 417	NMR
+T23	Parameter 418 425	spectra
+T24	Protein 456 463	protein
+T25	Protein 475 493	wild-type nuclease
+T26	Protein_part 494 502	sequence
+T27	Geometrical_part 540 558	tertiary structure
+T28	Process 566 573	absence
+T29	Protein_part 581 591	C-terminal
+T30	Protein 610 631	single-domain protein
+T31	Unknown 656 664	fragment
+T32	Protein 668 676	nuclease
+T33	Process 686 695	mutations
+T34	Protein_part 696 704	Val66Leu
+T35	Protein_part 709 717	Gly88Val
+T36	Geometrical_part 734 752	tertiary structure
+T37	Technique 758 761	NMR
+T38	Geometrical_part 762 780	solution structure
+T39	Unknown 796 804	fragment
+T40	Process 816 825	variation
+T41	Protein_part 833 840	OB-fold
+T42	Technique 854 869	X-ray structure
+T43	Organism 877 883	parent
+T44	Protein 884 891	protein
+T45	Protein_part 897 905	Val66Leu
+T46	Protein_part 910 918	Gly88Val
+T47	Process 919 928	mutations
+T48	Geometrical_part 949 967	tertiary structure
+T49	Geometrical_part 989 1005	hydrophobic core
+T50	Protein 1013 1029	nuclease OB-fold
+T51	Protein_part 1030 1040	sub-domain
+T52	Protein_part 1106 1112	motifs
+T53	Protein_part 1125 1132	OB-fold
+T54	Process 1185 1192	folding
+T55	Process 1212 1221	evolution
+T56	Process 1276 1283	folding
+T57	Protein_part 1284 1291	domains

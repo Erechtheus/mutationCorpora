@@ -1,0 +1,41 @@
+T1	Molecule 0 5	X-ray
+T2	Geometrical_part 6 23	crystal structure
+T3	Chemical 31 37	ferric
+T4	Organism 38 49	sperm whale
+T5	Protein 50 59	myoglobin
+T6	Chemical 61 70	imidazole
+T7	Category 71 78	complex
+T8	Value 82 87	2.0 A
+T9	Parameter 88 98	resolution
+T10	Technique 104 127	X-ray crystal structure
+T11	Chemical 135 141	ferric
+T12	Organism 142 153	sperm whale
+T13	Organism 155 171	Physeter catodon
+T14	Chemical 173 192	myoglobin:imidazole
+T15	Category 193 200	complex
+T16	Value 221 226	2.0 A
+T17	Parameter 227 237	resolution
+T18	Parameter 250 258	R-factor
+T19	Value 262 267	14.8%
+T20	State 281 293	conformation
+T21	Protein 301 308	protein
+T22	Process 332 339	binding
+T23	Category 347 353	ligand
+T24	Chemical 355 364	Imidazole
+T25	Chemical 388 397	heme iron
+T26	Protein_part 405 416	distal site
+T27	Parameter 422 428	forces
+T28	Process 451 458	changes
+T29	Protein 478 485	protein
+T30	Protein_part 486 494	residues
+T31	Protein_part 496 505	His64(E7)
+T32	Location 524 530	distal
+T33	Geometrical_part 531 537	pocket
+T34	Chemical 579 586	solvent
+T35	Category 630 636	ligand
+T36	Chemical 640 656	hydrogen bonding
+T37	Protein_part 662 673	side-chains
+T38	Protein_part 677 696	residues Arg45(CD3)
+T39	Protein_part 701 710	Asp60(E3)
+T40	Chemical 732 741	imidazole
+T41	Process 742 753	association

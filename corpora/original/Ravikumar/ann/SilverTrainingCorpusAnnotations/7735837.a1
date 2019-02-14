@@ -1,0 +1,64 @@
+T1	Process 11 16	basis
+T2	Process 34 45	interaction
+T3	Protein_part 49 55	lysine
+T4	Protein_part 67 74	proline
+T5	Protein_part 80 88	peptides
+T6	Protein_part 98 119	N-terminal SH3 domain
+T7	Protein 123 128	c-Crk
+T8	Protein_part 142 149	Proline
+T9	Protein_part 155 163	segments
+T10	Chemical 171 189	guanine nucleotide
+T11	Protein 190 209	exchange factor C3G
+T12	Protein_part 241 252	N-terminal 
+T13	Protein 252 255	Src
+T14	Protein 289 303	proto-oncogene
+T15	Category 304 311	product
+T16	Protein 312 317	c-Crk
+T17	Protein_part 332 343	SH3 domains
+T18	Process 349 357	presence
+T19	Protein_part 363 369	lysine
+T20	Chemical 385 393	arginine
+T21	Protein_part 401 409	peptides
+T22	Protein_part 423 426	C3G
+T23	Protein 478 483	c-Crk
+T24	Chemical 521 529	chemical
+T25	Process 530 535	basis
+T26	Geometrical_part 579 596	crystal structure
+T27	Protein_part 600 609	Crk SH3-N
+T28	Category 613 620	complex
+T29	Parameter 633 641	affinity
+T30	Protein_part 642 649	peptide
+T31	Protein_part 655 658	C3G
+T32	Unknown 660 670	PPPALPPKKR
+T33	Parameter 672 674	Kd
+T34	Value 675 698	approximately 2  microM
+T35	Value 703 708	1.5 A
+T36	Parameter 709 719	resolution
+T37	Protein_part 725 732	peptide
+T38	Protein_part 742 753	polyproline
+T39	Protein_part 759 767	II helix
+T40	Process 839 850	orientation
+T41	Process 867 878	orientation
+T42	Geometrical_part 900 910	structures
+T43	Protein_part 914 925	SH3-peptide
+T44	Category 926 935	complexes
+T45	Protein_part 939 945	lysine
+T46	Protein_part 953 964	C3G peptide
+T47	Protein_part 997 1012	acidic residues
+T48	Protein_part 1020 1030	SH3 domain
+T49	Unknown 1049 1069	co-crystal structure
+T50	Protein_part 1073 1084	c-Crk SH3-N
+T51	Protein_part 1092 1099	peptide
+T52	Chemical 1114 1122	arginine
+T53	Value 1165 1170	1.9 A
+T54	Parameter 1171 1181	resolution
+T55	Geometrical_part 1203 1211	geometry
+T56	Chemical 1220 1228	arginine
+T57	Physiology 1243 1251	disorder
+T58	Protein_part 1270 1286	c-Crk SH3 domain
+T59	Protein_part 1309 1315	lysine
+T60	Process 1325 1336	interaction
+T61	Protein 1360 1367	protein
+T62	Geometrical_part 1368 1378	structures
+T63	Protein_part 1457 1469	C3G peptides
+T64	Parameter 1480 1488	affinity

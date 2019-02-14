@@ -1,0 +1,91 @@
+T1	Process 0 13	Contributions
+T2	Location 17 21	left
+T3	Geometrical_part 29 36	helical
+T4	Protein_part 37 45	residues
+T5	Unknown 53 62	structure
+T6	State 67 76	stability
+T7	Organism 80 96	bacteriophage T4
+T8	Protein 97 105	lysozyme
+T9	Protein_part 107 127	Non-glycine residues
+T10	Protein 131 139	proteins
+T11	State 190 203	conformations
+T12	Chemical 209 216	glycine
+T13	State 232 244	conformation
+T14	Process 273 286	contributions
+T15	Location 290 294	left
+T16	Geometrical_part 302 309	helical
+T17	Protein_part 310 318	residues
+T18	State 326 335	stability
+T19	Protein 341 348	protein
+T20	Protein_part 359 367	residues
+T21	Organism 371 379	phage T4
+T22	Protein 380 388	lysozyme
+T23	Protein_part 390 395	Asn55
+T24	Protein_part 400 406	Lys124
+T25	Chemical 428 435	glycine
+T26	Protein 441 456	mutant proteins
+T27	Location 506 510	left
+T28	Protein_part 518 538	non-glycine residues
+T29	Process 584 588	role
+T30	Process 596 603	folding
+T31	Protein 611 618	protein
+T32	Parameter 629 637	activity
+T33	State 657 666	stability
+T34	Protein_part 674 680	Lys124
+T35	Protein_part 684 695	Gly variant
+T36	Protein 734 752	wild-type lysozyme
+T37	Protein_part 758 763	Asn55
+T38	Protein 767 785	Gly mutant protein
+T39	Value 813 825	0.5 kcal/mol
+T40	State 860 874	conformational
+T41	Parameter 875 881	energy
+T42	Chemical 887 894	glycine
+T43	Protein_part 901 920	non-glycine residue
+T44	Location 928 932	left
+T45	State 940 960	helical conformation
+T46	Parameter 1020 1026	energy
+T47	Process 1027 1040	distributions
+T48	Process 1095 1107	replacements
+T49	State 1154 1163	stability
+T50	Protein 1171 1178	protein
+T51	Value 1182 1198	up to 5 kcal/mol
+T52	Technique 1200 1225	Crystallographic analysis
+T53	Protein 1233 1248	mutant proteins
+T54	State 1273 1285	conformation
+T55	Protein_part 1293 1299	Lys124
+T56	Protein_part 1303 1314	Gly variant
+T57	Protein 1357 1366	wild-type
+T58	Geometrical_part 1367 1376	structure
+T59	Protein_part 1397 1402	Asn55
+T60	Protein_part 1406 1409	Gly
+T61	Process 1410 1421	replacement
+T62	Protein 1437 1440	phi
+T63	Protein 1442 1445	psi
+T64	Parameter 1447 1453	values
+T65	Protein_part 1457 1467	residue 55
+T66	Process 1468 1474	change
+T67	Value 1478 1494	about 20 degrees
+T68	Parameter 1519 1525	energy
+T69	Location 1538 1542	left
+T70	Protein_part 1550 1566	glycine residues
+T71	Protein_part 1596 1616	non-glycine residues
+T72	Protein 1687 1694	protein
+T73	Protein 1695 1702	crystal
+T74	Geometrical_part 1703 1713	structures
+T75	Parameter 1739 1745	energy
+T76	Location 1759 1763	left
+T77	Protein_part 1771 1787	glycine residues
+T78	Parameter 1797 1800	phi
+T79	Value 1803 1813	90 degrees
+T80	Parameter 1815 1818	psi
+T81	Value 1821 1830	0 degrees
+T82	Protein_part 1850 1870	non-glycine residues
+T83	Parameter 1884 1887	phi
+T84	Value 1890 1900	60 degrees
+T85	Parameter 1902 1905	psi
+T86	Value 1908 1918	30 degrees
+T87	Parameter 1926 1941	apparent energy
+T88	Chemical 1954 1961	glycine
+T89	Protein 2014 2017	phi
+T90	Protein 2019 2022	psi
+T91	Parameter 2024 2030	energy

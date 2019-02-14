@@ -1,0 +1,93 @@
+T1	Process 11 16	basis
+T2	Process 38 46	splicing
+T3	Parameter 71 79	activity
+T4	Body_part 83 87	FGF8
+T5	Body_part 95 100	brain
+T6	Organism 118 123	human
+T7	Body_part 124 135	FGF8 splice
+T8	Molecule 136 144	isoforms
+T9	Molecule 146 151	FGF8a
+T10	Molecule 156 161	FGF8b
+T11	Body_part 184 197	mid-hindbrain
+T12	Geometrical_part 198 204	region
+T13	Process 212 223	development
+T14	Process 243 253	difference
+T15	Molecule 268 276	isoforms
+T16	Process 284 292	presence
+T17	Protein_part 313 324	amino acids
+T18	Protein_part 332 342	N terminus
+T19	Protein 347 352	FGF8b
+T20	Molecule 360 368	isoforms
+T21	Process 388 397	different
+T22	Body_part 423 431	midbrain
+T23	Body_part 436 454	anterior hindbrain
+T24	Process 481 486	basis
+T25	Process 508 516	splicing
+T26	Parameter 542 550	activity
+T27	Body_part 554 558	FGF8
+T28	Geometrical_part 574 591	crystal structure
+T29	Protein 595 600	FGF8b
+T30	Category 604 611	complex
+T31	Body_part 625 631	splice
+T32	Molecule 632 639	isoform
+T33	Protein 643 666	FGF receptor 2 (FGFR2c)
+T34	Technique 674 705	surface plasmon resonance (SPR)
+T35	Protein 733 741	receptor
+T36	Molecule 765 770	FGF8a
+T37	Molecule 775 780	FGF8b
+T38	Molecule 790 797	isoform
+T39	Unknown 801 815	FGF17 (FGF17b)
+T40	Body_part 821 826	FGF18
+T41	Protein 832 844	FGF8b-FGFR2c
+T42	Geometrical_part 845 854	structure
+T43	Process 878 886	splicing
+T44	Process 915 922	contact
+T45	Protein_part 931 947	phenylalanine 32
+T46	Protein_part 949 952	F32
+T47	Molecule 957 962	FGF8b
+T48	Geometrical_part 981 987	groove
+T49	Protein_part 995 1006	Ig domain 3
+T50	Protein 1014 1022	receptor
+T51	Unknown 1047 1053	FGFR1c
+T52	Unknown 1055 1061	FGFR3c
+T53	Unknown 1067 1072	FGFR4
+T54	Unknown 1094 1103	structure
+T55	Process 1105 1113	mutation
+T56	Protein_part 1117 1120	F32
+T57	Protein_part 1124 1131	alanine
+T58	Parameter 1144 1152	affinity
+T59	Molecule 1156 1161	FGF8b
+T60	Protein 1179 1188	receptors
+T61	Molecule 1217 1222	FGF8a
+T62	Technique 1242 1250	analysis
+T63	Body_part 1258 1271	mid-hindbrain
+T64	Molecule 1298 1309	FGF8b(F32A)
+T65	Molecule 1310 1316	mutant
+T66	Organism 1320 1325	chick
+T67	Body_part 1326 1333	embryos
+T68	Body_part 1338 1362	murine midbrain explants
+T69	Process 1379 1387	mutation
+T70	Molecule 1410 1415	FGF8b
+T71	Molecule 1419 1424	FGF8a
+T72	Protein 1462 1483	intermediate receptor
+T73	Parameter 1492 1502	affinities
+T74	Body_part 1506 1512	FGF17b
+T75	Body_part 1518 1523	FGF18
+T76	Molecule 1537 1542	FGF8a
+T77	Molecule 1547 1552	FGF8b
+T78	Category 1618 1625	ligands
+T79	Protein 1657 1670	FGF8 receptor
+T80	Unknown 1722 1726	FGFs
+T81	Unknown 1791 1803	FGF8b-FGFR1c
+T82	Process 1804 1815	interaction
+T83	Body_part 1823 1836	mid-hindbrain
+T84	Process 1837 1848	development
+T85	Process 1884 1888	role
+T86	Protein 1892 1896	FGF8
+T87	Body_part 1900 1909	embryonic
+T88	Process 1910 1921	development
+T89	Protein 1940 1944	FGF8
+T90	Protein 1953 1961	receptor
+T91	Process 1962 1969	binding
+T92	Organism 1994 2003	nematodes
+T93	Process 2038 2047	evolution

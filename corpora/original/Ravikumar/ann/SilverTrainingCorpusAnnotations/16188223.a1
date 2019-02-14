@@ -1,0 +1,55 @@
+T1	Protein 37 63	organophosphorus hydrolase
+T2	Protein_part 116 120	site
+T3	Protein 122 148	Organophosphorus hydrolase
+T4	Chemical 177 203	organophosphate pesticides
+T5	Chemical 212 248	chemical warfare agents (CWAs) sarin
+T6	Chemical 253 255	VX
+T7	Protein 278 285	genetic
+T8	Unknown 307 319	OPH variants
+T9	Value 325 332	30-fold
+T10	Process 333 345	enhancements
+T11	Process 353 363	hydrolysis
+T12	Chemical 368 371	CWA
+T13	Unknown 382 389	analogs
+T14	Unknown 407 414	variant
+T15	Unknown 416 421	H254R
+T16	Protein_part 436 445	histidine
+T17	Location 450 462	position 254
+T18	Chemical 481 489	arginine
+T19	Value 499 505	4-fold
+T20	Process 506 514	increase
+T21	Process 522 532	hydrolysis
+T22	Unknown 536 544	demetonS
+T23	Unknown 546 555	VX analog
+T24	Value 560 567	14-fold
+T25	Process 568 576	decrease
+T26	Chemical 582 590	paraoxon
+T27	Chemical 595 606	insecticide
+T28	Value 615 623	183-fold
+T29	Process 624 632	decrease
+T30	Chemical 638 641	DFP
+T31	Chemical 643 655	sarin analog
+T32	Geometrical_part 662 689	three-dimensional structure
+T33	Protein 698 704	enzyme
+T34	Value 708 712	1.9A
+T35	Parameter 713 723	resolution
+T36	Category 733 742	inhibitor
+T37	Chemical 744 777	diethyl 4-methylbenzylphosphonate
+T38	Protein 779 782	EBP
+T39	Category 803 812	inhibitor
+T40	Protein_part 833 844	active site
+T41	Geometrical_part 888 895	surface
+T42	Geometrical_part 896 902	pocket
+T43	Value 903 907	12 A
+T44	Protein_part 922 933	active site
+T45	Process 994 1004	inhibition
+T46	Chemical 1008 1016	paraoxon
+T47	Process 1017 1027	hydrolysis
+T48	Protein 1031 1034	EBP
+T49	Protein_part 1040 1045	H254R
+T50	Protein 1074 1080	enzyme
+T51	Process 1107 1117	inhibition
+T52	Geometrical_part 1125 1143	parallel structure
+T53	Protein_part 1203 1207	site
+T54	Geometrical_part 1216 1223	surface
+T55	Protein 1232 1238	enzyme

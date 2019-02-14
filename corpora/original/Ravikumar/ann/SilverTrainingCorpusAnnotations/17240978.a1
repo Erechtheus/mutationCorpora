@@ -1,0 +1,46 @@
+T1	Protein_part 0 10	Lysine 190
+T2	Protein 36 40	MenF
+T3	Chemical 46 57	menaquinone
+T4	Protein 67 90	isochorismate  synthase
+T5	Organism 96 112	Escherichia coli
+T6	Process 114 126	implications
+T7	Protein 134 147	enzyme family
+T8	Chemical 149 160	Menaquinone
+T9	Process 161 173	biosynthesis
+T10	Process 194 204	conversion
+T11	Chemical 208 218	chorismate
+T12	Chemical 222 235	isochorismate
+T13	Process 239 247	reaction
+T14	Chemical 273 284	menaquinone
+T15	Protein 294 316	isochorismate synthase
+T16	Protein 318 322	MenF
+T17	Process 328 347	catalytic mechanism
+T18	Protein 351 355	MenF
+T19	Value 445 450	2.5 A
+T20	Unknown 451 460	structure
+T21	Protein 468 474	enzyme
+T22	Protein_part 480 486	Lys190
+T23	Protein_part 514 518	base
+T24	Chemical 534 539	water
+T25	Chemical 571 591	chorismate C2 carbon
+T26	Protein 593 597	MenF
+T27	Unknown 603 609	member
+T28	Unknown 622 628	family
+T29	Chemical 632 636	Mg2+
+T30	Chemical 647 657	chorismate
+T31	Protein 658 673	binding enzymes
+T32	Chemical 694 704	chorismate
+T33	Process 705 720	transformations
+T34	Process 759 768	mechanism
+T35	Protein 796 809	enzyme family
+T36	Unknown 813 815	He
+T37	Unknown 824 826	He
+T38	Unknown 828 830	Z.
+T39	Unknown 832 847	Stigers  Lavoie
+T40	Unknown 849 850	K
+T41	Unknown 856 864	Bartlett
+T42	Unknown 866 867	P
+T43	Unknown 877 882	Toney
+T44	Unknown 884 885	M
+T45	Unknown 897 898	J
+T46	Chemical 900 902	Am

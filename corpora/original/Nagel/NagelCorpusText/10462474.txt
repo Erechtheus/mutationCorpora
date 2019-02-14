@@ -1,0 +1,8 @@
+The complete amino acid sequence of a factor V activator (VLFVA) is deduced from the nucleotide sequence of a cDNA encoding the enzyme . 
+The cDNA was isolated by PCR screening a venomous gland cDNA library of Central Asian Vipera lebetina snake . 
+The full-length cDNA clone, derived from two overlapping fragments, comprises 1563 basepairs which encode an open reading frame of 259 amino acids . 
+The amino acid sequence of VLFVA (235 amino acids) shows significant homology with snake venom and mammalian serine proteinases . 
+It contains 12 half-cysteines which form, by analogy with other serine proteinases, 6 disulfide bridges . 
+VLFVA has the catalytic triad His43-Asp88-Ser182 . 
+The amino terminal amino acid valine is preceded by 24 amino acids: a putative signal peptide of 18, mainly hydrophobic, amino acids and an activating peptide of 6, mainly hydrophilic amino acid residues . 
+This is the first cloned factor V activating enzyme from snake venom . 

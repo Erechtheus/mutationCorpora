@@ -1,0 +1,10 @@
+Rabphilin and Noc2 were originally described as Rab3A effector proteins involved in the regulation of secretory vesicle exocytosis, however, recently both proteins have been shown to bind Rab27A in vitro in preference to Rab3A (Fukuda, M . 
+(2003) J . 
+Biol . 
+Chem . 
+278, 15373-15380), suggesting that Rab3A is not their major ligand in vivo . 
+In the present study we showed by means of deletion and mutation analyses that rabphilin and Noc2 are recruited to dense-core vesicles through specific interaction with Rab27A, not with Rab3A, in PC12 cells . 
+Rab3A binding-defective mutants of rabphilin (E50A) and Noc2( E51A) were still localized in the distal portion of the neurites (where dense-core vesicles had accumulated) in nerve growth factor-differentiated PC12 cells, the same as the wild-type proteins, whereas Rab27A binding-defective mutants of rabphilin ( E50A/I54A) and Noc2( E51A/I55A) were present throughout the cytosol . 
+We further showed that expression of the wild-type or the E50A mutant of rabphilin-RBD, but not the E50A/I54A mutant of rabphilin-RBD, significantly inhibited high KCl-dependent neuropeptide Y secretion by PC12 cells . 
+We also found that rabphilin and its binding partner, Rab27 have been highly conserved during evolution (from nematoda to humans) and that Caenorhabditis elegans and Drosophila rabphilin (ce/dm-rabphilin) specifically interact with ce/dm-Rab27, but not with ce/dm-Rab3 or ce/dm-Rab8, suggesting that rabphilin functions as a Rab27 effector across phylogeny . 
+Based on these findings, we propose that the N-terminal Rab binding domain of rabphilin and Noc2 be referred to as &quot;RBD27 (Rab binding domain for Rab27)&quot;, the same as the synaptotagmin-like protein homology domain (SHD) of Slac2-a/melanophilin . 

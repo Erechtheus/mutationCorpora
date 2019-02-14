@@ -1,0 +1,63 @@
+T1	Process 15 23	function
+T2	Technique 24 32	analyses
+T3	Protein 58 70	protein SarA
+T4	Organism 76 97	Staphylococcus aureus
+T5	Protein_part 103 113	sarA locus
+T6	Organism 117 138	Staphylococcus aureus
+T7	Process 152 162	expression
+T8	Physiology 171 180	virulence
+T9	Protein 181 186	genes
+T10	Protein 192 196	sarA
+T11	Molecule 208 216	molecule
+T12	Molecule 218 222	SarA
+T13	Protein 229 245	14.7-kDa protein
+T14	Protein_part 251 259	residues
+T15	Protein_part 279 294	promoter region
+T16	Process 298 304	target
+T17	Protein 305 310	genes
+T18	Value 331 336	2.6 A
+T19	Molecule 348 353	x-ray
+T20	Geometrical_part 354 371	crystal structure
+T21	Protein 394 412	helix SarA protein
+T22	Protein 447 451	SarA
+T23	Geometrical_part 452 461	structure
+T24	Unknown 483 490	crystal
+T25	Process 491 498	packing
+T26	Protein 509 515	dimers
+T27	Molecule 519 523	SarA
+T28	Geometrical_part 531 539	scaffold
+T29	Chemical 554 570	divalent cations
+T30	Process 573 582	Mutations
+T31	Organism 586 596	individual
+T32	Protein_part 597 605	residues
+T33	Molecule 617 620	DNA
+T34	Protein_part 629 645	helix-turn-helix
+T35	Protein_part 662 668	region
+T36	Chemical 691 696	metal
+T37	Geometrical_part 705 711	pocket
+T38	Protein_part 722 740	basic residues R84
+T39	Protein_part 745 748	R90
+T40	Protein_part 767 773	region
+T41	Molecule 792 795	DNA
+T42	Process 796 803	binding
+T43	Protein_part 813 832	acidic residues D88
+T44	Body_part 837 840	E89
+T45	Body_part 842 846	wing
+T46	Body_part 849 851	D8
+T47	Body_part 856 859	E11
+T48	Chemical 861 866	metal
+T49	Geometrical_part 875 881	pocket
+T50	Protein_part 888 898	cysteine 9
+T51	Molecule 917 921	SarA
+T52	Process 922 930	function
+T53	Protein_part 967 973	region
+T54	Protein_part 988 993	helix
+T55	Protein 994 1001	protein
+T56	Molecule 1018 1021	DNA
+T57	Process 1022 1029	binding
+T58	Process 1034 1044	activation
+T59	Chemical 1058 1082	putative divalent cation
+T60	Process 1083 1090	binding
+T61	Geometrical_part 1091 1097	pocket
+T62	Protein 1118 1122	gene
+T63	Process 1123 1131	function

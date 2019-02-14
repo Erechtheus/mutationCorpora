@@ -1,0 +1,103 @@
+T1	Parameter 5 15	resolution
+T2	Geometrical_part 16 34	crystal structures
+T3	Organism 38 47	amphibian
+T4	Protein 48 67	red-cell L ferritin
+T5	Parameter 69 78	potential
+T6	Process 79 84	roles
+T7	Process 100 110	plasticity
+T8	Process 115 124	solvation
+T9	Process 128 136	function
+T10	Protein 138 146	Ferritin
+T11	Protein 169 189	multisubunit protein
+T12	Organism 193 200	animals
+T13	Organism 202 208	plants
+T14	Organism 213 221	microbes
+T15	Geometrical_part 249 257	symmetry
+T16	Chemical 273 291	hydrated iron ions
+T17	Molecule 296 303	protons
+T18	Protein 342 349	protein
+T19	Location 350 358	interior
+T20	Parameter 384 394	resolution
+T21	Unknown 395 405	structures
+T22	Organism 421 430	amphibian
+T23	Protein 431 450	red-cell L ferritin
+T24	Molecule 460 467	mutants
+T25	Protein_part 520 525	Glu56
+T26	Protein_part 560 563	Ala
+T27	State 581 586	phase
+T28	Parameter 594 602	kinetics
+T29	Chemical 606 610	iron
+T30	Process 611 617	uptake
+T31	Molecule 626 639	second mutant
+T32	Protein_part 641 646	His25
+T33	Protein_part 665 668	Tyr
+T34	Process 691 698	effects
+T35	Process 702 710	function
+T36	Molecule 714 722	molecule
+T37	Chemical 726 733	betaine
+T38	Process 747 759	purification
+T39	Unknown 777 787	structures
+T40	Geometrical_part 795 806	2-fold axis
+T41	Chemical 836 840	heme
+T42	Process 841 848	binding
+T43	Protein_part 849 853	site
+T44	Protein 858 874	bacterioferritin
+T45	Organism 879 884	horse
+T46	Protein 885 902	spleen L ferritin
+T47	Process 904 915	Comparisons
+T48	Organism 928 937	amphibian
+T49	Unknown 938 948	structures
+T50	Protein_part 962 969	regions
+T51	Molecule 977 985	molecule
+T52	State 995 1009	conformational
+T53	Process 1068 1080	interactions
+T54	Protein_part 1102 1113	side-chains
+T55	Location 1140 1145	inner
+T56	Geometrical_part 1146 1153	surface
+T57	Protein 1161 1168	protein
+T58	Chemical 1192 1200	solution
+T59	Protein_part 1223 1228	Glu--
+T60	Protein_part 1229 1232	Ala
+T61	Process 1233 1241	mutation
+T62	Protein_part 1261 1272	side-chains
+T63	Protein 1279 1284	chain
+T64	Chemical 1296 1313	solvent molecules
+T65	Location 1331 1339	vicinity
+T66	Protein_part 1343 1348	Glu56
+T67	Protein_part 1359 1364	Glu60
+T68	Value 1372 1378	3-fold
+T69	Protein 1379 1386	channel
+T70	Protein 1394 1411	wild type protein
+T71	Process 1440 1449	transport
+T72	Chemical 1460 1464	iron
+T73	Molecule 1468 1475	protons
+T74	Protein_part 1522 1527	Glu--
+T75	Protein_part 1528 1531	Ala
+T76	Molecule 1532 1538	mutant
+T77	Protein_part 1553 1557	H25Y
+T78	Process 1558 1566	mutation
+T79	Geometrical_part 1591 1599	backbone
+T80	Chemical 1600 1605	atoms
+T81	Protein_part 1618 1622	site
+T82	Process 1630 1638	mutation
+T83	Geometrical_part 1647 1658	4-fold axis
+T84	Protein_part 1663 1673	side-chain
+T85	Unknown 1699 1708	structure
+T86	Process 1722 1729	changes
+T87	Geometrical_part 1749 1757	backbone
+T88	Chemical 1758 1763	atoms
+T89	Geometrical_part 1775 1782	DE loop
+T90	Protein_part 1787 1794	E helix
+T91	Value 1796 1814	approximately 10 A
+T92	Process 1824 1832	mutation
+T93	Protein_part 1833 1837	site
+T94	Process 1883 1892	solvation
+T95	Process 1905 1915	plasticity
+T96	Process 1943 1950	changes
+T97	Process 1962 1966	role
+T98	Protein 1970 1978	ferritin
+T99	Process 1979 1987	function
+T100	Unknown 2008 2017	structure
+T101	Process 2022 2030	function
+T102	Protein 2034 2054	ion channel proteins
+T103	Protein 2063 2071	annexins

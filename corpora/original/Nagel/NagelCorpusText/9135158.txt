@@ -1,0 +1,10 @@
+The structure of the translational initiation factor IF1 from Escherichia coli has been determined with multidimensional NMR spectroscopy . 
+Using 1041 distance and 78 dihedral constraints, 40 distance geometry structures were calculated, which were refined by restrained molecular dynamics . 
+From this set, 19 structures were selected, having low constraint energy and few constraint violations . 
+The ensemble of 19 structures displays a root-mean-square deviation versus the average of 0.49 A for the backbone atoms and 1.12 A for all atoms for residues 6-36 and 46-67 . 
+The structure of IF1 is characterized by a five-stranded beta-barrel . 
+The loop connecting strands three and four contains a short 3(10) helix but this region shows considerably higher flexibility than the beta-barrel . 
+The fold of IF1 is very similar to that found in the bacterial cold shock proteins CspA and CspB, the N-terminal domain of aspartyl-tRNA synthetase and the staphylococcal nuclease, and can be identified as the oligomer-binding motif . 
+Several proteins of this family are nucleic acid-binding proteins . 
+This suggests that IF1 plays its role in the initiation of protein synthesis by nucleic acid interactions . 
+Specific changes of NMR signals of IF1 upon titration with 30S ribosomal subunit identifies several residues that are involved in the interaction with ribosomes . 

@@ -1,0 +1,63 @@
+T1	State 0 14	Conformational
+T2	Protein_part 27 33	His-64
+T3	Protein 41 62	Thr-200----Ser mutant
+T4	Organism 66 71	human
+T5	Protein 72 94	carbonic  anhydrase II
+T6	Geometrical_part 100 127	three-dimensional structure
+T7	Protein 135 164	Thr-200----Ser (T200S) mutant
+T8	Organism 168 173	human
+T9	Protein 174 202	carbonic anhydrase II (CAII)
+T10	Technique 226 248	X-ray crystallographic
+T11	Value 260 265	2.1-A
+T12	Parameter 266 276	resolution
+T13	Molecule 294 300	mutant
+T14	Protein 304 308	CAII
+T15	Protein 318 329	CO2 hydrase
+T16	Parameter 331 339	activity
+T17	Protein 374 390	wild-type enzyme
+T18	Value 398 404	2-fold
+T19	Process 405 418	stabilization
+T20	Unknown 426 433	E.HCO3-
+T21	Category 434 441	complex
+T22	Protein 446 454	esterase
+T23	Parameter 455 463	activity
+T24	Value 472 478	4-fold
+T25	Protein 504 520	wild-type enzyme
+T26	Geometrical_part 526 535	structure
+T27	Protein 543 556	mutant enzyme
+T28	Process 587 594	changes
+T29	Protein 625 630	T200S
+T30	Process 631 643	substitution
+T31	Process 682 688	change
+T32	Protein_part 705 715	side chain
+T33	Protein_part 719 743	catalytic residue His-64
+T34	Protein_part 766 777	active site
+T35	Value 781 792	105 degrees
+T36	Parameter 799 804	chi 1
+T37	Chemical 832 846	water molecule
+T38	Chemical 862 876	water molecule
+T39	Protein 895 911	wild-type enzyme
+T40	Molecule 926 934	electron
+T41	Parameter 935 942	density
+T42	Chemical 959 964	water
+T43	State 1007 1019	conformation
+T44	Protein_part 1023 1029	His-64
+T45	Value 1035 1041	10-20%
+T46	Parameter 1057 1071	rate constants
+T47	Molecule 1076 1082	proton
+T48	Process 1083 1091	transfer
+T49	Chemical 1101 1111	zinc-water
+T50	Category 1112 1118	ligand
+T51	Protein_part 1122 1128	His-64
+T52	Protein_part 1138 1144	His-64
+T53	Chemical 1153 1160	solvent
+T54	Protein 1183 1196	T200S variant
+T55	Protein_part 1212 1218	His-64
+T56	Parameter 1252 1257	chi 1
+T57	Parameter 1265 1270	chi 2
+T58	Process 1278 1287	catalysis
+T59	Process 1302 1309	changes
+T60	Chemical 1313 1320	solvent
+T61	Process 1321 1334	configuration
+T62	Molecule 1358 1364	proton
+T63	Process 1365 1373	transfer

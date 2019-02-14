@@ -1,0 +1,75 @@
+T1	Process 0 11	Orientation
+T2	Protein_part 15 32	peptide fragments
+T3	Protein 38 50	Sos proteins
+T4	Protein_part 64 85	N-terminal SH3 domain
+T5	Protein 89 93	Grb2
+T6	Technique 108 124	NMR spectroscopy
+T7	Technique 126 142	NMR spectroscopy
+T8	Protein 177 192	protein-protein
+T9	Process 193 205	interactions
+T10	Protein_part 218 258	mouse Grb2 (mGrb2) N-terminal SH3 domain
+T11	Protein_part 276 295	15-residue  peptide
+T12	Protein_part 297 313	SPLLPKLPP-KTYKRE
+T13	Protein_part 332 350	residues 1264-1278
+T14	Protein 358 386	mouse Sos-2 (mSos-2) protein
+T15	Process 403 415	interactions
+T16	Protein_part 428 435	peptide
+T17	Protein_part 440 447	13C-15N
+T18	Protein_part 456 466	SH3 domain
+T19	Unknown 508 510	2D
+T20	Unknown 515 523	3D NOESY
+T21	Process 524 535	experiments
+T22	Process 537 548	Assignments
+T23	Molecule 557 564	protons
+T24	Process 577 589	interactions
+T25	Protein_part 602 609	peptide
+T26	Protein_part 618 628	SH3 domain
+T27	Unknown 659 664	NOESY
+T28	Process 665 676	experiments
+T29	Protein_part 692 700	peptides
+T30	Process 710 719	different
+T31	Protein_part 720 727	leucine
+T32	Protein_part 765 772	peptide
+T33	Category 773 779	ligand
+T34	Protein_part 788 792	site
+T35	Protein_part 800 805	mGrb2
+T36	Protein_part 806 827	N-terminal SH3 domain
+T37	Protein_part 846 857	side chains
+T38	Protein_part 879 887	residues
+T39	Protein_part 889 893	Tyr7
+T40	Protein_part 895 899	Phe9
+T41	Protein_part 901 906	Trp36
+T42	Protein_part 908 913	Tyr52
+T43	Protein_part 929 949	hydrophobic subsites
+T44	Protein_part 965 976	side chains
+T45	Protein_part 984 996	peptide Leu4
+T46	Protein_part 1001 1014	Leu7 residues
+T47	Location 1019 1027	adjacent
+T48	Protein_part 1047 1054	subsite
+T49	Geometrical_part 1062 1073	SH3 surface
+T50	Protein_part 1105 1115	side chain
+T51	Protein_part 1121 1134	basic residue
+T52	Protein_part 1138 1145	peptide
+T53	Location 1146 1157	position 10
+T54	Process 1189 1196	binding
+T55	Protein_part 1202 1209	peptide
+T56	Protein_part 1218 1222	site
+T57	Protein_part 1230 1233	SH3
+T58	Process 1260 1273	perturbations
+T59	Chemical 1277 1291	amide chemical
+T60	Process 1292 1298	shifts
+T61	Protein_part 1308 1315	peptide
+T62	Protein_part 1332 1342	SH3 domain
+T63	Protein_part 1348 1353	mGrb2
+T64	Protein_part 1354 1385	N-terminal SH3 domain structure
+T65	Category 1394 1401	complex
+T66	Parameter 1428 1432	RMSD
+T67	Value 1436 1449	0.56 +/- 0.21
+T68	Unknown 1479 1480	N
+T69	Protein 1482 1489	C alpha
+T70	Chemical 1495 1502	C atoms
+T71	Protein_part 1506 1519	residues 1-54
+T72	Geometrical_part 1526 1535	structure
+T73	Protein_part 1543 1550	peptide
+T74	Category 1559 1566	complex
+T75	Process 1612 1623	orientation

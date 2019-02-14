@@ -1,0 +1,79 @@
+T1	Process 4 8	role
+T2	Protein 12 19	protein
+T3	Protein 32 52	thymidylate synthase
+T4	Process 53 62	catalysis
+T5	Unknown 64 72	variants
+T6	Chemical 85 124	2'-deoxyuridine 5'-monophosphate (dUMP)
+T7	Protein_part 133 140	Tyr-261
+T8	Protein 146 178	enzyme thymidylate synthase (TS)
+T9	Process 203 214	methylation
+T10	Chemical 218 257	2'-deoxyuridine 5'-monophosphate (dUMP)
+T11	Chemical 261 295	2'-deoxythymidine 5'-monophosphate
+T12	Parameter 303 310	kinetic
+T13	Technique 315 336	X-ray crystallography
+T14	Process 337 348	experiments
+T15	Process 371 375	role
+T16	Protein_part 400 407	Tyr-261
+T17	Process 415 434	catalytic mechanism
+T18	Protein 438 440	TS
+T19	Protein_part 448 455	Tyr-261
+T20	Protein_part 476 480	site
+T21	Chemical 484 490	methyl
+T22	Process 491 499	transfer
+T23	Molecule 501 508	mutants
+T24	Process 541 549	decrease
+T25	Protein 553 562	enzymatic
+T26	Parameter 563 571	activity
+T27	Protein_part 584 591	Tyr-261
+T28	Chemical 600 613	hydrogen bond
+T29	Chemical 623 627	dUMP
+T30	Unknown 628 632	3'-O
+T31	Process 660 671	interaction
+T32	Category 695 704	substrate
+T33	Process 705 712	binding
+T34	Process 714 725	orientation
+T35	Protein_part 781 788	Tyr-261
+T36	Process 833 842	mechanism
+T37	Protein 846 848	TS
+T38	Protein_part 863 870	residue
+T39	Geometrical_part 874 878	part
+T40	Category 912 929	ternary complexes
+T41	Protein 933 935	TS
+T42	Process 941 953	conservation
+T43	Parameter 961 965	size
+T44	Geometrical_part 970 975	shape
+T45	Protein_part 983 986	Tyr
+T46	Protein_part 987 997	side chain
+T47	Parameter 1027 1043	wild-type values
+T48	Parameter 1047 1054	kcat/Km
+T49	Process 1065 1074	increases
+T50	Parameter 1078 1087	Km values
+T51	Category 1101 1110	substrate
+T52	Category 1115 1123	cofactor
+T53	Process 1129 1137	mutation
+T54	Protein_part 1141 1148	Tyr-261
+T55	Process 1167 1182	destabilization
+T56	State 1190 1209	active conformation
+T57	Geometrical_part 1215 1219	loop
+T58	Chemical 1233 1237	dUMP
+T59	Chemical 1246 1254	arginine
+T60	Process 1264 1271	binding
+T61	Chemical 1272 1276	dUMP
+T62	Geometrical_part 1283 1287	loop
+T63	Process 1298 1302	role
+T64	State 1322 1341	closed conformation
+T65	Protein 1349 1355	enzyme
+T66	Protein_part 1377 1388	active site
+T67	Chemical 1404 1411	solvent
+T68	Process 1419 1428	catalysis
+T69	Process 1430 1437	Changes
+T70	Process 1448 1458	vibrations
+T71	Unknown 1462 1470	crystals
+T72	Category 1476 1491	ternary complex
+T73	Organism 1495 1511	Escherichia coli
+T74	Protein_part 1512 1521	Tyr261Trp
+T75	Value 1557 1566	2000-fold
+T76	Parameter 1575 1582	kcat/Km
+T77	Process 1622 1634	contribution
+T78	Process 1651 1660	catalysis
+T79	Protein 1664 1666	TS

@@ -1,0 +1,77 @@
+T1	Parameter 14 16	pH
+T2	Technique 27 40	spectroscopic
+T3	Parameter 41 51	properties
+T4	Protein 55 92	pentacoordinate metmyoglobin variants
+T5	Parameter 98 100	pH
+T6	Parameter 134 137	EPR
+T7	Parameter 138 145	spectra
+T8	Unknown 153 161	variants
+T9	Organism 165 170	horse
+T10	Body_part 171 176	heart
+T11	Protein 177 191	myoglobin (Mb)
+T12	Location 205 211	distal
+T13	Protein_part 212 217	His64
+T14	Category 218 224	ligand
+T15	Protein_part 253 256	Thr
+T16	Protein_part 260 263	Ile
+T17	Unknown 296 304	variants
+T18	Technique 313 326	spectroscopic
+T19	Process 327 334	changes
+T20	Parameter 340 342	pH
+T21	Process 368 378	transition
+T22	Chemical 391 397	ferric
+T23	Parameter 433 436	pKa
+T24	Value 440 444	9.49
+T25	Protein_part 453 461	His64Thr
+T26	Unknown 462 469	variant
+T27	Value 474 478	9.26
+T28	Protein_part 487 495	His64Ile
+T29	Unknown 496 503	variant
+T30	Parameter 546 548	pH
+T31	Technique 559 572	spectroscopic
+T32	Process 573 580	changes
+T33	Process 592 601	titration
+T34	Location 609 615	distal
+T35	Category 621 627	ligand
+T36	Protein 631 643	wild-type Mb
+T37	Parameter 664 667	EPR
+T38	Parameter 668 675	spectra
+T39	Unknown 684 692	variants
+T40	Parameter 700 706	values
+T41	Parameter 710 712	pH
+T42	Process 745 753	presence
+T43	Chemical 759 784	pentacoordinate heme iron
+T44	Protein_part 801 817	His64Thr variant
+T45	Value 838 843	1.9 A
+T46	Unknown 845 854	structure
+T47	Process 885 889	lack
+T48	Location 897 903	distal
+T49	Category 909 915	ligand
+T50	Process 949 957	movement
+T51	Chemical 965 976	ferric iron
+T52	Location 988 996	proximal
+T53	Protein_part 997 1006	histidine
+T54	Process 1023 1031	decrease
+T55	Chemical 1039 1050	Fe-His bond
+T56	Parameter 1051 1057	length
+T57	Process 1059 1072	Investigation
+T58	Parameter 1081 1083	pH
+T59	Process 1091 1102	equilibrium
+T60	Technique 1106 1122	EPR spectroscopy
+T61	Parameter 1175 1177	pH
+T62	Value 1178 1179	7
+T63	Value 1184 1186	11
+T64	Chemical 1240 1256	alkaline species
+T65	Parameter 1278 1280	pH
+T66	Technique 1288 1301	spectroscopic
+T67	Process 1302 1312	transition
+T68	Location 1332 1338	distal
+T69	Protein_part 1339 1348	histidine
+T70	Unknown 1349 1357	variants
+T71	Process 1375 1388	deprotonation
+T72	Location 1396 1404	proximal
+T73	Protein_part 1405 1418	His93 residue
+T74	Chemical 1431 1442	imidazolate
+T75	Process 1443 1451	ligation
+T76	Chemical 1455 1463	alkaline
+T77	Parameter 1464 1466	pH

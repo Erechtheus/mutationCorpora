@@ -1,0 +1,81 @@
+T1	Process 11 16	basis
+T2	Protein 20 25	actin
+T3	Process 26 37	recognition
+T4	Chemical 42 54	arginine ADP
+T5	Organism 71 94	Clostridium perfringens
+T6	Molecule 95 105	iota-toxin
+T7	Molecule 111 143	ADP-ribosylating toxins (ADPRTs)
+T8	Physiology 156 166	pathogenic
+T9	Organism 167 175	bacteria
+T10	Location 183 196	intracellular
+T11	Protein 197 204	protein
+T12	Organism 216 226	eukaryotic
+T13	Body_part 227 231	cell
+T14	Process 232 240	function
+T15	Protein 242 247	Actin
+T16	Molecule 257 263	ADPRTs
+T17	Organism 276 299	Clostridium perfringens
+T18	Molecule 300 310	iota-toxin
+T19	Organism 315 339	Clostridium botulinum C2
+T20	Molecule 340 345	toxin
+T21	Protein 347 369	ADP-ribosylate G-actin
+T22	Protein_part 373 380	Arg-177
+T23	Process 393 408	disorganization
+T24	Body_part 416 428	cytoskeleton
+T25	Body_part 433 437	cell
+T26	Physiology 438 443	death
+T27	Unknown 458 468	structures
+T28	Protein 477 482	actin
+T29	Molecule 492 498	ADPRTs
+T30	Process 518 528	mechanisms
+T31	Protein 540 545	actin
+T32	Process 546 557	recognition
+T33	Chemical 562 575	selective ADP
+T34	Protein_part 592 599	Arg-177
+T35	Geometrical_part 635 652	crystal structure
+T36	Protein 657 665	actin-Ia
+T37	Category 669 676	complex
+T38	Unknown 686 720	nonhydrolyzable NAD analog betaTAD
+T39	Value 724 729	2.8 A
+T40	Parameter 730 740	resolution
+T41	Unknown 746 755	structure
+T42	Unknown 771 773	Ia
+T43	Protein 785 790	actin
+T44	Geometrical_part 800 805	loops
+T45	Chemical 813 816	NAD
+T46	Geometrical_part 818 824	loop I
+T47	Unknown 826 839	Tyr-60-Tyr-62
+T48	Protein_part 847 855	N domain
+T49	Geometrical_part 858 865	loop II
+T50	Protein_part 867 883	active-site loop
+T51	Geometrical_part 886 894	loop III
+T52	Geometrical_part 896 903	loop IV
+T53	Geometrical_part 905 912	PN loop
+T54	Geometrical_part 919 925	loop V
+T55	Chemical 927 943	ADP-ribosylating
+T56	Geometrical_part 954 958	loop
+T57	Technique 969 994	site-directed mutagenesis
+T58	Geometrical_part 1011 1017	loop I
+T59	Protein_part 1025 1033	N domain
+T60	Geometrical_part 1038 1045	loop II
+T61	Protein 1068 1090	ADP-ribosyltransferase
+T62	Parameter 1091 1099	activity
+T63	Protein_part 1131 1138	Glu-378
+T64	Geometrical_part 1146 1154	EXE loop
+T65	Protein_part 1180 1187	Arg-177
+T66	Protein 1191 1196	actin
+T67	Chemical 1223 1226	ADP
+T68	Protein_part 1243 1250	Arg-177
+T69	Chemical 1266 1269	SN1
+T70	Process 1270 1278	reaction
+T71	Chemical 1292 1321	oxocarbenium ion intermediate
+T72	Molecule 1344 1356	intermediate
+T73	State 1385 1397	conformation
+T74	Chemical 1411 1427	oxocarbenium ion
+T75	Process 1459 1467	reaction
+T76	Process 1468 1477	mechanism
+T77	Molecule 1482 1488	ADPRTs
+T78	Unknown 1504 1513	structure
+T79	Chemical 1543 1547	drug
+T80	Unknown 1564 1579	toxin-substrate
+T81	Process 1580 1591	recognition

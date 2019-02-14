@@ -1,0 +1,76 @@
+T1	Process 11 16	basis
+T2	Physiology 21 42	cell cycle checkpoint
+T3	Process 43 50	control
+T4	Protein 58 68	BRCA1-CtIP
+T5	Category 69 76	complex
+T6	Body_part 82 88	breast
+T7	Physiology 93 106	ovarian tumor
+T8	Protein 107 123	suppressor BRCA1
+T9	Process 138 147	functions
+T10	Physiology 151 172	cell cycle checkpoint
+T11	Process 173 180	control
+T12	Molecule 185 188	DNA
+T13	Process 189 195	repair
+T14	Protein_part 208 239	BRCA1 C-terminal (BRCT) domains
+T15	Physiology 262 267	tumor
+T16	Process 268 279	suppression
+T17	Parameter 280 288	activity
+T18	Protein 292 297	BRCA1
+T19	Process 316 331	phosphorylation
+T20	Protein 354 362	proteins
+T21	Physiology 375 385	DNA damage
+T22	Process 405 412	control
+T23	Protein 428 446	DNA helicase BACH1
+T24	Protein 455 486	CtBP-interacting protein (CtIP)
+T25	Geometrical_part 492 509	crystal structure
+T26	Protein_part 517 535	BRCA1 BRCT repeats
+T27	Chemical 549 577	PTRVSpSPVFGAT phosphopeptide
+T28	Protein_part 595 611	residues 322-333
+T29	Organism 615 620	human
+T30	Protein 621 625	CtIP
+T31	Value 645 650	2.5 A
+T32	Parameter 651 661	resolution
+T33	Protein_part 667 674	peptide
+T34	Geometrical_part 686 691	cleft
+T35	Protein_part 727 732	BRCTs
+T36	Chemical 763 777	phospho-Ser327
+T37	Protein_part 782 788	Phe330
+T38	Protein_part 803 810	peptide
+T39	Process 829 837	contacts
+T40	Protein_part 843 857	BRCA1 residues
+T41	Chemical 867 881	hydrogen bonds
+T42	Chemical 886 898	salt bridges
+T43	Protein 918 929	BRCA1-BACH1
+T44	Category 930 937	complex
+T45	Protein 957 967	BRCA1-CtIP
+T46	Process 968 979	interaction
+T47	Process 1003 1008	basis
+T48	Value 1017 1043	approximately 5-fold lower
+T49	Parameter 1044 1052	affinity
+T50	Protein 1056 1061	BRCA1
+T51	Protein 1066 1070	CtIP
+T52	Protein 1091 1096	BACH1
+T53	Process 1127 1136	titration
+T54	Technique 1137 1148	calorimetry
+T55	Protein_part 1167 1177	side chain
+T56	Protein_part 1181 1188	Arg1775
+T57	Physiology 1196 1202	cancer
+T58	Protein 1214 1219	BRCA1
+T59	Process 1220 1228	mutation
+T60	Unknown 1229 1235	M1775R
+T61	Chemical 1264 1270	phenyl
+T62	Geometrical_part 1271 1275	ring
+T63	Protein_part 1279 1290	CtIP Phe330
+T64	Protein 1307 1317	BRCA1-CtIP
+T65	Process 1318 1329	interaction
+T66	Process 1375 1395	molecular mechanisms
+T67	Process 1432 1438	target
+T68	Protein 1439 1447	proteins
+T69	Molecule 1460 1463	DNA
+T70	Process 1464 1470	repair
+T71	Physiology 1475 1485	cell cycle
+T72	Process 1486 1493	control
+T73	Protein 1497 1502	BRCA1
+T74	Physiology 1526 1532	cancer
+T75	Process 1544 1553	mutations
+T76	Process 1567 1579	interactions

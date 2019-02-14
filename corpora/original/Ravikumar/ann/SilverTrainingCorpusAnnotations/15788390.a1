@@ -1,0 +1,82 @@
+T1	Chemical 0 8	Solution
+T2	Technique 9 12	NMR
+T3	Geometrical_part 13 22	structure
+T4	Value 30 36	48-kDa
+T5	Chemical 37 51	IIAMannose-HPr
+T6	Category 52 59	complex
+T7	Organism 67 83	Escherichia coli
+T8	Protein 84 117	mannose phosphotransferase system
+T9	Geometrical_part 123 141	solution structure
+T10	Value 149 155	48-kDa
+T11	Unknown 156 168	IIA(Man)-HPr
+T12	Category 169 176	complex
+T13	Chemical 184 191	mannose
+T14	Organism 206 222	Escherichia coli
+T15	Protein 223 248	phosphotransferase system
+T16	Technique 268 271	NMR
+T17	Process 294 306	body/torsion
+T18	Parameter 307 312	angle
+T19	Process 340 345	basis
+T20	Body_part 364 371	nuclear
+T21	Unknown 372 382	Overhauser
+T22	Process 383 394	enhancement
+T23	Process 421 430	couplings
+T24	Unknown 432 440	IIA(Man)
+T25	Location 464 477	symmetrically
+T26	Process 486 493	binding
+T27	Protein_part 494 499	sites
+T28	Protein 504 509	dimer
+T29	Chemical 514 517	HPr
+T30	Geometrical_part 528 535	surface
+T31	Chemical 539 542	HPr
+T32	Protein_part 564 573	helices 1
+T33	Geometrical_part 604 610	groove
+T34	Protein 639 647	subunits
+T35	Unknown 651 659	IIA(Man)
+T36	Process 665 676	interaction
+T37	Geometrical_part 677 684	surface
+T38	Unknown 688 696	IIA(Man)
+T39	Protein_part 734 741	helix 3
+T40	Protein 752 759	subunit
+T41	Food 765 770	bears
+T42	Protein_part 775 793	active site His-10
+T43	Protein_part 798 807	helices 1
+T44	Protein 833 840	subunit
+T45	Geometrical_part 870 877	surface
+T46	Parameter 878 882	area
+T47	Protein 890 905	protein-protein
+T48	Value 919 928	1450 A(2)
+T49	Process 934 941	binding
+T50	Protein_part 942 947	sites
+T51	Protein 959 967	proteins
+T52	Geometrical_part 998 1003	shape
+T53	Parameter 1008 1020	distribution
+T54	Protein_part 1062 1070	residues
+T55	Protein_part 1076 1098	active site histidines
+T56	Protein_part 1100 1106	His-10
+T57	Unknown 1110 1118	IIA(Man)
+T58	Protein_part 1123 1129	His-15
+T59	Protein_part 1148 1160	HPr residues
+T60	Chemical 1165 1168	HPr
+T61	State 1209 1225	transition state
+T62	Chemical 1238 1264	pentacoordinate phosphoryl
+T63	Molecular_Part 1265 1270	group
+T64	Geometrical_part 1297 1305	geometry
+T65	Chemical 1320 1335	N-epsilon2 atom
+T66	Protein_part 1339 1345	His-10
+T67	Chemical 1354 1367	N-delta1 atom
+T68	Protein_part 1371 1377	His-15
+T69	Process 1416 1428	displacement
+T70	Protein_part 1464 1472	residues
+T71	Location 1485 1493	adjacent
+T72	Protein_part 1501 1523	active site histidines
+T73	Geometrical_part 1539 1549	structures
+T74	Category 1553 1562	complexes
+T75	Chemical 1566 1569	HPr
+T76	Protein 1610 1644	phosphotransferase system proteins
+T77	Protein 1646 1655	enzymes I
+T78	Protein 1657 1669	IIA(glucose)
+T79	Chemical 1675 1688	IIA(mannitol)
+T80	Process 1751 1756	basis
+T81	Chemical 1779 1782	HPr
+T82	Protein 1831 1839	proteins

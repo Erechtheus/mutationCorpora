@@ -1,0 +1,80 @@
+T1	Organism 27 43	Escherichia coli
+T2	Protein 44 56	thioesterase
+T3	Protein 57 67	I/protease
+T4	Protein 68 90	I/lysophospholipase L1
+T5	Process 111 117	switch
+T6	Geometrical_part 118 122	loop
+T7	Process 123 131	movement
+T8	Organism 133 149	Escherichia coli
+T9	Protein 150 162	thioesterase
+T10	Protein 163 173	I/protease
+T11	Protein 174 198	I/lysophospholipase L(1)
+T12	Protein 200 203	TAP
+T13	Protein 226 243	lysophospholipase
+T14	Protein 248 269	acyl-CoA thioesterase
+T15	Protein 277 291	SGNH-hydrolase
+T16	Geometrical_part 292 296	fold
+T17	Parameter 302 314	relationship
+T18	Unknown 323 338	TAP's structure
+T19	Category 357 366	substrate
+T20	Geometrical_part 422 439	crystal structure
+T21	Protein 443 446	TAP
+T22	Category 450 457	complex
+T23	Chemical 463 476	octanoic acid
+T24	Chemical 478 485	TAP-OCA
+T25	Molecule 487 490	OCA
+T26	Chemical 499 509	fatty acid
+T27	Chemical 521 534	carbon  atoms
+T28	Chemical 536 540	C(8)
+T29	Process 556 566	comparison
+T30	Molecule 577 580	TAP
+T31	Molecule 586 593	TAP-OCA
+T32	State 615 629	conformational
+T33	Process 630 636	change
+T34	Unknown 640 655	loop(75)(-)(80)
+T35	Geometrical_part 672 676	loop
+T36	Molecule 693 696	OCA
+T37	Category 712 721	substrate
+T38	Molecule 741 744	TAP
+T39	Molecule 746 749	OCA
+T40	Category 766 775	substrate
+T41	Geometrical_part 828 835	surface
+T42	Process 852 858	switch
+T43	Geometrical_part 859 863	loop
+T44	Process 864 872	movement
+T45	Process 878 884	switch
+T46	Geometrical_part 885 889	loop
+T47	Process 890 898	movement
+T48	Protein 902 912	acyl chain
+T49	Parameter 913 919	length
+T50	Process 939 945	effect
+T51	Category 965 987	Michaelis complex (MC)
+T52	Molecule 991 994	TAP
+T53	Process 1002 1011	catalysis
+T54	Molecule 1034 1039	TAP's
+T55	Category 1040 1049	substrate
+T56	Chemical 1079 1090	sulfate ion
+T57	Process 1091 1098	binding
+T58	Protein_part 1099 1103	site
+T59	Protein 1111 1114	TAP
+T60	Geometrical_part 1115 1125	structures
+T61	Protein 1150 1156	enzyme
+T62	Parameter 1157 1164	kinetic
+T63	Technique 1165 1173	analyses
+T64	Chemical 1204 1216	putative CoA
+T65	Process 1217 1224	binding
+T66	Protein_part 1225 1229	site
+T67	Process 1257 1266	catalysis
+T68	Chemical 1270 1280	thioesters
+T69	Protein 1284 1287	TAP
+T70	Geometrical_part 1309 1326	crystal structure
+T71	Molecule 1330 1380	L109P-OCA (TAP's L109P mutant in complex with OCA)
+T72	Protein_part 1391 1397	Leu109
+T73	Protein_part 1409 1415	Pro109
+T74	Process 1426 1432	switch
+T75	Geometrical_part 1433 1437	loop
+T76	Process 1438 1446	movement
+T77	Process 1497 1503	switch
+T78	Geometrical_part 1504 1508	loop
+T79	Process 1509 1517	movement
+T80	Process 1544 1556	interactions

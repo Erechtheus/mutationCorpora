@@ -1,0 +1,113 @@
+T1	Technique 0 14	X-ray analyses
+T2	Protein_part 18 26	aspartic
+T3	Protein 27 38	proteinases
+T4	Unknown 40 42	II
+T5	Geometrical_part 44 71	Three-dimensional structure
+T6	Unknown 89 96	crystal
+T7	Organism 105 112	porcine
+T8	Protein 113 119	pepsin
+T9	Value 123 128	2.3 A
+T10	Parameter 129 139	resolution
+T11	Unknown 155 164	structure
+T12	Unknown 182 189	crystal
+T13	Organism 198 205	porcine
+T14	Protein 206 212	pepsin
+T15	Protein 214 225	EC 3.4.23.1
+T16	Protein_part 231 239	aspartic
+T17	Protein 240 250	proteinase
+T18	Body_part 260 274	gastric mucosa
+T19	Process 299 320	molecular replacement
+T20	Organism 331 337	fungal
+T21	Protein 338 344	enzyme
+T22	Protein 346 361	penicillopepsin
+T23	Protein 363 374	EC 3.4.23.6
+T24	Geometrical_part 416 427	space group
+T25	Unknown 431 436	P6522
+T26	Process 441 451	refinement
+T27	Parameter 463 471	R-factor
+T28	Value 475 480	0.190
+T29	Value 484 489	2.3 A
+T30	Parameter 490 500	resolution
+T31	Chemical 524 550	non-hydrogen protein atoms
+T32	Protein_part 558 566	residues
+T33	Chemical 615 630	water molecules
+T34	Unknown 636 645	structure
+T35	Protein_part 690 700	beta-sheet
+T36	Body_part 701 706	lobes
+T37	Protein_part 726 734	aspartic
+T38	Protein 735 746	proteinases
+T39	Geometrical_part 772 783	2-fold axis
+T40	Protein_part 789 796	strands
+T41	Protein_part 810 821	beta-sheets
+T42	Value 823 825	1N
+T43	Protein_part 830 832	1C
+T44	Body_part 842 846	lobe
+T45	Body_part 865 875	intra-lobe
+T46	Geometrical_part 888 903	2-fold symmetry
+T47	Protein_part 917 928	beta-sheets
+T48	Value 930 932	2N
+T49	Protein_part 937 939	2C
+T50	Geometrical_part 988 1001	beta-hairpins
+T51	Value 1019 1021	1N
+T52	Protein_part 1027 1029	1C
+T53	Protein_part 1030 1036	sheets
+T54	Protein_part 1061 1066	sheet
+T55	Body_part 1085 1090	lobes
+T56	Unknown 1103 1112	structure
+T57	Geometrical_part 1127 1131	arch
+T58	Protein_part 1158 1164	sheets
+T59	Protein_part 1195 1201	sheets
+T60	Value 1202 1204	1N
+T61	Protein_part 1209 1211	1C
+T62	Location 1222 1238	catalytic centre
+T63	Protein_part 1274 1295	aspartate residues 32
+T64	Protein_part 1300 1303	215
+T65	Chemical 1329 1336	solvent
+T66	Geometrical_part 1342 1354	beta-hairpin
+T67	Geometrical_part 1355 1359	loop
+T68	Geometrical_part 1376 1393	crystal structure
+T69	Organism 1399 1408	mammalian
+T70	Protein_part 1409 1417	aspartic
+T71	Protein 1418 1428	proteinase
+T72	Process 1444 1456	interactions
+T73	Category 1462 1471	substrate
+T74	Location 1507 1511	side
+T75	Protein_part 1519 1530	active site
+T76	Geometrical_part 1531 1536	cleft
+T77	Organism 1549 1555	fungal
+T78	Protein 1556 1563	enzymes
+T79	Protein_part 1576 1582	Tyr189
+T80	Geometrical_part 1591 1599	loop 290
+T81	Protein 1636 1650	transpeptidase
+T82	Parameter 1651 1659	activity
+T83	Protein 1663 1669	pepsin
+T84	Protein 1697 1703	renins
+T85	Process 1705 1715	Comparison
+T86	Geometrical_part 1725 1750	high-resolution structure
+T87	Protein 1754 1764	pepsinogen
+T88	Parameter 1773 1799	root-mean-square deviation
+T89	Value 1803 1808	0.9 A
+T90	Process 1848 1861	rearrangement
+T91	Protein_part 1869 1880	active site
+T92	Molecular_Part 1910 1915	group
+T93	Process 1916 1924	movement
+T94	Geometrical_part 1928 1932	part
+T95	Protein_part 1940 1950	C-terminal
+T96	Body_part 1951 1955	lobe
+T97	Protein 1959 1965	pepsin
+T98	Geometrical_part 1978 1983	cleft
+T99	Process 1987 1997	activation
+T100	Parameter 2007 2017	proportion
+T101	Protein_part 2046 2054	residues
+T102	Protein_part 2058 2066	aspartic
+T103	Protein 2067 2078	proteinases
+T104	Process 2104 2115	examination
+T105	Protein 2123 2129	pepsin
+T106	Geometrical_part 2130 2139	structure
+T107	Protein_part 2159 2170	side-chains
+T108	Chemical 2187 2200	hydrogen-bond
+T109	Process 2201 2213	interactions
+T110	Protein_part 2230 2240	main chain
+T111	Protein 2248 2255	protein
+T112	Protein_part 2276 2287	side-chains
+T113	Protein 2295 2301	enzyme

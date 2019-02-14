@@ -1,0 +1,96 @@
+T1	Chemical 0 8	Solution
+T2	Technique 9 12	NMR
+T3	Geometrical_part 13 23	structures
+T4	Category 57 66	complexes
+T5	Protein_part 86 95	B domains
+T6	Location 103 114	cytoplasmic
+T7	Protein 115 122	subunit
+T8	Protein 130 149	mannose transporter
+T9	Organism 157 173	Escherichia coli
+T10	Protein 174 199	phosphotransferase system
+T11	Chemical 201 220	Solution structures
+T12	Category 224 233	complexes
+T13	Protein 258 266	IIA(Man)
+T14	Protein_part 272 292	B (IIB(Man)) domains
+T15	Location 300 311	cytoplasmic
+T16	Geometrical_part 312 321	component
+T17	Protein 329 348	mannose transporter
+T18	Organism 352 368	Escherichia coli
+T19	Technique 389 392	NMR
+T20	Category 398 405	complex
+T21	Protein 409 427	wild-type IIA(Man)
+T22	Protein 432 440	IIB(Man)
+T23	Organism 461 468	species
+T24	Chemical 494 504	phosphoryl
+T25	Process 505 513	transfer
+T26	Category 524 531	complex
+T27	Category 553 560	complex
+T28	Protein_part 574 596	active site histidines
+T29	Protein_part 598 604	His-10
+T30	Protein 608 616	IIA(Man)
+T31	Protein_part 621 628	His-175
+T32	Protein 632 640	IIB(Man)
+T33	Protein_part 669 672	25A
+T34	Process 674 682	Mutation
+T35	Protein_part 690 711	active site histidine
+T36	Protein_part 713 719	His-10
+T37	Protein 724 732	IIA(Man)
+T38	Chemical 739 748	glutamate
+T39	Category 753 758	mimic
+T40	Process 759 774	phosphorylation
+T41	Process 791 800	formation
+T42	Category 824 831	complex
+T43	Parameter 837 880	apparent equilibrium dissociation constants
+T44	Process 889 896	binding
+T45	Unknown 919 932	H10E IIA(Man)
+T46	Protein 936 944	IIB(Man)
+T47	Value 978 998	approximately 0.5 mM
+T48	Category 1016 1023	complex
+T49	State 1051 1067	transition state
+T50	Chemical 1080 1106	pentacoordinate phosphoryl
+T51	Molecular_Part 1107 1112	group
+T52	Geometrical_part 1139 1147	geometry
+T53	Chemical 1162 1176	Nepsilon2 atom
+T54	Protein_part 1180 1186	His-10
+T55	Protein 1190 1198	IIA(Man)
+T56	Chemical 1207 1219	Ndelta1 atom
+T57	Protein_part 1223 1230	His-175
+T58	Protein 1234 1242	IIB(Man)
+T59	Value 1260 1265	<0.2A
+T60	State 1282 1296	conformational
+T61	Process 1297 1304	changes
+T62	Location 1322 1330	vicinity
+T63	Protein_part 1338 1349	active site
+T64	Category 1370 1377	complex
+T65	Value 1416 1440	approximately 90 degrees
+T66	Process 1441 1449	rotation
+T67	Protein_part 1468 1471	37A
+T68	Process 1472 1483	translation
+T69	Protein 1487 1495	IIB(Man)
+T70	Protein 1508 1516	IIA(Man)
+T71	Protein_part 1530 1549	active site His-175
+T72	Protein 1553 1561	IIB(Man)
+T73	Chemical 1579 1586	solvent
+T74	Category 1609 1616	complex
+T75	Process 1622 1633	interaction
+T76	Geometrical_part 1634 1641	surface
+T77	Protein 1645 1653	IIA(Man)
+T78	Category 1677 1684	complex
+T79	Protein_part 1707 1715	residues
+T80	Category 1739 1746	complex
+T81	Protein 1779 1787	subunits
+T82	Protein 1791 1799	IIA(Man)
+T83	Category 1833 1840	complex
+T84	Unknown 1844 1858	IIA(Man)(H10E)
+T85	Process 1880 1894	neutralization
+T86	Protein_part 1921 1928	Arg-172
+T87	Protein 1932 1940	IIB(Man)
+T88	Unknown 1992 2009	IIA(Man)-IIB(Man)
+T89	Category 2010 2017	complex
+T90	Chemical 2057 2067	phosphoryl
+T91	Process 2068 2076	transfer
+T92	Protein_part 2082 2089	His-175
+T93	Protein 2093 2101	IIB(Man)
+T94	Chemical 2118 2123	sugar
+T95	Body_part 2139 2170	transmembrane IIC(Man)-IID(Man)
+T96	Category 2171 2178	complex

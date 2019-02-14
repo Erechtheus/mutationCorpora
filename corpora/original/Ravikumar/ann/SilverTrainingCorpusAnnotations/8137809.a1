@@ -1,0 +1,81 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Protein 31 67	6-pyruvoyl tetrahydropterin synthase
+T3	Protein 72 78	enzyme
+T4	Chemical 91 110	tetrahydrobiopterin
+T5	Process 111 123	biosynthesis
+T6	Geometrical_part 129 146	crystal structure
+T7	Organism 150 153	rat
+T8	Body_part 154 159	liver
+T9	Protein 160 196	6-pyruvoyl tetrahydropterin synthase
+T10	Process 238 249	replacement
+T11	Technique 267 283	crystallographic
+T12	Parameter 284 292	R-factor
+T13	Value 296 301	20.4%
+T14	Value 305 310	2.3 A
+T15	Parameter 311 321	resolution
+T16	Protein 323 362	6-Pyruvoyl tetrahydrobiopterin synthase
+T17	Process 377 387	conversion
+T18	Chemical 391 420	dihydroneopterin triphosphate
+T19	Chemical 424 451	6-pyruvoyl tetrahydropterin
+T20	Protein 473 482	enzymatic
+T21	Process 496 505	synthesis
+T22	Chemical 509 528	tetrahydrobiopterin
+T23	Chemical 534 537	GTP
+T24	Protein 554 560	enzyme
+T25	Protein 566 573	hexamer
+T26	Protein 587 595	subunits
+T27	Protein 601 645	6-pyruvoyl tetrahydropterin synthase monomer
+T28	Protein_part 699 709	beta-sheet
+T29	Protein_part 720 727	residue
+T30	Protein_part 729 734	helix
+T31	Process 746 755	insertion
+T32	Protein_part 764 773	strands 1
+T33	Protein_part 778 779	2
+T34	Molecule 801 809	molecule
+T35	Protein_part 817 824	segment
+T36	Protein_part 833 842	strands 2
+T37	Protein_part 847 848	3
+T38	Geometrical_part 867 879	antiparallel
+T39	Protein_part 880 887	helices
+T40	Location 904 908	side
+T41	Protein_part 916 926	beta-sheet
+T42	Protein 934 979	6-pyruvoyl tetrahydropterin synthase monomers
+T43	Geometrical_part 996 1020	12-stranded antiparallel
+T44	Protein_part 1021 1032	beta-barrel
+T45	Process 1042 1053	association
+T46	Protein_part 1066 1068	N-
+T47	Protein_part 1073 1096	C-terminal beta-strands
+T48	Location 1104 1112	adjacent
+T49	Protein 1113 1121	subunits
+T50	Geometrical_part 1128 1134	barrel
+T51	Body_part 1153 1163	basic pore
+T52	Value 1167 1173	6-12 A
+T53	Parameter 1174 1182	diameter
+T54	Protein 1188 1195	trimers
+T55	Protein 1251 1257	enzyme
+T56	Category 1258 1265	complex
+T57	Category 1271 1280	substrate
+T58	Protein_part 1289 1293	site
+T59	Protein 1318 1331	trimer-trimer
+T60	Protein_part 1356 1364	residues
+T61	Protein 1376 1384	monomers
+T62	Unknown 1389 1391	A'
+T63	Unknown 1396 1397	B
+T64	Chemical 1401 1406	metal
+T65	Protein_part 1415 1419	site
+T66	Category 1428 1437	substrate
+T67	Geometrical_part 1446 1452	pocket
+T68	Protein_part 1476 1497	histidine residues 23
+T69	Protein_part 1499 1501	48
+T70	Protein_part 1506 1508	50
+T71	Protein 1519 1555	6-pyruvoyl tetrahydropterin synthase
+T72	Protein 1556 1563	subunit
+T73	Chemical 1578 1583	metal
+T74	Protein_part 1622 1636	residues Cys42
+T75	Protein_part 1638 1644	Glu133
+T76	Protein_part 1663 1668	His89
+T77	Unknown 1675 1676	B
+T78	Molecule 1700 1706	proton
+T79	Category 1707 1713	donors
+T80	Category 1718 1727	acceptors
+T81	Process 1735 1744	catalysis

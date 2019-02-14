@@ -1,0 +1,53 @@
+T1	State 0 14	Conformational
+T2	Process 15 25	transition
+T3	Protein_part 57 78	phenylalanine zippers
+T4	Process 101 108	packing
+T5	Process 109 120	interaction
+T6	Process 164 168	role
+T7	Protein 191 206	protein-protein
+T8	Process 207 219	interactions
+T9	Process 244 254	mechanisms
+T10	Protein_part 267 278	helix-helix
+T11	Process 279 290	association
+T12	Protein 378 398	"Phe-zipper" protein
+T13	Protein_part 400 406	Phe-14
+T14	Protein_part 413 435	phenylalanine residues
+T15	Unknown 501 508	variant
+T16	Unknown 510 519	Phe-14(M)
+T17	Protein_part 544 555	Phe residue
+T18	Protein_part 576 579	Met
+T19	Protein_part 581 587	Phe-14
+T20	Chemical 619 627	pentamer
+T21	Chemical 631 647	aqueous solution
+T22	Unknown 655 664	Phe-14(M)
+T23	Value 665 670	folds
+T24	Geometrical_part 689 706	helical structure
+T25	Molecule 708 713	X-ray
+T26	Geometrical_part 714 732	crystal structures
+T27	Protein 757 765	tetramer
+T28	Chemical 774 782	pentamer
+T29	Protein_part 793 806	d side-chains
+T30	Geometrical_part 868 876	parallel
+T31	Geometrical_part 877 888	coiled-coil
+T32	Unknown 889 899	structures
+T33	Geometrical_part 924 932	cavities
+T34	Process 947 955	presence
+T35	Protein_part 963 974	Met residue
+T36	Protein 1006 1014	tetramer
+T37	Geometrical_part 1041 1052	coiled-coil
+T38	State 1053 1065	conformation
+T39	Geometrical_part 1083 1091	geometry
+T40	Process 1111 1123	interactions
+T41	Protein_part 1139 1153	Met side-chain
+T42	Protein 1189 1197	tetramer
+T43	Process 1198 1207	formation
+T44	Process 1233 1243	nucleation
+T45	Chemical 1263 1271	pentamer
+T46	Process 1272 1279	folding
+T47	Molecule 1300 1312	intermediate
+T48	Chemical 1334 1342	pentamer
+T49	Protein_part 1370 1379	sequences
+T50	Protein 1494 1507	multi-protein
+T51	Category 1508 1517	complexes
+T52	Protein_part 1536 1545	sequences
+T53	Process 1575 1583	assembly

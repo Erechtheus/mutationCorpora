@@ -1,0 +1,90 @@
+T1	Chemical 13 18	sugar
+T2	Protein_part 26 30	site
+T3	Protein_part 38 60	non-catalytic domain C
+T4	Organism 64 70	barley
+T5	Protein 71 84	alpha-amylase
+T6	Category 101 110	substrate
+T7	Process 111 118	binding
+T8	Parameter 123 131	activity
+T9	Chemical 138 144	starch
+T10	Protein 155 162	enzymes
+T11	Chemical 175 188	carbohydrates
+T12	Protein_part 192 197	sites
+T13	Parameter 220 228	distance
+T14	Protein_part 238 249	active site
+T15	Geometrical_part 258 275	crystal structure
+T16	Organism 279 285	barley
+T17	Protein 286 301	alpha-amylase 1
+T18	Chemical 303 318	oligosaccharide
+T19	Protein_part 354 358	site
+T20	Protein_part 365 369	site
+T21	Protein_part 377 399	non-catalytic domain C
+T22	Protein_part 407 422	C-terminal part
+T23	Molecule 430 438	molecule
+T24	Protein_part 454 461	residue
+T25	Protein_part 463 469	Tyr380
+T26	Process 490 498	contacts
+T27	Chemical 508 523	oligosaccharide
+T28	Protein 529 543	mutant enzymes
+T29	Protein_part 544 549	Y380A
+T30	Protein_part 554 559	Y380M
+T31	Chemical 578 605	beta-cyclodextrin-Sepharose
+T32	Protein 609 627	starch-mimic resin
+T33	Protein 637 650	alpha-amylase
+T34	Parameter 651 659	affinity
+T35	Process 660 672	purification
+T36	Parameter 678 682	K(d)
+T37	Chemical 687 704	beta-cyclodextrin
+T38	Protein_part 716 721	Y380A
+T39	Protein_part 726 731	Y380M
+T40	Value 736 742	1.4 mm
+T41	Value 755 767	0.20-0.25 mm
+T42	Protein 787 792	S378P
+T43	Protein 797 810	S378T enzymes
+T44	Process 816 828	substitution
+T45	Protein 836 848	S378P enzyme
+T46	Category 849 855	mimics
+T47	Protein_part 856 862	Pro376
+T48	Organism 870 876	barley
+T49	Protein 877 900	alpha-amylase 2 isozyme
+T50	Protein_part 934 940	Tyr378
+T51	Chemical 954 969	oligosaccharide
+T52	Unknown 998 1007	structure
+T53	Geometrical_part 1009 1027	Crystal structures
+T54	Protein 1050 1063	S378P enzymes
+T55	Protein_part 1077 1082	Y380A
+T56	Protein 1083 1089	enzyme
+T57	Process 1098 1105	binding
+T58	Chemical 1113 1134	pseudotetrasaccharide
+T59	Protein_part 1165 1169	site
+T60	Protein_part 1189 1193	site
+T61	Process 1231 1241	adsorption
+T62	Chemical 1245 1251	starch
+T63	Body_part 1252 1260	granules
+T64	Parameter 1265 1267	Kd
+T65	Value 1270 1284	0.47 mg.mL(-1)
+T66	Protein 1293 1309	wild-type enzyme
+T67	Value 1323 1336	5.9 mg.mL(-1)
+T68	Protein_part 1341 1346	Y380A
+T69	Process 1377 1384	release
+T70	Chemical 1396 1412	oligosaccharides
+T71	Chemical 1418 1424	starch
+T72	Body_part 1425 1433	granules
+T73	Value 1444 1447	10%
+T74	Parameter 1455 1473	wild-type activity
+T75	Chemical 1475 1492	beta-cyclodextrin
+T76	Process 1508 1515	binding
+T77	Parameter 1534 1542	activity
+T78	Chemical 1546 1552	starch
+T79	Body_part 1553 1561	granules
+T80	Protein 1580 1593	S378P enzymes
+T81	Parameter 1620 1630	properties
+T82	Protein_part 1634 1639	Y380A
+T83	Process 1667 1671	role
+T84	Protein_part 1675 1681	Tyr380
+T85	Protein_part 1700 1705	Y380A
+T86	Protein 1706 1712	enzyme
+T87	Chemical 1724 1731	amylose
+T88	Process 1825 1832	binding
+T89	Chemical 1836 1850	polysaccharide
+T90	Category 1851 1861	substrates

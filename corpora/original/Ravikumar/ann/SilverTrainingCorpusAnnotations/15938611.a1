@@ -1,0 +1,92 @@
+T1	Process 0 7	Binding
+T2	Chemical 11 26	C5-dicarboxylic
+T3	Category 27 36	substrate
+T4	Protein 40 66	aspartate aminotransferase
+T5	Process 68 80	implications
+T6	State 90 104	conformational
+T7	Process 105 111	change
+T8	Process 119 136	transaldimination
+T9	Process 147 156	mechanism
+T10	Process 165 173	reaction
+T11	Protein 177 203	aspartate aminotransferase
+T12	Protein_part 213 215	C4
+T13	Category 216 225	substrate
+T14	Chemical 227 238	l-aspartate
+T15	Process 271 278	binding
+T16	Protein_part 286 288	C4
+T17	Category 289 298	substrate
+T18	State 307 321	conformational
+T19	Process 322 328	change
+T20	Protein 336 342	enzyme
+T21	Process 392 400	reaction
+T22	Protein 436 442	enzyme
+T23	Process 487 495	reaction
+T24	Protein_part 505 507	C5
+T25	Category 508 517	substrate
+T26	Chemical 519 530	l-glutamate
+T27	Parameter 564 566	pH
+T28	Process 577 584	binding
+T29	Chemical 588 608	2-methyl-l-glutamate
+T30	Protein 616 622	enzyme
+T31	Process 643 654	interaction
+T32	Chemical 667 672	amino
+T33	Molecular_Part 673 678	group
+T34	Chemical 682 702	2-methyl-l-glutamate
+T35	Chemical 711 733	pyridoxal 5'-phosphate
+T36	Chemical 777 797	2-methyl-l-aspartate
+T37	Unknown 820 830	structures
+T38	Unknown 838 847	Michaelis
+T39	Category 848 857	complexes
+T40	Protein 865 871	enzyme
+T41	Chemical 877 888	l-aspartate
+T42	Chemical 893 904	l-glutamate
+T43	Process 925 930	basis
+T44	Chemical 938 945	maleate
+T45	Geometrical_part 968 978	structures
+T46	Protein 986 992	enzyme
+T47	Chemical 1017 1028	l-glutamate
+T48	Protein 1059 1065	enzyme
+T49	State 1072 1093	extended conformation
+T50	Chemical 1103 1114	alpha-amino
+T51	Molecular_Part 1115 1120	group
+T52	Process 1144 1153	direction
+T53	Chemical 1185 1196	l-aspartate
+T54	Chemical 1265 1285	2-methyl-l-glutamate
+T55	Chemical 1290 1310	2-methyl-l-aspartate
+T56	Geometrical_part 1316 1334	crystal structures
+T57	Category 1342 1351	complexes
+T58	Protein 1355 1381	aspartate aminotransferase
+T59	Chemical 1387 1415	phosphopyridoxyl derivatives
+T60	Chemical 1419 1430	l-glutamate
+T61	Chemical 1432 1443	d-glutamate
+T62	Chemical 1449 1469	2-methyl-l-glutamate
+T63	Location 1504 1512	external
+T64	Category 1535 1544	complexes
+T65	Chemical 1548 1559	l-glutamate
+T66	Unknown 1569 1579	structures
+T67	Chemical 1617 1628	carboxylate
+T68	Molecular_Part 1629 1635	groups
+T69	Protein_part 1644 1661	arginine residues
+T70	Location 1701 1709	external
+T71	Category 1719 1726	complex
+T72	Chemical 1732 1752	2-methyl-l-aspartate
+T73	Process 1820 1827	binding
+T74	Chemical 1831 1842	l-glutamate
+T75	Protein 1846 1872	aspartate aminotransferase
+T76	Unknown 1885 1894	Michaelis
+T77	Category 1895 1902	complex
+T78	State 1921 1935	conformational
+T79	Process 1936 1942	change
+T80	Protein 1950 1956	enzyme
+T81	State 1971 1985	conformational
+T82	Process 1986 1992	change
+T83	Process 2030 2047	transaldimination
+T84	Protein_part 2058 2078	hydrophobic residues
+T85	Location 2086 2094	entrance
+T86	Protein_part 2102 2113	active site
+T87	Protein_part 2125 2130	Tyr70
+T88	Process 2182 2199	transaldimination
+T89	Process 2200 2207	process
+T90	Process 2222 2233	recognition
+T91	Protein_part 2241 2243	C5
+T92	Category 2244 2253	substrate

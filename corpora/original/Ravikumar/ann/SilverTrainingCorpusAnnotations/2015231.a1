@@ -1,0 +1,75 @@
+T1	Process 12 19	binding
+T2	Chemical 30 45	chloramphenicol
+T3	Chemical 50 89	1-substituted chloramphenicol analogues
+T4	Technique 102 127	site-directed mutagenesis
+T5	Technique 132 153	X-ray crystallography
+T6	Protein 157 190	chloramphenicol acetyltransferase
+T7	Protein_part 192 203	Leucine-160
+T8	Protein 207 246	chloramphenicol acetyltransferase (CAT)
+T9	Technique 268 293	site-directed mutagenesis
+T10	Process 323 335	interactions
+T11	Chemical 343 365	1-hydroxyl substituent
+T12	Category 373 382	substrate
+T13	Chemical 383 398	chloramphenicol
+T14	Process 404 416	consequences
+T15	Process 425 437	substitution
+T16	Protein_part 441 448	Leu-160
+T17	Chemical 452 461	glutamine
+T18	Protein_part 469 482	phenylalanine
+T19	Parameter 505 536	steady-state kinetic parameters
+T20	Chemical 541 547	acetyl
+T21	Process 548 556	transfer
+T22	Chemical 562 572	acetyl-CoA
+T23	Chemical 580 590	3-hydroxyl
+T24	Chemical 594 609	chloramphenicol
+T25	Chemical 618 650	analogues 1-deoxychloramphenicol
+T26	Chemical 655 678	1-acetylchloramphenicol
+T27	Chemical 684 690	acetyl
+T28	Molecular_Part 691 696	group
+T29	Category 723 732	substrate
+T30	Chemical 812 822	1-hydroxyl
+T31	Chemical 826 841	chloramphenicol
+T32	Protein_part 869 879	side chain
+T33	Protein_part 883 890	Leu-160
+T34	Protein 907 918	Gln-160 CAT
+T35	Process 926 935	increases
+T36	Parameter 939 941	Km
+T37	Chemical 956 962	acetyl
+T38	Category 963 972	acceptors
+T39	Process 1000 1009	decreases
+T40	Parameter 1013 1017	kcat
+T41	Parameter 1025 1042	apparent affinity
+T42	Chemical 1047 1057	acetyl-CoA
+T43	Chemical 1139 1144	amide
+T44	Chemical 1161 1173	delta-methyl
+T45	Molecular_Part 1174 1180	groups
+T46	Protein_part 1184 1191	Leu-160
+T47	Parameter 1197 1215	kinetic properties
+T48	Protein 1219 1230	Phe-160 CAT
+T49	Parameter 1255 1257	Km
+T50	Chemical 1280 1286	acetyl
+T51	Category 1287 1296	acceptors
+T52	Parameter 1350 1360	parameters
+T53	Protein 1369 1385	wild-type enzyme
+T54	Parameter 1395 1399	kcat
+T55	Value 1420 1430	44-83-fold
+T56	Parameter 1451 1457	ratios
+T57	Parameter 1473 1482	constants
+T58	Parameter 1484 1491	kcat/Km
+T59	Process 1501 1512	acetylation
+T60	Chemical 1516 1531	chloramphenicol
+T61	Chemical 1563 1567	acyl
+T62	Category 1568 1577	acceptors
+T63	Protein 1609 1623	mutant enzymes
+T64	Protein_part 1632 1639	residue
+T65	Process 1640 1653	substitutions
+T66	Protein_part 1658 1665	Leu-160
+T67	Process 1692 1706	discrimination
+T68	Process 1719 1726	binding
+T69	Process 1731 1742	acetylation
+T70	Chemical 1746 1769	1-acetylchloramphenicol
+T71	Chemical 1800 1808	1-acetyl
+T72	Molecular_Part 1809 1814	group
+T73	Protein_part 1828 1843	CAT active site
+T74	Chemical 1889 1899	1-hydroxyl
+T75	Chemical 1903 1918	chloramphenicol

@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Organism 22 27	human
+T3	Chemical 28 39	thioredoxin
+T4	Chemical 51 73	disulfide intermediate
+T5	Category 74 81	complex
+T6	Process 91 97	target
+T7	Protein_part 98 105	peptide
+T8	Protein 115 146	transcription factor NF kappa B
+T9	Organism 160 165	Human
+T10	Chemical 166 177	thioredoxin
+T11	Value 183 189	12 kDa
+T12	Body_part 190 198	cellular
+T13	Protein 205 212	protein
+T14	Process 230 234	role
+T15	Unknown 260 271	environment
+T16	Body_part 279 283	cell
+T17	Molecule 349 352	DNA
+T18	Parameter 361 371	properties
+T19	Body_part 379 387	cellular
+T20	Protein 388 408	transcription factor
+T21	Protein 410 420	NF kappa B
+T22	Chemical 436 450	disulfide bond
+T23	Protein_part 461 466	Cys62
+T24	Protein 474 485	p50 subunit
+T25	Location 510 523	heteronuclear
+T26	Location 535 549	hetero-nuclear
+T27	Technique 559 575	NMR spectroscopy
+T28	Geometrical_part 596 614	solution structure
+T29	Category 620 627	complex
+T30	Organism 631 636	human
+T31	Chemical 637 648	thioredoxin
+T32	Protein_part 655 673	13-residue peptide
+T33	Protein_part 689 703	residues 56-68
+T34	Protein 707 710	p50
+T35	Chemical 752 774	disulfide intermediate
+T36	Process 785 793	reaction
+T37	Process 794 801	pathway
+T38	Protein_part 816 834	NF kappa B peptide
+T39	Geometrical_part 868 873	cleft
+T40	Geometrical_part 881 888	surface
+T41	Organism 892 897	human
+T42	Chemical 898 909	thioredoxin
+T43	Protein_part 928 944	active-site loop
+T44	Protein 946 961	helices alpha 2
+T45	Protein 963 970	alpha 3
+T46	Protein 975 982	alpha 4
+T47	Protein_part 988 995	strands
+T48	Protein 996 1002	beta 3
+T49	Protein 1007 1013	beta 4
+T50	Protein_part 1019 1026	peptide
+T51	State 1050 1062	conformation
+T52	Value 1077 1088	110 degrees
+T53	Protein_part 1110 1120	residue 60
+T54	Geometrical_part 1164 1169	cleft
+T55	Chemical 1218 1234	disulfide bridge
+T56	Protein_part 1243 1248	Cys32
+T57	Organism 1252 1257	human
+T58	Chemical 1258 1269	thioredoxin
+T59	Protein_part 1274 1279	Cys62
+T60	Protein_part 1287 1294	peptide
+T61	Category 1300 1307	complex
+T62	Chemical 1334 1342	hydrogen
+T63	Process 1382 1394	interactions
+T64	Protein_part 1409 1423	residues 57-65
+T65	Protein_part 1431 1449	NF kappa B peptide
+T66	Category 1461 1470	substrate
+T67	Process 1548 1560	requirements
+T68	Organism 1565 1570	human
+T69	Chemical 1571 1582	thioredoxin
+T70	Chemical 1593 1607	disulfide bond
+T71	Process 1608 1617	reduction
+T72	Protein 1621 1629	proteins

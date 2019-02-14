@@ -1,0 +1,72 @@
+T1	Unknown 0 10	Structures
+T2	Body_part 14 24	Plasmodium
+T3	Body_part 25 35	falciparum
+T4	Protein 36 67	purine nucleoside phosphorylase
+T5	Chemical 83 90	sulfate
+T6	Category 107 116	substrate
+T7	Chemical 117 124	inosine
+T8	Chemical 126 132	Purine
+T9	Process 133 143	metabolism
+T10	Organism 151 159	parasite
+T11	Body_part 160 170	Plasmodium
+T12	Process 206 212	target
+T13	Technique 230 239	therapies
+T14	Protein 241 278	Purine nucleoside phosphorylase (PNP)
+T15	Process 301 308	pathway
+T16	Process 317 329	biosynthesis
+T17	Chemical 333 340	purines
+T18	Organism 366 374	parasite
+T19	Process 375 383	survival
+T20	Geometrical_part 389 407	crystal structures
+T21	Protein 411 449	PNP from Plasmodium falciparum (PfPNP)
+T22	Molecular_Part 463 469	groups
+T23	Protein 490 497	subunit
+T24	Unknown 546 555	structure
+T25	Value 568 573	2.4 A
+T26	Chemical 588 598	nucleoside
+T27	Protein_part 607 611	site
+T28	Chemical 618 629	sulfate ion
+T29	Chemical 643 652	phosphate
+T30	Geometrical_part 661 667	pocket
+T31	Unknown 681 690	structure
+T32	Value 703 708	2.0 A
+T33	Category 718 727	substrate
+T34	Chemical 728 735	inosine
+T35	Location 749 762	active centre
+T36	Unknown 764 773	Structure
+T37	Process 774 784	comparison
+T38	Process 793 804	alterations
+T39	Protein_part 812 823	active site
+T40	Category 829 835	ligand
+T41	Process 836 843	binding
+T42	Unknown 853 863	structures
+T43	Process 913 918	roles
+T44	Protein_part 922 928	Asp206
+T45	Geometrical_part 937 942	loops
+T46	Protein_part 956 967	active site
+T47	Protein 973 985	beta7-alpha6
+T48	Geometrical_part 986 990	loop
+T49	Protein_part 992 1000	residues
+T50	Protein 1032 1044	beta9-alpha8
+T51	Geometrical_part 1045 1049	loop
+T52	Protein_part 1051 1059	residues
+T53	Process 1084 1094	Comparison
+T54	Protein 1100 1103	PNP
+T55	Category 1107 1114	complex
+T56	State 1120 1136	transition-state
+T57	Category 1137 1147	inhibitors
+T58	Chemical 1166 1172	purine
+T59	Category 1173 1182	substrate
+T60	Chemical 1201 1210	phosphate
+T61	Category 1211 1220	substrate
+T62	State 1263 1279	transition state
+T63	Protein 1313 1318	PfPNP
+T64	Unknown 1319 1329	structures
+T65	Protein 1367 1372	PfPNP
+T66	Category 1382 1392	inhibitors
+T67	Unknown 1410 1420	structures
+T68	Process 1432 1437	basis
+T69	Category 1466 1472	ligand
+T70	Process 1473 1480	binding
+T71	Process 1485 1494	mechanism
+T72	Chemical 1556 1572	anti-PfPNP drugs

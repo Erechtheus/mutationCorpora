@@ -1,0 +1,49 @@
+T1	Unknown 0 9	Structure
+T2	Protein 28 59	enzyme L-methionine gamma-lyase
+T3	Organism 65 83	Pseudomonas putida
+T4	Value 87 92	1.8 A
+T5	Parameter 93 103	resolution
+T6	Protein 105 129	l-Methionine gamma-lyase
+T7	Protein 131 142	EC 4.4.1.11
+T8	Organism 157 175	Pseudomonas putida
+T9	Protein 197 203	enzyme
+T10	Unknown 226 238	gamma-family
+T11	Chemical 242 270	pyridoxal-5'-phosphate (PLP)
+T12	Protein 281 288	enzymes
+T13	Geometrical_part 330 357	three-dimensional structure
+T14	Process 403 424	molecular replacement
+T15	Parameter 438 446	R-factor
+T16	Value 450 455	20.4%
+T17	Value 459 464	1.8 A
+T18	Parameter 465 475	resolution
+T19	Unknown 513 522	structure
+T20	Chemical 581 584	PLP
+T21	Protein_part 602 607	Tyr59
+T22	Protein_part 612 617	Arg61
+T23	Protein 634 642	subunits
+T24	Protein 682 702	gamma-family enzymes
+T25	Chemical 716 725	phosphate
+T26	Molecular_Part 726 731	group
+T27	Chemical 735 738	PLP
+T28	Protein_part 746 754	residues
+T29	Geometrical_part 781 787	anchor
+T30	Protein_part 799 810	active site
+T31	Protein_part 812 818	Lys240
+T32	Protein_part 820 826	Asp241
+T33	Protein_part 831 836	Arg61
+T34	Protein 852 859	monomer
+T35	Protein_part 864 870	Tyr114
+T36	Protein_part 875 881	Cys116
+T37	Protein 903 910	monomer
+T38	Chemical 918 931	hydrogen-bond
+T39	Physiology 932 939	network
+T40	Protein_part 947 962	MGL active site
+T41	Protein_part 985 989	MGLs
+T42	Process 1031 1043	interactions
+T43	Protein 1051 1058	subunit
+T44	Process 1089 1102	stabilization
+T45	State 1121 1133	conformation
+T46	Unknown 1148 1157	structure
+T47	Process 1178 1189	development
+T48	Physiology 1206 1216	anticancer
+T49	Chemical 1217 1221	drug

@@ -1,0 +1,104 @@
+T1	Process 0 8	Mutation
+T2	Protein_part 12 24	arginine 228
+T3	Protein_part 28 34	lysine
+T4	Protein 48 67	glucosyltransferase
+T5	Parameter 68 76	activity
+T6	Organism 80 86	bovine
+T7	Protein 87 119	beta-1,4-galactosyltransferase I
+T8	Protein 121 167	Beta-1,4-galactosyltransferase I (beta4Gal-T1)
+T9	Process 177 186	transfers
+T10	Chemical 187 190	Gal
+T11	Chemical 196 203	UDP-Gal
+T12	Chemical 207 213	GlcNAc
+T13	Process 221 229	presence
+T14	Chemical 233 243	Mn(2+) ion
+T15	Chemical 245 250	Gal-T
+T16	Parameter 251 259	activity
+T17	Process 270 279	transfers
+T18	Chemical 280 283	Glc
+T19	Chemical 289 296	UDP-Glc
+T20	Chemical 300 306	GlcNAc
+T21	Chemical 308 313	Glc-T
+T22	Parameter 314 322	activity
+T23	Value 340 344	0.3%
+T24	Parameter 345 355	efficiency
+T25	Protein 370 392	alpha-lactalbumin (LA)
+T26	Unknown 407 412	Glc-T
+T27	Parameter 413 421	activity
+T28	Value 422 440	more than 25 times
+T29	Process 442 452	Comparison
+T30	Geometrical_part 460 478	crystal structures
+T31	Chemical 482 490	UDP-Gal-
+T32	Chemical 495 502	UDP-Glc
+T33	Protein 509 520	beta4Gal-T1
+T34	Chemical 538 549	O4 hydroxyl
+T35	Molecular_Part 550 555	group
+T36	Molecular_Part 564 567	Gal
+T37	Molecular_Part 572 575	Glc
+T38	Molecular_Part 576 584	moieties
+T39	Chemical 593 606	hydrogen bond
+T40	Protein_part 616 626	side chain
+T41	Chemical 627 638	carboxylate
+T42	Molecular_Part 639 644	group
+T43	Protein_part 648 654	Glu317
+T44	Process 660 671	orientation
+T45	Chemical 680 691	O4 hydroxyl
+T46	Chemical 695 702	glucose
+T47	Geometrical_part 712 718	steric
+T48	Protein_part 736 746	side chain
+T49	Chemical 747 758	carboxylate
+T50	Molecular_Part 759 764	group
+T51	Protein_part 768 774	Glu317
+T52	Unknown 795 803	enzyme's
+T53	Unknown 808 813	Glc-T
+T54	Parameter 814 822	activity
+T55	Process 852 860	mutation
+T56	Protein_part 864 870	Arg228
+T57	Protein_part 874 881	residue
+T58	Location 889 897	vicinity
+T59	Protein_part 901 907	Glu317
+T60	Protein_part 912 933	lysine (R228K-Gal-T1)
+T61	Value 947 954	15-fold
+T62	Unknown 962 967	Glc-T
+T63	Parameter 968 976	activity
+T64	Protein 1007 1009	LA
+T65	Value 1020 1023	25%
+T66	Unknown 1031 1036	Gal-T
+T67	Parameter 1037 1045	activity
+T68	Parameter 1069 1087	kinetic parameters
+T69	Process 1111 1117	effect
+T70	Process 1125 1133	mutation
+T71	Protein_part 1137 1143	Arg228
+T72	Protein_part 1147 1153	lysine
+T73	Parameter 1164 1170	k(cat)
+T74	Unknown 1174 1179	Glc-T
+T75	Value 1197 1205	3-4-fold
+T76	Process 1219 1226	absence
+T77	Process 1238 1246	presence
+T78	Protein 1250 1252	LA
+T79	Parameter 1274 1280	k(cat)
+T80	Unknown 1289 1294	Gal-T
+T81	Process 1295 1303	reaction
+T82	Value 1315 1322	30-fold
+T83	Geometrical_part 1328 1345	crystal structure
+T84	Protein 1349 1361	R228K-Gal-T1
+T85	Protein 1377 1379	LA
+T86	Chemical 1381 1388	UDP-Gal
+T87	Chemical 1394 1400	Mn(2+)
+T88	Value 1415 1420	1.9 A
+T89	Parameter 1421 1431	resolution
+T90	Protein_part 1447 1453	Asp318
+T91	Protein_part 1454 1464	side chain
+T92	State 1492 1504	conformation
+T93	State 1556 1568	conformation
+T94	Geometrical_part 1582 1588	steric
+T95	Chemical 1606 1617	O4 hydroxyl
+T96	Molecular_Part 1618 1623	group
+T97	Chemical 1631 1634	Gal
+T98	Molecular_Part 1635 1641	moiety
+T99	Chemical 1645 1652	UDP-Gal
+T100	Process 1675 1687	dissociation
+T101	Chemical 1691 1698	UDP-Gal
+T102	Parameter 1716 1722	k(cat)
+T103	Unknown 1730 1735	Gal-T
+T104	Process 1736 1744	reaction

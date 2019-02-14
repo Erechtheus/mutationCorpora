@@ -1,0 +1,98 @@
+T1	Category 17 24	complex
+T2	Chemical 32 38	purine
+T3	Protein 48 68	nucleoside hydrolase
+T4	Organism 72 80	T. vivax
+T5	Protein 82 88	enzyme
+T6	State 89 103	conformational
+T7	Process 104 111	changes
+T8	Process 116 128	implications
+T9	Process 133 142	catalysis
+T10	Protein 144 165	Nucleoside hydrolases
+T11	Chemical 177 194	N-glycosidic bond
+T12	Chemical 198 213	ribonucleosides
+T13	Geometrical_part 215 233	Crystal structures
+T14	Chemical 241 247	purine
+T15	Protein 257 277	nucleoside hydrolase
+T16	Organism 283 300	Trypanosoma vivax
+T17	Category 332 339	complex
+T18	Category 345 355	inhibitors
+T19	Category 361 370	substrate
+T20	Unknown 383 393	structures
+T21	Organism 411 419	T. vivax
+T22	Protein 420 440	nucleoside hydrolase
+T23	Protein_part 456 467	active site
+T24	Geometrical_part 491 495	loop
+T25	Geometrical_part 497 503	loop 2
+T26	Location 512 520	vicinity
+T27	Geometrical_part 543 561	crystal structures
+T28	Organism 569 577	T. vivax
+T29	Protein 578 598	nucleoside hydrolase
+T30	Unknown 617 632	TvNH-ImmH(soak)
+T31	Unknown 655 668	TvNH-ImmH(co)
+T32	State 670 686	transition-state
+T33	Category 687 696	inhibitor
+T34	Chemical 698 710	immucillin H
+T35	Chemical 712 716	ImmH
+T36	Chemical 720 784	(1S)-1-(9-deazahypoxanthin-9-yl)-1,4-dideoxy-1,4-imino-D-ribitol
+T37	Value 789 794	2.1 A
+T38	Value 799 804	2.2 A
+T39	Parameter 805 815	resolution
+T40	Unknown 854 863	structure
+T41	Geometrical_part 865 871	loop 2
+T42	Protein_part 902 913	active site
+T43	Process 967 979	interactions
+T44	Unknown 994 1003	structure
+T45	Chemical 1045 1051	purine
+T46	Protein_part 1061 1075	NH active site
+T47	Molecular_Part 1095 1100	group
+T48	Process 1101 1113	interactions
+T49	Protein_part 1129 1140	active site
+T50	Protein 1144 1157	water channel
+T51	Chemical 1176 1192	water  molecules
+T52	Protein_part 1212 1214	N7
+T53	Chemical 1222 1232	nucleoside
+T54	Chemical 1245 1252	solvent
+T55	Protein_part 1260 1266	Trp260
+T56	Geometrical_part 1304 1312	parallel
+T57	Process 1313 1321	stacking
+T58	Process 1322 1333	interaction
+T59	Process 1349 1360	mutagenesis
+T60	Unknown 1375 1384	structure
+T61	Process 1397 1406	mechanism
+T62	Molecular_Part 1418 1423	group
+T63	Process 1424 1434	activation
+T64	Chemical 1446 1450	acid
+T65	Process 1451 1460	catalysis
+T66	Protein 1478 1514	base-aspecific nucleoside hydrolases
+T67	Unknown 1529 1538	structure
+T68	Process 1582 1591	mechanism
+T69	Molecular_Part 1603 1608	group
+T70	Process 1609 1620	protonation
+T71	Organism 1628 1636	T. vivax
+T72	Protein 1637 1657	nucleoside hydrolase
+T73	Protein_part 1687 1693	Trp260
+T74	Chemical 1716 1737	O5'-H8C hydrogen bond
+T75	Parameter 1751 1754	pKa
+T76	Protein_part 1762 1764	N7
+T77	Process 1787 1798	protonation
+T78	Chemical 1802 1809	solvent
+T79	Process 1813 1822	mechanism
+T80	Geometrical_part 1836 1840	loop
+T81	Process 1841 1848	closure
+T82	Protein_part 1872 1892	active site residues
+T83	Process 1916 1926	comparison
+T84	Unknown 1941 1950	structure
+T85	Unknown 1976 1985	structure
+T86	Protein 2006 2011	dimer
+T87	Parameter 2022 2026	area
+T88	Value 2040 2043	40%
+T89	Process 2049 2056	closure
+T90	Geometrical_part 2060 2066	loop 2
+T91	Geometrical_part 2073 2079	loop 1
+T92	Protein 2087 2094	subunit
+T93	Geometrical_part 2112 2118	loop 2
+T94	Protein 2132 2139	subunit
+T95	Parameter 2154 2166	relationship
+T96	Geometrical_part 2179 2191	dimeric form
+T97	Protein 2199 2205	enzyme
+T98	Parameter 2224 2232	activity

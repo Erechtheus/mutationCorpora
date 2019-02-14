@@ -1,0 +1,94 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Protein 48 91	enzyme phosphoribosylanthranilate isomerase
+T3	Protein 93 125	indoleglycerolphosphate synthase
+T4	Organism 131 147	Escherichia coli
+T5	Value 159 165	2.0  A
+T6	Parameter 166 176	resolution
+T7	Geometrical_part 182 209	three-dimensional structure
+T8	Protein 240 327	enzyme N-(5'-phosphoribosyl)anthranilate isomerase:indole-3-glycerol-phosphate synthase
+T9	Organism 334 350	Escherichia coli
+T10	Value 371 376	2.0 A
+T11	Parameter 377 387	resolution
+T12	Process 395 406	oscillation
+T13	Process 443 452	radiation
+T14	Protein 486 493	protein
+T15	Protein_part 499 507	residues
+T16	Chemical 514 528	phosphate ions
+T17	Chemical 537 552	water molecules
+T18	Parameter 564 572	R-factor
+T19	Value 576 581	17.3%
+T20	Value 612 614	15
+T21	Value 619 622	2 A
+T22	Parameter 623 633	resolution
+T23	Parameter 639 666	root-mean-square deviations
+T24	Parameter 678 690	bond lengths
+T25	Parameter 695 706	bond angles
+T26	Value 711 718	0.010 A
+T27	Value 723 734	3.2 degrees
+T28	Geometrical_part 754 763	structure
+T29	Protein 767 810	N-(5'-phosphoribosyl)anthranilate isomerase
+T30	Protein 812 848	indole-3-glycerol-phosphate synthase
+T31	Organism 854 861	E. coli
+T32	Geometrical_part 876 893	beta/alpha-barrel
+T33	Protein_part 894 901	domains
+T34	Parameter 926 952	root-mean-square deviation
+T35	Value 956 962	2.03 A
+T36	Value 967 972	138 C
+T37	Protein_part 990 1007	C-terminal domain
+T38	Protein_part 1009 1021	residues 256
+T39	Protein_part 1025 1028	452
+T40	Protein_part 1044 1048	PRAI
+T41	Process 1049 1057	reaction
+T42	Protein_part 1066 1083	N-terminal domain
+T43	Protein_part 1085 1095	residues 1
+T44	Protein_part 1099 1102	255
+T45	Protein 1118 1122	IGPS
+T46	Process 1123 1131	reaction
+T47	Protein_part 1157 1167	tryptophan
+T48	Process 1168 1180	biosynthesis
+T49	Protein 1186 1192	enzyme
+T50	Geometrical_part 1209 1214	shape
+T51	Geometrical_part 1246 1253	surface
+T52	Parameter 1254 1258	area
+T53	Protein 1315 1333	monomeric proteins
+T54	Parameter 1342 1346	size
+T55	Protein_part 1352 1364	active sites
+T56	Protein_part 1372 1376	PRAI
+T57	Protein_part 1385 1397	IGPS domains
+T58	Protein_part 1419 1429	C-terminal
+T59	Location 1430 1434	side
+T60	Protein_part 1442 1461	central beta-barrel
+T61	Process 1482 1489	binding
+T62	Protein_part 1490 1495	sites
+T63	Chemical 1504 1513	phosphate
+T64	Molecular_Part 1514 1522	moieties
+T65	Category 1530 1540	substrates
+T66	Chemical 1541 1575	N-(5'-phosphoribosyl) anthranilate
+T67	Chemical 1580 1632	1-(o-carboxyphenylamino)-1-deoxyribulose-5-phosphate
+T68	Chemical 1644 1653	phosphate
+T69	Process 1654 1661	binding
+T70	Protein_part 1662 1667	sites
+T71	Geometrical_part 1725 1743	tertiary structure
+T72	Geometrical_part 1751 1768	beta/alpha-barrel
+T73	State 1774 1786	conformation
+T74	Protein_part 1794 1802	residues
+T75	Chemical 1815 1824	phosphate
+T76	Chemical 1842 1850	hydrogen
+T77	Physiology 1859 1866	network
+T78	Chemical 1879 1893	phosphate ions
+T79	Protein 1902 1909	protein
+T80	Protein_part 1915 1926	active site
+T81	Geometrical_part 1927 1935	cavities
+T82	Protein_part 1944 1951	domains
+T83	Chemical 2013 2029	anthranilic acid
+T84	Molecular_Part 2030 2038	moieties
+T85	Category 2046 2056	substrates
+T86	Process 2064 2076	similarities
+T87	Geometrical_part 2084 2103	tertiary structures
+T88	Protein_part 2112 2124	active sites
+T89	Protein_part 2136 2143	domains
+T90	Protein 2166 2246	N-(5'-phosphoribosyl)anthranilate isomerase:indole-3-glycerol-phosphate synthase
+T91	Organism 2252 2259	E. coli
+T92	Protein 2275 2279	gene
+T93	Process 2280 2291	duplication
+T94	Geometrical_part 2313 2330	beta/alpha-barrel

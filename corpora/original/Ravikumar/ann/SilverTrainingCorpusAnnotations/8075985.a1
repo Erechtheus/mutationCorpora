@@ -1,0 +1,57 @@
+T1	Protein 4 17	N-glycosidase
+T2	Process 18 27	mechanism
+T3	Body_part 31 39	ribosome
+T4	Protein 53 61	proteins
+T5	Geometrical_part 73 92	crystal  structures
+T6	Body_part 167 177	I ribosome
+T7	Protein 191 198	protein
+T8	Protein 212 219	protein
+T9	Process 220 229	synthesis
+T10	Protein_part 268 283	adenine residue
+T11	Geometrical_part 309 329	single-stranded loop
+T12	Protein 333 337	rRNA
+T13	Process 387 397	refinement
+T14	Geometrical_part 405 423	crystal structures
+T15	Unknown 427 436	alpha MMC
+T16	State 444 456	native state
+T17	Category 464 473	complexes
+T18	Category 483 490	product
+T19	Chemical 492 499	adenine
+T20	Category 507 516	substrate
+T21	Unknown 517 525	analogue
+T22	Chemical 527 558	formycin 5'-monophosphate (FMP)
+T23	Parameter 567 577	resolution
+T24	Chemical 584 591	adenine
+T25	Protein_part 600 604	base
+T26	Chemical 608 611	FMP
+T27	Chemical 635 641	ribose
+T28	Chemical 651 654	FMP
+T29	State 686 698	conformation
+T30	Category 710 715	mimic
+T31	Unknown 720 729	structure
+T32	State 737 753	transition state
+T33	Unknown 774 784	structures
+T34	Protein_part 799 813	residues Tyr70
+T35	Protein_part 815 821	Glu160
+T36	Protein_part 826 832	Arg163
+T37	Unknown 836 845	alpha MMC
+T38	Process 872 881	catalysis
+T39	State 912 924	conformation
+T40	Chemical 932 938	ribose
+T41	Process 946 952	target
+T42	Chemical 953 962	adenosine
+T43	Chemical 976 990	glycoside bond
+T44	Process 1000 1011	protonation
+T45	Protein_part 1024 1030	Arg163
+T46	Chemical 1048 1064	N-glycoside bond
+T47	Process 1065 1073	cleavage
+T48	Process 1090 1099	formation
+T49	Chemical 1106 1135	oxycarbonium ion intermediate
+T50	Protein_part 1182 1188	Glu160
+T51	Protein_part 1190 1195	Tyr70
+T52	Process 1210 1219	different
+T53	State 1220 1233	conformations
+T54	Unknown 1247 1257	structures
+T55	Category 1295 1304	substrate
+T56	Process 1305 1316	recognition
+T57	Process 1329 1338	catalysis

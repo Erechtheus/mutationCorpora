@@ -1,0 +1,103 @@
+T1	Process 0 5	Roles
+T2	Chemical 24 36	tyrosyl iron
+T3	Category 37 43	ligand
+T4	Protein 47 78	protocatechuate 3,4-dioxygenase
+T5	Process 82 91	catalysis
+T6	Protein_part 97 108	active site
+T7	Chemical 109 116	Fe(III)
+T8	Protein 120 161	protocatechuate 3,4-dioxygenase (3,4-PCD)
+T9	Organism 167 185	Pseudomonas putida
+T10	Protein_part 208 214	Tyr447
+T11	Protein_part 219 225	His462
+T12	Protein_part 246 252	Tyr408
+T13	Protein_part 254 260	His460
+T14	Chemical 266 271	OH(-)
+T15	Protein_part 273 279	Tyr447
+T16	Chemical 284 289	OH(-)
+T17	Chemical 307 322	protocatechuate
+T18	Chemical 324 345	3,4-dihydroxybenzoate
+T19	Chemical 347 350	PCA
+T20	Chemical 365 369	iron
+T21	Process 423 430	process
+T22	Protein_part 447 453	Tyr408
+T23	Protein 483 497	mutant enzymes
+T24	Value 521 525	0.1%
+T25	Parameter 526 544	wild-type activity
+T26	Technique 550 575	X-ray crystal  structures
+T27	Molecule 583 590	mutants
+T28	Chemical 601 604	PCA
+T29	Category 605 614	complexes
+T30	Protein_part 641 649	residues
+T31	Location 657 669	408 position
+T32	Chemical 688 692	iron
+T33	Chemical 723 727	iron
+T34	Chemical 736 744	solvents
+T35	Chemical 756 759	PCA
+T36	Chemical 771 782	monodentate
+T37	Chemical 797 806	bidentate
+T38	Category 807 813	ligand
+T39	Protein_part 819 825	Tyr447
+T40	Protein_part 864 872	residues
+T41	Location 876 888	position 408
+T42	Chemical 917 921	iron
+T43	Process 929 936	changes
+T44	Technique 944 957	spectroscopic
+T45	Parameter 972 982	properties
+T46	Protein 1003 1017	mutant enzymes
+T47	Technique 1019 1034	Resonance Raman
+T48	Chemical 1058 1067	Fe-O bond
+T49	Chemical 1075 1110	monodentate 4-hydroxybenzoate (4HB)
+T50	Category 1111 1120	inhibitor
+T51	Category 1121 1128	complex
+T52	Molecule 1162 1169	mutants
+T53	Protein 1178 1195	wild-type 3,4-PCD
+T54	Parameter 1207 1214	kinetic
+T55	Chemical 1233 1236	PCA
+T56	Chemical 1241 1244	4HB
+T57	Protein 1253 1260	3,4-PCD
+T58	Process 1316 1328	coordination
+T59	Chemical 1336 1341	metal
+T60	Process 1361 1368	process
+T61	Value 1381 1388	50-fold
+T62	Protein 1403 1417	mutant enzymes
+T63	Protein 1443 1460	wild-type 3,4-PCD
+T64	Chemical 1466 1476	Lewis base
+T65	Parameter 1477 1485	strength
+T66	Protein_part 1489 1495	Tyr408
+T67	Unknown 1508 1513	Lewis
+T68	Process 1514 1521	acidity
+T69	Chemical 1529 1533	iron
+T70	Process 1554 1562	exchange
+T71	Category 1574 1581	ligands
+T72	Process 1627 1635	increase
+T73	Unknown 1639 1644	Lewis
+T74	Process 1645 1652	acidity
+T75	Chemical 1660 1664	iron
+T76	Process 1675 1687	substitution
+T77	Protein_part 1696 1703	residue
+T78	Chemical 1707 1714	solvent
+T79	Chemical 1733 1737	iron
+T80	Process 1738 1750	substitution
+T81	Protein_part 1758 1764	Tyr447
+T82	Process 1793 1802	formation
+T83	Chemical 1826 1829	PCA
+T84	Category 1838 1845	complex
+T85	Protein_part 1855 1866	active site
+T86	Chemical 1867 1871	iron
+T87	Parameter 1881 1885	rate
+T88	Unknown 1913 1917	O(2)
+T89	Parameter 1926 1930	rate
+T90	Unknown 1953 1963	structures
+T91	Chemical 1971 1974	PCA
+T92	Category 1975 1984	complexes
+T93	Protein 1994 2008	mutant enzymes
+T94	Chemical 2019 2027	hydrogen
+T95	Process 2036 2048	interactions
+T96	Chemical 2065 2072	solvent
+T97	Category 2073 2079	ligand
+T98	Protein_part 2106 2113	residue
+T99	Location 2117 2129	position 408
+T100	Protein_part 2142 2149	residue
+T101	Technique 2181 2194	spectroscopic
+T102	Parameter 2199 2217	kinetic properties
+T103	Protein 2225 2232	enzymes

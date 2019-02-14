@@ -1,0 +1,67 @@
+T1	Protein 0 31	GTP cyclohydrolase II structure
+T2	Process 36 45	mechanism
+T3	Protein 47 68	GTP cyclohydrolase II
+T4	Chemical 78 81	GTP
+T5	Chemical 85 143	2,5-diamino-6-beta-ribosyl-4(3H)-pyrimidinone 5'-phosphate
+T6	Chemical 145 152	formate
+T7	Chemical 157 170	pyrophosphate
+T8	Chemical 190 200	riboflavin
+T9	Process 201 213	biosynthesis
+T10	Process 229 233	role
+T11	Chemical 237 247	riboflavin
+T12	Process 251 261	metabolism
+T13	Process 270 277	absence
+T14	Protein 281 302	GTP cyclohydrolase II
+T15	Organism 313 323	eukaryotes
+T16	Parameter 335 344	potential
+T17	Chemical 351 361	selective 
+T18	Organism 361 374	antimicrobial
+T19	Process 380 386	target
+T20	Protein 388 409	GTP cyclohydrolase II
+T21	Process 442 450	reaction
+T22	Protein 456 476	GTP cyclohydrolase I
+T23	Chemical 498 501	GTP
+T24	Chemical 505 534	dihydroneopterin triphosphate
+T25	Chemical 548 554	folate
+T26	Chemical 559 578	tetrahydrobiopterin
+T27	Process 579 591	biosynthesis
+T28	Geometrical_part 597 606	structure
+T29	Protein 610 631	GTP cyclohydrolase II
+T30	Value 646 652	1.54-A
+T31	Parameter 653 663	resolution
+T32	Process 679 688	different
+T33	Protein 689 696	protein
+T34	Protein 705 725	GTP cyclohydrolase I
+T35	Process 742 763	molecular recognition
+T36	Chemical 781 784	GTP
+T37	Protein 803 810	enzymes
+T38	Chemical 838 842	zinc
+T39	Chemical 848 876	GTP cyclohydrolase II.GMPCPP
+T40	Geometrical_part 885 894	structure
+T41	Protein_part 901 909	Arg(128)
+T42	Chemical 931 948	alpha-phosphonate
+T43	Chemical 974 977	GTP
+T44	Protein_part 979 987	Arg(128)
+T45	Chemical 1016 1027	nucleophile
+T46	Chemical 1032 1045	pyrophosphate
+T47	Process 1046 1053	release
+T48	Process 1058 1067	formation
+T49	Protein 1093 1136	guanylyl-GTP cyclohydrolase II intermediate
+T50	Protein_part 1138 1146	Tyr(105)
+T51	Process 1178 1182	role
+T52	Chemical 1186 1194	GTP ring
+T53	Process 1195 1202	opening
+T54	Chemical 1210 1218	hydrogen
+T55	Chemical 1233 1237	zinc
+T56	Chemical 1248 1262	water molecule
+T57	Chemical 1323 1339	guanine C-8 atom
+T58	Protein 1350 1370	GTP cyclohydrolase I
+T59	Protein 1375 1396	GTP cyclohydrolase II
+T60	Chemical 1408 1416	zinc ion
+T61	Chemical 1425 1433	GTP ring
+T62	Process 1434 1441	opening
+T63	Chemical 1446 1453	formate
+T64	Process 1454 1461	release
+T65	Process 1463 1472	different
+T66	Protein_part 1473 1481	residues
+T67	Process 1525 1533	reaction

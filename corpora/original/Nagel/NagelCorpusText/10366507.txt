@@ -1,0 +1,20 @@
+Lactoferrin is a monomeric glycoprotein with a molecular mass of approximately 80 kDa . 
+The three-dimensional structure of mare diferric lactoferrin (mlf) has been determined at 2.6 A resolution . 
+The protein crystallizes in the space group P 212121with a=85.2 A, b=99.5 A, c=103.1 A with a solvent content of 55 % (v/v) . 
+The structure was solved by the molecular replacement method using human diferric lactoferrin as the model . 
+The structure has been refined using XPLOR to a final R -factor of 0.194 for all data in the 15-2.6 A resolution range . 
+The amino acid sequence of mlf was determined using a cDNA method . 
+The final refined model comprises 5281 protein atoms, 2 Fe3+, 2 CO32-and 112 water molecules . 
+The overall folding of mlf is similar to that of other proteins of the transferrin family . 
+The protein folds into two globular lobes, N and C . 
+The lobes are further divided into two domains, N1 and N2, and C1 and C2 . 
+The iron-binding cleft is situated between the domains in each lobe . 
+The N lobe appears to be well ordered and is more stable than the C lobe in mlf unlike in other lactoferrins, where the C lobe is the more stable . 
+The opening of the binding cleft in the N lobe of mlf is narrower than those in other proteins of the transferrin family . 
+This is very unusual and is found only in mare lactoferrin . 
+Apart from certain hydrophobic interactions at the mouth of the cleft, one salt-bridge (Lys301 . . . . . . . . 
+Glu216) crosses between the two walls of the cleft . 
+The two lobes are connected covalently by a three-turn alpha-helix involving residues 334-344 . 
+The N lobe displays a highly ordered structure with appreciably low temperature factors . 
+The iron coordination is more symmetrical in the N lobe than in the C lobe . 
+There are only 16 intermolecular hydrogen bonds in the structure of mlf . 

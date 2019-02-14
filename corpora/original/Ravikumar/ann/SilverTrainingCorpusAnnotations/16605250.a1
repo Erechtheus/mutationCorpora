@@ -1,0 +1,103 @@
+T1	Unknown 0 9	Structure
+T2	Parameter 19 32	relationships
+T3	Organism 36 41	human
+T4	Chemical 42 53	glutathione
+T5	Protein 64 90	formaldehyde dehydrogenase
+T6	Process 92 96	Role
+T7	Protein_part 100 106	Glu-67
+T8	Protein_part 111 118	Arg-368
+T9	Process 126 145	catalytic mechanism
+T10	Chemical 151 167	active-site zinc
+T11	Organism 171 176	human
+T12	Chemical 177 188	glutathione
+T13	Protein 199 231	formaldehyde dehydrogenase (FDH)
+T14	Protein 242 250	coenzyme
+T15	Process 259 271	displacement
+T16	Process 286 298	coordination
+T17	Protein_part 321 338	glutamate residue
+T18	Protein_part 340 346	Glu-67
+T19	Process 380 384	role
+T20	Process 404 416	coordination
+T21	Chemical 424 440	active-site zinc
+T22	Protein_part 444 450	Glu-67
+T23	Protein 458 461	FDH
+T24	Protein 497 505	coenzyme
+T25	Process 506 518	interactions
+T26	Protein 549 556	enzymes
+T27	Protein_part 566 572	Glu-67
+T28	Protein_part 577 584	Arg-368
+T29	Protein_part 607 610	Leu
+T30	Unknown 612 622	Structures
+T31	Chemical 623 674	of FDH.adenosine 5'-diphosphate ribose (ADP-ribose)
+T32	Unknown 679 690	E67L.NAD(H)
+T33	Category 698 707	complexes
+T34	Parameter 725 746	Steady-state kinetics
+T35	Chemical 748 755	isotope
+T36	Process 756 763	effects
+T37	Technique 785 793	analysis
+T38	Protein 801 812	E67L enzyme
+T39	Protein_part 823 829	Glu-67
+T40	Category 860 870	substrates
+T41	Process 875 884	catalysis
+T42	Parameter 900 919	efficiency (V/K(m))
+T43	Protein 928 939	E67L enzyme
+T44	Process 943 952	reactions
+T45	Chemical 963 990	S-nitrosoglutathione (GSNO)
+T46	Chemical 992 1026	S-hydroxymethylglutathione (HMGSH)
+T47	Chemical 1031 1066	12-hydroxydodecanoic acid (12-HDDA)
+T48	Value 1072 1079	25 000-
+T49	Value 1081 1086	3000-
+T50	Value 1092 1100	180-fold
+T51	Protein 1135 1151	wild-type enzyme
+T52	Process 1164 1172	decrease
+T53	Parameter 1180 1190	efficiency
+T54	Chemical 1204 1208	GSNO
+T55	Chemical 1213 1218	HMGSH
+T56	Protein 1226 1237	E67L enzyme
+T57	Process 1277 1284	binding
+T58	Category 1294 1304	substrates
+T59	Protein 1313 1326	mutant enzyme
+T60	Chemical 1343 1350	12-HDDA
+T61	Process 1354 1362	decrease
+T62	Parameter 1370 1374	rate
+T63	Chemical 1378 1385	hydride
+T64	Process 1386 1394	transfer
+T65	Process 1435 1444	reduction
+T66	Parameter 1452 1462	efficiency
+T67	Process 1482 1491	catalysis
+T68	Protein 1499 1510	E67L enzyme
+T69	Process 1512 1519	Binding
+T70	Protein 1527 1535	coenzyme
+T71	Protein_part 1559 1565	Glu-67
+T72	Process 1566 1578	substitution
+T73	Process 1590 1602	displacement
+T74	Chemical 1610 1626	active-site zinc
+T75	Chemical 1634 1648	FDH.ADP-ribose
+T76	Category 1656 1663	complex
+T77	Process 1683 1693	disruption
+T78	Process 1701 1712	interaction
+T79	Protein_part 1721 1727	Glu-67
+T80	Protein_part 1732 1739	Arg-368
+T81	Process 1759 1771	displacement
+T82	Chemical 1775 1791	active-site zinc
+T83	Parameter 1793 1800	Kinetic
+T84	Protein 1818 1830	R368L enzyme
+T85	Process 1857 1861	role
+T86	Protein_part 1865 1872	Arg-368
+T87	Process 1883 1890	binding
+T88	Protein 1898 1906	coenzyme
+T89	Process 1911 1924	isomerization
+T90	Category 1932 1947	ternary complex
+T91	Chemical 1955 1962	hydride
+T92	Process 1963 1971	transfer
+T93	Parameter 1991 1998	kinetic
+T94	Process 1999 2006	pathway
+T95	Chemical 2010 2015	HMGSH
+T96	Process 2039 2046	binding
+T97	Protein 2054 2062	coenzyme
+T98	Protein_part 2070 2085	FDH active site
+T99	State 2121 2133	conformation
+T100	Protein 2141 2149	coenzyme
+T101	Protein 2164 2172	subunits
+T102	Unknown 2180 2191	E67L.NAD(H)
+T103	Category 2199 2206	complex

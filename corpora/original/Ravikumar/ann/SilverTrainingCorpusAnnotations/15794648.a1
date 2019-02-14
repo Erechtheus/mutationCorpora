@@ -1,0 +1,72 @@
+T1	Technique 11 19	analysis
+T2	Protein_part 23 36	threonine 342
+T3	Molecule 37 44	mutants
+T4	Organism 48 55	soybean
+T5	Protein 56 68	beta-amylase
+T6	Process 70 74	role
+T7	State 80 94	conformational
+T8	Process 95 101	change
+T9	Location 109 114	inner
+T10	Geometrical_part 115 119	loop
+T11	Process 127 146	catalytic mechanism
+T12	Process 152 161	different
+T13	State 162 175	conformations
+T14	Location 183 188	inner
+T15	Geometrical_part 189 193	loop
+T16	Protein_part 195 211	residues 340-346
+T17	Organism 237 244	soybean
+T18	Protein 245 257	beta-amylase
+T19	Geometrical_part 258 268	structures
+T20	Protein_part 297 304	Thr 342
+T21	Protein_part 305 312	residue
+T22	Chemical 321 335	hydrogen bonds
+T23	Protein_part 341 348	Glu 186
+T24	Chemical 350 364	catalytic acid
+T25	Protein_part 379 395	glucose residues
+T26	Protein_part 399 410	subsites -1
+T27	Process 441 453	interactions
+T28	Parameter 499 511	relationship
+T29	State 535 541	states
+T30	Location 549 554	inner
+T31	Geometrical_part 555 559	loop
+T32	Process 568 587	catalytic mechanism
+T33	Protein_part 589 596	Thr 342
+T34	Protein_part 612 615	Val
+T35	Protein_part 617 620	Ser
+T36	Protein_part 627 630	Ala
+T37	Geometrical_part 656 674	crystal structures
+T38	Chemical 690 697	maltose
+T39	Protein 744 750	enzyme
+T40	Value 754 765	1.27-1.64 A
+T41	Process 766 777	resolutions
+T42	Parameter 783 796	k(cat) values
+T43	Protein_part 804 809	T342V
+T44	Protein_part 811 816	T342S
+T45	Protein_part 822 835	T342A mutants
+T46	Value 849 852	13-
+T47	Value 854 858	360-
+T48	Value 865 874	1700-fold
+T49	Protein 914 930	wild-type enzyme
+T50	Location 944 949	inner
+T51	Geometrical_part 950 955	loops
+T52	Chemical 963 980	wild-type/maltose
+T53	Chemical 985 998	T342V/maltose
+T54	Category 999 1008	complexes
+T55	Category 1021 1028	product
+T56	Chemical 1048 1061	T342S/maltose
+T57	Chemical 1066 1079	T342A/maltose
+T58	Category 1080 1089	complexes
+T59	Technique 1122 1130	analyses
+T60	Protein_part 1150 1160	side chain
+T61	Protein_part 1164 1171	Thr 342
+T62	Category 1175 1182	product
+T63	Process 1207 1211	role
+T64	Chemical 1230 1240	sugar ring
+T65	Protein_part 1244 1254	subsite -1
+T66	Protein_part 1293 1300	Glu 186
+T67	Protein_part 1319 1334	glucose residue
+T68	Category 1352 1361	substrate
+T69	Protein_part 1365 1372	subsite
+T70	Protein_part 1426 1431	T342V
+T71	Protein 1472 1482	multichain
+T72	Protein 1528 1544	wild-type enzyme

@@ -1,0 +1,66 @@
+T1	Process 11 18	insight
+T2	Protein 28 75	DNA polymerase beta deoxyribose phosphate lyase
+T3	Process 76 85	mechanism
+T4	Protein 121 128	genetic
+T5	Process 159 170	involvement
+T6	Protein 174 204	DNA polymerase beta (Pol beta)
+T7	Organism 208 217	mammalian
+T8	Protein 218 244	base excision repair (BER)
+T9	Protein 246 254	Pol beta
+T10	Protein 271 274	BER
+T11	Parameter 308 315	filling
+T12	Molecule 316 319	DNA
+T13	Process 321 330	synthesis
+T14	Protein 335 340	lyase
+T15	Process 341 348	removal
+T16	Chemical 356 386	5'-deoxyribose phosphate (dRP)
+T17	Molecular_Part 387 392	group
+T18	Protein_part 418 422	site
+T19	Process 449 458	mechanism
+T20	Protein 466 475	dRP lyase
+T21	Process 476 484	reaction
+T22	Geometrical_part 521 538	crystal structure
+T23	Protein 542 550	Pol beta
+T24	Chemical 569 584	-phosphorylated
+T25	Chemical 592 605	sugar analogs
+T26	State 609 615	nicked
+T27	Molecule 616 619	DNA
+T28	Molecule 626 629	DNA
+T29	Category 630 636	ligand
+T30	Protein 661 677	BER intermediate
+T31	Geometrical_part 683 700	crystal structure
+T32	Chemical 718 721	dRP
+T33	Molecular_Part 722 727	group
+T34	Process 756 763	binding
+T35	Protein_part 764 768	site
+T36	Chemical 784 795	nucleophile
+T37	Protein 803 812	dRP lyase
+T38	Process 813 821	reaction
+T39	Protein_part 823 828	Lys72
+T40	Parameter 844 853	potential
+T41	Chemical 864 876	nucleophiles
+T42	Chemical 940 943	C1'
+T43	Chemical 951 956	sugar
+T44	Chemical 986 989	dRP
+T45	Molecular_Part 990 995	group
+T46	Process 1012 1029	catalytic binding
+T47	Protein_part 1030 1034	site
+T48	Process 1051 1059	rotation
+T49	Value 1063 1074	120 degrees
+T50	Chemical 1085 1101	dRP 3'-phosphate
+T51	Protein_part 1130 1149	epsilon-amino Lys72
+T52	Chemical 1163 1166	dRP
+T53	Chemical 1167 1170	C1'
+T54	Protein_part 1216 1227	side chains
+T55	Protein 1262 1266	beta
+T56	Process 1279 1287	reaction
+T57	Technique 1305 1324	mutational analysis
+T58	Protein_part 1332 1340	residues
+T59	Protein 1348 1357	dRP lyase
+T60	Protein_part 1358 1369	active site
+T61	Category 1391 1400	substrate
+T62	Chemical 1401 1404	dRP
+T63	Process 1453 1460	binding
+T64	State 1461 1473	conformation
+T65	Protein 1485 1494	dRP lyase
+T66	Parameter 1495 1503	activity

@@ -1,0 +1,262 @@
+10089511	Mutation	4	8	Glu	92	Lys	E92K
+10089511	Mutation	31	35	Glu	92	Lys	E92K
+10089511	Mutation	58	62	Glu	92	Lys	E92K
+10089511	AminoAcidResidue	85	90	Lys	92		Lys92
+10089511	AminoAcidResidue	113	118	Asp	26		Asp26
+10089511	Mutation	141	145	Glu	92	Lys	E92K
+10366507	AminoAcidResidue	4	10	Lys	301		Lys301
+10366507	AminoAcidResidue	33	39	Glu	216		Glu216
+10462474	Mutation	4	13	His	43	Asp	His43-Asp
+10462474	AminoAcidResidue	10	15	Asp	88		Asp88
+10462474	AminoAcidResidue	16	22	Ser	182		Ser182
+10655617	AminoAcidResidue	4	11	Ser	124		Ser 124
+10655617	AminoAcidResidue	34	41	Glu	228		Glu 228
+10655617	AminoAcidResidue	64	71	His	260		His 260
+10655617	AminoAcidResidue	94	100	Leu	40		Leu 40
+10655617	AminoAcidResidue	123	130	Met	125		Met 125
+10751408	AminoAcidResidue	4	12	Arg	271		Arg(271)
+10751408	AminoAcidResidue	35	43	Arg	292		Arg(292)
+10751408	AminoAcidResidue	66	74	Asp	297		Asp(297)
+10751408	AminoAcidResidue	97	105	Lys	413		Lys(413)
+10751408	AminoAcidResidue	128	136	Lys	382		Lys(382)
+10751408	AminoAcidResidue	159	167	Arg	431		Arg(431)
+10751408	AminoAcidResidue	190	198	Arg	271		Arg(271)
+10751408	AminoAcidResidue	221	229	Lys	413		Lys(413)
+10751408	Mutation	252	257	Arg	271	Leu	R271L
+10751408	Mutation	280	285	Lys	413	Gln	K413Q
+10751408	Mutation	308	313	Lys	413	Gln	K413Q
+10751408	Mutation	336	341	Arg	271	Leu	R271L
+10751408	AminoAcidResidue	364	372	Arg	292		Arg(292)
+10751408	AminoAcidResidue	395	403	Asp	297		Asp(297)
+10751408	Mutation	426	431	Arg	292	Asp	R292D
+10751408	Mutation	454	459	Asp	297	Arg	D297R
+10751408	Mutation	482	487	Arg	292	Asp	R292D
+10751408	Mutation	510	515	Arg	292	Asp	R292D
+10751408	Mutation	538	543	Lys	382	Gln	K382Q
+10751408	Mutation	566	571	Arg	431	Glu	R431E
+10751408	Mutation	594	599	Arg	431	Glu	R431E
+10751408	Mutation	622	627	Lys	382	Gln	K382Q
+10751408	AminoAcidResidue	650	658	Lys	382		Lys(382)
+10751410	AminoAcidResidue	38	74	Cys	73		Cys residues at positions 73 and 152
+10751410	AminoAcidResidue	38	74	Cys	152		Cys residues at positions 73 and 152
+10751410	AminoAcidResidue	97	104	Cys	48		Cys(48)
+10751410	AminoAcidResidue	162	169	Cys	48		Cys(48)
+10751410	AminoAcidResidue	192	199	Cys	48		Cys(48)
+10751410	AminoAcidResidue	222	230	Cys	152		Cys(152)
+10751410	AminoAcidResidue	253	260	Cys	48		Cys(48)
+10751410	AminoAcidResidue	283	291	Cys	152		Cys(152)
+10751410	AminoAcidResidue	314	321	Cys	73		Cys(73)
+10751410	AminoAcidResidue	344	351	Cys	48		Cys(48)
+10787409	AminoAcidResidue	4	11	Gly	14		Gly(14)
+10787409	AminoAcidResidue	15	22	Asp	14		Asp(14)
+10787409	AminoAcidResidue	45	53	Glu	231		Glu(231)
+10787409	AminoAcidResidue	57	65	Lys	231		Lys(231)
+10787409	Mutation	88	92	Gly	14	Asp	G14D
+10787409	Mutation	115	120	Glu	231	Lys	E231K
+10787409	Mutation	143	148	His	153	Gln	H153Q
+10787409	Mutation	171	176	His	209	Gln	H209Q
+10787409	Mutation	199	204	His	257	Gln	H257Q
+10787409	Mutation	227	231	Gly	14	Asp	G14D
+10787409	Mutation	254	259	Glu	231	Lys	E231K
+10787409	Mutation	282	287	His	153	Gln	H153Q
+10787409	Mutation	310	315	His	209	Gln	H209Q
+10787409	Mutation	338	343	His	257	Gln	H257Q
+10787409	AminoAcidResidue	366	374	Glu	231		Glu(231)
+10787409	AminoAcidResidue	397	405	His	153		His(153)
+10787409	AminoAcidResidue	428	436	His	209		His(209)
+10787409	AminoAcidResidue	459	467	His	257		His(257)
+11108838	AminoAcidResidue	4	11	Tyr	985		Tyr-985
+11108838	AminoAcidResidue	34	42	Tyr	1077		Tyr-1077
+11456298	Mutation	4	11	Thr	10191	Cys	T10191C
+11468288	AminoAcidResidue	4	11	His	455		His-455
+11468288	AminoAcidResidue	34	41	His	455		His-455
+11468288	AminoAcidResidue	64	71	His	455		His-455
+11468288	AminoAcidResidue	94	101	His	455		His-455
+11468288	AminoAcidResidue	124	130	Lys	22		Lys-22
+11468288	AminoAcidResidue	153	159	Arg	92		Arg-92
+11468288	AminoAcidResidue	182	189	Asp	321		Asp-321
+11468288	AminoAcidResidue	212	219	Glu	323		Glu-323
+11468288	AminoAcidResidue	242	249	Gln	335		Gln-335
+11468288	AminoAcidResidue	272	279	Arg	337		Arg-337
+11468288	AminoAcidResidue	302	309	Glu	279		Glu-279
+11468288	AminoAcidResidue	332	339	Asp	280		Asp-280
+11468288	AminoAcidResidue	362	369	Arg	135		Arg-135
+11468288	AminoAcidResidue	392	399	Thr	253		Thr-253
+11468288	AminoAcidResidue	422	429	Gln	240		Gln-240
+11468288	AminoAcidResidue	452	458	Lys	22		Lys-22
+11468288	AminoAcidResidue	481	487	Arg	92		Arg-92
+11468288	Mutation	510	524	Gly	101	Met	Gly-101 to Met
+11468288	AminoAcidResidue	521	528	Met	103		Met-103
+11468288	AminoAcidResidue	551	558	Arg	337		Arg-337
+11468288	AminoAcidResidue	581	588	Asp	321		Asp-321
+11468288	AminoAcidResidue	611	618	Glu	323		Glu-323
+11468288	AminoAcidResidue	641	648	Gln	335		Gln-335
+11468288	AminoAcidResidue	671	678	Glu	279		Glu-279
+11468288	AminoAcidResidue	701	708	Asp	280		Asp-280
+11468288	AminoAcidResidue	731	738	Arg	135		Arg-135
+11588040	Mutation	4	13	Cys	560	Arg	Cys560Arg
+11865061	AminoAcidResidue	4	13	Ser	15		serine 15
+11865061	AminoAcidResidue	36	45	Ser	15		serine 15
+11889032	AminoAcidResidue	4	10	Phe	351		Phe351
+12050193	Mutation	4	9	Arg	389	Gly	R389G
+12050193	Mutation	32	37	Leu	343	Phe	L343F
+12050193	Mutation	60	65	Glu	189	Gly	E189G
+12123530	Mutation	4	8	His	14	Cys	H14C
+12123530	Mutation	31	36	Ala	111	Val	A111V
+12123530	Mutation	59	64	Ala	113	Thr	A113T
+12123530	Mutation	87	92	Asp	259	Thr	D259T
+12123530	Mutation	115	120	Ala	379	Glu	A379E
+12123530	Mutation	143	148	Cys	132	Cys	C132C
+12123530	Mutation	171	176	Gln	199	Gln	Q199Q
+12123530	Mutation	199	204	His	225	His	H225H
+12123530	Mutation	227	232	Val	247	Val	V247V
+12123530	Mutation	255	260	Pro	264	Pro	P264P
+12123530	Mutation	283	288	Thr	288	Thr	T288T
+12123530	Mutation	311	316	Leu	293	Leu	L293L
+12123582	AminoAcidResidue	73	82	Lys	79		lysine 79
+12135491	AminoAcidResidue	4	9	Thr	13		Thr13
+12135491	AminoAcidResidue	32	37	Ser	19		Ser19
+12135491	AminoAcidResidue	60	65	Thr	13		Thr13
+12135491	AminoAcidResidue	88	93	Ser	19		Ser19
+12135491	AminoAcidResidue	116	121	Thr	13		Thr13
+12135491	AminoAcidResidue	144	149	Ser	19		Ser19
+12135491	AminoAcidResidue	172	177	Thr	13		Thr13
+12135491	AminoAcidResidue	200	205	Ser	19		Ser19
+12147465	AminoAcidResidue	4	10	Asp	123		Asp123
+12147465	AminoAcidResidue	33	39	His	279		His279
+12147465	AminoAcidResidue	62	68	Asp	250		Asp250
+12147465	AminoAcidResidue	91	96	Glu	55		Glu55
+12147465	AminoAcidResidue	119	125	Trp	124		Trp124
+12147465	AminoAcidResidue	148	154	Trp	124		Trp124
+12617724	AminoAcidResidue	4	11	Ser	36		Ser(36)
+12617724	AminoAcidResidue	38	46	Trp	256		Trp(256)
+12617724	AminoAcidResidue	117	125	Glu	127		Glu(127)
+12617724	AminoAcidResidue	148	156	Glu	128		Glu(128)
+12617724	AminoAcidResidue	219	226	Gly	81		Gly(81)
+12617724	AminoAcidResidue	249	256	Tyr	80		Tyr(80)
+12617724	AminoAcidResidue	310	318	Glu	190		Glu(190)
+12845333	Mutation	4	9	Gly	296	Ser	G296S
+12906824	AminoAcidResidue	4	9	Gly	43		Gly43
+12906824	AminoAcidResidue	32	37	Ser	61		Ser61
+12906824	AminoAcidResidue	60	65	Gly	63		Gly63
+12906824	AminoAcidResidue	88	93	Gly	66		Gly66
+12906824	AminoAcidResidue	116	122	Phe	230		Phe230
+12906824	AminoAcidResidue	145	151	Asn	258		Asn258
+12906824	AminoAcidResidue	174	179	Asn	59		Asn59
+12906824	AminoAcidResidue	202	208	Ala	179		Ala179
+12906824	AminoAcidResidue	231	237	Ala	180		Ala180
+12906824	AminoAcidResidue	260	266	Asp	183		Asp183
+12906824	AminoAcidResidue	289	294	Arg	55		Arg55
+12953119	AminoAcidResidue	39	46	Cys	260		Cys-260
+12953119	AminoAcidResidue	69	76	Cys	266		Cys-266
+14596598	AminoAcidResidue	4	10	Ser	60		Ser-60
+14596598	AminoAcidResidue	41	47	Ser	60		Ser-60
+14596599	AminoAcidResidue	42	48	Cys	303		Cys303
+14722103	Mutation	4	8	Glu	50	Ala	E50A
+14722103	Mutation	31	35	Glu	51	Ala	E51A
+14722103	Mutation	58	62	Glu	50	Ala	E50A
+14722103	Mutation	85	89	Ile	54	Ala	I54A
+14722103	Mutation	112	116	Glu	51	Ala	E51A
+14722103	Mutation	139	143	Ile	55	Ala	I55A
+14722103	Mutation	166	170	Glu	50	Ala	E50A
+14722103	Mutation	193	197	Glu	50	Ala	E50A
+14722103	Mutation	220	224	Ile	54	Ala	I54A
+14722116	AminoAcidResidue	69	77	Tyr	136		Tyr(136)
+14722116	AminoAcidResidue	100	108	Tyr	193		Tyr(193)
+14722116	AminoAcidResidue	131	139	Tyr	233		Tyr(233)
+15299853	AminoAcidResidue	4	9	Glu	90		Glu90
+15299853	AminoAcidResidue	14	19	Asp	90		Asp90
+15299879	AminoAcidResidue	4	9	His	35		His35
+15299879	AminoAcidResidue	32	37	His	83		His83
+15299879	AminoAcidResidue	60	65	His	35		His35
+16438971	AminoAcidResidue	4	10	Thr	105		Thr105
+16438971	AminoAcidResidue	33	39	Ser	107		Ser107
+16438995	AminoAcidResidue	30	35	Gln	45		Gln45
+16438995	AminoAcidResidue	58	63	Asp	46		Asp46
+1740104	AminoAcidResidue	4	9	Gly	17		Gly17
+1764064	AminoAcidResidue	4	11	Tyr	499		Tyr-499
+17646876	AminoAcidResidue	65	70	Ser	70		Ser70
+17646876	AminoAcidResidue	93	98	Ser	76		Ser76
+17646876	AminoAcidResidue	121	126	Ser	75		Ser75
+17646876	AminoAcidResidue	149	154	Ser	73		Ser73
+17646876	AminoAcidResidue	177	182	Ser	18		Ser18
+17646876	AminoAcidResidue	205	210	Ser	26		Ser26
+17646876	AminoAcidResidue	233	238	Ser	18		Ser18
+17646876	AminoAcidResidue	261	266	Ser	18		Ser18
+17646876	AminoAcidResidue	289	294	Ser	26		Ser26
+17646876	AminoAcidResidue	317	322	Ser	75		Ser75
+2903146	AminoAcidResidue	85	92	Lys	175		Lys-175
+2903146	AminoAcidResidue	219	226	Lys	175		Lys-175
+2903164	AminoAcidResidue	4	14	Leu	16		leucine 16
+7523419	AminoAcidResidue	39	45	Ser	52		ser-52
+7523419	AminoAcidResidue	68	74	Ser	52		Ser-52
+7523419	AminoAcidResidue	97	103	Ser	52		ser-52
+7523419	AminoAcidResidue	135	141	Ser	52		ser-52
+7523419	AminoAcidResidue	164	170	Ser	52		ser-52
+7559441	Mutation	3	42	Ser	97	Pro	substitutes Ser for Pro at position 97
+7559447	AminoAcidResidue	35	41	Arg	66		Arg-66
+7559447	AminoAcidResidue	64	70	Glu	70		Glu-70
+7559447	AminoAcidResidue	93	100	Arg	200		Arg-200
+7559447	AminoAcidResidue	123	130	Asp	254		Asp-254
+7559447	AminoAcidResidue	153	160	Asp	255		Asp-255
+7559447	AminoAcidResidue	183	190	Asp	276		Asp-276
+7559447	AminoAcidResidue	213	219	His	35		His-35
+7559447	AminoAcidResidue	242	248	His	48		His-48
+7608974	AminoAcidResidue	45	51	Ser	164		Ser164
+7608974	AminoAcidResidue	74	80	His	190		His190
+7608974	AminoAcidResidue	103	109	Asp	286		Asp286
+7608980	AminoAcidResidue	4	9	Tyr	74		Tyr74
+7800485	AminoAcidResidue	4	15	Tyr	85		tyrosine 85
+7800485	AminoAcidResidue	38	44	Tyr	85		Tyr 85
+7800485	AminoAcidResidue	48	54	Ser	85		Ser 85
+7836410	AminoAcidResidue	44	49	Cys	65		Cys65
+7836410	AminoAcidResidue	72	77	Cys	65		Cys65
+7836410	AminoAcidResidue	100	105	Ala	89		Ala89
+7836410	AminoAcidResidue	128	133	Cys	65		Cys65
+7836410	AminoAcidResidue	156	161	Cys	65		Cys65
+7909851	AminoAcidResidue	187	192	Cys	39		Cys39
+7909851	Mutation	215	219	Cys	39	Ser	C39S
+7909851	Mutation	321	325	Cys	39	Ser	C39S
+7920253	AminoAcidResidue	4	36	Cys	275		cysteine residue at position 275
+7920253	AminoAcidResidue	45	77	Lys	275		lysine residues, at positions 219
+8035042	AminoAcidResidue	54	59	Asp	87		Asp87
+8035042	AminoAcidResidue	82	87	Glu	88		Glu88
+8035042	AminoAcidResidue	110	115	Asp	90		Asp90
+8108425	AminoAcidResidue	4	8	His	5		His5
+8108425	AminoAcidResidue	31	35	Trp	7		Trp7
+8108425	AminoAcidResidue	58	62	Tyr	8		Tyr8
+8108425	AminoAcidResidue	131	135	His	5		His5
+8108425	AminoAcidResidue	158	162	Trp	7		Trp7
+8108425	AminoAcidResidue	185	189	Tyr	8		Tyr8
+8216207	AminoAcidResidue	42	48	Ser	474		Ser474
+8216207	AminoAcidResidue	71	77	Ser	472		Ser472
+8216207	Mutation	100	123	Ser	472	Glu	Ser472 to glutamic acid
+8216207	AminoAcidResidue	146	152	Ser	474		Ser474
+8216207	AminoAcidResidue	223	229	Ser	474		Ser474
+8216207	AminoAcidResidue	281	287	Ser	474		Ser474
+9003414	Mutation	4	14	Lys	253	Ala	Lys253-Ala
+9003414	AminoAcidResidue	11	17	Ala	254		Ala254
+9003450	AminoAcidResidue	4	9	Leu	22		Leu22
+9135118	AminoAcidResidue	4	10	Asp	392		Asp392
+9135118	AminoAcidResidue	33	39	Asp	395		Asp395
+9135118	AminoAcidResidue	62	68	Glu	359		Glu359
+9135120	AminoAcidResidue	4	9	Asn	67		Asn67
+9135122	AminoAcidResidue	48	52	Arg	8		Arg8
+9135122	AminoAcidResidue	75	80	Trp	36		Trp36
+9328482	Mutation	4	8	Trp	77	Arg	W77R
+9605316	AminoAcidResidue	4	10	Arg	659		Arg659
+9605316	AminoAcidResidue	33	39	Lys	663		Lys663
+9605316	AminoAcidResidue	62	68	Arg	587		Arg587
+9605316	AminoAcidResidue	91	97	His	639		His639
+9605316	AminoAcidResidue	120	126	Gln	613		Gln613
+9617436	Mutation	4	9	Trp	612	Cys	W612C
+9617436	Mutation	32	37	Trp	612	Cys	W612C
+9833038	AminoAcidResidue	4	26	Lys	493		lysine in position 493
+9833038	Mutation	49	54	Glu	493	Lys	E493K
+9833038	Mutation	77	82	Gln	187	Pro	Q187P
+9833038	Mutation	105	110	Thr	485	Pro	T485P
+9833038	Mutation	133	138	Leu	490	Pro	L490P
+9833038	Mutation	161	166	Glu	493	Asp	E493D
+9833038	Mutation	189	194	Glu	493	Lys	E493K
+9833038	Mutation	217	222	Glu	494	Lys	E494K
+9857012	AminoAcidResidue	4	11	Tyr	196		Tyr-196

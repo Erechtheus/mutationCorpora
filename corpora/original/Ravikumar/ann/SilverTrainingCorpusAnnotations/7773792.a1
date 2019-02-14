@@ -1,0 +1,46 @@
+T1	Process 11 16	basis
+T2	Chemical 20 24	drug
+T3	Parameter 25 35	resistance
+T4	Protein_part 44 55	V82A mutant
+T5	Organism 59 64	HIV-1
+T6	Protein 65 75	proteinase
+T7	Process 100 111	development
+T8	Physiology 115 124	antiviral
+T9	Technique 125 134	therapies
+T10	Physiology 139 143	AIDS
+T11	Process 157 166	emergence
+T12	Chemical 170 174	drug
+T13	Parameter 175 185	resistance
+T14	Technique 200 208	analysis
+T15	Geometrical_part 216 225	structure
+T16	Protein_part 231 237	Val 82
+T17	Protein_part 242 245	Ala
+T18	Molecule 246 252	mutant
+T19	Organism 256 261	HIV-1
+T20	Protein 262 272	proteinase
+T21	Molecule 286 293	A-77003
+T22	Geometrical_part 297 308	C2 symmetry
+T23	Category 315 324	inhibitor
+T24	Protein_part 363 367	V82A
+T25	Process 368 376	mutation
+T26	Unknown 403 417	van der Waals'
+T27	Process 418 430	interactions
+T28	Chemical 440 446	phenyl
+T29	Geometrical_part 447 452	rings
+T30	Molecule 456 463	A-77003
+T31	Protein_part 472 474	S1
+T32	Protein_part 479 491	S1' subsites
+T33	Process 504 518	rearrangements
+T34	Protein 526 533	protein
+T35	Category 590 599	inhibitor
+T36	Chemical 604 616	enzyme atoms
+T37	Protein_part 624 626	S1
+T38	Protein_part 639 650	S1' subsite
+T39	Technique 657 665	analysis
+T40	Process 678 688	importance
+T41	Protein 692 698	enzyme
+T42	Process 738 745	packing
+T43	Process 746 758	arrangements
+T44	Category 799 809	inhibitors
+T45	Chemical 822 826	drug
+T46	Unknown 837 845	variants

@@ -1,0 +1,74 @@
+T1	Protein 0 12	Drug-protein
+T2	Process 13 25	interactions
+T3	Unknown 35 45	structures
+T4	Chemical 55 71	sulfonamide drug
+T5	Category 72 81	complexes
+T6	Protein 85 118	human carbonic anhydrase I enzyme
+T7	Chemical 136 153	sulfonamide drugs
+T8	Physiology 184 193	disorders
+T9	Process 195 205	Inhibition
+T10	Protein 209 227	carbonic anhydrase
+T11	Protein 228 234	enzyme
+T12	Process 292 299	effects
+T13	Unknown 301 311	Structures
+T14	Chemical 326 343	sulfonamide drugs
+T15	Protein 357 397	human carbonic anhydrase I enzyme (HCAI)
+T16	Value 430 433	2 A
+T17	Parameter 434 444	resolution
+T18	Chemical 468 482	drug molecules
+T19	Protein_part 504 515	active site
+T20	Protein 523 529	enzyme
+T21	Process 557 568	differences
+T22	Process 576 588	orientations
+T23	Chemical 596 605	sulfamido
+T24	Molecular_Part 606 612	groups
+T25	Chemical 644 652	zinc ion
+T26	Protein_part 660 671	active site
+T27	Parameter 678 686	activity
+T28	Chemical 694 710	solvent molecule
+T29	Chemical 726 730	zinc
+T30	Protein 745 751	enzyme
+T31	Chemical 782 794	sulfonamides
+T32	Protein_part 800 811	active site
+T33	Geometrical_part 812 816	loop
+T34	Protein_part 820 826	Leu198
+T35	Protein_part 828 834	Thr199
+T36	Protein_part 839 845	His200
+T37	Process 886 893	binding
+T38	Chemical 901 915	drug molecules
+T39	Process 949 962	displacements
+T40	Chemical 983 997	hydrogen bonds
+T41	Process 1020 1032	interactions
+T42	Chemical 1042 1054	sulfonamides
+T43	Process 1062 1074	interactions
+T44	Protein_part 1086 1097	active site
+T45	Parameter 1098 1104	charge
+T46	Process 1105 1117	requirements
+T47	Process 1171 1182	differences
+T48	Chemical 1190 1199	sulfamido
+T49	Molecular_Part 1200 1206	groups
+T50	Process 1220 1231	differences
+T51	Chemical 1264 1269	drugs
+T52	Chemical 1273 1286	hydrogen bond
+T53	Physiology 1287 1294	network
+T54	Chemical 1305 1322	solvent molecules
+T55	Protein_part 1327 1354	active site residues His200
+T56	Protein_part 1359 1364	His67
+T57	Protein 1395 1401	enzyme
+T58	Process 1421 1428	binding
+T59	Chemical 1432 1445	methazolamide
+T60	Chemical 1471 1483	sulfonamides
+T61	Technique 1503 1519	crystallographic
+T62	Process 1545 1556	involvement
+T63	Protein_part 1560 1566	His200
+T64	Process 1574 1584	inhibition
+T65	Protein 1588 1592	HCAI
+T66	Process 1607 1611	role
+T67	Protein_part 1615 1621	Thr199
+T68	Category 1652 1661	substrate
+T69	Category 1666 1675	inhibitor
+T70	Process 1676 1683	binding
+T71	Chemical 1693 1698	HCO3-
+T72	Protein 1707 1713	enzyme
+T73	Value 1717 1721	high
+T74	Parameter 1722 1724	pH

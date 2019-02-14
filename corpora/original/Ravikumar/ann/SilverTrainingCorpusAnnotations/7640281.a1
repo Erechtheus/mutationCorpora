@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Chemical 31 39	solution
+T3	Protein 47 62	calcium channel
+T4	Category 63 70	blocker
+T5	Protein 71 92	omega-conotoxin MVIIA
+T6	Geometrical_part 116 134	solution structure
+T7	Protein 138 159	omega-conotoxin MVIIA
+T8	Protein_part 163 177	25-mer peptide
+T9	Category 178 188	antagonist
+T10	Protein 192 215	N-type calcium channels
+T11	Chemical 252 254	1H
+T12	Technique 255 271	NMR spectroscopy
+T13	Technique 297 309	calculations
+T14	Geometrical_part 335 345	structures
+T15	Protein 349 370	omega-conotoxin MVIIA
+T16	Process 392 397	basis
+T17	Parameter 445 453	distance
+T18	Protein 480 511	nuclear Overhauser effect (NOE)
+T19	Parameter 531 544	torsion angle
+T20	Protein 546 549	phi
+T21	Parameter 551 556	chi 1
+T22	Chemical 606 620	hydrogen bonds
+T23	Chemical 625 640	disulfide bonds
+T24	Parameter 653 669	root mean square
+T25	Process 670 680	difference
+T26	Value 724 739	0.47 +/- 0.08 A
+T27	Geometrical_part 748 756	backbone
+T28	Chemical 757 762	atoms
+T29	Protein 767 774	C alpha
+T30	Unknown 776 777	C
+T31	Value 783 799	1.27 +/-  0.14 A
+T32	Chemical 814 819	atoms
+T33	Protein_part 834 841	peptide
+T34	Geometrical_part 857 866	structure
+T35	Protein 870 891	omega-conotoxin MVIIA
+T36	Geometrical_part 931 943	antiparallel
+T37	Protein_part 944 954	beta-sheet
+T38	Protein_part 968 978	beta-sheet
+T39	Unknown 991 994	+2x
+T40	Protein 1039 1059	omega-conotoxin GVIA
+T41	Protein 1069 1091	N-type calcium channel
+T42	Category 1092 1099	blocker
+T43	Process 1105 1116	orientation
+T44	Protein 1120 1124	beta
+T45	Unknown 1134 1143	structure
+T46	Chemical 1201 1215	disulfide bond
+T47	Process 1249 1266	molecular folding
+T48	Protein_part 1306 1313	alanine
+T49	Process 1314 1326	substitution
+T50	Technique 1327 1335	analyses
+T51	Protein_part 1341 1344	Tyr
+T52	Parameter 1369 1377	activity
+T53	Molecule 1386 1392	toxins
+T54	Process 1401 1406	basis
+T55	Technique 1436 1444	analysis
+T56	Protein 1468 1489	omega-conotoxin MVIIA
+T57	Protein 1494 1498	GVIA
+T58	State 1517 1529	conformation
+T59	Protein_part 1540 1546	Tyr 13
+T60	Process 1584 1591	binding
+T61	Protein 1595 1618	N-type calcium channels
+T62	Process 1654 1659	basis
+T63	Process 1682 1691	mechanism
+T64	Protein 1695 1710	calcium channel
+T65	Process 1711 1721	modulation
+T66	Protein 1734 1747	toxin-channel
+T67	Process 1748 1759	interaction
+T68	Process 1764 1771	insight
+T69	Process 1781 1795	discrimination
+T70	Process 1799 1808	different
+T71	Unknown 1809 1817	subtypes
+T72	Protein 1821 1837	calcium channels

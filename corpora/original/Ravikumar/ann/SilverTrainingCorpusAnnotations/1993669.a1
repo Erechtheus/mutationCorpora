@@ -1,0 +1,93 @@
+T1	Chemical 0 7	Calcium
+T2	Protein 19 29	thermitase
+T3	Technique 31 47	Crystallographic
+T4	Protein 59 69	thermitase
+T5	Value 73 74	0
+T6	Value 76 77	5
+T7	Value 83 89	100 mM
+T8	Chemical 90 97	calcium
+T9	Geometrical_part 121 138	crystal structure
+T10	Protein 142 152	thermitase
+T11	Unknown 168 175	eglin-c
+T12	Process 183 191	presence
+T13	Value 195 201	100 mM
+T14	Chemical 202 209	calcium
+T15	Value 245 250	2.0-A
+T16	Parameter 251 261	resolution
+T17	Parameter 267 275	R-factor
+T18	Value 279 284	16.8%
+T19	Geometrical_part 291 308	crystal structure
+T20	Geometrical_part 348 358	structures
+T21	Protein 362 372	thermitase
+T22	Value 376 377	0
+T23	Value 382 386	5 mM
+T24	Chemical 387 394	calcium
+T25	Parameter 395 408	concentration
+T26	Process 417 425	presence
+T27	Value 429 435	100 mM
+T28	Chemical 436 443	calcium
+T29	Chemical 454 461	calcium
+T30	Process 462 469	binding
+T31	Protein_part 470 475	sites
+T32	Protein 480 490	thermitase
+T33	Value 514 520	100 mM
+T34	Chemical 521 526	CaCl2
+T35	Chemical 538 545	calcium
+T36	Process 546 553	binding
+T37	Chemical 571 582	calcium ion
+T38	Protein 611 618	protein
+T39	Category 619 626	ligands
+T40	Chemical 636 651	water molecules
+T41	Geometrical_part 657 667	pentagonal
+T42	Geometrical_part 678 686	geometry
+T43	Protein 688 698	Thermitase
+T44	Chemical 718 728	monovalent
+T45	Chemical 733 748	divalent cation
+T46	Process 749 756	binding
+T47	Value 769 774	2.5-A
+T48	Parameter 775 783	distance
+T49	Protein_part 808 812	site
+T50	Chemical 821 828	calcium
+T51	Parameter 829 843	concentrations
+T52	Chemical 848 862	monovalent-ion
+T53	Chemical 889 895	sodium
+T54	Chemical 899 912	potassium ion
+T55	Process 936 943	binding
+T56	Protein_part 944 948	site
+T57	Process 962 970	presence
+T58	Value 974 980	100 mM
+T59	Chemical 981 986	CaCl2
+T60	Process 1006 1017	arrangement
+T61	Category 1029 1036	ligands
+T62	Protein 1072 1079	protein
+T63	Chemical 1088 1095	calcium
+T64	Parameter 1096 1110	concentrations
+T65	Geometrical_part 1134 1144	pentagonal
+T66	Process 1155 1167	coordination
+T67	Protein_part 1176 1180	site
+T68	Process 1194 1204	difference
+T69	State 1223 1236	conformations
+T70	Category 1253 1259	ligand
+T71	Protein_part 1260 1266	Asp-60
+T72	State 1282 1295	conformations
+T73	Value 1301 1306	0.8-A
+T74	Process 1307 1317	difference
+T75	Location 1321 1338	C alpha positions
+T76	Chemical 1353 1360	calcium
+T77	Process 1361 1368	binding
+T78	Protein_part 1369 1373	site
+T79	Geometrical_part 1380 1390	pentagonal
+T80	Process 1401 1413	coordination
+T81	Unknown 1449 1459	structures
+T82	Process 1472 1479	changes
+T83	Process 1483 1490	binding
+T84	Chemical 1491 1498	calcium
+T85	Chemical 1534 1541	calcium
+T86	Process 1542 1549	binding
+T87	Protein_part 1550 1555	sites
+T88	Protein 1559 1569	thermitase
+T89	Protein_part 1618 1623	sites
+T90	Protein 1625 1635	Thermitase
+T91	Protein 1662 1677	subtilisin BPN'
+T92	Process 1710 1716	shifts
+T93	Protein 1744 1756	proteinase K

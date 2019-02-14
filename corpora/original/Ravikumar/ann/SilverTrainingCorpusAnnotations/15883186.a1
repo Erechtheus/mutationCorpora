@@ -1,0 +1,82 @@
+T1	Protein_part 0 6	Domain
+T2	Protein 38 69	isomerase/hydratase superfamily
+T3	Geometrical_part 75 92	crystal structure
+T4	Organism 96 99	rat
+T5	Body_part 100 113	mitochondrial
+T6	Protein 114 120	Delta3
+T7	Protein 122 148	Delta2-enoyl-CoA isomerase
+T8	Unknown 169 177	Delta(3)
+T9	Protein 179 208	Delta(2)-enoyl-CoA isomerases
+T10	Body_part 214 236	in mitochondria (mECI)
+T11	Body_part 259 271	mitochondria
+T12	Body_part 276 287	peroxisomes
+T13	Body_part 289 293	pECI
+T14	Protein 325 356	isomerase/hydratase superfamily
+T15	Protein 363 370	enzymes
+T16	Process 384 392	movement
+T17	Chemical 398 409	double bond
+T18	Body_part 415 417	C3
+T19	Body_part 421 423	C2
+T20	Chemical 430 450	unsaturated acyl-CoA
+T21	Category 451 460	substrate
+T22	Process 484 498	beta-oxidation
+T23	Process 499 506	pathway
+T24	Physiology 508 519	Mutagenesis
+T25	Protein_part 535 541	Glu165
+T26	Organism 545 548	rat
+T27	Body_part 549 553	mECI
+T28	Process 569 578	catalysis
+T29	Protein_part 612 619	residue
+T30	Organism 623 628	yeast
+T31	Body_part 629 633	pECI
+T32	Protein_part 635 641	Glu158
+T33	Body_part 663 667	mECI
+T34	Protein_part 690 696	Glu165
+T35	Body_part 700 704	mECI
+T36	Process 733 742	catalysis
+T37	Geometrical_part 748 765	crystal structure
+T38	Organism 769 772	rat
+T39	Body_part 773 777	mECI
+T40	Unknown 795 802	Crystal
+T41	Protein 824 830	enzyme
+T42	Unknown 865 872	members
+T43	Unknown 880 891	superfamily
+T44	Protein 933 939	dimers
+T45	Protein 943 950	trimers
+T46	Protein_part 956 967	polypeptide
+T47	Geometrical_part 968 972	fold
+T48	Body_part 976 980	mECI
+T49	Body_part 987 991	pECI
+T50	Unknown 1021 1032	superfamily
+T51	Protein_part 1046 1063	C-terminal domain
+T52	Protein 1075 1082	monomer
+T53	Protein_part 1107 1124	N-terminal domain
+T54	Protein 1152 1161	crotonase
+T55	Protein 1166 1203	1,4-dihydroxy-2-naphtoyl-CoA synthase
+T56	Protein_part 1211 1229	C-terminal domains
+T57	Protein_part 1246 1252	domain
+T58	Location 1270 1278	adjacent
+T59	Protein 1279 1286	monomer
+T60	Unknown 1292 1301	structure
+T61	Protein_part 1311 1317	Glu165
+T62	Protein 1344 1353	acid/base
+T63	Molecule 1382 1394	pro-R proton
+T64	Body_part 1400 1402	C2
+T65	Body_part 1422 1424	C4
+T66	Protein 1432 1442	acyl chain
+T67	Geometrical_part 1454 1460	tunnel
+T68	Protein_part 1468 1479	active site
+T69	Body_part 1480 1486	cavity
+T70	Body_part 1503 1517	mECI structure
+T71	Category 1540 1549	substrate
+T72	Protein 1565 1575	acyl-chain
+T73	Parameter 1576 1582	length
+T74	Process 1604 1614	Comparison
+T75	Geometrical_part 1624 1641	crystal structure
+T76	Protein 1645 1649	pECI
+T77	Protein_part 1673 1681	residues
+T78	Protein 1692 1699	enzymes
+T79	Geometrical_part 1741 1759	primary structures
+T80	Protein_part 1808 1816	residues
+T81	Protein_part 1848 1856	sequence
+T82	Process 1857 1867	alignments

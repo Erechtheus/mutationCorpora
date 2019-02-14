@@ -1,0 +1,60 @@
+T1	Unknown 4 13	structure
+T2	Organism 19 33	cyanobacterial
+T3	Protein 34 53	sucrose-phosphatase
+T4	Chemical 66 71	sugar
+T5	Chemical 96 103	sucrose
+T6	Body_part 111 115	cell
+T7	Protein 117 142	Sucrose-phosphatase (SPP)
+T8	Process 175 182	pathway
+T9	Chemical 186 193	sucrose
+T10	Process 194 206	biosynthesis
+T11	Organism 215 221	plants
+T12	Organism 226 239	cyanobacteria
+T13	Protein 249 253	SPPs
+T14	Molecular_Part 269 275	groups
+T15	Organism 279 288	organisms
+T16	Protein 335 341	enzyme
+T17	Organism 351 379	cyanobacterium Synechocystis
+T18	Unknown 383 386	PCC
+T19	Geometrical_part 411 428	crystal structure
+T20	Category 442 449	complex
+T21	Category 463 470	ligands
+T22	Protein 476 483	protein
+T23	Protein_part 503 509	domain
+T24	Protein_part 526 540	catalytic site
+T25	Protein_part 559 565	domain
+T26	Chemical 582 589	glucose
+T27	Process 590 597	binding
+T28	Protein_part 598 602	site
+T29	Geometrical_part 617 622	hinge
+T30	Geometrical_part 623 628	loops
+T31	Protein_part 642 649	domains
+T32	Unknown 661 670	structure
+T33	Chemical 697 702	sugar
+T34	Chemical 714 721	glucose
+T35	Process 722 729	binding
+T36	Protein_part 730 734	site
+T37	Process 749 753	role
+T38	Protein 773 781	enzyme's
+T39	Category 793 802	substrate
+T40	Process 845 855	inhibition
+T41	Chemical 859 866	sucrose
+T42	Chemical 871 878	glucose
+T43	Process 904 922	catalytic reaction
+T44	Category 966 975	substrate
+T45	Protein_part 979 983	Asp9
+T46	Process 997 1006	formation
+T47	Protein 1021 1053	phospho-Asp9-enzyme intermediate
+T48	Protein 1082 1085	SPP
+T49	Geometrical_part 1086 1095	structure
+T50	Protein 1130 1133	SPP
+T51	Protein_part 1139 1145	domain
+T52	Organism 1153 1166	Synechocystis
+T53	Protein 1167 1193	sucrose-phosphate synthase
+T54	Chemical 1205 1227	sucrose-6(F)-phosphate
+T55	Protein_part 1250 1256	domain
+T56	Chemical 1278 1288	metabolite
+T57	Protein 1321 1328	enzymes
+T58	Process 1336 1343	pathway
+T59	Chemical 1347 1354	sucrose
+T60	Process 1355 1364	synthesis

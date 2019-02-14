@@ -1,0 +1,77 @@
+T1	Process 0 19	Autophosphorylation
+T2	Organism 23 45	Archaeoglobus fulgidus
+T3	Protein 46 50	Rio2
+T4	Geometrical_part 55 73	crystal structures
+T5	Chemical 82 102	nucleotide-metal ion
+T6	Category 103 112	complexes
+T7	Protein 145 171	RIO serine protein kinases
+T8	Organism 189 198	organisms
+T9	Organism 205 212	archaea
+T10	Organism 216 219	man
+T11	Organism 224 229	yeast
+T12	Protein 235 241	kinase
+T13	Parameter 242 250	activity
+T14	Protein 254 258	Rio2
+T15	Value 318 321	18S
+T16	Body_part 322 331	ribosomal
+T17	Protein 332 336	rRNA
+T18	Protein 372 384	Rio2 protein
+T19	Organism 390 412	Archaeoglobus fulgidus
+T20	Protein 436 442	kinase
+T21	Protein_part 443 449	domain
+T22	Protein_part 457 467	N-terminal
+T23	Protein_part 475 487	helix domain
+T24	Unknown 507 517	structures
+T25	Unknown 524 532	crystals
+T26	Chemical 543 554	nucleotides
+T27	Chemical 559 563	Mg2+
+T28	Chemical 567 571	Mn2+
+T29	Chemical 585 595	nucleotide
+T30	Chemical 611 621	metal ions
+T31	State 683 702	active conformation
+T32	Protein 710 716	enzyme
+T33	Protein 754 758	Rio2
+T34	Process 785 795	incubation
+T35	Chemical 801 804	ATP
+T36	Chemical 808 811	ADP
+T37	Chemical 817 821	Mn2+
+T38	Unknown 823 844	Co-crystal structures
+T39	Chemical 848 859	Rio2-ATP-Mn
+T40	Chemical 864 875	Rio2-ADP-Mn
+T41	Value 891 895	1.84
+T42	Value 900 914	1.75 angstroms
+T43	Parameter 915 925	resolution
+T44	Chemical 945 960	gamma-phosphate
+T45	Chemical 964 967	ATP
+T46	Protein 1049 1063	serine kinases
+T47	Process 1065 1075	Comparison
+T48	Chemical 1083 1094	Rio2-ATP-Mn
+T49	Category 1095 1102	complex
+T50	Protein 1112 1116	Rio2
+T51	Geometrical_part 1117 1126	structure
+T52	Chemical 1141 1152	nucleotides
+T53	Chemical 1166 1169	ADP
+T54	Category 1170 1177	complex
+T55	Molecule 1219 1232	Rio2 molecule
+T56	Process 1264 1275	interaction
+T57	Protein_part 1284 1290	His126
+T58	Chemical 1299 1321	gamma-phosphate oxygen
+T59	Chemical 1325 1328	ATP
+T60	Chemical 1330 1344	Phosphopeptide
+T61	Technique 1345 1352	mapping
+T62	Process 1360 1379	autophosphorylation
+T63	Protein_part 1380 1384	site
+T64	Molecule 1388 1392	Rio2
+T65	Protein_part 1404 1410	Ser128
+T66	Geometrical_part 1432 1436	loop
+T67	Location 1451 1459	adjacent
+T68	Geometrical_part 1467 1471	part
+T69	Process 1496 1504	response
+T70	Chemical 1508 1511	ATP
+T71	Process 1520 1526	target
+T72	Protein_part 1594 1606	active  site
+T73	Protein 1610 1621	Rio2 kinase
+T74	Process 1636 1645	mechanism
+T75	Process 1649 1659	regulation
+T76	Protein 1667 1676	enzymatic
+T77	Parameter 1677 1685	activity

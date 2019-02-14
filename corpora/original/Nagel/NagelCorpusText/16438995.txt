@@ -1,0 +1,10 @@
+Three isoinhibitors have been isolated to homogeneity from the C-serum of the latex of the rubber tree, Hevea brasiliensis clone RRIM 600, and named HPI-1, HPI-2a and HPI-2b . 
+The three inhibitors share the same amino acid sequence (69 residues) but the masses of the three forms were determined to be 14,893+/-10, 7757+/-5, and 7565+/-5, respectively, indicating that post-translational modifications of the protein have occurred during latex collection . 
+One adduct could be removed by reducing agents, and was determined to be glutathione, while the other adduct could not be removed by reducing agents and has not been identified . 
+The N-termini of the inhibitor proteins were blocked by an acetylated Ala, but the complete amino acid sequence analysis of the deblocked inhibitors by Edman degradation of fragments from endopeptidase C digestion and mass spectrometry confirmed that the three isoinhibitors were derived from a single protein . 
+The amino acid sequence of the protein differed at two positions from the sequence deduced from a cDNA reported in GenBank . 
+The gene coding for the inhibitor is wound-inducible and is a member of the potato inhibitor I family of proteases inhibitors . 
+The inhibitor strongly inhibited subtilisin A, weakly inhibited trypsin, and did not inhibit chymotrypsin . 
+The amino acid residues at the reactive site P(1) and P(1)(') were determined to be Gln45 and Asp46, respectively, residues rarely reported at the reactive site in potato inhibitor I family members . 
+Comparison of amino acid sequences revealed that the HPI isoinhibitors shared from 33% to 55% identity (50-74% similarity) to inhibitors of the potato inhibitor I family . 
+The properties of the isoinhibitors suggest that they may play a defensive role in the latex against pathogens and/or herbivores . 

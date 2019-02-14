@@ -1,0 +1,57 @@
+T1	Protein_part 0 6	Cys114
+T2	Protein 14 20	dimers
+T3	Protein 24 37	transthyretin
+T4	Chemical 58 65	amyloid
+T5	Process 66 75	formation
+T6	Protein_part 81 90	Tyr114Cys
+T7	Process 91 103	substitution
+T8	Organism 111 116	human
+T9	Body_part 117 123	plasma
+T10	Protein 124 145	protein transthyretin
+T11	Chemical 198 209	amyloidotic
+T12	Physiology 210 224	polyneuropathy
+T13	Protein_part 267 281	ATTR Tyr114Cys
+T14	Chemical 303 318	disulfide bonds
+T15	Protein 340 346	fibril
+T16	Process 347 356	formation
+T17	State 388 398	morphology
+T18	Protein_part 426 435	cysteinyl
+T19	Molecular_Part 436 441	group
+T20	Location 445 457	position 114
+T21	Protein_part 470 478	sequence
+T22	Protein_part 492 500	cysteine
+T23	Location 512 523	position 10
+T24	Process 539 543	role
+T25	Chemical 562 571	disulfide
+T26	Protein 584 590	fibril
+T27	Process 591 600	formation
+T28	Protein_part 636 658	TTR Cys10Ala/Tyr114Cys
+T29	Molecule 659 672	double mutant
+T30	Protein_part 718 726	cysteine
+T31	Location 737 749	position 114
+T32	Process 763 771	exposure
+T33	Protein_part 775 786	cysteine 10
+T34	Protein_part 835 843	cysteine
+T35	Process 844 854	assemblies
+T36	Chemical 876 885	disulfide
+T37	Geometrical_part 893 905	dimeric form
+T38	Protein_part 909 931	TTR Cys10Ala/Tyr114Cys
+T39	Chemical 961 977	anti-TTR amyloid
+T40	Protein 987 1010	monoclonal antibody MAb
+T41	Molecule 1036 1052	dimeric molecule
+T42	Protein 1062 1074	protofibrils
+T43	Protein 1103 1110	fibrils
+T44	Technique 1158 1181	atomic force microscopy
+T45	Molecule 1202 1211	molecules
+T46	Protein 1219 1224	dimer
+T47	Geometrical_part 1229 1233	part
+T48	Protein 1253 1259	fibril
+T49	Process 1265 1273	assembly
+T50	State 1337 1347	interphase
+T51	Chemical 1392 1416	TTR-amyloid architecture
+T52	Process 1462 1470	assembly
+T53	Unknown 1474 1484	structures
+T54	Process 1491 1500	different
+T55	Protein 1501 1508	fibrils
+T56	Process 1527 1536	different
+T57	Unknown 1548 1558	structures

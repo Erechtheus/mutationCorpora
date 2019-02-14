@@ -1,0 +1,10 @@
+The N-terminal tails of core histones are subjected to multiple covalent modifications, including acetylation, methylation, and phosphorylation . 
+Similar to acetylation, histone methylation has emerged as an important player in regulating chromatin dynamics and gene activity . 
+Histone methylation occurs on arginine and lysine residues and is catalyzed by two families of proteins, the protein arginine methyltransferase family and the SET-domain-containing methyltransferase family . 
+Here, we report that lysine 79 ( K79) of H3, located in the globular domain, can be methylated . 
+K79 methylation occurs in a variety of organisms ranging from yeast to human . 
+In budding yeast, K79 methylation is mediated by the silencing protein DOT1 . 
+Consistent with conservation of K79 methylation, DOT1 homologs can be found in a variety of eukaryotic organisms . 
+We identified a human DOT1-like (DOT1L) protein and demonstrated that this protein possesses intrinsic H3-K79-specific histone methyltransferase (HMTase) activity in vitro and in vivo . 
+Furthermore, we found that K79 methylation level is regulated throughout the cell cycle . 
+Thus, our studies reveal a new methylation site and define a novel family of histone lysine methyltransferase . 

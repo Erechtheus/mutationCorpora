@@ -1,0 +1,87 @@
+T1	Process 12 18	effect
+T2	Geometrical_part 26 33	surface
+T3	Protein_part 34 44	amino acid
+T4	Process 45 54	mutations
+T5	Process 56 61	Q252L
+T6	Process 66 71	E170K
+T7	Protein 76 97	glucose dehydrogenase
+T8	Organism 103 127	Bacillus megaterium IWG3
+T9	Process 131 144	stabilization
+T10	State 152 168	oligomeric state
+T11	Protein 185 221	glucose dehydrogenase (GlcDH) mutant
+T12	Organism 225 249	Bacillus megaterium IWG3
+T13	Process 264 269	Q252L
+T14	Process 270 282	substitution
+T15	Organism 284 295	Y. Makino, 
+T16	Unknown 295 316	S. Negoro, I. Urabe, 
+T17	Organism 320 330	H. Okada, 
+T18	Unknown 330 344	J. Biol. Chem.
+T19	Parameter 379 388	pH values
+T20	Process 414 422	presence
+T21	Value 426 429	2 M
+T22	Chemical 430 434	NaCl
+T23	Protein 444 456	GlcDH mutant
+T24	State 478 487	stability
+T25	Chemical 495 503	alkaline
+T26	Parameter 504 506	pH
+T27	Process 514 521	absence
+T28	Chemical 525 529	NaCl
+T29	Unknown 559 564	(S.-H
+T30	Unknown 572 573	T
+T31	Unknown 580 581	H
+T32	Unknown 592 593	O
+T33	Unknown 607 608	S
+T34	Unknown 620 624	Appl
+T35	Molecule 673 679	mutant
+T36	Protein_part 688 698	amino acid
+T37	Process 699 712	substitutions
+T38	Process 714 719	Q252L
+T39	Process 724 729	E170K
+T40	Protein 776 789	GlcDH mutants
+T41	Process 804 817	substitutions
+T42	Process 818 823	Q252L
+T43	Process 825 830	E170K
+T44	Process 836 847	Q252L/E170K
+T45	Chemical 854 862	low-salt
+T46	Protein 879 892	GlcDH  mutant
+T47	Process 907 920	substitutions
+T48	Process 922 933	Q252L/E170K
+T49	Molecule 951 958	mutants
+T50	Process 978 990	substitution
+T51	Process 999 1004	Q252L
+T52	Process 1008 1013	E170K
+T53	Chemical 1035 1043	alkaline
+T54	Parameter 1044 1046	pH
+T55	Technique 1048 1086	Gel filtration chromatography analyses
+T56	State 1109 1125	oligomeric state
+T57	Protein 1133 1150	Q252/E170K enzyme
+T58	Protein 1173 1182	tetramers
+T59	Protein 1191 1198	enzymes
+T60	Process 1218 1230	substitution
+T61	Process 1232 1237	Q252L
+T62	Process 1241 1246	E170K
+T63	Protein 1265 1271	dimers
+T64	Chemical 1279 1287	alkaline
+T65	Parameter 1288 1290	pH
+T66	Process 1325 1330	Q252L
+T67	Process 1335 1340	E170K
+T68	Process 1341 1354	substitutions
+T69	Process 1388 1399	interaction
+T70	Protein 1407 1418	dimer-dimer
+T71	Geometrical_part 1434 1451	crystal structure
+T72	Protein_part 1459 1477	E170K/Q252L mutant
+T73	Value 1493 1506	2.0-angstroms
+T74	Parameter 1507 1517	resolution
+T75	Protein_part 1531 1543	residues 170
+T76	Protein_part 1548 1551	252
+T77	Body_part 1569 1587	hydrophobic cavity
+T78	Protein 1596 1611	subunit-subunit
+T79	Protein_part 1647 1655	residues
+T80	Protein 1663 1679	wild-type enzyme
+T81	Process 1715 1722	effects
+T82	Process 1734 1739	Q252L
+T83	Process 1745 1750	E170K
+T84	Process 1751 1764	substitutions
+T85	Protein 1778 1793	subunit-subunit
+T86	Process 1794 1806	interactions
+T87	Body_part 1827 1845	hydrophobic cavity

@@ -1,0 +1,57 @@
+T1	Protein 0 7	Subunit
+T2	Process 8 19	arrangement
+T3	Process 24 32	function
+T4	Protein 36 50	NMDA receptors
+T5	Process 63 80	neurotransmission
+T6	Protein 93 130	NMDA (N-methyl-D-aspartate) receptors
+T7	Physiology 153 163	physiology
+T8	Organism 171 180	mammalian
+T9	Body_part 181 203	central nervous system
+T10	Protein 211 220	receptors
+T11	Protein 225 249	heteromeric ion channels
+T12	Process 259 269	activation
+T13	Process 278 285	binding
+T14	Chemical 289 296	glycine
+T15	Chemical 301 310	glutamate
+T16	Protein 318 321	NR1
+T17	Protein 326 338	NR2 subunits
+T18	Protein 354 367	NMDA receptor
+T19	Process 368 376	function
+T20	Protein 402 409	channel
+T21	Process 410 417	opening
+T22	Process 422 434	deactivation
+T23	Parameter 454 460	influx
+T24	Chemical 464 471	cations
+T25	Process 482 501	signal transduction
+T26	Process 502 510	cascades
+T27	Process 538 547	functions
+T28	Physiology 558 566	learning
+T29	Physiology 571 577	memory
+T30	Geometrical_part 594 612	crystal structures
+T31	Category 620 626	ligand
+T32	Protein 643 647	NR2A
+T33	Chemical 653 662	glutamate
+T34	Protein 679 699	NR1-NR2A heterodimer
+T35	Chemical 705 714	glutamate
+T36	Chemical 719 726	glycine
+T37	Chemical 732 746	NR2A-glutamate
+T38	Category 747 754	complex
+T39	Chemical 783 792	glutamate
+T40	Chemical 797 801	NMDA
+T41	Process 802 813	recognition
+T42	Protein 823 843	NR1-NR2A heterodimer
+T43	Process 855 864	mechanism
+T44	Category 869 875	ligand
+T45	Protein 884 895	ion channel
+T46	Process 896 903	opening
+T47	Technique 905 913	Analysis
+T48	Protein 921 932	heterodimer
+T49	Process 996 1007	experiments
+T50	Protein 1027 1047	NR1-NR2A heterodimer
+T51	Protein 1074 1099	tetrameric NMDA receptors
+T52	Protein_part 1109 1121	tyrosine 535
+T53	Protein 1125 1128	NR1
+T54	Protein 1145 1152	subunit
+T55	Parameter 1178 1182	rate
+T56	Protein 1186 1197	ion channel
+T57	Process 1198 1210	deactivation

@@ -1,0 +1,62 @@
+T1	Process 6 14	reaction
+T2	Process 15 24	mechanism
+T3	Protein 28 48	GTP cyclohydrolase I
+T4	Technique 66 87	X-ray crystallography
+T5	Protein 91 122	Thermus thermophilus HB8 enzyme
+T6	State 140 156	transition state
+T7	Unknown 157 165	analogue
+T8	Chemical 171 194	8-oxoguanine derivative
+T9	Protein 196 225	GTP cyclohydrolase I (GTPCH1)
+T10	Process 240 250	conversion
+T11	Chemical 254 257	GTP
+T12	Chemical 261 293	dihydroneopterin 3'-triphosphate
+T13	Chemical 312 354	8-oxoguanine derivative of GTP (8-oxo-GTP)
+T14	Protein 373 379	GTPCH1
+T15	Protein 385 419	Thermus thermophilus HB8 (tGTPCH1)
+T16	Category 437 446	inhibitor
+T17	Parameter 452 460	affinity
+T18	Chemical 464 473	8-oxo-GTP
+T19	Value 478 503	three orders of magnitude
+T20	Chemical 525 528	GTP
+T21	Chemical 557 566	8-oxo-GTP
+T22	State 572 588	transition state
+T23	Unknown 589 597	analogue
+T24	Protein 602 608	GTPCH1
+T25	Technique 629 653	X-ray crystal structures
+T26	Protein 657 664	tGTPCH1
+T27	Chemical 681 690	8-oxo-GTP
+T28	Chemical 695 705	8-oxo-dGTP
+T29	Value 709 712	2.0
+T30	Value 717 722	1.8 A
+T31	Parameter 723 733	resolution
+T32	Protein 781 787	enzyme
+T33	Value 791 796	2.2 A
+T34	Parameter 797 807	resolution
+T35	Geometrical_part 816 825	structure
+T36	Protein 829 836	tGTPCH1
+T37	Chemical 852 861	8-oxo-GTP
+T38	Chemical 865 875	8-oxo-dGTP
+T39	Chemical 881 893	oxygen atoms
+T40	Location 897 899	O8
+T41	Chemical 907 919	8-oxoguanine
+T42	Molecular_Part 920 926	groups
+T43	Protein_part 942 957	residues Cys108
+T44	Protein_part 959 965	His111
+T45	Protein_part 970 976	Cys179
+T46	Chemical 1001 1009	zinc ion
+T47	Chemical 1015 1029	water molecule
+T48	Unknown 1038 1045	Ndelta1
+T49	Protein_part 1049 1055	His177
+T50	Protein_part 1060 1062	N7
+T51	Chemical 1067 1079	8-oxoguanine
+T52	Unknown 1101 1111	structures
+T53	State 1178 1195	transition states
+T54	Unknown 1224 1234	structures
+T55	Chemical 1249 1263	imidazole ring
+T56	Protein_part 1267 1273	His110
+T57	Molecule 1307 1313	proton
+T58	Process 1314 1322	transfer
+T59	Geometrical_part 1330 1345	ribose ring O4'
+T60	Process 1397 1405	reaction
+T61	Process 1406 1415	mechanism
+T62	Protein 1420 1426	GTPCH1

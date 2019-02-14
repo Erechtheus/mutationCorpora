@@ -1,0 +1,64 @@
+T1	Protein_part 7 22	inter-subdomain
+T2	Process 23 35	interactions
+T3	Protein_part 84 115	Hsp70 nucleotide-binding domain
+T4	Chemical 123 138	nucleotide-free
+T5	State 139 144	state
+T6	Protein 150 185	70 kDa heat-shock proteins (Hsp70s)
+T7	Molecule 207 217	chaperones
+T8	Body_part 248 266	cellular processes
+T9	Protein 276 283	protein
+T10	Process 284 291	folding
+T11	Process 293 307	disaggregation
+T12	Process 312 325	translocation
+T13	Geometrical_part 346 364	crystal structures
+T14	Organism 372 377	human
+T15	Protein_part 378 424	Hsp70 nucleotide-binding domain (NBD) fragment
+T16	Chemical 448 463	nucleotide-free
+T17	State 464 469	state
+T18	Category 477 484	complex
+T19	Chemical 490 499	adenosine
+T20	Unknown 500 508	5'-(beta
+T21	Chemical 509 533	gamma-imido)triphosphate
+T22	Chemical 535 541	AMPPNP
+T23	Geometrical_part 548 557	structure
+T24	Protein_part 565 593	nucleotide-free NBD fragment
+T25	Chemical 620 626	AMPPNP
+T26	Protein_part 633 645	NBD fragment
+T27	Protein_part 693 721	nucleotide-free NBD fragment
+T28	Process 773 785	interactions
+T29	Protein_part 794 799	Tyr15
+T30	Protein_part 801 806	Lys56
+T31	Protein_part 811 817	Glu268
+T32	Protein_part 832 845	subdomains IA
+T33	Unknown 847 849	IB
+T34	Unknown 855 858	IIB
+T35	Protein 880 887	protein
+T36	Process 889 900	Interaction
+T37	Protein_part 910 940	substrate-binding domain (SBD)
+T38	Protein 944 949	Hsp70
+T39	Protein_part 957 967	BAG domain
+T40	Protein 971 975	BAG1
+T41	Protein_part 989 998	subdomain
+T42	Process 999 1009	connection
+T43	Process 1027 1035	rotation
+T44	Protein_part 1039 1052	subdomain IIA
+T45	Protein_part 1062 1079	hydrophobic helix
+T46	Protein_part 1085 1098	subdomain  IA
+T47	Protein_part 1104 1113	subdomain
+T48	Process 1114 1122	rotation
+T49	Protein_part 1137 1143	Asp199
+T50	Protein_part 1148 1154	Asp206
+T51	Protein_part 1160 1173	subdomain IIA
+T52	Protein_part 1215 1218	NBD
+T53	Process 1266 1277	interaction
+T54	Protein_part 1286 1292	Gly230
+T55	Protein_part 1298 1311	subdomain IIB
+T56	Protein_part 1316 1322	Ser340
+T57	Protein_part 1328 1341	subdomain IIA
+T58	Geometrical_part 1347 1356	structure
+T59	Protein_part 1364 1367	NBD
+T60	Chemical 1375 1390	nucleotide-free
+T61	State 1391 1396	state
+T62	Process 1414 1423	switching
+T63	Protein_part 1431 1446	inter-subdomain
+T64	Process 1447 1459	interactions

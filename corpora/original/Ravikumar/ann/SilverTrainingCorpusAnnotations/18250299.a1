@@ -1,0 +1,70 @@
+T1	Process 10 15	basis
+T2	Protein 20 32	LDL receptor
+T3	Process 33 44	recognition
+T4	Protein 48 53	PCSK9
+T5	Protein 55 108	Proprotein convertase subtilisin/kexin type 9 (PCSK9)
+T6	Body_part 139 146	hepatic
+T7	Protein 147 188	low-density lipoprotein receptors (LDLRs)
+T8	Process 192 199	binding
+T9	Protein 203 208	LDLRs
+T10	Body_part 216 220	cell
+T11	Geometrical_part 221 228	surface
+T12	Process 247 258	degradation
+T13	Process 264 271	binding
+T14	Protein_part 272 276	site
+T15	Protein 280 285	PCSK9
+T16	Protein_part 313 365	epidermal growth factor-like repeat A (EGF-A) domain
+T17	Protein 373 377	LDLR
+T18	Geometrical_part 401 418	crystal structure
+T19	Category 424 431	complex
+T20	Protein 440 445	PCSK9
+T21	Protein_part 455 467	EGF-A domain
+T22	Protein 475 479	LDLR
+T23	Process 485 492	binding
+T24	Protein_part 493 497	site
+T25	Protein_part 506 523	LDLR EGF-A domain
+T26	Geometrical_part 539 546	surface
+T27	Protein 550 568	PCSK9's subtilisin
+T28	Protein_part 574 590	catalytic domain
+T29	Protein_part 602 609	Asp-374
+T30	Protein_part 613 620	residue
+T31	Process 650 658	mutation
+T32	Process 660 671	Asp-374-Tyr
+T33	Parameter 687 695	affinity
+T34	Protein 699 704	PCSK9
+T35	Protein 712 716	LDLR
+T36	Body_part 731 737	plasma
+T37	Chemical 738 761	LDL-cholesterol (LDL-C)
+T38	Parameter 762 768	levels
+T39	Organism 772 778	humans
+T40	Process 784 791	binding
+T41	Geometrical_part 792 799	surface
+T42	Protein 803 808	PCSK9
+T43	Protein_part 829 843	catalytic site
+T44	Protein_part 853 865	EGF-A domain
+T45	Process 875 882	contact
+T46	Protein_part 899 916	C-terminal domain
+T47	Process 935 950	Point mutations
+T48	Protein 954 959	PCSK9
+T49	Protein_part 977 985	residues
+T50	Protein_part 1002 1007	EGF-A
+T51	Process 1008 1015	binding
+T52	Protein_part 1017 1024	Arg-194
+T53	Protein_part 1029 1036	Phe-379
+T54	Process 1057 1064	binding
+T55	Protein 1072 1078	LDLR's
+T56	Location 1079 1092	extracellular
+T57	Protein_part 1093 1099	domain
+T58	Geometrical_part 1105 1114	structure
+T59	Protein 1118 1123	PCSK9
+T60	Category 1127 1134	complex
+T61	Protein_part 1144 1161	LDLR EGF-A domain
+T62	Parameter 1170 1179	potential
+T63	Process 1192 1198	target
+T64	Protein_part 1199 1204	sites
+T65	Process 1257 1268	interaction
+T66	Protein 1297 1301	LDLR
+T67	Process 1302 1310	function
+T68	Body_part 1324 1330	plasma
+T69	Chemical 1331 1336	LDL-C
+T70	Parameter 1337 1343	levels

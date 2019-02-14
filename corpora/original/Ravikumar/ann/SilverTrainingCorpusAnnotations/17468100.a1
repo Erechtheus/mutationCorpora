@@ -1,0 +1,79 @@
+T1	Chemical 0 8	Hydrogen
+T2	Process 9 16	bonding
+T3	Chemical 20 51	7,8-dihydro-8-oxodeoxyguanosine
+T4	Protein_part 67 74	residue
+T5	Body_part 82 95	little finger
+T6	Protein_part 96 102	domain
+T7	Organism 134 161	Sulfolobus solfataricus DNA
+T8	Protein 162 177	polymerase Dpo4
+T9	Organism 179 209	Sulfolobus solfataricus P2 DNA
+T10	Protein 210 230	polymerase IV (Dpo4)
+T11	Technique 258 264	bypass
+T12	Chemical 268 308	7,8-dihydro-8-oxodeoxyguanosine (8-oxoG)
+T13	Geometrical_part 363 381	Crystal structures
+T14	Parameter 398 407	potential
+T15	Process 408 412	role
+T16	Protein_part 417 425	Arg(332)
+T17	State 450 462	conformation
+T18	Chemical 470 490	8-oxoG template base
+T19	Chemical 505 518	hydrogen bond
+T20	Chemical 522 532	ion-dipole
+T21	Protein 569 578	enzymatic
+T22	Parameter 579 589	efficiency
+T23	Chemical 594 598	dCTP
+T24	Process 599 608	insertion
+T25	Process 619 628	formation
+T26	Unknown 634 643	Hoogsteen
+T27	Chemical 657 663	8-oxoG
+T28	Chemical 668 672	dATP
+T29	Technique 689 714	Site-directed mutagenesis
+T30	Protein_part 735 743	Arg(332)
+T31	Protein_part 749 752	Ala
+T32	Protein_part 754 757	Glu
+T33	Protein_part 759 762	Leu
+T34	Protein_part 767 770	His
+T35	Molecular_Part 783 788	probe
+T36	Process 793 803	importance
+T37	Protein_part 807 815	Arg(332)
+T38	Technique 842 848	bypass
+T39	Chemical 852 858	8-oxoG
+T40	Protein_part 871 894	mutant Ala(331)Ala(332)
+T41	Process 928 940	contribution
+T42	Protein_part 944 952	Arg(331)
+T43	Parameter 969 976	kinetic
+T44	Protein_part 998 1006	Glu(332)
+T45	Technique 1032 1038	bypass
+T46	Chemical 1042 1048	8-oxoG
+T47	Unknown 1068 1082	wild type Dpo4
+T48	Parameter 1122 1126	mass
+T49	Technique 1141 1149	analysis
+T50	Process 1165 1174	extension
+T51	Category 1175 1183	products
+T52	Geometrical_part 1187 1204	crystal structure
+T53	Protein_part 1212 1232	Dpo4 Glu(332) mutant
+T54	Chemical 1237 1245	8-oxoG:C
+T55	Chemical 1260 1265	water
+T56	Chemical 1275 1289	hydrogen bonds
+T57	Protein_part 1298 1306	Glu(332)
+T58	Chemical 1315 1323	O-8 atom
+T59	Chemical 1327 1333	8-oxoG
+T60	Protein_part 1366 1374	Arg(332)
+T61	Protein_part 1375 1385	side chain
+T62	Geometrical_part 1402 1420	crystal structures
+T63	Protein_part 1428 1436	Ala(332)
+T64	Molecule 1437 1443	mutant
+T65	Geometrical_part 1455 1473	crystal structures
+T66	Chemical 1486 1500	Hoogsteen base
+T67	Chemical 1524 1530	8-oxoG
+T68	Protein_part 1544 1555	active site
+T69	Protein_part 1564 1572	Glu(332)
+T70	Protein_part 1577 1585	Ala(332)
+T71	Molecule 1586 1593	mutants
+T72	Chemical 1633 1637	bond
+T73	Protein_part 1646 1654	Arg(332)
+T74	Chemical 1659 1665	8-oxoG
+T75	Process 1674 1678	role
+T76	Parameter 1711 1721	efficiency
+T77	Protein 1725 1729	Dpo4
+T78	Technique 1741 1747	bypass
+T79	Physiology 1755 1761	lesion

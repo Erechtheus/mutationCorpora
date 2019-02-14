@@ -1,0 +1,9 @@
+Intermediate filaments (IFs) are key components of the cytoskeleton in higher eukaryotic cells . 
+The elementary IF 'building block' is an elongated coiled-coil dimer consisting of four consecutive alpha-helical segments . 
+The segments 1A and 2B include highly conserved sequences and are critically involved in IF assembly . 
+Based on the crystal structures of three human vimentin fragments at 1.4-2.3 A resolution (PDB entries 1gk4, 1gk6 and 1gk7), we have established the molecular organization of these two segments . 
+The fragment corresponding to segment 1A forms a single, amphipatic alpha-helix, which is compatible with a coiled-coil geometry . 
+While this segment might yield a coiled coil within an isolated dimer, monomeric 1A helices are likely to play a role in specific dimer-dimer interactions during IF assembly . 
+The 2B segment reveals a double-stranded coiled coil, which unwinds near residue Phe351 to accommodate a 'stutter' . 
+A fragment containing the last seven heptads of 2B interferes heavily with IF assembly and also transforms mature vimentin filaments into a new kind of structure . 
+These results provide the first insight into the architecture and functioning of IFs at the atomic level . 

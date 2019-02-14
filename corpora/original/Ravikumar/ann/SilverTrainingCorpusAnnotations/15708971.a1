@@ -1,0 +1,54 @@
+T1	Molecule 9 18	catalysts
+T2	Organism 23 28	plant
+T3	Body_part 29 38	cell-wall
+T4	Process 39 50	degradation
+T5	Organism 91 111	Cellvibrio japonicus
+T6	Protein 112 123	arabinanase
+T7	Protein_part 124 127	43A
+T8	Protein 129 136	Enzymes
+T9	Category 157 167	substrates
+T10	Protein 261 274	polymer chain
+T11	Geometrical_part 275 279	ends
+T12	Process 303 315	applications
+T13	Parameter 335 340	field
+T14	Chemical 344 358	polysaccharide
+T15	Process 359 370	degradation
+T16	Protein 407 417	hydrolases
+T17	Process 449 456	synergy
+T18	Process 484 490	action
+T19	Unknown 539 548	structure
+T20	Unknown 575 584	chain-end
+T21	Organism 605 625	Cellvibrio japonicus
+T22	Protein 626 650	exo-arabinanase CjArb43A
+T23	Unknown 656 665	structure
+T24	Chemical 669 718	Bacillus subtilis endo-arabinanase 43A (BsArb43A)
+T25	Unknown 735 744	chain-end
+T26	Process 745 756	recognition
+T27	Parameter 757 765	kinetics
+T28	Protein 769 777	CjArb43A
+T29	Process 830 840	conversion
+T30	Organism 848 858	Cellvibrio
+T31	Protein 859 865	enzyme
+T32	Process 897 903	action
+T33	Molecule 927 934	mutants
+T34	Molecule 936 946	D35L/Q316A
+T35	Parameter 965 973	activity
+T36	Unknown 977 988	WT CjArb43A
+T37	Process 998 1005	removal
+T38	Geometrical_part 1013 1019	steric
+T39	Process 1020 1025	block
+T40	Protein_part 1042 1053	side chains
+T41	Protein_part 1057 1064	Gln-316
+T42	Protein_part 1069 1075	Asp-53
+T43	Protein_part 1083 1093	-3 subsite
+T44	Parameter 1106 1114	capacity
+T45	Location 1125 1133	internal
+T46	Chemical 1134 1149	glycoside bonds
+T47	Geometrical_part 1173 1181	template
+T48	Process 1190 1200	production
+T49	Molecule 1224 1233	catalysts
+T50	Process 1262 1269	changes
+T51	Technique 1294 1296	3D
+T52	Process 1349 1356	changes
+T53	Process 1372 1378	action
+T54	Protein 1388 1395	enzymes

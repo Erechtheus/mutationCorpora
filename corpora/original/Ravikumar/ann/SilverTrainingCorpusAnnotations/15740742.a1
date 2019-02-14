@@ -1,0 +1,67 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein 35 39	LuxU
+T3	Organism 45 59	Vibrio harveyi
+T4	Protein 63 89	phosphotransferase protein
+T5	Organism 102 111	bacterial
+T6	Process 119 126	sensing
+T7	Organism 139 163	bacterium Vibrio harveyi
+T8	Technique 177 192	bioluminescence
+T9	Process 198 205	process
+T10	Process 222 229	sensing
+T11	Process 239 246	process
+T12	Molecule 260 269	molecules
+T13	Body_part 286 294	membrane
+T14	Geometrical_part 301 307	sensor
+T15	Protein 324 342	regulator proteins
+T16	Protein 344 348	LuxN
+T17	Protein 353 357	LuxQ
+T18	Protein 395 402	protein
+T19	Process 403 418	phosphorylation
+T20	Process 419 428	reactions
+T21	Process 440 448	response
+T22	Protein 449 466	regulator protein
+T23	Protein 468 472	LuxO
+T24	Chemical 474 488	Phosphorylated
+T25	Protein 489 493	LuxO
+T26	Process 519 529	expression
+T27	Protein 537 545	proteins
+T28	Technique 562 577	bioluminescence
+T29	Process 603 610	sensing
+T30	Process 611 618	process
+T31	Process 626 634	function
+T32	Protein 642 668	phosphotransferase protein
+T33	Protein 670 674	LuxU
+T34	Protein 676 680	LuxU
+T35	Chemical 701 710	phosphate
+T36	Body_part 720 728	membrane
+T37	Protein 735 743	proteins
+T38	Protein 745 749	LuxN
+T39	Protein 754 758	LuxQ
+T40	Protein 763 767	LuxO
+T41	Protein 769 773	LuxU
+T42	Protein 783 819	amino acid residue monomeric protein
+T43	Chemical 821 829	Solution
+T44	Technique 830 833	NMR
+T45	Geometrical_part 860 887	three-dimensional structure
+T46	Protein 891 895	LuxU
+T47	Protein 897 901	LuxU
+T48	Protein_part 913 930	four-helix bundle
+T49	Protein_part 949 978	active-site histidine residue
+T50	Protein_part 980 985	His58
+T51	Protein_part 998 1009	alpha-helix
+T52	Unknown 1010 1011	C
+T53	Chemical 1027 1035	solution
+T54	Protein_part 1041 1052	active site
+T55	Protein_part 1096 1104	residues
+T56	Protein 1129 1148	hydrophobic protein
+T57	Body_part 1149 1153	face
+T58	Technique 1155 1158	NMR
+T59	Process 1175 1186	experiments
+T60	Protein_part 1221 1229	residues
+T61	Protein_part 1253 1259	region
+T62	Protein 1263 1267	LuxU
+T63	Protein_part 1271 1276	His58
+T64	Process 1336 1352	characterization
+T65	Organism 1379 1388	bacterial
+T66	Protein 1389 1407	phosphotransferase
+T67	Protein 1408 1415	protein

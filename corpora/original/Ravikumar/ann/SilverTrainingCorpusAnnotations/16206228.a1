@@ -1,0 +1,58 @@
+T1	Molecule 17 24	mutants
+T2	Organism 32 60	Micromonospora viridifaciens
+T3	Protein 61 70	sialidase
+T4	Process 84 93	retention
+T5	Process 97 110	configuration
+T6	Process 118 127	different
+T7	Process 128 138	mechanisms
+T8	Molecule 140 147	Mutants
+T9	Organism 155 183	Micromonospora viridifaciens
+T10	Protein 184 193	sialidase
+T11	Protein_part 195 200	Y370E
+T12	Protein_part 205 210	Y370F
+T13	Protein 247 254	enzymes
+T14	Process 271 280	different
+T15	Process 281 291	mechanisms
+T16	Process 302 315	substitutions
+T17	Protein_part 329 340	amino acids
+T18	Protein_part 352 357	Y370D
+T19	Protein 377 387	sialidases
+T20	Chemical 402 416	water molecule
+T21	Protein_part 434 445	active-site
+T22	Body_part 446 452	cavity
+T23	Chemical 481 492	nucleophile
+T24	Body_part 502 506	face
+T25	Molecular_Part 520 533	leaving group
+T26	Process 573 581	addition
+T27	Unknown 587 592	CH(2)
+T28	Value 593 597	unit
+T29	Protein_part 599 602	Asp
+T30	Protein_part 610 613	Glu
+T31	Process 627 636	mechanism
+T32	Physiology 642 651	inversion
+T33	Process 660 669	retention
+T34	Process 673 686	configuration
+T35	Unknown 697 705	Bronsted
+T36	Parameter 715 721	values
+T37	Protein_part 747 752	Y370E
+T38	Molecule 753 759	mutant
+T39	Process 772 791	double-displacement
+T40	Process 792 801	mechanism
+T41	Protein 803 807	beta
+T42	Parameter 815 826	k(cat)/K(m)
+T43	Value 827 839	-0.36+/-0.04
+T44	Protein_part 846 852	Glu370
+T45	Chemical 867 878	nucleophile
+T46	Protein_part 893 898	Y370F
+T47	Molecule 899 905	mutant
+T48	Protein 907 911	beta
+T49	Parameter 919 930	k(cat)/K(m)
+T50	Value 931 943	-0.79+/-0.12
+T51	State 971 987	transition state
+T52	Geometrical_part 993 1010	crystal structure
+T53	Protein_part 1018 1023	Y370F
+T54	Molecule 1024 1030	mutant
+T55	Chemical 1046 1089	2-deoxy-2,3-dehydro-N-acetylneuraminic acid
+T56	Protein_part 1111 1122	active-site
+T57	Process 1123 1135	perturbation
+T58	Protein 1152 1168	wild-type enzyme

@@ -1,0 +1,106 @@
+T1	Process 0 15	Phosphorylation
+T2	Protein_part 19 29	serine 264
+T3	Protein_part 38 49	active site
+T4	Geometrical_part 71 83	E1 component
+T5	Organism 91 96	human
+T6	Category 97 139	pyruvate dehydrogenase multienzyme complex
+T7	Body_part 148 156	junction
+T8	Process 160 170	glycolysis
+T9	Parameter 179 184	Krebs
+T10	Body_part 194 202	cellular
+T11	Process 203 213	metabolism
+T12	Category 219 268	pyruvate dehydrogenase multienzyme complex (PDHc)
+T13	Process 283 308	oxidative decarboxylation
+T14	Chemical 312 320	pyruvate
+T15	Chemical 324 334	acetyl-CoA
+T16	Organism 339 346	mammals
+T17	Category 348 352	PDHc
+T18	Process 378 393	phosphorylation
+T19	Protein_part 421 436	serine residues
+T20	Chemical 444 451	thiamin
+T21	Protein 462 484	pyruvate dehydrogenase
+T22	Protein 486 488	E1
+T23	Parameter 490 499	component
+T24	Process 510 522	inactivation
+T25	Organism 526 531	human
+T26	Category 532 536	PDHc
+T27	Process 560 575	phosphorylation
+T28	Protein_part 579 589	serine 264
+T29	Location 615 623	entrance
+T30	Category 631 640	substrate
+T31	Protein 641 648	channel
+T32	Protein_part 664 675	active site
+T33	Protein 679 681	E1
+T34	Process 699 713	investigations
+T35	Process 719 738	molecular mechanism
+T36	Process 747 759	inactivation
+T37	Technique 802 810	analysis
+T38	Technique 814 825	microscopic
+T39	Process 835 844	catalysis
+T40	Organism 848 853	human
+T41	Category 864 871	PDHc-E1
+T42	Process 876 897	pseudophosphorylation
+T43	Protein_part 898 915	variant Ser264Glu
+T44	Process 931 946	phosphorylation
+T45	Protein_part 950 956	Ser264
+T46	Process 965 974	catalysis
+T47	Location 988 997	intrinsic
+T48	Process 998 1008	reactivity
+T49	Protein_part 1016 1027	active site
+T50	Process 1031 1040	catalysis
+T51	Chemical 1044 1052	pyruvate
+T52	Process 1053 1068	decarboxylation
+T53	Process 1109 1116	binding
+T54	Category 1120 1129	substrate
+T55	Unknown 1137 1145	enzyme's
+T56	Protein_part 1146 1157	active site
+T57	Category 1166 1175	substrate
+T58	Protein 1176 1183	channel
+T59	Process 1213 1224	acetylation
+T60	Geometrical_part 1232 1244	E2 component
+T61	Process 1272 1287	phosphorylation
+T62	Unknown 1288 1295	variant
+T63	Unknown 1301 1310	structure
+T64	Process 1314 1335	pseudophosphorylation
+T65	Protein_part 1336 1353	variant Ser264Glu
+T66	Technique 1368 1389	X-ray crystallography
+T67	Process 1401 1412	differences
+T68	Geometrical_part 1438 1450	architecture
+T69	Process 1458 1473	phosphorylation
+T70	Geometrical_part 1474 1478	loop
+T71	Protein_part 1489 1500	active site
+T72	Protein 1532 1548	wild-type enzyme
+T73	Protein 1563 1570	channel
+T74	Protein_part 1586 1597	active site
+T75	Protein_part 1629 1639	side chain
+T76	Protein_part 1643 1654	residue 264
+T77	Unknown 1662 1669	variant
+T78	Physiology 1693 1704	obstruction
+T79	Category 1712 1721	substrate
+T80	Protein 1722 1729	channel
+T81	Process 1766 1781	phosphorylation
+T82	Protein_part 1785 1791	Ser264
+T83	Parameter 1797 1804	kinetic
+T84	Process 1834 1845	conjunction
+T85	Geometrical_part 1855 1864	structure
+T86	Protein_part 1868 1877	Ser264Glu
+T87	Process 1891 1906	phosphorylation
+T88	Protein_part 1928 1939	active site
+T89	Geometrical_part 1954 1960	steric
+T90	Category 1991 2000	substrate
+T91	Process 2001 2008	binding
+T92	Protein_part 2014 2025	active site
+T93	Process 2026 2034	coupling
+T94	Geometrical_part 2044 2056	E2 component
+T95	Protein_part 2063 2080	Ser264Gln variant
+T96	Parameter 2099 2105	charge
+T97	Location 2109 2121	position 264
+T98	Chemical 2156 2164	pyruvate
+T99	Process 2165 2172	binding
+T100	Process 2187 2198	acetylation
+T101	Protein 2202 2204	E2
+T102	Geometrical_part 2230 2236	steric
+T103	Process 2237 2244	effects
+T104	Process 2257 2267	inhibition
+T105	Category 2271 2275	PDHc
+T106	Process 2279 2294	phosphorylation

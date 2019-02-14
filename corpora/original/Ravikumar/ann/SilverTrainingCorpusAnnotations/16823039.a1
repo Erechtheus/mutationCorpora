@@ -1,0 +1,46 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 32	saposins A
+T3	Protein 37 38	C
+T4	Protein 40 50	Saposins A
+T5	Protein 55 56	C
+T6	Chemical 61 73	sphingolipid
+T7	Category 74 83	activator
+T8	Protein 84 92	proteins
+T9	Body_part 110 119	lysosomal
+T10	Chemical 133 151	galactosylceramide
+T11	Chemical 156 172	glucosylceramide
+T12	Protein 192 200	saposins
+T13	Chemical 216 222	lipids
+T14	Chemical 268 273	lipid
+T15	Molecular_Part 274 284	headgroups
+T16	Protein 302 312	hydrolases
+T17	Geometrical_part 337 355	crystal structures
+T18	Organism 359 364	human
+T19	Protein 365 373	saposins
+T20	Protein 380 381	C
+T21	Value 385 388	2.0
+T22	Unknown 389 398	Angstroms
+T23	Value 403 406	2.4
+T24	Unknown 407 416	Angstroms
+T25	Protein 461 478	monomeric saposin
+T26	Geometrical_part 479 483	fold
+T27	Protein 513 521	proteins
+T28	Chemical 540 548	solution
+T29	Parameter 552 554	pH
+T30	Value 555 558	7.0
+T31	Process 573 587	centrifugation
+T32	Parameter 601 603	pH
+T33	Value 604 607	4.8
+T34	Process 616 624	presence
+T35	Chemical 632 641	detergent
+T36	Unknown 642 650	C(8)E(5)
+T37	Protein 652 661	saposin A
+T38	Protein 677 683	dimers
+T39	Protein 691 700	saposin C
+T40	Protein 708 715	trimers
+T41	Protein 717 726	Saposin B
+T42	Protein 796 804	saposins
+T43	Protein 849 857	proteins
+T44	Chemical 872 878	lipids
+T45	Body_part 880 889	membranes
+T46	Protein 895 912	hydrolase enzymes

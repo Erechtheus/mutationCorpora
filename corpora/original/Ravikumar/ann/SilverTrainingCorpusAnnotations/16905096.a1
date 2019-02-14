@@ -1,0 +1,44 @@
+T1	Geometrical_part 2 8	steric
+T2	Protein 23 28	actin
+T3	Process 29 43	polymerization
+T4	Physiology 60 69	virulence
+T5	Protein 70 77	protein
+T6	Organism 79 89	Salmonella
+T7	Protein 107 129	ADP-ribosyltransferase
+T8	Parameter 130 138	activity
+T9	Protein 146 158	SpvB protein
+T10	Location 163 176	intracellular
+T11	Process 177 183	growth
+T12	Physiology 197 206	virulence
+T13	Protein 208 212	SpvB
+T14	Protein 233 238	actin
+T15	Body_part 249 261	cytoskeletal
+T16	Process 262 272	disruption
+T17	Physiology 277 286	apoptosis
+T18	Geometrical_part 307 324	crystal structure
+T19	Protein_part 332 348	catalytic domain
+T20	Protein 352 356	SpvB
+T21	Parameter 373 377	mass
+T22	Technique 392 400	analysis
+T23	Protein 406 410	SpvB
+T24	Protein 420 425	actin
+T25	Protein_part 429 435	Arg177
+T26	Protein 452 458	ATPase
+T27	Parameter 459 467	activity
+T28	Geometrical_part 490 508	crystal structures
+T29	Protein 512 516	SpvB
+T30	Process 527 541	polymerization
+T31	Protein 552 557	actin
+T32	Unknown 565 575	structures
+T33	Chemical 588 591	ADP
+T34	State 631 645	conformational
+T35	Process 646 653	changes
+T36	Protein 657 662	actin
+T37	Unknown 703 709	family
+T38	Molecule 713 719	toxins
+T39	Protein 729 734	actin
+T40	Process 735 749	polymerization
+T41	Geometrical_part 768 774	steric
+T42	Process 775 785	disruption
+T43	Protein 789 802	intrafilament
+T44	Process 803 811	contacts

@@ -1,0 +1,48 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 50	ubiquitin binding domains
+T3	Protein 54 61	rabex-5
+T4	Process 83 94	interaction
+T5	Protein 100 109	ubiquitin
+T6	Process 115 126	interaction
+T7	Protein 149 157	proteins
+T8	Location 162 175	intracellular
+T9	Protein 176 184	proteins
+T10	Protein_part 195 227	ubiquitin binding domains (UBDs)
+T11	Body_part 258 276	cellular processes
+T12	Process 299 306	Rabex-5
+T13	Chemical 310 328	guanine nucleotide
+T14	Protein 329 344	exchange factor
+T15	Unknown 349 353	Rab5
+T16	Unknown 364 366	Ub
+T17	Protein_part 391 395	UBDs
+T18	Protein_part 403 407	UBDs
+T19	Parameter 431 441	properties
+T20	Process 445 452	Rabex-5
+T21	Process 476 494	monoubiquitination
+T22	Process 499 510	interaction
+T23	Unknown 538 543	EGFRs
+T24	Process 560 588	biochemical characterization
+T25	Protein_part 597 601	UBDs
+T26	Protein 605 612	Rabex-5
+T27	Unknown 640 643	MIU
+T28	Protein_part 645 650	motif
+T29	Protein 668 677	ubiquitin
+T30	Unknown 688 690	Ub
+T31	Protein_part 733 766	UIM (ubiquitin-interacting motif)
+T32	Unknown 766 769	:Ub
+T33	Process 770 781	interaction
+T34	Process 808 819	orientation
+T35	Protein_part 831 834	UBD
+T36	Body_part 836 879	RUZ (Rabex-5 ubiquitin binding zinc finger)
+T37	Geometrical_part 892 899	surface
+T38	Unknown 903 905	Ub
+T39	Unknown 918 927	Asp58(Ub)
+T40	Unknown 962 971	Ile44(Ub)
+T41	Geometrical_part 978 985	surface
+T42	Process 995 1002	binding
+T43	Geometrical_part 1003 1011	surfaces
+T44	Unknown 1018 1020	Ub
+T45	Process 1053 1062	different
+T46	Protein_part 1063 1067	UBDs
+T47	Unknown 1102 1104	Ub
+T48	Process 1115 1124	signaling

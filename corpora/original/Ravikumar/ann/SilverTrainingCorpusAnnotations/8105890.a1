@@ -1,0 +1,77 @@
+T1	Protein_part 2 15	glutamic acid
+T2	Protein 25 40	serine protease
+T3	Chemical 58 73	histidine triad
+T4	Category 77 86	substrate
+T5	Process 87 94	binding
+T6	Process 119 127	cleavage
+T7	Protein_part 134 149	acidic residues
+T8	Physiology 182 189	disease
+T9	State 190 196	states
+T10	Process 208 221	epidermolysis
+T11	Physiology 223 235	inflammation
+T12	Organism 241 246	viral
+T13	Protein 261 276	serine protease
+T14	Protein_part 301 314	glutamic acid
+T15	Category 315 325	substrates
+T16	Unknown 327 334	Glu-SGP
+T17	Process 365 373	presence
+T18	Protein_part 379 391	tetrapeptide
+T19	Category 392 398	ligand
+T20	Geometrical_part 403 417	its  structure
+T21	Parameter 447 455	R-factor
+T22	Value 459 462	17%
+T23	Value 466 471	2.0-A
+T24	Parameter 472 482	resolution
+T25	Unknown 490 499	structure
+T26	Process 520 531	description
+T27	Protein_part 596 604	residues
+T28	Geometrical_part 624 628	fold
+T29	Unknown 632 639	Glu-SGP
+T30	Protein 679 711	pancreatic-type serine proteases
+T31	Process 713 726	stabilization
+T32	Category 753 762	substrate
+T33	Protein 782 789	protein
+T34	Geometrical_part 826 830	part
+T35	Protein 838 846	protease
+T36	Category 877 886	substrate
+T37	Chemical 887 898	carboxylate
+T38	Protein_part 913 922	histidine
+T39	Protein_part 923 933	side chain
+T40	Protein_part 935 941	His213
+T41	Process 984 996	compensation
+T42	Value 1004 1012	negative
+T43	Parameter 1013 1019	charge
+T44	Category 1027 1036	substrate
+T45	Chemical 1049 1065	serine hydroxyls
+T46	Protein_part 1067 1073	Ser192
+T47	Protein_part 1078 1084	Ser216
+T48	Unknown 1086 1093	Glu-SGP
+T49	Parameter 1103 1119	maximum activity
+T50	Parameter 1123 1125	pH
+T51	Value 1126 1129	8.3
+T52	Parameter 1151 1156	pKa's
+T53	Chemical 1162 1171	glutamate
+T54	Protein_part 1172 1182	side chain
+T55	Protein_part 1187 1193	His213
+T56	Parameter 1256 1258	pH
+T57	Protein_part 1273 1279	His213
+T58	Value 1291 1299	positive
+T59	Parameter 1300 1306	charge
+T60	Parameter 1322 1324	pH
+T61	Parameter 1330 1333	pKa
+T62	Value 1370 1379	two units
+T63	Process 1396 1405	mechanism
+T64	Category 1410 1419	substrate
+T65	Parameter 1420 1426	charge
+T66	Process 1427 1439	compensation
+T67	Chemical 1475 1490	histidine triad
+T68	Protein_part 1492 1498	His213
+T69	Protein_part 1500 1506	His199
+T70	Protein_part 1513 1519	His228
+T71	Protein 1547 1562	serine protease
+T72	Protein_part 1568 1590	C-terminal alpha-helix
+T73	Protein 1610 1635	pancreatic-type proteases
+T74	Chemical 1664 1679	histidine triad
+T75	Process 1700 1704	role
+T76	Category 1708 1717	substrate
+T77	Process 1718 1731	stabilization

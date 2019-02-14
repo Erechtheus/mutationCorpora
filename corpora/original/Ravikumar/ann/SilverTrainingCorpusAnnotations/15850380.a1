@@ -1,0 +1,79 @@
+T1	Geometrical_part 16 33	crystal structure
+T2	Protein 37 57	manganese peroxidase
+T3	Category 59 68	substrate
+T4	Category 73 82	inhibitor
+T5	Category 83 92	complexes
+T6	Protein 94 120	Manganese peroxidase (MnP)
+T7	Location 127 140	extracellular
+T8	Protein 141 152	heme enzyme
+T9	Chemical 172 180	peroxide
+T10	Process 191 200	oxidation
+T11	Chemical 204 210	Mn(II)
+T12	Chemical 214 221	Mn(III)
+T13	Chemical 227 234	Mn(III)
+T14	Protein 256 262	enzyme
+T15	Category 266 273	complex
+T16	Chemical 279 286	oxalate
+T17	Chemical 292 307	heme propionate
+T18	Protein_part 316 327	side chains
+T19	Protein_part 331 336	Glu35
+T20	Protein_part 338 343	Glu39
+T21	Protein_part 349 355	Asp179
+T22	Chemical 375 381	Mn(II)
+T23	Category 382 389	ligands
+T24	Value 397 402	2.0 A
+T25	Parameter 403 413	resolution
+T26	Geometrical_part 414 431	crystal structure
+T27	Value 441 447	1.45 A
+T28	Geometrical_part 448 465	crystal structure
+T29	Protein 469 472	MnP
+T30	Chemical 488 494	Mn(II)
+T31	Chemical 532 534	Mn
+T32	Protein_part 543 547	site
+T33	Process 587 598	protonation
+T34	Protein_part 602 607	Glu39
+T35	Chemical 615 617	Mn
+T36	Protein_part 626 630	site
+T37	Process 635 648	glycosylation
+T38	Protein_part 652 658	Ser336
+T39	Protein 693 706	MnP-inhibitor
+T40	Geometrical_part 715 725	structures
+T41	Chemical 734 736	Mn
+T42	Protein_part 745 749	site
+T43	Chemical 751 766	divalent Cd(II)
+T44	Chemical 776 786	octahedral
+T45	Process 803 811	ligation
+T46	Geometrical_part 812 820	geometry
+T47	Chemical 840 846	Mn(II)
+T48	Chemical 848 854	Cd(II)
+T49	Chemical 893 898	metal
+T50	Protein_part 907 911	site
+T51	Geometrical_part 929 937	geometry
+T52	Protein_part 945 955	C-terminus
+T53	Protein 963 970	protein
+T54	Chemical 988 994	Mn(II)
+T55	Chemical 999 1005	Cd(II)
+T56	Process 1007 1019	coordination
+T57	Chemical 1023 1040	trivalent Sm(III)
+T58	Chemical 1048 1050	Mn
+T59	Protein_part 1059 1063	site
+T60	Chemical 1067 1081	octacoordinate
+T61	Chemical 1083 1090	Sm(III)
+T62	Protein 1110 1129	MnP-Sm(III) crystal
+T63	Unknown 1145 1152	crystal
+T64	Chemical 1156 1163	oxalate
+T65	Process 1195 1202	binding
+T66	Protein_part 1203 1207	site
+T67	Process 1222 1233	comparisons
+T68	Chemical 1237 1244	Sm(III)
+T69	Chemical 1255 1276	metal-free structures
+T70	Unknown 1302 1309	crystal
+T71	Category 1314 1329	ternary complex
+T72	Process 1348 1358	incubation
+T73	Chemical 1364 1371	oxalate
+T74	Process 1388 1395	binding
+T75	Chemical 1399 1406	Sm(III)
+T76	Process 1448 1455	binding
+T77	Chemical 1459 1466	Mn(III)
+T78	Protein 1474 1480	enzyme
+T79	Process 1521 1532	examination

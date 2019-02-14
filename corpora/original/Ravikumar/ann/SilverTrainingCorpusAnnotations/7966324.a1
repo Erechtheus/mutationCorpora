@@ -1,0 +1,78 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 17 24	sulfide
+T3	Protein 34 44	hemoglobin
+T4	Organism 59 75	Lucina pectinata
+T5	Technique 77 102	Crystallographic analysis
+T6	Value 106 111	1.5 A
+T7	Parameter 112 122	resolution
+T8	Geometrical_part 128 145	crystal structure
+T9	Chemical 174 181	sulfide
+T10	Protein 191 201	hemoglobin
+T11	Parameter 203 212	component
+T12	Unknown 213 214	I
+T13	Body_part 225 229	gill
+T14	Organism 256 263	mollusc
+T15	Organism 265 281	Lucina pectinata
+T16	Value 315 320	1.5 A
+T17	Parameter 321 331	resolution
+T18	Process 354 363	radiation
+T19	Technique 364 381	X-ray diffraction
+T20	Process 402 423	molecular replacement
+T21	Technique 424 434	techniques
+T22	Technique 440 456	crystallographic
+T23	Parameter 457 465	R-factor
+T24	Value 498 511	15.0 to 1.5 A
+T25	Parameter 512 528	resolution range
+T26	Value 533 538	0.170
+T27	Parameter 575 585	parameters
+T28	Protein 594 601	protein
+T29	Chemical 627 642	water molecules
+T30	Protein 648 676	monomeric hemoglobin I chain
+T31	Protein_part 693 712	amino acid residues
+T32	Process 755 760	basis
+T33	Technique 768 793	crystallographic analysis
+T34	Molecule 799 807	molecule
+T35	Parameter 839 851	distribution
+T36	Protein_part 864 872	residues
+T37	Protein_part 894 900	region
+T38	Protein_part 917 928	distal site
+T39	Chemical 936 947	heme pocket
+T40	Protein_part 953 972	heme distal residue
+T41	Unknown 976 985	Gln(64)E7
+T42	Protein_part 1007 1017	amino acid
+T43	Process 1018 1031	substitutions
+T44	Unknown 1040 1049	Trp(21)B2
+T45	Unknown 1051 1061	Phe(29)B10
+T46	Unknown 1063 1073	Leu(46)CD3
+T47	Unknown 1075 1085	Phe(68)E11
+T48	Unknown 1090 1100	Trp(75)E18
+T49	Protein_part 1105 1115	amino acid
+T50	Process 1116 1125	insertion
+T51	Protein_part 1127 1132	Ser44
+T52	Protein_part 1154 1163	sites CD1
+T53	Protein_part 1168 1171	CD2
+T54	Protein 1189 1196	protein
+T55	Chemical 1200 1214	water molecule
+T56	Process 1239 1251	coordination
+T57	Chemical 1268 1277	heme iron
+T58	Chemical 1283 1291	hydrogen
+T59	Unknown 1302 1311	Gln(64)E7
+T60	Chemical 1348 1365	dioxygen molecule
+T61	Protein 1376 1391	ferrous protein
+T62	Chemical 1421 1425	atom
+T63	Geometrical_part 1430 1434	ring
+T64	Unknown 1443 1453	Phe(29)B10
+T65	Process 1484 1496	coordination
+T66	Protein_part 1497 1501	site
+T67	Process 1531 1542	interaction
+T68	Process 1566 1573	packing
+T69	Process 1578 1590	organization
+T70	Protein_part 1603 1611	residues
+T71	Protein_part 1639 1655	heme distal site
+T72	Process 1685 1690	basis
+T73	Parameter 1708 1716	affinity
+T74	Organism 1720 1736	Lucina pectinata
+T75	Protein 1737 1749	hemoglobin I
+T76	Chemical 1754 1770	hydrogen sulfide
+T77	Category 1815 1822	ligands
+T78	Protein 1830 1837	protein

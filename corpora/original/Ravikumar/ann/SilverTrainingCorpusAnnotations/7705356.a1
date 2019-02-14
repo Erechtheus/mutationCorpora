@@ -1,0 +1,101 @@
+T1	Process 0 11	Involvement
+T2	Protein_part 15 20	Tyr24
+T3	Protein_part 25 31	Trp108
+T4	Category 35 44	substrate
+T5	Process 45 52	binding
+T6	Category 57 66	substrate
+T7	Protein 82 99	glycolate oxidase
+T8	Protein_part 101 106	Tyr24
+T9	Protein_part 111 117	Trp108
+T10	Protein_part 137 148	active site
+T11	Organism 152 159	spinach
+T12	Protein 160 177	glycolate oxidase
+T13	Process 199 207	function
+T14	Category 211 220	substrate
+T15	Process 221 228	binding
+T16	Process 233 242	catalysis
+T17	Protein_part 266 279	phenylalanine
+T18	Protein_part 284 290	serine
+T19	Protein 310 347	[Y24F]glycolate oxidase mutant enzyme
+T20	Value 357 371	tenfold higher
+T21	Parameter 372 380	Km value
+T22	Chemical 385 394	glycolate
+T23	Chemical 396 405	L-lactate
+T24	Chemical 410 430	DL-2-hydroxybutyrate
+T25	Value 443 449	higher
+T26	Parameter 450 459	Km values
+T27	Category 474 483	substrate
+T28	Protein 529 545	wild-type enzyme
+T29	Parameter 547 549	Km
+T30	Process 550 559	increases
+T31	Chemical 573 582	glycolate
+T32	Chemical 585 605	DL-2-hydroxybutyrate
+T33	Chemical 608 617	L-lactate
+T34	Chemical 620 631	L-mandelate
+T35	Parameter 638 653	turnover number
+T36	Parameter 662 666	rate
+T37	Process 670 679	reduction
+T38	Parameter 693 697	rate
+T39	Process 710 719	catalysis
+T40	Process 756 764	deletion
+T41	Chemical 772 780	hydroxyl
+T42	Molecular_Part 781 786	group
+T43	Protein_part 816 821	Tyr24
+T44	Category 844 853	substrate
+T45	Process 854 861	binding
+T46	Protein 892 915	[Y24F]glycolate oxidase
+T47	Parameter 931 939	fraction
+T48	Value 941 947	50-80%
+T49	Protein 956 963	protein
+T50	Food 964 969	bears
+T51	Chemical 972 978	flavin
+T52	Molecule 979 990	N(5) adduct
+T53	Category 1015 1023	cofactor
+T54	Unknown 1025 1033	Crystals
+T55	Protein 1061 1099	[Y24F]glycolate oxidase mutant protein
+T56	Geometrical_part 1133 1160	three-dimensional structure
+T57	Unknown 1175 1184	structure
+T58	Parameter 1193 1203	resolution
+T59	Value 1205 1211	0.3 nm
+T60	Unknown 1237 1246	structure
+T61	Molecule 1273 1284	N(5) adduct
+T62	Organism 1285 1292	species
+T63	Chemical 1321 1329	hydroxyl
+T64	Molecular_Part 1330 1335	group
+T65	Protein_part 1339 1344	Tyr24
+T66	Process 1363 1372	movements
+T67	Protein_part 1380 1390	amino acid
+T68	Protein_part 1391 1402	side chains
+T69	Protein_part 1406 1412	Arg164
+T70	Protein_part 1417 1423	Trp108
+T71	Chemical 1448 1462	water molecule
+T72	Category 1470 1479	substrate
+T73	Geometrical_part 1488 1494	pocket
+T74	Protein 1547 1568	flavoprotein oxidases
+T75	Process 1578 1591	stabilization
+T76	Chemical 1608 1627	N(5)-sulfite adduct
+T77	Chemical 1640 1651	paraquinoid
+T78	Chemical 1660 1674	8-mercapto-FMN
+T79	Protein 1704 1728	[W108S]Glycolate oxidase
+T80	Process 1759 1766	effects
+T81	Parameter 1779 1781	Km
+T82	Category 1786 1796	substrates
+T83	Parameter 1812 1827	turnover number
+T84	Parameter 1833 1835	Km
+T85	Chemical 1840 1849	glycolate
+T86	Value 1869 1881	hundred fold
+T87	Parameter 1890 1905	turnover number
+T88	Value 1920 1928	500-fold
+T89	Protein 1972 1980	homologs
+T90	Chemical 1984 1993	glycolate
+T91	Chemical 1995 2004	L-lactate
+T92	Chemical 2009 2029	DL-2-hydroxybutyrate
+T93	Parameter 2034 2050	turnover numbers
+T94	Protein 2083 2099	wild-type enzyme
+T95	Parameter 2114 2123	Km values
+T96	Protein_part 2181 2187	Trp108
+T97	Process 2200 2210	importance
+T98	Process 2214 2223	catalysis
+T99	Protein_part 2238 2245	residue
+T100	Category 2277 2286	substrate
+T101	Protein 2302 2319	glycolate oxidase

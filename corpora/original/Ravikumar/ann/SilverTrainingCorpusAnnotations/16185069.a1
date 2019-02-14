@@ -1,0 +1,80 @@
+T1	Process 0 4	Role
+T2	Protein_part 8 20	arginine 138
+T3	Process 28 37	catalysis
+T4	Process 42 52	regulation
+T5	Organism 56 72	Escherichia coli
+T6	Protein 73 101	dihydrodipicolinate synthase
+T7	Organism 106 112	plants
+T8	Organism 117 125	bacteria
+T9	Parameter 147 157	(S)-lysine
+T10	Process 158 170	biosynthesis
+T11	Process 178 190	condensation
+T12	Parameter 194 225	(S)-aspartate-beta-semialdehyde
+T13	Parameter 227 234	(S)-ASA
+T14	Chemical 240 248	pyruvate
+T15	Process 252 260	reaction
+T16	Protein 274 302	dihydrodipicolinate synthase
+T17	Protein 304 309	DHDPS
+T18	Protein 311 322	EC 4.2.1.52
+T19	Protein_part 351 357	Arg138
+T20	Protein_part 361 368	residue
+T21	Location 385 393	entrance
+T22	Protein_part 401 412	active site
+T23	Protein 417 422	DHDPS
+T24	Chemical 455 463	carboxyl
+T25	Parameter 467 474	(S)-ASA
+T26	Process 515 524	mechanism
+T27	Parameter 528 538	(S)-lysine
+T28	Process 539 549	inhibition
+T29	Process 574 584	assertions
+T30	Process 588 596	mutation
+T31	Protein_part 600 606	Arg138
+T32	Protein_part 615 624	histidine
+T33	Protein_part 629 636	alanine
+T34	Process 648 660	purification
+T35	Unknown 662 673	DHDPS-R138H
+T36	Unknown 678 689	DHDPS-R138A
+T37	Parameter 723 731	activity
+T38	Value 733 751	approximately 0.1%
+T39	Unknown 793 809	Michaelis-Menten
+T40	Parameter 810 818	constant
+T41	Parameter 823 830	(S)-ASA
+T42	Chemical 866 879	pseudo-single
+T43	Category 880 889	substrate
+T44	Technique 890 898	analysis
+T45	Protein_part 987 993	Arg138
+T46	Process 1018 1027	catalysis
+T47	Process 1044 1048	role
+T48	Category 1052 1061	substrate
+T49	Process 1062 1069	binding
+T50	Process 1098 1105	changes
+T51	Process 1128 1134	change
+T52	Parameter 1138 1145	kinetic
+T53	Physiology 1146 1154	behavior
+T54	Geometrical_part 1160 1178	solution structure
+T55	Technique 1194 1219	far-UV circular dichroism
+T56	Process 1241 1250	mutations
+T57	Location 1254 1266	position 138
+T58	Geometrical_part 1282 1301	secondary structure
+T59	Geometrical_part 1307 1325	crystal structures
+T60	Protein 1334 1348	mutant enzymes
+T61	Process 1381 1389	presence
+T62	Process 1397 1406	mutations
+T63	Protein_part 1428 1434	Arg138
+T64	Process 1454 1458	role
+T65	Process 1462 1471	catalysis
+T66	Process 1477 1490	stabilization
+T67	Protein_part 1498 1522	catalytic triad residues
+T68	Protein_part 1526 1531	motif
+T69	Parameter 1584 1592	activity
+T70	Process 1611 1615	role
+T71	Protein_part 1619 1625	Arg138
+T72	Parameter 1629 1639	(S)-lysine
+T73	Process 1640 1650	inhibition
+T74	Protein 1670 1684	mutant enzymes
+T75	Parameter 1701 1714	IC(50) values
+T76	Process 1737 1746	different
+T77	Process 1755 1765	inhibition
+T78	Protein_part 1808 1820	arginine 138
+T79	Parameter 1842 1852	(S)-lysine
+T80	Process 1853 1863	inhibition

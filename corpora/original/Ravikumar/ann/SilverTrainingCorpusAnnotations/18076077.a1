@@ -1,0 +1,66 @@
+T1	Chemical 0 7	Solvent
+T2	Protein_part 16 24	residues
+T3	Protein_part 40 50	beta-sheet
+T4	State 64 73	stability
+T5	Process 82 97	tetramerization
+T6	Protein_part 98 104	domain
+T7	Protein 108 113	p53--
+T8	Process 158 162	role
+T9	Protein_part 178 189	amino acids
+T10	Process 197 206	formation
+T11	Geometrical_part 210 227	hydrophobic cores
+T12	Parameter 257 263	forces
+T13	Protein 267 274	protein
+T14	Process 275 282	folding
+T15	Process 326 337	implication
+T16	Chemical 349 356	solvent
+T17	Protein_part 365 376	amino acids
+T18	Chemical 509 516	solvent
+T19	Protein_part 525 533	residues
+T20	Protein_part 535 538	Tyr
+T21	Protein_part 545 553	Thr(329)
+T22	Protein_part 559 567	Gln(331)
+T23	Protein_part 580 593	thebeta-sheet
+T24	Process 601 616	tetramerization
+T25	Protein_part 617 623	domain
+T26	Protein 631 659	tumor suppressor p53 (p53TD)
+T27	Protein_part 688 695	peptide
+T28	Protein 791 799	tetramer
+T29	State 800 809	stability
+T30	Protein 820 833	p53TD mutants
+T31	Protein_part 883 890	residue
+T32	Process 940 956	characterization
+T33	Process 958 967	Unfolding
+T34	Process 968 979	experiments
+T35	Unknown 1022 1026	T(m)
+T36	Parameter 1027 1033	values
+T37	Value 1042 1044	27
+T38	Value 1049 1061	83 degrees C
+T39	Organism 1063 1072	Wild type
+T40	Protein 1073 1078	p53TD
+T41	Molecule 1123 1130	mutants
+T42	Protein 1215 1223	proteins
+T43	Protein 1236 1245	tetramers
+T44	Unknown 1269 1278	structure
+T45	Process 1283 1294	equilibrium
+T46	Protein 1309 1317	monomers
+T47	Technique 1322 1325	NMR
+T48	Protein 1379 1384	p53TD
+T49	Molecule 1410 1417	mutants
+T50	State 1446 1455	stability
+T51	Process 1463 1472	different
+T52	Protein 1473 1486	p53TD mutants
+T53	Process 1503 1514	correlation
+T54	Parameter 1520 1530	parameters
+T55	Process 1542 1551	formation
+T56	Process 1556 1569	stabilization
+T57	Protein_part 1577 1587	beta-sheet
+T58	Process 1605 1618	stabilization
+T59	Process 1639 1651	interactions
+T60	Unknown 1669 1687	structure elements
+T61	Process 1712 1721	mechanism
+T62	Process 1737 1746	influence
+T63	Chemical 1750 1757	solvent
+T64	Protein_part 1766 1774	residues
+T65	State 1783 1792	stability
+T66	Protein 1796 1801	p53TD

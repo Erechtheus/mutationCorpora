@@ -1,0 +1,45 @@
+T1	Unknown 0 9	Structure
+T2	Protein 32 53	xylitol dehydrogenase
+T3	Category 54 65	cosubstrate
+T4	Protein 79 106	Xylitol dehydrogenase (XDH)
+T5	Protein 125 132	enzymes
+T6	Chemical 162 168	xylose
+T7	Organism 174 184	eukaryotic
+T8	Process 185 195	metabolism
+T9	Process 214 226	fermentation
+T10	Chemical 231 237	xylose
+T11	Chemical 286 293	ethanol
+T12	Chemical 309 315	xylose
+T13	Process 316 327	utilization
+T14	Parameter 336 346	flux rates
+T15	Category 348 360	cosubstrates
+T16	Chemical 392 396	NAD+
+T17	Protein 406 409	XDH
+T18	Chemical 418 423	NADPH
+T19	Protein 435 451	xylose reductase
+T20	Protein 461 467	enzyme
+T21	Process 475 482	pathway
+T22	Category 512 523	cosubstrate
+T23	Protein 539 542	XDH
+T24	Geometrical_part 562 579	crystal structure
+T25	Protein 587 619	Gluconobacter oxydans holoenzyme
+T26	Value 623 636	1.9 angstroms
+T27	Parameter 637 647	resolution
+T28	Unknown 653 662	structure
+T29	Chemical 676 680	NAD+
+T30	Protein_part 717 722	Asp38
+T31	Chemical 749 758	hydroxyls
+T32	Chemical 766 782	adenosine ribose
+T33	Protein_part 784 789	Met39
+T34	Chemical 808 819	purine ring
+T35	Chemical 853 861	hydroxyl
+T36	Protein_part 894 902	residues
+T37	Protein_part 910 918	sequence
+T38	Process 919 929	alignments
+T39	Protein 943 950	enzymes
+T40	Category 962 973	cosubstrate
+T41	Molecule 1006 1019	double mutant
+T42	Molecule 1021 1030	D38S/M39R
+T43	Chemical 1065 1070	NADP+
+T44	Process 1080 1084	loss
+T45	Parameter 1088 1096	activity

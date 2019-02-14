@@ -1,0 +1,74 @@
+T1	Process 4 12	mutation
+T2	Protein_part 13 18	G145S
+T3	Protein 22 26	PrfA
+T4	Physiology 34 43	virulence
+T5	Molecule 44 53	regulator
+T6	Organism 57 79	Listeria monocytogenes
+T7	Molecule 92 95	DNA
+T8	Parameter 104 112	affinity
+T9	Protein_part 132 141	HTH motif
+T10	Organism 143 165	Listeria monocytogenes
+T11	Organism 169 173	Gram
+T12	Location 196 209	intracellular
+T13	Organism 210 224	human pathogen
+T14	Physiology 233 252	systemic infections
+T15	Physiology 263 272	mortality
+T16	Parameter 273 277	rate
+T17	Protein 319 326	factors
+T18	Protein 330 346	L. monocytogenes
+T19	Protein 372 392	transcription factor
+T20	Protein 394 398	PrfA
+T21	Organism 427 434	strains
+T22	Protein 438 454	L. monocytogenes
+T23	Unknown 489 507	mutant PrfA(G145S)
+T24	Physiology 517 526	virulence
+T25	Protein 527 531	gene
+T26	Process 532 546	overexpression
+T27	Protein 588 592	PrfA
+T28	Unknown 608 622	Crp/Fnr family
+T29	Protein 626 647	transcription factors
+T30	Chemical 697 701	cAMP
+T31	Chemical 705 709	O(2)
+T32	Geometrical_part 726 744	crystal structures
+T33	Unknown 748 762	wild-type PrfA
+T34	Organism 774 778	Gram
+T35	Unknown 788 794	member
+T36	Unknown 802 816	Crp/Fnr family
+T37	Unknown 852 870	mutant PrfA(G145S)
+T38	Unknown 872 881	Cap (Crp)
+T39	Chemical 931 935	cAMP
+T40	Unknown 945 953	DNA-free
+T41	State 966 978	conformation
+T42	Protein 998 1002	PrfA
+T43	Geometrical_part 1003 1013	structures
+T44	State 1052 1057	state
+T45	Molecule 1106 1109	DNA
+T46	Parameter 1118 1126	affinity
+T47	Unknown 1130 1144	wild-type PrfA
+T48	Protein_part 1195 1217	helix-turn-helix motif
+T49	Geometrical_part 1227 1235	geometry
+T50	Protein_part 1243 1260	HTH alpha-helices
+T51	Unknown 1275 1278	Cap
+T52	Geometrical_part 1287 1294	surface
+T53	Technique 1295 1321	plasmon resonance analyses
+T54	Value 1330 1340	0.9 microM
+T55	Unknown 1346 1357	PrfA(G145S)
+T56	Protein_part 1362 1372	HTH motifs
+T57	State 1407 1419	conformation
+T58	Chemical 1434 1438	cAMP
+T59	Unknown 1447 1450	Cap
+T60	Molecule 1476 1479	DNA
+T61	Process 1480 1487	binding
+T62	Molecule 1504 1507	DNA
+T63	Parameter 1516 1524	affinity
+T64	Value 1528 1533	50 nM
+T65	Unknown 1564 1578	wild-type PrfA
+T66	Unknown 1591 1613	Crp/Fnr family members
+T67	Category 1650 1658	cofactor
+T68	Process 1663 1673	activation
+T69	Process 1694 1702	presence
+T70	Geometrical_part 1717 1723	tunnel
+T71	Protein 1727 1731	PrfA
+T72	Protein_part 1765 1776	beta-barrel
+T73	Molecule 1785 1788	DNA
+T74	Protein_part 1797 1803	domain

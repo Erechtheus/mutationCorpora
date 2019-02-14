@@ -1,0 +1,70 @@
+T1	Process 3 10	insight
+T2	Process 20 29	mechanism
+T3	Organism 33 38	human
+T4	Protein 39 59	cysteine dioxygenase
+T5	Process 65 70	roles
+T6	Chemical 78 87	thioether
+T7	Protein_part 95 112	tyrosine-cysteine
+T8	Category 113 121	cofactor
+T9	Protein 123 143	Cysteine dioxygenase
+T10	Chemical 149 157	non-heme
+T11	Location 158 169	mononuclear
+T12	Protein 170 188	iron metalloenzyme
+T13	Process 209 218	oxidation
+T14	Protein_part 222 230	cysteine
+T15	Chemical 234 256	cysteine sulfinic acid
+T16	Process 262 270	addition
+T17	Chemical 274 292	molecular dioxygen
+T18	Process 312 321	oxidative
+T19	Physiology 322 332	catabolism
+T20	Protein_part 336 344	cysteine
+T21	Physiology 373 382	metabolic
+T22	Process 383 391	pathways
+T23	Chemical 411 430	sulfurate compounds
+T24	Protein 432 452	Cysteine dioxygenase
+T25	Body_part 508 515	hepatic
+T26	Parameter 516 529	concentration
+T27	Location 533 546	intracellular
+T28	Protein_part 552 560	cysteine
+T29	Process 562 572	Mechanisms
+T30	Organism 577 582	mouse
+T31	Organism 587 590	rat
+T32	Protein 591 612	cysteine dioxygenases
+T33	Geometrical_part 656 674	crystal structures
+T34	Process 682 689	absence
+T35	Category 693 703	substrates
+T36	Process 731 735	lack
+T37	Geometrical_part 781 798	crystal structure
+T38	Organism 802 807	human
+T39	Protein 808 828	cysteine dioxygenase
+T40	Category 832 839	complex
+T41	Category 849 858	substrate
+T42	Protein_part 859 869	L-cysteine
+T43	Value 873 877	2.7A
+T44	Protein 893 902	enzymatic
+T45	Parameter 903 911	activity
+T46	Chemical 916 921	metal
+T47	Technique 930 936	assays
+T48	Molecule 961 968	mutants
+T49	Process 994 1001	insight
+T50	Process 1013 1022	mechanism
+T51	Chemical 1026 1040	cysteine thiol
+T52	Process 1041 1054	dioxygenation
+T53	Protein 1068 1088	cysteine dioxygenase
+T54	Chemical 1125 1134	thioether
+T55	Protein_part 1142 1159	tyrosine-cysteine
+T56	Category 1160 1168	cofactor
+T57	Protein_part 1179 1186	Tyr-157
+T58	Protein_part 1191 1197	Cys-93
+T59	Protein 1217 1224	protein
+T60	Category 1233 1241	cofactor
+T61	Process 1260 1265	roles
+T62	Protein 1290 1307	galactose oxidase
+T63	Parameter 1336 1345	potential
+T64	Process 1346 1352	target
+T65	Technique 1357 1364	therapy
+T66	Physiology 1368 1376	diseases
+T67	Organism 1388 1393	human
+T68	Protein 1394 1414	cysteine dioxygenase
+T69	Body_part 1426 1443	neurodegenerative
+T70	Physiology 1448 1467	autoimmune diseases

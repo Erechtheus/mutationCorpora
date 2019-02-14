@@ -1,0 +1,57 @@
+T1	Process 0 8	Mutation
+T2	Protein_part 24 43	active site residue
+T3	Protein 53 84	tyrosyl-DNA phosphodiesterase I
+T4	Protein 92 111	DNA topoisomerase I
+T5	Protein 130 168	Tyrosyl-DNA phosphodiesterase 1 (Tdp1)
+T6	Parameter 183 193	resolution
+T7	Chemical 207 226	phospho-DNA adducts
+T8	Molecule 240 246	mutant
+T9	Physiology 268 303	recessive neurodegenerative disease
+T10	Molecule 304 309	SCAN1
+T11	Protein 323 331	Tdp1-DNA
+T12	Category 332 341	complexes
+T13	Process 366 378	conservation
+T14	Protein 382 388	enzyme
+T15	Geometrical_part 389 401	architecture
+T16	Value 405 410	2.0 A
+T17	Geometrical_part 411 428	crystal structure
+T18	Organism 432 437	yeast
+T19	Protein 438 442	Tdp1
+T20	Organism 482 487	human
+T21	Protein 488 492	Tdp1
+T22	Protein_part 501 518	conserved regions
+T23	Geometrical_part 522 539	primary structure
+T24	Protein 599 605	Enzyme
+T25	Process 606 615	mechanism
+T26	Organism 648 653	yeast
+T27	Molecule 654 659	SCAN1
+T28	Molecule 660 666	mutant
+T29	Unknown 668 669	H
+T30	Unknown 673 675	)R
+T31	Body_part 686 690	cell
+T32	Parameter 691 702	sensitivity
+T33	Protein 710 736	DNA topoisomerase I (Top1)
+T34	Protein 772 776	Top1
+T35	Protein 800 811	Tdp1H(432)N
+T36	Chemical 816 820	drug
+T37	Protein 869 877	Top1-DNA
+T38	Protein 882 890	Tdp1-DNA
+T39	Process 899 908	formation
+T40	Molecule 932 938	H(432)
+T41	Molecule 939 946	mutants
+T42	Protein 965 979	wild-type Tdp1
+T43	Organism 987 992	yeast
+T44	Molecule 993 999	H(432)
+T45	Protein 1020 1029	acid/base
+T46	Process 1030 1049	catalytic mechanism
+T47	Protein 1053 1057	Tdp1
+T48	Chemical 1072 1086	phosphotyrosyl
+T49	Protein_part 1091 1115	3' phosphoamide linkages
+T50	Protein 1150 1161	mutant Tdp1
+T51	Parameter 1162 1170	activity
+T52	Organism 1182 1187	yeast
+T53	Body_part 1188 1193	cells
+T54	Process 1218 1224	defect
+T55	Protein 1228 1239	Tdp1H(432)N
+T56	Parameter 1250 1260	resolution
+T57	Chemical 1267 1274	phospho

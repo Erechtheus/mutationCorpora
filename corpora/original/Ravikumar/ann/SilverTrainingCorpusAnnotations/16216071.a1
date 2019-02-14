@@ -1,0 +1,84 @@
+T1	Protein_part 0 19	C-terminal tyrosine
+T2	Protein 23 49	ferredoxin-NADP+ reductase
+T3	Chemical 53 60	hydride
+T4	Process 61 69	transfer
+T5	Process 70 79	processes
+T6	Chemical 85 94	NAD(P)+/H
+T7	Protein 96 128	Ferredoxin-NADP+ reductase (FNR)
+T8	Process 143 152	reduction
+T9	Chemical 156 161	NADP+
+T10	Chemical 165 170	NADPH
+T11	Process 197 205	reaction
+T12	Process 220 231	differences
+T13	Process 239 249	mechanisms
+T14	Organism 258 272	cyanobacterial
+T15	Organism 284 289	plant
+T16	Protein 290 294	FNRs
+T17	Chemical 303 310	hydride
+T18	Process 311 319	transfer
+T19	Protein_part 344 362	FNR C-terminal Tyr
+T20	Chemical 383 395	nicotinamide
+T21	Protein_part 408 422	C-terminal Tyr
+T22	Chemical 468 474	flavin
+T23	Parameter 475 491	redox properties
+T24	Chemical 523 535	nicotinamide
+T25	Process 536 543	binding
+T26	Chemical 548 555	hydride
+T27	Process 556 564	transfer
+T28	Protein 566 578	FNR variants
+T29	Organism 588 611	cyanobacterium Anabaena
+T30	Protein_part 625 639	C-terminal Tyr
+T31	Protein_part 661 664	Trp
+T32	Protein_part 666 669	Phe
+T33	Protein_part 674 677	Ser
+T34	Protein 702 714	FNR variants
+T35	Chemical 729 734	NADP+
+T36	Chemical 739 743	NAD+
+T37	Process 744 751	binding
+T38	Protein_part 764 773	Tyr303Ser
+T39	Process 811 822	improvement
+T40	Chemical 826 830	NADH
+T41	Process 841 850	reactions
+T42	Protein_part 870 887	Tyr303Ser variant
+T43	Process 896 904	decrease
+T44	Parameter 912 935	steady-state kcat value
+T45	Chemical 941 946	NADPH
+T46	Parameter 953 960	kinetic
+T47	Technique 961 969	analysis
+T48	Chemical 977 984	hydride
+T49	Process 985 993	transfer
+T50	Parameter 1013 1023	efficiency
+T51	Protein 1042 1052	mutant FNR
+T52	Parameter 1059 1071	steady-state
+T53	Process 1099 1103	lack
+T54	Protein 1150 1165	enzyme-coenzyme
+T55	Process 1166 1177	interaction
+T56	Geometrical_part 1179 1207	Three-dimensional structures
+T57	Protein_part 1212 1221	Tyr303Ser
+T58	Protein_part 1226 1244	Tyr303Trp variants
+T59	Category 1253 1262	complexes
+T60	Chemical 1268 1273	NADP+
+T61	Process 1291 1302	differences
+T62	Organism 1311 1316	plant
+T63	Organism 1321 1335	cyanobacterial
+T64	Protein 1336 1340	FNRs
+T65	Process 1367 1377	modulation
+T66	Protein 1381 1389	coenzyme
+T67	Parameter 1390 1398	affinity
+T68	Parameter 1427 1435	strength
+T69	Chemical 1443 1457	C-terminus-FAD
+T70	Process 1458 1469	interaction
+T71	Process 1486 1493	changes
+T72	Organism 1502 1507	plant
+T73	Organism 1512 1526	cyanobacterial
+T74	Unknown 1527 1537	structures
+T75	Parameter 1561 1567	energy
+T76	Process 1576 1587	interaction
+T77	Protein_part 1624 1638	C-terminal Tyr
+T78	Protein 1642 1645	FNR
+T79	Parameter 1657 1665	affinity
+T80	Chemical 1671 1678	NADP+/H
+T81	Parameter 1705 1717	steady-state
+T82	Process 1718 1726	turnover
+T83	Chemical 1785 1792	hydride
+T84	Process 1793 1801	transfer

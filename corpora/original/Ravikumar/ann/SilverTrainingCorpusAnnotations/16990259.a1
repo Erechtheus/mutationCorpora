@@ -1,0 +1,84 @@
+T1	Molecule 0 5	X-ray
+T2	Geometrical_part 6 24	crystal structures
+T3	Protein_part 32 85	estrogen-related receptor-gamma ligand binding domain
+T4	State 106 112	states
+T5	Process 134 139	basis
+T6	Molecule 149 157	molecule
+T7	Process 158 168	regulation
+T8	Molecule 170 175	X-ray
+T9	Geometrical_part 176 194	crystal structures
+T10	Protein_part 202 229	ligand binding domain (LBD)
+T11	Protein 237 279	estrogen-related receptor-gamma (ERRgamma)
+T12	Protein 315 323	receptor
+T13	State 342 348	states
+T14	Category 370 377	agonist
+T15	Category 389 396	agonist
+T16	Unknown 408 418	structures
+T17	State 450 455	state
+T18	Protein_part 461 473	ERRgamma LBD
+T19	Category 488 495	complex
+T20	Molecule 503 514	coregulator
+T21	Protein_part 515 522	peptide
+T22	Protein 549 590	receptor interacting protein 140 (RIP140)
+T23	Process 607 618	differences
+T24	Unknown 643 653	structures
+T25	State 678 690	conformation
+T26	Protein 694 702	ERRgamma
+T27	Category 730 742	coactivators
+T28	Unknown 748 758	structures
+T29	Category 796 803	agonist
+T30	State 810 815	state
+T31	Protein_part 821 833	ERRgamma LBD
+T32	Chemical 839 865	4-hydroxytamoxifen (4-OHT)
+T33	Protein_part 875 887	ERRgamma LBD
+T34	Chemical 893 898	4-OHT
+T35	Protein_part 905 912	peptide
+T36	Process 943 952	silencing
+T37	Unknown 953 961	mediator
+T38	Chemical 965 973	retinoid
+T39	Body_part 978 985	thyroid
+T40	Molecule 986 993	hormone
+T41	Protein 994 1008	action protein
+T42	Protein 1010 1014	SMRT
+T43	Chemical 1021 1036	4-OHT structure
+T44	Category 1075 1082	agonist
+T45	Unknown 1089 1099	structures
+T46	Process 1109 1122	reorientation
+T47	Protein_part 1126 1143	phenylalanine 435
+T48	Process 1150 1162	displacement
+T49	Protein_part 1170 1180	AF-2 helix
+T50	Unknown 1208 1218	structures
+T51	Process 1237 1250	rearrangement
+T52	Process 1278 1285	changes
+T53	Protein_part 1293 1296	LBD
+T54	Protein_part 1321 1328	peptide
+T55	Process 1329 1336	binding
+T56	Process 1346 1354	addition
+T57	Protein_part 1362 1374	SMRT peptide
+T58	Protein 1382 1390	ERRgamma
+T59	Chemical 1396 1401	4-OHT
+T60	Category 1402 1409	complex
+T61	Category 1424 1431	agonist
+T62	State 1438 1443	state
+T63	Protein_part 1457 1469	ERRgamma LBD
+T64	Category 1473 1479	ligand
+T65	Category 1481 1488	GSK4716
+T66	Protein_part 1499 1513	RIP140 peptide
+T67	Process 1540 1553	rearrangement
+T68	Chemical 1561 1567	phenol
+T69	Protein_part 1576 1584	residues
+T70	State 1586 1603	Thermal stability
+T71	Category 1622 1629	agonist
+T72	Process 1630 1637	binding
+T73	Process 1654 1667	stabilization
+T74	Protein_part 1675 1696	ligand binding domain
+T75	Process 1730 1739	mechanism
+T76	Protein 1743 1759	nuclear receptor
+T77	Category 1760 1766	ligand
+T78	Process 1767 1777	activation
+T79	Process 1779 1789	activation
+T80	Protein 1793 1801	ERRgamma
+T81	Unknown 1805 1812	GSK4716
+T82	Process 1848 1861	rearrangement
+T83	Process 1877 1890	stabilization
+T84	Protein_part 1898 1914	C-terminal helix

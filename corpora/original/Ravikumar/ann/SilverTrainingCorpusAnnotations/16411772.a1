@@ -1,0 +1,72 @@
+T1	Parameter 0 7	Kinetic
+T2	Technique 12 37	crystallographic analysis
+T3	Organism 48 64	Escherichia coli
+T4	Protein 65 81	aminopeptidase P
+T5	Category 97 106	substrate
+T6	Process 107 118	recognition
+T7	Process 127 136	mechanism
+T8	Process 140 149	catalysis
+T9	Protein 151 175	Aminopeptidase P (APPro)
+T10	Chemical 181 190	manganese
+T11	Protein 201 207	enzyme
+T12	Chemical 225 246	N-terminal amino acid
+T13	Protein_part 252 264	polypeptides
+T14	Protein_part 275 289	second residue
+T15	Protein_part 293 300	proline
+T16	Protein 302 307	APPro
+T17	Geometrical_part 325 329	fold
+T18	Category 331 340	substrate
+T19	Process 358 377	catalytic mechanism
+T20	Protein 384 409	methionine aminopeptidase
+T21	Protein 414 423	prolidase
+T22	Process 444 449	roles
+T23	Protein_part 463 471	residues
+T24	Protein_part 479 490	active site
+T25	Protein 514 519	APPro
+T26	Process 569 577	Mutation
+T27	Chemical 592 597	metal
+T28	Category 598 605	ligands
+T29	Process 628 635	binding
+T30	Chemical 654 666	Mn(II) atoms
+T31	Protein_part 674 685	active site
+T32	Chemical 706 726	metal-ligand mutants
+T33	Parameter 752 760	activity
+T34	Process 762 770	Mutation
+T35	Protein_part 788 815	active site residues His243
+T36	Protein_part 820 826	His361
+T37	Process 864 873	catalysis
+T38	Protein_part 891 897	His243
+T39	Category 909 918	substrate
+T40	Process 919 926	binding
+T41	Process 938 949	interaction
+T42	Chemical 959 974	carbonyl oxygen
+T43	Protein_part 992 1007	proline residue
+T44	Category 1013 1022	substrate
+T45	Protein_part 1032 1038	His361
+T46	Category 1050 1059	substrate
+T47	Process 1060 1067	binding
+T48	Chemical 1076 1084	gem-diol
+T49	Molecule 1095 1107	intermediate
+T50	Protein_part 1109 1117	Sequence
+T51	Parameter 1135 1142	kinetic
+T52	Technique 1143 1151	analyses
+T53	Protein_part 1164 1170	His350
+T54	Protein 1185 1190	APPro
+T55	Protein 1195 1204	prolidase
+T56	Protein 1216 1241	methionine aminopeptidase
+T57	Process 1271 1278	binding
+T58	Geometrical_part 1279 1285	pocket
+T59	Protein 1297 1302	APPro
+T60	Protein_part 1307 1314	proline
+T61	Protein_part 1337 1345	peptides
+T62	Protein_part 1368 1383	proline residue
+T63	Chemical 1399 1414	N-methylalanine
+T64	Protein_part 1418 1425	alanine
+T65	Protein 1441 1446	APPro
+T66	Category 1476 1486	substrates
+T67	Process 1496 1500	loss
+T68	Process 1504 1516	interactions
+T69	Chemical 1529 1542	prolidyl ring
+T70	Category 1550 1559	substrate
+T71	Protein_part 1580 1587	proline
+T72	Geometrical_part 1596 1602	pocket

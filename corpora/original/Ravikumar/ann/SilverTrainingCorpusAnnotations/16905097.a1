@@ -1,0 +1,52 @@
+T1	Protein 18 25	sirtuin
+T2	Process 26 35	mechanism
+T3	Category 41 58	ternary complexes
+T4	Chemical 70 74	NAD+
+T5	Protein_part 79 97	acetylated peptide
+T6	Protein 99 115	Sirtuin proteins
+T7	Chemical 143 147	NAD+
+T8	Protein 158 178	protein deacetylases
+T9	Geometrical_part 198 208	structures
+T10	Protein 212 220	sirtuins
+T11	Process 247 256	mechanism
+T12	Chemical 266 270	NAD+
+T13	Process 271 279	cleavage
+T14	Geometrical_part 323 333	structures
+T15	Category 337 354	ternary complexes
+T16	Chemical 366 370	NAD+
+T17	Protein_part 375 393	acetylated peptide
+T18	Organism 407 416	bacterial
+T19	Protein 417 431	sirtuin Sir2Tm
+T20	Unknown 459 472	Sir2Tm(H116Y)
+T21	Chemical 475 479	NAD+
+T22	Unknown 489 499	structures
+T23	State 511 523	conformation
+T24	Unknown 561 571	structures
+T25	Body_part 586 596	alpha face
+T26	Chemical 604 623	nicotinamide ribose
+T27	Chemical 631 646	carbonyl oxygen
+T28	Protein_part 654 667	acetyl lysine
+T29	Category 668 677	substrate
+T30	Chemical 683 687	NAD+
+T31	State 688 700	conformation
+T32	Unknown 722 732	structures
+T33	Protein 757 765	coenzyme
+T34	Process 766 777	orientation
+T35	Process 798 806	contacts
+T36	Protein_part 826 835	histidine
+T37	Unknown 857 866	structure
+T38	Unknown 870 883	Sir2Tm(H116A)
+T39	Protein_part 906 913	peptide
+T40	Chemical 918 940	3'-O-acetyl ADP ribose
+T41	Unknown 964 974	structures
+T42	Process 985 994	mechanism
+T43	Chemical 999 1011	nicotinamide
+T44	Process 1012 1020	cleavage
+T45	Protein_part 1033 1056	invariant phenylalanine
+T46	Process 1073 1077	role
+T47	Process 1091 1100	formation
+T48	Chemical 1108 1122	O-alkylamidate
+T49	Process 1123 1131	reaction
+T50	Molecule 1132 1144	intermediate
+T51	Chemical 1160 1172	nicotinamide
+T52	Process 1173 1181	exchange

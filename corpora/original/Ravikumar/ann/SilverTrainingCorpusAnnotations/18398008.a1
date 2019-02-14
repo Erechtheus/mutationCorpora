@@ -1,0 +1,76 @@
+T1	Geometrical_part 14 22	scaffold
+T2	Unknown 30 79	haloalkanoic acid dehalogenase enzyme superfamily
+T3	State 124 140	transition state
+T4	Process 146 155	evolution
+T5	Parameter 173 183	activities
+T6	Protein 212 230	enzyme superfamily
+T7	Process 244 255	exploration
+T8	Protein_part 259 267	sequence
+T9	Process 278 288	adaptation
+T10	Category 298 307	substrate
+T11	Process 313 322	retention
+T12	Unknown 332 340	elements
+T13	Process 367 391	intermediates/transition
+T14	State 392 398	states
+T15	Protein_part 427 435	residues
+T16	Protein 449 462	enzyme family
+T17	Protein 468 525	haloalkanoic acid dehalogenase enzyme superfamily (HADSF)
+T18	State 574 591	transition states
+T19	Chemical 606 616	phosphoryl
+T20	Process 617 625	transfer
+T21	Parameter 658 664	forces
+T22	Chemical 670 678	vanadate
+T23	Category 679 686	complex
+T24	Protein 695 730	hexose phosphate phosphatase BT4131
+T25	Organism 736 764	Bacteroides thetaiotaomicron
+T26	Unknown 765 773	VPI-5482
+T27	Chemical 775 778	HPP
+T28	Value 794 800	1.00 A
+T29	Parameter 801 811	resolution
+T30	Technique 816 837	X-ray crystallography
+T31	Process 870 882	coordination
+T32	Geometrical_part 883 891	geometry
+T33	Protein_part 914 919	Asp-8
+T34	Chemical 929 935	oxygen
+T35	Category 936 942	ligand
+T36	Location 950 956	apical
+T37	Category 1000 1007	complex
+T38	Value 1022 1028	1.03 A
+T39	Parameter 1029 1039	resolution
+T40	Process 1057 1069	coordination
+T41	Geometrical_part 1070 1078	geometry
+T42	Process 1084 1096	contribution
+T43	Protein 1112 1121	acid/base
+T44	Protein_part 1122 1136	residue Asp-10
+T45	Process 1144 1157	stabilization
+T46	Organism 1187 1194	species
+T47	Chemical 1199 1212	hydrogen-bond
+T48	Process 1213 1222	formation
+T49	Location 1232 1238	apical
+T50	Chemical 1239 1250	oxygen atom
+T51	Value 1271 1277	1.52 A
+T52	Unknown 1278 1287	structure
+T53	Protein_part 1295 1306	D10A mutant
+T54	Chemical 1316 1324	vanadate
+T55	Unknown 1331 1340	structure
+T56	Geometrical_part 1386 1394	geometry
+T57	Process 1400 1412	displacement
+T58	Chemical 1420 1434	water molecule
+T59	Location 1458 1464	apical
+T60	Value 1492 1498	1.07 A
+T61	Parameter 1499 1509	resolution
+T62	Unknown 1510 1519	structure
+T63	Protein_part 1527 1538	D10A mutant
+T64	Chemical 1603 1613	"phosphate
+T65	Process 1632 1645	configuration
+T66	Technique 1651 1659	analysis
+T67	Protein 1675 1680	HADSF
+T68	Geometrical_part 1681 1691	structures
+T69	Technique 1709 1732	protein data bank (PDB)
+T70	Unknown 1766 1774	elements
+T71	State 1816 1833	transition states
+T72	Process 1873 1885	interactions
+T73	Location 1895 1900	axial
+T74	Chemical 1916 1921	atoms
+T75	Chemical 1942 1952	phosphoryl
+T76	Molecular_Part 1953 1958	group

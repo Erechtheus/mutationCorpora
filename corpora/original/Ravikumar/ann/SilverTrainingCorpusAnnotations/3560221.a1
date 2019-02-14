@@ -1,0 +1,104 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Technique 18 26	analyses
+T3	Chemical 39 42	CuI
+T4	Protein 51 63	plastocyanin
+T5	Parameter 71 80	pH values
+T6	Unknown 86 95	structure
+T7	Protein 106 118	plastocyanin
+T8	Chemical 135 138	CuI
+T9	State 140 145	state
+T10	Unknown 212 220	crystals
+T11	Parameter 224 230	pH 3.8
+T12	Value 232 235	4.4
+T13	Value 237 240	5.1
+T14	Value 242 245	5.9
+T15	Value 247 250	7.0
+T16	Value 255 258	7.8
+T17	Parameter 260 270	resolution
+T18	Value 271 276	1.9 A
+T19	Value 278 283	1.9 A
+T20	Value 285 291	2.05 A
+T21	Value 293 298	1.7 A
+T22	Value 300 305	1.8 A
+T23	Value 310 316	2.15 A
+T24	Parameter 338 345	R value
+T25	Value 350 354	0.15
+T26	Value 356 360	0.15
+T27	Value 362 366	0.16
+T28	Value 368 372	0.17
+T29	Value 374 378	0.16
+T30	Value 383 387	0.15
+T31	Geometrical_part 422 439	crystal structure
+T32	Protein 447 454	protein
+T33	State 496 501	state
+T34	State 521 526	state
+T35	Process 532 543	refinements
+T36	Unknown 551 561	structures
+T37	Protein 594 601	protein
+T38	Unknown 667 676	structure
+T39	Chemical 680 697	CuII-plastocyanin
+T40	Process 703 714	refinements
+T41	Technique 759 771	calculations
+T42	Process 790 801	inspections
+T43	Process 822 832	difference
+T44	Process 839 850	Precautions
+T45	Process 905 916	refinements
+T46	Process 925 934	direction
+T47	Process 979 990	differences
+T48	Unknown 1001 1011	structures
+T49	Protein 1027 1034	protein
+T50	Parameter 1046 1055	pH values
+T51	Unknown 1081 1090	structure
+T52	Protein 1107 1114	protein
+T53	Protein_part 1140 1147	Cu site
+T54	Protein 1164 1171	protein
+T55	Parameter 1180 1191	pH (pH 7.8)
+T56	Chemical 1197 1205	CuI atom
+T57	Chemical 1229 1253	N delta(imidazole) atoms
+T58	Protein_part 1257 1262	His37
+T59	Protein_part 1267 1272	His87
+T60	Chemical 1278 1300	S gamma(thiolate) atom
+T61	Protein_part 1304 1309	Cys84
+T62	Chemical 1319 1342	S delta(thioether) atom
+T63	Protein_part 1346 1351	Met92
+T64	Chemical 1364 1381	CuII-plastocyanin
+T65	Geometrical_part 1409 1417	geometry
+T66	Chemical 1441 1457	Cu-S(Met92) bond
+T67	Process 1481 1488	effects
+T68	Process 1496 1502	change
+T69	State 1506 1521	oxidation state
+T70	Chemical 1552 1567	Cu-N(His) bonds
+T71	Value 1571 1582	about 0.1 A
+T72	Process 1594 1601	changes
+T73	Parameter 1609 1620	bond angles
+T74	Chemical 1635 1649	Cu-S(Cys) bond
+T75	Unknown 1655 1662	high-pH
+T76	Protein 1679 1691	plastocyanin
+T77	Process 1718 1730	requirements
+T78	Molecule 1745 1753	electron
+T79	Process 1754 1762	transfer
+T80	Parameter 1771 1773	pH
+T81	Chemical 1790 1797	Cu atom
+T82	Chemical 1811 1813	Cu
+T83	Protein 1822 1829	protein
+T84	Protein_part 1830 1841	side-chains
+T85	Process 1880 1889	movements
+T86	Process 1893 1901	relation
+T87	Molecule 1921 1929	molecule
+T88	Parameter 1938 1949	pH (pH 3.8)
+T89	Chemical 1955 1963	CuI atom
+T90	Unknown 1994 2008	N delta(His37)
+T91	Unknown 2010 2024	S gamma(Cys84)
+T92	Unknown 2029 2043	S delta(Met92)
+T93	Chemical 2056 2070	Cu-ligand bond
+T94	Chemical 2086 2093	Cu atom
+T95	Unknown 2108 2122	van der Waals'
+T96	Process 2123 2130	contact
+T97	Chemical 2140 2154	imidazole ring
+T98	Protein_part 2158 2163	His87
+T99	Geometrical_part 2178 2186	geometry
+T100	Chemical 2194 2201	Cu atom
+T101	Chemical 2219 2222	CuI
+T102	Protein 2249 2256	protein
+T103	Unknown 2346 2351	CRDT-
+T104	Value 2360 2368	20 00:00

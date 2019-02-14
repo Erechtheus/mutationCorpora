@@ -1,0 +1,63 @@
+T1	Unknown 4 13	structure
+T2	Unknown 17 26	Atg4B-LC3
+T3	Category 27 34	complex
+T4	Process 47 56	mechanism
+T5	Protein 60 63	LC3
+T6	Process 79 91	delipidation
+T7	Physiology 99 108	autophagy
+T8	Unknown 110 114	Atg8
+T9	Chemical 132 161	phosphatidylethanolamine (PE)
+T10	Protein 165 174	ubiquitin
+T11	Process 180 191	conjugation
+T12	Process 192 201	reactions
+T13	Unknown 203 207	Atg8
+T14	Process 225 234	functions
+T15	Physiology 238 247	autophagy
+T16	Body_part 249 257	membrane
+T17	Physiology 258 268	biogenesis
+T18	Process 274 280	target
+T19	Process 281 292	recognition
+T20	Process 294 304	Regulation
+T21	Chemical 308 310	PE
+T22	Process 311 322	conjugation
+T23	Process 327 340	deconjugation
+T24	Unknown 344 348	Atg8
+T25	Process 370 379	functions
+T26	Protein 389 393	Atg4
+T27	Process 409 417	function
+T28	Protein 437 441	Atg8
+T29	Protein 442 452	precursors
+T30	Chemical 471 478	Atg8-PE
+T31	Geometrical_part 500 518	crystal structures
+T32	Unknown 542 563	human Atg4B (HsAtg4B)
+T33	Category 567 574	complex
+T34	Protein 615 618	LC3
+T35	Organism 622 631	mammalian
+T36	Protein 632 642	orthologue
+T37	Organism 646 651	yeast
+T38	Unknown 652 656	Atg8
+T39	Protein 661 664	LC3
+T40	Process 665 672	binding
+T41	Geometrical_part 689 693	loop
+T42	Protein_part 702 717	N-terminal tail
+T43	Unknown 721 728	HsAtg4B
+T44	State 743 757	conformational
+T45	Process 758 765	changes
+T46	Geometrical_part 782 786	loop
+T47	Location 799 807	entrance
+T48	Protein_part 815 826	active site
+T49	Unknown 835 842	HsAtg4B
+T50	Protein_part 856 866	LC3 Phe119
+T51	Geometrical_part 878 884	groove
+T52	Protein_part 911 919	LC3 tail
+T53	Protein_part 931 942	active site
+T54	Parameter 956 960	time
+T55	Protein_part 966 981	N-terminal tail
+T56	Location 995 999	exit
+T57	Protein_part 1007 1018	active site
+T58	Unknown 1022 1029	HsAtg4B
+T59	Protein 1069 1075	enzyme
+T60	Geometrical_part 1098 1105	surface
+T61	Protein 1141 1147	enzyme
+T62	Body_part 1162 1170	membrane
+T63	Chemical 1177 1183	LC3-PE

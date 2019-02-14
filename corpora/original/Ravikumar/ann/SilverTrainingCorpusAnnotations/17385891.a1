@@ -1,0 +1,101 @@
+T1	Process 4 12	stacking
+T2	Protein_part 13 23	tryptophan
+T3	Protein 27 44	galactose oxidase
+T4	Protein_part 75 82	residue
+T5	Process 101 108	effects
+T6	Chemical 112 127	tyrosyl radical
+T7	Physiology 128 136	behavior
+T8	Protein 141 147	enzyme
+T9	Process 148 157	catalysis
+T10	Process 163 171	function
+T11	Process 179 187	stacking
+T12	Protein_part 188 198	tryptophan
+T13	Protein_part 200 204	W290
+T14	Protein_part 235 242	residue
+T15	Protein 246 263	galactose oxidase
+T16	Parameter 291 312	steady-state kinetics
+T17	Process 313 325	measurements
+T18	Process 327 337	absorption
+T19	Unknown 339 341	CD
+T20	Technique 346 362	EPR spectroscopy
+T21	Technique 368 389	X-ray crystallography
+T22	Protein_part 397 402	W290F
+T23	Protein_part 404 409	W290G
+T24	Protein_part 415 429	W290H variants
+T25	Process 431 449	Enzymatic turnover
+T26	Unknown 482 495	W290 variants
+T27	Parameter 501 503	Km
+T28	Chemical 508 519	D-galactose
+T29	Protein_part 524 529	W290H
+T30	Parameter 580 582	Km
+T31	Protein_part 606 611	W290G
+T32	Protein_part 616 621	W290F
+T33	Process 636 640	role
+T34	Protein_part 645 649	W290
+T35	Category 653 662	substrate
+T36	Process 663 670	binding
+T37	Unknown 698 700	NH
+T38	Molecular_Part 701 706	group
+T39	Chemical 714 725	indole ring
+T40	Chemical 727 735	Hydrogen
+T41	Process 736 743	bonding
+T42	Protein_part 752 756	W290
+T43	Chemical 761 766	azide
+T44	Chemical 779 797	type-azide crystal
+T45	Unknown 798 807	structure
+T46	Process 833 841	function
+T47	Protein_part 843 847	W290
+T48	Parameter 862 872	properties
+T49	Process 877 887	reactivity
+T50	Chemical 908 924	tyrosine radical
+T51	Chemical 930 952	Y272 tyrosyl  radicals
+T52	Protein_part 965 970	W290G
+T53	Protein_part 975 989	W290H variants
+T54	Parameter 1004 1020	redox potentials
+T55	Chemical 1062 1069	radical
+T56	Protein_part 1073 1078	W290F
+T57	Parameter 1090 1100	properties
+T58	Chemical 1125 1150	wild-type tyrosyl radical
+T59	Protein_part 1152 1156	W290
+T60	Protein_part 1192 1209	Y272 radical site
+T61	Chemical 1213 1220	solvent
+T62	Geometrical_part 1222 1240	Crystal structures
+T63	Protein_part 1251 1255	Y272
+T64	Chemical 1278 1285	solvent
+T65	Unknown 1301 1314	W290G variant
+T66	Protein_part 1324 1329	W290F
+T67	Chemical 1337 1344	solvent
+T68	Chemical 1370 1386	wild-type indole
+T69	Protein_part 1387 1397	side chain
+T70	Technique 1399 1412	Spectroscopic
+T71	Chemical 1439 1445	Cu(II)
+T72	State 1446 1459	ground states
+T73	Unknown 1479 1492	W290 variants
+T74	Protein 1525 1542	wild-type protein
+T75	Unknown 1572 1582	structures
+T76	Chemical 1586 1597	W290X-azide
+T77	Category 1598 1607	complexes
+T78	Unknown 1661 1670	structure
+T79	Chemical 1672 1677	Azide
+T80	Process 1678 1685	binding
+T81	Chemical 1690 1695	azide
+T82	Molecule 1705 1711	proton
+T83	Process 1712 1718	uptake
+T84	Protein_part 1722 1726	Y495
+T85	Unknown 1748 1756	variants
+T86	Protein_part 1774 1784	tryptophan
+T87	Process 1804 1812	function
+T88	Protein_part 1836 1840	Y495
+T89	Protein 1849 1865	wild-type enzyme
+T90	Protein_part 1873 1877	W290
+T91	Process 1902 1907	roles
+T92	Protein 1911 1917	enzyme
+T93	Process 1918 1927	catalysis
+T94	Category 1939 1948	substrate
+T95	Process 1949 1956	binding
+T96	Chemical 1962 1977	tyrosyl radical
+T97	Parameter 1978 1993	redox potential
+T98	State 1998 2007	stability
+T99	Location 2017 2022	axial
+T100	Protein_part 2023 2031	tyrosine
+T101	Process 2032 2040	function

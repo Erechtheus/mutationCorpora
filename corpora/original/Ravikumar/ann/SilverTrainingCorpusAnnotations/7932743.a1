@@ -1,0 +1,98 @@
+T1	Geometrical_part 8 25	crystal structure
+T2	Organism 29 36	porcine
+T3	Protein 37 83	class Pi glutathione S-transferase (pGST P1-1)
+T4	Value 87 92	2.1 A
+T5	Parameter 93 103	resolution
+T6	Geometrical_part 109 126	crystal structure
+T7	Protein 130 194	class Pi glutathione S-transferase from porcine lung (pGST P1-1)
+T8	Category 198 205	complex
+T9	Chemical 211 233	glutathione sulphonate
+T10	Value 254 260	2.11 A
+T11	Parameter 261 271	resolution
+T12	Technique 278 294	crystallographic
+T13	Parameter 295 303	R-factor
+T14	Value 307 312	16.5%
+T15	Process 332 343	reflections
+T16	Unknown 357 366	structure
+T17	Chemical 381 394	protein atoms
+T18	Category 399 408	inhibitor
+T19	Chemical 410 432	glutathione sulphonate
+T20	Chemical 434 439	atoms
+T21	Chemical 448 463	water molecules
+T22	Parameter 508 535	root-mean-square deviations
+T23	Parameter 547 559	bond lengths
+T24	Parameter 564 575	bond angles
+T25	Value 579 586	0.011 A
+T26	Value 591 602	2.8 degrees
+T27	Parameter 632 648	root-mean-square
+T28	Value 670 675	0.2 A
+T29	Protein 681 688	protein
+T30	Protein 694 699	dimer
+T31	Protein 725 733	subunits
+T32	Protein_part 741 760	amino acid residues
+T33	Geometrical_part 766 784	tertiary structure
+T34	Protein 792 807	pGST P1 subunit
+T35	Protein_part 828 835	domains
+T36	Protein_part 841 858	N-terminal domain
+T37	Protein_part 860 868	domain I
+T38	Protein_part 870 880	residues 1
+T39	Protein_part 884 886	74
+T40	Protein_part 903 920	C-terminal domain
+T41	Protein_part 922 931	domain II
+T42	Protein_part 933 944	residues 81
+T43	Protein_part 948 951	207
+T44	Chemical 954 976	Glutathione sulphonate
+T45	Category 992 1001	inhibitor
+T46	Protein_part 1016 1029	G-site region
+T47	Chemical 1040 1051	glutathione
+T48	Protein_part 1060 1066	region
+T49	Protein_part 1075 1086	active site
+T50	Protein 1103 1110	subunit
+T51	Protein_part 1117 1123	G-site
+T52	Protein 1180 1187	subunit
+T53	Unknown 1202 1210	elements
+T54	Protein_part 1238 1244	G-site
+T55	Protein 1266 1274	subunits
+T56	Protein_part 1281 1289	domain I
+T57	Chemical 1348 1353	water
+T58	Process 1369 1381	interactions
+T59	Chemical 1415 1435	glutathione analogue
+T60	Protein_part 1443 1449	G-site
+T61	State 1455 1476	extended conformation
+T62	Protein 1492 1498	enzyme
+T63	Category 1505 1514	inhibitor
+T64	Process 1540 1552	interactions
+T65	Category 1561 1570	inhibitor
+T66	Protein 1575 1582	protein
+T67	Category 1638 1647	substrate
+T68	Chemical 1657 1668	glutathione
+T69	Protein_part 1682 1693	active site
+T70	Protein 1697 1731	class Mu glutathione S-transferase
+T71	Chemical 1737 1745	Hydrogen
+T72	Process 1746 1753	bonding
+T73	Chemical 1766 1775	sulphonyl
+T74	Molecular_Part 1776 1782	moiety
+T75	Category 1790 1799	inhibitor
+T76	Chemical 1808 1816	hydroxyl
+T77	Molecular_Part 1817 1822	group
+T78	Protein_part 1852 1868	tyrosine residue
+T79	Protein_part 1870 1874	Tyr7
+T80	Protein 1938 1945	protein
+T81	Molecular_Part 1946 1951	group
+T82	Protein 1955 1981	glutathione S-transferases
+T83	Process 2006 2016	activation
+T84	Category 2024 2033	substrate
+T85	Chemical 2034 2045	glutathione
+T86	Process 2061 2065	role
+T87	Protein_part 2070 2074	Tyr7
+T88	Process 2110 2121	mutagenesis
+T89	Parameter 2126 2133	kinetic
+T90	Process 2143 2153	Comparison
+T91	Geometrical_part 2167 2185	crystal structures
+T92	Unknown 2196 2198	Pi
+T93	Unknown 2206 2208	Mu
+T94	Protein 2213 2235	class Alpha isoenzymes
+T95	Location 2256 2265	cytosolic
+T96	Protein 2266 2292	glutathione S-transferases
+T97	Geometrical_part 2308 2312	fold
+T98	Process 2350 2359	catalysis

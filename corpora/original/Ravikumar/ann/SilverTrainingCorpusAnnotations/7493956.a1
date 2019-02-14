@@ -1,0 +1,65 @@
+T1	Technique 0 16	Crystallographic
+T2	Process 32 43	interaction
+T3	Protein 47 79	cyclodextrin glycosyltransferase
+T4	Organism 85 103	Bacillus circulans
+T5	Organism 104 114	strain 251
+T6	Category 128 138	substrates
+T7	Category 143 151	products
+T8	Protein_part 153 160	Asp-229
+T9	Protein_part 162 169	Glu-257
+T10	Protein_part 175 182	Asp-328
+T11	Protein_part 208 216	residues
+T12	Protein 220 253	cyclodextrin glycosyl transferase
+T13	Organism 259 277	Bacillus circulans
+T14	Organism 278 288	strain 251
+T15	Technique 294 319	site-directed mutagenesis
+T16	Protein 332 337	D229N
+T17	Protein 339 344	E257Q
+T18	Protein 350 371	D328N mutant proteins
+T19	Value 381 398	4,000-60,000-fold
+T20	Process 399 408	reduction
+T21	Process 412 423	cyclization
+T22	Parameter 424 432	activity
+T23	Molecule 436 447	D229N/E257Q
+T24	Molecule 448 461	double mutant
+T25	Value 472 484	700,000-fold
+T26	Process 485 494	reduction
+T27	Process 535 546	experiments
+T28	Chemical 552 570	alpha-cyclodextrin
+T29	Geometrical_part 572 590	Crystal structures
+T30	Protein 615 626	type CGTase
+T31	Parameter 646 648	pH
+T32	Chemical 654 672	alpha-cyclodextrin
+T33	Parameter 674 684	resolution
+T34	Value 686 691	2.1 A
+T35	Value 712 717	2.4 A
+T36	Unknown 733 743	structures
+T37	Parameter 757 768	temperature
+T38	Protein 799 805	enzyme
+T39	Value 807 812	2.2 A
+T40	Protein_part 825 843	D229N/E257Q mutant
+T41	Chemical 863 881	alpha-cyclodextrin
+T42	Value 883 888	2.6 A
+T43	Unknown 898 906	crystals
+T44	Chemical 917 935	alpha-cyclodextrin
+T45	Chemical 957 979	maltotetraose molecule
+T46	Protein_part 1007 1018	active site
+T47	Protein_part 1020 1031	Residue 229
+T48	Chemical 1038 1054	hydrogen bonding
+T49	Parameter 1055 1063	distance
+T50	Chemical 1073 1085	C-6 hydroxyl
+T51	Molecular_Part 1086 1091	group
+T52	Chemical 1099 1104	sugar
+T53	Process 1118 1126	cleavage
+T54	Molecule 1169 1180	D229N/E257Q
+T55	Unknown 1188 1204	mutant structure
+T56	Chemical 1210 1229	alpha-cyclodextrins
+T57	Chemical 1258 1266	maltoses
+T58	Protein_part 1274 1282	E-domain
+T59	Category 1325 1332	product
+T60	Process 1333 1343	inhibition
+T61	Process 1348 1355	binding
+T62	Protein 1363 1371	enzyme's
+T63	Chemical 1376 1382	starch
+T64	Process 1383 1390	binding
+T65	Protein_part 1392 1398	domain

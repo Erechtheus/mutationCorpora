@@ -1,0 +1,44 @@
+T1	Category 12 22	inhibitors
+T2	Protein 26 50	human leukocyte elastase
+T3	Process 63 72	synthesis
+T4	Technique 78 99	X-ray crystallography
+T5	Chemical 129 151	5-aminopyrimidin-6-one
+T6	Chemical 163 186	trifluoromethyl ketones
+T7	Process 192 199	effects
+T8	Process 203 210	changes
+T9	Process 214 226	substitution
+T10	Chemical 242 268	5-amino-2-pyrimidin-6-ones
+T11	Parameter 287 295	activity
+T12	Body_part 300 304	oral
+T13	Parameter 305 313	activity
+T14	Technique 338 343	assay
+T15	Chemical 370 379	compounds
+T16	Chemical 399 421	trifluoromethyl ketone
+T17	Chemical 435 439	acid
+T18	Molecular_Part 440 446	moiety
+T19	Chemical 473 489	Ser-195 hydroxyl
+T20	Protein 493 523	human leukocyte elastase (HLE)
+T21	Chemical 525 537	Boronic acid
+T22	Category 549 559	inhibitors
+T23	Chemical 612 627	trifluoromethyl
+T24	Body_part 671 675	oral
+T25	Process 676 690	administration
+T26	Chemical 692 700	Compound
+T27	Unknown 701 704	13b
+T28	Body_part 748 752	oral
+T29	Parameter 762 770	duration
+T30	Process 774 780	action
+T31	Protein 786 792	enzyme
+T32	Parameter 793 804	selectivity
+T33	Technique 864 885	X-ray crystallography
+T34	Category 906 913	complex
+T35	Chemical 917 925	compound
+T36	Value 926 929	19m
+T37	Organism 934 941	porcine
+T38	Body_part 942 952	pancreatic
+T39	Protein 953 961	elastase
+T40	Category 984 993	inhibitor
+T41	Protein 1010 1016	enzyme
+T42	Chemical 1094 1102	pyridone
+T43	Category 1114 1124	inhibitors
+T44	Protein 1128 1131	HLE

@@ -1,0 +1,68 @@
+T1	Process 0 21	Thermal stabilization
+T2	Organism 25 42	Bacillus subtilis
+T3	Protein 43 61	family-11 xylanase
+T4	Process 74 83	evolution
+T5	Process 102 111	evolution
+T6	Protein 146 164	glycosyl hydrolase
+T7	Protein 165 183	family-11 xylanase
+T8	Organism 189 206	Bacillus subtilis
+T9	Process 228 245	point mutagenesis
+T10	Process 247 257	saturation
+T11	Process 258 269	mutagenesis
+T12	Molecule 275 278	DNA
+T13	Unknown 305 312	variant
+T14	Unknown 314 321	Xyl(st)
+T15	Protein_part 360 370	amino acid
+T16	Process 371 384	substitutions
+T17	Protein_part 386 389	Q7H
+T18	Protein_part 391 394	N8F
+T19	Protein_part 400 405	S179C
+T20	Parameter 429 440	temperature
+T21	Parameter 470 476	curves
+T22	Protein 486 501	Xyl(st) variant
+T23	Protein 520 536	wild-type enzyme
+T24	Process 543 553	incubation
+T25	Value 558 564	10 min
+T26	Value 583 585	58
+T27	Value 589 601	68 degrees C
+T28	Value 606 618	60 degrees C
+T29	Protein 623 639	wild-type enzyme
+T30	Value 663 668	5 min
+T31	Unknown 674 681	Xyl(st)
+T32	Parameter 696 704	activity
+T33	Value 718 721	2 h
+T34	Process 727 740	stabilization
+T35	Process 801 809	increase
+T36	Process 825 833	reaction
+T37	Parameter 834 845	temperature
+T38	Value 851 853	55
+T39	Value 857 869	65 degrees C
+T40	Value 874 879	lower
+T41	Parameter 880 888	activity
+T42	Parameter 896 908	temperatures
+T43	Value 913 919	higher
+T44	Parameter 920 928	activity
+T45	Value 932 938	higher
+T46	Parameter 939 951	temperatures
+T47	Process 993 1002	mechanism
+T48	Process 1006 1027	thermal stabilization
+T49	Geometrical_part 1029 1057	three-dimensional structures
+T50	Protein 1096 1111	Xyl(st) enzymes
+T51	Body_part 1115 1121	cavity
+T52	Unknown 1144 1155	Gln-7/Asn-8
+T53	Protein_part 1198 1218	hydrophobic residues
+T54	Unknown 1222 1229	Xyl(st)
+T55	Protein_part 1236 1240	site
+T56	Process 1297 1306	evolution
+T57	Protein_part 1322 1328	region
+T58	Process 1346 1355	Formation
+T59	Chemical 1377 1393	disulfide bridge
+T60	Protein_part 1398 1405	Cys-179
+T61	Protein 1427 1435	monomers
+T62	Unknown 1439 1446	Xyl(st)
+T63	State 1461 1470	stability
+T64	Process 1503 1511	presence
+T65	Process 1516 1523	absence
+T66	Parameter 1575 1589	hydrophobicity
+T67	Protein_part 1601 1608	Cys-179
+T68	State 1627 1636	stability

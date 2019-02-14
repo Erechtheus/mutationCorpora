@@ -1,0 +1,69 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 30	Toxoplasma gondii
+T3	Protein 31 47	adenosine kinase
+T4	Category 51 58	complex
+T5	Chemical 67 77	ATP analog
+T6	Value 82 95	1.1 angstroms
+T7	Parameter 96 106	resolution
+T8	Location 121 134	intracellular
+T9	Organism 135 161	parasite Toxoplasma gondii
+T10	Chemical 191 209	purine nucleotides
+T11	Chemical 243 250	purines
+T12	Organism 269 273	host
+T13	Body_part 274 279	cells
+T14	Chemical 281 290	Adenosine
+T15	Unknown 308 317	precursor
+T16	Protein 343 364	adenosine kinase (AK)
+T17	Protein 382 388	enzyme
+T18	Chemical 392 401	adenosine
+T19	Process 402 412	metabolism
+T20	Organism 416 425	T. gondii
+T21	Protein 427 429	AK
+T22	Parameter 448 457	potential
+T23	Process 475 481	target
+T24	Process 490 499	treatment
+T25	Organism 504 513	T. gondii
+T26	Physiology 514 524	infections
+T27	Unknown 548 558	structures
+T28	Protein 573 575	AK
+T29	Protein 580 582	AK
+T30	Category 586 593	complex
+T31	Chemical 599 608	adenosine
+T32	Chemical 613 629	7-iodotubercidin
+T33	Chemical 638 648	ATP analog
+T34	Process 666 685	catalytic mechanism
+T35	Protein_part 689 695	domain
+T36	Process 696 703	closure
+T37	Unknown 719 721	GG
+T38	Chemical 734 743	adenosine
+T39	Process 744 751	binding
+T40	Chemical 767 776	adenosine
+T41	Chemical 781 796	gamma-phosphate
+T42	Chemical 800 803	ATP
+T43	Chemical 813 820	solvent
+T44	Process 826 835	formation
+T45	Chemical 843 848	anion
+T46	Chemical 869 872	ATP
+T47	Process 873 880	binding
+T48	Process 906 918	requirements
+T49	Process 923 932	catalysis
+T50	Unknown 960 969	structure
+T51	Category 982 989	complex
+T52	Protein 993 995	AK
+T53	Chemical 1021 1039	ATP analog AMP-PCP
+T54	Value 1058 1071	1.1 angstroms
+T55	Parameter 1072 1082	resolution
+T56	Unknown 1096 1105	structure
+T57	Protein 1124 1133	apoenzyme
+T58	State 1143 1160	open conformation
+T59	Chemical 1162 1169	AMP-PCP
+T60	State 1194 1207	conformations
+T61	Protein_part 1233 1239	Arg136
+T62	Chemical 1253 1258	anion
+T63	Protein 1299 1327	complex AK-adenosine-AMP-PCP
+T64	Unknown 1334 1343	structure
+T65	Chemical 1374 1377	ATP
+T66	Process 1378 1385	binding
+T67	Parameter 1400 1414	concentrations
+T68	Chemical 1432 1441	adenosine
+T69	Process 1442 1449	binding

@@ -1,0 +1,76 @@
+T1	Process 0 11	Interaction
+T2	Protein_part 19 50	peptide CF3-Leu-Ala-NH-C6H4-CF3
+T3	Protein_part 52 56	TFLA
+T4	Organism 63 70	porcine
+T5	Body_part 71 81	pancreatic
+T6	Protein 82 90	elastase
+T7	Molecule 92 97	X-ray
+T8	Value 109 114	1.8 A
+T9	Chemical 120 178	peptide trifluoroacetyl-Leu-Ala-(p-trifluoromethylanilide)
+T10	Category 196 205	inhibitor
+T11	Body_part 209 219	pancreatic
+T12	Organism 220 227	porcine
+T13	Protein 228 236	elastase
+T14	Parameter 263 265	Km
+T15	Value 269 283	2.5 x 10(-8) M
+T16	Unknown 285 296	Co-crystals
+T17	Value 304 307	1:1
+T18	Category 308 315	complex
+T19	Chemical 336 343	acetate
+T20	Chemical 353 379	dimethylformamide solution
+T21	Parameter 383 385	pH
+T22	Value 386 389	5.7
+T23	Process 391 402	Diffraction
+T24	Unknown 439 443	LURE
+T25	Category 470 479	inhibitor
+T26	Process 497 507	difference
+T27	Unknown 508 515	Fourier
+T28	Process 531 541	refinement
+T29	Unknown 549 558	structure
+T30	Unknown 597 602	XPLOR
+T31	Protein 627 633	factor
+T32	Parameter 637 638	R
+T33	Value 641 644	19%
+T34	Parameter 665 682	structure factors
+T35	Value 687 692	1.8 A
+T36	Parameter 703 713	resolution
+T37	Unknown 720 723	RMS
+T38	Process 724 734	deviations
+T39	Chemical 752 756	bond
+T40	Parameter 757 766	distances
+T41	Parameter 771 777	angles
+T42	Value 782 788	0.02 A
+T43	Value 793 802	2 degrees
+T44	Category 822 831	inhibitor
+T45	Molecule 832 840	molecule
+T46	Protein_part 858 869	active site
+T47	Protein_part 887 897	side chain
+T48	Protein_part 901 908	Phe-215
+T49	Geometrical_part 914 922	geometry
+T50	Unknown 962 971	structure
+T51	Unknown 979 990	CF3-Lys-Ala
+T52	Category 991 998	complex
+T53	Value 1002 1007	2.5 A
+T54	Geometrical_part 1014 1022	parallel
+T55	Protein_part 1023 1033	beta-sheet
+T56	Process 1034 1045	association
+T57	Geometrical_part 1055 1067	loop 214-216
+T58	Technique 1073 1081	analysis
+T59	Process 1095 1103	contacts
+T60	Value 1105 1120	less than 3.5 A
+T61	Chemical 1141 1166	trifluoromethylamide bond
+T62	Protein_part 1186 1197	active site
+T63	Protein_part 1210 1217	Leu-Ala
+T64	Chemical 1221 1238	Ala-anilide bonds
+T65	Chemical 1248 1259	fluorinated
+T66	Molecular_Part 1260 1266	groups
+T67	Category 1274 1283	inhibitor
+T68	Process 1292 1301	different
+T69	Chemical 1322 1337	trifluoroacetyl
+T70	Molecular_Part 1338 1343	group
+T71	Protein_part 1347 1355	terminus
+T72	Protein 1393 1398	chain
+T73	Geometrical_part 1399 1412	loops 191-195
+T74	Chemical 1436 1458	trifluoromethylanilide
+T75	Protein_part 1462 1470	terminus
+T76	Process 1513 1520	contact

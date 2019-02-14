@@ -1,0 +1,73 @@
+T1	Chemical 43 84	nitric oxide carrier S-nitrosoglutathione
+T2	Protein 94 128	human glutathione transferase P1-1
+T3	Molecule 134 160	nitric oxide molecule (NO)
+T4	Process 205 214	processes
+T5	Chemical 253 266	thiol species
+T6	Chemical 276 296	S-nitrosoglutathione
+T7	Molecule 298 302	GSNO
+T8	Molecule 305 309	GSNO
+T9	Protein 328 352	glutathione transferases
+T10	Unknown 362 373	superfamily
+T11	Protein 389 396	enzymes
+T12	Geometrical_part 421 438	crystal structure
+T13	Protein 442 446	GSNO
+T14	Protein 456 509	dimeric human glutathione transferase P1-1 (hGSTP1-1)
+T15	Value 514 519	1.4 A
+T16	Parameter 520 530	resolution
+T17	Molecule 536 540	GSNO
+T18	Category 541 547	ligand
+T19	Protein_part 561 572	active site
+T20	Chemical 582 590	nitrosyl
+T21	Molecular_Part 591 597	moiety
+T22	Process 619 631	interactions
+T23	Protein 641 648	protein
+T24	Process 661 670	titration
+T25	Technique 671 682	calorimetry
+T26	Technique 687 726	differential scanning calorimetry (DSC)
+T27	Process 762 773	interaction
+T28	Molecule 777 781	GSNO
+T29	Protein 791 797	enzyme
+T30	Process 803 810	binding
+T31	Molecule 814 818	GSNO
+T32	Protein 822 840	wild-type hGSTP1-1
+T33	Parameter 881 888	kinetic
+T34	Process 889 896	process
+T35	Process 916 923	binding
+T36	Process 924 931	process
+T37	Parameter 964 976	temperatures
+T38	Molecule 979 983	GSNO
+T39	Protein 993 1009	wild-type enzyme
+T40	Value 1027 1032	lower
+T41	Parameter 1033 1045	temperatures
+T42	Value 1064 1070	higher
+T43	Parameter 1071 1083	temperatures
+T44	Unknown 1099 1100	S
+T45	Chemical 1120 1130	sulfhydryl
+T46	Molecular_Part 1131 1136	group
+T47	Protein_part 1143 1147	C47S
+T48	Process 1148 1156	mutation
+T49	Process 1178 1190	modification
+T50	Parameter 1191 1200	potential
+T51	Protein 1208 1214	enzyme
+T52	Molecule 1218 1222	GSNO
+T53	Protein_part 1289 1301	helix alpha2
+T54	Unknown 1305 1314	hGST P1-1
+T55	Chemical 1347 1355	chemical
+T56	Process 1356 1368	modification
+T57	Protein_part 1372 1377	Cys47
+T58	Protein 1394 1410	wild-type enzyme
+T59	Protein_part 1416 1420	C47S
+T60	Process 1421 1429	mutation
+T61	Molecule 1471 1475	GSNO
+T62	Process 1476 1483	binding
+T63	Technique 1489 1492	DSC
+T64	State 1515 1532	thermal stability
+T65	Protein_part 1598 1610	helix alpha2
+T66	Process 1623 1635	interactions
+T67	Protein 1651 1658	subunit
+T68	Protein_part 1691 1696	Cys47
+T69	Process 1709 1713	role
+T70	Protein 1717 1729	intersubunit
+T71	Unknown 1791 1792	S
+T72	Protein_part 1810 1815	Cys47
+T73	Molecule 1819 1823	GSNO

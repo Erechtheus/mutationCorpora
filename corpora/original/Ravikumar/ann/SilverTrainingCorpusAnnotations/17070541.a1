@@ -1,0 +1,69 @@
+T1	Technique 16 32	X-ray structures
+T2	Organism 36 41	human
+T3	Protein 42 53	apoferritin
+T4	Protein 54 69	H-chain mutants
+T5	Parameter 93 101	activity
+T6	Chemical 106 111	metal
+T7	Protein_part 120 125	sites
+T8	Protein 127 136	Ferritins
+T9	Unknown 143 149	family
+T10	Protein 153 161	proteins
+T11	Organism 195 204	bacterial
+T12	Organism 206 211	plant
+T13	Organism 217 223	animal
+T14	Body_part 224 229	cells
+T15	Protein 231 239	ferritin
+T16	Chemical 307 311	iron
+T17	Protein 322 331	Ferritins
+T18	Organism 337 343	animal
+T19	Protein 356 370	heteropolymers
+T20	Protein 396 403	subunit
+T21	Protein 405 406	H
+T22	Protein 411 412	L
+T23	Process 442 450	presence
+T24	Parameter 451 454	(H)
+T25	Process 458 465	absence
+T26	Protein 480 491	ferroxidase
+T27	Geometrical_part 515 542	crystallographic structures
+T28	Organism 551 556	human
+T29	Protein 557 579	H apoferritin variants
+T30	Parameter 585 595	resolution
+T31	Value 606 609	1.5
+T32	Unknown 610 618	Angstrom
+T33	Unknown 620 639	Crystal derivatives
+T34	Chemical 646 652	Zn(II)
+T35	Chemical 685 691	Fe(II)
+T36	Process 723 732	different
+T37	Chemical 733 738	metal
+T38	Protein_part 747 752	sites
+T39	Protein 758 769	ferroxidase
+T40	Protein_part 799 804	sites
+T41	Unknown 811 812	B
+T42	Chemical 820 825	metal
+T43	Protein_part 854 858	site
+T44	Chemical 882 888	Zn(II)
+T45	Protein_part 897 902	sites
+T46	Geometrical_part 921 932	3-fold axes
+T47	Geometrical_part 934 945	4-fold axes
+T48	Body_part 957 963	cavity
+T49	Geometrical_part 964 971	surface
+T50	Protein 981 992	ferroxidase
+T51	Process 1014 1024	importance
+T52	Parameter 1032 1040	distance
+T53	Chemical 1052 1063	metal atoms
+T54	Protein 1071 1082	ferroxidase
+T55	Process 1109 1120	replacement
+T56	Chemical 1124 1133	glutamate
+T57	Protein_part 1138 1144	site A
+T58	Chemical 1150 1159	glutamate
+T59	Protein_part 1165 1171	site B
+T60	Location 1182 1187	axial
+T61	Category 1188 1195	ligands
+T62	Protein_part 1200 1218	aspartate residues
+T63	Process 1246 1258	consequences
+T64	Chemical 1263 1268	metal
+T65	Process 1269 1276	binding
+T66	Process 1285 1296	correlation
+T67	Chemical 1302 1308	Fe(II)
+T68	Process 1309 1318	oxidation
+T69	Parameter 1319 1324	rates

@@ -1,0 +1,53 @@
+T1	Protein 0 15	Ubiquitin chain
+T2	Protein_part 36 57	polyubiquitin linkage
+T3	Molecule 67 77	antibodies
+T4	Process 97 109	modification
+T5	Protein 113 121	proteins
+T6	Protein 127 140	polyubiquitin
+T7	Process 159 168	signaling
+T8	Process 169 177	pathways
+T9	Body_part 213 221	cellular
+T10	Process 222 233	homeostasis
+T11	Protein 253 270	ubiquitin mutants
+T12	Protein 314 322	proteins
+T13	Protein_part 346 352	lysine
+T14	Protein 360 369	ubiquitin
+T15	Protein_part 387 397	C terminus
+T16	Location 404 412	adjacent
+T17	Protein 413 422	ubiquitin
+T18	Protein_part 442 449	linkage
+T19	Molecule 459 469	antibodies
+T20	Protein 486 506	polyubiquitin chains
+T21	Protein_part 522 531	lysine 63
+T22	Protein_part 533 536	K63
+T23	Protein_part 545 548	K48
+T24	Geometrical_part 553 572	cocrystal structure
+T25	Protein_part 579 599	anti-K63 linkage Fab
+T26	Protein_part 609 612	K63
+T27	Process 641 648	insight
+T28	Process 668 673	basis
+T29	Molecule 704 714	antibodies
+T30	Unknown 735 739	RIP1
+T31	Physiology 764 778	tumor necrosis
+T32	Protein 779 785	factor
+T33	Unknown 794 803	NF-kappaB
+T34	Process 804 814	activation
+T35	Unknown 820 825	IRAK1
+T36	Process 849 858	signaling
+T37	Unknown 862 879	interleukin-1beta
+T38	Protein 884 903	Toll-like receptors
+T39	Protein 918 931	polyubiquitin
+T40	Body_part 955 960	cells
+T41	Protein 967 982	kinase adaptors
+T42	Protein_part 1001 1004	K63
+T43	Protein 1012 1025	polyubiquitin
+T44	Parameter 1042 1047	times
+T45	Protein_part 1048 1051	K48
+T46	Protein 1059 1072	polyubiquitin
+T47	Process 1073 1080	targets
+T48	Body_part 1090 1101	proteasomal
+T49	Process 1102 1113	degradation
+T50	Protein 1115 1128	Polyubiquitin
+T51	Process 1164 1173	mechanism
+T52	Body_part 1197 1203	immune
+T53	Process 1204 1213	signaling

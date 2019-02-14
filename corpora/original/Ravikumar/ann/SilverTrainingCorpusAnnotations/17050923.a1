@@ -1,0 +1,80 @@
+T1	Unknown 22 31	structure
+T2	Chemical 35 51	unphosphorylated
+T3	Unknown 52 56	CheY
+T4	Protein_part 70 80	N terminus
+T5	Protein 85 89	FliM
+T6	Process 91 106	Phosphorylation
+T7	Organism 110 126	Escherichia coli
+T8	Unknown 127 131	CheY
+T9	Parameter 146 154	affinity
+T10	Process 163 169	target
+T11	Value 171 175	FliM
+T12	Value 177 184	20-fold
+T13	Process 190 201	interaction
+T14	Unknown 210 224	BeF(3)(-)-CheY
+T15	Chemical 228 242	phosphorylated
+T16	Unknown 243 247	CheY
+T17	Unknown 249 253	CheY
+T18	Unknown 268 269	P
+T19	Unknown 271 277	analog
+T20	Protein_part 287 300	FliM sequence
+T21	State 379 391	conformation
+T22	Chemical 397 413	unphosphorylated
+T23	Unknown 414 418	CheY
+T24	Category 429 436	complex
+T25	Value 442 446	FliM
+T26	Unknown 514 518	CheY
+T27	Unknown 533 534	P
+T28	Geometrical_part 577 603	crystallographic structure
+T29	Chemical 607 623	unphosphorylated
+T30	Chemical 625 638	magnesium(II)
+T31	Unknown 645 649	CheY
+T32	Category 653 660	complex
+T33	Protein_part 678 685	peptide
+T34	Process 707 713	target
+T35	Protein_part 714 720	region
+T36	Protein 724 728	FliM
+T37	Protein_part 737 756	N-terminal residues
+T38	Protein 760 776	FliM [FliM(16)])
+T39	Protein_part 789 796	peptide
+T40	State 797 809	conformation
+T41	Process 814 821	binding
+T42	Protein_part 822 826	site
+T43	Unknown 855 878	BeF(3)(-)-CheY-FliM(16)
+T44	Category 879 886	complex
+T45	Unknown 901 905	CheY
+T46	State 906 918	conformation
+T47	Chemical 946 983	unphosphorylated Mg(2+)-CheY-FliM(16)
+T48	Category 984 991	complex
+T49	Process 993 1006	Communication
+T50	Process 1019 1025	target
+T51	Process 1026 1033	binding
+T52	Protein_part 1034 1038	site
+T53	Process 1047 1062	phosphorylation
+T54	Protein_part 1063 1067	site
+T55	Process 1092 1115	biochemical experiments
+T56	Physiology 1133 1140	network
+T57	Protein_part 1154 1164	side chain
+T58	Process 1165 1177	interactions
+T59	Category 1193 1198	mimic
+T60	Unknown 1217 1226	BeF(3)(-)
+T61	Unknown 1237 1241	CheY
+T62	Unknown 1248 1257	structure
+T63	Process 1281 1285	role
+T64	Protein 1295 1307	beta4-alpha4
+T65	Geometrical_part 1308 1312	loop
+T66	Protein_part 1326 1342	Tyr(87)-Tyr(106)
+T67	Process 1343 1351	coupling
+T68	Process 1352 1361	mechanism
+T69	Process 1375 1399	allosteric communication
+T70	Process 1412 1427	phosphorylation
+T71	Protein_part 1428 1432	site
+T72	Process 1441 1447	target
+T73	Process 1448 1455	binding
+T74	Geometrical_part 1456 1463	surface
+T75	Unknown 1484 1493	structure
+T76	Molecule 1532 1544	intermediate
+T77	State 1545 1557	conformation
+T78	Process 1563 1571	response
+T79	Protein 1572 1589	regulator protein
+T80	State 1634 1639	state

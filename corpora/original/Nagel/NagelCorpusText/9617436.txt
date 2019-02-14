@@ -1,0 +1,9 @@
+Ehlers-Danlos syndrome type VI (EDS VI) is a rare autosomal recessively inherited disease of connective tissue . 
+The characteristic symptoms are hyperflexibility of joints and hyperelasticity of skin together with marked scoliosis, ocular manifestations and involvement of the vascular system . 
+The underlying biochemical defect in EDS VI is a deficiency in lysyl hydroxylase ( PLOD) activity resulting from mutations in the PLOD gene causing a low hydroxylysine content in various tissues . 
+We found that two out of three patients showed a recently described duplication of about 800 bp in their LH mRNA . 
+In the third patient we identified a new point mutation (2036 G--&gt;C) resulting in a substitution of tryptophan by cysteine in the highly conserved C-terminal region of the enzyme (W612C) . 
+In addition, this mutation destroys a restriction site of MwoI . 
+Restriction analysis of the patient's cDNA with MwoI showed the sole occurrence of the mutated transcript, while one allele in his genomic DNA contained the MwoI restriction site . 
+Restriction analysis of the genomic DNA of the unaffected parents displayed a heterozygous loss of the restriction site for MwoI in the mother while the DNA of the father appeared normal . 
+Our study demonstrates that the new point mutation (W612C) in conjunction with a functionless allele, most probably a null allele, for the LH gene may explain the functional deficiencies seen in this patient . 

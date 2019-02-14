@@ -1,0 +1,63 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 41	catalytic domain
+T3	Protein 49 83	chemotaxis receptor methylesterase
+T4	Protein 85 89	CheB
+T5	Process 91 100	Signaling
+T6	Parameter 101 109	activity
+T7	Organism 113 122	bacterial
+T8	Protein 123 157	chemotaxis transmembrane receptors
+T9	Process 194 206	modification
+T10	Protein_part 219 246	receptor glutamate residues
+T11	Protein 262 270	receptor
+T12	Process 271 282	methylation
+T13	Parameter 300 310	activities
+T14	Chemical 325 345	S-adenosylmethionine
+T15	Protein 356 373	methyltransferase
+T16	Protein 375 379	CheR
+T17	Protein 389 408	CheB methylesterase
+T18	Process 426 436	hydrolysis
+T19	Chemical 440 458	receptor glutamine
+T20	Protein_part 462 489	methylglutamate side-chains
+T21	Protein_part 493 506	glutamic acid
+T22	Protein 512 531	CheB methylesterase
+T23	Unknown 552 558	family
+T24	Process 562 570	response
+T25	Protein 571 589	regulator proteins
+T26	Protein_part 599 609	N-terminal
+T27	Protein_part 610 628	regulatory domains
+T28	Parameter 641 651	activities
+T29	Protein_part 655 665	C-terminal
+T30	Protein_part 675 682	domains
+T31	Geometrical_part 688 705	crystal structure
+T32	Protein_part 713 729	catalytic domain
+T33	Organism 737 759	Salmonella typhimurium
+T34	Protein 760 779	CheB methylesterase
+T35	Value 803 809	1.75 A
+T36	Parameter 810 820	resolution
+T37	Protein_part 826 832	domain
+T38	Physiology 856 861	wound
+T39	Protein 862 872	alpha/beta
+T40	Protein_part 898 905	helices
+T41	Geometrical_part 924 937	anti-parallel
+T42	Geometrical_part 938 950	beta-hairpin
+T43	Process 977 988	mutagenesis
+T44	Chemical 1012 1023	methylester
+T45	Process 1024 1034	hydrolysis
+T46	Protein 1048 1052	CheB
+T47	Process 1072 1081	mechanism
+T48	Chemical 1094 1112	serine nucleophile
+T49	Protein 1118 1132	methylesterase
+T50	Protein_part 1133 1144	active site
+T51	Geometrical_part 1176 1181	cleft
+T52	Protein_part 1189 1199	C-terminal
+T53	Protein_part 1212 1222	beta-sheet
+T54	Protein_part 1234 1249	residues Ser164
+T55	Protein_part 1251 1257	His190
+T56	Protein_part 1262 1268	Asp286
+T57	Geometrical_part 1292 1296	fold
+T58	Process 1306 1317	arrangement
+T59	Protein_part 1321 1329	residues
+T60	Protein_part 1341 1356	catalytic triad
+T61	Protein 1375 1394	CheB methylesterase
+T62	Protein 1425 1440	serine protease
+T63	Protein 1444 1460	serine hydrolase

@@ -1,0 +1,110 @@
+T1	Geometrical_part 8 26	crystal structures
+T2	Protein 40 67	adenylosuccinate synthetase
+T3	Organism 73 89	Escherichia coli
+T4	Geometrical_part 91 109	Crystal structures
+T5	Protein 123 150	adenylosuccinate synthetase
+T6	Organism 156 172	Escherichia coli
+T7	Molecular_Part 182 188	groups
+T8	Unknown 189 194	P2(1)
+T9	Unknown 199 212	P2(1)2(1)2(1)
+T10	Parameter 234 243	R-factors
+T11	Value 247 252	0.199
+T12	Value 257 262	0.206
+T13	Value 279 282	2.0
+T14	Value 287 292	2.5 A
+T15	Parameter 308 320	Bond lengths
+T16	Parameter 325 331	angles
+T17	Parameter 354 360	values
+T18	Value 364 371	0.011 A
+T19	Value 376 387	1.7 degrees
+T20	Unknown 396 409	P2(1) crystal
+T21	Value 422 429	0.015 A
+T22	Value 434 445	1.7 degrees
+T23	Unknown 454 475	P2(1)2(1)2(1) crystal
+T24	Geometrical_part 486 490	fold
+T25	Protein 499 516	polypeptide chain
+T26	Protein_part 535 553	central beta-sheet
+T27	Geometrical_part 582 590	parallel
+T28	Protein_part 591 598	strands
+T29	Geometrical_part 611 623	antiparallel
+T30	Protein_part 624 630	strand
+T31	Protein_part 656 674	central beta-sheet
+T32	Protein_part 684 694	subdomains
+T33	Protein_part 705 715	subdomains
+T34	Geometrical_part 727 732	loops
+T35	Protein_part 736 744	residues
+T36	Parameter 786 796	parameters
+T37	Geometrical_part 822 827	loops
+T38	Protein_part 829 840	residues 42
+T39	Protein_part 896 904	residues
+T40	Protein_part 921 932	active site
+T41	Protein 940 950	synthetase
+T42	Process 959 966	absence
+T43	Category 970 977	ligands
+T44	Protein_part 991 1002	active site
+T45	Protein 1010 1020	synthetase
+T46	Physiology 1034 1037	ill
+T47	State 1046 1066	conformational state
+T48	Protein_part 1092 1099	regions
+T49	Protein_part 1111 1119	residues
+T50	Protein 1146 1164	polypeptide chains
+T51	Protein 1172 1182	synthetase
+T52	Protein 1183 1188	dimer
+T53	Protein_part 1200 1207	helices
+T54	Protein_part 1209 1211	H4
+T55	Protein_part 1216 1218	H5
+T56	Protein_part 1276 1284	residues
+T57	Protein_part 1326 1335	sequences
+T58	Protein 1343 1353	synthetase
+T59	Protein_part 1376 1382	region
+T60	Protein_part 1402 1410	residues
+T61	Unknown 1435 1443	elements
+T62	Protein_part 1457 1464	strands
+T63	Protein_part 1472 1490	central beta-sheet
+T64	Protein_part 1492 1500	Residues
+T65	Process 1528 1535	binding
+T66	Unknown 1539 1542	IMP
+T67	Protein 1580 1598	polypeptide chains
+T68	Protein 1606 1611	dimer
+T69	Protein_part 1625 1642	sequence elements
+T70	Protein 1668 1682	GTP hydrolases
+T71	Protein 1688 1698	synthetase
+T72	Chemical 1712 1719	guanine
+T73	Process 1720 1731	recognition
+T74	Unknown 1732 1739	element
+T75	Chemical 1746 1753	glycine
+T76	Geometrical_part 1759 1763	loop
+T77	Process 1792 1803	recognition
+T78	Unknown 1804 1811	element
+T79	Protein 1855 1858	p21
+T80	Protein 1859 1862	ras
+T81	Protein 1867 1883	G alpha proteins
+T82	Unknown 1889 1895	P-loop
+T83	Protein 1903 1913	synthetase
+T84	Parameter 1929 1933	size
+T85	Unknown 1950 1957	P-loops
+T86	Protein 1967 1981	GTP hydrolases
+T87	Unknown 1987 1993	P-loop
+T88	Protein_part 2003 2016	acid residues
+T89	Protein_part 2018 2023	Asp13
+T90	Protein_part 2028 2033	Glu14
+T91	Unknown 2059 2066	P-loops
+T92	Protein 2079 2096	synthetase family
+T93	Protein_part 2098 2103	Glu14
+T94	Process 2127 2140	stabilization
+T95	Unknown 2157 2163	P-loop
+T96	Protein 2171 2181	synthetase
+T97	Protein_part 2191 2196	Asp13
+T98	Process 2208 2212	role
+T99	Process 2216 2225	catalysis
+T100	Process 2237 2249	coordination
+T101	Chemical 2253 2257	Mg2+
+T102	Unknown 2274 2282	elements
+T103	Protein 2290 2293	p21
+T104	Protein 2294 2297	ras
+T105	Protein 2302 2318	G alpha proteins
+T106	Process 2335 2342	binding
+T107	Chemical 2343 2347	Mg2+
+T108	Protein 2375 2385	synthetase
+T109	Process 2409 2421	coordination
+T110	Chemical 2425 2438	metal cations

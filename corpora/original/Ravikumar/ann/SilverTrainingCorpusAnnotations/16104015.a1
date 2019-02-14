@@ -1,0 +1,63 @@
+T1	Process 7 14	binding
+T2	Protein_part 15 19	site
+T3	Chemical 24 39	disialyllactose
+T4	Protein_part 44 55	tri-peptide
+T5	Unknown 59 69	C-fragment
+T6	Physiology 73 80	tetanus
+T7	Molecule 82 92	neurotoxin
+T8	Molecule 106 117	neurotoxins
+T9	Organism 132 151	of botulinum (BoNT)
+T10	Physiology 156 163	tetanus
+T11	Unknown 165 169	TeNT
+T12	Process 222 232	similarity
+T13	Geometrical_part 234 252	Crystal structures
+T14	Process 261 268	binding
+T15	Protein_part 269 275	domain
+T16	Unknown 279 283	TeNT
+T17	Chemical 299 322	disialyllactose (DiSia)
+T18	Protein_part 329 352	tri-peptide Tyr-Glu-Trp
+T19	Protein_part 354 357	YEW
+T20	Value 383 386	2.3
+T21	Value 391 396	2.2 A
+T22	Chemical 417 422	DiSia
+T23	Protein_part 427 430	YEW
+T24	Geometrical_part 449 454	cleft
+T25	Protein_part 455 461	region
+T26	Geometrical_part 469 476	surface
+T27	Molecule 484 492	molecule
+T28	Protein_part 513 519	domain
+T29	Protein_part 554 562	residues
+T30	Protein_part 564 571	Asp1147
+T31	Protein_part 573 580	Asp1214
+T32	Protein_part 582 589	Asn1216
+T33	Protein_part 595 602	Arg1226
+T34	Chemical 604 609	DiSia
+T35	Protein_part 614 617	YEW
+T36	Process 618 625	binding
+T37	Protein_part 638 642	site
+T38	Physiology 646 653	tetanus
+T39	Molecule 654 659	toxin
+T40	Protein_part 680 684	site
+T41	Chemical 720 731	ganglioside
+T42	Molecular_Part 732 738	moiety
+T43	Protein_part 744 751	peptide
+T44	Process 761 772	experiments
+T45	Protein_part 791 794	YEW
+T46	Chemical 799 804	DiSia
+T47	Protein_part 815 818	YEW
+T48	Chemical 833 838	DiSia
+T49	Protein_part 856 859	YEW
+T50	Chemical 881 892	ganglioside
+T51	Process 893 900	binding
+T52	Process 904 914	comparison
+T53	Unknown 924 928	TeNT
+T54	Process 929 936	binding
+T55	Protein_part 937 943	domain
+T56	Category 947 954	complex
+T57	Molecule 966 975	molecules
+T58	Organism 977 983	BoNT/A
+T59	Unknown 988 990	/B
+T60	Process 1001 1008	insight
+T61	Process 1018 1027	different
+T62	Chemical 1037 1048	ganglioside
+T63	Process 1049 1056	binding

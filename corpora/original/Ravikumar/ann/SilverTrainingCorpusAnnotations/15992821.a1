@@ -1,0 +1,74 @@
+T1	Unknown 2 11	structure
+T2	Protein 31 49	c-Myc/Bin1 protein
+T3	Process 50 61	interaction
+T4	Process 80 88	splicing
+T5	Protein 92 96	Bin1
+T6	Protein 101 106	c-Myc
+T7	Process 107 122	phosphorylation
+T8	Process 131 138	binding
+T9	Protein_part 157 167	N terminus
+T10	Protein 175 192	c-Myc oncoprotein
+T11	Protein 208 212	Bin1
+T12	Protein 257 264	protein
+T13	Physiology 284 289	tumor
+T14	Molecule 290 300	suppressor
+T15	Protein 306 316	c-Myc/Bin1
+T16	Process 317 328	interaction
+T17	Protein_part 366 390	Myc Box 1 (MB1) sequence
+T18	Protein 394 399	c-Myc
+T19	Protein 405 415	c-Myc/Bin1
+T20	Process 416 427	interaction
+T21	Parameter 432 441	potential
+T22	Protein 469 474	c-Myc
+T23	Process 484 498	transformation
+T24	Physiology 503 512	apoptosis
+T25	Process 537 547	expression
+T26	Protein 551 555	Bin1
+T27	Process 566 574	splicing
+T28	Protein 582 597	Bin1 transcript
+T29	Body_part 621 627	tissue
+T30	Physiology 641 646	tumor
+T31	Protein 671 684	Bin1 proteins
+T32	Process 738 749	interaction
+T33	Protein 758 763	c-Myc
+T34	Molecule 768 772	Bin1
+T35	Process 791 801	mechanisms
+T36	Process 815 822	binding
+T37	Process 826 835	different
+T38	Molecule 836 849	Bin1 isoforms
+T39	Protein 853 858	c-Myc
+T40	Body_part 879 884	cells
+T41	Protein_part 920 932	class II SH3
+T42	Protein_part 941 946	motif
+T43	Protein 950 955	c-Myc
+T44	Protein_part 964 985	C-terminal SH3 domain
+T45	Protein 989 993	Bin1
+T46	Geometrical_part 1001 1018	primary structure
+T47	Process 1041 1052	interaction
+T48	Physiology 1106 1111	tumor
+T49	Molecule 1121 1129	isoforms
+T50	Protein_part 1133 1137	Bin1
+T51	Process 1157 1168	interaction
+T52	Protein 1174 1179	c-Myc
+T53	Protein_part 1206 1228	polyproline-SH3 domain
+T54	Process 1229 1240	interaction
+T55	Protein_part 1259 1274	Bin1 SH3 domain
+T56	Process 1280 1287	binding
+T57	Protein 1291 1296	c-Myc
+T58	Protein 1311 1321	c-Myc/Bin1
+T59	Process 1322 1333	interaction
+T60	Process 1354 1369	phosphorylation
+T61	Protein 1373 1378	c-Myc
+T62	Protein_part 1382 1387	Ser62
+T63	Protein_part 1414 1421	residue
+T64	Protein_part 1439 1448	c-Myc SH3
+T65	Protein_part 1457 1462	motif
+T66	Unknown 1483 1492	structure
+T67	Protein 1512 1522	c-Myc/Bin1
+T68	Process 1523 1534	interaction
+T69	Process 1558 1568	regulation
+T70	Protein 1595 1600	c-Myc
+T71	Process 1601 1609	function
+T72	Molecule 1615 1624	regulator
+T73	Protein 1628 1632	gene
+T74	Process 1633 1646	transcription

@@ -1,0 +1,91 @@
+T1	Protein_part 39 43	IsdG
+T2	Protein_part 48 52	IsdI
+T3	Chemical 58 62	heme
+T4	Protein 73 80	enzymes
+T5	Organism 85 106	Staphylococcus aureus
+T6	Protein_part 108 112	IsdG
+T7	Protein_part 117 121	IsdI
+T8	Protein 137 145	proteins
+T9	Location 155 168	intracellular
+T10	Geometrical_part 169 179	components
+T11	Chemical 185 197	complex heme
+T12	Process 198 204	uptake
+T13	Unknown 205 211	system
+T14	Organism 215 236	Staphylococcus aureus
+T15	Protein_part 238 242	IsdG
+T16	Protein_part 247 251	IsdI
+T17	Protein 297 302	hemin
+T18	Geometrical_part 304 322	Crystal structures
+T19	Protein 330 341	apoproteins
+T20	Protein 358 366	proteins
+T21	Chemical 396 400	heme
+T22	Process 401 412	degradation
+T23	Unknown 413 419	family
+T24	Organism 444 454	eukaryotic
+T25	Organism 459 470	prokaryotic
+T26	Protein 471 486	heme oxygenases
+T27	Geometrical_part 507 525	crystal structures
+T28	Unknown 541 552	N7A variant
+T29	Protein_part 556 560	IsdG
+T30	Category 564 571	complex
+T31	Chemical 578 599	Fe(3+)-protoporphyrin
+T32	Unknown 600 602	IX
+T33	Protein_part 604 614	IsdG-hemin
+T34	Protein_part 623 627	IsdI
+T35	Category 631 638	complex
+T36	Chemical 644 650	cobalt
+T37	Unknown 666 668	IX
+T38	Protein_part 670 681	IsdI-CoPPIX
+T39	Value 686 691	1.8 A
+T40	Parameter 702 712	resolution
+T41	Unknown 720 730	structures
+T42	Geometrical_part 792 798	clefts
+T43	Chemical 813 828	propionic acids
+T44	Chemical 834 846	salt bridges
+T45	Protein_part 854 866	Arg residues
+T46	Protein_part 868 882	His(77) (IsdG)
+T47	Protein_part 886 901	His(76)  (IsdI)
+T48	Protein_part 914 921	residue
+T49	Parameter 935 943	activity
+T50	Chemical 967 973	Fe(3+)
+T51	Chemical 977 989	Co(3+) atoms
+T52	Chemical 1015 1030	porphyrin rings
+T53	Geometrical_part 1046 1052	steric
+T54	Process 1053 1065	interactions
+T55	Process 1073 1080	binding
+T56	Geometrical_part 1081 1086	cleft
+T57	Geometrical_part 1101 1106	rings
+T58	Process 1149 1159	distortion
+T59	Chemical 1226 1233	carbons
+T60	Location 1234 1242	proximal
+T61	Location 1250 1256	distal
+T62	Chemical 1257 1263	oxygen
+T63	Protein_part 1272 1276	site
+T64	Protein 1285 1295	IsdG-hemin
+T65	Geometrical_part 1297 1306	structure
+T66	Chemical 1308 1314	Fe(3+)
+T67	Chemical 1318 1333	pentacoordinate
+T68	Location 1343 1354	distal side
+T69	Protein_part 1374 1384	side chain
+T70	Protein_part 1388 1395	Ile(55)
+T71	Geometrical_part 1413 1422	structure
+T72	Protein 1426 1437	IsdI-CoPPIX
+T73	Location 1443 1454	distal side
+T74	Unknown 1462 1468	CoPPIX
+T75	Chemical 1484 1496	chloride ion
+T76	Body_part 1502 1508	cavity
+T77	State 1526 1540	conformational
+T78	Process 1541 1547	change
+T79	Protein_part 1551 1558	Ile(55)
+T80	Chemical 1564 1576	chloride ion
+T81	Chemical 1595 1608	hydrogen bond
+T82	Protein_part 1616 1626	side chain
+T83	Chemical 1627 1632	amide
+T84	Protein_part 1636 1642	Asn(6)
+T85	Unknown 1657 1667	structures
+T86	Process 1678 1686	reaction
+T87	Process 1687 1696	mechanism
+T88	Chemical 1708 1738	reactive peroxide intermediate
+T89	Process 1753 1775	nucleophilic oxidation
+T90	Chemical 1803 1809	carbon
+T91	Protein 1817 1822	hemin

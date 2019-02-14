@@ -1,0 +1,85 @@
+T1	Chemical 0 7	Calcium
+T2	Process 18 30	dimerization
+T3	Organism 34 39	human
+T4	Chemical 48 55	calcium
+T5	Protein 66 78	nucleotidase
+T6	Process 80 96	characterization
+T7	Protein 104 109	dimer
+T8	Organism 121 128	Mammals
+T9	Protein 139 146	protein
+T10	Protein 161 182	soluble nucleotidases
+T11	Body_part 191 196	blood
+T12	Organism 205 212	insects
+T13	Organism 224 228	host
+T14	Body_part 229 234	blood
+T15	Physiology 235 243	clotting
+T16	Organism 251 261	vertebrate
+T17	Protein 262 275	nucleotidases
+T18	Process 287 291	role
+T19	Protein 295 302	protein
+T20	Process 303 316	glycosylation
+T21	Parameter 322 330	activity
+T22	Protein 339 352	enzyme family
+T23	Chemical 378 385	calcium
+T24	State 403 417	conformational
+T25	Process 418 424	change
+T26	Organism 450 455	human
+T27	Protein 456 468	nucleotidase
+T28	Geometrical_part 474 491	crystal structure
+T29	Organism 500 505	human
+T30	Protein 506 512	enzyme
+T31	Process 547 556	mechanism
+T32	Chemical 560 567	calcium
+T33	Process 568 578	activation
+T34	Process 587 592	basis
+T35	Chemical 601 608	calcium
+T36	Process 617 624	changes
+T37	Process 673 692	ultracentrifugation
+T38	Chemical 697 705	chemical
+T39	Process 706 719	cross-linking
+T40	Chemical 734 741	calcium
+T41	Chemical 745 754	strontium
+T42	Process 774 786	dimerization
+T43	Organism 802 807	human
+T44	Protein 808 814	enzyme
+T45	Protein 847 852	dimer
+T46	Technique 901 926	site-directed mutagenesis
+T47	Chemical 931 939	chemical
+T48	Process 940 953	cross-linking
+T49	Technique 968 993	crystallographic analyses
+T50	Process 995 1006	Replacement
+T51	Protein_part 1010 1018	Ile(170)
+T52	Protein_part 1020 1028	Ser(172)
+T53	Protein_part 1034 1042	Ser(226)
+T54	Protein_part 1048 1065	cysteine residues
+T55	Chemical 1078 1085	calcium
+T56	Chemical 1097 1107	sulfhydryl
+T57	Process 1132 1145	cross-linking
+T58	Protein_part 1176 1184	cysteine
+T59	Geometrical_part 1208 1215	surface
+T60	Technique 1227 1235	Analysis
+T61	Molecule 1254 1260	mutant
+T62	Molecule 1262 1267	E130Y
+T63	Protein 1327 1343	wild-type enzyme
+T64	Geometrical_part 1349 1366	crystal structure
+T65	Protein_part 1374 1386	E130Y mutant
+T66	Protein_part 1413 1420	residue
+T67	Protein 1437 1442	dimer
+T68	Process 1467 1477	expression
+T69	Protein 1497 1509	nucleotidase
+T70	Body_part 1529 1537	membrane
+T71	Protein 1582 1588	dimers
+T72	Process 1619 1628	oxidative
+T73	Process 1629 1642	cross-linking
+T74	Protein_part 1646 1653	Cys(30)
+T75	Body_part 1682 1695	transmembrane
+T76	Protein_part 1696 1701	helix
+T77	Protein_part 1731 1739	sequence
+T78	Chemical 1747 1754	calcium
+T79	Process 1764 1776	dimerization
+T80	Process 1798 1807	mechanism
+T81	Process 1812 1822	regulation
+T82	Parameter 1830 1838	activity
+T83	Protein 1847 1859	nucleotidase
+T84	Body_part 1896 1917	endoplasmic reticulum
+T85	Body_part 1921 1926	Golgi

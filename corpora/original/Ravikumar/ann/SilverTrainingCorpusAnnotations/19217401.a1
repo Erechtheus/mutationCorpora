@@ -1,0 +1,37 @@
+T1	Process 11 16	basis
+T2	Protein_part 20 34	murein peptide
+T3	Protein 52 97	gamma-D-glutamyl-l-diamino acid endopeptidase
+T4	Geometrical_part 103 121	crystal structures
+T5	Protein 129 154	homologous endopeptidases
+T6	Organism 160 193	cyanobacteria Anabaena variabilis
+T7	Organism 198 216	Nostoc punctiforme
+T8	Value 236 240	1.05
+T9	Value 245 251	1.60 A
+T10	Parameter 252 262	resolution
+T11	Organism 292 301	bacterial
+T12	Protein_part 302 324	SH3-like domain (SH3b)
+T13	Body_part 342 351	cell-wall
+T14	Protein 363 371	NlpC/P60
+T15	Unknown 376 380	CHAP
+T16	Protein 382 400	cysteine peptidase
+T17	Protein_part 401 407	domain
+T18	Protein_part 413 428	NlpC/P60 domain
+T19	Protein 445 466	papain-like peptidase
+T20	Unknown 474 476	CA
+T21	Protein 485 505	cysteine  peptidases
+T22	Protein_part 513 533	Cys126/His176/His188
+T23	Protein_part 534 549	catalytic triad
+T24	Unknown 599 608	structure
+T25	Technique 613 630	sequence analysis
+T26	Protein 672 680	proteins
+T27	Protein 688 734	gamma-D-glutamyl-L-diamino acid endopeptidases
+T28	Unknown 736 738	EC
+T29	Protein_part 754 765	active site
+T30	Protein_part 808 812	SH3b
+T31	Protein_part 817 833	NlpC/P60 domains
+T32	Protein_part 845 856	SH3b domain
+T33	Category 873 882	substrate
+T34	Protein_part 924 940	targeting domain
+T35	Protein_part 955 967	muropeptides
+T36	Protein_part 976 996	N-terminal L-alanine
+T37	Protein_part 1013 1024	active site

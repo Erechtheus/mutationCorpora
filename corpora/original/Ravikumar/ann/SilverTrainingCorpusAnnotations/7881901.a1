@@ -1,0 +1,87 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 44	3-isopropylmalate dehydrogenase
+T3	Category 48 55	complex
+T4	Chemical 61 65	NAD+
+T5	Category 67 73	ligand
+T6	Geometrical_part 82 86	loop
+T7	Process 99 108	mechanism
+T8	Category 113 121	cofactor
+T9	Protein_part 151 158	leucine
+T10	Protein 172 217	enzyme 3-isopropylmalate dehydrogenase (IMDH)
+T11	Protein 260 290	decarboxylating dehydrogenases
+T12	Unknown 312 319	members
+T13	Unknown 328 334	family
+T14	Protein 336 340	IMDH
+T15	Protein 345 375	isocitrate dehydrogenase (IDH)
+T16	Process 417 436	catalytic mechanism
+T17	Process 446 455	different
+T18	Category 456 465	substrate
+T19	Category 470 478	cofactor
+T20	Protein 494 498	IMDH
+T21	Chemical 502 508	NAD(+)
+T22	Protein 526 530	IDHs
+T23	Chemical 545 551	NAD(+)
+T24	Chemical 566 573	NADP(+)
+T25	Organism 624 649	Thermus thermophilus IMDH
+T26	Chemical 655 659	NAD+
+T27	Unknown 684 693	structure
+T28	Value 697 702	2.5 A
+T29	Parameter 703 713	resolution
+T30	Chemical 715 719	NAD+
+T31	State 732 753	extended conformation
+T32	Process 755 766	Comparisons
+T33	Unknown 776 785	structure
+T34	Process 793 800	absence
+T35	Category 804 812	cofactor
+T36	Process 823 830	binding
+T37	Process 850 857	changes
+T38	Value 867 872	2.5 A
+T39	Geometrical_part 885 890	loops
+T40	Chemical 906 918	dinucleotide
+T41	Protein_part 927 931	site
+T42	Chemical 937 944	adenine
+T43	Chemical 949 960	diphosphate
+T44	Molecular_Part 961 969	moieties
+T45	Chemical 973 977	NAD+
+T46	Process 992 1004	interactions
+T47	Protein 1035 1046	NADP(+)-IDH
+T48	Category 1047 1054	complex
+T49	Protein_part 1056 1067	Amino acids
+T50	Chemical 1092 1110	NADP+ 2'-phosphate
+T51	Protein 1114 1117	IDH
+T52	Protein 1147 1151	IMDH
+T53	Chemical 1157 1173	adenosine ribose
+T54	Chemical 1184 1198	hydrogen bonds
+T55	Protein_part 1204 1210	Asp278
+T56	Chemical 1220 1232	nicotinamide
+T57	Chemical 1237 1256	nicotinamide ribose
+T58	Protein_part 1271 1276	Glu87
+T59	Protein_part 1281 1286	Asp78
+T60	Protein 1302 1306	IMDH
+T61	Chemical 1321 1325	NAD+
+T62	Process 1326 1333	binding
+T63	State 1344 1358	conformational
+T64	Process 1359 1369	transition
+T65	Protein 1373 1377	IMDH
+T66	Unknown 1394 1403	structure
+T67	Molecule 1412 1424	intermediate
+T68	Protein 1478 1491	dehydrogenase
+T69	State 1492 1505	conformations
+T70	Protein 1536 1540	IMDH
+T71	Chemical 1545 1549	NAD+
+T72	Chemical 1557 1562	NADP+
+T73	Process 1594 1605	interaction
+T74	Protein_part 1615 1621	Asp278
+T75	Chemical 1635 1646	2'-hydroxyl
+T76	Chemical 1654 1668	NAD+ adenosine
+T77	Process 1670 1684	discrimination
+T78	Process 1697 1705	presence
+T79	Chemical 1713 1725	2'-phosphate
+T80	Value 1733 1741	negative
+T81	Parameter 1742 1748	charge
+T82	Protein_part 1752 1758	Asp278
+T83	Process 1768 1775	absence
+T84	Parameter 1779 1788	potential
+T85	Process 1799 1811	interactions
+T86	Chemical 1821 1833	2'-phosphate
+T87	Chemical 1837 1842	NADP+

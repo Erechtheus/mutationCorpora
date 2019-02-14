@@ -1,0 +1,97 @@
+T1	Protein_part 9 19	amino acid
+T2	Process 20 32	substitution
+T3	Protein_part 40 51	active site
+T4	Organism 55 71	Escherichia coli
+T5	Protein 72 99	aspartate transcarbamoylase
+T6	Process 113 134	allosteric transition
+T7	Molecule 164 176	intermediate
+T8	Protein_part 188 199	active site
+T9	Organism 203 219	Escherichia coli
+T10	Protein 220 247	aspartate transcarbamoylase
+T11	Process 268 279	interaction
+T12	Protein_part 289 299	side-chain
+T13	Protein_part 303 309	Gln137
+T14	Process 314 325	interaction
+T15	Geometrical_part 357 366	structure
+T16	Protein 375 387	X-ray enzyme
+T17	Process 395 403	presence
+T18	Protein_part 407 442	N-phosphonacetyl-L-aspartate (PALA)
+T19	Technique 453 478	site-specific mutagenesis
+T20	Process 479 490	experiments
+T21	Protein_part 508 514	Gln137
+T22	Protein_part 531 538	alanine
+T23	Protein 554 567	mutant enzyme
+T24	Protein 569 574	Q137A
+T25	Value 586 607	approximately 50-fold
+T26	Parameter 613 621	activity
+T27	Protein 631 647	wild-type enzyme
+T28	Process 696 703	binding
+T29	Chemical 712 731	carbamoyl phosphate
+T30	Chemical 736 745	aspartate
+T31	Process 802 813	alterations
+T32	Protein 821 834	mutant enzyme
+T33	Process 870 877	changes
+T34	Parameter 881 888	kinetic
+T35	Parameter 893 911	binding properties
+T36	Protein 917 929	Q137A enzyme
+T37	Parameter 945 949	time
+T38	Technique 972 977	X-ray
+T39	Geometrical_part 993 1006	its structure
+T40	Process 1029 1037	presence
+T41	Protein_part 1041 1045	PALA
+T42	Value 1049 1062	2.7 angstroms
+T43	Parameter 1063 1073	resolution
+T44	Parameter 1075 1079	Time
+T45	Technique 1102 1107	X-ray
+T46	Category 1148 1158	substrates
+T47	Chemical 1160 1179	carbamoyl phosphate
+T48	Chemical 1184 1195	L-aspartate
+T49	Protein 1218 1230	Q137A enzyme
+T50	State 1240 1254	conformational
+T51	Process 1255 1262	changes
+T52	Protein 1283 1299	wild-type enzyme
+T53	Protein 1340 1345	Q137A
+T54	Protein 1350 1367	wild-type enzymes
+T55	Process 1375 1383	presence
+T56	Protein_part 1387 1391	PALA
+T57	Geometrical_part 1420 1429	structure
+T58	Protein 1437 1449	Q137A enzyme
+T59	Protein 1476 1483	R-state
+T60	Geometrical_part 1484 1493	structure
+T61	Protein 1497 1513	wild-type enzyme
+T62	Protein_part 1519 1523	PALA
+T63	Process 1550 1561	differences
+T64	Protein 1589 1601	Q137A enzyme
+T65	Protein_part 1614 1618	PALA
+T66	Protein_part 1639 1649	side-chain
+T67	Protein_part 1663 1669	Arg105
+T68	Protein_part 1674 1680	His134
+T69	Process 1686 1697	replacement
+T70	Protein_part 1701 1707	Gln137
+T71	Protein_part 1711 1714	Ala
+T72	Process 1735 1741	effect
+T73	Protein_part 1771 1782	active site
+T74	Protein_part 1827 1837	side-chain
+T75	Protein_part 1841 1847	Gln137
+T76	Protein 1855 1871	wild-type enzyme
+T77	Process 1892 1899	binding
+T78	Chemical 1903 1922	carbamoyl phosphate
+T79	Process 1937 1948	orientation
+T80	State 1965 1979	conformational
+T81	Process 1980 1987	changes
+T82	Process 2005 2013	creation
+T83	Chemical 2035 2044	aspartate
+T84	Protein_part 2053 2057	site
+T85	Chemical 2076 2095	carbamoyl phosphate
+T86	Process 2124 2131	binding
+T87	Protein_part 2132 2136	site
+T88	Protein 2144 2156	Q137A enzyme
+T89	Protein 2171 2177	enzyme
+T90	State 2218 2225	T state
+T91	Process 2264 2275	requirement
+T92	Process 2283 2290	binding
+T93	Chemical 2294 2313	carbamoyl phosphate
+T94	Process 2322 2330	creation
+T95	Chemical 2352 2361	aspartate
+T96	Protein_part 2370 2374	site
+T97	Protein 2424 2451	aspartate transcarbamoylase

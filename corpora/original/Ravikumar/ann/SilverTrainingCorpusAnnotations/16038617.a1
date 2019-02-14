@@ -1,0 +1,61 @@
+T1	Process 8 20	displacement
+T2	Protein_part 28 37	SXN motif
+T3	Protein_part 41 47	Cys115
+T4	Chemical 57 67	penicillin
+T5	Protein 76 85	protein 5
+T6	Organism 91 107	Escherichia coli
+T7	Protein 109 143	Penicillin-binding proteins (PBPs)
+T8	Process 166 173	targets
+T9	Chemical 177 200	beta-lactam antibiotics
+T10	Protein 231 244	peptidoglycan
+T11	Process 245 257	biosynthesis
+T12	Organism 265 274	bacterial
+T13	Body_part 275 284	cell wall
+T14	Protein 286 291	PBP 5
+T15	Organism 295 311	Escherichia coli
+T16	Protein 317 332	D-alanine CPase
+T17	Protein 334 350	carboxypeptidase
+T18	Process 403 422	catalytic mechanism
+T19	Protein 445 449	PBPs
+T20	Process 484 496	modification
+T21	Protein_part 500 506	Cys115
+T22	Chemical 525 533	reagents
+T23	Process 547 551	loss
+T24	Protein 555 560	CPase
+T25	Parameter 561 569	activity
+T26	Process 582 590	decrease
+T27	Parameter 598 602	rate
+T28	Process 606 617	deacylation
+T29	Unknown 625 658	penicilloyl-PBP 5 complex [Tamura
+T30	Unknown 660 664	Imae
+T31	Unknown 716 722	Curtis
+T32	Geometrical_part 781 798	crystal structure
+T33	Protein 802 817	wild-type PBP 5
+T34	Protein_part 827 833	Cys115
+T35	Molecule 869 875	adduct
+T36	Chemical 881 898	2-mercaptoethanol
+T37	Value 913 918	2.0 A
+T38	Value 920 926	0.2 nm
+T39	Parameter 928 938	resolution
+T40	Chemical 997 1002	thiol
+T41	Chemical 1012 1020	reagents
+T42	Parameter 1031 1035	rate
+T43	Process 1040 1051	deacylation
+T44	Unknown 1076 1085	structure
+T45	Protein 1104 1120	wild-type enzyme
+T46	Process 1130 1136	change
+T47	Geometrical_part 1144 1156	architecture
+T48	Protein_part 1164 1175	active site
+T49	Process 1205 1216	differences
+T50	Geometrical_part 1242 1246	loop
+T51	Protein_part 1258 1272	residues 74-90
+T52	Process 1279 1284	shift
+T53	Protein_part 1288 1304	residues 106-111
+T54	Process 1327 1339	displacement
+T55	Protein_part 1343 1349	Ser110
+T56	Protein_part 1357 1378	SXN active-site motif
+T57	Protein_part 1437 1446	SXN motif
+T58	Protein 1450 1455	PBP 5
+T59	Protein_part 1472 1478	Ser110
+T60	Process 1510 1529	catalytic mechanism
+T61	Process 1533 1544	deacylation

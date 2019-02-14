@@ -1,0 +1,83 @@
+T1	Value 4 9	1.6 A
+T2	Geometrical_part 10 19	structure
+T3	Protein_part 23 32	histidine
+T4	Protein 44 71	phosphotransfer protein HPr
+T5	Organism 77 99	Streptococcus faecalis
+T6	Protein 105 154	histidine-containing phosphocarrier protein (HPr)
+T7	Parameter 168 177	component
+T8	Chemical 185 204	phosphoenolpyruvate
+T9	Chemical 206 211	sugar
+T10	Body_part 212 243	phosphotransferase system (PTS)
+T11	Process 249 259	transports
+T12	Chemical 260 273	carbohydrates
+T13	Body_part 285 298	cell membrane
+T14	Organism 302 310	bacteria
+T15	Geometrical_part 316 343	three-dimensional structure
+T16	Organism 347 383	Gram-positive Streptococcus faecalis
+T17	Protein 384 387	HPr
+T18	Process 449 460	replacement
+T19	Parameter 466 474	R factor
+T20	Value 491 496	0.156
+T21	Organism 501 512	S. faecalis
+T22	Protein 513 516	HPr
+T23	Value 520 525	1.6 A
+T24	Parameter 526 536	resolution
+T25	Geometrical_part 552 560	geometry
+T26	Process 574 581	folding
+T27	Protein 594 597	HPr
+T28	Geometrical_part 624 637	beta-sandwich
+T29	Geometrical_part 658 670	antiparallel
+T30	Protein_part 671 683	beta-strands
+T31	Protein_part 694 707	alpha-helices
+T32	Unknown 732 744	Ramachandran
+T33	Parameter 745 759	torsion angles
+T34	Protein_part 763 768	Ala16
+T35	Location 776 789	active center
+T36	Technique 807 822	X-ray structure
+T37	Organism 826 837	S. faecalis
+T38	Protein 838 841	HPr
+T39	Organism 889 895	strain
+T40	Protein 932 939	protein
+T41	Process 940 948	function
+T42	Organism 994 1000	strain
+T43	Parameter 1049 1051	pH
+T44	Value 1052 1055	7.0
+T45	Unknown 1056 1065	structure
+T46	State 1092 1109	open conformation
+T47	Location 1118 1131	active center
+T48	Organism 1159 1165	strain
+T49	Protein_part 1169 1174	Ala16
+T50	Parameter 1192 1194	pH
+T51	Unknown 1260 1269	structure
+T52	Process 1281 1285	role
+T53	Protein_part 1290 1301	residues 12
+T54	Protein_part 1306 1308	51
+T55	Protein 1312 1317	HPr's
+T56	Process 1318 1326	function
+T57	Location 1359 1372	active center
+T58	Chemical 1401 1409	hydrogen
+T59	Process 1418 1430	interactions
+T60	Chemical 1440 1454	imidazole ring
+T61	Protein_part 1458 1463	His15
+T62	Protein_part 1482 1487	Ser46
+T63	Protein_part 1493 1508	regulatory site
+T64	Protein 1513 1516	HPr
+T65	Organism 1522 1544	Gram-positive bacteria
+T66	Geometrical_part 1546 1552	N-caps
+T67	Protein_part 1563 1576	alpha-B helix
+T68	Protein_part 1605 1626	Asn43-Ser46 beta-turn
+T69	Process 1645 1656	conjunction
+T70	Process 1685 1698	communication
+T71	Protein_part 1711 1732	regulatory site Ser46
+T72	Location 1741 1754	active center
+T73	Organism 1758 1769	S. faecalis
+T74	Protein 1770 1773	HPr
+T75	Process 1788 1795	insight
+T76	Protein_part 1826 1831	Ser46
+T77	Process 1861 1872	involvement
+T78	Chemical 1880 1905	C-terminal alpha-carboxyl
+T79	Molecular_Part 1906 1911	group
+T80	Protein_part 1928 1939	Gly67-Glu70
+T81	Protein_part 1948 1957	beta-turn
+T82	Process 1978 1986	function
+T83	Protein 1991 1994	HPr

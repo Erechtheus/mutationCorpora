@@ -1,0 +1,48 @@
+T1	Protein_part 0 11	Active site
+T2	Geometrical_part 36 43	hairpin
+T3	Process 44 55	recognition
+T4	Protein 74 90	DNA transposases
+T5	Organism 97 105	bacteria
+T6	Protein_part 120 141	transposable elements
+T7	Protein_part 149 173	insertion sequences (IS)
+T8	Organism 178 197	Helicobacter pylori
+T9	Protein_part 212 217	IS605
+T10	Unknown 218 233	family elements
+T11	Protein 289 294	genes
+T12	Body_part 304 322	gastric epithelial
+T13	Protein 323 340	invasion  factors
+T14	Protein 342 349	Protein
+T15	Protein_part 350 359	sequences
+T16	Protein 363 381	IS605 transposases
+T17	Food 389 393	bear
+T18	Protein 436 448	transposases
+T19	Geometrical_part 469 486	crystal structure
+T20	Protein 502 520	transposase (TnpA)
+T21	Unknown 541 547	member
+T22	Protein_part 549 556	ISHp608
+T23	Protein 572 576	TnpA
+T24	Protein 613 624	transposase
+T25	Protein 651 692	rolling circle replication (RCR) proteins
+T26	Process 710 713	RCR
+T27	Chemical 715 719	Mg2+
+T28	Protein_part 736 744	tyrosine
+T29	Protein_part 746 752	Tyr127
+T30	Molecule 772 775	DNA
+T31	Process 792 801	formation
+T32	Molecule 817 829	intermediate
+T33	Protein 838 842	TnpA
+T34	Molecule 847 850	DNA
+T35	Protein 852 856	TnpA
+T36	Protein_part 890 902	active sites
+T37	Molecule 918 921	DNA
+T38	Body_part 922 926	stem
+T39	Geometrical_part 927 932	loops
+T40	Protein_part 969 976	repeats
+T41	Geometrical_part 987 990	end
+T42	Protein_part 994 1001	ISHp608
+T43	Geometrical_part 1007 1026	cocrystal structure
+T44	Molecule 1042 1045	DNA
+T45	Unknown 1067 1073	family
+T46	Protein 1077 1089	transposases
+T47	Geometrical_part 1124 1128	ends
+T48	Process 1153 1166	transposition

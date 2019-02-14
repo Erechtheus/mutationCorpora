@@ -1,0 +1,58 @@
+T1	Process 15 43	biochemical characterization
+T2	Process 51 55	KRLB
+T3	Protein_part 56 62	region
+T4	Protein 66 94	insulin receptor substrate-2
+T5	Protein 96 112	Insulin receptor
+T6	Category 113 125	substrates 1
+T7	Protein 133 137	IRS1
+T8	Protein 158 174	adaptor proteins
+T9	Physiology 192 201	metabolic
+T10	Physiology 206 215	mitogenic
+T11	Process 216 223	effects
+T12	Protein 227 234	insulin
+T13	Protein 239 268	insulin-like growth  factor 1
+T14	Protein 276 284	proteins
+T15	Protein 298 308	pleckstrin
+T16	Protein_part 318 324	domain
+T17	Chemical 328 343	phosphotyrosine
+T18	Process 344 351	binding
+T19	Protein_part 352 358	domain
+T20	Protein_part 365 382	C-terminal region
+T21	Protein_part 403 408	sites
+T22	Protein_part 413 421	tyrosine
+T23	Protein_part 423 429	serine
+T24	Protein_part 434 443	threonine
+T25	Process 444 459	phosphorylation
+T26	Organism 470 475	yeast
+T27	Protein_part 508 514	region
+T28	Protein 525 529	IRS2
+T29	Process 542 579	kinase regulatory-loop binding (KRLB)
+T30	Protein_part 580 586	region
+T31	Protein 613 628	tyrosine kinase
+T32	Protein_part 629 635	domain
+T33	Protein 643 659	insulin receptor
+T34	Geometrical_part 681 698	crystal structure
+T35	Protein 706 722	insulin receptor
+T36	Protein 723 729	kinase
+T37	Category 733 740	complex
+T38	Protein_part 748 766	15-residue peptide
+T39	Process 776 780	KRLB
+T40	Protein_part 781 787	region
+T41	Unknown 796 805	structure
+T42	Protein_part 812 819	segment
+T43	Protein 823 827	IRS2
+T44	Protein 844 850	kinase
+T45	Protein_part 851 862	active site
+T46	Protein_part 868 874	Tyr628
+T47	Process 890 905	phosphorylation
+T48	Protein_part 916 922	Tyr628
+T49	Protein 949 965	insulin receptor
+T50	Process 971 989	catalytic turnover
+T51	Protein 1013 1019	kinase
+T52	Process 1020 1030	inhibition
+T53	Process 1062 1066	KRLB
+T54	Protein_part 1067 1073	region
+T55	Process 1074 1083	functions
+T56	Protein_part 1093 1101	tyrosine
+T57	Process 1102 1117	phosphorylation
+T58	Protein 1121 1125	IRS2

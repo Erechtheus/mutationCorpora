@@ -1,0 +1,89 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Chemical 23 30	calcium
+T3	Protein 39 44	dimer
+T4	Molecule 52 60	isoforms
+T5	Organism 64 69	cobra
+T6	Protein 70 86	phospholipase A2
+T7	Value 90 95	1.6 A
+T8	Parameter 96 106	resolution
+T9	Chemical 112 119	calcium
+T10	Process 128 137	formation
+T11	Category 143 150	complex
+T12	Molecule 163 171	isoforms
+T13	Organism 175 180	cobra
+T14	Protein 181 203	venom phospholipase A2
+T15	Process 220 229	interplay
+T16	Protein 242 255	monomer-dimer
+T17	Process 280 291	transitions
+T18	Molecule 311 319	isoforms
+T19	Process 320 324	lack
+T20	Parameter 325 333	activity
+T21	Process 342 349	absence
+T22	Chemical 353 365	calcium ions
+T23	Molecule 377 386	molecules
+T24	Parameter 392 400	activity
+T25	Process 408 416	presence
+T26	Chemical 420 432	calcium ions
+T27	Parameter 437 451	concentrations
+T28	Value 464 472	10 mg/ml
+T29	Process 481 489	presence
+T30	Chemical 493 506	calcium  ions
+T31	Parameter 531 539	activity
+T32	Geometrical_part 577 594	crystal structure
+T33	Chemical 600 607	calcium
+T34	Protein 616 621	dimer
+T35	Molecule 634 642	isoforms
+T36	Organism 646 651	cobra
+T37	Protein 652 668	phospholipase A2
+T38	Category 677 684	complex
+T39	Molecule 690 698	molecule
+T40	Chemical 710 721	calcium ion
+T41	Chemical 729 736	calcium
+T42	Process 737 744	binding
+T43	Geometrical_part 745 749	loop
+T44	Molecule 760 775	second molecule
+T45	Chemical 811 822	calcium ion
+T46	Chemical 847 859	calcium ions
+T47	Protein 864 869	dimer
+T48	Unknown 877 886	structure
+T49	Chemical 900 911	calcium ion
+T50	Protein_part 944 948	site
+T51	Process 992 1004	dimerization
+T52	Chemical 1010 1017	calcium
+T53	Process 1018 1025	binding
+T54	Geometrical_part 1026 1031	loops
+T55	Molecule 1043 1052	molecules
+T56	Process 1071 1080	different
+T57	State 1081 1094	conformations
+T58	Chemical 1110 1117	calcium
+T59	Process 1118 1125	binding
+T60	Geometrical_part 1126 1130	loop
+T61	Chemical 1138 1145	calcium
+T62	Molecule 1157 1165	molecule
+T63	State 1182 1194	conformation
+T64	Chemical 1226 1233	calcium
+T65	Protein 1245 1258	phospholipase
+T66	Protein 1259 1271	A(2) enzymes
+T67	State 1282 1294	conformation
+T68	Geometrical_part 1316 1320	loop
+T69	Chemical 1328 1335	calcium
+T70	Protein 1341 1348	monomer
+T71	Process 1380 1389	formation
+T72	Protein_part 1412 1417	Gly33
+T73	Parameter 1418 1421	(N)
+T74	Unknown 1421 1427	-Cys27
+T75	Value 1434 1441	2.74  A
+T76	Chemical 1451 1464	hydrogen bond
+T77	Process 1470 1482	interactions
+T78	Protein_part 1486 1491	Arg31
+T79	Protein_part 1501 1506	Asp49
+T80	Process 1515 1522	absence
+T81	Chemical 1526 1537	calcium ion
+T82	Process 1562 1566	loss
+T83	Parameter 1580 1588	activity
+T84	Molecule 1592 1600	molecule
+T85	Process 1609 1621	interactions
+T86	Protein_part 1625 1629	Arg2
+T87	Protein_part 1639 1644	Tyr52
+T88	Molecule 1660 1668	molecule
+T89	Molecule 1669 1670	B

@@ -1,0 +1,69 @@
+T1	Unknown 0 28	Structure-stability-activity
+T2	Parameter 29 41	relationship
+T3	Protein 69 109	N-carbamoyl  D-amino acid amidohydrolase
+T4	Protein 114 139	N-acylamino acid racemase
+T5	Protein 141 174	N-Acylamino acid racemase (NAAAR)
+T6	Protein 179 229	N-carbamoyl-D-amino-acid amidohydrolase (D-NCAase)
+T7	Chemical 283 300	alpha-amino acids
+T8	Protein 302 307	NAAAR
+T9	Chemical 317 326	octameric
+T10	Process 327 335	assembly
+T11	Process 361 370	movements
+T12	Category 377 386	substrate
+T13	Process 387 394	binding
+T14	Protein 402 410	D-NCAase
+T15	Protein 416 424	tetramer
+T16	Process 439 445	change
+T17	State 446 458	conformation
+T18	Process 466 474	presence
+T19	Category 480 486	ligand
+T20	Process 507 514	effects
+T21	State 554 557	S-S
+T22	Process 575 584	different
+T23	Protein 585 603	multimeric enzymes
+T24	Protein_part 605 622	cysteine residues
+T25	Chemical 650 679	intra-subunit disulfide bonds
+T26	Technique 699 724	site-directed mutagenesis
+T27	Protein 726 739	Inter-subunit
+T28	Chemical 740 749	S-S bonds
+T29	Protein 769 783	NAAAR variants
+T30	Protein 785 794	A68C-D72C
+T31	Protein 799 809	P60C-Y100C
+T32	Unknown 819 836	d-NCAase variants
+T33	Protein 838 843	A302C
+T34	Protein 848 859	P295C-F304C
+T35	Protein 862 875	Intra-subunit
+T36	Chemical 876 885	S-S bonds
+T37	Protein 916 930	NAAAR variants
+T38	Protein 932 943	E149C-A182C
+T39	Protein 948 953	V265C
+T40	Geometrical_part 956 974	Crystal structures
+T41	Protein 978 993	NAAARs variants
+T42	Process 1007 1017	deviations
+T43	Geometrical_part 1045 1063	tertiary structure
+T44	Protein 1072 1089	A68C-D72C subunit
+T45	Protein 1107 1123	wild-type enzyme
+T46	Geometrical_part 1156 1160	loop
+T47	Category 1173 1179	ligand
+T48	Protein 1186 1191	NAAAR
+T49	Unknown 1197 1207	structures
+T50	Protein 1211 1216	A222C
+T51	Protein 1221 1236	A302C D-NCAases
+T52	Protein 1265 1281	wild-type enzyme
+T53	Molecule 1287 1294	mutants
+T54	Protein 1300 1313	inter-subunit
+T55	Process 1326 1335	increases
+T56	Protein 1374 1390	wild-type enzyme
+T57	Protein 1392 1407	A68C-D72C NAAAR
+T58	Parameter 1423 1437	kcat/Km ratios
+T59	Protein 1447 1463	mutant D-NCAases
+T60	Parameter 1487 1501	kcat/Km ratios
+T61	Parameter 1510 1522	temperatures
+T62	Protein 1524 1529	A302C
+T63	Value 1531 1539	4.2-fold
+T64	Value 1543 1555	65 degrees C
+T65	Process 1589 1600	simulations
+T66	Protein 1613 1618	A302C
+T67	Protein_part 1657 1671	catalytic site
+T68	Parameter 1675 1686	temperature
+T69	Parameter 1717 1725	activity

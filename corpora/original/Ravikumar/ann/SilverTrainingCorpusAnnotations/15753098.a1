@@ -1,0 +1,75 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 23 59	nicotinate phosphoribosyltransferase
+T3	Organism 65 89	Thermoplasma acidophilum
+T4	Geometrical_part 114 131	crystal structure
+T5	Protein 135 214	nicotinate phosphoribosyltransferase  from Themoplasma acidophilum (TaNAPRTase)
+T6	Protein 220 230	TaNAPRTase
+T7	Protein_part 241 248	domains
+T8	Protein_part 253 270	N-terminal domain
+T9	Protein_part 293 299	domain
+T10	Protein_part 314 331	C-terminal domain
+T11	Geometrical_part 337 354	crystal structure
+T12	Protein_part 384 390	domain
+T13	Protein 397 430	type II phosphoribosyltransferase
+T14	Geometrical_part 457 469	architecture
+T15	Chemical 479 493	nicotinic acid
+T16	Protein 498 554	quinolinic acid (QA) phosphoribosyltransferases (PRTase)
+T17	Parameter 567 586	sequence similarity
+T18	Protein 608 616	QAPRTase
+T19	Protein 618 628	TaNAPRTase
+T20	Protein_part 648 665	C-terminal domain
+T21	Chemical 679 683	zinc
+T22	Protein_part 697 702	motif
+T23	Protein_part 717 726	cysteines
+T24	Protein 732 742	TaNAPRTase
+T25	Protein 751 757	trimer
+T26	Protein 761 767	dimers
+T27	Unknown 775 782	crystal
+T28	Protein_part 788 799	active site
+T29	Geometrical_part 800 806	pocket
+T30	Protein 820 825	dimer
+T31	Geometrical_part 850 860	structures
+T32	Chemical 866 900	phosphoribosylpyrophosphate (PRPP)
+T33	Chemical 905 937	nicotinate mononucleotide (NAMN)
+T34	Protein_part 976 984	residues
+T35	Geometrical_part 985 991	lining
+T36	Protein_part 999 1010	active site
+T37	Protein 1014 1024	TaNAPRTase
+T38	Protein 1059 1067	QAPRTase
+T39	Category 1084 1094	substrates
+T40	Chemical 1132 1141	phosphate
+T41	Molecular_Part 1142 1148	moiety
+T42	Chemical 1152 1156	PRPP
+T43	Chemical 1161 1165	NAMN
+T44	Chemical 1185 1194	phosphate
+T45	Geometrical_part 1203 1208	loops
+T46	Chemical 1228 1234	amides
+T47	Geometrical_part 1253 1270	alpha/beta barrel
+T48	Protein 1271 1278	enzymes
+T49	Chemical 1284 1297	pyrophosphate
+T50	Molecular_Part 1298 1304	moiety
+T51	Chemical 1308 1312	PRPP
+T52	Location 1331 1339	entrance
+T53	Protein_part 1347 1358	active site
+T54	Geometrical_part 1359 1365	pocket
+T55	Chemical 1379 1389	nicotinate
+T56	Molecular_Part 1390 1396	moiety
+T57	Chemical 1400 1404	NAMN
+T58	Chemical 1448 1458	nicotinate
+T59	Molecular_Part 1459 1465	moiety
+T60	Chemical 1469 1473	NAMN
+T61	Protein_part 1524 1540	residues Tyr(21)
+T62	Protein_part 1545 1553	Phe(138)
+T63	Technique 1574 1582	analyses
+T64	Protein_part 1603 1632	NAPRTase sequence subfamilies
+T65	Protein 1645 1655	TaNAPRTase
+T66	Protein_part 1676 1694	sequence subfamily
+T67	Protein 1698 1706	NAPRTase
+T68	Geometrical_part 1712 1722	structures
+T69	Protein 1726 1736	TaNAPRTase
+T70	Process 1760 1767	insight
+T71	Protein_part 1778 1798	sequence subfamilies
+T72	Body_part 1807 1824	pre-B cell colony
+T73	Protein 1835 1841	factor
+T74	Protein 1857 1895	nicotinamide phosphoribosyltransferase
+T75	Parameter 1896 1904	activity

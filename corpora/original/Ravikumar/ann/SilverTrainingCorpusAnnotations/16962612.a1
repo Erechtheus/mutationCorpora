@@ -1,0 +1,71 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 25 30	mouse
+T3	Molecule 31 36	Nup35
+T4	Protein_part 54 64	RNP motifs
+T5	Process 75 91	homodimerization
+T6	Protein_part 99 109	RRM domain
+T7	Body_part 115 127	nuclear pore
+T8	Category 128 135	complex
+T9	Process 149 158	transport
+T10	Molecule 162 176	macromolecules
+T11	Geometrical_part 188 209	nuclear envelope (NE)
+T12	Organism 215 225	vertebrate
+T13	Body_part 226 238	nuclear pore
+T14	Protein 239 252	protein Nup35
+T15	Protein 258 266	ortholog
+T16	Organism 270 294	Saccharomyces cerevisiae
+T17	Protein 295 301	Nup53p
+T18	Geometrical_part 337 339	NE
+T19	Body_part 340 348	membrane
+T20	Body_part 372 379	nuclear
+T21	State 380 390	morphology
+T22	Protein_part 396 419	highly conserved region
+T23	Organism 428 438	vertebrate
+T24	Molecule 439 444	Nup35
+T25	Organism 449 454	yeast
+T26	Protein 455 461	Nup53p
+T27	Protein_part 489 523	RNA-recognition motif (RRM) domain
+T28	Parameter 549 566	sequence homology
+T29	Protein_part 578 589	RRM domains
+T30	Protein_part 595 599	RNP1
+T31	Protein_part 604 615	RNP2 motifs
+T32	Geometrical_part 648 665	primary structure
+T33	Geometrical_part 703 720	crystal structure
+T34	Protein_part 728 738	RRM domain
+T35	Organism 742 747	mouse
+T36	Molecule 748 753	Nup35
+T37	Value 757 762	2.7 A
+T38	Parameter 763 773	resolution
+T39	Protein 779 803	Nup35 RRM domain monomer
+T40	Protein_part 888 900	RRM  domains
+T41	Unknown 906 915	structure
+T42	Protein_part 950 954	RNP1
+T43	Protein_part 959 970	RNP2 motifs
+T44	Protein_part 982 1000	RNP motif residues
+T45	Protein_part 1015 1033	beta-sheet surface
+T46	Protein_part 1077 1088	RRM domains
+T47	Geometrical_part 1116 1132	hydrophobic core
+T48	Protein_part 1159 1169	RRM domain
+T49	Protein 1178 1187	homodimer
+T50	Unknown 1195 1202	crystal
+T51	Process 1234 1253	ultracentrifugation
+T52	Process 1254 1265	experiments
+T53	Protein_part 1271 1289	beta-sheet surface
+T54	Protein_part 1297 1307	RRM domain
+T55	Protein_part 1327 1337	RNP motifs
+T56	Process 1354 1370	homodimerization
+T57	Process 1393 1405	interactions
+T58	Protein_part 1411 1421	side-chain
+T59	Protein_part 1425 1431	Met236
+T60	Protein_part 1440 1452	beta4 strand
+T61	Molecule 1460 1474	Nup35 molecule
+T62	Protein_part 1505 1516	side-chains
+T63	Protein_part 1521 1527	Phe178
+T64	Protein_part 1535 1547	beta1 strand
+T65	Protein_part 1552 1558	Trp209
+T66	Protein_part 1566 1578	beta3 strand
+T67	Molecule 1592 1606	Nup35 molecule
+T68	Protein 1614 1619	dimer
+T69	Unknown 1626 1635	structure
+T70	Process 1650 1666	homodimerization
+T71	Protein_part 1680 1690	RRM domain

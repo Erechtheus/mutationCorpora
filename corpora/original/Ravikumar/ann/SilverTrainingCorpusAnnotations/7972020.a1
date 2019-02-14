@@ -1,0 +1,80 @@
+T1	Chemical 2 8	cation
+T2	Process 9 16	binding
+T3	Protein_part 17 22	motif
+T4	Chemical 38 56	compound I radical
+T5	Protein 60 72	cytochrome c
+T6	Protein 73 83	peroxidase
+T7	Protein 85 97	Cytochrome c
+T8	Protein 98 108	peroxidase
+T9	Chemical 121 129	peroxide
+T10	Chemical 138 148	compound I
+T11	Chemical 168 182	oxyferryl heme
+T12	Chemical 190 205	indolyl radical
+T13	Protein_part 209 216	Trp-191
+T14	Chemical 222 242	indolyl free radical
+T15	Parameter 249 258	half-life
+T16	Value 279 283	room
+T17	Parameter 284 295	temperature
+T18	State 317 326	stability
+T19	Process 348 366	catalytic function
+T20	Protein 370 382	cytochrome c
+T21	Protein 383 393	peroxidase
+T22	Molecular_Part 398 403	probe
+T23	Protein 409 416	protein
+T24	Unknown 417 428	environment
+T25	Chemical 449 467	compound I radical
+T26	Technique 477 502	site-directed mutagenesis
+T27	Protein_part 514 521	Trp-191
+T28	Protein_part 527 530	Gly
+T29	Protein_part 534 537	Gln
+T30	Geometrical_part 539 557	Crystal structures
+T31	Molecule 567 574	mutants
+T32	Chemical 586 603	monovalent cation
+T33	Process 604 611	binding
+T34	Protein_part 612 616	site
+T35	Body_part 624 630	cavity
+T36	Protein_part 656 666	side chain
+T37	Protein_part 670 677	Trp-191
+T38	Process 679 689	Comparison
+T39	Protein_part 698 702	site
+T40	Chemical 735 741	cation
+T41	Protein 742 757	binding enzymes
+T42	Protein_part 773 780	Trp-191
+T43	Protein_part 781 791	side chain
+T44	Chemical 815 817	K+
+T45	Process 818 825	binding
+T46	Protein_part 826 830	site
+T47	Technique 856 868	calculations
+T48	Chemical 887 893	cation
+T49	Process 894 901	binding
+T50	Protein_part 902 906	site
+T51	Value 929 937	negative
+T52	Parameter 938 945	charges
+T53	Chemical 962 983	carbonyl oxygen atoms
+T54	Protein_part 987 999	residues 175
+T55	Protein_part 1004 1007	177
+T56	Chemical 1013 1025	carboxyl end
+T57	Protein_part 1036 1047	alpha-helix
+T58	Protein_part 1049 1065	residues 165-175
+T59	Chemical 1072 1088	heme propionates
+T60	Chemical 1098 1109	carboxylate
+T61	Protein_part 1110 1120	side chain
+T62	Protein_part 1124 1131	Asp-235
+T63	Value 1157 1165	negative
+T64	Parameter 1166 1175	potential
+T65	Protein_part 1194 1204	side chain
+T66	Protein_part 1208 1215	Trp-191
+T67	Parameter 1232 1243	free energy
+T68	Process 1244 1250	change
+T69	Chemical 1255 1261	cation
+T70	Process 1262 1269	binding
+T71	Protein_part 1278 1282	site
+T72	Value 1286 1298	-27 kcal/mol
+T73	Value 1300 1301	1
+T74	Parameter 1302 1305	cal
+T75	Value 1308 1314	4.184J
+T76	State 1365 1374	stability
+T77	Chemical 1382 1397	Trp-191 radical
+T78	Value 1445 1457	7.8 kcal/mol
+T79	Chemical 1472 1483	Trp radical
+T80	Chemical 1487 1495	solution

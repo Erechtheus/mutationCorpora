@@ -1,0 +1,60 @@
+T1	Process 0 15	Phosphorylation
+T2	State 24 38	conformational
+T3	Process 39 48	switching
+T4	Protein 52 58	CPI-17
+T5	Protein 77 95	myosin phosphatase
+T6	Category 96 105	inhibitor
+T7	Process 107 122	Phosphorylation
+T8	Category 137 146	inhibitor
+T9	Protein 147 155	proteins
+T10	Protein_part 160 174	type-1 Ser/Thr
+T11	Protein 175 186	phosphatase
+T12	Protein 188 191	PP1
+T13	Process 204 213	mechanism
+T14	Process 229 241	coordination
+T15	Protein 245 251	kinase
+T16	Protein 256 267	phosphatase
+T17	Parameter 269 279	activities
+T18	Protein 283 301	myosin phosphatase
+T19	Category 302 311	inhibitor
+T20	Protein 312 326	protein CPI-17
+T21	Protein_part 348 353	Thr38
+T22	Protein 362 371	G-protein
+T23	Parameter 376 377	a
+T24	Value 405 415	>1000-fold
+T25	Process 416 424	increase
+T26	Chemical 465 473	solution
+T27	Technique 474 477	NMR
+T28	Geometrical_part 478 487	structure
+T29	Chemical 491 509	phospho-T38-CPI-17
+T30	Parameter 515 519	rmsd
+T31	Value 523 538	0.36 +/- 0.06 A
+T32	Geometrical_part 556 575	secondary structure
+T33	Process 596 611	phosphorylation
+T34	State 623 637	conformational
+T35	Process 638 644	change
+T36	Geometrical_part 671 678	surface
+T37	State 685 704	active conformation
+T38	Process 726 735	formation
+T39	Geometrical_part 741 757	hydrophobic core
+T40	Protein_part 774 785	side chains
+T41	Chemical 812 827	phospho-mimetic
+T42	Chemical 828 831	D38
+T43	Protein 840 846	CPI-17
+T44	Process 867 875	increase
+T45	Protein 890 896	CPI-17
+T46	Process 909 924	phosphorylation
+T47	State 926 940	conformational
+T48	Process 941 947	change
+T49	Process 965 978	stabilization
+T50	Unknown 991 1000	structure
+T51	Protein_part 1016 1038	phosphorylated residue
+T52	Protein 1046 1053	protein
+T53	Geometrical_part 1054 1061	surface
+T54	Process 1080 1090	hydrolysis
+T55	Protein 1094 1112	myosin phosphatase
+T56	Process 1159 1171	transduction
+T57	Protein 1175 1181	kinase
+T58	Protein 1193 1196	PP1
+T59	Category 1197 1206	inhibitor
+T60	Protein 1207 1215	proteins

@@ -1,0 +1,82 @@
+T1	Process 0 14	Identification
+T2	Protein_part 22 38	cysteine residue
+T3	State 54 68	conformational
+T4	Process 69 75	change
+T5	Organism 79 82	pig
+T6	Body_part 83 88	heart
+T7	Protein 89 123	succinyl-CoA:3-ketoacid coenzyme A
+T8	Protein 124 135	transferase
+T9	Process 139 146	binding
+T10	Chemical 147 157	coenzyme A
+T11	Protein 159 205	Succinyl-CoA:3-ketoacid CoA transferase (SCOT)
+T12	Process 206 215	transfers
+T13	Chemical 216 219	CoA
+T14	Chemical 225 237	succinyl-CoA
+T15	Chemical 241 253	acetoacetate
+T16	Chemical 260 282	thioester intermediate
+T17	Protein_part 292 321	active site glutamate residue
+T18	Protein_part 323 330	Glu 305
+T19	Chemical 337 340	CoA
+T20	Protein 358 364	enzyme
+T21	Protein_part 368 384	cysteine residue
+T22	Chemical 417 431	5,5'-dithiobis
+T23	Chemical 432 451	2-nitrobenzoic acid
+T24	State 467 481	conformational
+T25	Process 482 488	change
+T26	Protein 492 496	SCOT
+T27	Process 502 511	formation
+T28	Chemical 519 528	thioester
+T29	Protein_part 543 549	Cys 28
+T30	Protein_part 553 560	Cys 196
+T31	Process 574 580	target
+T32	Protein_part 602 605	Ser
+T33	Protein 640 654	wild-type SCOT
+T34	Protein 660 680	C196S mutant protein
+T35	Process 709 717	presence
+T36	Chemical 722 730	acyl-CoA
+T37	Category 731 741	substrates
+T38	Protein 760 779	C28S mutant protein
+T39	Protein_part 855 861	Cys 28
+T40	Protein_part 869 876	residue
+T41	Process 889 896	binding
+T42	Chemical 897 900	CoA
+T43	Parameter 906 923	specific activity
+T44	Protein 931 950	C28S mutant protein
+T45	Protein 987 1001	wild-type SCOT
+T46	Technique 1003 1024	X-ray crystallography
+T47	Protein_part 1039 1042	Ser
+T48	Process 1052 1061	different
+T49	State 1062 1074	conformation
+T50	Protein_part 1091 1094	Cys
+T51	Chemical 1098 1110	chloride ion
+T52	Protein_part 1135 1147	active sites
+T53	Geometrical_part 1155 1172	crystal structure
+T54	Protein 1180 1199	C28S mutant protein
+T55	Category 1212 1221	substrate
+T56	Protein_part 1240 1247	Lys 329
+T57	Protein_part 1249 1255	Asn 51
+T58	Protein_part 1261 1267	Asn 52
+T59	Process 1276 1281	basis
+T60	Protein 1343 1358	CoA transferase
+T61	Organism 1364 1380	Escherichia coli
+T62	Organism 1382 1386	YdiF
+T63	Chemical 1397 1400	CoA
+T64	State 1406 1420	conformational
+T65	Process 1421 1427	change
+T66	Protein 1431 1435	SCOT
+T67	Protein_part 1456 1462	domain
+T68	Process 1463 1471	rotation
+T69	Value 1475 1485	17 degrees
+T70	Process 1499 1507	movement
+T71	Geometrical_part 1515 1520	loops
+T72	Protein_part 1522 1538	residues 321-329
+T73	Protein_part 1549 1555	Cys 28
+T74	Chemical 1574 1583	succinate
+T75	Chemical 1587 1599	acetoacetate
+T76	Protein_part 1604 1620	residues 374-386
+T77	Chemical 1640 1643	CoA
+T78	State 1659 1673	conformational
+T79	Process 1674 1680	change
+T80	Process 1715 1724	mechanism
+T81	Process 1729 1738	catalysis
+T82	Protein 1742 1746	SCOT

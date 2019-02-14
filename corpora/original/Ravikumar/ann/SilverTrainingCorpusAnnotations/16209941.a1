@@ -1,0 +1,55 @@
+T1	Process 11 16	basis
+T2	Protein 24 28	Cks1
+T3	Process 39 50	recognition
+T4	Protein 54 63	p27(Kip1)
+T5	Protein 71 98	SCF(Skp2)  ubiquitin ligase
+T6	Protein 104 113	ubiquitin
+T7	Process 123 134	proteolysis
+T8	Unknown 142 146	Cdk2
+T9	Category 147 156	inhibitor
+T10	Protein 157 166	p27(Kip1)
+T11	Process 183 187	role
+T12	Physiology 191 201	cell cycle
+T13	Process 202 213	progression
+T14	Process 228 239	degradation
+T15	Protein 243 252	p27(Kip1)
+T16	Physiology 278 292	common cancers
+T17	Process 294 305	Proteolysis
+T18	Protein 309 318	p27(Kip1)
+T19	Protein_part 335 341	Thr187
+T20	Process 342 357	phosphorylation
+T21	Process 378 385	binding
+T22	Protein 393 441	SCF(Skp2) (Skp1-Cul1-Rbx1-Skp2) ubiquitin ligase
+T23	Category 442 449	complex
+T24	Unknown 470 473	SCF
+T25	Category 474 484	substrates
+T26	Protein 486 495	p27(Kip1)
+T27	Process 496 510	ubiquitination
+T28	Protein 539 551	protein Cks1
+T29	Geometrical_part 557 574	crystal structure
+T30	Protein 582 596	Skp1-Skp2-Cks1
+T31	Category 597 604	complex
+T32	Chemical 616 640	p27(Kip1) phosphopeptide
+T33	Protein 652 656	Cks1
+T34	Protein_part 670 702	leucine-rich repeat (LRR) domain
+T35	Protein_part 708 723	C-terminal tail
+T36	Protein 727 731	Skp2
+T37	Protein 741 750	p27(Kip1)
+T38	Protein 765 769	Cks1
+T39	Protein 774 778	Skp2
+T40	Protein_part 784 805	phosphorylated Thr187
+T41	Protein_part 806 816	side chain
+T42	Protein 820 829	p27(Kip1)
+T43	Chemical 849 863	Cks1 phosphate
+T44	Process 864 871	binding
+T45	Protein_part 872 876	site
+T46	Protein_part 890 900	side chain
+T47	Protein_part 907 931	invariant Glu185 inserts
+T48	Protein 959 963	Skp2
+T49	Protein 968 972	Cks1
+T50	Unknown 1001 1010	structure
+T51	Unknown 1064 1077	Cdk2-cyclin A
+T52	Process 1097 1108	recruitment
+T53	Protein 1112 1121	p27(Kip1)
+T54	Protein 1129 1143	SCF(Skp2)-Cks1
+T55	Category 1144 1151	complex

@@ -1,0 +1,90 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 25 30	human
+T3	Protein 31 36	Atg4b
+T4	Protein 70 76	enzyme
+T5	Body_part 82 95	autophagosome
+T6	Physiology 115 124	Autophagy
+T7	Process 156 163	pathway
+T8	Body_part 177 186	cytoplasm
+T9	Body_part 191 201	organelles
+T10	Body_part 222 246	double-membrane vesicles
+T11	Body_part 255 269	autophagosomes
+T12	Process 279 287	turnover
+T13	Process 292 301	recycling
+T14	Body_part 311 332	cellular constituents
+T15	Organism 338 343	yeast
+T16	Unknown 344 348	Atg8
+T17	Organism 357 362	human
+T18	Protein 363 372	orthologs
+T19	Protein 382 385	LC3
+T20	Protein 390 397	GABARAP
+T21	Chemical 429 438	conjugate
+T22	Chemical 453 466	phospholipids
+T23	Protein 483 492	ubiquitin
+T24	Protein 503 512	ubiquitin
+T25	Protein 548 555	protein
+T26	Category 556 566	substrates
+T27	Protein 582 586	Atg8
+T28	Protein 591 594	LC3
+T29	Body_part 622 631	membranes
+T30	Process 655 660	roles
+T31	Process 665 675	maturation
+T32	Body_part 679 693	autophagosomes
+T33	Body_part 714 727	autophagosome
+T34	Process 728 737	formation
+T35	Protein 769 773	Atg8
+T36	Protein 778 781	LC3
+T37	Process 802 811	recycling
+T38	Protein 813 818	Atg4b
+T39	Protein 832 840	protease
+T40	Protein 845 848	LC3
+T41	Protein 853 860	GABARAP
+T42	Process 887 895	reaction
+T43	Protein 899 902	LC3
+T44	Protein 907 914	GABARAP
+T45	Protein 915 925	precursors
+T46	Process 961 969	reaction
+T47	Chemical 992 1005	phospholipids
+T48	Protein 1007 1012	Atg4b
+T49	Protein 1025 1031	enzyme
+T50	Geometrical_part 1038 1055	primary structure
+T51	Protein 1087 1096	proteases
+T52	Protein 1147 1154	enzymes
+T53	Protein 1158 1167	ubiquitin
+T54	Protein 1172 1181	ubiquitin
+T55	Geometrical_part 1211 1230	tertiary structures
+T56	Category 1238 1248	substrates
+T57	Protein 1279 1288	ubiquitin
+T58	Protein_part 1304 1314	N-terminal
+T59	Protein_part 1326 1332	domain
+T60	Geometrical_part 1357 1374	crystal structure
+T61	Organism 1378 1383	human
+T62	Protein 1384 1389	Atg4b
+T63	Technique 1393 1414	X-ray crystallography
+T64	Value 1418 1423	2.0 A
+T65	Parameter 1424 1434	resolution
+T66	Protein 1450 1455	Atg4b
+T67	Protein 1461 1478	cysteine protease
+T68	Protein_part 1492 1512	catalytic triad site
+T69	Protein_part 1525 1530	Cys74
+T70	Protein_part 1532 1538	His280
+T71	Protein_part 1543 1549	Asp278
+T72	Unknown 1555 1564	structure
+T73	Body_part 1583 1592	left lobe
+T74	Body_part 1599 1615	small right lobe
+T75	Protein 1632 1641	"protease
+T76	Protein_part 1704 1729	protease domain structure
+T77	Protein 1733 1738	Atg4b
+T78	Protein 1755 1773	papain superfamily
+T79	Protein 1774 1794	cysteine proteinases
+T80	Protein_part 1810 1816	domain
+T81	Unknown 1835 1844	structure
+T82	Process 1862 1870	function
+T83	Protein_part 1892 1896	R229
+T84	Protein_part 1901 1914	W142 residues
+T85	Protein 1918 1923	Atg4b
+T86	Process 1955 1966	recognition
+T87	Category 1970 1980	substrates
+T88	Process 1985 1994	catalysis
+T89	Unknown 2003 2012	precursor
+T90	Chemical 2046 2059	phospholipids

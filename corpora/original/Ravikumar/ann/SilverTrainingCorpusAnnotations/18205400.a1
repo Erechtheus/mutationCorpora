@@ -1,0 +1,59 @@
+T1	Process 0 10	Inhibition
+T2	Parameter 11 19	kinetics
+T3	Chemical 24 40	emodin cocrystal
+T4	Unknown 41 50	structure
+T5	Unknown 56 63	type II
+T6	Protein 75 88	ketoreductase
+T7	Unknown 90 97	Type II
+T8	Category 133 141	products
+T9	Chemical 182 200	aromatic compounds
+T10	Chemical 213 236	antibiotic tetracycline
+T11	Physiology 241 250	antitumor
+T12	Chemical 251 271	compound doxorubicin
+T13	Protein 277 310	type II polyketide synthase (PKS)
+T14	Category 316 323	complex
+T15	Protein_part 354 361	domains
+T16	Protein 376 401	fatty acid synthase (FAS)
+T17	Protein 414 432	ketoreductase (KR)
+T18	Process 489 498	reduction
+T19	Unknown 508 515	type II
+T20	Protein 527 529	KR
+T21	Chemical 560 571	C9 carbonyl
+T22	Molecular_Part 572 577	group
+T23	Geometrical_part 606 626	cocrystal structures
+T24	Protein 630 675	actinorhodin polyketide ketoreductase (actKR)
+T25	Chemical 687 692	NADPH
+T26	Chemical 696 701	NADP+
+T27	Category 710 719	inhibitor
+T28	Chemical 720 726	emodin
+T29	Protein_part 762 773	P94L mutant
+T30	Protein 777 782	actKR
+T31	Chemical 826 835	p-quinone
+T32	Protein 842 848	enzyme
+T33	Protein_part 849 860	active site
+T34	Process 881 891	simulation
+T35	Geometrical_part 928 936	geometry
+T36	Process 948 957	screening
+T37	Category 971 981	substrates
+T38	Protein 1000 1006	FAS KR
+T39	Protein 1012 1017	actKR
+T40	Category 1035 1045	substrates
+T41	Process 1047 1057	Inhibition
+T42	Parameter 1058 1066	kinetics
+T43	Protein 1081 1086	actKR
+T44	Chemical 1106 1111	Bi Bi
+T45	Process 1112 1121	mechanism
+T46	Process 1137 1144	docking
+T47	Process 1145 1156	simulations
+T48	Chemical 1185 1203	phosphopantetheine
+T49	Process 1204 1211	binding
+T50	Geometrical_part 1212 1218	groove
+T51	Protein_part 1274 1276	C9
+T52	Protein_part 1304 1315	active site
+T53	Geometrical_part 1316 1324	geometry
+T54	Category 1329 1338	substrate
+T55	Geometrical_part 1339 1343	ring
+T56	Process 1377 1387	foundation
+T57	Category 1440 1448	products
+T58	Process 1454 1463	different
+T59	Process 1464 1473	reduction

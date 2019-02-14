@@ -1,0 +1,81 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 31	Chlorobium tepidum
+T3	Protein 32 53	sepiapterin reductase
+T4	Category 54 61	complex
+T5	Category 80 89	substrate
+T6	Process 90 97	binding
+T7	Process 122 132	production
+T8	Unknown 136 163	L-threo-tetrahydrobiopterin
+T9	Protein 165 191	Sepiapterin reductase (SR)
+T10	Chemical 224 251	tetrahydrobiopterin (BH(4))
+T11	Process 252 264	biosynthesis
+T12	Molecular_Part 289 294	group
+T13	Chemical 298 325	6-pyruvoyl tetrahydropterin
+T14	Organism 327 354	Chlorobium tepidum SR (cSR)
+T15	Chemical 376 381	BH(4)
+T16	Category 382 389	product
+T17	Chemical 391 404	L-threo-BH(4)
+T18	Chemical 410 432	1'S,2'S)-5,6,7,8-BH(4)
+T19	Organism 443 449	animal
+T20	Protein 450 457	enzymes
+T21	Chemical 466 481	L-erythro-BH(4)
+T22	Chemical 487 509	1'R,2'S)-5,6,7,8-BH(4)
+T23	Protein_part 532 551	amino acid sequence
+T24	Parameter 552 564	similarities
+T25	Organism 578 584	animal
+T26	Protein 585 592	enzymes
+T27	Process 622 627	basis
+T28	Process 636 645	different
+T29	Process 646 654	reaction
+T30	Geometrical_part 699 727	three-dimensional structures
+T31	Organism 731 734	cSR
+T32	Chemical 760 764	NADP
+T33	Protein 769 780	sepiapterin
+T34	Value 784 787	2.1
+T35	Value 792 797	1.7 A
+T36	Parameter 798 808	resolution
+T37	Process 836 843	folding
+T38	Organism 851 854	cSR
+T39	Process 860 867	binding
+T40	Protein_part 868 872	site
+T41	Category 881 889	cofactor
+T42	Chemical 890 897	NADP(H)
+T43	Protein_part 920 940	active site residues
+T44	Organism 968 973	mouse
+T45	Organism 982 990	human SR
+T46	Process 1013 1024	differences
+T47	Category 1043 1052	substrate
+T48	Process 1053 1060	binding
+T49	Protein_part 1061 1067	region
+T50	Organism 1075 1078	cSR
+T51	Process 1083 1093	comparison
+T52	Organism 1102 1110	mouse SR
+T53	Category 1111 1118	complex
+T54	Protein 1124 1135	sepiapterin
+T55	Organism 1143 1146	cSR
+T56	Value 1158 1175	about 180 degrees
+T57	Protein_part 1188 1199	active site
+T58	Protein_part 1231 1242	side chains
+T59	Protein_part 1246 1253	Trp-196
+T60	Protein_part 1259 1265	Phe-99
+T61	Protein 1278 1284	pterin
+T62	Geometrical_part 1285 1289	ring
+T63	Location 1317 1321	side
+T64	Protein_part 1331 1341	side chain
+T65	Protein 1380 1391	sepiapterin
+T66	Process 1392 1399	binding
+T67	Process 1415 1425	conversion
+T68	Protein_part 1433 1443	side chain
+T69	Process 1444 1457	configuration
+T70	Body_part 1481 1485	face
+T71	Chemical 1490 1497	hydride
+T72	Process 1498 1506	transfer
+T73	Chemical 1512 1517	NADPH
+T74	Process 1523 1532	different
+T75	Protein 1533 1544	sepiapterin
+T76	Process 1545 1552	binding
+T77	Geometrical_part 1589 1601	architecture
+T78	Process 1631 1640	switching
+T79	Process 1645 1653	reaction
+T80	Protein 1686 1693	protein
+T81	Geometrical_part 1694 1698	fold

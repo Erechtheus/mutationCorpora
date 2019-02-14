@@ -1,0 +1,69 @@
+T1	Process 18 24	action
+T2	Organism 74 79	human
+T3	Protein 80 96	calpain protease
+T4	Protein 103 110	Calpain
+T5	Chemical 134 138	Ca2+
+T6	Protein 161 167	enzyme
+T7	Process 196 204	function
+T8	Chemical 235 239	Ca2+
+T9	Process 240 251	homeostasis
+T10	Physiology 269 286	cellular injuries
+T11	Physiology 299 307	diseases
+T12	Body_part 315 318	CNS
+T13	Protein 339 346	calpain
+T14	Process 370 381	degradation
+T15	Body_part 389 401	cytoskeletal
+T16	Protein 406 423	membrane proteins
+T17	Protein 437 444	calpain
+T18	Physiology 481 486	aging
+T19	Physiology 501 509	diseases
+T20	Protein 535 542	calpain
+T21	Parameter 559 568	potential
+T22	Process 581 587	target
+T23	Physiology 602 615	degenerations
+T24	Parameter 624 629	kinds
+T25	Parameter 643 652	potential
+T26	Process 663 673	importance
+T27	Protein 710 720	mu-calpain
+T28	Organism 750 753	rat
+T29	Protein 754 760	enzyme
+T30	Geometrical_part 785 802	crystal structure
+T31	Organism 811 816	human
+T32	Protein 817 836	mu-calpain protease
+T33	Unknown 843 850	hmuI-II
+T34	Protein_part 865 874	Gly213Ala
+T35	Process 875 883	mutation
+T36	Unknown 933 941	ZLLYCH2F
+T37	Value 946 951	2.0 A
+T38	Parameter 952 962	resolution
+T39	Chemical 968 984	methylene carbon
+T40	Category 992 1001	inhibitor
+T41	Protein_part 1014 1020	Cys115
+T42	Chemical 1033 1049	hydrogen bonding
+T43	Process 1066 1078	interactions
+T44	Protein_part 1087 1107	active site residues
+T45	Category 1116 1125	inhibitor
+T46	Geometrical_part 1155 1167	antiparallel
+T47	Protein_part 1168 1178	beta-sheet
+T48	Process 1179 1190	arrangement
+T49	Unknown 1224 1231	members
+T50	Protein 1239 1252	papain family
+T51	Protein 1256 1276	cysteine proteinases
+T52	Category 1300 1307	complex
+T53	Category 1323 1332	inhibitor
+T54	Protein_part 1338 1349	terminal ZL
+T55	Category 1365 1374	inhibitor
+T56	Chemical 1378 1385	solvent
+T57	Process 1452 1459	binding
+T58	Process 1460 1472	interactions
+T59	Protein 1482 1488	enzyme
+T60	Protein 1500 1506	enzyme
+T61	Protein_part 1507 1514	regions
+T62	Protein_part 1528 1539	active site
+T63	Process 1586 1597	recognition
+T64	Protein 1601 1610	calpain's
+T65	Protein 1619 1626	protein
+T66	Category 1627 1637	substrates
+T67	Process 1666 1675	catalysis
+T68	Process 1681 1693	implications
+T69	Chemical 1698 1702	drug

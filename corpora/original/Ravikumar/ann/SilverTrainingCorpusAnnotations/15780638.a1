@@ -1,0 +1,33 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 48 85	selective aminoimidazo[1,2-a]pyridine
+T3	Category 92 102	inhibitors
+T4	Protein 106 130	cyclin dependent kinases
+T5	Unknown 132 141	Structure
+T6	Process 199 208	evolution
+T7	Chemical 212 236	imidazopyridine scaffold
+T8	Category 287 297	inhibitors
+T9	Protein 301 325	cyclin dependent kinases
+T10	Process 355 366	interaction
+T11	Protein_part 386 393	residue
+T12	Protein 401 408	protein
+T13	Protein_part 410 415	Lys89
+T14	Chemical 417 426	Compounds
+T15	Process 469 475	effect
+T16	Protein 526 550	serine/threonine kinases
+T17	Protein 559 567	GSK3beta
+T18	Protein 569 575	CAMKII
+T19	Protein 577 580	PKA
+T20	Protein 582 610	PKC-alpha,beta,epsilon,gamma
+T21	Chemical 612 620	Compound
+T22	Unknown 621 623	2i
+T23	Process 633 646	proliferation
+T24	Unknown 650 653	HCT
+T25	Body_part 658 663	cells
+T26	Body_part 667 681	tissue culture
+T27	Process 683 692	Synthesis
+T28	Geometrical_part 694 714	co-crystal structure
+T29	Protein 718 722	CDK2
+T30	Category 726 733	complex
+T31	Chemical 739 747	compound
+T32	Unknown 748 750	2i
+T33	Technique 768 777	SAR study

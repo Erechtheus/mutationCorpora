@@ -1,0 +1,81 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 25 40	cytomegalovirus
+T3	Protein 41 55	DNA polymerase
+T4	Protein 56 68	subunit UL44
+T5	Category 72 79	complex
+T6	Protein_part 89 99	C terminus
+T7	Protein 119 126	subunit
+T8	Process 128 139	Differences
+T9	Unknown 143 152	structure
+T10	Protein 189 193	UL44
+T11	Organism 199 220	human cytomegalovirus
+T12	Protein 221 235	DNA polymerase
+T13	Protein 263 270	subunit
+T14	Protein 272 276	UL54
+T15	Protein 295 302	protein
+T16	Protein 304 308	UL44
+T17	Geometrical_part 333 337	fold
+T18	Protein 376 383	factors
+T19	Physiology 395 409	herpes simplex
+T20	Organism 410 415	virus
+T21	Protein 416 420	UL42
+T22	Body_part 475 479	cell
+T23	Protein 480 495	nuclear antigen
+T24	Protein_part 514 522	residues
+T25	Protein_part 530 547	C-terminal region
+T26	Protein 551 555	UL54
+T27	Protein 587 591	UL44
+T28	Process 613 624	association
+T29	Protein 634 642	proteins
+T30	Geometrical_part 666 683	crystal structure
+T31	Protein_part 687 701	residues 1-290
+T32	Protein 705 709	UL44
+T33	Category 713 720	complex
+T34	Protein_part 728 735	peptide
+T35	Protein_part 753 763	C terminus
+T36	Protein 767 771	UL54
+T37	Process 793 804	interaction
+T38	Protein_part 831 843	UL54 peptide
+T39	Unknown 864 872	elements
+T40	Protein 898 902	UL42
+T41	Process 961 968	binding
+T42	Process 1008 1019	interaction
+T43	Protein_part 1060 1074	factor-peptide
+T44	Category 1075 1084	complexes
+T45	Protein_part 1094 1102	residues
+T46	Protein_part 1113 1126	three-residue
+T47	Protein_part 1155 1167	UL54 peptide
+T48	Protein_part 1172 1180	Ile(135)
+T49	Protein 1184 1188	UL44
+T50	Geometrical_part 1240 1246	anchor
+T51	Process 1251 1263	interactions
+T52	Geometrical_part 1286 1290	loop
+T53	Protein_part 1299 1306	peptide
+T54	Protein 1343 1347	UL44
+T55	Geometrical_part 1348 1357	structure
+T56	Protein_part 1363 1375	UL44-peptide
+T57	Category 1377 1384	complex
+T58	Protein 1406 1411	dimer
+T59	Unknown 1442 1443	C
+T60	Technique 1451 1456	clamp
+T61	Molecule 1460 1463	DNA
+T62	Protein_part 1478 1485	peptide
+T63	Unknown 1492 1501	structure
+T64	Process 1518 1529	differences
+T65	Process 1546 1557	orientation
+T66	Protein_part 1569 1579	subdomains
+T67	Protein 1587 1594	protein
+T68	Technique 1621 1626	clamp
+T69	Process 1664 1675	association
+T70	Molecule 1681 1684	DNA
+T71	Technique 1701 1715	binding assays
+T72	Protein_part 1730 1737	peptide
+T73	Protein 1744 1748	UL44
+T74	Molecule 1755 1758	DNA
+T75	Value 1764 1770	higher
+T76	Parameter 1771 1779	affinity
+T77	Process 1787 1798	interaction
+T78	Protein 1818 1825	subunit
+T79	Unknown 1853 1862	structure
+T80	Process 1867 1875	function
+T81	Protein 1879 1883	UL44

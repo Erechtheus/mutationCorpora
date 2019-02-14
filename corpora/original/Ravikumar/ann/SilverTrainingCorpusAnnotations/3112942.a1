@@ -1,0 +1,39 @@
+T1	Geometrical_part 4 31	three-dimensional structure
+T2	Protein_part 35 41	Asn102
+T3	Molecule 42 48	mutant
+T4	Protein 52 59	trypsin
+T5	Process 61 65	role
+T6	Protein_part 69 75	Asp102
+T7	Protein 79 94	serine protease
+T8	Process 95 104	catalysis
+T9	Geometrical_part 110 119	structure
+T10	Protein_part 127 133	Asn102
+T11	Molecule 134 140	mutant
+T12	Protein 144 151	trypsin
+T13	Parameter 211 219	activity
+T14	Molecule 227 233	mutant
+T15	Value 237 244	neutral
+T16	Parameter 245 247	pH
+T17	Protein_part 272 283	active site
+T18	State 284 296	conformation
+T19	Value 333 341	positive
+T20	Parameter 343 349	charge
+T21	Protein_part 357 378	active site histidine
+T22	Protein_part 384 405	active site structure
+T23	Protein_part 413 419	Asn102
+T24	Molecule 420 426	mutant
+T25	Protein 430 437	trypsin
+T26	Protein 465 471	enzyme
+T27	Geometrical_part 504 510	pocket
+T28	Chemical 516 524	oxyanion
+T29	Process 539 550	orientation
+T30	Protein_part 571 577	serine
+T31	Process 592 600	decrease
+T32	Parameter 604 608	rate
+T33	Process 626 630	loss
+T34	Protein_part 657 675	active site serine
+T35	Process 724 737	stabilization
+T36	Protein 743 757	His57 tautomer
+T37	Chemical 787 809	serine hydroxyl proton
+T38	Unknown 811 816	CRDT-
+T39	Value 825 833	21 00:00

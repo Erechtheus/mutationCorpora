@@ -1,0 +1,61 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 31 42	Fibrobacter
+T3	Protein 43 55	succinogenes
+T4	Protein 56 80	1,3-1,4-beta-D-glucanase
+T5	Category 85 92	complex
+T6	Chemical 98 122	beta-1,3-1,4-cellotriose
+T7	Organism 124 135	Fibrobacter
+T8	Protein 136 148	succinogenes
+T9	Protein 149 173	1,3-1,4-beta-D-glucanase
+T10	Protein 175 191	Fsbeta-glucanase
+T11	Process 216 226	hydrolysis
+T12	Chemical 230 255	beta-1,4 glycosidic bonds
+T13	Location 256 264	adjacent
+T14	Protein 268 276	beta-1,3
+T15	Protein_part 277 285	linkages
+T16	Chemical 289 303	beta-D-glucans
+T17	Geometrical_part 359 376	crystal structure
+T18	Protein 392 408	Fsbeta-glucanase
+T19	Protein 410 427	TFsbeta-glucanase
+T20	Category 432 439	complex
+T21	Chemical 446 470	beta-1,3-1,4-cellotriose
+T22	Category 480 487	product
+T23	Protein 495 501	enzyme
+T24	Process 502 510	reaction
+T25	Geometrical_part 516 534	crystal structures
+T26	Parameter 541 551	resolution
+T27	Value 555 568	2.3 angstroms
+T28	Geometrical_part 594 598	fold
+T29	Protein 602 619	TFsbeta-glucanase
+T30	Chemical 653 658	sugar
+T31	Process 659 666	binding
+T32	Protein 672 678	enzyme
+T33	Protein_part 697 713	glucose residues
+T34	Geometrical_part 740 745	cleft
+T35	Chemical 751 775	beta-1,3-1,4-cellotriose
+T36	Protein_part 781 789	subsites
+T37	Geometrical_part 819 824	cleft
+T38	Protein 828 845	TFsbeta-glucanase
+T39	Protein_part 868 878	subsite -1
+T40	Protein_part 896 920	catalytic residues Glu56
+T41	Protein_part 925 930	Glu60
+T42	Protein_part 942 950	subsites
+T43	Chemical 958 982	beta-1,3-1,4-cellotriose
+T44	Unknown 1001 1006	C(1)4
+T45	State 1007 1019	conformation
+T46	Protein 1028 1036	beta-1,3
+T47	Protein_part 1037 1055	glycosidic linkage
+T48	Protein_part 1065 1076	subsites -2
+T49	Protein_part 1081 1083	-1
+T50	Protein 1091 1099	beta-1,4
+T51	Protein_part 1100 1118	glycosidic linkage
+T52	Protein_part 1127 1138	subsites -3
+T53	Protein_part 1143 1145	-2
+T54	Process 1154 1159	basis
+T55	Geometrical_part 1190 1199	structure
+T56	Process 1226 1245	catalytic mechanism
+T57	Category 1250 1259	substrate
+T58	Process 1260 1267	binding
+T59	State 1268 1280	conformation
+T60	Protein_part 1288 1299	active site
+T61	Protein 1303 1320	TFsbeta-glucanase

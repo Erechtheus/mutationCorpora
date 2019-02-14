@@ -1,0 +1,89 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 18	human
+T3	Protein 19 46	phytanoyl-CoA 2-hydroxylase
+T4	Process 58 78	molecular mechanisms
+T5	Physiology 82 96	Refsum disease
+T6	Physiology 98 117	Refsum disease (RD)
+T7	Body_part 121 133	neurological
+T8	Physiology 134 142	syndrome
+T9	Organism 160 165	adult
+T10	Process 166 171	onset
+T11	Physiology 172 192	retinitis pigmentosa
+T12	Physiology 203 221	sensory neuropathy
+T13	Physiology 236 245	acidaemia
+T14	Chemical 279 292	phytanic acid
+T15	Physiology 308 310	RD
+T16	Process 332 341	mutations
+T17	Protein 345 379	phytanoyl-CoA 2-hydroxylase (PAHX)
+T18	Chemical 384 390	Fe(II)
+T19	Chemical 395 415	2-oxoglutarate (2OG)
+T20	Protein 426 435	oxygenase
+T21	Protein 463 468	alpha
+T22	Process 492 503	degradation
+T23	Chemical 507 520	phytenic acid
+T24	Body_part 524 535	peroxisomes
+T25	Technique 553 575	x-ray crystallographic
+T26	Geometrical_part 576 585	structure
+T27	Protein 589 593	PAHX
+T28	Value 597 602	2.5 A
+T29	Parameter 603 613	resolution
+T30	Chemical 629 635	Fe(II)
+T31	Chemical 641 644	2OG
+T32	Process 671 683	consequences
+T33	Process 687 696	mutations
+T34	Physiology 705 707	RD
+T35	Protein 720 734	2OG oxygenases
+T36	Protein 736 740	PAHX
+T37	Protein_part 769 779	beta-helix
+T38	Chemical 808 812	iron
+T39	Process 813 820	binding
+T40	Category 821 828	ligands
+T41	Protein_part 830 833	His
+T42	Protein_part 840 848	Asp(177)
+T43	Protein_part 854 862	His(264)
+T44	Chemical 869 878	2-oxoacid
+T45	Molecular_Part 879 884	group
+T46	Chemical 888 891	2OG
+T47	Chemical 905 911	Fe(II)
+T48	Chemical 917 926	bidentate
+T49	Protein 955 959	PAHX
+T50	Chemical 970 976	Fe(II)
+T51	Chemical 981 984	2OG
+T52	Process 1003 1011	presence
+T53	Protein_part 1017 1033	cysteine residue
+T54	Protein_part 1035 1043	Cys(191)
+T55	Value 1045 1050	6.7 A
+T56	Chemical 1060 1066	Fe(II)
+T57	Protein_part 1083 1101	histidine residues
+T58	Protein_part 1103 1106	His
+T59	Protein_part 1116 1124	His(281)
+T60	Protein_part 1133 1144	active site
+T61	Organism 1185 1190	human
+T62	Protein 1191 1204	2OG oxygenase
+T63	Unknown 1215 1225	structures
+T64	Protein 1241 1247	factor
+T65	Physiology 1259 1266	hypoxia
+T66	Protein 1277 1283	factor
+T67	Protein_part 1295 1308	PAHX residues
+T68	Physiology 1335 1337	RD
+T69	Organism 1338 1346	patients
+T70	Molecular_Part 1375 1381	groups
+T71	Chemical 1393 1399	Fe(II)
+T72	Protein_part 1401 1404	Pro
+T73	Protein_part 1411 1419	His(175)
+T74	Protein_part 1421 1429	Gln(176)
+T75	Protein_part 1431 1439	Asp(177)
+T76	Protein_part 1445 1453	His(220)
+T77	Chemical 1459 1462	2OG
+T78	Process 1463 1470	binding
+T79	Protein_part 1471 1476	sites
+T80	Protein_part 1478 1481	Trp
+T81	Protein_part 1488 1496	Glu(197)
+T82	Protein_part 1498 1506	Ile(199)
+T83	Protein_part 1508 1516	Gly(204)
+T84	Protein_part 1518 1526	Asn(269)
+T85	Protein_part 1532 1540	Arg(275)
+T86	Protein 1543 1547	PAHX
+T87	Unknown 1574 1583	subfamily
+T88	Chemical 1587 1597	coenzyme A
+T89	Protein 1606 1620	2OG oxygenases

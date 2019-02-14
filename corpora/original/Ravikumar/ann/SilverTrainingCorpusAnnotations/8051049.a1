@@ -1,0 +1,59 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 27	ribonuclease A
+T3	Unknown 28 41	derivative II
+T4	Value 45 50	2.1-A
+T5	Parameter 51 61	resolution
+T6	Geometrical_part 67 84	crystal structure
+T7	Organism 88 94	bovine
+T8	Body_part 95 105	pancreatic
+T9	Protein 106 120	ribonuclease A
+T10	Unknown 121 134	derivative II
+T11	Unknown 147 157	derivative
+T12	Process 170 178	reaction
+T13	Chemical 182 236	6-chloropurine 9-beta-D-ribofuranosyl 5'-monophosphate
+T14	Chemical 246 257	alpha-amino
+T15	Molecular_Part 258 263	group
+T16	Protein_part 267 272	Lys-1
+T17	Value 309 314	2.1-A
+T18	Parameter 315 325	resolution
+T19	Protein 344 350	factor
+T20	Parameter 351 352	R
+T21	Value 355 360	0.166
+T22	Process 370 381	reflections
+T23	Parameter 389 399	resolution
+T24	Value 406 418	8.0 to 2.1 A
+T25	Unknown 420 428	Crystals
+T26	Geometrical_part 460 479	space group C222(1)
+T27	Geometrical_part 485 494	unit cell
+T28	Parameter 495 505	parameters
+T29	Parameter 506 507	a
+T30	Value 510 517	75.73 A
+T31	Parameter 519 520	b
+T32	Value 523 530	57.85 A
+T33	Parameter 536 537	c
+T34	Value 540 547	53.26 A
+T35	Unknown 554 561	crystal
+T36	Process 562 569	packing
+T37	Body_part 605 615	pancreatic
+T38	Protein 616 628	ribonuclease
+T39	Category 637 646	complexes
+T40	Unknown 652 661	structure
+T41	Protein 706 708	p2
+T42	Protein 710 712	B3
+T43	Protein_part 718 729	R3 subsites
+T44	Protein_part 737 754	N-terminal region
+T45	Protein 762 769	protein
+T46	Physiology 815 823	behavior
+T47	Unknown 842 852	derivative
+T48	Process 869 880	differences
+T49	Parameter 884 902	kinetic parameters
+T50	Parameter 914 923	pKa value
+T51	Protein_part 927 934	His-119
+T52	Unknown 943 956	derivative II
+T53	Protein 968 982	ribonuclease A
+T54	Process 1010 1015	basis
+T55	Chemical 1039 1048	phosphate
+T56	Molecular_Part 1049 1055	moiety
+T57	Unknown 1067 1087	derivative structure
+T58	Chemical 1121 1137	nucleotide sugar
+T59	State 1138 1150	conformation

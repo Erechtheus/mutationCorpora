@@ -1,0 +1,141 @@
+T1	Protein_part 0 11	Tyrosine-48
+T2	Molecule 19 25	proton
+T3	Category 26 31	donor
+T4	Protein_part 36 49	histidine-110
+T5	Category 58 67	substrate
+T6	Parameter 83 94	selectivity
+T7	Process 102 111	reduction
+T8	Process 112 120	reaction
+T9	Organism 124 129	human
+T10	Chemical 130 136	aldose
+T11	Protein 137 146	reductase
+T12	Protein 148 154	enzyme
+T13	Parameter 155 163	kinetics
+T14	Geometrical_part 168 185	crystal structure
+T15	Protein_part 193 197	Y48H
+T16	Protein 198 211	mutant enzyme
+T17	Protein_part 217 228	active site
+T18	Organism 232 237	human
+T19	Chemical 238 244	aldose
+T20	Protein 245 254	reductase
+T21	Protein_part 268 276	residues
+T22	Protein_part 278 284	His110
+T23	Protein_part 289 294	Tyr48
+T24	Molecule 325 331	proton
+T25	Category 332 337	donor
+T26	Process 345 354	catalysis
+T27	Protein_part 356 361	Tyr48
+T28	Chemical 387 395	hydroxyl
+T29	Molecular_Part 396 401	group
+T30	Protein_part 421 426	Lys77
+T31	Parameter 464 473	pKa value
+T32	Technique 527 552	site-directed mutagenesis
+T33	Protein_part 567 572	H110Q
+T34	Protein_part 577 582	H110A
+T35	Protein_part 588 592	Y48F
+T36	Protein_part 594 598	Y48H
+T37	Protein_part 604 608	Y48S
+T38	Protein 618 637	K77M mutant enzymes
+T39	Protein_part 647 653	His110
+T40	Molecule 654 661	mutants
+T41	Value 676 692	1000-20,000-fold
+T42	Parameter 701 708	kcat/Km
+T43	Process 732 741	reduction
+T44	Chemical 745 762	DL-glyceraldehyde
+T45	Parameter 766 768	pH
+T46	Value 769 770	7
+T47	Protein_part 776 780	Y48F
+T48	Process 781 789	mutation
+T49	Process 803 807	loss
+T50	Parameter 811 819	activity
+T51	Protein_part 833 837	Y48H
+T52	Protein_part 842 846	Y48S
+T53	Molecule 847 854	mutants
+T54	Parameter 874 882	activity
+T55	Parameter 888 895	kcat/Km
+T56	Value 907 928	5 orders of magnitude
+T57	Protein_part 934 945	K77M mutant
+T58	Protein 961 967	enzyme
+T59	Parameter 969 976	Kinetic
+T60	Protein 992 1012	xylose stereoisomers
+T61	Protein 1027 1043	wild-type enzyme
+T62	Chemical 1066 1074	D-xylose
+T63	Chemical 1076 1084	L-xylose
+T64	Chemical 1090 1098	D-lyxose
+T65	Value 1105 1113	150-fold
+T66	Protein_part 1130 1135	H110A
+T67	Protein_part 1140 1153	H110Q mutants
+T68	Protein_part 1159 1165	His110
+T69	Molecule 1166 1173	mutants
+T70	Chemical 1220 1227	isomers
+T71	Value 1229 1238	4-11-fold
+T72	Geometrical_part 1245 1262	crystal structure
+T73	Protein_part 1270 1274	Y48H
+T74	Molecule 1275 1281	mutant
+T75	Value 1293 1298	1.8-A
+T76	Parameter 1299 1309	resolution
+T77	Unknown 1333 1342	structure
+T78	Protein 1383 1392	wild-type
+T79	Geometrical_part 1393 1402	structure
+T80	Molecule 1404 1412	Electron
+T81	Parameter 1413 1422	densities
+T82	Protein_part 1431 1440	histidine
+T83	Protein_part 1441 1451	side chain
+T84	Chemical 1462 1476	water molecule
+T85	Protein_part 1504 1509	Tyr48
+T86	Protein 1517 1533	wild-type enzyme
+T87	Chemical 1540 1554	water molecule
+T88	Chemical 1561 1569	hydrogen
+T89	Parameter 1578 1586	distance
+T90	Protein 1594 1600	N zeta
+T91	Molecular_Part 1601 1606	group
+T92	Protein_part 1610 1615	Lys77
+T93	Chemical 1627 1636	N epsilon
+T94	Protein_part 1640 1645	His48
+T95	Chemical 1682 1690	hydroxyl
+T96	Molecular_Part 1691 1696	group
+T97	Protein_part 1700 1708	tyrosine
+T98	Protein 1716 1725	wild-type
+T99	Geometrical_part 1726 1735	structure
+T100	Molecule 1765 1771	proton
+T101	Process 1772 1780	transfer
+T102	Protein_part 1801 1805	Y48H
+T103	Protein 1806 1819	mutant enzyme
+T104	Chemical 1827 1841	water molecule
+T105	Protein_part 1847 1851	Y48H
+T106	Molecule 1852 1858	mutant
+T107	Chemical 1889 1906	deuterium isotope
+T108	Process 1907 1914	effects
+T109	Parameter 1918 1922	kcat
+T110	Parameter 1927 1934	kcat/Km
+T111	Value 1936 1949	1.81 +/- 0.03
+T112	Chemical 1982 1989	hydride
+T113	Process 1990 1998	transfer
+T114	Parameter 2006 2010	rate
+T115	Molecule 2036 2042	mutant
+T116	Chemical 2044 2069	Deuterium solvent isotope
+T117	Process 2070 2077	effects
+T118	Process 2105 2117	contribution
+T119	Molecule 2121 2127	proton
+T120	Process 2128 2136	transfer
+T121	Process 2157 2174	catalytic cascade
+T122	Protein_part 2206 2210	Y48H
+T123	Molecule 2211 2217	mutant
+T124	Protein 2231 2247	wild-type enzyme
+T125	Parameter 2249 2261	D2O(kcat/Km)
+T126	Value 2265 2278	1.06 +/- 0.02
+T127	Value 2283 2296	4.73 +/- 0.23
+T128	Parameter 2317 2324	kinetic
+T129	Process 2329 2340	mutagenesis
+T130	Protein_part 2392 2399	His 110
+T131	Process 2419 2423	role
+T132	Process 2431 2442	orientation
+T133	Category 2446 2456	substrates
+T134	Protein_part 2464 2475	active site
+T135	Geometrical_part 2476 2482	pocket
+T136	Protein_part 2490 2495	Tyr48
+T137	Molecule 2503 2509	proton
+T138	Category 2510 2515	donor
+T139	Chemical 2523 2531	aldehyde
+T140	Process 2532 2541	reduction
+T141	Protein 2545 2561	aldose reductase

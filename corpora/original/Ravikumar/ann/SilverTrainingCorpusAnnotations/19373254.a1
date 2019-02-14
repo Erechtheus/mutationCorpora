@@ -1,0 +1,35 @@
+T1	Process 0 24	Molecular discrimination
+T2	Protein_part 52 65	Lys 63-linked
+T3	Protein 77 97	polyubiquitin chains
+T4	Protein 123 138	ubiquitin chain
+T5	Organism 150 160	individual
+T6	Protein_part 161 169	linkages
+T7	Body_part 186 204	cellular processes
+T8	Protein 260 276	ubiquitin chains
+T9	Geometrical_part 280 295	their structure
+T10	Chemical 300 308	polymers
+T11	Protein_part 379 392	Lys 63-linked
+T12	Protein 404 420	ubiquitin dimers
+T13	State 459 477	open conformations
+T14	Process 490 498	contacts
+T15	Protein 507 526	ubiquitin molecules
+T16	Protein 568 598	Lys 48-linked ubiquitin chains
+T17	Protein 644 666	deubiquitinases (DUBs)
+T18	Protein_part 671 703	ubiquitin-binding domains (UBDs)
+T19	Protein 718 722	DUBs
+T20	Unknown 731 735	CYLD
+T21	Protein 751 757	chains
+T22	Protein 795 800	chain
+T23	Protein_part 833 837	UBDs
+T24	Protein 847 852	chain
+T25	Protein_part 898 906	linkages
+T26	Protein 914 929	ubiquitin chain
+T27	Process 957 998	UBAN (ubiquitin binding in ABIN and NEMO)
+T28	Protein_part 999 1004	motif
+T29	Protein 1008 1043	NEMO (NF-kappaB essential modifier)
+T30	Protein 1060 1066	chains
+T31	Body_part 1092 1114	NZF (Npl4 zinc finger)
+T32	Protein_part 1115 1121	domain
+T33	Protein 1125 1154	TAB2 (TAK1 binding protein 2)
+T34	Protein_part 1158 1164	Lys 63
+T35	Protein 1244 1260	ubiquitin system

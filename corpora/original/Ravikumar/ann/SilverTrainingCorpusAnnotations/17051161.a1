@@ -1,0 +1,47 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 32 61	family intramembrane protease
+T3	Organism 63 79	Escherichia coli
+T4	Unknown 80 84	GlpG
+T5	Protein 100 116	membrane protein
+T6	Protein 148 172	rhomboid protease family
+T7	Protein 174 192	Rhomboid proteases
+T8	Protein 199 220	site-2 protease (S2P)
+T9	Protein 225 240	gamma-secretase
+T10	Body_part 277 290	transmembrane
+T11	Protein_part 291 297	domain
+T12	Protein 307 324	membrane proteins
+T13	Value 347 352	2.1 A
+T14	Parameter 353 363	resolution
+T15	Geometrical_part 364 382	crystal  structure
+T16	Unknown 390 394	GlpG
+T17	Protein_part 400 406	domain
+T18	Unknown 413 422	structure
+T19	Body_part 436 458	transmembrane segments
+T20	Protein_part 460 468	Residues
+T21	Process 504 513	catalysis
+T22	Chemical 553 568	water molecules
+T23	Protein 586 593	protein
+T24	Location 594 602	interior
+T25	Parameter 609 614	depth
+T26	Body_part 625 633	membrane
+T27	Geometrical_part 634 641	surface
+T28	Protein_part 657 668	active site
+T29	Category 686 695	substrate
+T30	Unknown 712 722	'V-shaped'
+T31	Process 723 730	opening
+T32	Body_part 736 741	faces
+T33	Location 742 751	laterally
+T34	Chemical 764 769	lipid
+T35	Geometrical_part 806 820	loop structure
+T36	Body_part 859 872	intramembrane
+T37	Process 873 884	proteolysis
+T38	Process 890 898	scission
+T39	Chemical 902 915	peptide bonds
+T40	Unknown 952 963	environment
+T41	Body_part 971 987	membrane bilayer
+T42	Geometrical_part 993 1010	crystal structure
+T43	Process 1027 1033	gating
+T44	Process 1034 1043	mechanism
+T45	Unknown 1048 1052	GlpG
+T46	Category 1067 1076	substrate
+T47	Protein_part 1091 1114	hydrophilic active site

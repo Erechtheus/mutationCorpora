@@ -1,0 +1,88 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 64	mouse 17alpha-hydroxysteroid dehydrogenase
+T3	Protein 66 75	apoenzyme
+T4	Chemical 80 94	enzyme-NADP(H)
+T5	Category 102 109	complex
+T6	Process 112 126	identification
+T7	Unknown 180 187	17alpha
+T8	Parameter 198 206	activity
+T9	Protein 215 221	enzyme
+T10	Protein 242 299	mouse 17alpha-hydroxysteroid dehydrogenase (m17alpha-HSD)
+T11	Unknown 303 309	member
+T12	Protein 317 354	aldo-keto reductase (AKR) superfamily
+T13	Protein 408 414	enzyme
+T14	Process 479 489	conversion
+T15	Chemical 493 517	androstenedione (Delta4)
+T16	Chemical 523 538	epitestosterone
+T17	Protein 552 566	17alpha-epimer
+T18	Chemical 570 582	testosterone
+T19	Protein 602 613	AKR enzymes
+T20	Parameter 640 644	keto
+T21	Molecular_Part 645 651	groups
+T22	Location 664 676	position C17
+T23	Chemical 684 691	steroid
+T24	Body_part 692 699	nucleus
+T25	Organism 705 743	human type 3 3alpha-HSD (h3alpha-HSD3)
+T26	Organism 749 754	human
+T27	Organism 759 772	mouse  type 5
+T28	Organism 773 783	17beta-HSD
+T29	Organism 793 799	rabbit
+T30	Organism 800 811	20alpha-HSD
+T31	Chemical 826 852	17beta-hydroxy derivatives
+T32	Value 876 889	more than 70%
+T33	Parameter 890 909	amino acid identity
+T34	Protein 915 927	m17alpha-HSD
+T35	Process 940 951	comparisons
+T36	Protein 968 986	homologous enzymes
+T37	Unknown 1087 1119	17alpha/17beta-stereospecificity
+T38	Geometrical_part 1141 1158	crystal structure
+T39	Protein 1166 1185	m17alpha-HSD enzyme
+T40	State 1193 1201	apo-form
+T41	Value 1203 1208	1.9 A
+T42	Parameter 1209 1219	resolution
+T43	Process 1245 1254	different
+T44	Protein 1269 1275	enzyme
+T45	Category 1286 1293	complex
+T46	Chemical 1299 1306	NADP(H)
+T47	Value 1308 1313	2.9 A
+T48	Value 1318 1324	1.35 A
+T49	Parameter 1325 1335	resolution
+T50	Geometrical_part 1381 1391	structures
+T51	State 1410 1424	conformational
+T52	Molecule 1425 1437	intermediate
+T53	Protein 1450 1459	apoenzyme
+T54	Category 1482 1489	complex
+T55	Unknown 1497 1507	structures
+T56	Protein 1542 1556	NADP(H)-enzyme
+T57	Process 1557 1569	interactions
+T58	Geometrical_part 1593 1599	loop B
+T59	Process 1621 1630	different
+T60	State 1631 1644	conformations
+T61	Category 1650 1658	cofactor
+T62	Process 1659 1666	binding
+T63	Process 1679 1689	comparison
+T64	Category 1703 1712	complexes
+T65	Protein 1722 1735	AKR1C enzymes
+T66	Process 1777 1788	interaction
+T67	Protein 1797 1809	m17alpha-HSD
+T68	Chemical 1814 1821	NADP(H)
+T69	Protein 1882 1888	enzyme
+T70	Process 1912 1922	inspection
+T71	Chemical 1930 1950	m17alpha-HSD steroid
+T72	Body_part 1959 1965	cavity
+T73	Category 1978 1986	cofactor
+T74	Process 1987 1994	binding
+T75	Protein_part 2028 2035	residue
+T76	Location 2039 2050	position 24
+T77	Process 2067 2077	importance
+T78	Process 2111 2120	reduction
+T79	Process 2121 2129	reaction
+T80	Physiology 2131 2140	Mutagenic
+T81	Protein 2170 2195	m17alpha-HSD(A24Y) mutant
+T82	Chemical 2258 2270	testosterone
+T83	Chemical 2281 2287	Delta4
+T84	Organism 2301 2319	h3alpha-HSD3(Y24A)
+T85	Molecule 2320 2326	mutant
+T86	Parameter 2340 2348	capacity
+T87	Chemical 2363 2369	Delta4
+T88	Unknown 2375 2380	epi-T

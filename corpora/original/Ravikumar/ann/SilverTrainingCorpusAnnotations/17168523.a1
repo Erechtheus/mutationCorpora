@@ -1,0 +1,61 @@
+T1	Process 11 18	insight
+T2	Process 43 52	mechanism
+T3	Parameter 65 75	resistance
+T4	Process 128 137	mechanism
+T5	Organism 142 151	bacterial
+T6	Parameter 152 162	resistance
+T7	Physiology 179 188	antitumor
+T8	Chemical 189 200	antibiotics
+T9	Process 225 236	proteolysis
+T10	Protein 244 267	resistance protein CalC
+T11	Chemical 296 315	reactive metabolite
+T12	Protein 324 342	resistance protein
+T13	Organism 375 384	bacterial
+T14	Process 385 394	mechanism
+T15	Chemical 411 431	reactive metabolites
+T16	Geometrical_part 463 477	3D  structures
+T17	Unknown 481 485	CalC
+T18	Unknown 490 494	CalC
+T19	Category 498 505	complex
+T20	Chemical 511 524	calicheamicin
+T21	Chemical 526 529	CLM
+T22	Unknown 539 543	CalC
+T23	Unknown 552 558	member
+T24	Protein 566 611	steroidogenic acute regulatory protein (StAR)
+T25	Process 620 628	transfer
+T26	Process 630 635	START
+T27	Protein_part 637 655	domain superfamily
+T28	Protein 692 700	proteins
+T29	Molecule 716 719	DNA
+T30	Category 737 745	products
+T31	Chemical 755 765	bleomycins
+T32	Chemical 767 777	mitomycins
+T33	Protein 797 810	chromoprotein
+T34	Process 854 865	involvement
+T35	Protein_part 871 888	START domain fold
+T36	Unknown 910 914	CalC
+T37	Process 930 939	mechanism
+T38	Chemical 941 944	CLM
+T39	Category 948 955	complex
+T40	Unknown 961 965	CalC
+T41	Chemical 991 999	hydrogen
+T42	Process 1000 1011	abstraction
+T43	Protein_part 1017 1023	Gly113
+T44	Process 1040 1061	oxidative proteolysis
+T45	Parameter 1068 1078	resistance
+T46	Process 1079 1088	mechanism
+T47	Parameter 1146 1150	time
+T48	Molecule 1160 1163	DNA
+T49	Protein_part 1172 1178	region
+T50	Unknown 1186 1190	CalC
+T51	Unknown 1218 1222	CalC
+T52	Process 1239 1245	target
+T53	Molecule 1247 1250	DNA
+T54	Process 1264 1268	role
+T55	Protein_part 1272 1285	START domains
+T56	Process 1307 1316	transport
+T57	Process 1321 1334	translocation
+T58	Protein_part 1377 1390	START domains
+T59	Location 1411 1424	intracellular
+T60	Molecule 1425 1435	chaperones
+T61	Chemical 1476 1484	MyloTarg

@@ -1,0 +1,64 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Physiology 25 41	anticarcinogenic
+T3	Unknown 42 53	Bowman-Birk
+T4	Category 54 63	inhibitor
+T5	Organism 69 74	snail
+T6	Organism 83 102	Medicago scutellata
+T7	Food 104 109	seeds
+T8	Organism 125 131	bovine
+T9	Protein 132 139	trypsin
+T10	Geometrical_part 145 154	structure
+T11	Category 162 177	ternary complex
+T12	Physiology 185 201	anticarcinogenic
+T13	Protein 202 222	Bowman-Birk protease
+T14	Category 223 232	inhibitor
+T15	Organism 247 252	snail
+T16	Organism 260 279	Medicago scutellata
+T17	Food 281 286	seeds
+T18	Unknown 288 292	MSTI
+T19	Molecule 302 311	molecules
+T20	Organism 315 321	bovine
+T21	Protein 322 329	trypsin
+T22	Technique 349 375	X-ray diffraction analysis
+T23	Unknown 386 394	crystals
+T24	Parameter 400 410	resolution
+T25	Value 414 419	2.0 A
+T26	Parameter 441 451	resolution
+T27	Category 463 478	ternary complex
+T28	Geometrical_part 529 534	loops
+T29	Unknown 543 547	MSTI
+T30	Protein_part 567 577	amino acid
+T31	Chemical 604 612	arginine
+T32	Protein_part 625 627	P1
+T33	Parameter 633 642	distances
+T34	Protein_part 655 663	residues
+T35	Category 671 680	inhibitor
+T36	Process 688 695	binding
+T37	Protein 715 722	trypsin
+T38	Protein_part 723 734	side chains
+T39	Protein_part 787 792	sites
+T40	Technique 815 818	NMR
+T41	Unknown 844 848	MSTI
+T42	Category 854 863	inhibitor
+T43	Process 882 890	assembly
+T44	Protein 896 903	trypsin
+T45	Process 922 933	differences
+T46	Protein_part 945 957	P2' residues
+T47	Category 985 1000	ternary complex
+T48	Organism 1008 1015	soybean
+T49	Protein 1016 1023	trypsin
+T50	Category 1024 1033	inhibitor
+T51	Process 1063 1074	differences
+T52	Protein_part 1082 1093	polypeptide
+T53	Protein 1107 1114	trypsin
+T54	Process 1115 1122	binding
+T55	Protein_part 1123 1128	sites
+T56	Process 1145 1155	difference
+T57	Parameter 1163 1167	area
+T58	Protein_part 1176 1182	Asp 26
+T59	Protein_part 1187 1193	His 32
+T60	Unknown 1201 1205	MSTI
+T61	Organism 1219 1226	soybean
+T62	Category 1227 1236	inhibitor
+T63	Protein_part 1250 1253	Leu
+T64	Location 1266 1277	position 29

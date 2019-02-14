@@ -1,0 +1,68 @@
+T1	Geometrical_part 16 34	crystal structures
+T2	Protein 38 44	villin
+T3	Molecule 59 66	mutants
+T4	Protein 80 87	F-actin
+T5	Parameter 88 104	binding activity
+T6	Unknown 106 117	Villin-type
+T7	Protein_part 128 135	domains
+T8	Value 140 156	approximately 70
+T9	Protein_part 157 167	amino acid
+T10	Protein_part 176 182	motifs
+T11	Protein_part 196 206	C terminus
+T12	Protein 223 228	actin
+T13	Body_part 229 241	cytoskeleton
+T14	Protein 253 261	proteins
+T15	Protein_part 277 283	domain
+T16	Protein 287 293	villin
+T17	Protein 297 304	protein
+T18	Protein 318 323	actin
+T19	Geometrical_part 324 331	bundles
+T20	Geometrical_part 345 351	border
+T21	Body_part 352 362	epithelium
+T22	Protein 397 404	F-actin
+T23	Process 405 412	binding
+T24	Protein_part 413 419	domain
+T25	Protein 442 449	protein
+T26	Geometrical_part 490 508	crystal structures
+T27	Organism 512 519	chicken
+T28	Protein 520 543	villin headpiece (HP67)
+T29	Value 547 552	1.4 A
+T30	Parameter 553 563	resolution
+T31	Molecule 579 586	mutants
+T32	Molecule 588 592	R37A
+T33	Molecule 597 601	W64Y
+T34	Value 606 610	1.45
+T35	Value 615 620	1.5 A
+T36	Parameter 621 631	resolution
+T37	Process 647 658	Replacement
+T38	Molecule 662 665	R37
+T39	Value 675 681	5-fold
+T40	Process 682 691	reduction
+T41	Protein 695 702	F-actin
+T42	Parameter 703 719	binding affinity
+T43	Process 723 736	sedimentation
+T44	Technique 737 743	assays
+T45	Process 745 756	Replacement
+T46	Molecule 760 763	W64
+T47	Process 795 804	reduction
+T48	Protein 808 815	F-actin
+T49	Parameter 816 832	binding affinity
+T50	Process 853 860	changes
+T51	Unknown 874 883	structure
+T52	State 887 896	stability
+T53	Process 911 921	comparison
+T54	Geometrical_part 931 949	crystal structures
+T55	Technique 999 1002	NMR
+T56	Geometrical_part 1003 1013	structures
+T57	Protein 1017 1021	HP67
+T58	Protein_part 1030 1040	35-residue
+T59	Process 1054 1061	folding
+T60	Protein_part 1062 1071	subdomain
+T61	Protein 1075 1081	villin
+T62	Protein 1093 1097	HP35
+T63	Geometrical_part 1137 1141	fold
+T64	Protein 1166 1173	F-actin
+T65	Process 1174 1181	binding
+T66	Protein_part 1182 1186	site
+T67	Unknown 1190 1201	villin-type
+T68	Protein_part 1212 1219	domains

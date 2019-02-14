@@ -1,0 +1,79 @@
+T1	Technique 0 16	Crystallographic
+T2	Process 32 39	binding
+T3	Chemical 43 66	isonicotinyl-NAD adduct
+T4	Chemical 84 93	isoniazid
+T5	Chemical 104 121	2-trans-enoyl-ACP
+T6	Chemical 123 126	CoA
+T7	Protein 128 137	reductase
+T8	Organism 143 169	Mycobacterium tuberculosis
+T9	Process 175 185	resumption
+T10	Physiology 189 201	tuberculosis
+T11	Process 245 265	molecular mechanisms
+T12	Chemical 269 273	drug
+T13	Process 274 280	action
+T14	Chemical 285 289	drug
+T15	Parameter 290 300	resistance
+T16	Process 335 342	insight
+T17	Process 352 363	development
+T18	Chemical 373 382	compounds
+T19	Chemical 384 393	Isoniazid
+T20	Chemical 395 398	INH
+T21	Chemical 421 425	drug
+T22	Unknown 435 437	TB
+T23	Chemical 451 455	NADH
+T24	Protein 466 492	enoyl-acyl carrier protein
+T25	Protein 493 502	reductase
+T26	Protein 504 508	InhA
+T27	Unknown 524 534	precursors
+T28	Chemical 538 551	mycolic acids
+T29	Parameter 563 573	components
+T30	Organism 581 594	mycobacterial
+T31	Body_part 595 604	cell wall
+T32	Protein 606 610	InhA
+T33	Process 624 630	target
+T34	Process 646 652	action
+T35	Chemical 656 665	isoniazid
+T36	Chemical 667 670	INH
+T37	Chemical 676 684	pro-drug
+T38	Process 696 706	activation
+T39	Chemical 730 744	INH-NAD adduct
+T40	Process 746 764	Missense mutations
+T41	Unknown 772 776	inhA
+T42	Protein 788 792	gene
+T43	Body_part 826 834	isolates
+T44	Organism 838 864	Mycobacterium tuberculosis
+T45	Chemical 878 881	INH
+T46	Process 901 910	mechanism
+T47	Parameter 914 924	resistance
+T48	Chemical 928 931	INH
+T49	Unknown 952 961	structure
+T50	Molecule 969 973	InhA
+T51	Molecule 974 981	mutants
+T52	Molecule 983 987	I21V
+T53	Molecule 992 996	S94A
+T54	Chemical 1013 1016	INH
+T55	Body_part 1036 1044	isolates
+T56	Chemical 1066 1069	INH
+T57	Unknown 1080 1097	WT InhA structure
+T58	Category 1101 1108	complex
+T59	Chemical 1118 1132	INH-NAD adduct
+T60	Unknown 1153 1162	structure
+T61	Chemical 1177 1180	INH
+T62	Protein 1191 1203	S94A protein
+T63	Protein 1246 1250	InhA
+T64	Unknown 1282 1292	structures
+T65	Process 1385 1394	mechanism
+T66	Process 1398 1404	action
+T67	Parameter 1413 1423	resistance
+T68	Chemical 1428 1431	INH
+T69	Organism 1435 1450	M. tuberculosis
+T70	Geometrical_part 1467 1476	structure
+T71	Protein 1480 1484	InhA
+T72	Process 1492 1506	identification
+T73	State 1510 1524	conformational
+T74	Process 1525 1532	changes
+T75	Category 1538 1544	ligand
+T76	Process 1545 1552	binding
+T77	Unknown 1569 1578	structure
+T78	Chemical 1585 1589	drug
+T79	Unknown 1612 1629	antimycobacterial

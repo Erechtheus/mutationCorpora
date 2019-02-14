@@ -1,0 +1,73 @@
+T1	Process 14 23	catalysis
+T2	Protein 27 52	triosephosphate isomerase
+T3	Process 58 62	role
+T4	Protein_part 66 78	histidine-95
+T5	Process 94 103	catalysis
+T6	Protein_part 107 119	histidine-95
+T7	Protein 123 148	triosephosphate isomerase
+T8	Technique 174 191	Fourier transform
+T9	Technique 192 213	infrared spectroscopy
+T10	Technique 218 239	X-ray crystallography
+T11	Chemical 245 253	carbonyl
+T12	Parameter 254 274	stretching frequency
+T13	Chemical 278 304	dihydroxyacetone phosphate
+T14	Protein 319 335	wild-type enzyme
+T15	Value 351 358	19 cm-1
+T16	Value 369 378	1713 cm-1
+T17	Chemical 393 419	dihydroxyacetone phosphate
+T18	Chemical 428 436	solution
+T19	Value 441 450	1732 cm-1
+T20	Process 462 470	decrease
+T21	Parameter 474 494	stretching frequency
+T22	Chemical 527 539	electrophile
+T23	Category 559 568	substrate
+T24	Chemical 569 577	carbonyl
+T25	Molecular_Part 578 583	group
+T26	State 595 611	transition state
+T27	Process 620 631	enolization
+T28	Technique 633 649	Infrared spectra
+T29	Category 653 662	substrate
+T30	Molecule 690 697	mutants
+T31	Organism 702 707	yeast
+T32	Protein 708 733	triosephosphate isomerase
+T33	Protein_part 743 755	histidine-95
+T34	Chemical 776 785	glutamine
+T35	Protein_part 792 802	asparagine
+T36	Chemical 820 828	carbonyl
+T37	Parameter 829 851	stretching frequencies
+T38	Value 860 864	1732
+T39	Value 869 878	1742 cm-1
+T40	Process 884 888	lack
+T41	Chemical 892 900	carbonyl
+T42	Parameter 901 913	polarization
+T43	Protein_part 919 931	histidine-95
+T44	Protein_part 957 969	histidine-95
+T45	Chemical 994 1006	electrophile
+T46	Chemical 1021 1047	dihydroxyacetone phosphate
+T47	Parameter 1049 1056	Kinetic
+T48	Chemical 1072 1088	glutamine mutant
+T49	Chemical 1090 1094	H95Q
+T50	Protein 1116 1122	enzyme
+T51	Process 1140 1149	different
+T52	Process 1150 1159	mechanism
+T53	Molecule 1163 1169	proton
+T54	Process 1171 1180	transfers
+T55	Protein 1205 1214	acid-base
+T56	Molecular_Part 1225 1230	group
+T57	Process 1269 1273	role
+T58	Protein_part 1278 1290	histidine-95
+T59	Protein 1304 1322	acid-base catalyst
+T60	Protein 1330 1346	wild-type enzyme
+T61	Technique 1352 1375	X-ray crystal structure
+T62	Protein_part 1383 1394	H95Q mutant
+T63	Molecule 1403 1415	intermediate
+T64	Unknown 1416 1424	analogue
+T65	Chemical 1426 1451	phosphoglycolohydroxamate
+T66	Protein_part 1466 1477	active site
+T67	Value 1497 1502	2.8-A
+T68	Parameter 1503 1513	resolution
+T69	Unknown 1524 1533	structure
+T70	Chemical 1553 1566	glutamate-165
+T71	Protein 1594 1613	wild-type isomerase
+T72	Protein 1627 1645	acid-base catalyst
+T73	Protein 1654 1667	mutant enzyme

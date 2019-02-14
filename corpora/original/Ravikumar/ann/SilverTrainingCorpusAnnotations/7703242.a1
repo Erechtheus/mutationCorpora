@@ -1,0 +1,101 @@
+T1	Technique 0 16	Crystallographic
+T2	Protein 21 30	enzymatic
+T3	Process 31 45	investigations
+T4	Process 53 57	role
+T5	Protein_part 61 67	Ser558
+T6	Protein_part 69 75	His610
+T7	Protein_part 82 88	Asn614
+T8	Process 96 115	catalytic mechanism
+T9	Organism 119 141	Azotobacter vinelandii
+T10	Protein 142 182	dihydrolipoamide acetyltransferase (E2p)
+T11	Protein 184 224	Dihydrolipoamide acetyltransferase (E2p)
+T12	Protein 270 292	pyruvate dehydrogenase
+T13	Protein 293 304	multienzyme
+T14	Category 305 312	complex
+T15	Organism 317 339	Azotobacter vinelandii
+T16	Protein 340 343	E2p
+T17	Protein_part 345 360	residues Ser558
+T18	Protein_part 362 369	His610'
+T19	Protein_part 375 382	Asn614'
+T20	State 411 427	transition state
+T21	Process 428 441	stabilization
+T22	Molecule 443 449	proton
+T23	Process 450 458	transfer
+T24	Process 464 474	activation
+T25	Molecule 478 484	proton
+T26	Process 485 493	transfer
+T27	Protein_part 515 526	active site
+T28	Molecule 527 534	mutants
+T29	Molecule 536 541	S558A
+T30	Molecule 543 548	H610C
+T31	Molecule 554 559	N614D
+T32	Protein_part 568 584	catalytic domain
+T33	Organism 588 601	A. vinelandii
+T34	Protein 602 605	E2p
+T35	Technique 623 648	site-directed mutagenesis
+T36	Geometrical_part 687 705	crystal structures
+T37	Molecule 719 726	mutants
+T38	Value 751 754	2.7
+T39	Value 756 759	2.5
+T40	Value 765 770	2.6 A
+T41	Parameter 771 781	resolution
+T42	Molecule 801 806	S558A
+T43	Protein_part 811 824	H610C mutants
+T44	Value 845 853	200-fold
+T45	Value 858 866	500-fold
+T46	Protein 890 899	enzymatic
+T47	Parameter 900 908	activity
+T48	Process 921 933	substitution
+T49	Protein_part 937 944	Asn614'
+T50	Chemical 948 957	aspartate
+T51	Value 982 988	9-fold
+T52	Parameter 998 1006	activity
+T53	Process 1012 1020	decrease
+T54	Protein 1024 1033	enzymatic
+T55	Parameter 1034 1042	activity
+T56	Molecule 1050 1055	S558A
+T57	Protein_part 1060 1073	H610C mutants
+T58	Process 1095 1102	absence
+T59	Chemical 1110 1118	hydroxyl
+T60	Chemical 1123 1132	imidazole
+T61	Protein_part 1133 1144	side chains
+T62	State 1181 1195	conformational
+T63	Process 1196 1210	rearrangements
+T64	Protein 1218 1225	protein
+T65	Chemical 1243 1253	sulfhydryl
+T66	Molecular_Part 1254 1259	group
+T67	Protein_part 1263 1270	Cys610'
+T68	Protein_part 1319 1329	side chain
+T69	Chemical 1365 1372	solvent
+T70	Chemical 1381 1390	imidazole
+T71	Molecular_Part 1391 1396	group
+T72	Protein_part 1400 1407	His610'
+T73	Protein 1415 1431	wild-type enzyme
+T74	Process 1438 1446	presence
+T75	Protein_part 1450 1457	Asn614'
+T76	Organism 1461 1474	A. vinelandii
+T77	Protein 1475 1478	E2p
+T78	Protein 1520 1552	dihydrolipoamide acyltransferase
+T79	Protein_part 1553 1562	sequences
+T80	Chemical 1574 1583	aspartate
+T81	Process 1616 1626	difference
+T82	State 1630 1642	conformation
+T83	Protein_part 1646 1653	Asp614'
+T84	Protein_part 1661 1673	N614D mutant
+T85	Unknown 1674 1683	structure
+T86	State 1702 1714	conformation
+T87	Protein_part 1718 1725	Asn614'
+T88	Protein 1733 1749	wild-type enzyme
+T89	Technique 1760 1768	analysis
+T90	Unknown 1786 1796	structures
+T91	Protein_part 1801 1810	sequences
+T92	Protein 1835 1853	acetyltransferases
+T93	Protein_part 1896 1903	His-Asn
+T94	Chemical 1924 1941	His-Asp-Arg triad
+T95	Protein 1956 1989	chloramphenicol acetyltransferase
+T96	Unknown 2002 2007	G. W.
+T97	Unknown 2015 2032	J. Mol. Biol. 213
+T98	Protein_part 2063 2074	active site
+T99	Organism 2085 2101	Escherichia coli
+T100	Organism 2106 2111	yeast
+T101	Protein 2112 2115	E2p

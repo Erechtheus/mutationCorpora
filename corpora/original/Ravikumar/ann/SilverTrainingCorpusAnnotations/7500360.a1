@@ -1,0 +1,88 @@
+T1	Process 4 11	binding
+T2	Chemical 15 44	2-deoxy-D-glucose 6-phosphate
+T3	Protein 48 70	glycogen phosphorylase
+T4	Parameter 74 81	kinetic
+T5	Technique 86 102	crystallographic
+T6	Parameter 112 119	Kinetic
+T7	Technique 124 140	crystallographic
+T8	Process 172 178	effect
+T9	Chemical 182 209	2-deoxy-glucose 6-phosphate
+T10	Parameter 242 252	properties
+T11	Protein 256 278	glycogen phosphorylase
+T12	Process 303 310	binding
+T13	Chemical 314 333	glucose 6-phosphate
+T14	Category 359 368	inhibitor
+T15	Protein 376 382	enzyme
+T16	State 387 394	T state
+T17	Protein 395 408	phosphorylase
+T18	Unknown 418 425	crystal
+T19	Category 442 451	inhibitor
+T20	Protein_part 476 480	site
+T21	State 505 519	conformational
+T22	Process 520 527	changes
+T23	Protein 544 559	subunit-subunit
+T24	Chemical 575 588	hydrogen-bond
+T25	Chemical 598 610	O-2 hydroxyl
+T26	Chemical 614 633	glucose 6-phosphate
+T27	Chemical 641 658	main-chain oxygen
+T28	Protein_part 662 668	Val40'
+T29	Chemical 689 702	hydrogen bond
+T30	Chemical 712 717	sugar
+T31	Protein 731 738	subunit
+T32	Process 749 760	interaction
+T33	Unknown 809 818	structure
+T34	State 831 838	T state
+T35	Protein 839 852	phosphorylase
+T36	Chemical 856 883	2-Deoxy-glucose 6-phosphate
+T37	Category 917 926	activator
+T38	Chemical 927 930	AMP
+T39	Category 939 948	substrate
+T40	Chemical 949 968	glucose 1-phosphate
+T41	Parameter 976 985	Ki values
+T42	Value 989 996	0.53 mM
+T43	Value 1001 1008	1.23 mM
+T44	Process 1028 1035	binding
+T45	Chemical 1039 1066	2-deoxy-glucose 6-phosphate
+T46	State 1070 1077	T state
+T47	Protein 1078 1100	glycogen phosphorylase
+T48	Unknown 1110 1117	crystal
+T49	Protein 1149 1170	complex phosphorylase
+T50	Chemical 1174 1201	2-deoxy-glucose 6-phosphate
+T51	Technique 1229 1245	crystallographic
+T52	Parameter 1246 1254	R factor
+T53	Value 1258 1263	17.3%
+T54	Value 1282 1285	8 A
+T55	Value 1290 1295	2.3 A
+T56	Chemical 1297 1324	2-Deoxy-glucose 6-phosphate
+T57	Protein_part 1349 1353	site
+T58	Protein 1363 1369	anomer
+T59	Process 1383 1392	different
+T60	State 1393 1405	conformation
+T61	Chemical 1418 1437	glucose 6-phosphate
+T62	State 1447 1460	conformations
+T63	Value 1471 1482	160 degrees
+T64	Parameter 1490 1503	torsion angle
+T65	Chemical 1514 1526	C-5-C-6 bond
+T66	Process 1532 1540	contacts
+T67	Chemical 1550 1559	phosphate
+T68	Molecular_Part 1560 1565	group
+T69	Chemical 1613 1622	phosphate
+T70	Chemical 1626 1633	glucose
+T71	Chemical 1634 1645	6-phosphate
+T72	Chemical 1654 1661	2-deoxy
+T73	Molecular_Part 1671 1677	moiety
+T74	Process 1695 1704	different
+T75	Process 1705 1716	orientation
+T76	Chemical 1745 1764	glucose 6-phosphate
+T77	Chemical 1766 1793	2-Deoxy-glucose 6-phosphate
+T78	Protein_part 1832 1836	site
+T79	Process 1854 1860	change
+T80	Protein 1868 1875	protein
+T81	Process 1894 1905	comparisons
+T82	Protein 1920 1933	phosphorylase
+T83	Chemical 1937 1964	2-deoxy-glucose 6-phosphate
+T84	Geometrical_part 1973 1982	structure
+T85	Chemical 2012 2019	glucose
+T86	Category 2025 2032	complex
+T87	Unknown 2045 2052	Glc-6-P
+T88	Geometrical_part 2061 2070	structure

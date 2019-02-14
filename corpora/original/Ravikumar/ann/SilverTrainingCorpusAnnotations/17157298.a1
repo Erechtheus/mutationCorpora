@@ -1,0 +1,41 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Technique 23 26	NMR
+T3	Process 27 43	characterization
+T4	Process 51 58	binding
+T5	Protein_part 62 87	methylated histone  tails
+T6	Protein 95 112	plant homeodomain
+T7	Body_part 113 119	finger
+T8	Body_part 127 133	tumour
+T9	Molecule 134 144	suppressor
+T10	Category 145 149	ING4
+T11	Protein 151 174	Plant homeodomain (PHD)
+T12	Body_part 175 182	fingers
+T13	Protein 209 217	proteins
+T14	Protein 230 239	chromatin
+T15	Protein 278 286	histones
+T16	Unknown 292 298	family
+T17	Protein 302 310	proteins
+T18	Category 312 338	inhibitors of growth (ING)
+T19	Protein 350 353	PHD
+T20	Body_part 354 360	finger
+T21	Unknown 374 383	histone-3
+T22	Protein_part 401 409	lysine 4
+T23	Category 424 428	ING1
+T24	Category 433 437	ING2
+T25	Body_part 450 457	nuclear
+T26	Protein 458 484	phosphoinositide receptors
+T27	Geometrical_part 509 518	structure
+T28	Category 522 526	ING4
+T29	Protein 527 530	PHD
+T30	Process 554 561	binding
+T31	Chemical 565 582	phosphoinositides
+T32	Protein_part 587 611	histone methylated tails
+T33	Category 628 632	ING2
+T34	Category 634 638	ING4
+T35	Protein 648 673	phosphoinositide receptor
+T36	Parameter 698 706	affinity
+T37	Process 714 723	different
+T38	Process 724 735	methylation
+T39	State 736 742	states
+T40	Unknown 746 755	histone-3
+T41	Protein_part 759 767	lysine 4

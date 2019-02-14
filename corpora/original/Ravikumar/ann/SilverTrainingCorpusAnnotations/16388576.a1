@@ -1,0 +1,60 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 33	Escherichia coli
+T3	Protein 34 43	ThiS-ThiF
+T4	Category 44 51	complex
+T5	Parameter 59 68	component
+T6	Chemical 76 82	sulfur
+T7	Process 83 91	transfer
+T8	Unknown 92 98	system
+T9	Chemical 102 109	thiamin
+T10	Process 110 122	biosynthesis
+T11	Geometrical_part 147 164	crystal structure
+T12	Organism 172 188	Escherichia coli
+T13	Protein 189 206	ThiS-ThiF protein
+T14	Category 207 214	complex
+T15	Value 218 223	2.0 A
+T16	Parameter 224 234	resolution
+T17	Unknown 236 240	ThiS
+T18	Protein 245 249	ThiF
+T19	Organism 254 263	bacterial
+T20	Protein 264 272	proteins
+T21	Process 289 298	synthesis
+T22	Chemical 306 314	thiazole
+T23	Molecular_Part 315 321	moiety
+T24	Chemical 325 332	thiamin
+T25	Protein 334 338	ThiF
+T26	Process 353 364	adenylation
+T27	Protein_part 372 388	carboxy terminus
+T28	Unknown 392 396	ThiS
+T29	Process 416 428	displacement
+T30	Chemical 432 435	AMP
+T31	Chemical 449 464	ThiI-persulfide
+T32	Chemical 475 499	ThiS-ThiI acyl disulfide
+T33	Chemical 501 510	Disulfide
+T34	Protein_part 534 540	Cys184
+T35	Protein 544 548	ThiF
+T36	Chemical 569 593	ThiS-ThiF acyl disulfide
+T37	Chemical 618 624	sulfur
+T38	Category 625 630	donor
+T39	Chemical 635 643	thiazole
+T40	Process 644 653	formation
+T41	Protein 655 659	ThiS
+T42	Protein 672 687	7.2 kDa protein
+T43	Protein 716 725	ubiquitin
+T44	Protein 734 747	molybdopterin
+T45	Protein 761 773	protein MoaD
+T46	Protein 775 779	ThiF
+T47	Protein 785 799	27 kDa protein
+T48	Protein_part 814 822	sequence
+T49	Process 838 848	similarity
+T50	Protein 856 865	ubiquitin
+T51	Protein 877 886	enzyme E1
+T52	Protein 895 908	molybdopterin
+T53	Protein 922 934	protein MoeB
+T54	Protein 940 949	ThiF-ThiS
+T55	Geometrical_part 950 959	structure
+T56	Process 974 983	mechanism
+T57	Chemical 991 997	sulfur
+T58	Process 998 1006	transfer
+T59	Chemical 1029 1037	thiazole
+T60	Process 1038 1050	biosynthesis

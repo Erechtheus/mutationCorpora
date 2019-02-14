@@ -1,0 +1,22 @@
+T1	Process 0 13	Contributions
+T2	Chemical 17 31	hydrogen bonds
+T3	Protein_part 35 42	Thr 157
+T4	State 64 73	stability
+T5	Organism 77 85	phage T4
+T6	Protein 86 94	lysozyme
+T7	Process 96 108	Measurements
+T8	Process 112 119	changes
+T9	Unknown 123 132	structure
+T10	State 137 146	stability
+T11	Process 160 169	different
+T12	Process 170 183	substitutions
+T13	Protein_part 188 201	threonine 157
+T14	Organism 205 213	phage T4
+T15	Protein 214 222	lysozyme
+T16	Protein 249 266	lysozyme variants
+T17	Chemical 275 289	hydrogen bonds
+T18	Protein 316 332	wild-type enzyme
+T19	Process 353 364	adjustments
+T20	Protein 375 382	protein
+T21	Chemical 414 424	amino-acid
+T22	Process 425 438	substitutions

@@ -1,0 +1,92 @@
+T1	Process 0 13	Investigation
+T2	Process 32 36	role
+T3	Protein_part 40 53	tryptophan-22
+T4	Organism 57 73	Escherichia coli
+T5	Protein 74 97	dihydrofolate reductase
+T6	Technique 101 126	site-directed mutagenesis
+T7	Technique 144 169	site-directed mutagenesis
+T8	Protein_part 202 215	tryptophan-22
+T9	Category 223 232	substrate
+T10	Process 233 240	binding
+T11	Protein_part 241 245	site
+T12	Organism 249 265	Escherichia coli
+T13	Protein 266 289	dihydrofolate reductase
+T14	Protein_part 293 306	phenylalanine
+T15	Protein_part 308 312	W22F
+T16	Protein_part 318 327	histidine
+T17	Protein_part 329 333	W22H
+T18	Geometrical_part 340 357	crystal structure
+T19	Protein_part 366 377	W22F mutant
+T20	Category 390 397	complex
+T21	Category 407 416	inhibitor
+T22	Chemical 417 429	methotrexate
+T23	Value 450 455	1.9-A
+T24	Parameter 456 466	resolution
+T25	Protein_part 472 476	W22F
+T26	Process 477 487	difference
+T27	Unknown 488 495	Fourier
+T28	Process 518 528	refinement
+T29	Process 550 557	effects
+T30	Process 565 573	mutation
+T31	Location 604 612	vicinity
+T32	Location 616 627	position 22
+T33	Value 657 662	0.4-A
+T34	Process 663 671	movement
+T35	Chemical 680 693	methionine-20
+T36	Protein_part 694 704	side chain
+T37	Chemical 724 733	water-403
+T38	Process 755 759	role
+T39	Process 767 778	protonation
+T40	Category 782 791	substrate
+T41	Unknown 792 795	DHF
+T42	Process 827 835	mutation
+T43	Process 849 853	loss
+T44	Chemical 859 872	hydrogen bond
+T45	Protein_part 878 891	tryptophan-22
+T46	Parameter 893 914	Steady-state kinetics
+T47	Parameter 929 937	kinetics
+T48	Chemical 951 958	isotope
+T49	Process 959 966	effects
+T50	Process 986 995	mutations
+T51	Parameter 1009 1013	rate
+T52	Category 1017 1024	product
+T53	Chemical 1025 1041	tetrahydrofolate
+T54	Process 1042 1049	release
+T55	Protein 1094 1110	wild-type enzyme
+T56	Parameter 1130 1134	rate
+T57	Chemical 1138 1145	hydride
+T58	Process 1146 1154	transfer
+T59	Parameter 1208 1212	rate
+T60	Parameter 1226 1248	Steady-state  kinetics
+T61	Parameter 1265 1267	pH
+T62	Value 1268 1271	6.8
+T63	Parameter 1273 1277	kcat
+T64	Value 1293 1305	up to 5-fold
+T65	Protein_part 1313 1324	W22F mutant
+T66	Protein 1346 1362	wild-type enzyme
+T67	Chemical 1373 1395	kcat/Km(dihydrofolate)
+T68	Parameter 1430 1438	pH range
+T69	Protein_part 1448 1459	W22H mutant
+T70	Parameter 1466 1470	kcat
+T71	Chemical 1475 1497	kcat/Km(dihydrofolate)
+T72	Parameter 1545 1561	wild-type values
+T73	Process 1574 1583	mutations
+T74	Chemical 1591 1604	dihydrofolate
+T75	Process 1605 1612	binding
+T76	Category 1614 1622	cofactor
+T77	Chemical 1623 1628	NADPH
+T78	Process 1629 1636	binding
+T79	Parameter 1682 1692	kinetic pH
+T80	Process 1715 1726	protonation
+T81	Molecule 1752 1758	proton
+T82	Parameter 1759 1767	affinity
+T83	Chemical 1771 1784	dihydrofolate
+T84	Process 1806 1813	binding
+T85	Protein 1821 1827	enzyme
+T86	Process 1849 1857	function
+T87	Protein_part 1861 1874	tryptophan-22
+T88	Protein_part 1907 1917	side chain
+T89	Chemical 1921 1934	methionine-20
+T90	Protein_part 1951 1953	N5
+T91	Category 1961 1970	substrate
+T92	Chemical 1971 1984	dihydrofolate

@@ -1,0 +1,72 @@
+T1	Technique 11 19	analysis
+T2	Protein 23 47	protein kinase A mutants
+T3	Protein 53 63	Rho-kinase
+T4	Category 64 73	inhibitor
+T5	Protein 108 114	kinase
+T6	Body_part 124 132	cellular
+T7	Process 133 142	signaling
+T8	Physiology 166 172	cancer
+T9	Technique 173 180	therapy
+T10	Protein 193 207	protein kinase
+T11	Category 208 218	inhibitors
+T12	Category 227 234	Tarceva
+T13	Chemical 239 246	Gleevec
+T14	Category 285 295	inhibitors
+T15	Protein 346 352	factor
+T16	Protein_part 436 447	amino acids
+T17	Protein_part 455 466	active site
+T18	Protein 470 480	Rho-kinase
+T19	Category 503 512	inhibitor
+T20	Protein 540 550	Rho-kinase
+T21	Protein 563 585	protein kinase A (PKA)
+T22	Protein 590 593	PKA
+T23	Protein_part 605 610	T183A
+T24	Protein_part 612 616	L49I
+T25	Protein_part 618 623	V123M
+T26	Protein_part 629 634	E127D
+T27	Protein_part 650 655	Q181K
+T28	Process 682 686	role
+T29	Protein 690 697	PKA-PKB
+T30	Protein 705 713	proteins
+T31	Protein_part 752 760	residues
+T32	Protein 764 767	PKA
+T33	Protein 793 803	Rho-kinase
+T34	Protein 849 859	Rho-kinase
+T35	Protein 874 877	PKA
+T36	Protein 896 906	pan-kinase
+T37	Category 916 925	inhibitor
+T38	Category 943 952	inhibitor
+T39	Parameter 961 971	properties
+T40	Protein 987 995	proteins
+T41	Process 1013 1018	roles
+T42	Organism 1022 1032	individual
+T43	Protein_part 1033 1041	residues
+T44	Protein 1084 1099	mutant proteins
+T45	Process 1131 1140	mutations
+T46	Protein_part 1141 1146	T183A
+T47	Protein_part 1151 1155	L49I
+T48	Category 1165 1170	mimic
+T49	Protein 1171 1181	Rho-kinase
+T50	Parameter 1183 1190	Kinetic
+T51	Chemical 1199 1210	corroborate
+T52	Protein_part 1231 1241	side-chain
+T53	Parameter 1284 1295	selectivity
+T54	Technique 1325 1333	analysis
+T55	Process 1352 1364	contribution
+T56	Organism 1372 1382	individual
+T57	Process 1383 1392	mutations
+T58	Protein 1403 1410	factors
+T59	Geometrical_part 1412 1430	Crystal structures
+T60	Protein 1448 1454	kinase
+T61	Category 1455 1464	inhibitor
+T62	Category 1465 1474	complexes
+T63	Process 1494 1499	basis
+T64	Parameter 1530 1541	selectivity
+T65	Protein_part 1554 1562	residues
+T66	Parameter 1586 1593	kinetic
+T67	Protein 1625 1636	PKA mutants
+T68	Protein 1658 1668	Rho-kinase
+T69	Parameter 1674 1685	selectivity
+T70	Protein 1736 1743	kinases
+T71	Unknown 1748 1757	structure
+T72	Category 1764 1773	inhibitor

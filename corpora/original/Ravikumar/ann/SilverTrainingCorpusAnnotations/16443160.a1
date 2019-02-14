@@ -1,0 +1,76 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Chemical 21 29	nitrated
+T3	Organism 30 35	human
+T4	Protein 36 66	manganese superoxide dismutase
+T5	Process 68 77	mechanism
+T6	Process 82 94	inactivation
+T7	Body_part 98 106	cellular
+T8	Process 107 118	consequence
+T9	Process 126 134	reaction
+T10	Chemical 138 148	superoxide
+T11	Chemical 153 165	nitric oxide
+T12	Chemical 178 191	peroxynitrite
+T13	Parameter 192 198	levels
+T14	Process 200 208	Reaction
+T15	Chemical 212 225	peroxynitrite
+T16	Protein 231 269	manganese superoxide dismutase (MnSOD)
+T17	Process 277 286	nitration
+T18	Protein_part 294 319	active-site residue Tyr34
+T19	Process 340 350	inhibition
+T20	Process 354 363	catalysis
+T21	Geometrical_part 379 397	crystal structures
+T22	Value 401 406	2.4 A
+T23	Parameter 407 417	resolution
+T24	Organism 421 426	human
+T25	Chemical 427 441	MnSOD nitrated
+T26	Chemical 445 458	peroxynitrite
+T27	Protein 478 483	MnSOD
+T28	Process 487 497	comparison
+T29	Unknown 507 517	structures
+T30	State 540 554	conformational
+T31	Process 555 562	changes
+T32	Protein_part 566 586	active-site residues
+T33	Chemical 590 597	solvent
+T34	Process 598 610	displacement
+T35	Protein_part 616 626	side chain
+T36	Chemical 630 645	3-nitrotyrosine
+T37	State 662 674	conformation
+T38	Chemical 700 709	manganese
+T39	Location 715 717	O1
+T40	Chemical 725 730	nitro
+T41	Molecular_Part 731 736	group
+T42	Chemical 744 752	hydrogen
+T43	Parameter 761 769	distance
+T44	Value 771 776	3.1 A
+T45	Unknown 781 790	Nepsilon2
+T46	Category 811 817	ligand
+T47	Protein_part 818 824	Gln143
+T48	Process 832 841	nitration
+T49	Protein_part 845 850	Tyr34
+T50	Chemical 909 922	hydrogen bond
+T51	Protein_part 935 946	phenolic OH
+T52	Protein_part 951 957	Gln143
+T53	Geometrical_part 959 963	part
+T54	Chemical 980 993	hydrogen-bond
+T55	Physiology 994 1001	network
+T56	Protein_part 1009 1020	active site
+T57	Process 1022 1032	Inhibition
+T58	Process 1036 1045	catalysis
+T59	Geometrical_part 1069 1075	steric
+T60	Process 1076 1082	effect
+T61	Chemical 1086 1101	3-nitrotyrosine
+T62	Category 1118 1127	substrate
+T63	Process 1139 1146	binding
+T64	Process 1152 1162	alteration
+T65	Chemical 1170 1183	hydrogen-bond
+T66	Physiology 1184 1191	network
+T67	Molecule 1206 1212	proton
+T68	Process 1213 1221	transfer
+T69	Process 1225 1234	catalysis
+T70	Process 1278 1284	effect
+T71	Chemical 1292 1297	nitro
+T72	Molecular_Part 1298 1303	group
+T73	Parameter 1333 1348	redox potential
+T74	Process 1373 1382	catalysis
+T75	Parameter 1397 1412	redox potential
+T76	Protein 1416 1430	nitrated MnSOD

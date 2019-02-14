@@ -1,0 +1,70 @@
+T1	Process 0 10	Comparison
+T2	Protein 18 25	T-state
+T3	Geometrical_part 26 36	structures
+T4	Protein 40 64	regulatory-chain mutants
+T5	Organism 68 84	Escherichia coli
+T6	Protein 85 112	aspartate transcarbamoylase
+T7	Protein_part 127 132	His20
+T8	Protein_part 137 142	Asp19
+T9	Process 156 164	response
+T10	Protein_part 192 197	Asp19
+T11	Protein_part 202 207	His20
+T12	Organism 211 227	Escherichia coli
+T13	Protein 228 255	aspartate transcarbamoylase
+T14	Unknown 257 259	EC
+T15	Process 269 277	function
+T16	Process 285 292	binding
+T17	Chemical 300 312	triphosphate
+T18	Chemical 317 323	ribose
+T19	Molecular_Part 324 332	moieties
+T20	Chemical 336 339	ATP
+T21	Chemical 344 347	CTP
+T22	Process 395 405	regulation
+T23	Process 411 416	roles
+T24	Protein_part 426 434	residues
+T25	Protein_part 494 501	alanine
+T26	Parameter 527 545	kinetic parameters
+T27	Geometrical_part 554 564	structures
+T28	Protein 572 586	mutant enzymes
+T29	Unknown 592 602	structures
+T30	Technique 622 643	X-ray crystallography
+T31	Value 647 651	2.15
+T32	Value 656 662	2.75 A
+T33	Parameter 663 673	resolution
+T34	Protein 678 685	His20Ar
+T35	Molecule 690 697	Asp19Ar
+T36	Technique 713 721	Analysis
+T37	Unknown 756 763	T-state
+T38	Unknown 774 784	structures
+T39	Molecule 792 799	mutants
+T40	Unknown 860 867	T-state
+T41	Process 901 912	differences
+T42	State 942 956	conformational
+T43	Technique 957 965	analysis
+T44	Technique 978 986	analysis
+T45	Process 991 1001	comparison
+T46	Protein 1013 1037	regulatory-chain mutants
+T47	Molecule 1057 1064	Asp19Ar
+T48	Molecule 1065 1071	mutant
+T49	Unknown 1098 1105	T-state
+T50	Technique 1124 1132	analysis
+T51	Protein 1140 1147	His20Ar
+T52	Process 1185 1196	equilibrium
+T53	Unknown 1218 1225	R-state
+T54	Technique 1234 1242	analysis
+T55	Protein 1250 1257	Asp19Ar
+T56	Protein 1262 1277	His20Ar enzymes
+T57	Process 1300 1304	role
+T58	Molecule 1308 1328	molecular modulators
+T59	Process 1349 1356	effects
+T60	Process 1371 1378	binding
+T61	Chemical 1382 1393	nucleotides
+T62	Protein_part 1401 1416	regulatory site
+T63	Unknown 1475 1477	T-
+T64	Unknown 1481 1488	R-state
+T65	Process 1489 1502	stabilization
+T66	Process 1518 1529	application
+T67	Chemical 1678 1688	nucleotide
+T68	Process 1709 1713	role
+T69	Protein_part 1721 1730	N-termini
+T70	Protein 1749 1755	chains

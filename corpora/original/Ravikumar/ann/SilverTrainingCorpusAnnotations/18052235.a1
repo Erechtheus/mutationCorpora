@@ -1,0 +1,86 @@
+T1	Unknown 14 17	Act
+T2	Value 23 28	1.5 A
+T3	Parameter 29 39	resolution
+T4	Geometrical_part 40 58	crystal structures
+T5	Organism 66 71	HIV-1
+T6	Protein 72 80	protease
+T7	Protein_part 90 101	I54V mutant
+T8	Molecule 111 144	tetrahedral reaction intermediate
+T9	Organism 146 151	HIV-1
+T10	Protein 152 165	protease (PR)
+T11	Process 173 179	target
+T12	Physiology 202 211	antiviral
+T13	Chemical 212 217	drugs
+T14	Physiology 226 230	AIDS
+T15	Technique 231 238	therapy
+T16	Chemical 244 249	drugs
+T17	Protein_part 266 277	active site
+T18	Body_part 278 284	cavity
+T19	Protein 288 290	PR
+T20	Organism 310 315	viral
+T21	Protein 316 327	polyprotein
+T22	Category 328 337	substrate
+T23	Geometrical_part 393 411	crystal structures
+T24	Protein 415 434	wild-type PR (PRWT)
+T25	Chemical 443 453	multi-drug
+T26	Unknown 464 471	variant
+T27	Protein_part 481 485	I54V
+T28	Process 486 494	mutation
+T29	Protein 496 502	PRI54V
+T30	Category 507 514	complex
+T31	Protein_part 522 529	peptide
+T32	Value 533 537	1.46
+T33	Value 542 548	1.50 A
+T34	Parameter 549 559	resolution
+T35	Protein_part 579 586	peptide
+T36	Chemical 595 642	gem-diol tetrahedral reaction intermediate (TI)
+T37	Geometrical_part 650 668	crystal structures
+T38	Process 682 694	interactions
+T39	Process 719 726	binding
+T40	Protein_part 734 745	active site
+T41	Body_part 746 752	cavity
+T42	Protein 756 760	PRWT
+T43	Protein 765 771	PRI54V
+T44	Molecule 784 793	PRI54V/TI
+T45	Category 794 801	complex
+T46	Chemical 811 816	water
+T47	Chemical 826 839	hydrogen bond
+T48	Process 840 852	interactions
+T49	Chemical 862 868	amides
+T50	Protein_part 872 877	Ile50
+T51	Protein_part 882 888	Ile50'
+T52	Unknown 913 923	structures
+T53	Process 932 939	insight
+T54	Process 949 958	mechanism
+T55	Chemical 962 966	drug
+T56	Parameter 967 977	resistance
+T57	Process 996 1004	mutation
+T58	Unknown 1010 1020	structures
+T59	Molecule 1040 1052	intermediate
+T60	State 1053 1058	state
+T61	Process 1066 1076	hydrolysis
+T62	Process 1077 1085	reaction
+T63	Chemical 1098 1116	gem-diol hydroxide
+T64	Molecular_Part 1117 1123	groups
+T65	Protein 1131 1135	PRWT
+T66	Category 1136 1143	complex
+T67	Value 1164 1169	2.3 A
+T68	Chemical 1171 1184	hydrogen bond
+T69	Location 1194 1199	outer
+T70	Chemical 1200 1218	carboxylate oxygen
+T71	Protein_part 1222 1227	Asp25
+T72	Chemical 1237 1245	chemical
+T73	Technique 1246 1258	calculations
+T74	Unknown 1276 1285	structure
+T75	Process 1306 1317	protonation
+T76	Location 1325 1330	inner
+T77	Chemical 1331 1349	carboxylate oxygen
+T78	Protein_part 1353 1359	Asp25'
+T79	Category 1414 1423	complexes
+T80	Technique 1436 1448	calculations
+T81	Process 1466 1474	relation
+T82	Chemical 1482 1490	chemical
+T83	Process 1491 1500	mechanism
+T84	Chemical 1508 1520	peptide bond
+T85	Process 1521 1531	hydrolysis
+T86	Protein 1545 1547	PR

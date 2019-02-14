@@ -1,0 +1,98 @@
+T1	Process 18 22	role
+T2	Protein_part 26 40	Leu22 variants
+T3	Chemical 44 56	methotrexate
+T4	Parameter 57 67	resistance
+T5	Process 69 79	comparison
+T6	Protein_part 97 113	Leu22Arg variant
+T7	Organism 114 119	mouse
+T8	Organism 124 129	human
+T9	Protein 130 153	dihydrofolate reductase
+T10	Unknown 162 169	crystal
+T11	Category 170 179	complexes
+T12	Chemical 185 197	methotrexate
+T13	Chemical 202 207	NADPH
+T14	Value 241 246	2.5 A
+T15	Parameter 247 257	resolution
+T16	Technique 277 285	analysis
+T17	Chemical 293 305	methotrexate
+T18	Unknown 305 339	-resistant Leu22Arg (L22R) variant
+T19	Protein 343 380	mouse dihydrofolate reductase (mDHFR)
+T20	Category 399 414	ternary complex
+T21	Chemical 420 438	methotrexate (MTX)
+T22	Category 447 455	cofactor
+T23	Chemical 456 461	NADPH
+T24	Chemical 499 502	MTX
+T25	Chemical 507 512	NADPH
+T26	Category 513 530	ternary complexes
+T27	Protein 534 557	L22R human DHFR (hDHFR)
+T28	Organism 571 576	mouse
+T29	Organism 581 586	human
+T30	Protein 587 610	wild-type DHFR  enzymes
+T31	State 616 628	conformation
+T32	Protein_part 632 643	mDHFR Arg22
+T33	Chemical 666 674	hydrogen
+T34	Process 683 691	contacts
+T35	Protein_part 697 702	Asp21
+T36	Protein_part 704 709	Trp24
+T37	Chemical 727 741	water molecule
+T38	Protein 783 793	L22R hDHFR
+T39	Category 794 809	ternary complex
+T40	Process 848 858	difference
+T41	Unknown 871 881	structures
+T42	Protein 903 907	L22R
+T43	Unknown 908 915	variant
+T44	Organism 927 932	mouse
+T45	Protein 936 946	human DHFR
+T46	Process 979 990	differences
+T47	Organism 1003 1010	species
+T48	Process 1012 1022	Comparison
+T49	Unknown 1032 1042	structures
+T50	Protein_part 1060 1071	active site
+T51	Protein 1075 1080	mDHFR
+T52	Protein 1108 1113	hDHFR
+T53	Geometrical_part 1114 1123	structure
+T54	Protein 1128 1133	mDHFR
+T55	Chemical 1151 1154	MTX
+T56	Value 1166 1171	0.6 A
+T57	Protein_part 1179 1186	helix C
+T58	Protein_part 1188 1202	residues 59-65
+T59	Value 1230 1235	1.2 A
+T60	Protein_part 1250 1261	active site
+T61	Protein 1295 1300	hDHFR
+T62	Category 1301 1318	ternary complexes
+T63	Protein 1327 1355	L22R variant mDHFR structure
+T64	Chemical 1357 1360	MTX
+T65	Process 1375 1383	contacts
+T66	Protein_part 1401 1414	residues Ile7
+T67	Protein_part 1416 1422	Val115
+T68	Protein_part 1427 1433	Tyr121
+T69	Protein 1446 1479	L22R variant human DHFR structure
+T70	Process 1487 1495	contacts
+T71	Protein 1519 1536	wild-type enzymes
+T72	Process 1571 1581	comparison
+T73	Organism 1589 1594	mouse
+T74	Protein 1599 1609	human DHFR
+T75	Category 1610 1619	complexes
+T76	Category 1640 1646	ligand
+T77	Category 1651 1659	cofactor
+T78	Process 1675 1685	importance
+T79	Organism 1715 1722	species
+T80	Protein 1726 1732	enzyme
+T81	Parameter 1760 1777	sequence homology
+T82	Process 1820 1831	differences
+T83	Process 1835 1842	binding
+T84	Process 1843 1855	interactions
+T85	Protein 1864 1868	L22R
+T86	Unknown 1869 1876	variant
+T87	Parameter 1910 1926	binding affinity
+T88	Chemical 1931 1934	MTX
+T89	Unknown 1942 1949	variant
+T90	Protein 1950 1957	enzymes
+T91	Parameter 1970 1974	size
+T92	Process 1982 1989	binding
+T93	Protein_part 1990 1994	site
+T94	Protein 1998 2003	mDHFR
+T95	Parameter 2038 2054	binding affinity
+T96	Chemical 2058 2061	MTX
+T97	Protein 2066 2076	L22R mDHFR
+T98	Protein 2118 2135	L22R hDHFR enzyme

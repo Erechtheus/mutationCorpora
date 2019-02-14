@@ -1,0 +1,31 @@
+T1	Process 11 16	basis
+T2	Process 21 32	recognition
+T3	Protein_part 59 74	Tom1-GAT domain
+T4	Unknown 76 97	Tom1 (Target of Myb1)
+T5	Process 133 142	transport
+T6	Protein 160 168	proteins
+T7	Process 182 193	interaction
+T8	Protein_part 201 226	GAT (GGA and Tom1) domain
+T9	Protein 233 242	ubiquitin
+T10	Protein_part 274 292	three-helix bundle
+T11	Protein 296 304	Tom1-GAT
+T12	Protein 314 323	ubiquitin
+T13	Protein_part 332 337	sites
+T14	Protein_part 366 379	Ile44 surface
+T15	Protein 383 392	ubiquitin
+T16	Unknown 398 423	complex crystal structure
+T17	Protein_part 446 456	first site
+T18	Technique 474 479	patch
+T19	Protein 483 497	helices alpha1
+T20	Protein 502 508	alpha2
+T21	Technique 510 513	NMR
+T22	Protein_part 553 563	N-terminal
+T23	Protein_part 572 584	helix alpha3
+T24	Protein 588 596	Tom1-GAT
+T25	Process 630 637	binding
+T26	Protein_part 638 642	site
+T27	Protein 661 670	ubiquitin
+T28	Parameter 692 702	efficiency
+T29	Process 706 717	recognition
+T30	Protein 735 743	proteins
+T31	Unknown 747 751	Tom1

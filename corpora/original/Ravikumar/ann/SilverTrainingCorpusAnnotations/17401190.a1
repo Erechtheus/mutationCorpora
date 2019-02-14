@@ -1,0 +1,57 @@
+T1	Unknown 0 9	Structure
+T2	Organism 17 24	buffalo
+T3	Process 35 45	signalling
+T4	Protein 46 58	glycoprotein
+T5	Value 62 67	2.8 A
+T6	Parameter 68 78	resolution
+T7	Geometrical_part 84 101	crystal structure
+T8	Value 107 113	40 kDa
+T9	Process 114 124	signalling
+T10	Protein 125 137	glycoprotein
+T11	Organism 143 159	buffalo (SPB-40)
+T12	Value 183 188	2.8 A
+T13	Parameter 189 199	resolution
+T14	Organism 201 207	SPB-40
+T15	Process 229 239	signalling
+T16	Protein 240 246	factor
+T17	Process 250 257	binding
+T18	Body_part 268 273	cells
+T19	State 291 296	phase
+T20	Process 300 310	involution
+T21	Body_part 335 341	tissue
+T22	Process 391 401	secretions
+T23	Organism 405 419	Murrah buffalo
+T24	Chemical 477 493	vapour-diffusion
+T25	Value 506 509	19%
+T26	Chemical 510 517	ethanol
+T27	Protein 542 549	protein
+T28	Chemical 583 593	nucleotide
+T29	Protein_part 598 618	amino-acid sequences
+T30	Protein_part 659 668	sequences
+T31	Unknown 678 685	members
+T32	Unknown 693 699	family
+T33	Protein_part 706 714	sequence
+T34	Protein 718 724	SPB-40
+T35	Process 753 762	mutations
+T36	Chemical 770 775	sugar
+T37	Protein_part 784 790	region
+T38	Protein_part 801 807	Tyr120
+T39	Protein_part 819 825	Trp120
+T40	Protein_part 830 836	Glu269
+T41	Protein_part 848 854	Trp269
+T42	Unknown 860 869	structure
+T43	Process 891 901	distortion
+T44	Geometrical_part 909 914	shape
+T45	Chemical 922 927	sugar
+T46	Geometrical_part 936 942	groove
+T47	Chemical 948 963	water structure
+T48	Geometrical_part 971 977	groove
+T49	Process 1011 1018	folding
+T50	Protein 1026 1039	protein chain
+T51	Protein_part 1056 1062	region
+T52	Protein_part 1074 1096	segments His188-His197
+T53	Protein_part 1098 1111	Phe202-Arg212
+T54	Protein_part 1116 1129	Tyr244-Pro260
+T55	Process 1142 1152	variations
+T56	Protein 1178 1186	proteins
+T57	Unknown 1194 1200	family

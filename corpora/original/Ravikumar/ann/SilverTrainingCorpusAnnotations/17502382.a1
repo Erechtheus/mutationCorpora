@@ -1,0 +1,50 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 29	Escherichia coli
+T3	Protein 30 57	Lytic transglycosylase MltA
+T4	Chemical 69 81	chitohexaose
+T5	Process 83 95	implications
+T6	Protein 100 113	peptidoglycan
+T7	Process 114 121	binding
+T8	Process 126 134	cleavage
+T9	Geometrical_part 136 154	Crystal structures
+T10	Protein_part 178 183	D308A
+T11	Protein 198 219	transglycosylase MltA
+T12	Organism 225 241	Escherichia coli
+T13	Process 270 279	different
+T14	Category 305 312	complex
+T15	Category 322 331	substrate
+T16	Chemical 332 353	analogue chitohexaose
+T17	Chemical 359 371	chitohexaose
+T18	Protein_part 391 410	saccharide residues
+T19	Protein_part 418 429	active site
+T20	Geometrical_part 430 436	groove
+T21	Chemical 454 469	glycosidic bond
+T22	Chemical 477 481	bond
+T23	Process 482 490	cleavage
+T24	Process 503 510	binding
+T25	Process 527 540	reorientation
+T26	Protein_part 563 570	domains
+T27	Protein 574 578	MltA
+T28	Protein_part 594 605	active site
+T29	Geometrical_part 606 612	groove
+T30	Process 632 644	interactions
+T31	Chemical 652 667	oligosaccharide
+T32	Protein_part 673 681	residues
+T33	Protein_part 693 700	domains
+T34	Unknown 706 716	structures
+T35	Protein_part 726 734	residues
+T36	Protein 738 742	MltA
+T37	Process 752 757	roles
+T38	Process 765 772	binding
+T39	Process 777 788	recognition
+T40	Protein 792 805	peptidoglycan
+T41	Protein_part 823 830	Asp-308
+T42	Protein_part 855 862	residue
+T43	Protein 884 893	acid/base
+T44	Unknown 909 919	structures
+T45	Process 933 942	catalysis
+T46	Parameter 959 965	energy
+T47	State 966 978	conformation
+T48	Protein_part 995 1013	glycosidic linkage
+T49	Chemical 1027 1065	putative oxocarbenium ion intermediate
+T50	Protein_part 1113 1124	alpha-helix

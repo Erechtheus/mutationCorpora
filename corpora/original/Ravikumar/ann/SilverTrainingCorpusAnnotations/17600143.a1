@@ -1,0 +1,64 @@
+T1	Chemical 0 8	FR258900
+T2	Chemical 22 45	anti-hyperglycemic drug
+T3	Protein_part 71 75	site
+T4	Protein 79 101	glycogen phosphorylase
+T5	Chemical 103 111	FR258900
+T6	Category 143 152	inhibitor
+T7	Organism 156 161	human
+T8	Body_part 162 167	liver
+T9	Protein 168 190	glycogen phosphorylase
+T10	Body_part 216 223	hepatic
+T11	Chemical 224 232	glycogen
+T12	Body_part 254 260	plasma
+T13	Chemical 261 268	glucose
+T14	Parameter 269 283	concentrations
+T15	Physiology 287 295	diabetic
+T16	Organism 296 300	mice
+T17	Process 326 335	mechanism
+T18	Process 339 349	inhibition
+T19	Geometrical_part 374 391	crystal structure
+T20	Organism 414 420	rabbit
+T21	Body_part 421 427	muscle
+T22	Protein 428 461	glycogen phosphorylase b-FR258900
+T23	Category 462 469	complex
+T24	Value 488 493	2.2 A
+T25	Parameter 494 504	resolution
+T26	Unknown 510 519	structure
+T27	Category 542 551	inhibitor
+T28	Category 576 585	activator
+T29	Protein_part 586 590	site
+T30	Category 616 625	activator
+T31	Chemical 626 629	AMP
+T32	Process 641 649	contacts
+T33	Chemical 655 663	FR258900
+T34	Protein 667 689	glycogen phosphorylase
+T35	Unknown 716 729	van der Waals
+T36	Process 730 742	interactions
+T37	Protein_part 748 753	Gln71
+T38	Protein_part 755 760	Gln72
+T39	Protein_part 762 768	Phe196
+T40	Protein_part 774 780	Val45'
+T41	Geometrical_part 791 799	symmetry
+T42	Protein 808 815	subunit
+T43	Process 836 848	interactions
+T44	Chemical 858 869	carboxylate
+T45	Molecular_Part 870 876	groups
+T46	Protein_part 890 907	arginine residues
+T47	Protein_part 909 915	Arg242
+T48	Protein_part 917 923	Arg309
+T49	Protein_part 929 935	Arg310
+T50	Chemical 962 971	phosphate
+T51	Protein_part 984 991	subsite
+T52	Process 997 1004	binding
+T53	Chemical 1008 1016	FR258900
+T54	Protein 1024 1031	protein
+T55	State 1041 1055	conformational
+T56	Process 1056 1063	changes
+T57	Unknown 1091 1098	T-state
+T58	State 1110 1122	conformation
+T59	Protein 1130 1136	enzyme
+T60	Category 1142 1148	ligand
+T61	Chemical 1200 1217	phenoxy-phthalate
+T62	Chemical 1222 1231	acyl urea
+T63	Category 1232 1242	inhibitors
+T64	Protein_part 1319 1323	site

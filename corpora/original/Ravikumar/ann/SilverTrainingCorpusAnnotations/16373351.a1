@@ -1,0 +1,94 @@
+T1	Unknown 0 9	Structure
+T2	Body_part 13 23	microsomal
+T3	Unknown 24 43	cytochrome P450 2B4
+T4	Chemical 63 89	antifungal drug bifonazole
+T5	Process 91 98	insight
+T6	Unknown 104 108	P450
+T7	State 109 123	conformational
+T8	Process 124 134	plasticity
+T9	Body_part 139 147	membrane
+T10	Process 148 159	interaction
+T11	Category 182 188	ligand
+T12	Process 208 219	transitions
+T13	Unknown 223 242	cytochrome P450 2B4
+T14	Process 259 271	interactions
+T15	Category 304 313	inhibitor
+T16	Chemical 315 325	Bifonazole
+T17	Parameter 335 343	spectrum
+T18	Chemical 344 354	antifungal
+T19	Protein 371 384	monooxygenase
+T20	Parameter 385 393	activity
+T21	Unknown 408 415	type II
+T22	Parameter 424 432	spectrum
+T23	Protein 436 448	2B4dH(H226Y)
+T24	Protein 461 467	enzyme
+T25	Process 499 507	presence
+T26	Chemical 511 538	4-(4-chlorophenyl)imidazole
+T27	Chemical 540 543	CPI
+T28	Process 557 566	titration
+T29	Technique 567 578	calorimetry
+T30	Protein_part 583 593	tryptophan
+T31	Technique 594 606	fluorescence
+T32	Protein 651 658	protein
+T33	Geometrical_part 666 673	surface
+T34	Protein_part 703 710	Trp-121
+T35	Chemical 716 726	bifonazole
+T36	Process 727 734	binding
+T37	Chemical 771 774	CPI
+T38	Value 778 783	2.3 A
+T39	Geometrical_part 785 802	crystal structure
+T40	Chemical 806 820	2B4-bifonazole
+T41	State 837 854	open conformation
+T42	Category 860 866	ligand
+T43	Protein_part 880 891	active site
+T44	Unknown 942 943	U
+T45	Geometrical_part 951 956	cleft
+T46	Protein 972 975	2B4
+T47	Protein_part 989 1000	active site
+T48	Geometrical_part 1001 1007	pocket
+T49	Protein 1011 1018	2B4-CPI
+T50	Unknown 1024 1025	O
+T51	Protein_part 1033 1044	active site
+T52	Geometrical_part 1045 1050	cleft
+T53	Chemical 1054 1068	2B4-bifonazole
+T54	Location 1091 1097	middle
+T55	Chemical 1123 1142	bifonazole molecule
+T56	Protein_part 1170 1181	active site
+T57	Geometrical_part 1182 1187	cleft
+T58	Protein_part 1195 1202	helix I
+T59	Value 1211 1235	approximately 15 degrees
+T60	Category 1261 1267	ligand
+T61	Unknown 1273 1282	structure
+T62	Process 1310 1322	interactions
+T63	Protein_part 1331 1347	helix C residues
+T64	Chemical 1352 1362	bifonazole
+T65	Process 1388 1392	role
+T66	Protein_part 1396 1403	helix C
+T67	Chemical 1407 1412	azole
+T68	Process 1413 1424	recognition
+T69	Organism 1428 1437	mammalian
+T70	Unknown 1438 1443	P450s
+T71	Process 1445 1455	Comparison
+T72	Protein 1475 1478	2B4
+T73	Geometrical_part 1479 1488	structure
+T74	Protein 1495 1502	2B4-CPI
+T75	Geometrical_part 1503 1512	structure
+T76	Chemical 1522 1546	2B4-bifonazole structure
+T77	Protein_part 1579 1586	regions
+T78	State 1611 1625	conformational
+T79	Process 1626 1633	changes
+T80	Process 1637 1645	response
+T81	Category 1649 1655	ligand
+T82	Process 1656 1663	binding
+T83	Protein_part 1682 1689	regions
+T84	Body_part 1703 1711	membrane
+T85	Protein_part 1720 1726	motifs
+T86	Category 1739 1748	substrate
+T87	Category 1759 1768	substrate
+T88	Process 1769 1776	binding
+T89	Body_part 1813 1821	membrane
+T90	State 1833 1838	state
+T91	Protein_part 1842 1846	P450
+T92	Process 1859 1866	insight
+T93	Category 1887 1897	substrates
+T94	Protein_part 1916 1927	active site

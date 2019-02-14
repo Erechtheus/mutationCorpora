@@ -1,0 +1,74 @@
+T1	Process 26 33	binding
+T2	Chemical 52 76	drug sucrose octasulfate
+T3	Body_part 80 97	acidic fibroblast
+T4	Protein 98 111	growth factor
+T5	Chemical 140 170	drug sucrose octasulfate (SOS)
+T6	Protein 180 212	fibroblast growth factors (FGFs)
+T7	Protein 214 222	proteins
+T8	Process 243 249	growth
+T9	Process 254 269	differentiation
+T10	Body_part 281 291	cell types
+T11	Body_part 303 327	stomach epithelial cells
+T12	Chemical 349 352	SOS
+T13	Protein 364 368	FGFs
+T14	Chemical 377 381	acid
+T15	Process 382 394	denaturation
+T16	Body_part 402 409	stomach
+T17	Physiology 453 460	healing
+T18	Body_part 474 480	tissue
+T19	Chemical 482 485	SOS
+T20	Protein_part 504 508	site
+T21	Protein 512 515	FGF
+T22	Chemical 519 526	heparin
+T23	Protein 537 550	proteoglycans
+T24	Protein 561 564	FGF
+T25	Protein 591 604	proteoglycans
+T26	Chemical 611 618	heparin
+T27	Protein 647 660	FGF receptors
+T28	Process 675 681	growth
+T29	Process 703 710	process
+T30	Geometrical_part 754 771	crystal structure
+T31	Value 777 780	1:1
+T32	Category 781 788	complex
+T33	Protein 797 814	acidic FGF (aFGF)
+T34	Chemical 819 822	SOS
+T35	Value 826 831	2.7 A
+T36	Parameter 832 842	resolution
+T37	Chemical 844 847	SOS
+T38	Protein_part 878 884	region
+T39	Protein 888 892	aFGF
+T40	Protein_part 914 930	residues 112-127
+T41	Process 942 950	contacts
+T42	Protein_part 966 972	Lys112
+T43	Protein_part 974 980	Arg116
+T44	Protein_part 982 988	Lys118
+T45	Protein_part 994 1000	Arg122
+T46	Protein_part 1007 1013	region
+T47	Process 1035 1042	binding
+T48	Chemical 1043 1050	heparin
+T49	State 1064 1076	conformation
+T50	Protein 1080 1084	aFGF
+T51	Process 1103 1110	binding
+T52	Chemical 1111 1114	SOS
+T53	Protein_part 1147 1158	side chains
+T54	Process 1166 1173	binding
+T55	Protein_part 1174 1178	site
+T56	Process 1179 1184	shift
+T57	Value 1199 1202	6 A
+T58	Chemical 1220 1235	SOS-FGF crystal
+T59	Unknown 1236 1245	structure
+T60	Chemical 1280 1283	SOS
+T61	Protein 1295 1298	FGF
+T62	Protein_part 1342 1350	residues
+T63	Geometrical_part 1378 1394	native structure
+T64	Process 1412 1421	repulsion
+T65	Process 1430 1435	basis
+T66	Unknown 1444 1453	structure
+T67	Category 1482 1489	complex
+T68	Chemical 1493 1500	heparin
+T69	Protein 1509 1518	FGF dimer
+T70	Process 1525 1537	interactions
+T71	Protein 1553 1565	FGF receptor
+T72	Process 1566 1578	dimerization
+T73	Protein 1606 1614	receptor
+T74	Process 1615 1624	signaling

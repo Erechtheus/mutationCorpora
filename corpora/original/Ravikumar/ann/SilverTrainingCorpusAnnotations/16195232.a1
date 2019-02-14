@@ -1,0 +1,69 @@
+T1	Process 0 13	Nitrosylation
+T2	Organism 17 22	human
+T3	Protein 23 51	glutathione transferase P1-1
+T4	Chemical 57 87	dinitrosyl diglutathionyl iron
+T5	Category 88 95	complex
+T6	Chemical 146 176	dinitrosyl diglutathionyl iron
+T7	Category 177 184	complex
+T8	Chemical 205 222	nitric oxide (NO)
+T9	Category 223 228	donor
+T10	Parameter 255 263	affinity
+T11	Protein_part 278 290	active sites
+T12	Organism 294 299	human
+T13	Protein 300 334	glutathione transferase (GST) P1-1
+T14	Protein 390 397	subunit
+T15	Protein 405 410	dimer
+T16	Process 424 435	interaction
+T17	Organism 466 471	human
+T18	Unknown 472 474	Mu
+T19	Unknown 476 481	Alpha
+T20	Protein 487 504	Theta GST classes
+T21	Process 527 536	mechanism
+T22	Protein 546 550	GSTs
+T23	Location 562 575	intracellular
+T24	Chemical 576 587	NO carriers
+T25	Category 591 601	scavengers
+T26	Geometrical_part 623 640	crystal structure
+T27	Protein 644 652	GST P1-1
+T28	Category 656 663	complex
+T29	Chemical 673 703	dinitrosyl diglutathionyl iron
+T30	Category 704 710	ligand
+T31	Parameter 719 729	resolution
+T32	Category 739 746	complex
+T33	Protein_part 751 768	active site Tyr-7
+T34	Chemical 788 797	iron atom
+T35	Chemical 810 819	phenolate
+T36	Molecular_Part 820 825	group
+T37	Unknown 851 854	GSH
+T38	Category 855 862	ligands
+T39	Process 876 886	importance
+T40	Protein_part 905 912	residue
+T41	Chemical 928 940	nitric oxide
+T42	Category 941 946	donor
+T43	Technique 966 991	site-directed mutagenesis
+T44	Protein_part 1000 1007	residue
+T45	Protein_part 1013 1016	His
+T46	Protein_part 1018 1021	Cys
+T47	Protein_part 1026 1038	Phe residues
+T48	Parameter 1053 1070	binding  affinity
+T49	Category 1079 1086	complex
+T50	Molecule 1120 1127	mutants
+T51	Value 1131 1158	about 3 orders of magnitude
+T52	Molecule 1190 1198	Electron
+T53	Technique 1212 1234	resonance spectroscopy
+T54	Organism 1253 1269	Escherichia coli
+T55	Body_part 1270 1275	cells
+T56	Protein 1303 1318	GST P1-1 enzyme
+T57	Organism 1333 1342	bacterial
+T58	Body_part 1343 1348	cells
+T59	Process 1353 1361	response
+T60	Chemical 1365 1367	NO
+T61	Process 1368 1377	treatment
+T62	Chemical 1400 1430	dinitrosyl diglutathionyl iron
+T63	Category 1431 1438	complex
+T64	Location 1445 1458	intracellular
+T65	Chemical 1459 1463	iron
+T66	Unknown 1468 1471	GSH
+T67	Category 1492 1499	complex
+T68	Process 1530 1537	binding
+T69	Protein 1541 1549	GST P1-1

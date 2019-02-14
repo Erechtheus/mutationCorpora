@@ -1,0 +1,78 @@
+T1	Protein 0 8	Paratope
+T2	Molecule 45 53	antibody
+T3	Molecule 54 60	82D6A3
+T4	Geometrical_part 74 91	crystal structure
+T5	Category 99 106	complex
+T6	Protein_part 116 147	von Willebrand factor A3-domain
+T7	Molecule 168 187	monoclonal antibody
+T8	Molecule 188 194	82D6A3
+T9	Protein_part 215 234	amino acids Arg-963
+T10	Protein_part 236 243	Pro-981
+T11	Protein_part 245 253	Asp-1009
+T12	Protein_part 255 263	Arg-1016
+T13	Protein_part 265 273	Ser-1020
+T14	Protein_part 275 283	Met-1022
+T15	Protein_part 289 297	His-1023
+T16	Protein_part 305 336	von Willebrand factor A3-domain
+T17	Unknown 353 417	K., Depraetere, H., Romijn, R. A., Huizinga, E., De Maeyer, M., 
+T18	Unknown 421 432	Deckmyn, H.
+T19	Unknown 440 454	J. Biol. Chem.
+T20	Process 508 519	interaction
+T21	Protein 523 544	von Willebrand factor
+T22	Protein 548 557	collagens
+T23	Body_part 587 601	blood platelet
+T24	Process 602 610	adhesion
+T25	Body_part 626 637	vessel wall
+T26	Protein_part 641 646	sites
+T27	Parameter 655 660	shear
+T28	Process 694 700	action
+T29	Molecule 704 710	82D6A3
+T30	Geometrical_part 751 768	crystal structure
+T31	Category 772 779	complex
+T32	Protein_part 789 798	A3-domain
+T33	Protein 819 827	paratope
+T34	Process 831 843	construction
+T35	Process 848 864	characterization
+T36	Molecule 871 878	mutants
+T37	Protein 884 892	paratope
+T38	Protein_part 923 939	short  sequences
+T39	Protein 947 963	heavy chain CDR1
+T40	Protein_part 965 971	Asn-31
+T41	Protein_part 976 982	Tyr-32
+T42	Unknown 988 992	CDR3
+T43	Protein_part 994 1000	Asp-99
+T44	Protein_part 1002 1009	Pro-101
+T45	Protein_part 1012 1019	Tyr-102
+T46	Protein_part 1024 1031	Tyr-103
+T47	Technique 1046 1051	patch
+T48	Geometrical_part 1059 1066	surface
+T49	Molecule 1074 1082	antibody
+T50	Protein_part 1084 1090	Trp-50
+T51	Protein_part 1108 1114	His-49
+T52	Protein 1122 1133	light chain
+T53	Location 1149 1157	adjacent
+T54	Technique 1165 1170	patch
+T55	Process 1187 1192	roles
+T56	Protein 1196 1203	antigen
+T57	Process 1204 1211	binding
+T58	Geometrical_part 1217 1234	crystal structure
+T59	Protein 1260 1267	epitope
+T60	Protein 1310 1318	collagen
+T61	Process 1319 1326	binding
+T62	Protein_part 1327 1331	site
+T63	Process 1345 1356	mutagenesis
+T64	Protein_part 1364 1373	A3-domain
+T65	Unknown 1383 1463	R. A., Westein, E., Bouma, B., Schiphorst, M. E., Sixma, J. J., Lenting, P. J., 
+T66	Unknown 1467 1482	Huizinga, E. G.
+T67	Unknown 1490 1504	J. Biol. Chem.
+T68	Protein 1576 1584	collagen
+T69	Process 1585 1592	binding
+T70	Protein_part 1593 1597	site
+T71	Process 1625 1631	action
+T72	Molecule 1639 1647	antibody
+T73	Process 1665 1676	competition
+T74	Process 1690 1701	interaction
+T75	Protein_part 1702 1706	site
+T76	Protein 1748 1756	paratope
+T77	Protein_part 1767 1774	peptide
+T78	Parameter 1795 1805	properties

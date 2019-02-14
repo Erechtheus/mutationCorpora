@@ -1,0 +1,83 @@
+T1	Chemical 14 25	purine base
+T2	Process 26 33	binding
+T3	Protein 43 61	protein kinase CK2
+T4	Protein_part 89 100	side-chains
+T5	Chemical 128 131	ATP
+T6	Category 137 148	cosubstrate
+T7	Protein 150 186	Protein kinase CK2 (casein kinase 2)
+T8	Organism 232 242	eukaryotic
+T9	Protein 243 266	serine/threonine kinase
+T10	Process 280 284	role
+T11	Body_part 296 304	cellular
+T12	Process 309 318	processes
+T13	Process 324 337	proliferation
+T14	Physiology 339 348	apoptosis
+T15	Physiology 353 362	circadian
+T16	Parameter 404 414	properties
+T17	Chemical 437 440	GTP
+T18	Chemical 452 455	ATP
+T19	Category 461 472	cosubstrate
+T20	Organism 539 549	eukaryotic
+T21	Protein 550 565	protein kinases
+T22	Molecule 630 636	mutant
+T23	Protein 654 661	subunit
+T24	Protein 665 726	protein kinase CK2 (CK2alpha)  from Homo sapiens (hsCK2alpha)
+T25	Protein 744 756	CK2-atypical
+T26	Chemical 772 775	ATP
+T27	Chemical 788 791	GTP
+T28	Molecule 798 804	mutant
+T29	Process 825 830	basis
+T30	Geometrical_part 842 852	structures
+T31	Protein 856 891	CK2alpha from Zea mays (zmCK2alpha)
+T32	Category 895 902	complex
+T33	Chemical 916 919	ATP
+T34	Category 932 939	ligands
+T35	Process 975 984	existence
+T36	Chemical 990 1002	"purine base
+T37	Process 1003 1010	binding
+T38	Molecular_Part 1040 1046	moiety
+T39	Category 1065 1071	ligand
+T40	Chemical 1081 1092	purine base
+T41	Chemical 1096 1099	ATP
+T42	Chemical 1104 1107	GTP
+T43	Chemical 1114 1125	purine base
+T44	Process 1126 1133	binding
+T45	Protein_part 1166 1177	side-chains
+T46	Protein_part 1181 1186	Ile66
+T47	Protein_part 1188 1193	Val66
+T48	Protein 1197 1207	hsCK2alpha
+T49	Protein_part 1213 1219	Met163
+T50	Process 1251 1260	different
+T51	Process 1261 1272	orientation
+T52	Protein 1291 1301	homologues
+T53	Protein 1307 1343	cAMP-dependent protein kinase (CAPK)
+T54	Protein_part 1378 1389	amino acids
+T55	Protein_part 1391 1399	Val66Ala
+T56	Protein_part 1401 1410	Met163Leu
+T57	Protein 1415 1432	hsCK2alpha(1-335)
+T58	Unknown 1436 1448	C-terminally
+T59	Unknown 1459 1466	variant
+T60	Category 1470 1480	hsCK2alpha
+T61	Category 1486 1497	cosubstrate
+T62	Process 1534 1543	direction
+T63	Chemical 1580 1583	ATP
+T64	Unknown 1587 1596	structure
+T65	Molecule 1618 1624	mutant
+T66	Category 1628 1635	complex
+T67	Unknown 1644 1656	ATP-analogue
+T68	Process 1681 1687	change
+T69	Chemical 1696 1707	purine base
+T70	Process 1708 1715	binding
+T71	Process 1722 1733	orientation
+T72	Process 1778 1789	consequence
+T73	Process 1797 1808	mutagenesis
+T74	Protein_part 1823 1843	helix alpha D region
+T75	Chemical 1889 1892	ATP
+T76	Protein_part 1901 1905	site
+T77	State 1921 1933	conformation
+T78	Protein 1958 1962	CAPK
+T79	Process 1987 1994	binding
+T80	Chemical 1998 2001	GTP
+T81	Protein 2035 2043	CK2alpha
+T82	Process 2079 2090	adaptations
+T83	Parameter 2155 2163	property

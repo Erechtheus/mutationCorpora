@@ -1,0 +1,89 @@
+T1	Protein_part 0 7	Subsite
+T2	Process 8 15	binding
+T3	Protein 22 27	RNase
+T4	Unknown 29 38	structure
+T5	Chemical 44 67	barnase-tetranucleotide
+T6	Category 68 75	complex
+T7	Value 79 85	1.76-A
+T8	Parameter 86 96	resolution
+T9	Protein_part 107 115	subsites
+T10	Protein 119 126	barnase
+T11	Parameter 150 157	kinetic
+T12	Category 178 187	substrate
+T13	Unknown 188 194	analog
+T14	Chemical 200 220	tetradeoxynucleotide
+T15	Chemical 222 226	CGAC
+T16	Geometrical_part 283 300	crystal structure
+T17	Category 308 315	complex
+T18	Protein 321 328	barnase
+T19	Value 332 338	1.76-A
+T20	Parameter 339 349	resolution
+T21	Unknown 355 364	structure
+T22	Process 379 400	molecular replacement
+T23	Protein 422 429	barnase
+T24	Technique 447 463	crystallographic
+T25	Parameter 464 472	R factor
+T26	Value 476 481	19.0%
+T27	Technique 487 500	stoichiometry
+T28	Category 524 539	dimeric complex
+T29	Unknown 543 561	[barnase:d(CGAC)]2
+T30	Value 569 575	2-fold
+T31	Geometrical_part 596 604	symmetry
+T32	Protein 611 627	barnase molecule
+T33	Chemical 638 653	oligonucleotide
+T34	Protein_part 666 682	recognition site
+T35	Chemical 698 705	guanine
+T36	Chemical 721 730	phosphate
+T37	Molecular_Part 731 737	groups
+T38	Chemical 745 755	nucleotide
+T39	Process 775 787	interactions
+T40	Protein_part 793 807	basic residues
+T41	Protein_part 838 844	region
+T42	Protein_part 866 877	active site
+T43	Protein_part 883 902	active-site His 102
+T44	Chemical 921 933	adenine base
+T45	Chemical 941 951	nucleotide
+T46	Chemical 989 1001	guanine base
+T47	Unknown 1009 1023	barnase-d(GpC)
+T48	Category 1024 1031	complex
+T49	Protein_part 1056 1063	subsite
+T50	Unknown 1071 1080	Michaelis
+T51	Category 1081 1088	complex
+T52	Protein 1102 1109	protein
+T53	Geometrical_part 1110 1119	structure
+T54	Category 1148 1155	complex
+T55	Unknown 1161 1168	d(CGAC)
+T56	Process 1190 1201	differences
+T57	Protein_part 1209 1220	active site
+T58	Unknown 1228 1235	crystal
+T59	Process 1236 1243	packing
+T60	Protein_part 1244 1251	regions
+T61	Protein 1257 1264	protein
+T62	Technique 1308 1320	calculations
+T63	Physiology 1332 1340	disorder
+T64	Unknown 1379 1387	crystals
+T65	Protein 1400 1406	enzyme
+T66	Unknown 1425 1433	crystals
+T67	Category 1441 1448	complex
+T68	Protein 1471 1476	dimer
+T69	Chemical 1492 1519	His 102-adenine-adenine-His
+T70	Geometrical_part 1537 1541	ring
+T71	Geometrical_part 1564 1575	2-fold axis
+T72	Chemical 1594 1609	adenine-adenine
+T73	Body_part 1639 1643	face
+T74	Chemical 1649 1672	3'-cytosine-3'-cytosine
+T75	Process 1673 1684	interaction
+T76	State 1715 1727	conformation
+T77	Process 1744 1754	separation
+T78	Protein_part 1762 1767	bases
+T79	Chemical 1776 1790	hydrogen bonds
+T80	Process 1805 1816	arrangement
+T81	Process 1842 1853	interaction
+T82	Category 1865 1880	dimeric complex
+T83	Protein 1908 1923	protein-protein
+T84	Process 1924 1936	interactions
+T85	Geometrical_part 1948 1957	structure
+T86	Category 1965 1972	complex
+T87	Protein 2031 2037	enzyme
+T88	State 2070 2075	state
+T89	Category 2076 2085	complexes

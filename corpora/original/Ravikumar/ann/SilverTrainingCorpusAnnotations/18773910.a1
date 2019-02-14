@@ -1,0 +1,93 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 39	selenophosphate synthetase
+T3	Chemical 54 62	selenium
+T4	Process 63 76	incorporation
+T5	Protein 82 90	proteins
+T6	Protein 95 99	RNAs
+T7	Protein 101 133	Selenophosphate synthetase (SPS)
+T8	Process 148 158	activation
+T9	Chemical 162 170	selenide
+T10	Chemical 176 207	adenosine 5'-triphosphate (ATP)
+T11	Chemical 220 235	selenophosphate
+T12	Chemical 251 268	reactive selenium
+T13	Category 269 274	donor
+T14	Process 283 292	formation
+T15	Protein_part 296 316	selenocysteine (Sec)
+T16	Protein_part 321 345	2-selenouridine residues
+T17	Protein 349 357	proteins
+T18	Protein 362 366	RNAs
+T19	Protein 387 390	SPS
+T20	Protein_part 406 409	Sec
+T21	Protein 421 429	proteins
+T22	Protein_part 440 443	Sec
+T23	Protein_part 453 456	Cys
+T24	Protein_part 498 505	Sec/Cys
+T25	Geometrical_part 522 540	crystal structures
+T26	Organism 544 564	Aquifex aeolicus SPS
+T27	Category 573 580	complex
+T28	Chemical 586 595	adenosine
+T29	Unknown 596 605	5'-(alpha
+T30	Chemical 606 634	beta-methylene) triphosphate
+T31	Chemical 636 642	AMPCPP
+T32	Chemical 649 652	ATP
+T33	Protein_part 661 665	site
+T34	Protein 683 690	subunit
+T35	Protein 708 717	homodimer
+T36	Protein_part 724 736	Asp residues
+T37	Chemical 753 763	metal ions
+T38	Chemical 776 785	phosphate
+T39	Molecular_Part 786 792	groups
+T40	Chemical 796 802	AMPCPP
+T41	Protein 816 819	SPS
+T42	Geometrical_part 820 829	structure
+T43	Geometrical_part 839 843	loop
+T44	Protein_part 844 851	regions
+T45	Chemical 859 862	ATP
+T46	Protein_part 871 875	site
+T47	Protein 900 906	enzyme
+T48	Chemical 918 923	metal
+T49	Chemical 956 959	ATP
+T50	Process 960 967	binding
+T51	Chemical 969 974	metal
+T52	Process 975 982	binding
+T53	Process 992 1001	formation
+T54	Process 1011 1018	binding
+T55	Protein_part 1019 1024	sites
+T56	Protein_part 1061 1080	amino-acid residues
+T57	Protein 1101 1104	SPS
+T58	Parameter 1105 1113	activity
+T59	Molecule 1131 1138	mutants
+T60	Protein 1142 1145	SPS
+T61	Chemical 1165 1173	selenide
+T62	Chemical 1184 1187	ATP
+T63	Process 1188 1199	consumption
+T64	Technique 1201 1220	Mutational analyses
+T65	Protein_part 1235 1244	Sec/Cys13
+T66	Protein_part 1249 1254	Lys16
+T67	Protein 1273 1283	SPS.AMPCPP
+T68	Protein_part 1289 1304	N-terminal loop
+T69	Protein_part 1324 1332	residues
+T70	Process 1342 1351	different
+T71	State 1352 1365	conformations
+T72	Protein 1404 1412	subunits
+T73	Chemical 1418 1440	AMPCPP gamma-phosphate
+T74	Molecular_Part 1441 1446	group
+T75	Chemical 1450 1468	solvent-accessible
+T76	Chemical 1488 1508	putative nucleophile
+T77	Chemical 1526 1545	ATP gamma-phosphate
+T78	Molecular_Part 1546 1551	group
+T79	Chemical 1564 1579	selenophosphate
+T80	Chemical 1584 1614	adenosine 5'-diphosphate (ADP)
+T81	Chemical 1616 1624	Selenide
+T82	Protein_part 1637 1646	Sec/Cys13
+T83	Chemical 1650 1668	-Se-Se(-)/-S-Se(-)
+T84	Chemical 1688 1699	nucleophile
+T85	State 1716 1728	conformation
+T86	Chemical 1732 1746	water molecule
+T87	Chemical 1767 1781	beta-phosphate
+T88	Molecular_Part 1782 1787	group
+T89	Chemical 1811 1822	nucleophile
+T90	Chemical 1837 1840	ADP
+T91	Process 1841 1851	hydrolysis
+T92	Chemical 1855 1869	orthophosphate
+T93	Chemical 1874 1900	adenosine 5'-monophosphate

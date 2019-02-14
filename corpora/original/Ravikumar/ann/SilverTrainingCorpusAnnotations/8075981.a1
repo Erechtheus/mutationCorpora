@@ -1,0 +1,81 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 35	cyclophilin A
+T3	Protein 51 64	cyclosporin A
+T4	Protein 69 131	N-methyl-4-[(E)-2-butenyl]-4,4-dimethylthreonine cyclosporin A
+T5	Chemical 145 156	Cyclophilin
+T6	Chemical 158 161	CyP
+T7	Location 180 193	intracellular
+T8	Protein 194 201	protein
+T9	Protein 235 259	drug cyclosporin A (CsA)
+T10	Protein 261 268	CyP-CsA
+T11	Category 277 292	ternary complex
+T12	Protein 298 309	calcineurin
+T13	Body_part 331 337	T-cell
+T14	Process 338 348	activation
+T15	Unknown 350 353	CyP
+T16	Protein 363 372	enzymatic
+T17	Parameter 373 381	activity
+T18	Process 408 421	isomerization
+T19	Chemical 425 452	peptidyl-prolyl amide bonds
+T20	Unknown 487 496	structure
+T21	Organism 500 505	human
+T22	Protein 506 526	cyclophilin A (CyPA)
+T23	Protein 542 545	CsA
+T24	Value 549 554	2.1 A
+T25	Parameter 555 565	resolution
+T26	Geometrical_part 591 600	structure
+T27	Protein 604 608	CyPA
+T28	Unknown 627 633	analog
+T29	Protein 637 640	CsA
+T30	Protein 642 645	CsA
+T31	Protein 647 658	MeBm2t1-CsA
+T32	Protein 686 690	CyPA
+T33	Parameter 729 737	activity
+T34	Process 739 749	Comparison
+T35	Unknown 759 769	structures
+T36	Unknown 797 807	structures
+T37	Protein 821 825	CyPA
+T38	Protein 830 834	CyPA
+T39	Category 862 871	substrate
+T40	Protein 880 889	isomerase
+T41	Parameter 890 898	activity
+T42	Protein_part 904 920	dipeptide AlaPro
+T43	State 942 956	conformational
+T44	Process 957 964	changes
+T45	Protein 979 982	CsA
+T46	Protein 987 991	CyPA
+T47	Process 1003 1012	formation
+T48	Protein 1027 1038	MeBm2t1-CsA
+T49	Protein 1048 1052	CyPA
+T50	Protein 1089 1092	CsA
+T51	Value 1098 1106	100-fold
+T52	Parameter 1114 1122	affinity
+T53	Process 1130 1137	binding
+T54	Process 1171 1178	contact
+T55	Unknown 1187 1193	MeBmt1
+T56	Protein_part 1202 1228	active site residue Ala103
+T57	Protein 1232 1236	CyPA
+T58	State 1257 1271	conformational
+T59	Process 1272 1279	changes
+T60	Protein 1288 1295	protein
+T61	Chemical 1300 1304	drug
+T62	Process 1310 1316	change
+T63	Process 1329 1337	movement
+T64	Unknown 1341 1347	MeLeu6
+T65	Protein 1351 1354	CsA
+T66	Protein 1367 1378	MeBm2t1-CsA
+T67	Value 1426 1432	higher
+T68	Parameter 1433 1441	affinity
+T69	Protein 1449 1465	CyPA-MeBm2t1-CsA
+T70	Category 1466 1473	complex
+T71	Protein 1478 1489	calcineurin
+T72	Process 1495 1505	comparison
+T73	Protein 1514 1522	CyPA-CsA
+T74	Protein 1527 1538	CyPA-AlaPro
+T75	Protein 1553 1556	CsA
+T76	Unknown 1576 1582	analog
+T77	Category 1598 1607	substrate
+T78	Parameter 1639 1647	activity
+T79	Protein 1651 1655	CyPA
+T80	Process 1678 1682	role
+T81	Process 1686 1703	immunosuppression

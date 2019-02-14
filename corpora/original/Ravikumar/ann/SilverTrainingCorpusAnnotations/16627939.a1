@@ -1,0 +1,47 @@
+T1	Unknown 0 9	Structure
+T2	Protein_part 13 18	T4moC
+T3	Protein 24 46	Rieske-type ferredoxin
+T4	Protein_part 47 56	component
+T5	Protein 60 83	toluene 4-monooxygenase
+T6	Geometrical_part 89 98	structure
+T7	Protein 106 136	Rieske-type ferredoxin (T4moC)
+T8	Protein 142 165	toluene 4-monooxygenase
+T9	Technique 185 206	X-ray crystallography
+T10	Unknown 214 226	[2Fe-2S](2+)
+T11	State 227 232	state
+T12	Parameter 238 248	resolution
+T13	Value 252 258	1.48 A
+T14	Process 293 303	dispersion
+T15	Unknown 322 328	2Fe-2S
+T16	Unknown 343 352	structure
+T17	Protein_part 369 381	beta-strands
+T18	Geometrical_part 406 418	antiparallel
+T19	Protein_part 419 429	beta-sheet
+T20	Protein 455 470	Rieske proteins
+T21	Protein_part 472 477	Trp69
+T22	Protein 481 486	T4moC
+T23	Location 491 499	adjacent
+T24	Unknown 508 514	2Fe-2S
+T25	Geometrical_part 542 546	loop
+T26	Protein_part 572 577	Pro81
+T27	Value 581 598	approximately 8 A
+T28	Unknown 614 620	2Fe-2S
+T29	Protein_part 648 651	Pro
+T30	Geometrical_part 652 656	loop
+T31	Protein 698 705	homolog
+T32	Protein 711 738	Rieske-type ferredoxin BphF
+T33	Protein 744 764	biphenyl dioxygenase
+T34	Protein 779 784	T4moC
+T35	Chemical 799 813	hydrogen bonds
+T36	Unknown 822 828	2Fe-2S
+T37	Chemical 858 872	hydrogen bonds
+T38	Protein 876 880	BphF
+T39	Geometrical_part 910 917	surface
+T40	Protein 921 926	T4moC
+T41	Protein 952 956	BphF
+T42	Process 975 986	differences
+T43	Process 1047 1061	specialization
+T44	Protein 1065 1096	soluble Rieske-type ferredoxins
+T45	Protein 1116 1130	monooxygenases
+T46	Chemical 1135 1150	cis-dihydrodiol
+T47	Protein 1159 1171	dioxygenases

@@ -1,0 +1,82 @@
+T1	Protein_part 14 24	asparagine
+T2	Protein_part 32 41	HNH motif
+T3	Process 73 77	role
+T4	Chemical 82 87	metal
+T5	Body_part 88 94	finger
+T6	Protein 95 108	endonucleases
+T7	Protein_part 114 123	HNH motif
+T8	Chemical 135 147	nucleic acid
+T9	Process 148 155	binding
+T10	Process 160 168	cleavage
+T11	Chemical 192 197	metal
+T12	Body_part 198 204	finger
+T13	Protein 205 218	endonucleases
+T14	Protein 272 284	endonuclease
+T15	Protein_part 290 324	nuclease domain of ColE7 (N-ColE7)
+T16	Process 342 346	role
+T17	Protein_part 364 374	asparagine
+T18	Protein_part 379 397	histidine residues
+T19	Protein_part 405 414	HNH motif
+T20	Process 432 477	fluorescence resonance energy transfer (FRET)
+T21	Technique 478 484	assays
+T22	Molecule 495 498	DNA
+T23	Process 499 509	hydrolysis
+T24	Parameter 510 518	activity
+T25	Protein_part 522 534	H545 N-ColE7
+T26	Molecule 535 542	mutants
+T27	Parameter 574 584	activities
+T28	Protein_part 588 592	N560
+T29	Molecule 597 601	H573
+T30	Molecule 602 609	mutants
+T31	Value 622 626	6.9%
+T32	Value 630 635	83.2%
+T33	Parameter 643 661	wild-type activity
+T34	Geometrical_part 667 685	crystal structures
+T35	Protein_part 695 702	N-ColE7
+T36	Molecule 703 710	mutants
+T37	Category 714 721	complex
+T38	Category 731 740	inhibitor
+T39	Unknown 741 744	Im7
+T40	Unknown 746 755	N560A-Im7
+T41	Unknown 757 766	N560D-Im7
+T42	Unknown 771 780	H573A-Im7
+T43	Parameter 803 813	resolution
+T44	Value 817 822	1.9 A
+T45	Value 826 831	2.2 A
+T46	Molecule 833 837	H573
+T47	Chemical 857 866	metal ion
+T48	Process 867 874	binding
+T49	Protein 882 899	wild-type protein
+T50	Chemical 908 916	zinc ion
+T51	Geometrical_part 954 963	structure
+T52	Protein 967 972	H573A
+T53	Molecule 990 994	H573
+T54	Process 1014 1018	role
+T55	Chemical 1022 1027	metal
+T56	Process 1028 1035	binding
+T57	Protein_part 1042 1047	N560A
+T58	Protein_part 1052 1057	N560D
+T59	Geometrical_part 1079 1083	loop
+T60	Protein_part 1091 1100	HNH motif
+T61	Process 1112 1122	disruption
+T62	Chemical 1130 1143	hydrogen bond
+T63	Physiology 1144 1151	network
+T64	Protein_part 1168 1178	side-chain
+T65	Protein_part 1182 1193	residue 560
+T66	Chemical 1216 1230	imidazole ring
+T67	Protein_part 1246 1258	base residue
+T68	Protein 1259 1263	H545
+T69	Chemical 1300 1309	phosphate
+T70	Process 1343 1353	reductions
+T71	Process 1357 1367	hydrolysis
+T72	Parameter 1368 1378	activities
+T73	Protein_part 1428 1438	asparagine
+T74	Protein_part 1446 1455	HNH motif
+T75	Process 1488 1492	role
+T76	Geometrical_part 1513 1517	loop
+T77	Chemical 1525 1530	metal
+T78	Body_part 1531 1547	finger structure
+T79	Protein_part 1572 1586	base histidine
+T80	Chemical 1600 1609	phosphate
+T81	Molecule 1638 1641	DNA
+T82	Process 1642 1652	hydrolysis

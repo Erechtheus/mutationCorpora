@@ -1,0 +1,60 @@
+T1	Process 11 19	coupling
+T2	Protein 28 34	FKBP12
+T3	Chemical 46 51	water
+T4	Protein 62 70	proteins
+T5	Location 112 120	internal
+T6	Chemical 121 136	water molecules
+T7	Chemical 229 234	water
+T8	Chemical 236 240	Wat3
+T9	Process 253 257	role
+T10	Geometrical_part 276 285	structure
+T11	Protein 293 326	FK506 binding protein-12 (FKBP12)
+T12	Protein 337 342	Saven
+T13	Protein 344 357	Proteins 2005
+T14	Process 387 398	simulations
+T15	Chemical 427 440	hydrogen bond
+T16	Unknown 444 448	Wat3
+T17	Protein_part 461 464	E60
+T18	Unknown 480 481	Q
+T19	Process 507 519	perturbation
+T20	Protein_part 542 556	W59 side chain
+T21	State 581 593	conformation
+T22	Process 597 605	response
+T23	Process 613 621	mutation
+T24	Category 653 659	ligand
+T25	Geometrical_part 668 674	pocket
+T26	Protein_part 683 693	side chain
+T27	State 705 717	conformation
+T28	Chemical 748 753	FK506
+T29	Protein 775 782	protein
+T30	Geometrical_part 783 792	structure
+T31	Process 799 805	effect
+T32	Process 823 830	binding
+T33	Chemical 843 848	water
+T34	Parameter 856 864	distance
+T35	Value 897 908	0.92-1.29 A
+T36	Geometrical_part 910 920	structures
+T37	Protein 924 940	wild-type FKBP12
+T38	Molecule 953 960	mutants
+T39	Protein_part 962 966	E60A
+T40	Protein_part 968 972	E60Q
+T41	Technique 977 998	X-ray crystallography
+T42	Geometrical_part 1004 1014	structures
+T43	Protein 1018 1031	mutant FKBP12
+T44	Category 1046 1052	ligand
+T45	Geometrical_part 1061 1067	pocket
+T46	Process 1108 1120	substitution
+T47	Location 1124 1135	position 60
+T48	Chemical 1154 1168	water molecule
+T49	Protein_part 1212 1223	amino acids
+T50	Process 1232 1239	binding
+T51	Geometrical_part 1240 1246	pocket
+T52	Unknown 1260 1270	structures
+T53	Chemical 1300 1316	water  molecules
+T54	Protein_part 1353 1362	component
+T55	Protein 1370 1377	protein
+T56	Geometrical_part 1378 1387	structure
+T57	Process 1443 1454	predictions
+T58	Process 1480 1491	simulations
+T59	Chemical 1589 1602	protein-water
+T60	Process 1603 1615	interactions

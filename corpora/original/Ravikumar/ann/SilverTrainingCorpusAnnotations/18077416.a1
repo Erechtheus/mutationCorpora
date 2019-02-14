@@ -1,0 +1,49 @@
+T1	Chemical 18 35	aspartylphosphate
+T2	Process 58 64	gating
+T3	Chemical 72 75	ion
+T4	Process 76 83	pathway
+T5	Protein 91 103	calcium pump
+T6	Protein 105 118	Ca(2+)-ATPase
+T7	Body_part 122 160	skeletal muscle sarcoplasmic reticulum
+T8	Unknown 181 187	member
+T9	Unknown 195 201	P-type
+T10	Unknown 205 210	E1/E2
+T11	Chemical 216 219	ion
+T12	Protein 233 240	ATPases
+T13	Process 276 285	different
+T14	State 286 292	states
+T15	Process 322 330	reaction
+T16	Unknown 359 368	structure
+T17	Protein 377 383	ATPase
+T18	Unknown 399 426	phosphate analogs BeF(3)(-)
+T19	Unknown 431 440	AlF(4)(-)
+T20	Process 448 455	absence
+T21	Chemical 459 465	Ca(2+)
+T22	State 491 494	E2P
+T23	State 495 507	ground state
+T24	State 512 514	E2
+T25	State 529 530	P
+T26	State 531 547	transition state
+T27	Chemical 567 574	luminal
+T28	Unknown 593 602	BeF(3)(-)
+T29	Unknown 619 628	AlF(4)(-)
+T30	Protein_part 644 646	E1
+T31	Chemical 661 673	P.ADP analog
+T32	Geometrical_part 674 692	crystal structures
+T33	Process 714 722	rotation
+T34	Protein_part 730 750	cytoplasmic A-domain
+T35	Chemical 772 779	luminal
+T36	Process 797 806	movements
+T37	Body_part 815 834	M1-M4 transmembrane
+T38	Protein_part 835 842	helices
+T39	State 862 876	conformational
+T40	Process 901 909	rotation
+T41	Location 930 941	cytoplasmic
+T42	Geometrical_part 942 946	part
+T43	Protein 950 952	M2
+T44	Process 966 976	importance
+T45	Process 1000 1008	rotation
+T46	Chemical 1029 1043	water molecule
+T47	Process 1056 1066	hydrolysis
+T48	Chemical 1070 1087	aspartylphosphate
+T49	Process 1091 1098	closing

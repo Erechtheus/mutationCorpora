@@ -1,0 +1,12 @@
+The gene for the regulatory subunit RII alpha of cAMP-dependent protein kinase is highly regulated during spermatogenesis and a strong signal from a distinct short mRNA form is observed postmeiotically during spermatid elongation . 
+This report presents the isolation and characterization of the 5'-flanking region (1.2 kb) and exon 1 of the human RII alpha gene . 
+S1 nuclease mapping and primer extension experiments revealed the presence of a major transcriptional start site located 208 nucleotides upstream of start for translation . 
+The 5'-flanking region of the RII alpha gene did not contain a TATA box and was highly G/C-rich . 
+A basal promoter directing high levels of chloramphenicol acetyl transferase (CAT) activity was identified in the 5'-flanking sequence . 
+Several potential binding sites for transcription factors were identified in this region, which may be responsible for the germ cell-specific regulation of this gene . 
+We have previously reported that the human testis RII alpha cDNA contains a region (amino acids 45-75) with little or no homology to the corresponding rat skeletal muscle cDNA (Oyen, O., Myklebust, F., Scott, J.D., Cadd, G.G., McKnight, G.S., Hansson, V. and Jahnsen, T . 
+(1990) Biol . 
+Reprod . 
+43, 46-54) . 
+We examined whether this difference could arise due to organ-specific splice mechanisms or represented a species difference . 
+We show that the low homology region of the human RII alpha cDNA resides entirely within exon 1, and does not originate from a tissue-specific alternate splicing of this distinct region . 

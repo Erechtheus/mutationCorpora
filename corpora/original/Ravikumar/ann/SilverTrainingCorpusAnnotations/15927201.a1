@@ -1,0 +1,52 @@
+T1	Parameter 5 15	resolution
+T2	Molecule 38 45	mutants
+T3	Process 68 77	catalysis
+T4	Molecule 82 90	electron
+T5	Process 91 99	transfer
+T6	Process 100 109	processes
+T7	Protein 113 137	copper nitrite reductase
+T8	Geometrical_part 166 184	crystal structures
+T9	Technique 200 208	analysis
+T10	Unknown 212 216	T1Cu
+T11	Molecule 224 231	mutants
+T12	Protein 235 252	nitrite reductase
+T13	Parameter 270 285	redox potential
+T14	Protein_part 294 307	Cys130-His129
+T15	Molecule 342 350	electron
+T16	Process 351 359	transfer
+T17	Unknown 377 381	T2Cu
+T18	Process 416 423	insight
+T19	Parameter 433 441	activity
+T20	Process 476 488	manipulation
+T21	Molecule 496 504	electron
+T22	Unknown 522 526	T1Cu
+T23	Process 533 543	alteration
+T24	Protein_part 547 550	Cys
+T25	Protein_part 554 557	Ala
+T26	Process 569 573	loss
+T27	Protein 577 581	T1Cu
+T28	Protein 586 592	enzyme
+T29	Process 593 605	inactivation
+T30	Chemical 611 617	azurin
+T31	Molecule 621 629	electron
+T32	Category 630 635	donor
+T33	Protein 648 661	mutant enzyme
+T34	Chemical 677 684	nitrite
+T35	Parameter 693 701	capacity
+T36	Process 753 761	transfer
+T37	Molecule 765 774	electrons
+T38	Chemical 787 793	azurin
+T39	Chemical 818 820	Cu
+T40	Process 833 841	mutation
+T41	Location 849 854	axial
+T42	Category 855 861	ligand
+T43	Protein_part 862 868	Met144
+T44	Protein_part 872 875	Leu
+T45	Parameter 895 910	redox potential
+T46	Parameter 925 933	activity
+T47	Parameter 957 961	rate
+T48	Process 982 991	catalysis
+T49	Molecule 1014 1022	electron
+T50	Process 1023 1031	transfer
+T51	Chemical 1037 1043	azurin
+T52	Protein 1047 1064	nitrite reductase

@@ -1,0 +1,68 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Value 21 24	1.1
+T3	Unknown 25 34	Angstroms
+T4	Parameter 35 45	resolution
+T5	Organism 52 58	insect
+T6	Protein 59 69	myrosinase
+T7	Organism 75 96	Brevicoryne brassicae
+T8	Parameter 113 125	relationship
+T9	Protein 129 146	beta-glucosidases
+T10	Organism 158 179	Brevicoryne brassicae
+T11	Organism 207 226	Brassicaceae plants
+T12	Organism 232 238	insect
+T13	Process 256 263	defence
+T14	Unknown 264 270	system
+T15	Protein 283 305	beta-D-thioglucosidase
+T16	Protein 307 317	myrosinase
+T17	Organism 371 381	host plant
+T18	Chemical 397 412	isothiocyanates
+T19	Chemical 420 435	isothiocyanates
+T20	Chemical 465 474	pheromone
+T21	Unknown 475 491	E-beta-farnesene
+T22	Unknown 509 515	system
+T23	Protein 572 581	enzymatic
+T24	Protein 611 621	myrosinase
+T25	Geometrical_part 630 657	three-dimensional structure
+T26	Protein 703 713	myrosinase
+T27	Unknown 733 743	Echerichia
+T28	Protein 766 772	enzyme
+T29	Parameter 800 810	properties
+T30	Protein 825 831	enzyme
+T31	Unknown 844 853	structure
+T32	Organism 873 880	Sinapis
+T33	Protein 881 896	alba myrosinase
+T34	Organism 901 906	plant
+T35	Protein 907 926	beta-O-glucosidases
+T36	Organism 928 933	Aphid
+T37	Protein 934 944	myrosinase
+T38	Protein_part 963 985	glutamic acid residues
+T39	Organism 1003 1008	plant
+T40	Protein 1009 1028	beta-O-glucosidases
+T41	Protein 1069 1075	enzyme
+T42	Category 1114 1124	substrates
+T43	Organism 1128 1133	plant
+T44	Protein 1134 1145	myrosinases
+T45	Organism 1183 1188	plant
+T46	Protein 1189 1208	beta-O-glucosidases
+T47	Protein_part 1219 1226	residue
+T48	Protein 1246 1256	myrosinase
+T49	Protein_part 1277 1295	glycosidic linkage
+T50	Protein_part 1299 1305	Tyr180
+T51	Process 1333 1337	role
+T52	Chemical 1343 1350	aglycon
+T53	Process 1351 1358	binding
+T54	Protein_part 1359 1363	site
+T55	Organism 1386 1391	plant
+T56	Protein 1392 1402	myrosinase
+T57	Process 1424 1432	presence
+T58	Protein_part 1436 1442	Trp424
+T59	Chemical 1450 1457	glucose
+T60	Process 1458 1465	binding
+T61	Protein_part 1466 1470	site
+T62	Geometrical_part 1477 1481	part
+T63	Protein_part 1489 1500	active site
+T64	Organism 1520 1525	plant
+T65	Protein 1526 1545	beta-O-glucosidases
+T66	Organism 1550 1555	plant
+T67	Protein 1556 1567	myrosinases
+T68	Protein_part 1576 1597	phenylalanine residue

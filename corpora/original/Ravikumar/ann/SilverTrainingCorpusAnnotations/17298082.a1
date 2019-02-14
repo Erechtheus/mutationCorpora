@@ -1,0 +1,96 @@
+T1	Protein 0 14	N5-CAIR mutase
+T2	Process 16 20	role
+T3	Molecule 26 29	CO2
+T4	Process 30 37	binding
+T5	Protein_part 38 42	site
+T6	Category 47 56	substrate
+T7	Process 57 65	movement
+T8	Process 69 78	catalysis
+T9	Protein 80 126	N5-Carboxyaminoimidazole ribonucleotide mutase
+T10	Protein 128 142	N5-CAIR mutase
+T11	Molecule 146 150	PurE
+T12	Organism 157 173	Escherichia coli
+T13	Process 199 214	interconversion
+T14	Chemical 218 225	N5-CAIR
+T15	Chemical 229 272	carboxyaminoimidazole ribonucleotide (CAIR)
+T16	Molecule 285 288	CO2
+T17	Process 289 297	transfer
+T18	Technique 299 324	Site-directed mutagenesis
+T19	Parameter 328 335	pH-rate
+T20	Technique 345 361	DFT calculations
+T21	Technique 367 388	X-ray crystallography
+T22	Process 410 417	insight
+T23	Process 427 436	mechanism
+T24	Process 453 467	transformation
+T25	Protein_part 520 529	histidine
+T26	Protein_part 531 536	His45
+T27	Process 557 561	role
+T28	Process 565 574	catalysis
+T29	Process 580 590	importance
+T30	Molecule 594 600	proton
+T31	Process 601 610	transfers
+T32	Technique 628 644	DFT calculations
+T33	Chemical 648 652	CAIR
+T34	Chemical 657 674	N5-CAIR analogues
+T35	Chemical 688 707	ribose 5'-phosphate
+T36	Chemical 727 733	methyl
+T37	Molecular_Part 734 739	group
+T38	Technique 745 757	calculations
+T39	Protein 787 795	tautomer
+T40	Chemical 799 803	CAIR
+T41	Chemical 805 812	isoCAIR
+T42	Value 822 834	3.1 kcal/mol
+T43	Parameter 845 851	energy
+T44	Organism 900 907	species
+T45	Molecule 923 935	intermediate
+T46	Molecule 943 947	PurE
+T47	Process 958 966	reaction
+T48	Unknown 970 979	structure
+T49	Unknown 983 997	wild-type PurE
+T50	Chemical 1018 1054	4-nitroaminoimidazole ribonucleotide
+T51	Chemical 1056 1063	NO2-AIR
+T52	Chemical 1067 1080	CAIR analogue
+T53	Unknown 1086 1096	structures
+T54	Protein_part 1100 1104	H45N
+T55	Unknown 1109 1119	H45Q PurEs
+T56	Chemical 1132 1136	CAIR
+T57	Process 1180 1187	insight
+T58	Process 1197 1204	binding
+T59	Molecule 1218 1222	PurE
+T60	Category 1223 1232	substrate
+T61	Process 1236 1246	comparison
+T62	Unknown 1263 1273	structures
+T63	Molecule 1277 1281	PurE
+T64	Molecule 1286 1290	PurE
+T65	Molecule 1291 1298	mutants
+T66	Chemical 1310 1320	nucleotide
+T67	Chemical 1358 1369	carboxylate
+T68	Molecule 1373 1376	CO2
+T69	Process 1377 1384	binding
+T70	Protein_part 1385 1389	site
+T71	Chemical 1394 1398	CAIR
+T72	Chemical 1403 1410	N5-CAIR
+T73	Geometrical_part 1428 1434	pocket
+T74	Chemical 1448 1459	carboxylate
+T75	Molecule 1463 1466	CO2
+T76	Chemical 1491 1497	amides
+T77	Chemical 1556 1567	carboxylate
+T78	Category 1580 1589	substrate
+T79	Molecule 1594 1600	proton
+T80	Process 1601 1609	transfer
+T81	Protein_part 1615 1620	His45
+T82	Chemical 1624 1631	N5-CAIR
+T83	Protein 1643 1649	enzyme
+T84	Chemical 1656 1691	aminoimidazole ribonucleotide (AIR)
+T85	Molecule 1696 1712	CO2 intermediate
+T86	Process 1725 1733	movement
+T87	Chemical 1741 1755	aminoimidazole
+T88	Molecular_Part 1756 1762	moiety
+T89	Chemical 1766 1769	AIR
+T90	Process 1787 1795	addition
+T91	Molecule 1799 1802	CO2
+T92	Molecule 1806 1808	C4
+T93	Chemical 1821 1828	isoCAIR
+T94	Protein_part 1830 1835	His45
+T95	Molecule 1869 1878	C4 proton
+T96	Chemical 1890 1894	CAIR

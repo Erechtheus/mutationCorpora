@@ -1,0 +1,62 @@
+T1	Process 0 7	Binding
+T2	Chemical 11 22	cephalothin
+T3	Chemical 27 37	cefotaxime
+T4	Protein 41 62	D-ala-D-ala-peptidase
+T5	Process 84 89	basis
+T6	Process 103 111	mutation
+T7	Chemical 130 140	penicillin
+T8	Protein 149 156	protein
+T9	Protein 182 197	beta-lactamases
+T10	Chemical 224 247	beta-lactam antibiotics
+T11	Chemical 249 260	cephalothin
+T12	Chemical 265 275	cefotaxime
+T13	Technique 299 320	X-ray crystallography
+T14	Protein_part 343 348	Ser62
+T15	Protein 356 406	D-alanyl-D-alanine carboxypeptidase/transpeptidase
+T16	Organism 410 422	Streptomyces
+T17	Protein_part 427 430	R61
+T18	Process 432 442	Refinement
+T19	Geometrical_part 454 472	crystal structures
+T20	Parameter 482 491	R factors
+T21	Parameter 496 503	3 sigma
+T22	Value 517 522	0.166
+T23	Value 527 532	1.8 A
+T24	Value 538 543	0.170
+T25	Value 548 553	2.0 A
+T26	Chemical 563 574	cephalothin
+T27	Chemical 579 589	cefotaxime
+T28	Category 590 599	complexes
+T29	Category 623 630	complex
+T30	Chemical 634 648	water molecule
+T31	Value 659 662	3.1
+T32	Value 667 673	3.6  A
+T33	Chemical 681 722	acylated beta-lactam carbonyl carbon atom
+T34	Protein_part 751 771	active site residues
+T35	Process 800 811	deacylation
+T36	Process 827 831	lack
+T37	Process 868 878	hydrolysis
+T38	Chemical 920 933	cephalosporin
+T39	Molecule 934 947	intermediates
+T40	Chemical 951 959	solution
+T41	Value 961 968	20-40 h
+T42	Process 978 986	efficacy
+T43	Chemical 997 1009	beta-lactams
+T44	Category 1013 1023	inhibitors
+T45	Organism 1027 1036	bacterial
+T46	Body_part 1037 1046	cell wall
+T47	Process 1047 1056	synthesis
+T48	Process 1058 1067	Different
+T49	Chemical 1068 1076	hydrogen
+T50	Process 1077 1084	binding
+T51	Chemical 1105 1119	cephalosporins
+T52	Protein_part 1123 1129	Thr301
+T53	Chemical 1158 1168	cefotaxime
+T54	Parameter 1169 1177	affinity
+T55	Chemical 1192 1202	penicillin
+T56	Protein 1211 1218	protein
+T57	Protein 1220 1226	PBP-2x
+T58	Chemical 1240 1250	cefotaxime
+T59	Organism 1261 1268	strains
+T60	Organism 1272 1296	Streptococcus pneumoniae
+T61	Protein 1322 1352	mutant class A beta-lactamases
+T62	Chemical 1383 1397	cephalosporins

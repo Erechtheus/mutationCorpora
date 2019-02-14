@@ -1,0 +1,61 @@
+T1	Process 11 27	characterization
+T2	Protein 46 59	proteins TenA
+T3	Protein 64 68	TenI
+T4	Organism 74 91	Bacillus subtilis
+T5	Process 96 110	identification
+T6	Protein 114 118	TenA
+T7	Protein 124 137	thiaminase II
+T8	Organism 139 156	Bacillus subtilis
+T9	Protein 157 161	gene
+T10	Category 162 170	products
+T11	Protein 171 175	TenA
+T12	Protein 180 184	TenI
+T13	Process 225 235	production
+T14	Location 239 252	extracellular
+T15	Protein 253 262	proteases
+T16	Process 274 278	role
+T17	Process 286 296	regulation
+T18	Process 297 304	process
+T19	Process 337 353	characterization
+T20	Protein 363 371	proteins
+T21	Process 403 410	insight
+T22	Process 422 430	function
+T23	Geometrical_part 455 464	structure
+T24	Protein 468 472	TenA
+T25	Category 486 493	complex
+T26	Chemical 499 541	4-amino-2-methyl-5-hydroxymethylpyrimidine
+T27	Protein 567 571	TenA
+T28	Protein 577 590	thiaminase II
+T29	Protein 596 600	TenA
+T30	Geometrical_part 601 610	structure
+T31	Process 629 640	degradation
+T32	Chemical 644 651	thiamin
+T33	Protein 655 659	TenA
+T34	Process 689 697	addition
+T35	Process 710 719	mechanism
+T36	Protein 734 746	thiaminase I
+T37	Protein_part 754 774	active-site residues
+T38	Protein_part 776 781	Asp44
+T39	Protein_part 783 789	Cys135
+T40	Protein_part 795 801	Glu205
+T41	Category 826 835	substrate
+T42	Process 836 843	binding
+T43	Process 848 857	catalysis
+T44	Geometrical_part 894 903	structure
+T45	Process 912 924	conservation
+T46	Protein_part 934 942	residues
+T47	Protein_part 950 964	TenA sequences
+T48	Geometrical_part 994 1003	structure
+T49	Protein 1007 1011	TenI
+T50	Protein 1022 1026	TenI
+T51	Protein 1068 1094	thiamin phosphate synthase
+T52	Process 1112 1130	enzymatic function
+T53	Unknown 1136 1145	structure
+T54	Protein 1160 1164	TenI
+T55	Chemical 1183 1200	thiamin phosphate
+T56	Process 1229 1237	presence
+T57	Protein_part 1241 1248	leucine
+T58	Location 1252 1264	position 119
+T59	Protein_part 1290 1297	residue
+T60	Protein 1301 1327	thiamin phosphate synthase
+T61	Chemical 1331 1338	glycine

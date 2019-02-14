@@ -1,0 +1,80 @@
+T1	Process 14 19	basis
+T2	Process 24 34	inhibition
+T3	Protein 38 42	BphD
+T4	Protein 46 64	C-C bond hydrolase
+T5	Chemical 77 102	polychlorinated biphenyls
+T6	Process 103 114	degradation
+T7	Unknown 122 136	3-substituents
+T8	Process 145 160	tautomerization
+T9	Organism 166 175	microbial
+T10	Process 176 187	degradation
+T11	Chemical 191 223	polychlorinated biphenyls (PCBs)
+T12	Chemical 231 239	biphenyl
+T13	Physiology 240 249	catabolic
+T14	Process 256 263	pathway
+T15	Process 290 299	pathway's
+T16	Protein 307 313	enzyme
+T17	Protein 315 319	BphD
+T18	Protein 322 326	BphD
+T19	Chemical 348 366	carbon-carbon bond
+T20	Process 367 377	hydrolysis
+T21	Chemical 381 434	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid (HOPDA)
+T22	Category 449 458	substrate
+T23	Protein_part 474 483	histidine
+T24	Chemical 493 502	enol-keto
+T25	Process 503 518	tautomerization
+T26	Process 528 538	hydrolysis
+T27	Chemical 540 558	Chlorinated HOPDAs
+T28	Chemical 567 577	3-Cl HOPDA
+T29	Protein 586 590	BphD
+T30	Protein 612 616	BphD
+T31	Chemical 669 675	HOPDAs
+T32	Unknown 689 695	H>F>Cl
+T33	Unknown 696 698	Me
+T34	Process 716 725	catalysis
+T35	Geometrical_part 741 747	steric
+T36	State 789 794	state
+T37	Parameter 795 802	kinetic
+T38	Unknown 827 841	wild-type BphD
+T39	Process 851 861	hydrolysis
+T40	Unknown 872 885	S112A variant
+T41	Unknown 907 921	3-substituents
+T42	Protein_part 932 939	His-265
+T43	Process 950 965	tautomerization
+T44	Value 969 990	5 orders of magnitude
+T45	Technique 1004 1012	analyses
+T46	Chemical 1016 1032	S112A.3-Cl HOPDA
+T47	Chemical 1037 1057	S112A.3,10-diF HOPDA
+T48	Category 1058 1067	complexes
+T49	Process 1094 1101	binding
+T50	Chemical 1141 1153	carbon atoms
+T51	Chemical 1161 1169	dienoate
+T52	Molecular_Part 1170 1176	moiety
+T53	Chemical 1180 1185	HOPDA
+T54	Protein 1231 1244	keto tautomer
+T55	Chemical 1261 1272	S112A.HOPDA
+T56	Category 1273 1280	complex
+T57	Chemical 1299 1309	3-Cl HOPDA
+T58	Category 1310 1317	complex
+T59	Chemical 1323 1332	2-hydroxo
+T60	Molecular_Part 1333 1338	group
+T61	Value 1351 1356	3.6 A
+T62	Protein_part 1394 1401	His-265
+T63	Chemical 1405 1418	hydrogen bond
+T64	Protein_part 1424 1431	Arg-190
+T65	Protein_part 1446 1453	His-265
+T66	Chemical 1473 1489	3-Cl substituent
+T67	Process 1505 1512	binding
+T68	Process 1534 1546	interactions
+T69	Chemical 1562 1575	3-substituent
+T70	Protein_part 1591 1602	side chains
+T71	Chemical 1604 1621	Solvent molecules
+T72	Protein 1642 1644	C6
+T73	Chemical 1652 1678	S112A.3-Cl HOPDA structure
+T74	Process 1701 1711	hydrolysis
+T75	Protein 1729 1740	acyl-enzyme
+T76	Chemical 1748 1769	gem-diol intermediate
+T77	Process 1793 1800	insight
+T78	Protein 1818 1822	BphD
+T79	Chemical 1827 1830	PCB
+T80	Process 1831 1842	degradation

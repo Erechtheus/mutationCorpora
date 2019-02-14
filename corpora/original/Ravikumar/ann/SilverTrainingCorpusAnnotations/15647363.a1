@@ -1,0 +1,61 @@
+T1	Protein 0 13	Prion protein
+T2	Technique 14 17	NMR
+T3	Geometrical_part 18 28	structures
+T4	Organism 32 35	elk
+T5	Organism 43 52	mouse/elk
+T6	Technique 66 69	NMR
+T7	Unknown 70 79	structure
+T8	Protein 99 123	elk prion protein (ePrP)
+T9	Body_part 146 154	cellular
+T10	Molecule 155 162	isoform
+T11	Protein 164 169	ePrPC
+T12	Physiology 178 185	healthy
+T13	Organism 186 194	organism
+T14	Protein_part 256 275	amino acid sequence
+T15	Protein 277 282	ePrPC
+T16	Geometrical_part 303 307	fold
+T17	Organism 317 326	mammalian
+T18	Protein 327 348	prion proteins (PrPs)
+T19	Protein_part 388 403	residues 23-124
+T20	Protein_part 410 433	globular domain 125-226
+T21	Protein_part 445 458	alpha-helices
+T22	Geometrical_part 472 484	antiparallel
+T23	Protein_part 485 495	beta-sheet
+T24	Protein 506 511	ePrPC
+T25	Geometrical_part 529 544	local structure
+T26	Process 545 554	variation
+T27	Organism 585 594	mammalian
+T28	Protein 595 599	PrPs
+T29	Organism 615 620	human
+T30	Organism 622 628	bovine
+T31	Organism 634 639	mouse
+T32	Protein 640 644	PrPC
+T33	Geometrical_part 648 652	loop
+T34	Protein_part 656 672	residues 166-175
+T35	Protein_part 690 700	beta-sheet
+T36	Protein_part 710 722	alpha2-helix
+T37	Geometrical_part 730 734	part
+T38	Protein 753 761	"protein
+T39	Protein 762 772	X" epitope
+T40	Geometrical_part 818 822	loop
+T41	Organism 850 857	species
+T42	Technique 868 871	NMR
+T43	Unknown 872 881	structure
+T44	Organism 904 909	mouse
+T45	Protein 910 922	PrP variants
+T46	Protein 924 935	mPrP[N174T]
+T47	Protein 940 957	mPrP[S170N,N174T]
+T48	Geometrical_part 996 1000	loop
+T49	Protein 1004 1009	ePrPC
+T50	Protein_part 1037 1047	amino acid
+T51	Process 1048 1057	exchanges
+T52	Protein 1067 1084	mPrP[S170N,N174T]
+T53	Category 1094 1100	mimics
+T54	Protein 1101 1106	ePrPC
+T55	Physiology 1172 1201	chronic wasting disease (CWD)
+T56	Organism 1230 1234	deer
+T57	Organism 1239 1242	elk
+T58	Unknown 1250 1254	U.S.
+T59	Unknown 1259 1265	Canada
+T60	Organism 1274 1280	animal
+T61	Physiology 1333 1336	CWD

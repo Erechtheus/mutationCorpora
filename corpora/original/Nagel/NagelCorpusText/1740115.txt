@@ -1,0 +1,6 @@
+Tn5 insertion mutations of Escherichia coli were isolated that impaired the formation of correctly folded alkaline phosphatase (PhoA) in the periplasm . 
+The PhoA polypeptide synthesized in the mutants was translocated across the cytoplasmic membrane but not released into the periplasmic space . 
+It was susceptible to degradation by proteases in vivo and in vitro . 
+The wild-type counterpart of this gene (named ppfA) has been sequenced and shown to encode a periplasmic protein with a pair of potentially redox-active cysteine residues . 
+PhoA synthesized in the mutants indeed lacked disulfide bridges . 
+These results indicate that the folding of PhoA in vivo is not spontaneous but catalyzed at least at the disulfide bond formation step . 

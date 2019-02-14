@@ -1,0 +1,76 @@
+T1	Chemical 38 46	chloride
+T2	Process 55 65	activation
+T3	Protein 69 99	human pancreatic alpha-amylase
+T4	Process 105 114	mechanism
+T5	Process 118 139	allosteric activation
+T6	Protein 143 156	alpha-amylase
+T7	Chemical 160 168	chloride
+T8	Parameter 209 216	kinetic
+T9	Process 217 228	experiments
+T10	Chemical 245 253	chloride
+T11	Unknown 264 277	N298S variant
+T12	Protein 281 317	human pancreatic alpha-amylase (HPA)
+T13	Chemical 324 332	chloride
+T14	Protein 345 357	TAKA-amylase
+T15	Parameter 359 366	Kinetic
+T16	Technique 367 375	analysis
+T17	Protein 383 394	HPA variant
+T18	Process 442 448	effect
+T19	Chemical 452 464	chloride ion
+T20	Process 465 472	binding
+T21	Process 476 484	reaction
+T22	Parameter 485 490	rates
+T23	Process 499 505	effect
+T24	Parameter 513 515	pH
+T25	Process 530 539	catalysis
+T26	Process 552 563	alterations
+T27	Unknown 580 593	N298S variant
+T28	Chemical 599 611	chloride ion
+T29	Process 612 619	binding
+T30	Chemical 637 649	chloride ion
+T31	Process 669 674	roles
+T32	Process 697 706	catalysis
+T33	Process 740 749	influence
+T34	Protein 776 794	acid/base catalyst
+T35	Protein_part 795 807	residue E233
+T36	Process 809 816	Absence
+T37	Chemical 820 832	chloride ion
+T38	State 853 866	conformations
+T39	Protein_part 876 883	residue
+T40	Protein 900 909	enzymatic
+T41	Category 910 918	products
+T42	Chemical 920 932	Chloride ion
+T43	Chemical 937 941	N298
+T44	Geometrical_part 969 976	helical
+T45	Protein_part 977 983	region
+T46	Protein 987 1004	polypeptide chain
+T47	Category 1038 1047	substrate
+T48	Process 1049 1056	binding
+T49	Geometrical_part 1057 1061	loop
+T50	Chemical 1072 1080	chloride
+T51	Protein 1091 1105	alpha-amylases
+T52	Protein_part 1190 1202	residue D300
+T53	Technique 1216 1224	analyses
+T54	Chemical 1239 1247	chloride
+T55	Protein 1260 1274	alpha-amylases
+T56	Process 1294 1301	absence
+T57	Chemical 1311 1319	chloride
+T58	Geometrical_part 1338 1354	hydrophobic core
+T59	Category 1385 1394	substrate
+T60	Process 1395 1407	interactions
+T61	Process 1434 1443	placement
+T62	Protein_part 1447 1451	N298
+T63	Process 1472 1483	differences
+T64	Process 1504 1512	response
+T65	Process 1539 1551	environments
+T66	Category 1592 1599	product
+T67	Chemical 1630 1638	chloride
+T68	Chemical 1659 1667	chloride
+T69	Protein 1680 1692	TAKA-amylase
+T70	Unknown 1726 1732	system
+T71	Protein 1767 1774	factors
+T72	Process 1782 1786	role
+T73	Process 1790 1797	binding
+T74	Chemical 1798 1810	chloride ion
+T75	Chemical 1818 1826	chloride
+T76	Protein 1837 1851	alpha-amylases

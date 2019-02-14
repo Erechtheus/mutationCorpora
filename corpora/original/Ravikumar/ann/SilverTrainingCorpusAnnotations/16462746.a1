@@ -1,0 +1,55 @@
+T1	Process 11 16	basis
+T2	Protein 21 30	ubiquitin
+T3	Process 31 42	recognition
+T4	Process 47 65	autoubiquitination
+T5	Unknown 69 76	Rabex-5
+T6	Unknown 78 85	Rabex-5
+T7	Protein 92 107	exchange factor
+T8	Molecule 112 116	Rab5
+T9	Molecule 127 136	regulator
+T10	Body_part 140 149	endosomal
+T11	Process 150 161	trafficking
+T12	Unknown 163 170	Rabex-5
+T13	Process 211 225	ubiquitination
+T14	Location 242 251	intrinsic
+T15	Protein 252 268	ubiquitin ligase
+T16	Parameter 269 277	activity
+T17	Protein_part 303 313	N-terminal
+T18	Chemical 314 317	A20
+T19	Protein_part 318 329	zinc finger
+T20	Protein_part 356 361	helix
+T21	Geometrical_part 367 376	structure
+T22	Protein_part 385 395	N-terminal
+T23	Unknown 407 414	Rabex-5
+T24	Protein 424 433	ubiquitin
+T25	Value 437 442	2.5-A
+T26	Parameter 443 453	resolution
+T27	Unknown 465 482	Rabex-5-ubiquitin
+T28	Process 483 495	interactions
+T29	Protein_part 509 514	sites
+T30	Protein_part 520 525	first
+T31	Protein_part 526 530	site
+T32	Protein 548 557	ubiquitin
+T33	Protein_part 566 572	domain
+T34	Protein 586 595	ubiquitin
+T35	Protein_part 608 613	motif
+T36	Value 632 655	approximately 29-microM
+T37	Parameter 656 664	affinity
+T38	Protein_part 682 687	Ile44
+T39	Technique 700 705	patch
+T40	Protein 709 718	ubiquitin
+T41	Technique 747 752	patch
+T42	Chemical 760 763	A20
+T43	Protein_part 764 775	zinc finger
+T44	Value 794 817	approximately 22-microM
+T45	Parameter 818 826	affinity
+T46	Protein_part 832 844	polar region
+T47	Protein_part 857 862	Asp58
+T48	Protein 866 875	ubiquitin
+T49	Chemical 881 896	A20 zinc-finger
+T50	Technique 908 913	patch
+T51	Protein 923 939	ubiquitin-ligase
+T52	Parameter 940 948	activity
+T53	Protein 974 983	ubiquitin
+T54	Protein 991 1000	ubiquitin
+T55	Protein 1013 1019	enzyme

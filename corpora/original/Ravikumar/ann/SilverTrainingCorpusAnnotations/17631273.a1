@@ -1,0 +1,60 @@
+T1	Technique 0 8	Analysis
+T2	Protein 12 20	pre-mRNA
+T3	Unknown 25 33	pre-rRNA
+T4	Protein 45 68	factor Snu13p structure
+T5	Molecule 73 80	mutants
+T6	Protein 82 88	Snu13p
+T7	Organism 94 118	Saccharomyces cerevisiae
+T8	Protein 119 126	protein
+T9	Protein 141 158	pre-messenger RNA
+T10	Process 159 167	splicing
+T11	Protein 186 189	RNA
+T12	Protein 202 208	Snu13p
+T13	Protein 215 223	U4 snRNA
+T14	Body_part 231 242	spliceosome
+T15	Unknown 247 262	box C/D snoRNAs
+T16	Protein 284 287	RNA
+T17	Process 320 328	assembly
+T18	Protein 337 354	ribonucleoprotein
+T19	Category 355 362	complex
+T20	Technique 396 416	biochemical analysis
+T21	Protein 420 426	Snu13p
+T22	Geometrical_part 432 449	crystal structure
+T23	Protein 453 459	Snu13p
+T24	Protein_part 470 476	region
+T25	Protein 484 491	protein
+T26	Protein 521 528	protein
+T27	Process 529 540	interaction
+T28	Protein 548 565	ribonucleoprotein
+T29	Process 566 574	assembly
+T30	Geometrical_part 586 595	structure
+T31	Protein 599 605	Snu13p
+T32	Parameter 633 644	temperature
+T33	Molecule 655 662	mutants
+T34	Protein 666 672	Snu13p
+T35	Protein 674 678	L67W
+T36	Protein 683 688	I102A
+T37	Protein 704 726	mutant Snu13p proteins
+T38	Process 744 751	binding
+T39	Protein 755 763	U4 snRNA
+T40	Protein 768 777	U3 snoRNA
+T41	Parameter 784 795	temperature
+T42	Molecule 806 813	mutants
+T43	Protein 846 849	RNA
+T44	Process 850 857	binding
+T45	Protein 870 887	wild-type protein
+T46	Parameter 896 907	temperature
+T47	Process 918 927	mutations
+T48	Protein 950 953	RNA
+T49	Process 954 961	binding
+T50	Protein_part 962 968	region
+T51	Protein 972 978	Snu13p
+T52	Molecule 1005 1012	mutants
+T53	Protein 1038 1041	RNA
+T54	Parameter 1042 1060	binding properties
+T55	Protein 1064 1070	Snu13p
+T56	Process 1091 1098	insight
+T57	Molecule 1104 1110	Snu13p
+T58	Process 1111 1119	function
+T59	Protein 1127 1144	ribonucleoprotein
+T60	Process 1145 1153	assembly

@@ -1,0 +1,89 @@
+T1	Chemical 0 10	Fatty acid
+T2	Process 11 20	synthesis
+T3	Process 22 26	Role
+T4	Protein_part 30 52	active site histidines
+T5	Protein_part 57 63	lysine
+T6	Protein 67 128	Cys-His-His-type beta-ketoacyl-acyl carrier protein synthases
+T7	Protein 130 179	Beta-ketoacyl-acyl carrier protein (ACP) synthase
+T8	Protein 180 187	enzymes
+T9	Chemical 199 205	carbon
+T10	Protein 215 242	construct fatty acyl chains
+T11	Unknown 259 266	Claisen
+T12	Process 267 279	condensation
+T13	Process 280 288	reaction
+T14	Process 294 302	reaction
+T15	Geometrical_part 317 322	trans
+T16	Process 323 341	thioesterification
+T17	Chemical 349 353	acyl
+T18	Molecular_Part 354 360	primer
+T19	Category 361 370	substrate
+T20	Protein 376 379	ACP
+T21	Protein 387 393	enzyme
+T22	Category 413 418	donor
+T23	Category 419 428	substrate
+T24	Protein 429 440	malonyl-ACP
+T25	Chemical 469 491	carbanion intermediate
+T26	Protein_part 526 528	C1
+T27	Molecular_Part 536 542	primer
+T28	Category 543 552	substrate
+T29	Process 560 564	rise
+T30	Protein 581 591	acyl chain
+T31	Protein 608 635	beta-ketoacyl-ACP synthases
+T32	Body_part 647 660	mitochondrial
+T33	Protein 661 687	beta-ketoacyl-ACP synthase
+T34	Organism 690 699	bacterial
+T35	Body_part 705 712	plastid
+T36	Protein 713 742	beta-ketoacyl-ACP synthases I
+T37	Unknown 747 749	II
+T38	Protein_part 757 763	domain
+T39	Organism 767 772	human
+T40	Protein 773 792	fatty acid synthase
+T41	Chemical 801 818	Cys-His-His triad
+T42	Protein_part 851 854	Lys
+T43	Protein_part 862 873	active site
+T44	Process 890 894	role
+T45	Protein_part 904 912	residues
+T46	Process 916 925	catalysis
+T47	Protein 927 932	H298Q
+T48	Protein 934 939	H298E
+T49	Molecule 948 952	K328
+T50	Molecule 953 960	mutants
+T51	Organism 964 975	Escherichia
+T52	Protein 976 1008	colibeta-ketoacyl-ACP synthase I
+T53	Geometrical_part 1061 1066	trans
+T54	Process 1067 1085	thioesterification
+T55	Process 1087 1102	decarboxylation
+T56	Process 1110 1122	condensation
+T57	Process 1136 1144	reaction
+T58	Geometrical_part 1166 1184	crystal structures
+T59	Protein 1208 1222	mutant enzymes
+T60	Category 1249 1258	substrate
+T61	Protein 1280 1292	H298E enzyme
+T62	Protein 1308 1321	decarboxylase
+T63	Parameter 1322 1330	activity
+T64	Parameter 1338 1346	pH range
+T65	Protein 1364 1376	H298Q enzyme
+T66	Process 1402 1417	decarboxylation
+T67	Protein_part 1442 1446	H298
+T68	Process 1482 1497	decarboxylation
+T69	Protein_part 1504 1510	Lys328
+T70	Process 1522 1526	role
+T71	Process 1530 1539	catalysis
+T72	Parameter 1545 1551	charge
+T73	Chemical 1563 1567	acyl
+T74	Process 1568 1576	transfer
+T75	Protein_part 1584 1599	active site Cys
+T76	Geometrical_part 1609 1615	steric
+T77	Protein_part 1637 1641	H333
+T78	Process 1657 1667	importance
+T79	Process 1672 1687	decarboxylation
+T80	Parameter 1688 1696	activity
+T81	Protein_part 1719 1723	H333
+T82	Chemical 1736 1749	hydrogen bond
+T83	Category 1750 1755	donor
+T84	Chemical 1759 1767	Nepsilon
+T85	Protein_part 1795 1806	active site
+T86	Protein 1811 1822	malonyl-ACP
+T87	Parameter 1823 1835	binding area
+T88	Chemical 1843 1853	fatty acid
+T89	Category 1854 1861	complex

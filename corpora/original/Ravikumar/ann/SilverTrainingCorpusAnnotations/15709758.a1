@@ -1,0 +1,84 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein 22 34	marinostatin
+T3	Chemical 46 51	ester
+T4	Protein 59 75	protein protease
+T5	Category 76 85	inhibitor
+T6	Protein 87 99	Marinostatin
+T7	Protein 112 128	protein protease
+T8	Category 129 138	inhibitor
+T9	Protein_part 154 168	ester linkages
+T10	Protein 189 212	12-residue marinostatin
+T11	Protein 214 223	MST(1-12)
+T12	Unknown 225 244	(1)FATMRYPSDSDE(12)
+T13	Protein_part 265 273	residues
+T14	Process 290 299	formation
+T15	Protein_part 307 321	ester linkages
+T16	Geometrical_part 330 348	solution structure
+T17	Chemical 352 356	(1)H
+T18	Technique 357 373	NMR spectroscopy
+T19	Technique 408 419	calculation
+T20	Protein_part 429 443	ester linkages
+T21	Protein 447 456	MST(1-12)
+T22	Chemical 476 484	hydroxyl
+T23	Chemical 489 497	carboxyl
+T24	Molecular_Part 498 504	groups
+T25	Protein_part 506 519	Thr(3)-Asp(9)
+T26	Protein_part 524 538	Ser(8)-Asp(11)
+T27	Protein 556 565	MST(1-12)
+T28	Protein_part 581 588	regions
+T29	Protein_part 612 620	residues
+T30	Protein_part 625 631	Ser(8)
+T31	Protein_part 636 642	Asp(9)
+T32	Unknown 653 656	NOE
+T33	Protein_part 676 691	Tyr(6) H(alpha)
+T34	Protein_part 696 712	Pro(7)  H(alpha)
+T35	Protein_part 747 761	Pro(7) residue
+T36	Geometrical_part 770 773	cis
+T37	Unknown 803 813	structures
+T38	Chemical 818 836	hydrogen-deuterium
+T39	Process 837 848	experiments
+T40	Protein 852 861	MST(1-12)
+T41	Molecule 887 896	NH proton
+T42	Unknown 904 914	P1'residue
+T43	Protein_part 916 922	Arg(5)
+T44	Chemical 927 935	hydrogen
+T45	Chemical 950 965	carbonyl oxygen
+T46	Protein_part 973 986	ester linkage
+T47	Protein_part 995 1001	Thr(3)
+T48	Protein_part 1006 1012	Asp(9)
+T49	Protein_part 1048 1062	ester linkages
+T50	Protein 1066 1087	marinostatin analogue
+T51	Unknown 1089 1118	MST-2SS ((1)FACMRYPCCSCE(12))
+T52	Chemical 1128 1145	disulfide bridges
+T53	Protein_part 1149 1162	Cys(3)-Cys(9)
+T54	Protein_part 1167 1181	Cys(8)-Cys(11)
+T55	Parameter 1209 1228	inhibitory activity
+T56	Protein 1232 1239	MST-2SS
+T57	Protein 1265 1274	MST(1-12)
+T58	Protein_part 1284 1298	Pro(7) residue
+T59	Protein 1302 1309	MST-2SS
+T60	Geometrical_part 1324 1327	cis
+T61	Process 1355 1363	exchange
+T62	Parameter 1364 1368	rate
+T63	Protein_part 1376 1385	Arg(5) NH
+T64	Molecule 1386 1392	proton
+T65	Protein 1396 1403	MST-2SS
+T66	Value 1408 1423	about 100 times
+T67	Protein 1444 1453	MST(1-12)
+T68	Unknown 1463 1472	structure
+T69	Technique 1473 1484	calculation
+T70	Protein 1488 1495	MST-2SS
+T71	Chemical 1548 1552	NOEs
+T72	Protein 1571 1578	MST-2SS
+T73	Unknown 1601 1610	structure
+T74	Chemical 1616 1624	hydrogen
+T75	Protein_part 1646 1659	ester linkage
+T76	Protein_part 1674 1676	P2
+T77	Protein_part 1686 1693	residue
+T78	Protein_part 1695 1701	Thr(3)
+T79	Process 1735 1746	fluctuation
+T80	Protein_part 1754 1767	reactive site
+T81	Parameter 1787 1806	inhibitory activity
+T82	Protein 1822 1834	marinostatin
+T83	Protein 1861 1869	protease
+T84	Category 1870 1880	inhibitors

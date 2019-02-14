@@ -1,0 +1,60 @@
+T1	Unknown 0 9	Structure
+T2	Organism 13 18	yeast
+T3	Protein 19 37	poly(A) polymerase
+T4	Category 41 48	complex
+T5	Protein_part 56 63	peptide
+T6	Protein 69 73	Fip1
+T7	Protein 103 110	protein
+T8	Organism 115 120	yeast
+T9	Protein 126 130	mRNA
+T10	Protein 142 148	enzyme
+T11	Protein 149 167	poly(A) polymerase
+T12	Location 199 205	3'-end
+T13	Category 217 224	complex
+T14	Protein 229 233	Fip1
+T15	Protein 237 251	36 kDa protein
+T16	Unknown 263 272	structure
+T17	Value 288 293	2.6 A
+T18	Geometrical_part 294 311	crystal structure
+T19	Organism 315 320	yeast
+T20	Protein 321 339	poly(A) polymerase
+T21	Category 343 350	complex
+T22	Protein_part 358 365	peptide
+T23	Protein_part 377 392	residues 80-105
+T24	Protein 396 400	Fip1
+T25	Protein_part 406 418	Fip1 peptide
+T26	Geometrical_part 440 447	surface
+T27	Protein_part 455 472	C-terminal domain
+T28	Protein 480 490	polymerase
+T29	Process 499 504	basis
+T30	Unknown 514 523	structure
+T31	Molecule 539 545	mutant
+T32	Protein 553 563	polymerase
+T33	Protein 565 570	V498Y
+T34	Protein_part 572 577	C485R
+T35	Organism 597 602	yeast
+T36	Protein 633 637	Fip1
+T37	Protein 655 665	polymerase
+T38	Parameter 666 674	activity
+T39	Protein 676 680	Fip1
+T40	Organism 697 707	eukaryotes
+T41	Protein 730 748	poly(A) polymerase
+T42	Protein 752 760	pre-mRNA
+T43	Category 772 781	complexes
+T44	Organism 785 790	yeast
+T45	Organism 792 798	plants
+T46	Organism 804 811	mammals
+T47	Protein_part 826 839	Fip1 sequence
+T48	Protein_part 865 873	residues
+T49	Protein 882 886	Pap1
+T50	Protein 891 895	Fip1
+T51	Process 913 924	interaction
+T52	Geometrical_part 925 932	surface
+T53	Process 995 1014	ultracentrifugation
+T54	Technique 1016 1034	circular dichroism
+T55	Technique 1067 1077	techniques
+T56	Process 1091 1098	absence
+T57	Unknown 1102 1106	Pap1
+T58	Protein 1108 1112	Fip1
+T59	Protein 1205 1211	Fip1's
+T60	Geometrical_part 1236 1244	scaffold

@@ -1,0 +1,79 @@
+T1	Process 11 16	basis
+T2	Chemical 24 29	zinc-
+T3	Chemical 34 41	terbium
+T4	Process 51 61	inhibition
+T5	Protein 65 76	ferroxidase
+T6	Parameter 77 85	activity
+T7	Protein 89 115	Dps ferritin-like proteins
+T8	Organism 117 135	Streptococcus suis
+T9	Protein 136 139	Dpr
+T10	Chemical 146 150	iron
+T11	Protein 159 166	protein
+T12	Process 179 188	oxidative
+T13	Physiology 189 195	stress
+T14	Parameter 196 206	resistance
+T15	Organism 226 235	bacterial
+T16	Protein 236 254	Dps protein family
+T17	Unknown 261 268	members
+T18	Process 286 296	assemblies
+T19	Chemical 331 335	zinc
+T20	Chemical 340 347	terbium
+T21	Chemical 356 360	iron
+T22	Process 361 374	incorporation
+T23	Organism 378 394	Listeria innocua
+T24	Protein 395 406	Dps protein
+T25	Process 465 471	effect
+T26	Chemical 475 479	zinc
+T27	Chemical 484 491	terbium
+T28	Geometrical_part 497 515	crystal structures
+T29	Organism 519 537	Streptococcus suis
+T30	Protein 538 541	Dpr
+T31	Category 542 551	complexes
+T32	Chemical 563 567	ions
+T33	Value 587 592	1.8 A
+T34	Value 598 603	2.1 A
+T35	Chemical 624 628	ions
+T36	Protein 655 666	ferroxidase
+T37	Chemical 702 706	iron
+T38	Chemical 729 733	zinc
+T39	Protein_part 742 746	site
+T40	Protein_part 757 762	His40
+T41	Protein_part 767 772	His44
+T42	Protein_part 794 806	His residues
+T43	Organism 849 867	Streptococcus suis
+T44	Protein 868 880	Dpr variants
+T45	Organism 888 912	Streptococcus pneumoniae
+T46	Organism 914 936	Streptococcus gordonii
+T47	Organism 942 965	Streptococcus sanguinis
+T48	Protein 966 978	Dpr proteins
+T49	Protein_part 980 999	Amino acid sequence
+T50	Process 1000 1009	alignment
+T51	Protein 1013 1016	Dpr
+T52	Protein 1028 1046	Dps family members
+T53	Protein_part 1061 1066	His44
+T54	Protein_part 1103 1108	His40
+T55	Process 1125 1131	effect
+T56	Chemical 1135 1139	zinc
+T57	Chemical 1144 1151	terbium
+T58	Chemical 1155 1159	iron
+T59	Process 1160 1169	oxidation
+T60	Protein 1173 1176	Dpr
+T61	Chemical 1226 1230	ions
+T62	Parameter 1234 1248	concentrations
+T63	Value 1249 1256	>0.2 mM
+T64	Chemical 1283 1287	iron
+T65	Process 1288 1295	binding
+T66	Process 1332 1337	basis
+T67	Process 1357 1363	effect
+T68	Chemical 1367 1371	zinc
+T69	Chemical 1376 1383	terbium
+T70	Protein 1391 1401	Dps family
+T71	Protein 1405 1413	proteins
+T72	Parameter 1429 1438	potential
+T73	Process 1439 1443	role
+T74	Protein 1451 1463	Dps proteins
+T75	Chemical 1467 1471	zinc
+T76	Process 1473 1487	detoxification
+T77	Process 1488 1498	mechanisms
+T78	Chemical 1520 1524	zinc
+T79	Protein_part 1533 1537	site

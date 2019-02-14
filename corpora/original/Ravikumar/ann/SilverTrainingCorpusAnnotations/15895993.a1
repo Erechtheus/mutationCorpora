@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein 26 53	K50 class homeodomain PITX2
+T3	Molecule 63 66	DNA
+T4	Process 71 83	implications
+T5	Process 88 97	mutations
+T6	Unknown 109 115	Rieger
+T7	Physiology 116 124	syndrome
+T8	Geometrical_part 149 167	solution structure
+T9	Category 173 180	complex
+T10	Protein 196 199	K50
+T11	Protein 200 218	class homeodomain 
+T12	Body_part 218 227	Pituitary
+T13	Molecule 278 281	DNA
+T14	Protein_part 282 286	site
+T15	Protein_part 289 295	TAATCC
+T16	Protein_part 335 345	residue 50
+T17	Molecule 390 393	DNA
+T18	Protein 420 432	homeodomains
+T19	Unknown 444 454	structures
+T20	Unknown 466 481	homeodomain-DNA
+T21	Category 482 491	complexes
+T22	Unknown 532 541	structure
+T23	Protein 554 575	K50 class homeodomain
+T24	Protein 586 611	K50 homeodomain structure
+T25	Technique 640 663	X-ray crystal structure
+T26	Molecule 690 696	mutant
+T27	Molecule 698 721	Engrailed Q50K (EnQ50K)
+T28	Technique 723 731	Analysis
+T29	Technique 739 742	NMR
+T30	Geometrical_part 743 752	structure
+T31	Protein 760 777	PITX2 homeodomain
+T32	Protein_part 797 803	lysine
+T33	Location 807 818	position 50
+T34	Process 825 833	contacts
+T35	Chemical 843 851	guanines
+T36	Protein_part 869 875	strand
+T37	Molecule 883 886	DNA
+T38	Location 888 896	adjacent
+T39	Unknown 904 908	TAAT
+T40	Molecule 914 917	DNA
+T41	Protein_part 918 926	sequence
+T42	Geometrical_part 948 957	structure
+T43	Protein 961 967	EnQ50K
+T44	Protein_part 1001 1011	side chain
+T45	Process 1033 1045	interactions
+T46	Molecule 1055 1058	DNA
+T47	Unknown 1090 1097	crystal
+T48	Molecule 1107 1113	EnQ50K
+T49	Process 1125 1136	differences
+T50	Geometrical_part 1144 1162	tertiary structure
+T51	Protein 1182 1185	K50
+T52	Geometrical_part 1186 1195	structure
+T53	Molecule 1208 1214	EnQ50K
+T54	Process 1234 1245	differences
+T55	Parameter 1249 1257	affinity
+T56	Protein 1288 1296	proteins
+T57	Process 1298 1307	Mutations
+T58	Organism 1315 1320	human
+T59	Protein 1321 1331	PITX2 gene
+T60	Unknown 1352 1358	Rieger
+T61	Physiology 1359 1367	syndrome
+T62	Physiology 1372 1399	autosomal dominant disorder
+T63	Technique 1401 1409	Analysis
+T64	Protein_part 1417 1425	residues
+T65	Unknown 1437 1443	Rieger
+T66	Physiology 1444 1452	syndrome
+T67	Protein_part 1483 1491	residues
+T68	Molecule 1508 1511	DNA
+T69	Process 1512 1519	binding
+T70	Process 1550 1559	formation
+T71	Geometrical_part 1567 1583	hydrophobic core
+T72	Protein 1591 1598	protein
+T73	Process 1613 1617	role
+T74	Protein 1621 1624	K50
+T75	Protein_part 1628 1639	homeodomain
+T76	Process 1640 1651	recognition
+T77	Protein 1712 1728	K50 homeodomains
+T78	Process 1741 1752	differences
+T79	Molecule 1778 1785	mutants

@@ -1,0 +1,57 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 56	aspartic acid-199----asparagine
+T3	Molecule 57 63	mutant
+T4	Protein 67 100	chloramphenicol acetyltransferase
+T5	Value 104 110	2.35-A
+T6	Parameter 111 121	resolution
+T7	Process 134 146	consequences
+T8	Process 150 160	disruption
+T9	Chemical 173 184	salt bridge
+T10	Geometrical_part 190 207	crystal structure
+T11	Protein_part 215 229	Asp-199----Asn
+T12	Molecule 230 236	mutant
+T13	Protein 240 279	chloramphenicol acetyltransferase (CAT)
+T14	Value 303 309	2.35-A
+T15	Parameter 310 320	resolution
+T16	Protein_part 325 346	wild-type CAT Asp-199
+T17	Chemical 377 401	intrasubunit salt bridge
+T18	Protein_part 407 413	Arg-18
+T19	Process 418 429	interaction
+T20	Location 438 446	adjacent
+T21	Protein_part 454 465	active site
+T22	Process 467 478	Replacement
+T23	Chemical 482 491	aspartate
+T24	Protein_part 497 507	asparagine
+T25	Technique 511 536	site-directed mutagenesis
+T26	Chemical 551 562	salt bridge
+T27	State 584 598	conformational
+T28	Process 599 606	changes
+T29	Protein_part 618 629	active site
+T30	Chemical 635 644	imidazole
+T31	Molecular_Part 645 650	group
+T32	Protein_part 682 689	His-195
+T33	Process 714 718	loss
+T34	Process 722 734	interactions
+T35	Protein 771 779	tautomer
+T36	Protein_part 788 795	residue
+T37	Protein_part 797 803	Arg-18
+T38	Protein_part 808 815	Asn-199
+T39	Protein 831 843	intersubunit
+T40	Process 844 856	interactions
+T41	Protein_part 878 888	side-chain
+T42	Parameter 889 903	torsion  angle
+T43	Process 904 911	changes
+T44	Process 928 936	movement
+T45	Protein_part 944 955	polypeptide
+T46	Geometrical_part 956 961	loops
+T47	Protein_part 968 976	residues
+T48	Value 996 1000	20 A
+T49	Protein_part 1015 1019	site
+T50	Process 1027 1035	mutation
+T51	Process 1045 1057	interactions
+T52	Protein_part 1062 1068	Arg-18
+T53	Protein_part 1073 1080	Asn-199
+T54	Process 1100 1104	loss
+T55	Chemical 1119 1130	salt bridge
+T56	Protein 1176 1187	Asn-199 CAT
+T57	Parameter 1219 1227	activity

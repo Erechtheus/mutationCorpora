@@ -1,0 +1,58 @@
+T1	Process 11 16	basis
+T2	Process 25 36	methylation
+T3	State 37 42	state
+T4	Process 52 63	recognition
+T5	Protein 67 81	histone H4-K20
+T6	Protein 85 90	53BP1
+T7	Protein 95 99	Crb2
+T8	Molecule 103 106	DNA
+T9	Process 107 113	repair
+T10	Protein_part 115 129	Histone lysine
+T11	Process 130 141	methylation
+T12	Process 165 176	recruitment
+T13	Organism 180 189	mammalian
+T14	Molecule 190 193	DNA
+T15	Process 194 200	repair
+T16	Protein 201 213	factor 53BP1
+T17	Process 227 234	fission
+T18	Organism 235 240	yeast
+T19	Protein 241 253	homolog Crb2
+T20	Molecule 257 260	DNA
+T21	Geometrical_part 261 289	double-strand  breaks (DSBs)
+T22	Protein 299 306	histone
+T23	Process 307 318	recognition
+T24	Process 388 392	link
+T25	Process 415 422	binding
+T26	Protein 426 431	53BP1
+T27	Protein 436 440	Crb2
+T28	Protein 444 454	histone H4
+T29	Technique 462 483	X-ray crystallography
+T30	Technique 488 533	nuclear magnetic resonance (NMR) spectroscopy
+T31	Protein_part 561 580	amino acid sequence
+T32	Process 581 593	conservation
+T33	Protein 600 605	53BP1
+T34	Protein 610 614	Crb2
+T35	Protein_part 636 643	domains
+T36	Protein 663 673	histone H4
+T37	Protein_part 703 720	Lys20 (H4-K20me2)
+T38	Unknown 726 735	structure
+T39	Unknown 739 754	53BP1/H4-K20me2
+T40	Category 756 763	complex
+T41	Protein_part 782 794	five-residue
+T42	Unknown 795 800	53BP1
+T43	Process 801 808	binding
+T44	Geometrical_part 843 852	structure
+T45	Protein 856 860	Crb2
+T46	Chemical 887 901	dimethyllysine
+T47	Chemical 918 933	trimethyllysine
+T48	Process 955 966	methylation
+T49	State 967 972	state
+T50	Process 982 993	recognition
+T51	Protein 997 1003	H4-K20
+T52	Process 1052 1071	molecular mechanism
+T53	Molecule 1085 1088	DNA
+T54	Process 1089 1095	repair
+T55	Protein 1096 1104	proteins
+T56	Geometrical_part 1108 1112	DSBs
+T57	Process 1123 1134	recognition
+T58	Protein_part 1138 1147	H4-K20me2

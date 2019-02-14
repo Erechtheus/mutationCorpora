@@ -1,0 +1,62 @@
+T1	Unknown 4 11	C2A-C2B
+T2	Molecular_Part 12 18	linker
+T3	Parameter 36 44	affinity
+T4	Chemical 45 51	Ca(2+)
+T5	Process 52 59	binding
+T6	Protein 68 80	rabphilin-3A
+T7	Chemical 86 92	Ca(2+)
+T8	Parameter 93 111	binding properties
+T9	Protein_part 115 125	C2 domains
+T10	Process 148 156	function
+T11	Organism 166 170	host
+T12	Protein 171 179	proteins
+T13	Geometrical_part 207 225	crystal structures
+T14	Chemical 248 254	Ca(2+)
+T15	Process 255 262	binding
+T16	Protein_part 275 285	C2B domain
+T17	Protein 289 301	rabphilin-3A
+T18	Protein_part 320 335	Acidic residues
+T19	Molecular_Part 345 351	linker
+T20	Protein_part 352 358	region
+T21	Protein_part 371 374	C2A
+T22	Protein_part 379 390	C2B domains
+T23	Protein 394 406	rabphilin-3A
+T24	Chemical 425 431	Ca(2+)
+T25	Protein_part 440 446	region
+T26	Protein_part 454 464	C2B domain
+T27	Process 483 495	interactions
+T28	Process 501 513	coordination
+T29	Chemical 538 549	Ca(2+) ions
+T30	Process 570 578	Mutation
+T31	Protein_part 588 603	acidic residues
+T32	Protein_part 607 614	alanine
+T33	Value 629 636	10-fold
+T34	Process 637 645	decrease
+T35	Location 653 662	intrinsic
+T36	Chemical 663 669	Ca(2+)
+T37	Parameter 670 686	binding affinity
+T38	Protein_part 694 704	C2B domain
+T39	Technique 712 728	NMR spectroscopy
+T40	Process 748 759	interaction
+T41	Chemical 781 787	Ca(2+)
+T42	State 794 799	state
+T43	Protein_part 807 817	C2B domain
+T44	Chemical 837 843	Ca(2+)
+T45	Process 844 851	binding
+T46	Protein_part 879 888	C2 domain
+T47	Unknown 896 904	fragment
+T48	Technique 909 912	NMR
+T49	Body_part 919 927	liposome
+T50	Technique 928 942	binding assays
+T51	Molecular_Part 948 954	linker
+T52	Chemical 977 989	phospholipid
+T53	Process 990 997	binding
+T54	Chemical 1029 1035	Ca(2+)
+T55	Process 1036 1043	binding
+T56	Protein_part 1070 1079	C2 domain
+T57	Location 1094 1103	intrinsic
+T58	Chemical 1104 1110	Ca(2+)
+T59	Parameter 1111 1119	affinity
+T60	Chemical 1176 1203	protein-Ca(2+)-phospholipid
+T61	Process 1204 1211	binding
+T62	Protein 1220 1232	rabphilin-3A

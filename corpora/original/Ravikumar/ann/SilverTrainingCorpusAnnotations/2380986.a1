@@ -1,0 +1,76 @@
+T1	Geometrical_part 8 17	structure
+T2	Protein 21 43	dienelactone hydrolase
+T3	Value 47 52	1.8 A
+T4	Geometrical_part 58 67	structure
+T5	Protein 71 99	dienelactone hydrolase (DLH)
+T6	Unknown 105 116	Pseudomonus
+T7	Chemical 121 124	B13
+T8	Process 174 184	refinement
+T9	Value 188 193	1.8 A
+T10	Parameter 194 204	resolution
+T11	Protein 249 252	DLH
+T12	Parameter 272 279	R value
+T13	Value 283 288	0.150
+T14	Chemical 314 331	carboxyl-terminal
+T15	Protein_part 338 346	residues
+T16	Chemical 410 425	water molecules
+T17	Parameter 463 489	root-mean-square deviation
+T18	Chemical 501 505	bond
+T19	Parameter 506 515	distances
+T20	Value 533 540	0.014 A
+T21	Value 597 603	0.15 A
+T22	Protein 605 608	DLH
+T23	Protein 614 630	monomeric enzyme
+T24	Protein_part 646 665	amino acid residues
+T25	Unknown 675 681	member
+T26	Process 706 713	pathway
+T27	Organism 723 731	bacteria
+T28	Organism 736 741	fungi
+T29	Protein 743 746	DLH
+T30	Protein 753 771	alpha/beta protein
+T31	Protein_part 789 796	helices
+T32	Protein_part 807 814	strands
+T33	Protein 818 822	beta
+T34	Protein_part 831 836	sheet
+T35	Protein_part 847 865	4-turn 3(10)-helix
+T36	Protein_part 879 906	active-site Cys123 residues
+T37	Protein_part 914 928	N-terminal end
+T38	Protein_part 935 946	alpha-helix
+T39	Protein_part 994 1014	hydrophobic residues
+T40	Protein_part 1029 1046	C-terminal lysine
+T41	Protein_part 1053 1063	beta-sheet
+T42	Geometrical_part 1079 1087	parallel
+T43	Protein_part 1088 1095	strands
+T44	Protein_part 1107 1115	strand 2
+T45	Geometrical_part 1146 1158	antiparallel
+T46	Protein_part 1159 1165	region
+T47	Protein_part 1173 1187	N-terminal end
+T48	Protein_part 1195 1213	central beta-sheet
+T49	Protein_part 1219 1247	active-site cysteine residue
+T50	Geometrical_part 1251 1255	part
+T51	Chemical 1261 1266	triad
+T52	Protein_part 1270 1278	residues
+T53	Protein_part 1293 1299	Cys123
+T54	Protein_part 1301 1307	His202
+T55	Protein_part 1312 1318	Asp171
+T56	Protein 1346 1371	serine/cysteine proteases
+T57	Protein 1379 1385	papain
+T58	Protein 1390 1399	actinidin
+T59	Chemical 1412 1417	thiol
+T60	Technique 1447 1452	X-ray
+T61	Chemical 1521 1528	sulphur
+T62	Protein_part 1548 1559	active site
+T63	Geometrical_part 1560 1568	geometry
+T64	Process 1585 1591	change
+T65	State 1599 1611	conformation
+T66	Chemical 1626 1631	thiol
+T67	Process 1644 1653	diffusion
+T68	Category 1657 1666	substrate
+T69	Protein_part 1676 1687	active site
+T70	Geometrical_part 1688 1693	cleft
+T71	Protein 1697 1700	DLH
+T72	Chemical 1742 1755	gamma-sulphur
+T73	Chemical 1772 1784	cyclic ester
+T74	Category 1785 1794	substrate
+T75	Geometrical_part 1805 1809	ring
+T76	Process 1818 1826	reaction

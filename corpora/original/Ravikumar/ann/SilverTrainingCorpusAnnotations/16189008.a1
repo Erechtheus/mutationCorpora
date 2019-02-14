@@ -1,0 +1,72 @@
+T1	Unknown 0 9	Structure
+T2	Protein_part 17 29	Fab fragment
+T3	Molecule 33 37	F105
+T4	Organism 58 97	anti-human immunodeficiency virus (HIV)
+T5	Molecule 98 106	antibody
+T6	Protein 127 130	CD4
+T7	Process 131 138	binding
+T8	Protein_part 139 143	site
+T9	Organism 147 157	HIV type 1
+T10	Protein 158 163	gp120
+T11	Geometrical_part 188 205	crystal structure
+T12	Protein_part 213 225	Fab fragment
+T13	Molecule 231 235	F105
+T14	Organism 256 261	human
+T15	Molecule 262 270	antibody
+T16	Protein 312 315	CD4
+T17	Process 316 323	binding
+T18	Protein_part 324 328	site
+T19	Protein 332 337	gp120
+T20	Unknown 343 352	structure
+T21	Geometrical_part 373 384	CDR H3 loop
+T22	Protein_part 392 413	phenylalanine residue
+T23	Location 421 425	apex
+T24	Protein_part 458 464	serine
+T25	Protein_part 469 486	tyrosine residues
+T26	Process 501 512	interaction
+T27	Protein 521 526	gp120
+T28	Molecule 531 535	F105
+T29	Protein_part 554 567	phenylalanine
+T30	Process 586 593	binding
+T31	Geometrical_part 594 600	pocket
+T32	Protein 604 609	gp120
+T33	Protein_part 618 625	Phe(43)
+T34	Protein 629 632	CD4
+T35	Protein_part 651 659	tyrosine
+T36	Protein_part 664 679	serine residues
+T37	Chemical 685 699	hydrogen bonds
+T38	Protein_part 709 719	main chain
+T39	Chemical 720 725	atoms
+T40	Protein 729 734	gp120
+T41	Process 738 748	comparison
+T42	Protein 756 760	F105
+T43	Geometrical_part 761 770	structure
+T44	Unknown 782 803	immunoglobulin G1 b12
+T45	Molecule 849 857	antibody
+T46	Protein 878 885	epitope
+T47	Process 896 908	similarities
+T48	Process 938 949	recognition
+T49	Organism 953 982	human  immunodeficiency virus
+T50	Molecule 991 1001	antibodies
+T51	Protein 1022 1029	epitope
+T52	Protein 1034 1038	F105
+T53	Unknown 1089 1092	b12
+T54	Protein 1125 1136	b12 epitope
+T55	Location 1183 1188	inner
+T56	Location 1193 1198	outer
+T57	Protein_part 1199 1206	domains
+T58	Protein 1210 1215	gp120
+T59	Geometrical_part 1234 1243	CDR loops
+T60	Unknown 1247 1250	b12
+T61	Location 1293 1298	outer
+T62	Protein_part 1299 1305	domain
+T63	Protein 1309 1314	gp120
+T64	Process 1320 1330	difference
+T65	Protein 1353 1361	epitopes
+T66	Protein 1366 1369	b12
+T67	Protein 1374 1378	F105
+T68	Unknown 1415 1418	b12
+T69	Location 1481 1486	inner
+T70	Location 1491 1496	outer
+T71	Protein_part 1497 1504	domains
+T72	Protein 1508 1513	gp120

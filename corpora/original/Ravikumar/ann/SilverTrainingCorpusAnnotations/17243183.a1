@@ -1,0 +1,74 @@
+T1	Parameter 7 17	resolution
+T2	Geometrical_part 18 36	crystal structures
+T3	Organism 40 45	HIV-1
+T4	Protein 46 54	protease
+T5	Protein_part 59 71	mutants V82A
+T6	Protein_part 76 80	I84V
+T7	Chemical 87 97	saquinavir
+T8	Chemical 99 109	Saquinavir
+T9	Chemical 111 114	SQV
+T10	Physiology 127 136	antiviral
+T11	Organism 137 142	HIV-1
+T12	Protein 143 156	protease (PR)
+T13	Category 157 166	inhibitor
+T14	Physiology 181 185	AIDS
+T15	Technique 186 193	therapy
+T16	Category 215 224	complexes
+T17	Protein 230 232	PR
+T18	Unknown 241 255	variants PR(I)
+T19	Value 257 260	84V
+T20	Protein 267 272	PR(V)
+T21	Protein_part 274 277	82A
+T22	Process 301 310	mutations
+T23	Protein_part 311 315	I84V
+T24	Protein_part 320 324	V82A
+T25	Parameter 338 348	resistance
+T26	Category 369 379	inhibitors
+T27	Parameter 388 398	resolution
+T28	Geometrical_part 399 417	crystal structures
+T29	Value 419 430	0.97-1.25 A
+T30	Chemical 439 442	SQV
+T31	Category 443 452	complexes
+T32	Process 470 480	comparison
+T33	Protein 488 496	protease
+T34	Category 497 506	complexes
+T35	Chemical 512 521	darunavir
+T36	Chemical 529 533	drug
+T37	Organism 557 560	HIV
+T38	Process 599 604	basis
+T39	Chemical 608 612	drug
+T40	Parameter 613 623	resistance
+T41	Protein 625 630	PR(I)
+T42	Value 632 635	84V
+T43	Protein 641 646	PR(V)
+T44	Protein_part 648 651	82A
+T45	Category 653 662	complexes
+T46	Molecular_Part 695 701	groups
+T47	Unknown 702 712	P2(1)2(1)2
+T48	Unknown 717 730	P2(1)2(1)2(1)
+T49	State 775 789	conformational
+T50	Chemical 807 810	SQV
+T51	Process 811 823	interactions
+T52	Protein 829 831	PR
+T53	Category 864 873	complexes
+T54	Parameter 903 923	inhibition constants
+T55	Process 929 937	mutation
+T56	Protein_part 961 972	amino acids
+T57	Molecular_Part 1016 1021	group
+T58	Protein_part 1025 1028	P1'
+T59	Chemical 1032 1035	SQV
+T60	Process 1056 1068	interactions
+T61	Chemical 1081 1090	darunavir
+T62	Category 1091 1100	complexes
+T63	Protein_part 1106 1120	residues 79-82
+T64	Molecular_Part 1172 1178	groups
+T65	Chemical 1182 1185	SQV
+T66	Protein_part 1209 1217	residues
+T67	State 1255 1267	conformation
+T68	Category 1303 1312	inhibitor
+T69	Process 1325 1334	mutations
+T70	Protein_part 1343 1349	region
+T71	Technique 1356 1364	analysis
+T72	Process 1382 1393	development
+T73	Physiology 1412 1421	antiviral
+T74	Category 1422 1432	inhibitors

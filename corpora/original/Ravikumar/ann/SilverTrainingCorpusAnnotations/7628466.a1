@@ -1,0 +1,70 @@
+T1	Unknown 0 9	Structure
+T2	Process 14 22	function
+T3	Protein_part 26 41	mutant Arg44Lys
+T4	Protein 45 74	4-hydroxybenzoate hydroxylase
+T5	Process 75 87	implications
+T6	Chemical 92 97	NADPH
+T7	Process 98 105	binding
+T8	Protein_part 107 112	Arg44
+T9	Chemical 129 136	si-face
+T10	Location 137 141	side
+T11	Chemical 149 160	flavin ring
+T12	Protein 164 193	4-hydroxybenzoate hydroxylase
+T13	Protein_part 210 216	lysine
+T14	Technique 220 245	site-specific mutagenesis
+T15	Unknown 247 255	Crystals
+T16	Protein 259 294	[R44K]4-hydroxybenzoate hydroxylase
+T17	Chemical 310 327	4-hydroxybenzoate
+T18	Value 341 348	0.22-nm
+T19	Parameter 349 359	resolution
+T20	Geometrical_part 365 374	structure
+T21	Protein 378 413	[R44K]4-hydroxybenzoate hydroxylase
+T22	Protein 434 450	wild-type enzyme
+T23	Process 468 475	changes
+T24	Location 483 491	vicinity
+T25	Process 499 507	mutation
+T26	Protein_part 513 520	peptide
+T27	Protein_part 534 539	Ile43
+T28	Protein_part 544 549	Lys44
+T29	Value 564 581	about 180 degrees
+T30	Value 585 588	50%
+T31	Molecule 596 605	molecules
+T32	Protein 607 614	The phi
+T33	Parameter 616 626	psi angles
+T34	State 658 670	conformation
+T35	Protein_part 695 702	regions
+T36	State 727 739	conformation
+T37	Protein 741 776	[R44K]4-Hydroxybenzoate hydroxylase
+T38	Parameter 793 801	affinity
+T39	Chemical 810 816	flavin
+T40	Molecular_Part 817 833	prosthetic group
+T41	Process 864 876	interactions
+T42	Protein_part 889 899	side chain
+T43	Protein_part 903 908	Arg44
+T44	Chemical 917 932	diphosphoribose
+T45	Molecular_Part 933 939	moiety
+T46	Chemical 947 950	FAD
+T47	Process 956 967	replacement
+T48	Protein_part 971 976	Arg44
+T49	Protein_part 980 983	Lys
+T50	Chemical 1020 1031	flavin ring
+T51	Location 1056 1064	interior
+T52	Protein 1091 1126	[R44K]4-Hydroxybenzoate hydroxylase
+T53	Chemical 1141 1147	flavin
+T54	Process 1148 1157	reduction
+T55	Category 1161 1170	substrate
+T56	Process 1171 1184	hydroxylation
+T57	Parameter 1199 1207	kinetics
+T58	Process 1233 1237	role
+T59	Chemical 1241 1258	4-hydroxybenzoate
+T60	Molecule 1287 1293	mutant
+T61	Process 1295 1306	Replacement
+T62	Protein_part 1310 1315	Arg44
+T63	Protein_part 1319 1322	Lys
+T64	Chemical 1339 1344	NADPH
+T65	Process 1345 1352	binding
+T66	Organism 1402 1409	species
+T67	Chemical 1426 1432	flavin
+T68	Chemical 1437 1442	NADP+
+T69	Protein_part 1480 1485	Arg44
+T70	Process 1515 1524	catalysis

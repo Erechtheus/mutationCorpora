@@ -1,0 +1,54 @@
+T1	Protein_part 2 16	lysine residue
+T2	Body_part 24 31	fingers
+T3	Protein_part 32 41	subdomain
+T4	Organism 45 47	T7
+T5	Protein 48 62	DNA polymerase
+T6	Parameter 87 96	potential
+T7	Chemical 100 126	8-oxo-7,8-dihydroguanosine
+T8	Chemical 128 160	8-oxo-7,8-dihydroguanosine (8oG)
+T9	Physiology 173 182	mutagenic
+T10	Molecule 183 186	DNA
+T11	Physiology 187 193	lesion
+T12	Chemical 217 226	adenosine
+T13	Chemical 236 244	8oG(syn)
+T14	Chemical 245 268	dA(anti) Hoogsteen base
+T15	Protein 276 291	DNA polymerases
+T16	Process 297 306	different
+T17	Parameter 307 319	propensities
+T18	Chemical 323 334	insert dCMP
+T19	Chemical 338 342	dAMP
+T20	Chemical 352 355	8oG
+T21	Process 366 386	molecular mechanisms
+T22	Physiology 414 423	mutagenic
+T23	Technique 424 430	bypass
+T24	Parameter 470 477	kinetic
+T25	Organism 527 529	T7
+T26	Protein 530 544	DNA polymerase
+T27	Protein_part 546 560	residue Lys536
+T28	Parameter 606 615	potential
+T29	Chemical 619 622	8oG
+T30	Protein_part 628 637	Lys536Ala
+T31	Protein 638 648	polymerase
+T32	Process 669 677	increase
+T33	Physiology 681 690	mutagenic
+T34	Chemical 691 694	8oG
+T35	Technique 695 701	bypass
+T36	Protein 709 729	wild-type polymerase
+T37	Geometrical_part 737 754	crystal structure
+T38	Protein_part 763 772	Lys536Ala
+T39	Molecule 773 779	mutant
+T40	Category 797 804	complex
+T41	Chemical 813 821	8oG(syn)
+T42	Chemical 822 826	dATP
+T43	Protein 843 853	polymerase
+T44	Protein_part 854 865	active site
+T45	Category 905 912	complex
+T46	Protein 943 963	wild-type polymerase
+T47	Protein_part 981 987	Lys536
+T48	Geometrical_part 998 1004	steric
+T49	Parameter 1063 1072	potential
+T50	Chemical 1076 1079	8oG
+T51	Process 1113 1120	binding
+T52	Chemical 1124 1127	8oG
+T53	State 1137 1149	conformation
+T54	Chemical 1166 1170	dATP

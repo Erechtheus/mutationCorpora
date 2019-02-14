@@ -1,0 +1,76 @@
+T1	Unknown 0 9	Structure
+T2	Physiology 17 26	antiviral
+T3	Process 27 35	assembly
+T4	Category 36 45	inhibitor
+T5	Unknown 46 51	CAP-1
+T6	Category 52 59	complex
+T7	Protein 69 85	HIV-1 CA protein
+T8	Protein_part 91 100	CA domain
+T9	Protein 108 167	human immunodeficiency virus type 1 (HIV-1) Gag polyprotein
+T10	Process 184 189	roles
+T11	State 217 223	phases
+T12	Organism 227 232	viral
+T13	Process 233 244	replication
+T14	Physiology 276 285	antiviral
+T15	Process 286 292	target
+T16	Chemical 294 303	Compounds
+T17	Physiology 309 318	antiviral
+T18	Parameter 319 327	activity
+T19	Protein_part 370 387	N-terminal domain
+T20	Protein 391 400	CA (CA N)
+T21	Body_part 413 419	capsid
+T22	Process 420 428	assembly
+T23	Organism 436 441	viral
+T24	Process 442 452	maturation
+T25	Geometrical_part 477 486	structure
+T26	Category 494 501	complex
+T27	Protein 510 514	CA N
+T28	Physiology 523 532	antiviral
+T29	Process 533 541	assembly
+T30	Category 542 551	inhibitor
+T31	Chemical 552 587	N-(3-chloro-4-methylphenyl)-N'-{2-[
+T32	Chemical 593 654	dimethylamino)-methyl]-2-furyl}-methyl)-sulfanyl]ethyl}-urea)
+T33	Unknown 655 662	(CAP-1)
+T34	Technique 686 702	NMR spectroscopy
+T35	Technique 707 728	X-ray crystallography
+T36	Protein 734 741	protein
+T37	State 765 779	conformational
+T38	Process 780 786	change
+T39	Unknown 792 797	CAP-1
+T40	Process 798 805	binding
+T41	Protein_part 816 821	Phe32
+T42	Protein 867 874	protein
+T43	Geometrical_part 875 879	core
+T44	Body_part 895 913	hydrophobic cavity
+T45	Category 933 939	ligand
+T46	Process 940 947	binding
+T47	Protein_part 949 953	site
+T48	Geometrical_part 968 972	ring
+T49	Protein_part 976 989	CAP-1 inserts
+T50	Body_part 999 1005	cavity
+T51	Chemical 1016 1020	urea
+T52	Unknown 1021 1023	NH
+T53	Molecular_Part 1024 1030	groups
+T54	Chemical 1039 1053	hydrogen bonds
+T55	Chemical 1072 1078	oxygen
+T56	Protein_part 1082 1087	Val59
+T57	Chemical 1096 1111	dimethylamonium
+T58	Molecular_Part 1113 1118	group
+T59	Protein_part 1140 1151	side-chains
+T60	Protein_part 1155 1160	Glu28
+T61	Protein_part 1165 1170	Glu29
+T62	Unknown 1172 1180	Elements
+T63	Parameter 1216 1232	binding affinity
+T64	Unknown 1253 1262	structure
+T65	Process 1268 1280	displacement
+T66	Protein_part 1284 1289	Phe32
+T67	Unknown 1293 1298	CAP-1
+T68	Protein 1339 1349	main-chain
+T69	State 1350 1362	conformation
+T70	Parameter 1381 1390	potential
+T71	Process 1391 1395	role
+T72	Protein_part 1402 1407	Phe32
+T73	State 1408 1422	conformational
+T74	Process 1423 1429	switch
+T75	Body_part 1444 1450	capsid
+T76	Process 1451 1459	assembly

@@ -1,0 +1,48 @@
+T1	Protein 13 22	ubiquitin
+T2	Protein_part 34 41	Hrs-UIM
+T3	Body_part 45 54	endosomal
+T4	Protein 55 62	protein
+T5	Process 63 70	sorting
+T6	Process 93 97	role
+T7	Process 101 108	sorting
+T8	Protein 130 139	receptors
+T9	Body_part 158 164	bodies
+T10	Body_part 169 178	lysosomal
+T11	Process 179 190	degradation
+T12	Process 200 211	recognition
+T13	Protein 229 238	receptors
+T14	Protein_part 246 279	ubiquitin-interacting motif (UIM)
+T15	Geometrical_part 302 311	structure
+T16	Category 317 324	complex
+T17	Protein_part 328 335	Hrs-UIM
+T18	Protein 340 349	ubiquitin
+T19	Value 353 358	1.7-A
+T20	Parameter 359 369	resolution
+T21	Protein_part 372 379	Hrs-UIM
+T22	Protein_part 395 406	alpha-helix
+T23	Protein 424 443	ubiquitin molecules
+T24	Location 459 463	side
+T25	Protein 475 494	ubiquitin molecules
+T26	Value 517 525	two-fold
+T27	Geometrical_part 532 540	symmetry
+T28	Geometrical_part 551 558	helical
+T29	Location 559 563	axis
+T30	Protein_part 571 574	UIM
+T31	Process 595 600	shift
+T32	Protein_part 608 616	residues
+T33	Protein_part 624 633	UIM helix
+T34	Protein 640 659	ubiquitin molecules
+T35	Protein_part 678 681	UIM
+T36	Protein_part 713 726	Ile44 surface
+T37	Parameter 739 757	binding affinities
+T38	Process 770 781	experiments
+T39	Process 797 804	binding
+T40	Protein_part 805 810	sites
+T41	Protein_part 814 821	Hrs-UIM
+T42	Protein 861 868	protein
+T43	Process 869 876	sorting
+T44	Protein_part 878 885	Hrs-UIM
+T45	Protein_part 928 932	UIMs
+T46	Organism 953 958	yeast
+T47	Protein 959 973	homolog Vps27p
+T48	Protein_part 1010 1014	UIMs

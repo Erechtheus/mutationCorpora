@@ -1,0 +1,84 @@
+T1	Parameter 7 17	resolution
+T2	Geometrical_part 18 28	structures
+T3	Protein 32 64	R-specific alcohol dehydrogenase
+T4	Chemical 70 83	Lactobacillus
+T5	Body_part 84 90	brevis
+T6	Category 127 136	substrate
+T7	Category 141 152	cosubstrate
+T8	Protein 170 209	R-specific alcohol dehydrogenase (RADH)
+T9	Chemical 215 228	Lactobacillus
+T10	Body_part 229 235	brevis
+T11	Chemical 242 246	NADP
+T12	Unknown 273 279	member
+T13	Protein 296 309	enzyme family
+T14	Protein 313 356	short-chain dehydrogenases/reductases (SDR)
+T15	Process 386 397	application
+T16	Parameter 398 407	potential
+T17	Category 432 442	substrates
+T18	Chemical 457 464	ketones
+T19	Chemical 470 482	acetophenone
+T20	Chemical 514 520	methyl
+T21	Molecular_Part 521 526	group
+T22	Unknown 534 545	substituent
+T23	Molecular_Part 576 582	moiety
+T24	Process 604 609	basis
+T25	Geometrical_part 634 643	structure
+T26	Protein 647 661	wild-type RADH
+T27	Category 665 672	complex
+T28	Chemical 678 682	NADP
+T29	Chemical 687 699	acetophenone
+T30	Protein 717 733	mutant RADH-G37D
+T31	Category 769 780	cosubstrate
+T32	Chemical 857 860	NAD
+T33	Chemical 873 877	NADP
+T34	Parameter 891 898	kinetic
+T35	Process 899 911	measurements
+T36	Protein 931 942	mutant RADH
+T37	Geometrical_part 1081 1099	crystal structures
+T38	Protein 1103 1112	RADH-G37D
+T39	Protein 1124 1134	apo-enzyme
+T40	Category 1142 1157	ternary complex
+T41	Chemical 1163 1166	NAD
+T42	Chemical 1170 1174	NADH
+T43	Chemical 1179 1192	phenylethanol
+T44	Parameter 1208 1216	affinity
+T45	Protein 1220 1229	RADH-G37D
+T46	Chemical 1234 1240	NAD(H)
+T47	Process 1255 1266	interaction
+T48	Chemical 1279 1295	adenosine ribose
+T49	Molecular_Part 1296 1302	moiety
+T50	Chemical 1306 1309	NAD
+T51	Protein_part 1327 1347	aspartate side-chain
+T52	Process 1362 1372	comparison
+T53	Protein 1381 1390	RADH-G37D
+T54	Protein 1394 1404	apo-enzyme
+T55	Geometrical_part 1414 1418	part
+T56	Category 1424 1439	ternary complex
+T57	Process 1461 1475	rearrangements
+T58	Protein_part 1479 1485	Ser141
+T59	Protein_part 1487 1493	Glu144
+T60	Protein_part 1495 1501	Tyr189
+T61	Protein_part 1506 1512	Met205
+T62	Location 1520 1528	vicinity
+T63	Protein_part 1536 1547	active site
+T64	Process 1554 1564	plasticity
+T65	Geometrical_part 1609 1615	pocket
+T66	Chemical 1624 1630	methyl
+T67	Molecular_Part 1631 1636	group
+T68	Protein 1649 1653	RADH
+T69	Category 1654 1664	substrates
+T70	Unknown 1739 1750	substituent
+T71	Protein_part 1759 1765	Ser141
+T72	State 1792 1805	conformations
+T73	Protein_part 1857 1863	region
+T74	Parameter 1902 1906	time
+T75	Protein 1914 1924	SDR enzyme
+T76	Protein_part 1982 1988	Ser142
+T77	Unknown 1992 1998	member
+T78	Protein_part 2023 2039	catalytic tetrad
+T79	Protein 2052 2063	SDR enzymes
+T80	Molecule 2098 2104	proton
+T81	Unknown 2111 2117	system
+T82	Unknown 2166 2173	element
+T83	Process 2182 2202	catalytic  mechanism
+T84	Protein 2206 2217	SDR enzymes

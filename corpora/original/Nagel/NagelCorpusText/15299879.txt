@@ -1,0 +1,9 @@
+This paper reports the primary sequence and refined crystal structure of Pseudomonas fluorescens holoazurin . 
+The crystal structure has been determined by molecular replacement on the basis of the molecular model of azurin from Alcaligenes denitrificans, and refined by the method of molecular dynamics simulation and energy-restrained least-squares methods . 
+P. fluorescens was crystallized in the orthorhombic space group P2(1)2(1)2(1) with unit-cell dimensions a = 31.95, b = 43.78, c = 78.81 A . 
+The asymmetric unit is composed of only one molecule . 
+The final R value is 16.7% for 6691 reflections to a resolution of 2.05 A . 
+This azurin structure shows some interesting features at His35 and His83 . 
+Part of the main chain of strand 3 including His35 O are involved in the contact between two symmetrically related molecules . 
+P. fluorescens is also compared with the other azurin structures in terms of primary sequence, crystal packing, solvent structure and Cu-site geometry . 
+The difference in fluorescence decay behavior of two holoazurins from P. fluorescens and P. aeruginosa and the correlation between the fluorescence quenching and electron transfer are discussed . 

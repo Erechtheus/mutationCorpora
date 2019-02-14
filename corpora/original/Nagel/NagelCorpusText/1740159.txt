@@ -1,0 +1,9 @@
+1 . 
+Retinol-binding protein (RBP) has been isolated from the pooled plasma or rainbow trouts (Oncorhinchus mykiss) by gel filtration, hydrophobic interaction chromatography and ion-exchange chromatography . 
+By this procedure two forms of the protein, both with a molecular mass (approximately 20 kDa) similar to that of mammalian RBP, were purified to homogeneity . 
+Five amino acid substitutions have been found in the partial (about 60%) sequences of the two forms of trout RBP, which are presumably acetylated at their N terminus . 
+The apparent participation of six conserved cysteines in the formation of disulphide bridges, as in human RBP, and the similarity (about 60%) of the amino acid sequence of trout and mammalian RBPs, indicate the existence of a similar overall structure organization in evolutionary distant RBPs . 
+2 . 
+Although the two forms of trout RBP are not physiologically involved in the formation of any protein--protein complex in plasma, they are capable of interacting with mammalian transthyretin, albeit with a binding affinity (K'd = 15-40 microM) considerably lower than that of mammalian RBP . 
+Our data indicate that the two forms of trout RBP also possess the region that in mammalian RBP has the functional role of binding transthyretin . 
+It is suggested that transthyretin (or a homologous protein) was modified, during phylogenetic development of the non mammalian vertebrates, to acquire a binding site for such a region of the RBP molecule . 

@@ -1,0 +1,66 @@
+T1	Geometrical_part 0 10	Structures
+T2	Category 14 31	ternary complexes
+T3	Organism 35 38	rat
+T4	Protein 39 58	DNA polymerase beta
+T5	Protein 62 81	DNA template-primer
+T6	Chemical 87 92	ddCTP
+T7	Category 98 115	ternary complexes
+T8	Organism 119 122	rat
+T9	Protein 123 153	DNA polymerase beta (pol beta)
+T10	Protein 157 176	DNA template-primer
+T11	Chemical 182 218	dideoxycytidine triphosphate (ddCTP)
+T12	Value 243 248	2.9 A
+T13	Value 253 258	3.6 A
+T14	Parameter 259 269	resolution
+T15	Chemical 285 290	ddCTP
+T16	Chemical 298 310	triphosphate
+T17	Chemical 314 335	dideoxycytidine (ddC)
+T18	Chemical 339 356	nucleoside analog
+T19	Protein 374 395	reverse transcriptase
+T20	Organism 399 433	human immunodeficiency virus (HIV)
+T21	Physiology 466 470	AIDS
+T22	Unknown 481 489	crystals
+T23	Category 501 510	complexes
+T24	Process 521 530	different
+T25	Molecular_Part 537 543	groups
+T26	Unknown 549 559	structures
+T27	Chemical 593 613	polymerase-DNA-ddCTP
+T28	Process 614 626	interactions
+T29	Unknown 647 654	crystal
+T30	Process 655 662	packing
+T31	Parameter 663 669	forces
+T32	Protein_part 678 698	pol beta active site
+T33	Unknown 714 719	3'-OH
+T34	Molecular_Part 738 744	primer
+T35	Chemical 750 766	ddCTP phosphates
+T36	Chemical 776 785	Mg2+ ions
+T37	Protein_part 811 817	Asp190
+T38	Protein_part 819 825	Asp192
+T39	Protein_part 831 837	Asp256
+T40	Protein_part 852 860	residues
+T41	Protein_part 862 868	Asp190
+T42	Protein_part 873 879	Asp256
+T43	Protein_part 900 920	amino acid sequences
+T44	Protein 928 939	polymerases
+T45	Unknown 1016 1031	Klenow fragment
+T46	Organism 1035 1055	Escherichia coli DNA
+T47	Protein 1056 1068	polymerase I
+T48	Organism 1070 1075	HIV-1
+T49	Protein 1076 1083	reverse
+T50	Protein 1084 1097	transcriptase
+T51	Organism 1099 1101	T7
+T52	Protein 1102 1116	RNA polymerase
+T53	Organism 1122 1125	rat
+T54	Protein 1126 1140	DNA pol beta--
+T55	Geometrical_part 1146 1164	crystal structures
+T56	Chemical 1182 1195	two-metal ion
+T57	Process 1196 1205	mechanism
+T58	Chemical 1227 1238	nucleotidyl
+T59	Process 1239 1247	transfer
+T60	Process 1248 1256	reaction
+T61	Protein 1278 1289	polymerases
+T62	Geometrical_part 1314 1324	structures
+T63	Protein 1335 1343	pol beta
+T64	Protein 1357 1376	DNA template-primer
+T65	Process 1382 1391	different
+T66	Technique 1437 1458	polymerase-DNA models

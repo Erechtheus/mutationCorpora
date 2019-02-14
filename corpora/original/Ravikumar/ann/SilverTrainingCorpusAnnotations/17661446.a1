@@ -1,0 +1,84 @@
+T1	Chemical 0 16	Carboxy-terminus
+T2	Process 17 28	recruitment
+T3	Category 40 49	substrate
+T4	Process 50 57	binding
+T5	Organism 61 71	eukaryotic
+T6	Protein 72 105	fructose  bis-phosphate aldolases
+T7	Geometrical_part 111 129	crystal structures
+T8	Organism 133 152	Leishmania mexicana
+T9	Protein 153 189	fructose-1,6-bis(phosphate) aldolase
+T10	Category 193 200	complex
+T11	Category 206 215	substrate
+T12	Category 232 241	inhibitor
+T13	Chemical 243 270	mannitol-1,6-bis(phosphate)
+T14	Value 287 292	2.2 A
+T15	Parameter 293 303	resolution
+T16	Technique 305 330	Crystallographic analysis
+T17	Chemical 342 366	Schiff base intermediate
+T18	Geometrical_part 382 398	native structure
+T19	Category 414 423	substrate
+T20	Category 434 443	inhibitor
+T21	State 461 473	conformation
+T22	Chemical 488 514	carbinolamine intermediate
+T23	Process 516 523	Binding
+T24	Chemical 530 542	corroborated
+T25	Unknown 552 562	structures
+T26	Organism 576 582	rabbit
+T27	Body_part 583 589	muscle
+T28	Protein 590 598	aldolase
+T29	Protein_part 600 610	Amino acid
+T30	Process 611 623	substitution
+T31	Protein_part 627 634	Gly-312
+T32	Protein_part 638 641	Ala
+T33	Location 643 651	adjacent
+T34	Chemical 659 671	P1-phosphate
+T35	Process 672 679	binding
+T36	Protein_part 680 684	site
+T37	Category 732 738	ligand
+T38	Process 739 746	binding
+T39	Protein_part 754 765	active site
+T40	Molecule 767 773	Ligand
+T41	Process 774 784	attachment
+T42	Protein_part 793 820	amino acid residues 359-367
+T43	Protein_part 828 845	C-terminal region
+T44	Protein_part 883 890	Asp-358
+T45	Unknown 906 915	structure
+T46	Process 935 946	recruitment
+T47	Process 947 956	mechanism
+T48	Protein_part 965 971	region
+T49	Protein 975 984	aldolases
+T50	Protein_part 986 1004	C-Terminal peptide
+T51	Chemical 1030 1042	P1-phosphate
+T52	State 1064 1078	conformational
+T53	Process 1079 1086	changes
+T54	Protein_part 1095 1113	C-terminal Leu-364
+T55	Process 1114 1122	contacts
+T56	Chemical 1123 1135	P1-phosphate
+T57	Protein_part 1144 1159	residue Arg-313
+T58	Protein_part 1161 1178	C-Terminal region
+T59	Process 1209 1221	interactions
+T60	Protein 1227 1234	subunit
+T61	Geometrical_part 1235 1242	surface
+T62	Protein_part 1243 1251	residues
+T63	Chemical 1271 1283	P1-phosphate
+T64	Protein_part 1308 1318	C-terminal
+T65	Process 1319 1329	attachment
+T66	Protein_part 1331 1350	Amino acid residues
+T67	Process 1385 1396	interaction
+T68	Protein 1417 1434	class I aldolases
+T69	Process 1457 1468	recruitment
+T70	Process 1469 1478	mechanism
+T71	Protein_part 1487 1497	C-terminal
+T72	Protein_part 1518 1529	active site
+T73	Process 1530 1542	interactions
+T74	Process 1574 1585	Recruitment
+T75	Process 1602 1620	enzymatic reaction
+T76	Parameter 1630 1644	binding energy
+T77	Parameter 1672 1679	entropy
+T78	Process 1687 1696	catalysis
+T79	Protein_part 1731 1750	C-terminus tyrosine
+T80	Molecule 1767 1773	proton
+T81	Process 1774 1782	transfer
+T82	Location 1784 1792	proximal
+T83	Protein_part 1800 1811	active site
+T84	Chemical 1813 1820	enamine

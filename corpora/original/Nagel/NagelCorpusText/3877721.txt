@@ -1,0 +1,6 @@
+The complete amino acid sequence of bovine bone matrix Gla protein (MGP) was determined by automatic sequence analysis of the intact protein and of peptides isolated from tryptic and BNPS-skatole digests . 
+This 79-residue, vitamin K-dependent protein contains a single disulfide bond and 4.8 gamma-carboxyglutamate (Gla) residues, one each at positions 37, 41, 48, and 52, and 0.8 Gla and 0.2 Glu at position 2 . 
+There is sufficient sequence homology between MGP and bone Gla protein (BGP) to indicate that these two bovine bone proteins arose by gene duplication and subsequent divergent evolution . 
+Although MGP has a very low solubility in water compared to BGP, there is no hydrophobic domain in MGP which could account for its insolubility, and the overall fraction of hydrophobic residues is 32% for MGP compared to 43% for BGP . 
+MGP is the first vitamin K-dependent protein to be discovered which has several non-gamma-carboxylated residues to the NH2-terminal side of its Gla residues . 
+The presence of NH2-terminal Glu residues between the putative targeting domain for the gamma-carboxylase in the MGP leader sequence and the mid-molecule Gla residues suggests that the gamma-carboxylase may have additional, as yet unrecognized, specificity requirements which determine the susceptibility of Glu residues for gamma-carboxylation . 

@@ -1,0 +1,80 @@
+T1	State 0 14	Conformational
+T2	Process 15 25	transition
+T3	Protein 29 56	fructose-1,6-bisphosphatase
+T4	Unknown 58 67	structure
+T5	Process 68 78	comparison
+T6	Chemical 91 94	AMP
+T7	Category 95 102	complex
+T8	State 104 110	T form
+T9	Chemical 120 140	fructose 6-phosphate
+T10	Category 141 148	complex
+T11	State 150 156	R form
+T12	Unknown 161 170	structure
+T13	State 178 190	neutral form
+T14	Protein 194 221	fructose-1,6-bisphosphatase
+T15	Chemical 237 240	AMP
+T16	Process 268 289	molecular replacement
+T17	Value 314 319	2.5-A
+T18	Parameter 320 330	resolution
+T19	Technique 336 352	crystallographic
+T20	Parameter 353 361	R factor
+T21	Value 365 370	0.169
+T22	Parameter 376 399	root-mean-square errors
+T23	Unknown 407 416	structure
+T24	Geometrical_part 431 439	geometry
+T25	Value 444 451	0.013 A
+T26	Parameter 456 468	bond lengths
+T27	Value 473 485	2.99 degrees
+T28	Parameter 490 501	bond angles
+T29	Process 503 513	Comparison
+T30	Chemical 521 524	AMP
+T31	Category 525 532	complex
+T32	Protein_part 542 545	F6P
+T33	Category 546 553	complex
+T34	Protein 565 576	dimer C3-C4
+T35	Value 584 600	about 19 degrees
+T36	Geometrical_part 619 630	2-fold axis
+T37	Protein 636 648	dimers C1-C2
+T38	State 656 657	R
+T39	State 662 669	T forms
+T40	Protein 677 683	enzyme
+T41	Process 732 737	shift
+T42	Value 741 750	about 1 A
+T43	Protein_part 758 768	AMP domain
+T44	State 807 808	R
+T45	State 812 813	T
+T46	Process 814 824	transition
+T47	Protein 832 838	enzyme
+T48	State 873 885	conformation
+T49	Protein_part 893 896	F6P
+T50	Protein_part 905 909	site
+T51	Protein_part 920 928	residues
+T52	Protein_part 936 955	divalent metal site
+T53	Protein_part 964 972	AMP site
+T54	Process 1001 1007	shifts
+T55	Category 1045 1054	substrate
+T56	Protein_part 1067 1070	F6P
+T57	Process 1090 1100	regulation
+T58	Protein 1108 1114	enzyme
+T59	Chemical 1118 1121	AMP
+T60	Process 1147 1154	effects
+T61	Chemical 1158 1167	metal-ion
+T62	Parameter 1168 1176	affinity
+T63	Chemical 1190 1193	AMP
+T64	Protein_part 1212 1217	sites
+T65	State 1225 1226	T
+T66	State 1231 1238	R forms
+T67	Chemical 1284 1294	alkaline R
+T68	Process 1312 1319	binding
+T69	Chemical 1323 1326	AMP
+T70	State 1377 1383	R form
+T71	State 1404 1410	T form
+T72	Process 1425 1433	pathways
+T73	Process 1452 1476	allosteric communication
+T74	Value 1482 1492	about 28 A
+T75	Protein_part 1505 1513	AMP site
+T76	Protein_part 1522 1533	active site
+T77	Protein_part 1543 1553	helices H1
+T78	Protein_part 1555 1557	H2
+T79	Protein_part 1563 1565	H3
+T80	Protein_part 1602 1612	beta-sheet

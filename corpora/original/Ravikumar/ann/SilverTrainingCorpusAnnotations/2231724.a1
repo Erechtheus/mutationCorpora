@@ -1,0 +1,129 @@
+T1	Value 0 5	2.2 A
+T2	Parameter 6 16	resolution
+T3	Technique 17 35	structure analysis
+T4	Chemical 51 79	N-acetylneuraminyl-lactose--
+T5	Organism 79 84	wheat
+T6	Body_part 85 89	germ
+T7	Protein 90 110	agglutinin isolectin
+T8	Category 111 120	complexes
+T9	Geometrical_part 126 144	crystal structures
+T10	Category 148 157	complexes
+T11	Protein 161 173	isolectins 1
+T12	Protein 178 179	2
+T13	Organism 183 188	wheat
+T14	Body_part 189 193	germ
+T15	Protein 194 204	agglutinin
+T16	Unknown 206 210	WGA1
+T17	Unknown 215 219	WGA2
+T18	Chemical 226 252	N-acetylneuraminyl-lactose
+T19	Protein 254 266	NeuNAc-alpha
+T20	Protein 270 289	)-Gal-beta(1-4)-Glc
+T21	Process 316 321	basis
+T22	Value 337 347	8 to 2.2 A
+T23	Parameter 348 364	resolution range
+T24	Technique 374 390	crystallographic
+T25	Parameter 391 400	R-factors
+T26	Value 404 409	17.2%
+T27	Value 415 420	15.3%
+T28	Parameter 438 445	1 sigma
+T29	Process 471 478	binding
+T30	Process 479 491	interactions
+T31	Chemical 497 502	water
+T32	Process 503 514	association
+T33	Process 527 534	changes
+T34	State 538 550	conformation
+T35	Unknown 571 580	structure
+T36	Category 586 592	ligand
+T37	Process 593 600	binding
+T38	Category 627 636	complexes
+T39	Parameter 642 661	temperature factors
+T40	Parameter 663 664	B
+T41	Value 667 674	16.3 A2
+T42	Value 679 686	18.4 A2
+T43	Geometrical_part 756 773	native structures
+T44	Value 775 777	19
+T45	Value 781 786	22 A2
+T46	Protein_part 789 797	Residues
+T47	Chemical 810 815	sugar
+T48	Process 816 823	binding
+T49	Process 825 837	dimerization
+T50	Process 853 861	contacts
+T51	Parameter 895 902	B-value
+T52	Chemical 920 925	sugar
+T53	Process 926 933	binding
+T54	Protein 970 987	protein molecules
+T55	Unknown 995 1002	crystal
+T56	Process 1016 1023	binding
+T57	Chemical 1037 1057	sialyl-trisaccharide
+T58	Body_part 1072 1076	cell
+T59	Protein 1077 1094	receptor analogue
+T60	Protein 1125 1135	isolectins
+T61	Process 1164 1171	binding
+T62	Protein_part 1172 1177	sites
+T63	Protein 1185 1190	dimer
+T64	Protein 1208 1223	subunit/subunit
+T65	Unknown 1254 1262	crystals
+T66	Protein_part 1269 1273	site
+T67	Process 1296 1303	binding
+T68	Protein_part 1304 1308	site
+T69	Protein_part 1335 1345	amino acid
+T70	Process 1346 1359	substitutions
+T71	Unknown 1379 1383	WGA1
+T72	Unknown 1388 1392	WGA2
+T73	Process 1394 1407	Superposition
+T74	Technique 1457 1473	crystallographic
+T75	Process 1474 1486	environments
+T76	Protein_part 1523 1531	terminal
+T77	Protein_part 1545 1559	NeuNAc residue
+T78	Protein 1561 1585	root-mean-square delta r
+T79	Value 1590 1593	0.5
+T80	Value 1597 1602	0.6 A
+T81	Chemical 1609 1616	Gal-Glc
+T82	Process 1658 1662	lack
+T83	Molecule 1663 1671	electron
+T84	Parameter 1672 1679	density
+T85	Protein 1713 1720	factors
+T86	Unknown 1730 1746	complexes NeuNAc
+T87	Process 1769 1776	contact
+T88	Protein_part 1786 1808	amino acid side-chains
+T89	Protein_part 1810 1816	Ser114
+T90	Protein_part 1822 1828	Glu115
+T91	Protein 1832 1841	subunit 1
+T92	Protein_part 1846 1851	Ser62
+T93	Protein_part 1853 1858	Tyr64
+T94	Protein_part 1860 1870	Tyr(His)66
+T95	Protein_part 1875 1880	Tyr73
+T96	Protein 1884 1893	subunit 2
+T97	Geometrical_part 1910 1921	NeuNAc ring
+T98	Unknown 1922 1934	substituents
+T99	Process 1936 1946	Refinement
+T100	Process 1968 1978	assessment
+T101	Process 1986 1993	contact
+T102	Parameter 1994 2003	distances
+T103	Chemical 2013 2027	hydrogen bonds
+T104	Process 2055 2062	contact
+T105	Chemical 2072 2081	acetamido
+T106	Chemical 2082 2085	CH3
+T107	Molecular_Part 2086 2091	group
+T108	Unknown 2114 2128	van der Waals'
+T109	Process 2129 2141	interactions
+T110	Protein_part 2166 2177	side-chains
+T111	Value 2183 2189	higher
+T112	Parameter 2190 2198	affinity
+T113	Chemical 2202 2228	N-acetylneuraminyl-lactose
+T114	Technique 2241 2267	nuclear magnetic resonance
+T115	Unknown 2280 2284	WGA1
+T116	Process 2324 2331	binding
+T117	Process 2332 2344	interactions
+T118	Protein_part 2362 2372	residue 66
+T119	Protein_part 2378 2381	Tyr
+T120	Protein_part 2387 2405	tyrosyl side-chain
+T121	Geometrical_part 2424 2431	surface
+T122	Unknown 2436 2450	van der Waals'
+T123	Chemical 2472 2492	NeuNAc pyranose ring
+T124	Protein_part 2498 2503	His66
+T125	Chemical 2510 2523	hydrogen bond
+T126	Process 2524 2531	contact
+T127	Chemical 2537 2540	Gal
+T128	Chemical 2542 2547	C2-OH
+T129	Unknown 2566 2570	WGA2

@@ -1,0 +1,42 @@
+T1	Process 26 32	gating
+T2	Protein 40 57	potassium-channel
+T3	Parameter 58 69	selectivity
+T4	Protein 98 120	potassium channel KcsA
+T5	Molecule 122 128	proton
+T6	Process 139 149	activation
+T7	Process 168 180	inactivation
+T8	Process 181 188	process
+T9	Unknown 200 206	C-type
+T10	Process 207 219	inactivation
+T11	Process 230 237	process
+T12	Protein_part 258 262	E71A
+T13	Process 263 271	mutation
+T14	Body_part 279 283	pore
+T15	Protein_part 284 289	helix
+T16	Technique 291 307	EPR spectroscopy
+T17	Location 330 335	inner
+T18	Value 360 363	low
+T19	Parameter 364 366	pH
+T20	Parameter 385 394	magnitude
+T21	Parameter 422 433	probability
+T22	Process 460 466	gating
+T23	Process 490 504	rearrangements
+T24	Parameter 512 523	selectivity
+T25	Protein 536 540	E71A
+T26	Geometrical_part 541 548	crystal
+T27	Geometrical_part 549 559	structures
+T28	Value 572 577	2.5 A
+T29	Process 602 612	excursions
+T30	Parameter 620 631	selectivity
+T31	Chemical 646 649	ion
+T32	Process 650 660	conduction
+T33	State 699 712	conformations
+T34	Protein_part 731 737	region
+T35	Protein 745 752	channel
+T36	Process 760 766	gating
+T37	Process 803 808	basis
+T38	Process 817 821	role
+T39	Parameter 829 840	selectivity
+T40	Protein 855 862	channel
+T41	Process 863 873	activation
+T42	Process 878 890	inactivation

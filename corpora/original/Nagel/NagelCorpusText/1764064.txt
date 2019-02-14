@@ -1,0 +1,3 @@
+A rat homologue of hck tyrosine kinase cDNA from a rat megakaryocyte library contains 1911 nucleotides with an open reading frame encoding 503 amino acids . 
+The rat hck had distinct amino acid residues from the mouse homologue exhibiting 97.6% identity . 
+The sequence contains the SH2 and SH3 regions that interact with cytoplasmic signaling proteins, the kinase domain including the nucleotide binding site and the autophosphorylation site, and the C-terminal Tyr-499 known as a negative regulator . 

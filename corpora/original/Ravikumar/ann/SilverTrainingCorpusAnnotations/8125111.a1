@@ -1,0 +1,78 @@
+T1	Technique 0 22	X-ray crystallographic
+T2	Process 55 62	effects
+T3	Process 70 78	mutation
+T4	Protein_part 79 84	Trp59
+T5	Protein_part 87 90	Tyr
+T6	Protein 94 109	ribonuclease T1
+T7	Molecule 115 122	mutants
+T8	Protein 126 151	ribonuclease T1 (RNaseT1)
+T9	Protein 153 181	[59-tyrosine]ribonuclease T1
+T10	Protein 183 187	W59Y
+T11	Protein 193 247	[45-tryptophan,59-tyrosine]ribonuclease T1 (Y45W/W59Y)
+T12	Value 264 268	150%
+T13	Value 273 277	190%
+T14	Parameter 278 296	wild-type activity
+T15	Category 329 338	complexes
+T16	Category 346 355	inhibitor
+T17	Chemical 356 372	2'-guanylic acid
+T18	Technique 389 406	X-ray diffraction
+T19	Process 410 421	resolutions
+T20	Value 425 432	0.23 nm
+T21	Value 437 444	0.24 nm
+T22	Geometrical_part 464 475	space group
+T23	Unknown 500 505	P2(1)
+T24	Protein 543 547	W59Y
+T25	Parameter 549 550	a
+T26	Value 553 561	4.934 nm
+T27	Parameter 563 564	b
+T28	Value 567 575	4.820 nm
+T29	Parameter 577 578	c
+T30	Value 581 589	4.025 nm
+T31	Parameter 591 595	beta
+T32	Value 598 611	90.29 degrees
+T33	Protein 613 622	Y45W/W59Y
+T34	Parameter 624 625	a
+T35	Value 628 636	4.915 nm
+T36	Parameter 638 639	b
+T37	Value 642 650	4.815 nm
+T38	Parameter 652 653	c
+T39	Value 656 664	4.015 nm
+T40	Parameter 666 670	beta
+T41	Value 673 686	90.35 degrees
+T42	Unknown 688 696	Compared
+T43	Protein 700 717	wild-type RNaseT1
+T44	Category 721 728	complex
+T45	Chemical 734 750	2'-guanylic acid
+T46	Chemical 752 757	2'GMP
+T47	Category 771 780	inhibitor
+T48	Category 781 790	complexes
+T49	Process 809 820	replacement
+T50	Protein_part 824 829	Trp59
+T51	Protein_part 833 836	Tyr
+T52	Value 848 855	0.04-nm
+T53	Location 856 862	inward
+T54	Process 863 868	shift
+T55	Protein_part 883 894	alpha-helix
+T56	Process 914 925	differences
+T57	Protein_part 933 953	active-site geometry
+T58	Category 955 964	inhibitor
+T59	State 965 977	conformation
+T60	Category 982 991	inhibitor
+T61	Process 992 999	binding
+T62	Protein 1036 1074	mutants [24-tryptophan]ribonuclease T1
+T63	Protein_part 1076 1080	Y24W
+T64	Protein 1083 1113	[42-tryptophan]ribonuclease T1
+T65	Protein_part 1115 1119	Y42W
+T66	Protein 1122 1152	[45-tryptophan]ribonuclease T1
+T67	Protein_part 1154 1158	Y45W
+T68	Protein 1161 1188	[92-alanine]ribonuclease T1
+T69	Protein 1190 1194	H92A
+T70	Protein 1200 1229	[92-threonine]ribonuclease T1
+T71	Protein 1231 1235	H92T
+T72	Process 1266 1274	mutation
+T73	Protein_part 1275 1280	Trp59
+T74	Protein_part 1283 1286	Tyr
+T75	Protein 1299 1314	mutant proteins
+T76	Protein_part 1325 1330	Trp59
+T77	Protein_part 1346 1349	Tyr
+T78	State 1377 1394	thermal stability

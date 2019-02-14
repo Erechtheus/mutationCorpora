@@ -1,0 +1,80 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 24 49	calmodulin-target peptide
+T3	Category 50 57	complex
+T4	Technique 78 81	NMR
+T5	Geometrical_part 105 123	solution structure
+T6	Category 131 138	complex
+T7	Chemical 147 154	calcium
+T8	Protein 161 171	calmodulin
+T9	Chemical 173 175	Ca
+T10	Protein 175 183	(2+)-CaM
+T11	Protein_part 191 201	26-residue
+T12	Protein_part 212 219	peptide
+T13	Protein 235 238	CaM
+T14	Process 239 246	binding
+T15	Protein_part 247 253	domain
+T16	Protein_part 255 267	residues 577
+T17	Protein_part 271 274	602
+T18	Body_part 279 294	skeletal muscle
+T19	Protein 295 313	myosin light chain
+T20	Protein 314 320	kinase
+T21	Location 365 378	heteronuclear
+T22	Technique 402 441	nuclear magnetic resonance spectroscopy
+T23	Protein_part 451 458	domains
+T24	Protein 462 465	CaM
+T25	Protein_part 467 477	residues 6
+T26	Protein_part 481 483	73
+T27	Protein_part 488 490	83
+T28	Protein_part 494 497	146
+T29	Process 533 545	complexation
+T30	Protein_part 557 570	central helix
+T31	Protein_part 572 583	residues 65
+T32	Protein_part 587 589	93
+T33	Protein_part 624 631	domains
+T34	Geometrical_part 639 656	crystal structure
+T35	Chemical 660 670	Ca(2+)-CaM
+T36	Protein_part 694 701	helices
+T37	Geometrical_part 731 735	loop
+T38	Protein_part 737 748	residues 74
+T39	Protein_part 752 754	82
+T40	Protein_part 782 789	domains
+T41	Technique 793 798	clamp
+T42	Protein_part 799 809	residues 3
+T43	Protein_part 813 815	21
+T44	Protein_part 829 836	peptide
+T45	State 852 872	helical conformation
+T46	Geometrical_part 886 895	structure
+T47	Category 903 910	complex
+T48	Parameter 955 965	dimensions
+T49	Value 978 990	30 angstroms
+T50	Geometrical_part 996 1003	helical
+T51	Protein_part 1004 1011	peptide
+T52	Protein 1029 1048	hydrophobic channel
+T53	Parameter 1103 1108	angle
+T54	Value 1112 1136	approximately 45 degrees
+T55	Location 1151 1155	axis
+T56	Category 1161 1168	complex
+T57	Process 1205 1217	interactions
+T58	Protein 1234 1237	CaM
+T59	Location 1238 1242	side
+T60	Chemical 1281 1292	methionines
+T61	Protein_part 1298 1306	residues
+T62	Protein_part 1314 1321	peptide
+T63	Protein_part 1326 1330	Trp4
+T64	Protein_part 1335 1340	Phe17
+T65	Chemical 1368 1374	amino-
+T66	Chemical 1379 1396	carboxyl-terminal
+T67	Protein_part 1411 1418	peptide
+T68	Chemical 1426 1435	carboxyl-
+T69	Protein_part 1440 1462	amino-terminal domains
+T70	Protein 1466 1469	CaM
+T71	Protein_part 1485 1493	Sequence
+T72	Process 1494 1505	comparisons
+T73	Protein_part 1532 1540	peptides
+T74	Protein 1551 1554	CaM
+T75	Parameter 1565 1573	affinity
+T76	Protein_part 1627 1635	residues
+T77	Protein 1639 1649	long-chain
+T78	Molecular_Part 1682 1689	stretch
+T79	Protein_part 1696 1704	residues
+T80	Protein 1741 1744	CaM

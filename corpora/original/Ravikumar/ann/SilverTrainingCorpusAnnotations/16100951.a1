@@ -1,0 +1,55 @@
+T1	Process 0 11	Recognition
+T2	Organism 22 31	bacterial
+T3	Protein 32 44	ribonuclease
+T4	Protein 46 53	barnase
+T5	Category 71 80	inhibitor
+T6	Protein 103 118	Protein-protein
+T7	Process 119 130	recognition
+T8	Process 165 174	processes
+T9	Protein 233 241	proteins
+T10	Category 292 308	antigen-antibody
+T11	Category 309 318	complexes
+T12	Protein 320 327	Barnase
+T13	Organism 331 340	bacterial
+T14	Protein 341 353	ribonuclease
+T15	Category 380 389	inhibitor
+T16	Category 404 411	complex
+T17	Protein 468 483	protein-protein
+T18	Process 497 509	interactions
+T19	Geometrical_part 539 548	structure
+T20	Category 555 562	complex
+T21	Protein 571 578	barnase
+T22	Molecule 602 608	mutant
+T23	Technique 635 649	X-ray analysis
+T24	Geometrical_part 680 688	parallel
+T25	Protein_part 689 702	alpha-helices
+T26	Geometrical_part 736 744	parallel
+T27	Protein_part 746 756	beta-sheet
+T28	Protein_part 784 795	active site
+T29	Protein 803 809	enzyme
+T30	Protein_part 818 829	alpha-helix
+T31	Location 834 842	adjacent
+T32	Geometrical_part 843 847	loop
+T33	Geometrical_part 860 867	surface
+T34	Molecule 901 910	molecules
+T35	Value 918 925	1630 A2
+T36	Category 947 954	complex
+T37	Parameter 986 992	charge
+T38	Process 993 1005	interactions
+T39	Value 1016 1024	positive
+T40	Parameter 1025 1032	charges
+T41	Protein_part 1040 1051	active site
+T42	Protein 1059 1065	enzyme
+T43	Protein_part 1067 1072	Asp39
+T44	Chemical 1097 1106	phosphate
+T45	Protein_part 1115 1119	site
+T46	Protein 1123 1130	barnase
+T47	Process 1159 1171	interactions
+T48	Chemical 1189 1198	phosphate
+T49	Protein_part 1207 1211	site
+T50	Protein 1219 1225	enzyme
+T51	Geometrical_part 1233 1239	anchor
+T52	Category 1250 1259	inhibitor
+T53	Process 1260 1267	binding
+T54	Protein 1330 1342	ribonuclease
+T55	Category 1343 1353	inhibitors

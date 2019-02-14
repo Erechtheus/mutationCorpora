@@ -1,0 +1,96 @@
+T1	Geometrical_part 0 26	High-resolution structures
+T2	Organism 30 46	Escherichia coli
+T3	Protein_part 47 52	cDsbD
+T4	Process 56 65	different
+T5	State 66 78	redox states
+T6	Technique 91 107	crystallographic
+T7	Organism 146 162	Escherichia coli
+T8	Protein 163 167	DsbD
+T9	Process 168 178	transports
+T10	Molecule 179 188	electrons
+T11	Location 194 205	cytoplasmic
+T12	Chemical 206 217	thioredoxin
+T13	Location 221 232	periplasmic
+T14	Process 233 239	target
+T15	Protein 240 248	proteins
+T16	Protein 250 254	DsbD
+T17	Protein_part 273 283	N-terminal
+T18	Protein_part 285 290	nDsbD
+T19	Protein_part 298 308	C-terminal
+T20	Protein_part 310 315	cDsbD
+T21	Protein_part 317 335	periplasmic domain
+T22	Body_part 352 373	central transmembrane
+T23	Protein_part 374 380	domain
+T24	Protein_part 387 393	domain
+T25	Protein_part 408 425	cysteine residues
+T26	Molecule 440 448	electron
+T27	Process 449 458	transport
+T28	Process 464 473	transport
+T29	Chemical 487 496	disulfide
+T30	Process 497 505	exchange
+T31	Process 506 515	reactions
+T32	Location 521 532	cytoplasmic
+T33	Chemical 533 544	thioredoxin
+T34	Body_part 552 573	central transmembrane
+T35	Protein_part 574 580	domain
+T36	Protein_part 589 594	cDsbD
+T37	Protein_part 598 603	nDsbD
+T38	Location 628 639	periplasmic
+T39	Process 640 646	target
+T40	Protein 647 655	proteins
+T41	Geometrical_part 676 702	high-resolution structures
+T42	Protein 706 711	cDsbD
+T43	Value 723 729	1.65 A
+T44	Parameter 730 740	resolution
+T45	Value 763 768	1.3 A
+T46	Value 786 791	1.1 A
+T47	Parameter 819 821	pH
+T48	Value 837 840	4.6
+T49	Unknown 858 867	structure
+T50	Value 883 889	0.99 A
+T51	Parameter 890 900	resolution
+T52	Chemical 936 959	thioredoxin superfamily
+T53	Unknown 960 966	member
+T54	Protein 1020 1025	cDsbD
+T55	Protein_part 1050 1056	domain
+T56	State 1097 1111	conformational
+T57	Process 1112 1118	change
+T58	Chemical 1124 1133	disulfide
+T59	Process 1134 1143	reduction
+T60	Process 1148 1159	interaction
+T61	Protein_part 1165 1170	nDsbD
+T62	Technique 1199 1215	crystallographic
+T63	Chemical 1225 1245	guanidinium chloride
+T64	Process 1254 1263	unfolding
+T65	Process 1278 1289	experiments
+T66	Protein 1325 1330	cDsbD
+T67	Physiology 1379 1387	rigidity
+T68	Protein 1391 1396	cDsbD
+T69	Process 1419 1430	simulations
+T70	Protein 1456 1461	cDsbD
+T71	Parameter 1469 1472	pKa
+T72	Value 1476 1479	9.3
+T73	Protein_part 1488 1506	active site Cys461
+T74	Parameter 1513 1518	value
+T75	Process 1542 1551	different
+T76	Value 1591 1607	around 2.5 units
+T77	Process 1636 1641	basis
+T78	Parameter 1649 1664	redox potential
+T79	Protein 1729 1734	cDsbD
+T80	Geometrical_part 1735 1745	structures
+T81	Parameter 1762 1765	pKa
+T82	Technique 1766 1778	calculations
+T83	Technique 1874 1882	analysis
+T84	Protein 1886 1891	cDsbD
+T85	Technique 1924 1939	crystallography
+T86	Process 1981 1993	measurements
+T87	Protein_part 2051 2057	domain
+T88	Parameter 2071 2087	redox properties
+T89	Physiology 2100 2108	rigidity
+T90	Process 2150 2154	role
+T91	Protein 2158 2163	cDsbD
+T92	Molecule 2187 2195	electron
+T93	Body_part 2216 2224	membrane
+T94	Protein_part 2225 2231	domain
+T95	Protein_part 2240 2269	N-terminal periplasmic domain
+T96	Protein 2273 2277	DsbD

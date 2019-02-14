@@ -1,0 +1,57 @@
+T1	Geometrical_part 0 25	High-resolution structure
+T2	Chemical 40 55	histone octamer
+T3	Unknown 57 65	Crystals
+T4	Chemical 76 92	histone octamers
+T5	Unknown 94 101	H2A-H2B
+T6	Unknown 102 132	-(H4-H3)-(H3'-H4')-(H2B'-H2A')
+T7	Organism 139 144	chick
+T8	Body_part 145 157	erythrocytes
+T9	Value 161 164	2 M
+T10	Chemical 165 168	KCl
+T11	Value 170 176	1.35 M
+T12	Chemical 177 196	potassium phosphate
+T13	Parameter 197 199	pH
+T14	Value 200 203	6.9
+T15	Technique 213 219	X-rays
+T16	Value 224 230	1.90 A
+T17	Parameter 231 241	resolution
+T18	Unknown 254 263	structure
+T19	Unknown 272 279	R(work)
+T20	Parameter 280 285	value
+T21	Value 289 294	18.7%
+T22	Parameter 303 308	Rfree
+T23	Value 312 317	22.2%
+T24	Unknown 323 330	crystal
+T25	Geometrical_part 331 342	space group
+T26	Unknown 346 351	P6(5)
+T27	Chemical 404 411	octamer
+T28	Chemical 460 467	octamer
+T29	Process 483 490	insight
+T30	Process 511 523	interactions
+T31	Chemical 535 551	water  molecules
+T32	Protein 567 581	histone dimers
+T33	Protein 589 597	tetramer
+T34	Unknown 621 629	particle
+T35	Body_part 652 662	nucleosome
+T36	Process 663 674	remodelling
+T37	Parameter 690 695	areas
+T38	Unknown 713 723	H2A'-H3-H4
+T39	Unknown 748 759	H2A-H3'-H4'
+T40	Unknown 766 773	H4-H2B'
+T41	Process 774 785	interaction
+T42	Unknown 792 799	H4'-H2B
+T43	Protein_part 809 827	H2A'-H4 beta-sheet
+T44	Process 828 839	interaction
+T45	Unknown 846 853	H2A-H4'
+T46	Protein_part 882 889	regions
+T47	Body_part 906 916	nucleosome
+T48	Protein 932 949	RNA polymerase II
+T49	Process 994 1001	binding
+T50	Protein_part 1002 1006	site
+T51	Process 1016 1026	disruption
+T52	Unknown 1073 1081	particle
+T53	Chemical 1102 1117	water molecules
+T54	Chemical 1141 1148	octamer
+T55	Unknown 1240 1258	particle structure
+T56	Chemical 1296 1303	octamer
+T57	Unknown 1387 1395	particle

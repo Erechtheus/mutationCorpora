@@ -1,0 +1,107 @@
+T1	Unknown 0 10	Dissection
+T2	Chemical 14 34	protein-carbohydrate
+T3	Process 35 47	interactions
+T4	Organism 58 61	hen
+T5	Protein 72 80	lysozyme
+T6	Category 82 91	complexes
+T7	Parameter 113 121	activity
+T8	Protein_part 123 128	Trp62
+T9	Process 136 143	binding
+T10	Protein_part 144 153	subsite B
+T11	Organism 157 160	hen
+T12	Protein 171 179	lysozyme
+T13	Chemical 221 241	protein-carbohydrate
+T14	Process 242 254	interactions
+T15	Process 267 275	stacking
+T16	Process 276 287	interaction
+T17	Chemical 294 310	hydrogen bonding
+T18	Physiology 311 318	network
+T19	Chemical 324 339	water molecules
+T20	Molecular_Part 366 371	group
+T21	Process 388 400	perturbation
+T22	Process 410 422	interactions
+T23	Process 426 438	substitution
+T24	Protein_part 442 447	Trp62
+T25	Protein_part 453 461	tyrosine
+T26	Protein_part 465 478	phenylalanine
+T27	Category 491 500	substrate
+T28	Process 501 508	binding
+T29	Parameter 548 556	activity
+T30	Parameter 584 596	relationship
+T31	Process 631 638	changes
+T32	Chemical 648 668	protein-carbohydrate
+T33	Process 669 681	interactions
+T34	Protein_part 687 695	Trp62Tyr
+T35	Protein_part 700 708	Trp62Phe
+T36	Molecule 709 716	mutants
+T37	Category 736 745	substrate
+T38	Unknown 746 754	analogue
+T39	Unknown 756 765	(GlcNAc)3
+T40	Value 784 789	1.8 A
+T41	Parameter 790 800	resolution
+T42	Technique 804 825	X-ray crystallography
+T43	Geometrical_part 839 849	structures
+T44	Protein 857 871	mutant enzymes
+T45	Protein 911 927	wild type enzyme
+T46	Protein 942 958	wild-type enzyme
+T47	Unknown 965 974	(GlcNAc)3
+T48	Process 987 994	binding
+T49	Unknown 1001 1006	A-B-C
+T50	Protein_part 1013 1021	Trp62Tyr
+T51	Molecule 1022 1028	mutant
+T52	Unknown 1035 1044	(GlcNAc)3
+T53	Unknown 1067 1072	A-B-C
+T54	Unknown 1074 1079	B-C-D
+T55	Protein_part 1089 1097	Trp62Phe
+T56	Molecule 1098 1104	mutant
+T57	Process 1124 1131	binding
+T58	Geometrical_part 1151 1156	rings
+T59	Protein_part 1160 1165	Tyr62
+T60	Protein_part 1170 1175	Phe62
+T61	Process 1191 1203	interactions
+T62	Chemical 1213 1235	carbohydrate molecules
+T63	Process 1252 1260	stacking
+T64	Process 1261 1273	interactions
+T65	Chemical 1283 1289	GlcNAc
+T66	Protein_part 1297 1303	B site
+T67	Protein 1313 1329	wild-type enzyme
+T68	Chemical 1340 1348	hydroxyl
+T69	Molecular_Part 1349 1354	group
+T70	Protein_part 1358 1363	Tyr62
+T71	Chemical 1388 1402	water molecule
+T72	Chemical 1418 1434	hydrogen bonding
+T73	Protein_part 1442 1457	GlcNAc residues
+T74	Protein_part 1465 1466	B
+T75	Protein_part 1471 1478	C sites
+T76	Chemical 1484 1496	C-6 hydroxyl
+T77	Molecular_Part 1497 1502	group
+T78	Protein_part 1510 1524	GlcNAc residue
+T79	Protein_part 1532 1538	C site
+T80	Chemical 1558 1570	C-5-C-6 bond
+T81	Chemical 1587 1600	hydrogen bond
+T82	Physiology 1601 1608	network
+T83	Protein_part 1616 1641	Trp62Tyr mutant-(GlcNAc)3
+T84	Category 1642 1649	complex
+T85	Chemical 1675 1691	hydrogen bonding
+T86	Physiology 1692 1699	network
+T87	Protein_part 1721 1746	Trp62Phe mutant-(GlcNAc)3
+T88	Parameter 1793 1811	kinetic parameters
+T89	Process 1819 1829	hydrolysis
+T90	Chemical 1833 1874	4-methylumbelliferyl N-acetyl-chitotriose
+T91	Unknown 1877 1890	(GlcNAc)3-MeU
+T92	Protein 1952 1961	enzymatic
+T93	Parameter 1962 1972	properties
+T94	Protein 1982 1998	mutant lysozymes
+T95	Process 2027 2037	modulation
+T96	Chemical 2045 2061	hydrogen bonding
+T97	Physiology 2062 2069	network
+T98	Geometrical_part 2094 2098	part
+T99	Chemical 2106 2118	carbohydrate
+T100	Chemical 2123 2138	water molecules
+T101	Process 2157 2166	reduction
+T102	Process 2179 2190	interaction
+T103	Protein_part 2198 2204	B site
+T104	Process 2217 2224	binding
+T105	Chemical 2241 2253	carbohydrate
+T106	Process 2269 2280	enhancement
+T107	Parameter 2299 2307	activity

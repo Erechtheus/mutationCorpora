@@ -1,0 +1,56 @@
+T1	Process 0 8	Mutation
+T2	Protein_part 24 34	tryptophan
+T3	Protein 42 48	chitin
+T4	Geometrical_part 57 62	cleft
+T5	Organism 66 85	Serratia marcescens
+T6	Protein 86 97	chitinase A
+T7	Process 107 125	transglycosylation
+T8	Unknown 127 136	Family 18
+T9	Protein 137 147	chitinases
+T10	Geometrical_part 157 166	signature
+T11	Protein_part 167 183	peptide DGXDXDXE
+T12	Protein_part 196 214	fourth beta-strand
+T13	Unknown 222 242	(beta/alpha)8-barrel
+T14	Protein_part 252 268	catalytic domain
+T15	Chemical 274 300	carboxyl-end glutamic acid
+T16	Protein_part 302 306	E315
+T17	Organism 310 329	Serratia marcescens
+T18	Protein 330 341	chitinase A
+T19	Protein 357 366	acid/base
+T20	Protein 374 380	chitin
+T21	Process 381 391	hydrolysis
+T22	Protein_part 401 411	side-chain
+T23	Protein_part 429 442	aspartic acid
+T24	Protein_part 444 448	D313
+T25	Chemical 482 490	N-acetyl
+T26	Molecular_Part 491 497	moiety
+T27	Chemical 505 519	glycosyl sugar
+T28	Process 531 541	hydrolysis
+T29	Protein 543 549	Chitin
+T30	Category 550 560	substrates
+T31	Geometrical_part 585 590	cleft
+T32	Geometrical_part 613 619	barrel
+T33	Protein_part 654 662	residues
+T34	Chemical 707 713	GlcNAc
+T35	Protein_part 715 722	Alanine
+T36	Process 723 735	substitution
+T37	Protein_part 753 759	Trp167
+T38	Protein_part 767 777	-3 subsite
+T39	Organism 781 800	Serratia marcescens
+T40	Protein 801 812	chitinase A
+T41	Process 822 840	transglycosylation
+T42	Chemical 849 865	oligosaccharides
+T43	Protein 888 894	chitin
+T44	Chemical 905 920	pentasaccharide
+T45	Category 946 953	product
+T46	Chemical 959 979	chitin trisaccharide
+T47	Chemical 988 1000	disaccharide
+T48	Process 1010 1019	retention
+T49	Chemical 1027 1044	glycosyl fragment
+T50	Protein_part 1052 1063	active site
+T51	Molecule 1074 1080	mutant
+T52	Organism 1084 1103	Serratia marcescens
+T53	Protein 1104 1115	chitinase A
+T54	Process 1128 1146	transglycosylation
+T55	State 1167 1179	conformation
+T56	Protein_part 1187 1191	D313

@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Protein 35 53	biotin carboxylase
+T3	Protein 54 61	subunit
+T4	Protein 65 87	acetyl-CoA carboxylase
+T5	Protein 89 111	Acetyl-CoA carboxylase
+T6	Organism 128 135	animals
+T7	Organism 137 143	plants
+T8	Organism 149 157	bacteria
+T9	Chemical 200 210	fatty acid
+T10	Process 211 220	synthesis
+T11	Protein 245 251	enzyme
+T12	Protein 265 283	biotin carboxylase
+T13	Parameter 284 292	activity
+T14	Protein 296 327	biotin carboxyl carrier protein
+T15	Protein 335 354	carboxyltransferase
+T16	Technique 389 404	X-ray structure
+T17	Protein 412 430	biotin carboxylase
+T18	Protein_part 431 440	component
+T19	Organism 446 462	Escherichia coli
+T20	Value 477 482	2.4-A
+T21	Parameter 483 493	resolution
+T22	Unknown 499 508	structure
+T23	Process 561 572	replacement
+T24	Molecule 577 585	electron
+T25	Parameter 586 593	density
+T26	Process 594 606	modification
+T27	Technique 607 617	procedures
+T28	Geometrical_part 631 635	fold
+T29	Molecule 643 651	molecule
+T30	Protein_part 698 705	domains
+T31	Protein_part 711 728	N-terminal region
+T32	Protein_part 740 753	Met 1-Ile 103
+T33	Chemical 764 776	dinucleotide
+T34	Process 777 784	binding
+T35	Protein_part 785 790	motif
+T36	Protein_part 801 808	strands
+T37	Geometrical_part 812 820	parallel
+T38	Protein_part 821 831	beta-sheet
+T39	Location 850 854	side
+T40	Protein_part 859 872	alpha-helices
+T41	Unknown 878 888	"B-domain"
+T42	Body_part 911 915	body
+T43	Protein 923 930	subunit
+T44	Protein_part 956 977	alpha-helical regions
+T45	Protein_part 988 995	strands
+T46	Protein_part 999 1009	beta-sheet
+T47	Process 1025 1034	excursion
+T48	Protein_part 1044 1052	B-domain
+T49	Protein 1058 1075	polypeptide chain
+T50	Body_part 1096 1100	body
+T51	Protein 1108 1115	protein
+T52	Geometrical_part 1149 1161	antiparallel
+T53	Protein_part 1162 1172	beta-sheet
+T54	Unknown 1221 1228	element
+T55	Protein_part 1234 1251	C-terminal domain
+T56	Geometrical_part 1291 1303	antiparallel
+T57	Protein_part 1304 1314	beta-sheet
+T58	Protein_part 1325 1338	alpha-helices
+T59	Protein_part 1344 1355	active site
+T60	Protein 1363 1369	enzyme
+T61	Process 1407 1417	difference
+T62	Unknown 1418 1425	Fourier
+T63	Technique 1449 1454	X-ray
+T64	Unknown 1476 1484	crystals
+T65	Unknown 1494 1502	crystals
+T66	Chemical 1515 1525	Ag+/biotin
+T67	Category 1526 1533	complex
+T68	Protein_part 1541 1560	amino acid residues
+T69	Geometrical_part 1579 1583	part
+T70	Protein_part 1591 1602	active site
+T71	Geometrical_part 1603 1609	pocket
+T72	Protein_part 1618 1633	His 209-Glu 211
+T73	Protein_part 1635 1650	His 236-Glu 241
+T74	Protein_part 1653 1660	Glu 276
+T75	Protein_part 1662 1665	Ile
+T76	Unknown 1666 1677	287-Glu 296
+T77	Protein_part 1683 1686	Arg
+T78	Technique 1715 1720	X-ray
+T79	Protein 1732 1760	biotin-dependent carboxylase

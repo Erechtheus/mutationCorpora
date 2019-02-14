@@ -1,0 +1,64 @@
+T1	Chemical 0 8	Hydrogen
+T2	Process 9 16	bonding
+T3	Organism 20 25	human
+T4	Protein 26 56	manganese superoxide dismutase
+T5	Chemical 68 84	3-fluorotyrosine
+T6	Process 86 99	Incorporation
+T7	Chemical 103 119	3-fluorotyrosine
+T8	Technique 124 149	site-specific mutagenesis
+T9	Technique 173 219	Fourier transform infrared (FTIR) spectroscopy
+T10	Technique 224 245	x-ray crystallography
+T11	Protein_part 260 271	active-site
+T12	Unknown 272 281	structure
+T13	Process 290 294	role
+T14	Protein_part 301 326	active-site residue Tyr34
+T15	Organism 330 335	human
+T16	Protein 336 374	manganese superoxide dismutase (MnSOD)
+T17	Parameter 396 407	frequencies
+T18	Unknown 416 429	B3LYP/6-31G**
+T19	Protein_part 450 460	L-tyrosine
+T20	Chemical 469 479	3-fluorine
+T21	Unknown 492 498	analog
+T22	Parameter 528 539	frequencies
+T23	Process 561 572	assignments
+T24	Protein_part 591 608	tyrosine residues
+T25	Protein 629 637	subunits
+T26	Protein 645 657	homotetramer
+T27	Organism 661 666	human
+T28	Protein 667 672	MnSOD
+T29	Chemical 691 707	3-fluorotyrosine
+T30	Geometrical_part 713 731	crystal structures
+T31	Protein 739 752	unfluorinated
+T32	Protein 757 784	fluorinated wild-type MnSOD
+T33	Body_part 820 824	root
+T34	Process 837 846	deviation
+T35	Chemical 855 873	alpha-carbon atoms
+T36	Value 878 883	0.3 A
+T37	Technique 889 893	FTIR
+T38	Chemical 944 960	3-fluorotyrosine
+T39	Protein 964 969	MnSOD
+T40	Process 971 981	Comparison
+T41	Parameter 985 992	spectra
+T42	Protein 1011 1021	Y34F MnSOD
+T43	Chemical 1038 1055	phenolic hydroxyl
+T44	Protein_part 1059 1064	Tyr34
+T45	Chemical 1068 1076	hydrogen
+T46	Molecule 1097 1103	proton
+T47	Category 1104 1109	donor
+T48	Protein_part 1117 1128	active site
+T49	Process 1130 1140	Comparison
+T50	Geometrical_part 1146 1164	crystal structures
+T51	Chemical 1187 1195	hydroxyl
+T52	Protein_part 1199 1204	Tyr34
+T53	Chemical 1210 1223	hydrogen bond
+T54	Category 1224 1229	donor
+T55	Location 1236 1244	adjacent
+T56	Chemical 1245 1259	water molecule
+T57	Process 1279 1292	participation
+T58	Protein_part 1296 1301	Tyr34
+T59	Physiology 1307 1314	network
+T60	Protein_part 1318 1326	residues
+T61	Chemical 1331 1346	water molecules
+T62	Protein_part 1369 1380	active site
+T63	Location 1388 1396	adjacent
+T64	Protein 1397 1404	subunit

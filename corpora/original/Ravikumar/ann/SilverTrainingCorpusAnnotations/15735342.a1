@@ -1,0 +1,62 @@
+T1	Unknown 0 9	Structure
+T2	Organism 25 30	human
+T3	Chemical 31 44	cyclophilin J
+T4	Unknown 54 60	member
+T5	Chemical 68 86	cyclophilin family
+T6	Protein 88 107	Cyclophilins (CyPs)
+T7	Chemical 157 172	peptidyl-prolyl
+T8	Protein 183 193	isomerases
+T9	Protein 195 199	CyPs
+T10	Protein 246 254	receptor
+T11	Chemical 281 299	drug cyclosporin A
+T12	Process 344 353	functions
+T13	Organism 355 359	CyPJ
+T14	Unknown 371 377	member
+T15	Protein 385 395	CyP family
+T16	Organism 400 418	human CyPJ (hCyPJ)
+T17	Protein 426 433	protein
+T18	Chemical 447 458	cyclophilin
+T19	Protein 464 468	gene
+T20	Organism 474 479	human
+T21	Body_part 487 492	brain
+T22	Value 506 509	50%
+T23	Parameter 510 527	sequence identity
+T24	Protein 531 558	human cyclophilin A (hCyPA)
+T25	Organism 572 577	hCyPJ
+T26	Organism 595 611	Escherichia coli
+T27	Geometrical_part 630 657	three-dimensional structure
+T28	Organism 661 666	hCyPJ
+T29	Process 690 711	molecular replacement
+T30	Protein 722 727	hCyPA
+T31	Geometrical_part 728 737	structure
+T32	Value 782 795	2.6 angstroms
+T33	Parameter 796 806	resolution
+T34	Organism 812 817	hCyPJ
+T35	Molecule 818 826	molecule
+T36	Protein_part 841 848	helices
+T37	Protein_part 857 868	beta-barrel
+T38	Geometrical_part 887 899	antiparallel
+T39	Protein_part 900 912	beta-strands
+T40	Geometrical_part 926 935	secondary
+T41	Geometrical_part 940 959	tertiary structures
+T42	Organism 963 968	hCyPJ
+T43	Protein 993 998	hCyPA
+T44	Organism 1004 1009	hCyPJ
+T45	Chemical 1033 1049	disulfide bridge
+T46	Protein_part 1059 1067	segments
+T47	State 1073 1086	conformations
+T48	Protein 1131 1136	hCyPA
+T49	Protein_part 1138 1143	His43
+T50	Protein_part 1148 1153	Gln52
+T51	Organism 1157 1162	hCyPJ
+T52	Protein_part 1186 1198	active sites
+T53	Protein_part 1208 1216	sequence
+T54	Process 1217 1226	alignment
+T55	Protein 1232 1237	hCyPA
+T56	Organism 1243 1248	hCyPJ
+T57	Unknown 1249 1258	structure
+T58	Chemical 1277 1291	water molecule
+T59	Protein_part 1301 1306	His43
+T60	Protein_part 1311 1316	Gln52
+T61	Chemical 1346 1353	solvent
+T62	Process 1363 1372	mechanism

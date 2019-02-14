@@ -1,0 +1,68 @@
+T1	Organism 18 37	Helicobacter pylori
+T2	Protein 38 66	gamma-glutamyltranspeptidase
+T3	Process 80 89	formation
+T4	Protein_part 95 114	threonine-threonine
+T5	Protein_part 115 129	catalytic dyad
+T6	Protein 131 185	Helicobacter pylorigamma-glutamyltranspeptidase (HpGT)
+T7	Chemical 191 202	glutathione
+T8	Protein 213 219	enzyme
+T9	Molecule 248 264	virulence factor
+T10	Physiology 268 277	infection
+T11	Value 300 306	60-kDa
+T12	Unknown 316 325	precursor
+T13	Protein 383 408	40-kDa/20-kDa heterodimer
+T14	Protein 419 454	gamma-glutamyl amide bond hydrolase
+T15	Parameter 455 463	activity
+T16	Protein_part 473 483	N terminus
+T17	Protein 501 507	enzyme
+T18	Protein_part 509 516	Thr-380
+T19	Chemical 535 546	nucleophile
+T20	Process 578 597	enzymatic reactions
+T21	Protein 615 619	HpGT
+T22	Unknown 625 631	member
+T23	Protein 639 683	N-terminal nucleophile hydrolase superfamily
+T24	Process 708 718	activation
+T25	Geometrical_part 754 763	structure
+T26	Protein 767 771	HpGT
+T27	Parameter 797 807	resolution
+T28	Value 811 816	1.9 A
+T29	Protein 949 982	N-terminal nucleophile hydrolases
+T30	Protein 1003 1007	HpGT
+T31	State 1025 1039	conformational
+T32	Process 1040 1046	change
+T33	Geometrical_part 1057 1061	loop
+T34	Protein_part 1086 1093	Thr-380
+T35	Parameter 1094 1100	moving
+T36	Value 1101 1106	>35 A
+T37	Geometrical_part 1123 1129	steric
+T38	Category 1160 1169	substrate
+T39	Process 1170 1177	binding
+T40	Process 1192 1200	cleavage
+T41	Protein 1208 1217	proenzyme
+T42	Process 1233 1242	formation
+T43	Protein_part 1286 1293	Thr-380
+T44	Protein_part 1317 1334	threonine residue
+T45	Protein_part 1336 1343	Thr-398
+T46	Chemical 1349 1357	hydroxyl
+T47	Molecular_Part 1358 1363	group
+T48	Protein_part 1367 1374	Thr-398
+T49	Chemical 1407 1418	alpha-amino
+T50	Molecular_Part 1419 1424	group
+T51	Chemical 1429 1437	hydroxyl
+T52	Protein_part 1438 1448	side chain
+T53	Protein_part 1452 1459	Thr-380
+T54	Process 1461 1469	Mutation
+T55	Protein_part 1473 1480	Thr-398
+T56	Protein_part 1487 1494	alanine
+T57	Protein 1509 1515	enzyme
+T58	Protein 1573 1582	enzymatic
+T59	Parameter 1583 1591	activity
+T60	Process 1603 1610	docking
+T61	Organism 1673 1678	human
+T62	Protein 1679 1688	homologue
+T63	Protein 1730 1736	enzyme
+T64	Process 1737 1747	maturation
+T65	Process 1752 1762	activation
+T66	Category 1764 1773	substrate
+T67	Process 1774 1785	recognition
+T68	Process 1791 1800	catalysis

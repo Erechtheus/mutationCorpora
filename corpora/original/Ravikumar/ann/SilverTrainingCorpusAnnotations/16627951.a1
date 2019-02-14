@@ -1,0 +1,54 @@
+T1	Unknown 0 9	Structure
+T2	Protein_part 26 38	variant C60S
+T3	Organism 42 68	Mycobacterium tuberculosis
+T4	Protein 69 85	thiol peroxidase
+T5	Protein 91 97	genome
+T6	Organism 101 127	Mycobacterium tuberculosis
+T7	Protein 144 165	peroxiredoxins (Prxs)
+T8	Chemical 207 226	inorganic peroxides
+T9	Protein_part 232 250	open reading frame
+T10	Unknown 251 257	Rv1932
+T11	Protein 268 302	165-residue thiol peroxidase (Tpx)
+T12	Protein 334 360	2-Cys peroxiredoxin family
+T13	Geometrical_part 366 383	crystal structure
+T14	Protein_part 391 402	C60S mutant
+T15	Physiology 407 434	M. tuberculosis Tpx (MtTpx)
+T16	Geometrical_part 451 470	space group P3(1)21
+T17	Body_part 477 486	unit-cell
+T18	Parameter 487 497	parameters
+T19	Parameter 498 499	a
+T20	Value 502 508	106.08
+T21	Parameter 510 511	b
+T22	Value 514 520	106.08
+T23	Parameter 522 523	c
+T24	Value 526 533	65.33 A
+T25	Unknown 539 548	structure
+T26	Parameter 572 579	R value
+T27	Value 583 588	17.1%
+T28	Value 600 605	24.9%
+T29	Value 610 615	2.1 A
+T30	Parameter 616 626	resolution
+T31	Physiology 628 633	MtTpx
+T32	Protein 671 685	peroxiredoxins
+T33	Organism 701 714	mycobacterial
+T34	Protein 715 719	AhpC
+T35	Protein 724 728	AhpE
+T36	Physiology 743 748	MtTpx
+T37	Protein_part 749 760	C60S mutant
+T38	Unknown 761 770	structure
+T39	Unknown 793 802	structure
+T40	Organism 806 842	Streptococcus pneumoniae Tpx (SpTpx)
+T41	Protein 875 881	enzyme
+T42	State 882 887	state
+T43	Protein_part 901 919	active-site serine
+T44	Protein_part 951 957	Arg130
+T45	Chemical 962 970	hydrogen
+T46	Protein_part 981 986	Thr57
+T47	Protein_part 1017 1025	cysteine
+T48	Organism 1029 1034	SpTpx
+T49	Chemical 1053 1069	acetate molecule
+T50	Category 1070 1076	mimics
+T51	Category 1097 1106	substrate
+T52	Protein_part 1126 1131	Ser60
+T53	Protein_part 1133 1139	Arg130
+T54	Protein_part 1144 1149	Thr57

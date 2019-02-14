@@ -1,0 +1,73 @@
+T1	Geometrical_part 8 26	crystal structures
+T2	Protein 30 40	subtilisin
+T3	Category 49 56	complex
+T4	Process 95 105	Comparison
+T5	Protein 117 134	serine proteinase
+T6	Category 135 144	inhibitor
+T7	Category 145 154	complexes
+T8	Geometrical_part 160 178	crystal structures
+T9	Category 186 195	complexes
+T10	Protein 211 226	subtilisin Novo
+T11	Category 238 248	inhibitors
+T12	Protein 250 257	eglin c
+T13	Protein 259 272	Arg45-eglin c
+T14	Protein 277 290	Lys53-eglin c
+T15	Process 318 339	molecular replacement
+T16	Process 344 354	difference
+T17	Technique 355 373	Fourier techniques
+T18	Value 389 394	2.4 A
+T19	Value 396 401	2.1 A
+T20	Value 407 412	2.4 A
+T21	Parameter 413 423	resolution
+T22	Molecule 443 450	mutants
+T23	Protein 451 464	Arg45-eglin c
+T24	Protein 469 483	Lys53-eglin  c
+T25	Technique 504 529	site-directed mutagenesis
+T26	State 585 594	stability
+T27	Protein 598 605	eglin c
+T28	Protein 607 618	Arg45-eglin
+T29	Protein 635 642	trypsin
+T30	Category 643 652	inhibitor
+T31	Protein 676 681	eglin
+T32	Protein 695 703	elastase
+T33	Category 704 713	inhibitor
+T34	Process 732 738	change
+T35	Geometrical_part 773 783	structures
+T36	Protein 787 798	Arg45-eglin
+T37	Body_part 809 819	pancreatic
+T38	Protein 820 827	trypsin
+T39	Category 828 837	inhibitor
+T40	Process 848 860	interactions
+T41	Protein 866 873	trypsin
+T42	Protein_part 879 892	residue Arg53
+T43	Category 918 925	complex
+T44	Physiology 926 933	network
+T45	Chemical 937 951	hydrogen bonds
+T46	Process 984 991	binding
+T47	Geometrical_part 992 996	loop
+T48	Protein 1000 1007	eglin c
+T49	Protein_part 1046 1063	amino acid lysine
+T50	Protein 1071 1089	mutant Lys53-eglin
+T51	Chemical 1095 1109	hydrogen bonds
+T52	Protein_part 1115 1120	Thr44
+T53	Process 1137 1144	binding
+T54	Geometrical_part 1145 1149	loop
+T55	Chemical 1207 1221	water molecule
+T56	Location 1235 1243	vicinity
+T57	Protein_part 1247 1252	Lys53
+T58	Protein 1254 1261	Eglin c
+T59	Category 1265 1274	complexes
+T60	Protein 1285 1300	subtilisin Novo
+T61	Protein 1305 1325	subtilisin Carlsberg
+T62	Process 1351 1360	different
+T63	Molecular_Part 1367 1373	groups
+T64	Process 1375 1385	Comparison
+T65	Category 1393 1402	complexes
+T66	Technique 1412 1422	rigid body
+T67	Process 1423 1431	rotation
+T68	Protein 1440 1447	eglin c
+T69	Value 1456 1468	11.5 degrees
+T70	Protein 1489 1495	enzyme
+T71	Process 1516 1525	different
+T72	Process 1541 1549	contacts
+T73	Unknown 1558 1565	crystal

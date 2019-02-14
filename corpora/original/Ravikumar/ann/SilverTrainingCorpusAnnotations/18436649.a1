@@ -1,0 +1,71 @@
+T1	Process 0 9	Oxidation
+T2	Organism 13 21	archaeal
+T3	Protein 22 35	peroxiredoxin
+T4	Chemical 59 78	sulfur intermediate
+T5	Process 84 93	oxidation
+T6	Chemical 97 102	thiol
+T7	Molecular_Part 103 109	groups
+T8	Protein 113 121	proteins
+T9	Process 143 164	biochemical processes
+T10	Chemical 175 189	disulfide bond
+T11	Process 190 199	formation
+T12	Process 207 215	response
+T13	Chemical 241 264	reactive oxygen species
+T14	Process 303 312	oxidation
+T15	Protein_part 319 327	cysteine
+T16	Protein_part 328 338	side chain
+T17	Process 359 368	formation
+T18	Chemical 369 405	of cysteine sulfenic acid  (Cys-SOH)
+T19	Process 430 439	mechanism
+T20	Chemical 443 448	thiol
+T21	Process 449 458	oxidation
+T22	Chemical 481 500	sulfur intermediate
+T23	Technique 515 531	crystallographic
+T24	Organism 549 557	archaeal
+T25	Protein 558 577	peroxiredoxin (Prx)
+T26	Protein 583 638	thioredoxin peroxidase from Aeropyrum pernix K1 (ApTPx)
+T27	Process 644 652	reaction
+T28	Protein 656 659	Prx
+T29	Process 674 683	reduction
+T30	Chemical 689 697	peroxide
+T31	Protein_part 727 735	cysteine
+T32	Protein_part 736 747	side chains
+T33	Process 749 758	Oxidation
+T34	Chemical 762 779	hydrogen peroxide
+T35	Protein_part 794 805	active site
+T36	Protein_part 818 824	Cys-50
+T37	Protein 828 833	ApTPx
+T38	Chemical 839 872	cysteine sulfenic acid derivative
+T39	Process 894 903	oxidation
+T40	Chemical 907 924	cysteine sulfinic
+T41	Chemical 929 943	sulfonic acids
+T42	Geometrical_part 949 966	crystal structure
+T43	Chemical 974 1007	cysteine sulfenic acid derivative
+T44	Value 1023 1029	1.77 A
+T45	Parameter 1030 1040	resolution
+T46	Parameter 1046 1054	R(cryst)
+T47	Parameter 1059 1066	R(free)
+T48	Parameter 1067 1073	values
+T49	Value 1077 1082	18.8%
+T50	Value 1087 1092	22.0%
+T51	Unknown 1120 1129	structure
+T52	Chemical 1153 1161	chemical
+T53	Technique 1162 1174	calculations
+T54	Chemical 1194 1218	sulfenic acid derivative
+T55	Chemical 1232 1241	sulfurane
+T56	Chemical 1258 1273	sulfur compound
+T57	Chemical 1288 1301	S(gamma) atom
+T58	Chemical 1330 1344	N(delta1) atom
+T59	Protein_part 1364 1370	His-42
+T60	Process 1376 1384	reaction
+T61	Process 1385 1394	mechanism
+T62	Chemical 1414 1427	hydrogen bond
+T63	Physiology 1428 1435	network
+T64	Protein_part 1459 1467	cysteine
+T65	Process 1476 1482	motion
+T66	Geometrical_part 1499 1503	loop
+T67	Protein_part 1517 1528	active site
+T68	Chemical 1544 1552	chemical
+T69	Technique 1553 1565	calculations
+T70	Chemical 1615 1630	sulfur compound
+T71	Process 1666 1687	biochemical processes

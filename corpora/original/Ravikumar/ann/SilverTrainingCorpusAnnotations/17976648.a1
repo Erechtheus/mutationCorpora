@@ -1,0 +1,75 @@
+T1	Process 4 8	role
+T2	Geometrical_part 12 19	L1 loop
+T3	Process 27 36	mechanism
+T4	Protein 40 76	rhomboid intramembrane protease GlpG
+T5	Body_part 78 91	Intramembrane
+T6	Protein 92 101	proteases
+T7	Protein 116 123	enzymes
+T8	Geometrical_part 156 174	crystal structures
+T9	Protein 178 200	rhomboid protease GlpG
+T10	Process 240 249	mechanism
+T11	Protein 259 276	membrane proteins
+T12	Location 299 307	internal
+T13	Chemical 308 313	water
+T14	Body_part 321 327	cavity
+T15	Protein_part 346 353	Ser-His
+T16	Protein_part 354 368	catalytic dyad
+T17	Geometrical_part 374 391	crystal structure
+T18	Protein_part 422 428	domain
+T19	Geometrical_part 430 437	L1 loop
+T20	Location 456 460	side
+T21	Body_part 468 481	transmembrane
+T22	Protein_part 482 489	helices
+T23	Technique 503 528	site-directed mutagenesis
+T24	Geometrical_part 552 559	L1 loop
+T25	Body_part 589 597	membrane
+T26	Protein_part 615 622	alanine
+T27	Process 623 635	substitution
+T28	Protein_part 658 668	tryptophan
+T29	Protein_part 670 676	Trp136
+T30	Location 685 691	distal
+T31	Geometrical_part 692 695	tip
+T32	Geometrical_part 703 710	L1 loop
+T33	Chemical 720 731	lipid:water
+T34	Protein 750 754	GlpG
+T35	Parameter 767 775	activity
+T36	Technique 777 802	Crystallographic analysis
+T37	Protein_part 815 820	W136A
+T38	Process 821 829	mutation
+T39	Geometrical_part 849 858	structure
+T40	Protein 866 874	protease
+T41	Process 889 897	polarity
+T42	Chemical 914 919	lipid
+T43	Protein 928 935	protein
+T44	Geometrical_part 936 943	surface
+T45	Protein_part 951 955	site
+T46	Process 963 971	mutation
+T47	Geometrical_part 989 1006	crystal structure
+T48	Value 1023 1028	1.7 A
+T49	Parameter 1029 1039	resolution
+T50	Unknown 1064 1073	20-A-wide
+T51	Protein 1102 1110	protease
+T52	Parameter 1145 1154	thickness
+T53	Body_part 1173 1189	membrane bilayer
+T54	Protein 1201 1208	protein
+T55	Unknown 1268 1276	elements
+T56	Process 1284 1293	catalysis
+T57	Protein_part 1319 1325	serine
+T58	Protein 1334 1336	L5
+T59	Body_part 1394 1402	membrane
+T60	Geometrical_part 1403 1410	surface
+T61	Protein 1436 1444	protease
+T62	Parameter 1445 1453	activity
+T63	Process 1470 1477	changes
+T64	Chemical 1485 1498	protein:lipid
+T65	Process 1499 1510	interaction
+T66	Geometrical_part 1567 1570	end
+T67	Category 1578 1587	substrate
+T68	Body_part 1588 1601	transmembrane
+T69	Protein_part 1602 1607	helix
+T70	Process 1614 1624	partitions
+T71	Geometrical_part 1636 1653	hydrophobic  core
+T72	Location 1654 1660	region
+T73	Body_part 1668 1676	membrane
+T74	Protein_part 1702 1722	protease active site
+T75	Process 1727 1735	cleavage

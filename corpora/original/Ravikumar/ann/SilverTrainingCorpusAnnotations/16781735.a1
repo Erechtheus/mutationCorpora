@@ -1,0 +1,82 @@
+T1	Protein 8 34	glycoside hydrolase family
+T2	Unknown 44 53	structure
+T3	Unknown 57 67	family 105
+T4	Protein 68 108	unsaturated rhamnogalacturonyl hydrolase
+T5	Chemical 126 138	disaccharide
+T6	Process 142 152	comparison
+T7	Unknown 158 167	family 88
+T8	Protein 168 174	enzyme
+T9	Chemical 194 206	disaccharide
+T10	Protein 208 212	YteR
+T11	Protein 229 236	protein
+T12	Process 250 259	functions
+T13	Organism 277 305	Bacillus subtilis strain 168
+T14	Unknown 325 334	structure
+T15	Organism 354 363	bacterial
+T16	Protein 364 402	unsaturated glucuronyl hydrolase (UGL)
+T17	Protein_part 432 451	amino acid sequence
+T18	Parameter 452 460	identity
+T19	Protein 466 469	UGL
+T20	Protein 471 474	UGL
+T21	Chemical 484 511	unsaturated glucuronic acid
+T22	Chemical 517 534	glycosaminoglycan
+T23	Protein 548 572	glycosaminoglycan lyases
+T24	Protein_part 578 597	amino acid sequence
+T25	Protein 602 606	YteR
+T26	Value 637 640	26%
+T27	Parameter 641 649	identity
+T28	Protein 673 685	protein YesR
+T29	Organism 696 718	B. subtilis strain 168
+T30	Location 735 744	intrinsic
+T31	Process 745 754	functions
+T32	Protein 758 762	YteR
+T33	Protein 767 771	YesR
+T34	Protein 778 786	proteins
+T35	Organism 809 825	Escherichia coli
+T36	Protein 871 875	gene
+T37	Process 876 888	arrangements
+T38	Protein 892 898	genome
+T39	Protein 903 909	enzyme
+T40	Parameter 910 920	properties
+T41	Protein 923 927	YteR
+T42	Protein 932 936	YesR
+T43	Protein 970 976	enzyme
+T44	Parameter 977 985	activity
+T45	Protein 1000 1028	rhamnogalacturonyl hydrolase
+T46	Protein 1049 1075	glycoside hydrolase family
+T47	Protein 1087 1093	enzyme
+T48	Chemical 1127 1150	rhamnogalacturonan (RG)
+T49	Chemical 1165 1167	RG
+T50	Unknown 1168 1174	type-I
+T51	Protein 1188 1197	RG lyases
+T52	Chemical 1214 1243	unsaturated galacturonic acid
+T53	Geometrical_part 1249 1266	crystal structure
+T54	Protein 1270 1274	YteR
+T55	Chemical 1302 1326	chondroitin disaccharide
+T56	Protein 1328 1331	UGL
+T57	Category 1332 1341	substrate
+T58	Geometrical_part 1376 1385	structure
+T59	Protein 1389 1392	UGL
+T60	Chemical 1417 1429	disaccharide
+T61	Protein 1435 1438	UGL
+T62	Category 1439 1448	substrate
+T63	Geometrical_part 1488 1494	pocket
+T64	Protein 1498 1502	YteR
+T65	Geometrical_part 1519 1523	loop
+T66	Protein 1527 1531	YteR
+T67	Protein 1545 1548	UGL
+T68	Category 1549 1558	substrate
+T69	Protein_part 1625 1633	residues
+T70	Protein 1646 1655	acid/base
+T71	Protein_part 1660 1666	Asp143
+T72	Protein 1670 1674	YteR
+T73	Protein_part 1679 1685	Asp135
+T74	Protein 1689 1693	YesR
+T75	Technique 1749 1774	site-directed mutagenesis
+T76	Protein 1838 1844	enzyme
+T77	Process 1845 1854	catalysis
+T78	Process 1870 1878	reaction
+T79	Process 1879 1889	mechanisms
+T80	Chemical 1902 1906	RG-I
+T81	Process 1907 1923	depolymerization
+T82	Organism 1927 1935	bacteria

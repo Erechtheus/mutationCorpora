@@ -1,0 +1,69 @@
+T1	Protein 13 19	factor
+T2	Category 36 45	substrate
+T3	Process 46 57	recognition
+T4	Organism 61 69	Bacillus
+T5	Unknown 74 77	GL1
+T6	Protein 86 91	lyase
+T7	Chemical 118 127	pyruvated
+T8	Protein_part 128 139	side chains
+T9	Organism 165 174	bacterial
+T10	Chemical 175 195	heteropolysaccharide
+T11	Chemical 208 223	pentasaccharide
+T12	Chemical 280 293	trisaccharide
+T13	Chemical 312 320	mannoses
+T14	Chemical 329 344	glucuronic acid
+T15	Protein_part 350 360	side chain
+T16	Protein_part 374 399	terminal mannose residues
+T17	Protein_part 411 422	side chains
+T18	Chemical 437 446	pyruvated
+T19	Organism 448 456	Bacillus
+T20	Unknown 461 464	GL1
+T21	Protein 473 478	lyase
+T22	Unknown 482 488	member
+T23	Protein 492 521	polysaccharide lyase family 8
+T24	Chemical 544 553	pyruvated
+T25	Protein_part 555 566	side chains
+T26	Chemical 589 606	pyruvated mannose
+T27	Protein 617 621	beta
+T28	Process 634 642	reaction
+T29	Protein_part 661 675	Tyr255 residue
+T30	Chemical 688 702	acid catalysts
+T31	Protein 728 735	factors
+T32	Category 740 749	substrate
+T33	Process 750 761	recognition
+T34	Protein 773 778	lyase
+T35	Technique 787 810	X-ray  crystallographic
+T36	Technique 815 834	mutational analyses
+T37	Protein 840 846	enzyme
+T38	Chemical 860 867	mannose
+T39	Chemical 872 889	pyruvated mannose
+T40	Protein_part 897 907	-1 subsite
+T41	Category 923 932	inhibitor
+T42	Parameter 937 959	dissociation constants
+T43	Chemical 971 986	monosaccharides
+T44	Parameter 1006 1014	affinity
+T45	Chemical 1018 1035	pyruvated mannose
+T46	Protein 1048 1053	lyase
+T47	Chemical 1082 1089	mannose
+T48	Parameter 1100 1108	affinity
+T49	Chemical 1113 1130	pyruvated mannose
+T50	Process 1154 1163	formation
+T51	Chemical 1178 1192	hydrogen bonds
+T52	Chemical 1205 1213	carboxyl
+T53	Molecular_Part 1214 1219	group
+T54	Chemical 1223 1240	pyruvated mannose
+T55	Protein_part 1245 1264	amino acid residues
+T56	Protein_part 1269 1275	Tyr315
+T57	Protein_part 1280 1286	Arg612
+T58	Technique 1288 1313	Site-directed mutagenesis
+T59	Protein_part 1325 1333	residues
+T60	Protein_part 1352 1358	Arg612
+T61	Protein_part 1368 1375	residue
+T62	Chemical 1391 1408	pyruvated mannose
+T63	Protein_part 1410 1416	Arg612
+T64	Geometrical_part 1447 1451	loop
+T65	Category 1465 1474	substrate
+T66	Geometrical_part 1496 1500	loop
+T67	Process 1555 1568	accommodation
+T68	Category 1576 1585	substrate
+T69	Protein_part 1593 1604	active site

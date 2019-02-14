@@ -1,0 +1,56 @@
+T1	Parameter 7 17	resolution
+T2	Technique 18 33	crystallography
+T3	Process 46 53	changes
+T4	Parameter 57 59	pH
+T5	Geometrical_part 60 65	shape
+T6	Protein 70 77	protein
+T7	Location 78 94	microenvironment
+T8	Chemical 96 110	Hydrogen atoms
+T9	Protein_part 123 132	component
+T10	Protein 136 142	enzyme
+T11	Geometrical_part 143 152	structure
+T12	Process 157 165	function
+T13	Parameter 192 202	resolution
+T14	Technique 203 218	crystallography
+T15	Parameter 221 223	or
+T16	Value 224 229	1.2 A
+T17	Process 277 281	role
+T18	Chemical 289 302	hydrogen atom
+T19	Protein 306 315	enzymatic
+T20	Process 316 325	catalysis
+T21	Parameter 340 350	resolution
+T22	Technique 351 366	crystallography
+T23	Process 389 395	effect
+T24	Parameter 399 401	pH
+T25	Protein 405 424	cholesterol oxidase
+T26	Organism 430 442	Streptomyces
+T27	Protein 450 476	flavoenzyme oxidoreductase
+T28	Technique 478 494	Crystallographic
+T29	Chemical 532 538	flavin
+T30	Category 539 547	cofactor
+T31	Parameter 557 559	pH
+T32	Technique 584 594	UV-visible
+T33	Process 595 605	absorption
+T34	Protein 621 627	enzyme
+T35	Parameter 663 665	pH
+T36	Process 676 680	loss
+T37	Process 684 693	oxidation
+T38	Parameter 694 702	activity
+T39	Chemical 719 732	hydrogen atom
+T40	Parameter 767 775	distance
+T41	Protein_part 785 795	main chain
+T42	Chemical 796 811	carbonyl oxygen
+T43	Protein_part 816 822	Met122
+T44	Value 826 830	high
+T45	Parameter 831 833	pH
+T46	Process 881 890	mechanism
+T47	Category 894 902	cofactor
+T48	Process 903 916	stabilization
+T49	Protein_part 947 958	active site
+T50	Process 971 978	changes
+T51	Protein 986 994	enzyme's
+T52	Unknown 995 1006	environment
+T53	Process 1021 1028	changes
+T54	Process 1055 1064	mechanism
+T55	Protein 1068 1077	enzymatic
+T56	Process 1078 1087	catalysis

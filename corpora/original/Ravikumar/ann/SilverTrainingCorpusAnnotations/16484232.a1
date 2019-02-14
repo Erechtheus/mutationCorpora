@@ -1,0 +1,79 @@
+T1	Protein 0 18	Fumarate reductase
+T2	Protein 23 40	succinate oxidase
+T3	Parameter 41 49	activity
+T4	Organism 53 69	Escherichia coli
+T5	Protein 70 90	complex II  homologs
+T6	Process 120 128	mutation
+T7	Chemical 136 142	flavin
+T8	Process 143 150	binding
+T9	Protein_part 151 157	domain
+T10	Organism 163 179	Escherichia coli
+T11	Protein 180 237	complex II homologues succinate:ubiquinone oxidoreductase
+T12	Protein 239 242	SQR
+T13	Unknown 244 251	SdhCDAB
+T14	Protein 257 291	menaquinol:fumarate oxidoreductase
+T15	Protein 293 296	QFR
+T16	Unknown 298 305	FrdABCD
+T17	Chemical 352 365	dicarboxylate
+T18	Process 366 373	binding
+T19	Protein_part 374 379	sites
+T20	Protein 395 398	SQR
+T21	Protein 403 406	QFR
+T22	Process 424 439	interconversion
+T23	Chemical 443 451	fumarate
+T24	Chemical 456 465	succinate
+T25	Protein 467 470	QFR
+T26	Protein 489 507	fumarate reductase
+T27	Protein 513 516	SQR
+T28	Protein 529 546	succinate oxidase
+T29	Process 551 560	exception
+T30	Process 568 580	conservation
+T31	Protein_part 584 595	amino acids
+T32	Chemical 605 618	dicarboxylate
+T33	Process 619 626	binding
+T34	Protein_part 627 632	sites
+T35	Protein 644 651	enzymes
+T36	Protein_part 671 674	Glu
+T37	Protein_part 676 687	FrdA Glu-49
+T38	Chemical 715 718	FAD
+T39	Category 719 727	cofactor
+T40	Protein 736 740	QFRs
+T41	Protein_part 767 770	Gln
+T42	Protein_part 772 783	SdhA Gln-50
+T43	Protein 788 792	SQRs
+T44	Process 798 802	role
+T45	Protein_part 810 820	amino acid
+T46	Protein_part 821 831	side chain
+T47	Protein 835 842	enzymes
+T48	Protein_part 848 859	Glu/Gln/Ala
+T49	Process 860 873	substitutions
+T50	Protein_part 877 888	FrdA Glu-49
+T51	Protein_part 893 904	SdhA Gln-50
+T52	Protein 972 986	mutant enzymes
+T53	Protein_part 992 995	Ala
+T54	Process 996 1009	substitutions
+T55	Protein 1020 1023	QFR
+T56	Protein 1027 1030	SQR
+T57	Process 1122 1129	changes
+T58	Parameter 1147 1157	properties
+T59	Protein_part 1163 1166	Glu
+T60	Protein_part 1171 1174	Gln
+T61	Protein 1209 1212	QFR
+T62	Protein 1217 1220	SQR
+T63	Protein 1241 1244	QFR
+T64	Protein 1249 1260	SQR enzymes
+T65	Protein 1280 1298	succinate oxidases
+T66	Protein_part 1304 1307	Gln
+T67	Process 1318 1324	target
+T68	Protein 1347 1365	fumarate reductase
+T69	Protein_part 1371 1374	Glu
+T70	Technique 1421 1429	analyses
+T71	Unknown 1437 1446	FrdA E49Q
+T72	Molecule 1451 1460	SdhA Q50E
+T73	Molecule 1461 1468	mutants
+T74	Process 1492 1499	effects
+T75	State 1519 1524	state
+T76	Chemical 1532 1535	FAD
+T77	Chemical 1598 1616	succinate/fumarate
+T78	Process 1617 1633	interconversions
+T79	Unknown 1651 1673	complex II superfamily

@@ -1,0 +1,114 @@
+T1	Process 0 8	Mutation
+T2	Protein_part 12 17	Gly51
+T3	Protein_part 21 27	serine
+T4	Protein 35 41	P-loop
+T5	Organism 45 64	Lactobacillus casei
+T6	Protein 65 94	folylpolyglutamate synthetase
+T7	Parameter 105 113	activity
+T8	State 130 142	conformation
+T9	Location 151 159	adjacent
+T10	Geometrical_part 160 165	loops
+T11	Geometrical_part 182 209	three-dimensional structure
+T12	Organism 213 232	Lactobacillus casei
+T13	Protein 233 269	folylpolyglutamate synthetase (FPGS)
+T14	Technique 271 296	site-directed mutagenesis
+T15	Protein_part 329 337	residues
+T16	Protein 358 364	ATPase
+T17	Protein_part 365 369	site
+T18	Protein_part 371 376	Gly51
+T19	Protein_part 378 383	Ser52
+T20	Protein_part 388 393	Ser73
+T21	Protein_part 395 400	Gly51
+T22	Protein_part 405 410	Ser52
+T23	Geometrical_part 422 425	end
+T24	Protein 433 439	P-loop
+T25	Chemical 462 474	triphosphate
+T26	Protein 486 504	G51S mutant enzyme
+T27	Protein 511 520	G51S/S52T
+T28	Protein 535 541	enzyme
+T29	Protein 574 585	FPGS P-loop
+T30	Protein_part 615 624	sequences
+T31	Protein 640 646	ATPase
+T32	Protein 651 665	GTPase enzymes
+T33	Protein_part 667 672	Ser73
+T34	Geometrical_part 693 697	loop
+T35	Geometrical_part 703 713	Omega-loop
+T36	Protein_part 730 745	proline residue
+T37	Geometrical_part 763 766	cis
+T38	State 767 779	conformation
+T39	Chemical 785 800	carbonyl O atom
+T40	Protein_part 804 809	Ser73
+T41	Protein 824 831	protein
+T42	Category 832 839	ligands
+T43	Chemical 859 869	Mg(2+) ion
+T44	Chemical 882 885	ATP
+T45	Process 886 893	binding
+T46	Process 898 908	hydrolysis
+T47	Geometrical_part 917 927	Omega-loop
+T48	Chemical 955 961	folate
+T49	Category 962 971	substrate
+T50	Chemical 972 1002	5,10-methylenetetrahydrofolate
+T51	Protein_part 1008 1022	serine residue
+T52	Protein_part 1038 1045	alanine
+T53	Molecule 1084 1091	mutants
+T54	Protein 1111 1115	FPGS
+T55	Parameter 1116 1124	activity
+T56	Unknown 1130 1140	structures
+T57	Protein 1148 1152	G51S
+T58	Protein 1154 1163	G51S/S52T
+T59	Protein 1168 1188	S73A mutant proteins
+T60	Parameter 1214 1224	resolution
+T61	Unknown 1241 1250	structure
+T62	Protein 1262 1276	wild-type FPGS
+T63	Protein 1282 1288	P-loop
+T64	Protein 1301 1305	G51S
+T65	Protein 1310 1335	G51S/S52T mutant proteins
+T66	Unknown 1364 1374	structures
+T67	State 1388 1402	conformational
+T68	Process 1403 1416	rearrangement
+T69	Geometrical_part 1424 1434	Omega-loop
+T70	Protein_part 1446 1461	cis-Pro residue
+T71	State 1475 1487	conformation
+T72	Protein_part 1493 1506	trans-peptide
+T73	Unknown 1512 1521	structure
+T74	Geometrical_part 1529 1539	Omega-loop
+T75	Process 1571 1582	consequence
+T76	Process 1594 1608	rearrangements
+T77	Protein_part 1629 1636	peptide
+T78	Molecular_Part 1637 1643	linker
+T79	Protein_part 1660 1667	domains
+T80	Protein 1675 1681	enzyme
+T81	Chemical 1683 1692	Magnesium
+T82	Process 1693 1700	binding
+T83	Protein_part 1708 1719	active site
+T84	Process 1745 1753	presence
+T85	Protein_part 1761 1767	serine
+T86	Protein_part 1768 1778	side chain
+T87	Location 1782 1793	position 51
+T88	Chemical 1826 1841	carbonyl O atom
+T89	Protein_part 1845 1850	Ser73
+T90	Chemical 1857 1872	water  molecule
+T91	Chemical 1898 1908	Mg(2+) ion
+T92	Protein 1914 1933	S73A mutant protein
+T93	Unknown 1946 1953	cis-Pro
+T94	Process 1954 1967	configuration
+T95	Geometrical_part 1975 1985	Omega-loop
+T96	Protein_part 1994 2005	Mg(2+) site
+T97	Unknown 2026 2033	cis-Pro
+T98	Unknown 2058 2067	structure
+T99	Protein 2098 2102	FPGS
+T100	Protein 2104 2111	apoFPGS
+T101	Process 2132 2139	absence
+T102	Chemical 2143 2149	Mg(2+)
+T103	Chemical 2155 2163	hydrogen
+T104	Physiology 2172 2179	network
+T105	Chemical 2190 2205	water molecules
+T106	Protein_part 2213 2224	active site
+T107	Process 2253 2260	absence
+T108	Chemical 2265 2270	water
+T109	Chemical 2274 2280	Mg(2+)
+T110	Process 2288 2295	binding
+T111	Protein_part 2296 2300	site
+T112	Unknown 2310 2317	cis-Pro
+T113	Geometrical_part 2334 2339	trans
+T114	State 2340 2352	conformation

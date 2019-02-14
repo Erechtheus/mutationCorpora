@@ -1,0 +1,59 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein 22 44	ribosomal protein L40E
+T3	Chemical 55 57	C4
+T4	Protein_part 58 69	zinc finger
+T5	Protein 70 77	protein
+T6	Organism 89 121	archaeon Sulfolobus solfataricus
+T7	Protein 127 149	ribosomal protein L40E
+T8	Organism 155 187	archaeon Sulfolobus solfataricus
+T9	Protein_part 193 202	component
+T10	Protein 210 231	50S ribosomal subunit
+T11	Protein 233 237	L40E
+T12	Protein_part 243 253	56-residue
+T13	Protein 268 275	protein
+T14	Chemical 292 294	C4
+T15	Protein_part 295 306	zinc finger
+T16	Protein_part 307 312	motif
+T17	Protein 331 339	Homologs
+T18	Organism 358 365	archaea
+T19	Organism 370 380	eukaryotes
+T20	Organism 404 412	bacteria
+T21	Organism 414 424	Eukaryotic
+T22	Protein 425 432	genomes
+T23	Protein 440 444	L40E
+T24	Protein 450 474	ubiquitin-fusion protein
+T25	Protein 476 480	L40E
+T26	Geometrical_part 501 518	crystal structure
+T27	Protein 536 557	50S ribosomal subunit
+T28	Geometrical_part 596 614	solution structure
+T29	Protein 618 622	L40E
+T30	Technique 626 642	NMR spectroscopy
+T31	Geometrical_part 648 657	structure
+T32	Protein 661 665	L40E
+T33	Protein_part 686 696	beta-sheet
+T34	Protein 711 726	beta2beta1beta3
+T35	Unknown 790 799	structure
+T36	Protein 828 839	beta2-beta3
+T37	Geometrical_part 840 844	loop
+T38	Location 875 879	side
+T39	Protein 887 894	protein
+T40	Protein 896 900	L40E
+T41	Protein_part 944 949	Lys19
+T42	Protein_part 951 956	Lys20
+T43	Protein_part 958 963	Cys22
+T44	Protein_part 965 970	Asn29
+T45	Protein_part 976 981	Cys36
+T46	Geometrical_part 996 1003	surface
+T47	Protein 1007 1011	L40E
+T48	Protein_part 1065 1079	basic residues
+T49	Location 1106 1111	sides
+T50	Geometrical_part 1119 1126	surface
+T51	Process 1146 1153	binding
+T52	Chemical 1157 1161	zinc
+T53	Geometrical_part 1194 1212	tertiary structure
+T54	Protein 1216 1220	L40E
+T55	Geometrical_part 1233 1241	scaffold
+T56	Geometrical_part 1279 1286	surface
+T57	Protein 1291 1294	RNA
+T58	Protein 1302 1309	protein
+T59	Process 1310 1321	recognition

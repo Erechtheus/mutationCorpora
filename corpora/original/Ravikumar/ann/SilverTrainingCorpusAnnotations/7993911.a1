@@ -1,0 +1,95 @@
+T1	Process 0 10	Comparison
+T2	Geometrical_part 14 32	crystal structures
+T3	Protein 40 59	homologous proteins
+T4	Protein_part 90 96	domain
+T5	Process 97 109	interactions
+T6	Protein 113 139	immunoglobulin light-chain
+T7	Protein 140 146	dimers
+T8	Protein_part 152 160	sequence
+T9	Unknown 165 174	structure
+T10	Organism 187 192	human
+T11	Protein 193 227	kappa 1 immunoglobulin light-chain
+T12	Protein_part 237 243	domain
+T13	Protein_part 245 248	Wat
+T14	Parameter 275 283	R-factor
+T15	Value 287 292	15.7%
+T16	Value 297 302	1.9-A
+T17	Chemical 338 353	water molecules
+T18	Chemical 374 389	water molecules
+T19	Protein 441 449	monomers
+T20	Chemical 463 478	water molecules
+T21	Geometrical_part 492 497	parts
+T22	Protein_part 505 512	domains
+T23	Protein 519 530	light chain
+T24	Protein_part 563 569	domain
+T25	Protein 570 574	gene
+T26	Protein 617 624	kappa I
+T27	Protein_part 634 640	domain
+T28	Chemical 642 645	Rei
+T29	Body_part 662 669	somatic
+T30	Process 670 678	mutation
+T31	Protein 695 715	homologous  proteins
+T32	Protein_part 745 753	residues
+T33	Geometrical_part 775 792	space group P6(4)
+T34	Chemical 799 802	Rei
+T35	Geometrical_part 819 836	space group P6(1)
+T36	Unknown 846 854	crystals
+T37	Protein 896 901	dimer
+T38	Protein_part 916 938	basic domain structure
+T39	Protein 960 968	proteins
+T40	Protein_part 1000 1007	domains
+T41	Protein 1024 1030	dimers
+T42	Process 1044 1054	difference
+T43	Process 1091 1102	replacement
+T44	Protein_part 1106 1111	Tyr36
+T45	Chemical 1115 1118	Rei
+T46	Protein_part 1122 1125	Phe
+T47	Protein 1133 1144	Wat protein
+T48	Protein_part 1146 1159	Residue Tyr36
+T49	Geometrical_part 1163 1167	part
+T50	Chemical 1175 1183	hydrogen
+T51	Physiology 1192 1199	network
+T52	Protein_part 1229 1236	domains
+T53	Chemical 1240 1243	Rei
+T54	Chemical 1257 1265	hydrogen
+T55	Protein_part 1288 1298	residue 36
+T56	Process 1302 1313	replacement
+T57	Protein_part 1317 1320	Tyr
+T58	Protein_part 1324 1327	Phe
+T59	Physiology 1339 1346	network
+T60	Chemical 1350 1364	hydrogen bonds
+T61	Protein_part 1377 1384	domains
+T62	Process 1401 1410	different
+T63	Protein_part 1411 1424	domain-domain
+T64	Process 1425 1432	contact
+T65	Process 1457 1465	contacts
+T66	Unknown 1477 1485	crystals
+T67	Process 1513 1520	contact
+T68	Protein_part 1538 1548	beta-sheet
+T69	Organism 1556 1566	individual
+T70	Protein_part 1567 1574	domains
+T71	Process 1614 1623	different
+T72	Geometrical_part 1624 1632	symmetry
+T73	Unknown 1633 1641	elements
+T74	Unknown 1653 1660	crystal
+T75	Process 1662 1671	different
+T76	Unknown 1672 1679	crystal
+T77	Protein 1705 1708	Wat
+T78	Geometrical_part 1709 1716	crystal
+T79	Process 1729 1737	contacts
+T80	Location 1764 1775	symmetrical
+T81	Process 1776 1783	binding
+T82	Protein_part 1784 1788	site
+T83	Location 1803 1815	asymmetrical
+T84	Process 1837 1848	examination
+T85	Protein 1856 1859	Wat
+T86	Geometrical_part 1860 1867	crystal
+T87	Process 1893 1902	different
+T88	Process 1915 1927	environments
+T89	Protein_part 1935 1942	domains
+T90	Protein 1950 1955	dimer
+T91	Process 1967 1976	different
+T92	Process 1977 1990	distributions
+T93	Parameter 1994 2013	temperature factors
+T94	Protein_part 2022 2030	residues
+T95	Protein_part 2042 2049	domains

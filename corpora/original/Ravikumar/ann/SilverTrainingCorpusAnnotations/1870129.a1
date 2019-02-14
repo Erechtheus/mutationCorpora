@@ -1,0 +1,110 @@
+T1	Technique 8 32	X-ray crystal structures
+T2	Protein_part 40 53	reactive site
+T3	Protein 63 72	ovomucoid
+T4	Category 73 82	inhibitor
+T5	Protein_part 83 96	third domains
+T6	Chemical 102 108	silver
+T7	Food 109 117	pheasant
+T8	Protein_part 119 126	OMSVP3*
+T9	Unknown 137 145	Japanese
+T10	Food 146 151	quail
+T11	Protein_part 153 160	OMJPQ3*
+T12	Unknown 188 196	crystals
+T13	Protein 204 213	ovomucoid
+T14	Category 214 223	inhibitor
+T15	Protein_part 224 237	third domains
+T16	Chemical 243 249	silver
+T17	Food 250 258	pheasant
+T18	Unknown 263 271	Japanese
+T19	Food 272 277	quail
+T20	Protein_part 297 328	reactive site bonds Met18-Glu19
+T21	Protein_part 330 337	OMSVP3*
+T22	Protein_part 343 364	Lys18-Asp19 (OMJPQ3*)
+T23	Geometrical_part 415 433	crystal structures
+T24	Technique 452 457	X-ray
+T25	Value 466 471	2.5 A
+T26	Value 477 483	1.55 A
+T27	Unknown 496 505	Patterson
+T28	Category 568 578	inhibitors
+T29	Unknown 602 612	structures
+T30	Parameter 650 658	R-values
+T31	Value 662 667	0.185
+T32	Value 672 677	0.192
+T33	Parameter 705 711	energy
+T34	Process 739 749	refinement
+T35	Technique 750 759	procedure
+T36	Category 775 785	inhibitors
+T37	Process 797 807	deviations
+T38	Unknown 824 835	derivatives
+T39	Protein 848 858	proteinase
+T40	Process 859 866	binding
+T41	Geometrical_part 867 872	loops
+T42	Protein_part 874 879	Pro14
+T43	Protein_part 883 888	Arg21
+T44	Protein_part 901 924	amino-terminal segments
+T45	Protein_part 926 930	Leu1
+T46	Protein_part 934 938	Val6
+T47	Category 957 967	inhibitors
+T48	Protein_part 972 980	residues
+T49	Location 993 1001	adjacent
+T50	Process 1009 1017	cleavage
+T51	Protein_part 1018 1022	site
+T52	Protein_part 1038 1040	P2
+T53	Protein_part 1042 1044	P1
+T54	Protein_part 1046 1049	P1'
+T55	Unknown 1091 1098	crystal
+T56	Process 1099 1111	environments
+T57	Molecular_Part 1125 1135	end-groups
+T58	Chemical 1142 1152	Met18 COO-
+T59	Chemical 1157 1167	Glu19 NH3+
+T60	Protein_part 1171 1178	OMSVP3*
+T61	Chemical 1185 1195	Lys18 COO-
+T62	Chemical 1200 1210	Asp19 NH3+
+T63	Protein_part 1214 1221	OMJPQ3*
+T64	Chemical 1235 1244	ion pairs
+T65	Chemical 1267 1280	hydrogen bond
+T66	Protein_part 1296 1307	side-chains
+T67	Protein_part 1311 1316	Thr17
+T68	Protein_part 1321 1326	Glu19
+T69	Protein_part 1333 1341	residues
+T70	Location 1352 1356	side
+T71	Chemical 1373 1385	peptide bond
+T72	Protein_part 1390 1396	OMSVP3
+T73	Chemical 1437 1450	hydrogen-bond
+T74	Process 1451 1463	interactions
+T75	Molecule 1487 1496	molecules
+T76	Protein_part 1509 1525	Asn33 side-chain
+T77	Chemical 1534 1542	carbonyl
+T78	Molecular_Part 1543 1549	groups
+T79	Geometrical_part 1553 1557	loop
+T80	Protein_part 1558 1569	residues P2
+T81	Protein_part 1574 1577	P1'
+T82	Category 1613 1623	inhibitors
+T83	Protein_part 1629 1642	reactive site
+T84	Process 1643 1651	cleavage
+T85	Process 1673 1679	effect
+T86	Process 1692 1704	interactions
+T87	Protein 1716 1723	protein
+T88	Geometrical_part 1724 1732	scaffold
+T89	Chemical 1745 1769	side-chain hydrogen bond
+T90	Protein_part 1778 1783	Asp27
+T91	Protein_part 1788 1793	Tyr31
+T92	Protein_part 1801 1811	side-chain
+T93	Protein_part 1824 1829	Tyr20
+T94	Protein_part 1834 1839	Pro22
+T95	State 1845 1859	conformational
+T96	Process 1860 1871	differences
+T97	Protein_part 1879 1907	amino-terminal segment  Leu1
+T98	Protein_part 1911 1915	Val6
+T99	Protein_part 1988 1996	segments
+T100	Geometrical_part 2000 2008	symmetry
+T101	Molecule 2017 2026	molecules
+T102	Process 2033 2042	formation
+T103	Protein_part 2062 2073	beta-barrel
+T104	Protein_part 2075 2082	OMSVP3*
+T105	Protein_part 2087 2093	OMJPQ3
+T106	Molecule 2121 2130	molecules
+T107	Parameter 2227 2231	Khyd
+T108	Protein 2241 2248	protein
+T109	Category 2249 2259	inhibitors
+T110	Protein 2263 2281	serine proteinases

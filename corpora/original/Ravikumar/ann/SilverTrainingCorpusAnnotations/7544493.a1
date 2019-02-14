@@ -1,0 +1,37 @@
+T1	State 0 12	Conformation
+T2	Process 17 25	function
+T3	Protein 33 48	N-linked glycan
+T4	Process 56 64	adhesion
+T5	Protein_part 65 71	domain
+T6	Organism 75 80	human
+T7	Protein 82 85	CD2
+T8	Process 91 99	adhesion
+T9	Protein_part 100 106	domain
+T10	Organism 110 115	human
+T11	Protein 116 119	CD2
+T12	Food 120 125	bears
+T13	Chemical 135 156	N-linked carbohydrate
+T14	Geometrical_part 162 180	solution structure
+T15	Unknown 186 194	fragment
+T16	Protein 198 201	CD2
+T17	Protein 234 255	high-mannose N-glycan
+T18	Parameter 256 294	[-(N-acetylglucosamine)2-(mannose)5-8]
+T19	Technique 309 335	nuclear magnetic resonance
+T20	Body_part 341 345	stem
+T21	Chemical 379 401	carbohydrate structure
+T22	Location 439 447	proximal
+T23	Protein_part 448 463	glycan residues
+T24	Physiology 479 490	Mutagenesis
+T25	Protein_part 498 506	residues
+T26	Location 514 522	vicinity
+T27	Protein 530 536	glycan
+T28	Protein 555 561	glycan
+T29	Parameter 571 580	component
+T30	Chemical 588 596	CD2-CD58
+T31	Chemical 620 632	carbohydrate
+T32	Protein 648 655	protein
+T33	Process 696 706	clustering
+T34	Value 715 723	positive
+T35	Parameter 724 731	charges
+T36	Protein_part 747 756	lysine-61
+T37	Protein 760 763	CD2

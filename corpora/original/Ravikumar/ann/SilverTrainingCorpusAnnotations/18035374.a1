@@ -1,0 +1,83 @@
+T1	Unknown 0 10	Structures
+T2	Molecule 14 21	mutants
+T3	Protein 25 41	cellulase Cel48F
+T4	Organism 45 71	Clostridium cellulolyticum
+T5	Category 75 82	complex
+T6	Chemical 93 122	hemithiocellooligosaccharides
+T7	Category 154 163	substrate
+T8	Process 164 171	pathway
+T9	Process 190 196	action
+T10	Parameter 240 247	biomass
+T11	Process 274 284	production
+T12	Protein 316 326	Cellulases
+T13	Protein 335 342	enzymes
+T14	Process 351 358	process
+T15	Category 376 385	complexes
+T16	Chemical 394 413	hemithio-cello-deca
+T17	Chemical 418 428	dodecaoses
+T18	Protein_part 446 458	mutants E44Q
+T19	Protein_part 463 467	E55Q
+T20	Protein 491 507	cellulase Cel48F
+T21	Protein 534 544	cellulases
+T22	Body_part 548 560	cellulosomes
+T23	Organism 566 592	Clostridium cellulolyticum
+T24	Process 623 632	mechanism
+T25	Category 642 651	complexes
+T26	Chemical 657 678	cellooligosaccharides
+T27	Geometrical_part 711 717	tunnel
+T28	Geometrical_part 718 722	part
+T29	Protein_part 730 741	active site
+T30	Geometrical_part 779 784	cleft
+T31	Organism 792 797	hosts
+T32	Protein_part 802 813	active site
+T33	Protein_part 823 827	E44Q
+T34	Category 828 835	complex
+T35	Geometrical_part 865 869	part
+T36	Body_part 877 883	cavity
+T37	Protein_part 910 914	E55Q
+T38	Category 915 922	complex
+T39	Process 943 950	binding
+T40	Protein_part 951 959	subsites
+T41	Geometrical_part 973 977	part
+T42	Body_part 985 991	cavity
+T43	Chemical 1030 1057	Cel48F/cellooligosaccharide
+T44	Category 1058 1067	complexes
+T45	Chemical 1088 1093	sugar
+T46	Molecular_Part 1094 1102	moieties
+T47	Process 1130 1142	interactions
+T48	Protein_part 1157 1168	side chains
+T49	Chemical 1173 1180	H bonds
+T50	Process 1192 1199	pathway
+T51	Protein_part 1212 1218	Tyr403
+T52	Protein_part 1251 1255	E55Q
+T53	Category 1256 1263	complex
+T54	Process 1281 1289	stacking
+T55	Process 1290 1301	interaction
+T56	Protein_part 1309 1313	E44Q
+T57	Category 1314 1321	complex
+T58	Process 1389 1398	mechanism
+T59	Process 1419 1425	action
+T60	Protein 1430 1435	chain
+T61	Process 1436 1446	disruption
+T62	Process 1454 1463	different
+T63	Protein_part 1464 1472	subsites
+T64	Geometrical_part 1480 1483	end
+T65	Process 1530 1539	mechanism
+T66	Protein 1545 1550	chain
+T67	Molecular_Part 1580 1593	leaving group
+T68	Protein_part 1594 1598	site
+T69	Process 1615 1622	pathway
+T70	Geometrical_part 1644 1648	part
+T71	Protein 1654 1659	chain
+T72	Process 1707 1714	binding
+T73	Process 1745 1752	pathway
+T74	Geometrical_part 1765 1781	native structure
+T75	Protein 1785 1791	Cel48F
+T76	Chemical 1810 1815	sugar
+T77	Protein_part 1823 1834	active site
+T78	Protein_part 1852 1862	side-chain
+T79	Process 1863 1875	orientations
+T80	Molecule 1883 1889	proton
+T81	Category 1890 1895	donor
+T82	Protein_part 1896 1901	Glu55
+T83	Geometrical_part 1929 1939	structures

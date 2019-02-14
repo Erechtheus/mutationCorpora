@@ -1,0 +1,90 @@
+T1	Chemical 0 9	Glutamate
+T2	Chemical 17 26	glutamine
+T3	Process 27 35	exchange
+T4	Category 42 51	substrate
+T5	Parameter 52 63	selectivity
+T6	Protein 67 96	tRNA-guanine transglycosylase
+T7	Process 98 105	insight
+T8	Process 115 125	regulation
+T9	Category 129 138	substrate
+T10	Parameter 139 150	selectivity
+T11	Parameter 154 161	kinetic
+T12	Technique 166 182	crystallographic
+T13	Organism 192 201	Bacterial
+T14	Protein 202 237	tRNA-guanine transglycosylase (Tgt)
+T15	Process 252 260	exchange
+T16	Chemical 264 271	guanine
+T17	Protein 309 314	tRNAs
+T18	Protein_part 331 335	base
+T19	Parameter 336 343	preQ(1)
+T20	Protein 368 374	enzyme
+T21	Protein_part 391 397	insert
+T22	Unknown 425 434	precursor
+T23	Unknown 436 443	preQ(0)
+T24	Protein 456 461	tRNAs
+T25	Category 468 477	substrate
+T26	Protein_part 504 511	peptide
+T27	Process 512 518	switch
+T28	Protein_part 526 537	active site
+T29	Protein 560 569	acid/base
+T30	Protein_part 570 576	Glu235
+T31	Process 582 588	switch
+T32	Parameter 600 610	properties
+T33	Process 618 625	binding
+T34	Geometrical_part 626 632	pocket
+T35	Process 653 666	accommodation
+T36	Chemical 670 677	guanine
+T37	Parameter 681 688	preQ(1)
+T38	Protein 694 711	peptide conformer
+T39	Chemical 724 731	guanine
+T40	Parameter 763 770	preQ(0)
+T41	Parameter 787 798	selectivity
+T42	Process 799 809	regulation
+T43	Parameter 811 818	kinetic
+T44	Organism 828 845	Zymomonas mobilis
+T45	Protein 846 849	Tgt
+T46	Parameter 880 891	selectivity
+T47	Category 917 926	substrate
+T48	Parameter 927 934	preQ(1)
+T49	Parameter 940 947	preQ(0)
+T50	Process 969 979	difference
+T51	Parameter 983 991	affinity
+T52	Process 1009 1017	turnover
+T53	Parameter 1018 1022	rate
+T54	Protein 1036 1058	Tgt(Glu235Gln) variant
+T55	Process 1080 1088	mutation
+T56	Protein_part 1119 1126	peptide
+T57	Process 1127 1133	switch
+T58	State 1141 1153	conformation
+T59	Chemical 1164 1171	guanine
+T60	Parameter 1176 1183	preQ(0)
+T61	Process 1184 1191	binding
+T62	Parameter 1193 1200	Kinetic
+T63	Process 1201 1217	characterisation
+T64	Protein 1233 1239	enzyme
+T65	Protein_part 1258 1267	Glu235Gln
+T66	Process 1268 1276	exchange
+T67	Category 1303 1312	substrate
+T68	Protein_part 1313 1318	bases
+T69	Process 1335 1344	influence
+T70	Parameter 1348 1354	k(cat)
+T71	Parameter 1369 1382	K(M)(preQ(1))
+T72	Parameter 1415 1428	K(M)(preQ(0))
+T73	Parameter 1469 1480	k(cat)/K(M)
+T74	Parameter 1511 1521	efficiency
+T75	Parameter 1523 1534	selectivity
+T76	Protein 1538 1541	Tgt
+T77	Parameter 1555 1562	preQ(1)
+T78	Parameter 1606 1613	preQ(0)
+T79	Protein 1618 1632	Tgt(Glu235Gln)
+T80	Geometrical_part 1634 1652	Crystal structures
+T81	Protein 1668 1674	enzyme
+T82	Process 1692 1700	mutation
+T83	Process 1722 1729	binding
+T84	Geometrical_part 1730 1736	pocket
+T85	State 1737 1749	conformation
+T86	Process 1767 1780	accommodation
+T87	Chemical 1784 1791	guanine
+T88	Parameter 1796 1803	preQ(0)
+T89	Geometrical_part 1891 1909	crystal structures
+T90	Protein 1913 1926	wild-type Tgt

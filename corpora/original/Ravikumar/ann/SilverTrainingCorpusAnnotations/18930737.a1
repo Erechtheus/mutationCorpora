@@ -1,0 +1,78 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Category 31 38	complex
+T3	Protein 54 84	zinc alpha2-glycoprotein (ZAG)
+T4	Protein 89 122	prolactin-inducible protein (PIP)
+T5	Organism 128 133	human
+T6	Body_part 134 148	seminal plasma
+T7	Process 182 191	formation
+T8	Category 197 204	complex
+T9	Protein 213 243	zinc alpha2-glycoprotein (ZAG)
+T10	Protein 248 281	prolactin-inducible protein (PIP)
+T11	Category 287 294	complex
+T12	Organism 314 319	human
+T13	Body_part 320 334	seminal plasma
+T14	Value 358 361	20%
+T15	Chemical 362 381	polyethylene glycol
+T16	Value 382 386	9000
+T17	Value 391 393	5%
+T18	Chemical 394 413	hexaethylene glycol
+T19	Geometrical_part 419 428	structure
+T20	Category 436 443	complex
+T21	Technique 470 492	X-ray crystallographic
+T22	Parameter 518 526	R(cryst)
+T23	Value 530 535	0.199
+T24	Value 545 550	0.239
+T25	Geometrical_part 557 566	structure
+T26	Protein 570 573	ZAG
+T27	Unknown 600 609	structure
+T28	Body_part 613 618	serum
+T29	Protein 619 622	ZAG
+T30	Protein 643 646	PIP
+T31	Protein_part 665 677	beta-strands
+T32	Geometrical_part 716 728	antiparallel
+T33	Protein 729 733	beta
+T34	Protein_part 742 748	sheets
+T35	Process 767 776	formation
+T36	Protein_part 793 803	beta-sheet
+T37	Protein_part 809 828	amino acid sequence
+T38	Protein 832 835	PIP
+T39	Process 859 874	N-glycosylation
+T40	Protein_part 875 879	site
+T41	Protein_part 883 888	Asn77
+T42	Protein_part 936 950	sugar residues
+T43	Geometrical_part 956 965	structure
+T44	Category 973 980	complex
+T45	Unknown 996 1010	beta-structure
+T46	Protein 1014 1017	PIP
+T47	Unknown 1046 1060	beta-structure
+T48	Protein 1064 1077	domain alpha3
+T49	Protein 1081 1084	ZAG
+T50	Protein 1122 1130	proteins
+T51	Location 1136 1144	proximal
+T52	Protein_part 1145 1157	beta-strands
+T53	Geometrical_part 1199 1211	antiparallel
+T54	Chemical 1233 1247	hydrogen bonds
+T55	Chemical 1258 1270	salt bridges
+T56	Protein 1279 1282	ZAG
+T57	Protein 1287 1290	PIP
+T58	Geometrical_part 1303 1307	ends
+T59	Chemical 1335 1347	salt bridges
+T60	Protein_part 1376 1388	Lys41-Asp233
+T61	Protein_part 1393 1405	Lys68-Glu229
+T62	Protein 1448 1461	alpha1-alpha2
+T63	Protein_part 1462 1469	domains
+T64	Protein 1473 1476	ZAG
+T65	Geometrical_part 1483 1487	loop
+T66	Protein 1492 1495	PIP
+T67	Chemical 1505 1516	salt bridge
+T68	Location 1532 1540	internal
+T69	Unknown 1568 1569	L
+T70	Unknown 1577 1586	structure
+T71	Chemical 1602 1619	solvent molecules
+T72	Chemical 1632 1645	carbonate ion
+T73	Parameter 1666 1670	area
+T74	Category 1678 1685	complex
+T75	Value 1689 1711	approximately 914 A(2)
+T76	Value 1751 1759	660 A(2)
+T77	Unknown 1777 1784	class I
+T78	Geometrical_part 1818 1828	structures

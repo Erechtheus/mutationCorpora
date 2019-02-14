@@ -1,0 +1,78 @@
+T1	Technique 0 3	NMR
+T2	Geometrical_part 4 22	solution structure
+T3	Organism 26 45	Thermotoga maritima
+T4	Protein 46 60	protein TM1509
+T5	Protein 71 89	Zn-metalloprotease
+T6	Geometrical_part 95 113	tertiary structure
+T7	Protein 119 145	150-residue protein TM1509
+T8	Organism 179 198	Thermotoga maritima
+T9	Protein 200 206	TM1509
+T10	Process 232 242	annotation
+T11	Unknown 258 280	protein family UPF0054
+T12	Unknown 282 286	PFAM
+T13	Process 287 296	accession
+T14	Unknown 305 312	PF02130
+T15	Unknown 342 349	members
+T16	Technique 355 358	NMR
+T17	Geometrical_part 359 368	structure
+T18	Protein 372 378	TM1509
+T19	Protein 390 400	alpha+beta
+T20	Geometrical_part 401 405	fold
+T21	Protein_part 433 443	beta-sheet
+T22	Unknown 476 477	B
+T23	Unknown 494 495	D
+T24	Unknown 512 513	C
+T25	Protein_part 547 560	alpha-helices
+T26	Unknown 561 564	I-V
+T27	Unknown 570 580	structures
+T28	Unknown 589 596	members
+T29	Unknown 600 614	family PF02130
+T30	Protein 653 659	TM1509
+T31	Technique 660 663	NMR
+T32	Geometrical_part 664 673	structure
+T33	Process 707 718	exploration
+T34	Geometrical_part 722 726	fold
+T35	Protein_part 746 754	sequence
+T36	Process 755 764	alignment
+T37	Protein 768 774	TM1509
+T38	Protein 780 790	homologues
+T39	Unknown 794 808	family UPF0054
+T40	Protein_part 826 846	polypeptide segments
+T41	Chemical 861 874	putative zinc
+T42	Protein_part 893 910	motif HGXLHLXGYDH
+T43	Protein_part 926 940	C-terminal end
+T44	Protein_part 944 955	alpha-helix
+T45	Unknown 956 958	IV
+T46	Process 994 1005	arrangement
+T47	Protein_part 1019 1031	His residues
+T48	Unknown 1040 1047	UPF0054
+T49	Protein_part 1058 1063	motif
+T50	Process 1082 1093	arrangement
+T51	Protein_part 1108 1120	His residues
+T52	Chemical 1128 1144	HEXXHXXGXXH zinc
+T53	Protein_part 1163 1168	motif
+T54	Body_part 1172 1203	matrix metallo-proteases (MMPs)
+T55	Protein_part 1235 1255	polypeptide segments
+T56	Body_part 1269 1275	cavity
+T57	Chemical 1295 1306	putative Zn
+T58	Geometrical_part 1315 1321	pocket
+T59	Process 1358 1367	catalysis
+T60	Protein 1378 1384	TM1509
+T61	Unknown 1399 1406	members
+T62	Unknown 1414 1428	UPF0054 family
+T63	Protein_part 1453 1464	Glu residue
+T64	Location 1468 1478	position 2
+T65	Body_part 1486 1489	MMP
+T66	Protein_part 1500 1505	motif
+T67	Protein 1525 1531	TM1509
+T68	Geometrical_part 1532 1541	structure
+T69	Protein_part 1561 1564	Asp
+T70	Unknown 1572 1579	UPF0054
+T71	Protein_part 1590 1595	motif
+T72	Protein_part 1597 1604	Asp 111
+T73	Protein 1608 1614	TM1509
+T74	Process 1643 1647	role
+T75	Protein_part 1655 1658	Glu
+T76	Unknown 1679 1701	protein family UPF0054
+T77	Unknown 1716 1723	members
+T78	Protein 1763 1779	metalloproteases

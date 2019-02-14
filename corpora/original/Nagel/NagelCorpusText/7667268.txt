@@ -1,0 +1,8 @@
+Human transcription initiation factor TFIID is composed of the TATA-binding polypeptide ( TBP) and at least 13 TBP-associated factors (TAFs) that collectively or individually are involved in activator-dependent transcription . 
+To investigate protein-protein interactions involved in TFIID assembly and in TAF-mediated activator functions, we have cloned and expressed cDNAs encoding human TAFII80 and TAFII31 . 
+Coimmunoprecipitation assays showed that TAFII80 interacted with TAFII250, TAFII31, TAFII20, and TBP, but not with TAFII55 . 
+Similar assays showed that TAFII80 interacted with TFIIE alpha and with TFIIF alpha (RAP74) but not with TFIIB, TFIIE beta, or TFIIF beta (RAP30) . 
+Further studies with TAFII80 mutations revealed three distinct interaction domains which fall within regions conserved in human TAFII80, Drosophila TAFII60, and yeast TAFII60 . 
+The N terminus of TAFII80 (residues 1-100) interacts with both TAFII31 and TAFII20, while two C-terminal regions are involved, respectively, in interactions with TAFII250 and TFIIF alpha (RAP74) (residues 203-276) and with TBP and TFIIE alpha (residues 377-505) . 
+The interactions between TAFII80 and general factors TFIIE alpha and TFIIF alpha (RAP74) could be important for recruitment of GTFs during activator-dependent transcription . 
+Because TAFs 80, 31, and 20 show sequence similarities to histones H4, H3, and H2B, as well as some parallel interactions, this subset of TAFs may form a related core structure within TFIID . 

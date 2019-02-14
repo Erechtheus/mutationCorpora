@@ -1,0 +1,9 @@
+Peroxidases of the peroxiredoxin (Prx) family contain a Cys residue that is preceded by a conserved sequence in the NH(2)-terminal region . 
+A new type of mammalian Prx, designated PrxV, has now been identified as the result of a data base search with this conserved Cys-containing sequence . 
+The 162-amino acid PrxV shares only approximately 10% sequence identity with previously identified mammalian Prx enzymes and contains Cys residues at positions 73 and 152 in addition to that (Cys(48)) corresponding to the conserved Cys . 
+Analysis of mutant human PrxV proteins in which each of these three Cys residues was individually replaced with serine suggested that the sulfhydryl group of Cys(48) is the site of oxidation by peroxides and that oxidized Cys(48) reacts with the sulfhydryl group of Cys(152) to form an intramolecular disulfide linkage . 
+The oxidized intermediate of PrxV is thus distinct from those of other Prx enzymes, which form either an intermolecular disulfide or a sulfenic acid intermediate . 
+The disulfide formed by PrxV is reduced by thioredoxin but not by glutaredoxin or glutathione . 
+Thus, PrxV mutants lacking Cys(48) or Cys(152) showed no detectable thioredoxin-dependent peroxidase activity, whereas mutation of Cys(73) had no effect on activity . 
+Immunoblot analysis revealed that PrxV is widely expressed in rat tissues and cultured mammalian cells and is localized intracellularly to cytosol, mitochondria, and peroxisomes . 
+The peroxidase function of PrxV in vivo was demonstrated by the observations that transient expression of the wild-type protein, but not that of the Cys(48) mutant, in NIH 3T3 cells inhibited H(2)O(2) accumulation and activation of c-Jun NH(2)-terminal kinase induced by tumor necrosis factor-alpha . 

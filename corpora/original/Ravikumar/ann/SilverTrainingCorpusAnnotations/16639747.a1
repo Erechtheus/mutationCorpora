@@ -1,0 +1,79 @@
+T1	Unknown 0 9	Structure
+T2	Chemical 15 36	glutathione conjugate
+T3	Protein_part 50 61	active site
+T4	Protein 65 81	aldose reductase
+T5	Protein 83 104	Aldose reductase (AR)
+T6	Chemical 120 125	NADPH
+T7	Protein 136 150	oxidoreductase
+T8	Process 170 179	reduction
+T9	Chemical 183 192	aldehydes
+T10	Chemical 194 201	ketones
+T11	Chemical 207 218	aldo-sugars
+T12	Protein 220 222	AR
+T13	Process 246 257	development
+T14	Chemical 261 274	hyperglycemic
+T15	Physiology 275 281	injury
+T16	Process 300 306	target
+T17	Process 315 324	treatment
+T18	Physiology 338 360	diabetic complications
+T19	Process 365 373	addition
+T20	Chemical 386 393	glucose
+T21	Protein 395 397	AR
+T22	Molecule 405 414	regulator
+T23	Body_part 418 422	cell
+T24	Process 423 432	signaling
+T25	Unknown 441 445	it's
+T26	Process 446 455	reduction
+T27	Chemical 459 468	aldehydes
+T28	Protein 482 494	lipoproteins
+T29	Body_part 499 507	membrane
+T30	Chemical 508 521	phospholipids
+T31	Protein 523 525	AR
+T32	Process 541 550	reduction
+T33	Chemical 554 576	glutathione conjugates
+T34	Chemical 580 601	unsaturated aldehydes
+T35	Parameter 624 634	efficiency
+T36	Chemical 645 654	aldehydes
+T37	Technique 660 675	X-ray structure
+T38	Organism 679 684	human
+T39	Protein 685 698	AR holoenzyme
+T40	Category 702 709	complex
+T41	Chemical 719 781	glutathione analogue S-(1,2-dicarboxyethyl) glutathione (DCEG)
+T42	Parameter 802 812	resolution
+T43	Value 816 822	1.94 A
+T44	Location 828 834	distal
+T45	Chemical 835 846	carboxylate
+T46	Molecular_Part 847 852	group
+T47	Chemical 856 877	DCEG's dicarboxyethyl
+T48	Molecular_Part 878 884	moiety
+T49	Chemical 915 923	AR anion
+T50	Process 924 931	binding
+T51	Protein_part 932 951	site residues Tyr48
+T52	Protein_part 953 959	His110
+T53	Protein_part 965 971	Trp111
+T54	Chemical 983 1001	DCEG's glutathione
+T55	Geometrical_part 1002 1010	backbone
+T56	Unknown 1034 1041	Y-shape
+T57	Chemical 1052 1074	C-terminal carboxylate
+T58	Chemical 1078 1083	DCEG 
+T59	Unknown 1083 1096	glutathione's
+T60	Chemical 1112 1126	hydrogen bonds
+T61	Protein_part 1130 1136	Leu301
+T62	Protein_part 1141 1147	Ser302
+T63	Process 1169 1181	interactions
+T64	Chemical 1190 1194	DCEG
+T65	Protein 1199 1201	AR
+T66	Protein 1262 1264	AR
+T67	Chemical 1269 1294	glutathione (GS) analogue
+T68	Process 1295 1306	interaction
+T69	State 1321 1333	conformation
+T70	Process 1338 1350	interactions
+T71	Chemical 1354 1358	DCEG
+T72	Protein 1364 1366	AR
+T73	Chemical 1441 1462	glutathionyl-propanal
+T74	Process 1463 1470	binding
+T75	Protein 1474 1476	AR
+T76	Unknown 1490 1499	structure
+T77	Process 1517 1529	interactions
+T78	Chemical 1533 1555	glutathione conjugates
+T79	Protein_part 1565 1588	AR active-site residues

@@ -1,0 +1,86 @@
+T1	Process 14 26	optimization
+T2	Protein 32 55	CD4-mimetic miniprotein
+T3	Geometrical_part 60 80	cocrystal structures
+T4	Organism 87 92	HIV-1
+T5	Protein 93 120	gp120 envelope glycoprotein
+T6	Protein 122 134	Miniproteins
+T7	Protein 160 168	proteins
+T8	Molecule 179 188	molecules
+T9	Protein 253 259	CD4M33
+T10	Protein 273 284	miniprotein
+T11	Organism 332 337	HIV-1
+T12	Unknown 338 343	gp120
+T13	Process 344 351	binding
+T14	Geometrical_part 352 359	surface
+T15	Protein 368 380	CD4 receptor
+T16	Process 392 405	deconvolution
+T17	Protein 438 444	CD4M47
+T18	Unknown 448 458	derivative
+T19	Protein 462 468	CD4M33
+T20	Geometrical_part 512 519	Surface
+T21	Technique 520 537	plasmon resonance
+T22	Value 551 559	fourfold
+T23	Value 563 570	sixfold
+T24	Process 571 582	improvement
+T25	Protein 586 592	CD4M47
+T26	Parameter 593 601	affinity
+T27	Unknown 606 611	gp120
+T28	Value 629 638	threefold
+T29	Protein 660 663	CD4
+T30	Process 672 682	Assessment
+T31	Process 690 704	neutralization
+T32	Parameter 705 715	properties
+T33	Protein 719 725	CD4M47
+T34	Body_part 753 761	isolates
+T35	Organism 776 781	HIV-1
+T36	Unknown 785 791	SIVcpz
+T37	Protein 804 810	CD4M47
+T38	Parameter 838 845	breadth
+T39	Organism 853 859	parent
+T40	Protein 860 866	CD4M33
+T41	Process 893 905	improvements
+T42	Process 909 923	neutralization
+T43	Geometrical_part 935 953	Crystal structures
+T44	Protein 957 963	CD4M47
+T45	Protein_part 970 983	phenylalanine
+T46	Unknown 984 991	variant
+T47	Unknown 993 1003	[Phe23]M47
+T48	Process 1024 1035	resolutions
+T49	Value 1039 1042	2.4
+T50	Value 1047 1052	2.6 A
+T51	Category 1057 1075	ternary  complexes
+T52	Organism 1081 1086	HIV-1
+T53	Unknown 1087 1092	gp120
+T54	Molecule 1101 1113	17b antibody
+T55	Technique 1115 1123	Analysis
+T56	Unknown 1133 1143	structures
+T57	Process 1155 1166	correlation
+T58	Parameter 1183 1191	affinity
+T59	Geometrical_part 1196 1201	gp120
+T60	Geometrical_part 1240 1247	surface
+T61	Process 1251 1262	correlation
+T62	Unknown 1289 1296	CD4-and
+T63	Unknown 1313 1318	gp120
+T64	Process 1330 1340	similarity
+T65	Parameter 1345 1349	CD4-
+T66	Parameter 1370 1375	gp120
+T67	Parameter 1376 1384	affinity
+T68	Protein 1393 1408	CCR5 coreceptor
+T69	Process 1426 1439	substitutions
+T70	Chemical 1454 1476	glycine-to-(d)-proline
+T71	Process 1477 1483	change
+T72	Unknown 1489 1494	gp120
+T73	State 1495 1507	conformation
+T74	Protein 1519 1525	CD4M47
+T75	State 1557 1569	conformation
+T76	Protein 1581 1584	CD4
+T77	Organism 1611 1617	parent
+T78	Protein 1618 1624	CD4M33
+T79	Chemical 1704 1713	disulfide
+T80	Protein 1725 1736	miniprotein
+T81	Process 1790 1799	interplay
+T82	Parameter 1808 1824	binding affinity
+T83	Process 1826 1840	neutralization
+T84	Parameter 1841 1848	breadth
+T85	Parameter 1881 1889	affinity
+T86	Protein 1894 1898	CCR5

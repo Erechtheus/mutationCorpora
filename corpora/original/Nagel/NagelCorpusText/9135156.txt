@@ -1,0 +1,10 @@
+We have isolated a human cDNA which encodes a novel I kappa B family member using a yeast two-hybrid screen for proteins able to interact with the p52 subunit of the transcription factor NF-kappa B . 
+The protein is found in many cell types and its expression is up-regulated following NF-kappa B activation and during myelopoiesis . 
+Consistent with its proposed role as an I kappa B molecule, I kappa B-epsilon is able to inhibit NF-kappa B -directed transactivation via cytoplasmic retention of rel proteins . 
+I kappa B-epsilon translation initiates from an internal ATG codon to give rise to a protein of 45 kDa, which exists as multiple phosphorylated isoforms in resting cells . 
+Unlike the other inhibitors, it is found almost exclusively in complexes containing RelA and/or cRel . 
+Upon activation, I kappa B-epsilon protein is degraded with slow kinetics by a proteasome-dependent mechanism . 
+Similarly to I kappa B-alpha and I kappa B, I kappa B-epsilon contains multiple ankyrin repeats and two conserved serines which are necessary for signal-induced degradation of the molecule . 
+A unique lysine residue located N-terminal of the serines appears to be not strictly required for degradation . 
+Unlike I kappa B- alpha and I kappa B-beta, I kappa B-epsilon does not contain a C-terminal PEST-like sequence . 
+I kappa B-epsilon would, therefore, appear to regulate a late, transient activation of a subset of genes, regulated by RelA/cRel NF-kappa B complexes, distinct from those regulated by other I kappa B proteins . 

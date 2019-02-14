@@ -1,0 +1,59 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 66	tRNA N2,N2-guanosine dimethyltransferase Trm1
+T3	Organism 72 93	Pyrococcus horikoshii
+T4	Protein 95 99	Trm1
+T5	Process 121 129	reaction
+T6	Process 152 165	dimethylation
+T7	Chemical 169 178	guanosine
+T8	Location 182 193	position 26
+T9	Organism 202 212	eukaryotic
+T10	Organism 217 225	archaeal
+T11	Protein 226 231	tRNAs
+T12	Geometrical_part 247 265	crystal structures
+T13	Protein 269 273	Trm1
+T14	Organism 279 300	Pyrococcus horikoshii
+T15	Chemical 315 338	S-adenosyl-l-methionine
+T16	Chemical 342 367	S-adenosyl-l-homocysteine
+T17	Protein 373 380	protein
+T18	Protein_part 391 401	N-terminal
+T19	Protein_part 406 424	C-terminal domains
+T20	Protein 430 455	class I methyltransferase
+T21	Geometrical_part 466 471	folds
+T22	Chemical 491 497	methyl
+T23	Molecular_Part 498 504	moiety
+T24	Chemical 508 531	S-adenosyl-l-methionine
+T25	Protein_part 550 565	invariant Phe27
+T26	Protein_part 570 576	Phe140
+T27	Geometrical_part 593 599	pocket
+T28	Process 611 617	target
+T29	Protein_part 618 621	G26
+T30	Physiology 637 648	Mutagenesis
+T31	Protein_part 652 657	Phe27
+T32	Protein_part 661 667	Phe140
+T33	Protein_part 671 678	alanine
+T34	Protein 693 699	enzyme
+T35	Parameter 700 708	activity
+T36	Process 727 731	role
+T37	Protein_part 747 750	G26
+T38	Technique 763 771	analyses
+T39	Process 790 799	movements
+T40	Protein_part 803 809	Phe140
+T41	Geometrical_part 818 822	loop
+T42	Protein_part 833 838	Phe27
+T43	Process 858 870	dissociation
+T44	Chemical 879 893	monomethylated
+T45	Unknown 894 903	tRNA*Trm1
+T46	Category 904 911	complex
+T47	Process 932 943	methylation
+T48	Protein_part 959 984	catalytic residues Asp138
+T49	Protein_part 986 992	Pro139
+T50	Protein_part 998 1004	Phe140
+T51	Process 1014 1023	different
+T52	Protein_part 1024 1029	motif
+T53	Molecule 1043 1046	DNA
+T54	Protein 1047 1083	6-methyladenosine methyltransferases
+T55	Process 1098 1107	different
+T56	Chemical 1108 1114	methyl
+T57	Process 1115 1123	transfer
+T58	Process 1124 1133	mechanism
+T59	Protein 1141 1152	Trm1 family

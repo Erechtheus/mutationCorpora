@@ -1,0 +1,53 @@
+T1	Process 0 21	Thermal stabilization
+T2	Organism 29 60	protozoan Entamoeba histolytica
+T3	Protein 61 82	alcohol dehydrogenase
+T4	Protein_part 95 102	proline
+T5	Process 103 115	substitution
+T6	Technique 117 125	Analysis
+T7	Geometrical_part 133 161	three-dimensional structures
+T8	Protein 221 250	alcohol dehydrogenases (ADHs)
+T9	Organism 271 307	microorganisms Entamoeba histolytica
+T10	Protein 309 315	EhADH1
+T11	Organism 321 355	Thermoanaerobacter brockii (TbADH)
+T12	Protein_part 403 418	proline residue
+T13	Protein_part 420 426	Pro275
+T14	Process 449 461	dimerization
+T15	State 510 527	thermal stability
+T16	Organism 531 536	TbADH
+T17	Process 552 564	contribution
+T18	Protein_part 568 574	Pro275
+T19	State 582 599	thermal stability
+T20	Protein 607 611	ADHs
+T21	Technique 624 649	site-directed mutagenesis
+T22	Protein_part 661 667	Asp275
+T23	Protein 672 678	EhADH1
+T24	Protein_part 684 687	Pro
+T25	Protein 689 701	D275P-EhADH1
+T26	Protein_part 718 724	Pro275
+T27	Organism 728 733	TbADH
+T28	Protein_part 739 742	Asp
+T29	Organism 744 755	P275D-TbADH
+T30	Protein_part 794 800	Asp275
+T31	Protein_part 806 809	Pro
+T32	State 838 855	thermal stability
+T33	Protein 859 865	EhADH1
+T34	Unknown 867 873	DeltaT
+T35	Value 874 877	1/2
+T36	Value 884 897	+10 degrees C
+T37	Process 912 928	reverse mutation
+T38	Organism 949 954	TbADH
+T39	Organism 956 967	P275D-TbADH
+T40	Protein 1005 1011	enzyme
+T41	Unknown 1013 1019	DeltaT
+T42	Value 1020 1023	1/2
+T43	Value 1030 1045	-18.8 degrees C
+T44	Technique 1048 1056	Analysis
+T45	Geometrical_part 1064 1082	crystal structures
+T46	Protein 1107 1126	mutant D275P-EhADH1
+T47	Organism 1160 1171	P275D-TbADH
+T48	Protein_part 1187 1202	proline residue
+T49	Location 1206 1218	position 275
+T50	Protein 1240 1247	enzymes
+T51	Process 1303 1315	interactions
+T52	Protein 1323 1334	dimer-dimer
+T53	Protein 1352 1367	tetrameric ADHs

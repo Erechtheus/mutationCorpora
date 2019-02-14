@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 42 68	polypeptide anthopleurin-B
+T3	Process 73 83	comparison
+T4	Unknown 89 103	anthopleurin-A
+T5	Protein 121 154	polypeptide anthopleurin-B (AP-B)
+T6	Molecule 185 191	toxins
+T7	Protein 218 222	AP-B
+T8	Process 230 242	inactivation
+T9	Protein 250 278	voltage-gated sodium channel
+T10	Body_part 282 298	excitable tissue
+T11	Organism 307 316	mammalian
+T12	Body_part 317 322	heart
+T13	Process 329 335	effect
+T14	Process 354 362	increase
+T15	Parameter 370 375	force
+T16	Process 379 390	contraction
+T17	Protein 441 454	anthopleurins
+T18	Chemical 463 472	compounds
+T19	Body_part 496 503	cardiac
+T20	Chemical 504 514	stimulants
+T21	Geometrical_part 565 583	solution structure
+T22	Molecule 591 599	molecule
+T23	Protein_part 651 662	side chains
+T24	Protein 673 677	AP-B
+T25	State 697 710	conformations
+T26	Chemical 714 722	solution
+T27	Process 748 761	isomerization
+T28	Protein_part 772 783	Gly40-Pro41
+T29	Chemical 784 796	peptide bond
+T30	Geometrical_part 802 820	solution structure
+T31	Protein 834 843	conformer
+T32	Protein 847 851	AP-B
+T33	Chemical 891 893	1H
+T34	Technique 894 897	NMR
+T35	Parameter 901 903	pH
+T36	Value 904 907	4.5
+T37	Value 912 924	25 degrees C
+T38	Unknown 935 944	structure
+T39	Geometrical_part 965 977	antiparallel
+T40	Protein_part 978 988	beta-sheet
+T41	Protein_part 990 1002	residues 2-4
+T42	Protein_part 1004 1009	20-23
+T43	Protein_part 1011 1016	34-37
+T44	Protein_part 1021 1026	45-48
+T45	Protein_part 1049 1059	beta-turns
+T46	Geometrical_part 1087 1092	loops
+T47	Protein_part 1105 1117	beta-strands
+T48	Geometrical_part 1170 1174	loop
+T49	Protein_part 1191 1204	residues 8-17
+T50	Unknown 1241 1248	members
+T51	Unknown 1257 1263	family
+T52	Molecule 1279 1285	toxins
+T53	Protein_part 1316 1327	side chains
+T54	Body_part 1356 1363	cardiac
+T55	Parameter 1376 1384	activity
+T56	Protein 1388 1392	AP-B
+T57	Unknown 1417 1427	structures
+T58	Geometrical_part 1464 1482	solution structure
+T59	Protein 1486 1490	AP-B
+T60	Unknown 1520 1524	AP-A
+T61	Process 1551 1564	substitutions
+T62	Protein_part 1574 1584	amino acid
+T63	Geometrical_part 1631 1635	fold
+T64	Unknown 1641 1645	AP-A
+T65	Value 1659 1666	10-fold
+T66	Process 1680 1690	Comparison
+T67	Unknown 1698 1708	structures
+T68	Protein_part 1730 1736	region
+T69	Protein_part 1740 1748	residues
+T70	Parameter 1763 1771	activity
+T71	Process 1789 1799	indication
+T72	Protein_part 1871 1883	polypeptides

@@ -1,0 +1,72 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 26	yeast
+T3	Protein 27 31	Sco1
+T4	Protein 37 47	Sco family
+T5	Protein 51 59	proteins
+T6	Process 80 88	assembly
+T7	Location 96 105	dinuclear
+T8	Protein_part 106 114	CuA site
+T9	Protein 118 144	cytochrome c oxidase (COX)
+T10	Protein_part 150 158	terminal
+T11	Protein 159 165	enzyme
+T12	Process 169 188	aerobic respiration
+T13	Protein 197 205	proteins
+T14	Organism 231 241	eukaryotes
+T15	Organism 246 257	prokaryotes
+T16	Protein_part 292 312	CXXXC sequence motif
+T17	Chemical 324 335	copper ions
+T18	Protein 381 411	thiol:disulfide oxidoreductase
+T19	Process 412 420	function
+T20	Geometrical_part 426 444	crystal structures
+T21	Organism 448 472	Saccharomyces cerevisiae
+T22	Unknown 473 493	apo Sco1 (apo-ySco1)
+T23	Protein 498 502	Sco1
+T24	Process 510 518	presence
+T25	Chemical 522 533	copper ions
+T26	Chemical 535 543	Cu-ySco1
+T27	Value 564 568	1.8-
+T28	Value 573 578	2.3-A
+T29	Process 579 590	resolutions
+T30	Organism 606 611	Yeast
+T31	Protein 612 616	Sco1
+T32	Chemical 628 639	thioredoxin
+T33	Geometrical_part 645 649	fold
+T34	Organism 680 685	human
+T35	Protein 686 690	Sco1
+T36	Protein 697 704	homolog
+T37	Organism 710 727	Bacillus subtilis
+T38	Chemical 733 751	Cu-ySco1 structure
+T39	Unknown 773 782	apo-ySco1
+T40	Unknown 783 791	crystals
+T41	Chemical 795 806	copper ions
+T42	Chemical 830 836	copper
+T43	Protein_part 845 849	site
+T44	Protein_part 860 866	Cys181
+T45	Protein_part 871 877	Cys216
+T46	Protein_part 879 896	cysteine residues
+T47	Unknown 908 913	ySco1
+T48	Protein 931 939	homologs
+T49	Protein_part 955 970	CXXXC cysteines
+T50	Protein_part 972 978	Cys148
+T51	Protein_part 983 989	Cys152
+T52	Unknown 1026 1033	crystal
+T53	Protein_part 1048 1065	histidine residue
+T54	Protein_part 1067 1073	His239
+T55	Geometrical_part 1107 1111	loop
+T56	Geometrical_part 1125 1133	Sco loop
+T57	Location 1160 1168	proximal
+T58	Protein_part 1186 1195	cysteines
+T59	Process 1197 1209	Interactions
+T60	Unknown 1218 1223	ySco1
+T61	Protein 1240 1248	proteins
+T62	Organism 1249 1254	yeast
+T63	Protein 1255 1260	Cox17
+T64	Organism 1265 1270	yeast
+T65	Protein 1271 1275	COX2
+T66	Geometrical_part 1328 1336	surfaces
+T67	Organism 1370 1380	eukaryotic
+T68	Protein 1382 1393	Sco protein
+T69	Process 1407 1414	insight
+T70	Chemical 1420 1430	Sco copper
+T71	Process 1431 1438	binding
+T72	Process 1443 1451	function

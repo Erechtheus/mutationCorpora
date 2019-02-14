@@ -1,0 +1,75 @@
+T1	Process 0 4	Role
+T2	Chemical 10 26	glutamate bridge
+T3	Organism 61 66	human
+T4	Protein 67 97	manganese superoxide dismutase
+T5	Process 103 111	function
+T6	Unknown 119 128	structure
+T7	State 130 139	stability
+T8	Process 145 154	catalysis
+T9	Protein 181 189	subunits
+T10	Protein 193 231	manganese superoxide dismutase (MnSOD)
+T11	Protein_part 261 267	Glu162
+T12	Organism 286 291	human
+T13	Protein 292 297	MnSOD
+T14	Chemical 336 349	hydrogen bond
+T15	Protein_part 355 361	His163
+T16	Location 368 376	adjacent
+T17	Protein 377 384	subunit
+T18	Category 403 409	ligand
+T19	Chemical 418 427	manganese
+T20	Parameter 450 460	properties
+T21	Protein_part 468 472	site
+T22	Molecule 482 489	mutants
+T23	Organism 493 498	human
+T24	Protein 500 505	MnSOD
+T25	Protein_part 515 521	Glu162
+T26	Protein_part 539 542	Asp
+T27	Unknown 544 566	E162D) and Ala (E162A)
+T28	Technique 572 596	X-ray crystal structures
+T29	Protein 600 605	E162D
+T30	Protein 610 621	E162A MnSOD
+T31	Process 655 662	changes
+T32	Process 706 713	removal
+T33	Chemical 721 734	hydrogen bond
+T34	Process 735 746	interaction
+T35	Protein_part 752 758	His163
+T36	Protein 762 773	E162A MnSOD
+T37	Protein 790 801	E162D MnSOD
+T38	Chemical 818 834	solvent molecule
+T39	Process 865 873	mutation
+T40	Chemical 890 903	hydrogen bond
+T41	Process 904 915	interaction
+T42	Protein_part 924 930	His163
+T43	Protein_part 935 946	residue 162
+T44	Molecule 954 961	mutants
+T45	Geometrical_part 975 995	tetrameric structure
+T46	Chemical 1022 1031	manganese
+T47	Chemical 1037 1041	iron
+T48	Parameter 1063 1071	activity
+T49	Process 1079 1097	disproportionation
+T50	Chemical 1101 1111	superoxide
+T51	Value 1130 1135	5-25%
+T52	Protein 1151 1167	wild-type enzyme
+T53	Category 1183 1190	product
+T54	Process 1191 1201	inhibition
+T55	Value 1213 1233	approximately 2-fold
+T56	Technique 1257 1268	calorimetry
+T57	Chemical 1288 1301	hydrogen bond
+T58	Protein_part 1310 1316	Glu162
+T59	Protein_part 1321 1327	His163
+T60	State 1347 1356	stability
+T61	Protein 1360 1365	MnSOD
+T62	Process 1382 1391	unfolding
+T63	Process 1392 1402	transition
+T64	Value 1416 1428	81 degrees C
+T65	Protein 1433 1438	E162A
+T66	Value 1451 1463	90 degrees C
+T67	Protein 1468 1483	wild-type MnSOD
+T68	Protein_part 1512 1518	Glu162
+T69	Organism 1550 1555	human
+T70	Protein 1556 1561	MnSOD
+T71	State 1571 1580	stability
+T72	Process 1595 1604	catalysis
+T73	Process 1627 1631	role
+T74	Category 1646 1653	product
+T75	Process 1654 1664	inhibition

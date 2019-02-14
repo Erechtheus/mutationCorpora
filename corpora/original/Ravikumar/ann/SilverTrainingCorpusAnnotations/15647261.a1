@@ -1,0 +1,67 @@
+T1	Process 4 8	role
+T2	Geometrical_part 16 21	hinge
+T3	Geometrical_part 22 26	loop
+T4	Protein_part 30 36	domain
+T5	Protein 67 94	bovine seminal ribonuclease
+T6	Protein 96 134	Bovine seminal ribonuclease (BS-RNase)
+T7	Protein 149 167	homodimeric enzyme
+T8	Body_part 182 192	pancreatic
+T9	Protein 193 205	ribonuclease
+T10	Protein 207 214	RNase A
+T11	Process 261 270	functions
+T12	Chemical 293 312	equilibrium mixture
+T13	Protein 325 328	MxM
+T14	Unknown 345 346	M
+T15	Protein 350 356	dimers
+T16	Protein_part 375 384	N termini
+T17	Body_part 408 414	bodies
+T18	Protein_part 427 440	peptide 16-22
+T19	State 456 468	conformation
+T20	Chemical 480 487	isomers
+T21	Protein 513 521	proteins
+T22	Protein_part 523 529	domain
+T23	Protein 542 550	BS-RNase
+T24	Protein 564 570	dimers
+T25	Process 623 634	association
+T26	Chemical 659 685	interchain disulfide bonds
+T27	Process 761 769	function
+T28	Geometrical_part 777 782	hinge
+T29	Protein_part 783 791	sequence
+T30	Process 812 819	effects
+T31	Process 833 845	dissociation
+T32	Geometrical_part 849 869	quaternary structure
+T33	Process 870 883	modifications
+T34	Unknown 889 897	variants
+T35	Protein_part 906 911	Pro19
+T36	Protein_part 925 933	sequence
+T37	Geometrical_part 941 946	hinge
+T38	Protein_part 977 985	residues
+T39	Protein 989 996	RNase A
+T40	Process 1003 1014	equilibrium
+T41	Parameter 1019 1037	kinetic parameters
+T42	Organism 1078 1084	parent
+T43	Protein 1085 1092	protein
+T44	Process 1097 1107	comparison
+T45	Molecule 1113 1118	x-ray
+T46	Geometrical_part 1119 1129	structures
+T47	Protein 1133 1136	MxM
+T48	Process 1196 1207	association
+T49	Geometrical_part 1235 1240	hinge
+T50	Protein_part 1241 1249	residues
+T51	Process 1310 1323	substitutions
+T52	Geometrical_part 1331 1336	hinge
+T53	Protein_part 1337 1343	region
+T54	Process 1370 1381	replacement
+T55	Protein_part 1385 1390	Pro19
+T56	Protein_part 1394 1397	Ala
+T57	Protein 1453 1461	proteins
+T58	Protein 1533 1539	enzyme
+T59	Process 1619 1623	role
+T60	Protein_part 1627 1632	Pro19
+T61	Process 1658 1666	assembly
+T62	Protein 1687 1692	dimer
+T63	Organism 1698 1705	species
+T64	Process 1728 1737	reduction
+T65	Chemical 1745 1766	interchain disulfides
+T66	Process 1821 1830	functions
+T67	Protein 1834 1842	BS-RNase

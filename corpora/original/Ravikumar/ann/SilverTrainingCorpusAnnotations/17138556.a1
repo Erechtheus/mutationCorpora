@@ -1,0 +1,77 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 26	human
+T3	Protein 27 49	inosine triphosphatase
+T4	Process 61 68	binding
+T5	Process 73 84	implication
+T6	Protein 92 114	inosine triphosphatase
+T7	Process 115 125	deficiency
+T8	Process 126 134	mutation
+T9	Protein_part 135 139	P32T
+T10	Protein 141 170	Inosine triphosphatase (ITPA)
+T11	Molecule 191 200	regulator
+T12	Body_part 204 212	cellular
+T13	Chemical 227 237	nucleotide
+T14	Parameter 238 244	levels
+T15	Process 249 255	breaks
+T16	Chemical 261 268	inosine
+T17	Chemical 273 293	xanthine nucleotides
+T18	Process 308 319	deamination
+T19	Chemical 323 335	purine bases
+T20	Process 341 357	enzymatic action
+T21	Process 367 379	accumulation
+T22	Unknown 383 386	ITP
+T23	Process 403 407	risk
+T24	Process 411 424	incorporation
+T25	Physiology 440 449	mutagenic
+T26	Chemical 450 469	inosine nucleotides
+T27	Chemical 475 488	nucleic acids
+T28	Geometrical_part 511 528	crystal structure
+T29	Organism 532 537	human
+T30	Protein 538 542	ITPA
+T31	Category 546 553	complex
+T32	Category 569 578	substrate
+T33	Unknown 579 582	ITP
+T34	Protein 599 608	apoenzyme
+T35	Value 612 615	2.8
+T36	Value 620 624	1.1A
+T37	Unknown 646 656	structures
+T38	Parameter 676 680	time
+T39	Protein_part 685 689	site
+T40	Category 693 702	substrate
+T41	Chemical 707 711	Mg2+
+T42	Process 712 724	coordination
+T43	State 740 754	conformational
+T44	Process 755 762	changes
+T45	Category 776 785	substrate
+T46	Process 786 793	binding
+T47	Protein 811 818	enzymes
+T48	Protein 820 826	Enzyme
+T49	Category 827 836	substrate
+T50	Process 837 849	interactions
+T51	Process 870 877	closure
+T52	Chemical 885 895	nucleotide
+T53	Process 896 903	binding
+T54	Process 930 942	interactions
+T55	Protein_part 952 956	base
+T56	Category 979 988	substrate
+T57	Protein 1004 1008	ITPA
+T58	Chemical 1013 1020	inosine
+T59	Chemical 1025 1033	xanthine
+T60	Chemical 1053 1064	nucleotides
+T61	Protein 1078 1083	dimer
+T62	Process 1084 1091	contact
+T63	Protein_part 1092 1097	sites
+T64	Geometrical_part 1114 1118	loop
+T65	Chemical 1157 1166	metal ion
+T66	Protein_part 1174 1185	active site
+T67	Protein 1207 1211	ITPA
+T68	Process 1212 1222	deficiency
+T69	Process 1223 1231	mutation
+T70	Protein_part 1232 1236	P32T
+T71	Process 1248 1253	shift
+T72	Geometrical_part 1262 1266	loop
+T73	Parameter 1295 1303	affinity
+T74	Chemical 1308 1319	nucleotides
+T75	Parameter 1347 1355	activity
+T76	Protein 1364 1372	monomers
+T77	Protein 1394 1399	dimer

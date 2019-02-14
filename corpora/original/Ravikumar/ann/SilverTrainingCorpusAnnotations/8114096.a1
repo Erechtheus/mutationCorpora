@@ -1,0 +1,90 @@
+T1	Value 4 9	1.8 A
+T2	Unknown 10 19	structure
+T3	Protein 23 53	carbonmonoxy-beta 4 hemoglobin
+T4	Technique 55 63	Analysis
+T5	Protein 69 81	homotetramer
+T6	Geometrical_part 91 113	R quaternary structure
+T7	Protein 126 151	alpha 2 beta 2 hemoglobin
+T8	Protein 157 168	beta-chains
+T9	Organism 187 192	human
+T10	Protein 193 233	hemoglobin alpha 2 beta 2 heterotetramer
+T11	Protein 259 278	beta 4 homotetramer
+T12	Unknown 294 303	structure
+T13	Chemical 311 330	carbonmonoxy-beta 4
+T14	Protein 332 341	CO beta 4
+T15	Protein 343 351	tetramer
+T16	Parameter 365 375	resolution
+T17	Value 379 384	1.8 A
+T18	Geometrical_part 414 435	quaternary structures
+T19	Organism 439 444	human
+T20	Protein 445 455	hemoglobin
+T21	State 461 468	T state
+T22	State 474 481	R state
+T23	State 490 492	R2
+T24	State 493 498	state
+T25	Geometrical_part 504 524	quaternary structure
+T26	Protein 528 537	CO beta 4
+T27	State 565 572	R state
+T28	Process 605 615	similarity
+T29	Protein 625 634	CO beta 4
+T30	State 643 650	R state
+T31	Protein 663 677	alpha 2 beta 2
+T32	Process 693 704	differences
+T33	Protein 717 722	alpha
+T34	Protein 727 737	beta-chain
+T35	Protein_part 738 747	sequences
+T36	Process 782 789	packing
+T37	Process 790 802	arrangements
+T38	Protein 810 817	subunit
+T39	Protein 832 841	CO beta 4
+T40	Protein 858 868	Arg40 beta
+T41	Protein 873 883	Asp99 beta
+T42	Protein 904 913	CO beta 4
+T43	Protein 932 947	alpha 1 beta  2
+T44	Geometrical_part 970 978	symmetry
+T45	Chemical 987 999	salt bridges
+T46	Protein 1047 1062	deoxyhemoglobin
+T47	Chemical 1078 1090	salt bridges
+T48	Geometrical_part 1102 1110	2-fold  
+T49	Geometrical_part 1110 1123	symmetry axis
+T50	Geometrical_part 1125 1131	steric
+T51	Process 1171 1180	formation
+T52	Molecule 1186 1194	electron
+T53	Parameter 1195 1202	density
+T54	Protein 1213 1223	Arg40 beta
+T55	Protein 1228 1238	Asp99 beta
+T56	State 1268 1281	conformations
+T57	Protein_part 1290 1301	side-chains
+T58	Protein_part 1310 1318	residues
+T59	Protein 1345 1368	alpha 2 beta 2 tetramer
+T60	Chemical 1374 1402	Arg40 beta...Asp99 beta salt
+T61	Process 1427 1439	interactions
+T62	Protein 1467 1485	CO beta 4 tetramer
+T63	Protein 1491 1500	CO beta 4
+T64	Protein 1519 1534	alpha 1 alpha 2
+T65	Protein 1539 1552	beta 1 beta 2
+T66	Protein 1580 1588	tetramer
+T67	Protein 1614 1637	alpha 2 beta 2 tetramer
+T68	Geometrical_part 1656 1660	ends
+T69	Body_part 1669 1683	central cavity
+T70	Location 1690 1698	entrance
+T71	Body_part 1706 1720	central cavity
+T72	Protein_part 1744 1753	N termini
+T73	Protein_part 1783 1792	C termini
+T74	Chemical 1819 1824	anion
+T75	Process 1826 1833	binding
+T76	Geometrical_part 1834 1840	pocket
+T77	Protein 1868 1882	alpha 2 beta 2
+T78	Technique 1909 1917	analysis
+T79	Protein 1925 1934	CO beta 4
+T80	Protein 1954 1968	alpha 1 beta 1
+T81	Protein 2028 2046	CO beta 4 tetramer
+T82	Process 2054 2065	differences
+T83	State 2079 2088	stability
+T84	Protein 2161 2184	alpha 2 beta 2 tetramer
+T85	Molecule 2208 2241	alpha 1 beta 1 dimer intermediate
+T86	Process 2251 2259	assembly
+T87	Protein 2267 2276	CO beta 4
+T88	Protein 2277 2285	tetramer
+T89	Protein 2325 2341	monomer-tetramer
+T90	Process 2342 2353	equilibrium

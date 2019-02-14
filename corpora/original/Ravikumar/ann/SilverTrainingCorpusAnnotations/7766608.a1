@@ -1,0 +1,85 @@
+T1	Technique 0 25	Crystallographic analyses
+T2	Protein 29 44	NADH peroxidase
+T3	Protein_part 45 53	Cys42Ala
+T4	Protein_part 58 66	Cys42Ser
+T5	Molecule 67 74	mutants
+T6	Protein_part 76 98	active site structures
+T7	Process 112 124	implications
+T8	Unknown 141 152	environment
+T9	Protein_part 156 163	Arg 303
+T10	Protein 165 180	NADH peroxidase
+T11	Organism 186 207	Enterococcus faecalis
+T12	Protein 213 235	tetrameric flavoenzyme
+T13	Value 239 249	201,400 Da
+T14	Protein_part 264 270	Cys 42
+T15	Chemical 312 322	sulfhydryl
+T16	Chemical 324 330	Cys-SH
+T17	Chemical 336 349	sulfenic acid
+T18	Chemical 351 358	Cys-SOH
+T19	State 360 366	states
+T20	Process 377 394	catalytic pathway
+T21	Process 400 404	role
+T22	Protein_part 412 435	active site cysteine 42
+T23	Protein 439 454	NADH peroxidase
+T24	Technique 497 524	crystallographic techniques
+T25	Geometrical_part 547 565	crystal structures
+T26	Protein_part 573 593	active site cysteine
+T27	Molecule 594 601	mutants
+T28	Protein_part 603 611	Cys42Ala
+T29	Protein_part 616 624	Cys42Ser
+T30	Value 651 656	2.0 A
+T31	Parameter 657 667	resolution
+T32	Technique 683 699	crystallographic
+T33	Parameter 700 708	R values
+T34	Value 712 716	17.6
+T35	Value 721 726	18.3%
+T36	Protein 754 759	chain
+T37	Geometrical_part 760 764	fold
+T38	Geometrical_part 773 793	quaternary structure
+T39	Molecule 805 812	mutants
+T40	Protein 842 858	wild-type enzyme
+T41	Value 889 894	lower
+T42	Parameter 895 903	activity
+T43	Molecule 911 918	mutants
+T44	Process 933 940	absence
+T45	Unknown 948 955	Cys-SOH
+T46	Location 957 969	redox center
+T47	Chemical 982 994	oxygen atoms
+T48	Chemical 1012 1034	cysteine sulfonic acid
+T49	Protein 1043 1052	wild-type
+T50	Geometrical_part 1053 1062	structure
+T51	Chemical 1080 1094	water molecule
+T52	Unknown 1103 1120	mutant structures
+T53	Protein_part 1132 1140	residues
+T54	Protein_part 1150 1161	active site
+T55	Protein_part 1166 1172	His 10
+T56	Protein_part 1177 1184	Arg 303
+T57	Technique 1197 1205	analysis
+T58	Unknown 1213 1224	environment
+T59	Protein_part 1234 1242	residues
+T60	Protein 1261 1281	wild-type peroxidase
+T61	Geometrical_part 1282 1292	structures
+T62	Chemical 1312 1326	imidazole ring
+T63	Protein_part 1330 1336	His 10
+T64	Process 1355 1367	interactions
+T65	Chemical 1380 1391	guanidinium
+T66	Molecular_Part 1392 1397	group
+T67	Protein_part 1401 1408	Arg 303
+T68	Protein_part 1427 1433	His 10
+T69	Chemical 1447 1458	carboxylate
+T70	Protein_part 1462 1468	Glu 14
+T71	Protein_part 1473 1479	Tyr 60
+T72	Molecule 1500 1504	Nn1H
+T73	Process 1505 1513	function
+T74	Protein_part 1517 1524	Arg 303
+T75	Chemical 1571 1577	phenyl
+T76	Geometrical_part 1578 1582	ring
+T77	Protein_part 1586 1592	Tyr 60
+T78	Unknown 1600 1603	Nn1
+T79	Chemical 1607 1613	phenyl
+T80	Geometrical_part 1614 1618	ring
+T81	Parameter 1626 1634	distance
+T82	Value 1638 1643	3.8 A
+T83	Process 1682 1693	interaction
+T84	Protein_part 1702 1709	Arg 303
+T85	Protein_part 1714 1720	Tyr 60

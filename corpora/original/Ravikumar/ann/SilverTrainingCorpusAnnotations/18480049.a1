@@ -1,0 +1,44 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein_part 25 52	BARD1 ankyrin repeat domain
+T3	Process 72 84	consequences
+T4	Protein_part 86 91	BARD1
+T5	Body_part 112 119	nuclear
+T6	Body_part 135 141	breast
+T7	Physiology 146 160	ovarian cancer
+T8	Protein 170 192	tumor suppressor BRCA1
+T9	Category 216 237	heterodimeric complex
+T10	State 274 283	stability
+T11	Body_part 292 299	nuclear
+T12	Process 300 309	functions
+T13	Physiology 320 330	DNA damage
+T14	Process 331 340	signaling
+T15	Process 345 351	repair
+T16	Process 369 379	regulation
+T17	Physiology 385 395	cell cycle
+T18	Process 396 403	control
+T19	Value 419 423	2.0A
+T20	Unknown 424 433	structure
+T21	Protein_part 441 468	BARD1 ankyrin repeat domain
+T22	Unknown 474 483	structure
+T23	Protein_part 498 513	ankyrin repeats
+T24	Protein_part 535 568	C-terminal capping ankyrin repeat
+T25	Geometrical_part 597 601	loop
+T26	Protein_part 616 628	first repeat
+T27	Geometrical_part 640 647	surface
+T28	Chemical 665 671	acidic
+T29	Technique 672 677	patch
+T30	Chemical 685 691	acidic
+T31	Geometrical_part 692 698	pocket
+T32	Geometrical_part 709 716	surface
+T33	Protein_part 735 757	ankyrin repeat domains
+T34	Process 762 769	binding
+T35	Protein 778 786	proteins
+T36	Process 826 835	mutations
+T37	Process 837 842	N470S
+T38	Process 847 852	V507M
+T39	Protein_part 861 882	ankyrin repeat domain
+T40	Process 922 929	defects
+T41	Process 966 971	basis
+T42	Process 1001 1009	function
+T43	Protein_part 1017 1038	ankyrin repeat domain
+T44	Molecule 1056 1070	BARD1 isoforms

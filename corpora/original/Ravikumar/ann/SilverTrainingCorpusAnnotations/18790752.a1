@@ -1,0 +1,82 @@
+T1	Unknown 0 5	N-&-N
+T2	Body_part 22 26	cell
+T3	Physiology 27 32	death
+T4	Protein 42 48	kinase
+T5	Category 49 59	inhibitors
+T6	Chemical 77 83	purine
+T7	Protein 97 128	Cyclin-dependent kinases (CDKs)
+T8	Molecule 139 149	regulators
+T9	Physiology 164 177	abnormalities
+T10	Physiology 182 188	tumors
+T11	Parameter 198 214	molecular weight
+T12	Category 229 239	inhibitors
+T13	Protein 243 247	CDKs
+T14	Technique 265 280	clinical trials
+T15	Physiology 297 304	cancers
+T16	Chemical 320 347	2,6,9-trisubstituted purine
+T17	Unknown 348 363	(R)-roscovitine
+T18	Unknown 365 382	CYC202/Seliciclib
+T19	Process 404 420	characterization
+T20	Unknown 424 430	N-&-N1
+T21	Parameter 492 502	properties
+T22	Unknown 504 510	N-&-N1
+T23	Parameter 527 538	selectivity
+T24	Protein 543 547	CDKs
+T25	Value 554 556	2-
+T26	Value 560 566	3-fold
+T27	Unknown 598 613	(R)-roscovitine
+T28	Process 615 625	Inhibition
+T29	Physiology 629 643	retinoblastoma
+T30	Protein 644 651	protein
+T31	Process 652 667	phosphorylation
+T32	Protein_part 672 694	RNA polymerase II Ser2
+T33	Process 695 710	phosphorylation
+T34	Physiology 714 727	neuroblastoma
+T35	Body_part 728 741	SH-SY5Y cells
+T36	Unknown 753 759	N-&-N1
+T37	Unknown 775 781	N-&-N1
+T38	Protein 801 805	CDKs
+T39	Body_part 811 819	cellular
+T40	Unknown 829 835	N-&-N1
+T41	Process 860 870	expression
+T42	Protein 875 889	RNA polymerase
+T43	Geometrical_part 891 911	Cocrystal structures
+T44	Unknown 915 921	N-&-N1
+T45	Unknown 926 941	(R)-roscovitine
+T46	Category 945 952	complex
+T47	Protein 958 971	CDK2/cyclin A
+T48	Category 989 999	inhibitors
+T49	Process 1014 1021	binding
+T50	Technique 1043 1048	assay
+T51	Unknown 1075 1090	(R)-roscovitine
+T52	Unknown 1092 1098	N-&-N1
+T53	Parameter 1111 1119	affinity
+T54	Protein 1124 1128	Erk2
+T55	Protein 1133 1149	pyridoxal kinase
+T56	Unknown 1151 1157	N-&-N1
+T57	Body_part 1167 1171	cell
+T58	Physiology 1172 1177	death
+T59	Body_part 1201 1211	cell lines
+T60	Body_part 1213 1217	Cell
+T61	Physiology 1218 1223	death
+T62	Physiology 1267 1276	apoptosis
+T63	Protein 1278 1290	cytochrome c
+T64	Process 1291 1298	release
+T65	Process 1300 1310	activation
+T66	Protein 1323 1331	caspases
+T67	Protein 1337 1364	poly(ADP-ribose) polymerase
+T68	Process 1365 1373	cleavage
+T69	Process 1375 1384	Induction
+T70	Protein 1388 1391	p53
+T71	Protein 1396 1403	p21CIP1
+T72	Process 1408 1423	down-regulation
+T73	Unknown 1431 1436	Mcl-1
+T74	Protein 1451 1457	factor
+T75	Organism 1490 1494	mice
+T76	Unknown 1505 1511	N-&-N1
+T77	Parameter 1533 1543	properties
+T78	Unknown 1564 1579	(R)-roscovitine
+T79	Unknown 1617 1626	analogues
+T80	Unknown 1630 1645	(R)-roscovitine
+T81	Physiology 1676 1685	antitumor
+T82	Parameter 1686 1695	potential

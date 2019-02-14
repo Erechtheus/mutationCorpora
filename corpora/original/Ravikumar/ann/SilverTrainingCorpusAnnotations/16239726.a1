@@ -1,0 +1,80 @@
+T1	Unknown 0 10	Structures
+T2	Organism 14 27	Mycobacterium
+T3	Protein 28 71	tuberculosispyridoxine 5'-phosphate oxidase
+T4	Category 80 89	complexes
+T5	Chemical 95 116	flavin mononucleotide
+T6	Chemical 121 143	pyridoxal 5'-phosphate
+T7	Technique 149 172	X-ray crystal structure
+T8	Protein 201 208	protein
+T9	Parameter 212 228	molecular weight
+T10	Value 229 237	16.3 kDa
+T11	Organism 243 269	Mycobacterium tuberculosis
+T12	Geometrical_part 287 318	open reading frame (ORF) Rv1155
+T13	Process 368 378	dispersion
+T14	Value 401 406	1.8 A
+T15	Parameter 407 417	resolution
+T16	Geometrical_part 423 440	crystal structure
+T17	Protein 455 461	Rv1155
+T18	Protein 467 472	dimer
+T19	Unknown 480 487	crystal
+T20	Protein 502 509	monomer
+T21	Protein_part 541 547	domain
+T22	Protein_part 559 565	domain
+T23	Geometrical_part 584 596	antiparallel
+T24	Protein_part 597 608	beta-barrel
+T25	Protein_part 630 643	alpha-helices
+T26	Protein_part 658 664	domain
+T27	Protein_part 670 692	helix-loop-helix motif
+T28	Protein 699 704	dimer
+T29	Protein_part 728 736	residues
+T30	Protein_part 779 791	beta-strands
+T31	Protein 800 807	subunit
+T32	Process 829 839	similarity
+T33	Category 847 853	ligand
+T34	Process 854 861	binding
+T35	Protein 892 898	Rv1155
+T36	Protein 904 935	pyridoxine 5'-phosphate oxidase
+T37	Organism 941 957	Escherichia coli
+T38	Organism 962 967	human
+T39	Protein_part 1003 1011	terminal
+T40	Process 1024 1036	biosynthesis
+T41	Chemical 1040 1068	pyridoxal 5'-phosphate (PLP)
+T42	Category 1072 1080	cofactor
+T43	Protein 1094 1101	enzymes
+T44	Chemical 1114 1124	amino-acid
+T45	Process 1125 1135	metabolism
+T46	Unknown 1141 1151	structures
+T47	Chemical 1155 1183	flavin  mononucleotide (FMN)
+T48	Chemical 1188 1216	pyridoxal 5'-phosphate (PLP)
+T49	Protein 1237 1243	Rv1155
+T50	Value 1269 1272	2.2
+T51	Value 1277 1282	1.7 A
+T52	Parameter 1283 1293	resolution
+T53	Protein 1318 1325	monomer
+T54	Chemical 1355 1367	FMN molecule
+T55	Chemical 1378 1390	PLP molecule
+T56	Protein_part 1392 1397	Arg55
+T57	Protein_part 1402 1407	Lys57
+T58	Protein_part 1421 1429	residues
+T59	Chemical 1437 1451	hydrogen bonds
+T60	Process 1462 1474	interactions
+T61	Chemical 1484 1493	phosphate
+T62	Chemical 1498 1504	ribose
+T63	Molecular_Part 1505 1511	groups
+T64	Chemical 1519 1531	FMN molecule
+T65	Protein_part 1541 1546	Arg55
+T66	Protein_part 1551 1557	Arg129
+T67	Chemical 1566 1580	hydrogen bonds
+T68	Process 1591 1603	interactions
+T69	Chemical 1613 1622	phosphate
+T70	Molecular_Part 1623 1628	group
+T71	Chemical 1636 1639	PLP
+T72	Process 1652 1663	comparisons
+T73	Protein 1667 1673	Rv1155
+T74	Organism 1679 1694	M. tuberculosis
+T75	Organism 1704 1711	E. coli
+T76	Organism 1716 1721	human
+T77	Unknown 1762 1771	structure
+T78	Chemical 1800 1803	FMN
+T79	Protein_part 1812 1816	site
+T80	Unknown 1854 1864	structures

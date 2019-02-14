@@ -1,0 +1,107 @@
+T1	Protein 0 18	Carbonic anhydrase
+T2	Category 19 29	activators
+T3	Process 31 41	Activation
+T4	Molecule 45 53	isoforms
+T5	Unknown 54 55	I
+T6	Unknown 57 59	II
+T7	Unknown 61 63	IV
+T8	Unknown 65 67	VA
+T9	Unknown 69 72	VII
+T10	Unknown 78 81	XIV
+T11	Unknown 87 89	L-
+T12	Protein_part 94 109	D-phenylalanine
+T13	Technique 114 139	crystallographic analysis
+T14	Molecule 149 156	adducts
+T15	Protein 162 172	isozyme II
+T16	Process 189 200	recognition
+T17	Protein_part 212 223	active site
+T18	Protein 230 236	enzyme
+T19	Process 245 257	consequences
+T20	Chemical 266 270	drug
+T21	Process 279 289	Activation
+T22	Organism 297 302	human
+T23	Body_part 303 308	brain
+T24	Protein 309 328	carbonic anhydrases
+T25	Protein 330 334	hCAs
+T26	Protein 336 346	EC 4.2.1.1
+T27	Protein 349 354	hCA I
+T28	Protein 356 358	II
+T29	Protein 361 363	IV
+T30	Protein 365 367	VA
+T31	Protein 369 372	VII
+T32	Protein 378 381	XIV
+T33	Protein_part 388 406	l-/d-phenylalanine
+T34	Technique 443 448	X-ray
+T35	Protein_part 466 471	l-Phe
+T36	Category 485 494	activator
+T37	Protein 498 508	isozymes I
+T38	Protein 510 512	II
+T39	Protein 518 521	XIV
+T40	Value 532 541	13-240 nM
+T41	Category 553 562	activator
+T42	Unknown 566 572	hCA VA
+T43	Unknown 577 580	VII
+T44	Value 591 606	9.8-10.9 microM
+T45	Protein 633 639	hCA IV
+T46	Category 640 649	activator
+T47	Value 659 668	52 microM
+T48	Protein_part 671 676	d-Phe
+T49	Protein 689 695	hCA II
+T50	Parameter 707 717	properties
+T51	Value 727 732	35 nM
+T52	Unknown 752 758	hCA VA
+T53	Unknown 760 763	VII
+T54	Unknown 769 772	XIV
+T55	Value 783 797	4.6-9.7 microM
+T56	Protein 810 815	hCA I
+T57	Unknown 820 822	IV
+T58	Category 823 832	activator
+T59	Value 843 855	63-86 microM
+T60	Technique 858 879	X-ray crystallography
+T61	Molecule 887 913	hCA II-l-Phe/d-Phe adducts
+T62	Category 926 936	activators
+T63	Location 959 967	entrance
+T64	Protein_part 975 986	active site
+T65	Chemical 1014 1019	bonds
+T66	Process 1036 1048	interactions
+T67	Protein_part 1054 1079	amino acid residues His64
+T68	Protein_part 1081 1087	Thr200
+T69	Protein_part 1089 1093	Trp5
+T70	Protein_part 1099 1105	Pro201
+T71	Process 1139 1148	different
+T72	Process 1149 1156	binding
+T73	Category 1181 1191	activators
+T74	Protein_part 1203 1221	hCA II active site
+T75	Process 1228 1240	consequences
+T76	Molecule 1253 1259	proton
+T77	Process 1260 1268	transfer
+T78	Process 1269 1278	processes
+T79	Parameter 1280 1284	rate
+T80	Process 1342 1353	differences
+T81	Process 1357 1367	activation
+T82	Parameter 1368 1378	efficiency
+T83	Protein 1395 1403	isozymes
+T84	Category 1430 1440	activators
+T85	Molecule 1480 1486	proton
+T86	Process 1487 1495	transfer
+T87	Process 1496 1504	pathways
+T88	Unknown 1506 1508	CA
+T89	Category 1509 1519	activators
+T90	Unknown 1571 1582	derivatives
+T91	Process 1591 1602	enhancement
+T92	Body_part 1606 1614	synaptic
+T93	Process 1615 1623	efficacy
+T94	Process 1681 1690	treatment
+T95	Physiology 1694 1713	Alzheimer's disease
+T96	Physiology 1715 1720	aging
+T97	Physiology 1760 1768	learning
+T98	Physiology 1773 1779	memory
+T99	Technique 1780 1787	therapy
+T100	Body_part 1813 1818	blood
+T101	Body_part 1823 1828	brain
+T102	Parameter 1829 1843	concentrations
+T103	Protein_part 1847 1852	l-Phe
+T104	Value 1873 1885	30-73 microM
+T105	Parameter 1888 1896	activity
+T106	Body_part 1905 1914	brain CAs
+T107	Body_part 1987 1994	tissues

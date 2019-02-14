@@ -1,0 +1,50 @@
+T1	Geometrical_part 4 13	structure
+T2	Category 19 26	complex
+T3	Protein_part 42 49	hirudin
+T4	Organism 54 59	human
+T5	Protein 60 74	alpha-thrombin
+T6	Geometrical_part 80 106	crystallographic structure
+T7	Protein 124 140	hirudin-thrombin
+T8	Category 141 148	complex
+T9	Value 168 180	2.3 angstrom
+T10	Parameter 185 195	resolution
+T11	Protein_part 197 204	Hirudin
+T12	Protein_part 220 248	NH2-terminal globular domain
+T13	Value 261 265	39 A
+T14	Protein_part 267 280	COOH-terminal
+T15	Protein_part 290 296	domain
+T16	Protein_part 298 311	Residues Ile1
+T17	Protein_part 315 319	Tyr3
+T18	Protein_part 323 330	hirudin
+T19	Geometrical_part 338 346	parallel
+T20	Protein_part 347 358	beta-strand
+T21	Protein_part 364 370	Ser214
+T22	Protein_part 374 380	Glu217
+T23	Protein 384 392	thrombin
+T24	Chemical 402 415	nitrogen atom
+T25	Protein_part 419 423	Ile1
+T26	Chemical 433 446	hydrogen bond
+T27	Chemical 452 471	Ser195 O gamma atom
+T28	Protein_part 479 493	catalytic site
+T29	Geometrical_part 515 521	pocket
+T30	Protein 525 533	thrombin
+T31	Process 557 568	interaction
+T32	Protein_part 574 595	COOH-terminal segment
+T33	Process 625 637	interactions
+T34	Chemical 647 652	anion
+T35	Protein_part 661 668	exosite
+T36	Protein 672 680	thrombin
+T37	Protein_part 704 712	residues
+T38	Geometrical_part 723 730	helical
+T39	Geometrical_part 731 735	loop
+T40	Process 764 772	contacts
+T41	Protein_part 795 803	residues
+T42	Protein_part 807 814	hirudin
+T43	Process 820 828	contacts
+T44	Value 829 844	less than 4.0 A
+T45	Protein 850 858	thrombin
+T46	Chemical 863 872	ion pairs
+T47	Chemical 880 894	hydrogen bonds
+T48	Process 911 923	interactions
+T49	Parameter 949 957	affinity
+T50	Protein_part 978 985	hirudin

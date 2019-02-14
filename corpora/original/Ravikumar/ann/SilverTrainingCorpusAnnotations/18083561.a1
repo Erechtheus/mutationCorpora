@@ -1,0 +1,11 @@
+T1	Chemical 6 27	indole-3-sulfonamides
+T2	Organism 38 41	HIV
+T3	Category 42 98	non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+T4	Unknown 105 111	Letter
+T5	Process 134 143	synthesis
+T6	Process 160 170	evaluation
+T7	Chemical 180 201	3-indole sulfonamides
+T8	Category 212 268	non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+T9	Organism 307 310	HIV
+T10	Protein_part 311 327	RT mutants K103N
+T11	Protein_part 332 337	Y181C

@@ -1,0 +1,61 @@
+T1	Process 11 23	requirements
+T2	Protein 28 37	factor Xa
+T3	Process 38 48	inhibition
+T4	Chemical 52 67	3-oxybenzamides
+T5	Unknown 82 97	P1 substituents
+T6	Technique 109 130	X-ray crystallography
+T7	Technique 132 139	3D-QSAR
+T8	Process 162 171	functions
+T9	Process 185 194	synthesis
+T10	Parameter 200 218	structure-activity
+T11	Parameter 219 231	relationship
+T12	Chemical 235 250	3-oxybenzamides
+T13	Category 262 272	inhibitors
+T14	Protein 280 310	coagulation protease factor Xa
+T15	Process 332 337	basis
+T16	Technique 341 357	X-ray structures
+T17	Unknown 370 379	structure
+T18	Protein_part 380 386	motifs
+T19	Unknown 392 395	SAR
+T20	Technique 424 440	X-ray structures
+T21	Unknown 444 457	fXa/inhibitor
+T22	Category 458 467	complexes
+T23	Process 512 524	interactions
+T24	Process 530 537	binding
+T25	Chemical 576 602	dichlorophenyl substituent
+T26	Protein_part 620 626	Tyr228
+T27	Protein 634 645	protease S1
+T28	Geometrical_part 647 653	pocket
+T29	Geometrical_part 667 672	parts
+T30	Protein_part 693 695	S4
+T31	Process 702 711	alignment
+T32	Process 732 739	docking
+T33	Process 748 758	derivation
+T34	Technique 762 776	3D-QSAR models
+T35	Process 798 807	functions
+T36	Parameter 824 843	biological affinity
+T37	Process 871 883	optimization
+T38	Parameter 918 942	correlation coefficients
+T39	Process 947 958	predictions
+T40	Location 962 970	external
+T41	Process 1014 1021	binding
+T42	Protein_part 1022 1026	site
+T43	Geometrical_part 1050 1056	steric
+T44	Process 1149 1158	functions
+T45	Process 1169 1176	binding
+T46	Protein_part 1177 1181	site
+T47	Category 1186 1192	ligand
+T48	Process 1246 1257	predictions
+T49	Location 1265 1273	external
+T50	Process 1284 1296	correlations
+T51	Parameter 1313 1323	affinities
+T52	Process 1347 1401	AFMoC (adaptation  of fields for molecular comparison)
+T53	Molecule 1416 1422	TScore
+T54	Process 1423 1431	function
+T55	Unknown 1437 1440	SAR
+T56	Technique 1458 1465	3D-QSAR
+T57	Process 1487 1496	functions
+T58	Parameter 1570 1578	activity
+T59	Process 1579 1590	estimations
+T60	Unknown 1601 1604	fXa
+T61	Category 1605 1615	inhibitors

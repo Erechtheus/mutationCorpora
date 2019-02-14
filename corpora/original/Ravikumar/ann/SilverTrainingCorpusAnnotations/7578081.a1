@@ -1,0 +1,57 @@
+T1	Process 4 8	role
+T2	Protein_part 12 18	Thr268
+T3	Chemical 22 28	oxygen
+T4	Process 29 39	activation
+T5	Protein 43 62	cytochrome P450BM-3
+T6	Protein 64 83	Cytochrome P450BM-3
+T7	Protein 117 130	monooxygenase
+T8	Organism 136 156	Bacillus  megaterium
+T9	Parameter 178 179	n
+T10	Value 185 188	1-3
+T11	Process 190 203	hydroxylation
+T12	Chemical 207 218	fatty acids
+T13	Process 226 234	presence
+T14	Chemical 238 240	O2
+T15	Chemical 245 250	NADPH
+T16	Unknown 268 273	P450s
+T17	Protein 275 294	cytochrome P450BM-3
+T18	Protein_part 306 323	threonine residue
+T19	Protein_part 325 331	Thr268
+T20	Location 340 346	distal
+T21	Protein_part 347 354	I helix
+T22	Chemical 383 385	O2
+T23	Process 386 393	binding
+T24	Process 398 408	activation
+T25	Protein_part 410 416	Thr268
+T26	Protein_part 439 446	alanine
+T27	Protein 455 464	enzymatic
+T28	Parameter 465 475	properties
+T29	Protein_part 480 499	heme domain crystal
+T30	Unknown 500 509	structure
+T31	Chemical 528 534	sodium
+T32	Category 551 560	substrate
+T33	Molecule 566 572	mutant
+T34	Parameter 590 595	rates
+T35	Chemical 599 601	O2
+T36	Chemical 606 611	NADPH
+T37	Process 612 623	consumption
+T38	Molecule 639 647	electron
+T39	Process 648 656	transfer
+T40	Category 675 684	substrate
+T41	Process 685 698	hydroxylation
+T42	Process 727 737	production
+T43	Chemical 741 746	water
+T44	Chemical 751 759	peroxide
+T45	Protein 791 807	wild-type enzyme
+T46	Geometrical_part 813 830	crystal structure
+T47	Process 867 874	changes
+T48	Unknown 878 887	structure
+T49	Protein_part 908 912	site
+T50	Process 916 924	mutation
+T51	Process 959 963	role
+T52	Protein_part 968 974	Thr268
+T53	Chemical 978 980	O2
+T54	Process 993 1003	activation
+T55	Process 1011 1021	metabolism
+T56	Chemical 1025 1031	sodium
+T57	Protein 1043 1062	cytochrome P450BM-3

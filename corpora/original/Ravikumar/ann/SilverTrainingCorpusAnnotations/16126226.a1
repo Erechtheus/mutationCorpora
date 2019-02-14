@@ -1,0 +1,82 @@
+T1	Chemical 14 34	lysozyme amyloidosis
+T2	Unknown 54 63	structure
+T3	Chemical 68 76	solution
+T4	Protein 89 102	T70N lysozyme
+T5	Organism 104 114	T70N human
+T6	Protein 115 123	lysozyme
+T7	Protein 175 191	lysozyme variant
+T8	Chemical 222 229	amyloid
+T9	Organism 242 256	human patients
+T10	Process 274 284	comparison
+T11	Parameter 292 302	properties
+T12	Physiology 321 334	amyloidogenic
+T13	Unknown 335 343	variants
+T14	Protein 347 355	lysozyme
+T15	Chemical 417 424	amyloid
+T16	Physiology 426 433	disease
+T17	Technique 454 477	X-ray crystal structure
+T18	Chemical 486 494	solution
+T19	Protein 508 521	T70N lysozyme
+T20	Chemical 539 557	hydrogen/deuterium
+T21	Process 558 566	exchange
+T22	Technique 571 574	NMR
+T23	Process 575 585	relaxation
+T24	Process 586 597	experiments
+T25	Technique 603 626	X-ray crystal structure
+T26	Process 663 676	rearrangement
+T27	Protein_part 694 704	amino acid
+T28	Process 705 717	substitution
+T29	Protein_part 729 743	residues 45-51
+T30	Protein_part 749 754	68-75
+T31	Process 802 812	separation
+T32	Geometrical_part 827 832	loops
+T33	Value 842 846	6.5A
+T34	Process 857 865	decrease
+T35	Parameter 909 918	parameter
+T36	Protein_part 920 922	S2
+T37	Parameter 924 930	values
+T38	Chemical 938 957	amide nitrogen atom
+T39	Protein_part 963 977	residues 70-74
+T40	Protein_part 995 999	T70N
+T41	Process 1000 1012	substitution
+T42	Protein_part 1046 1053	peptide
+T43	Protein_part 1074 1078	site
+T44	Process 1082 1090	mutation
+T45	Chemical 1092 1110	Hydrogen/deuterium
+T46	Process 1111 1119	exchange
+T47	Protein 1120 1138	protection factors
+T48	Technique 1152 1168	NMR spectroscopy
+T49	Protein_part 1193 1197	T70N
+T50	Unknown 1198 1205	variant
+T51	Protein 1214 1231	wild-type protein
+T52	Protein 1238 1256	protection factors
+T53	Chemical 1278 1283	amide
+T54	Molecular_Part 1284 1290	groups
+T55	Protein_part 1298 1309	beta-domain
+T56	Unknown 1317 1329	T70N variant
+T57	Protein 1369 1386	wild-type protein
+T58	Protein_part 1409 1421	alpha-domain
+T59	Parameter 1445 1451	values
+T60	Parameter 1456 1461	pulse
+T61	Chemical 1471 1489	hydrogen/deuterium
+T62	Process 1490 1498	exchange
+T63	Process 1499 1510	experiments
+T64	Technique 1524 1541	mass spectrometry
+T65	Process 1577 1586	unfolding
+T66	Protein_part 1594 1605	beta-domain
+T67	Protein_part 1613 1617	T70N
+T68	Unknown 1618 1625	variant
+T69	Protein 1634 1651	wild-type protein
+T70	Value 1673 1679	higher
+T71	Parameter 1680 1692	temperatures
+T72	Physiology 1706 1719	amyloidogenic
+T73	Protein_part 1720 1733	variants I56T
+T74	Protein_part 1738 1742	D67H
+T75	Process 1784 1793	unfolding
+T76	Location 1800 1809	intrinsic
+T77	Parameter 1810 1818	property
+T78	Organism 1826 1831	human
+T79	Protein 1832 1840	lysozyme
+T80	Geometrical_part 1841 1850	structure
+T81	Chemical 1953 1960	amyloid
+T82	Process 1961 1971	deposition

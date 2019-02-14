@@ -1,0 +1,51 @@
+T1	Physiology 11 19	rigidity
+T2	Body_part 31 37	cavity
+T3	Protein 49 56	protein
+T4	Technique 83 98	crystallography
+T5	Geometrical_part 100 106	Steric
+T6	Process 128 140	interactions
+T7	Parameter 156 162	forces
+T8	Protein 176 183	protein
+T9	Geometrical_part 184 193	structure
+T10	Process 198 206	function
+T11	Physiology 226 235	mutagenic
+T12	Process 236 247	experiments
+T13	Parameter 266 270	kind
+T14	Protein 326 334	proteins
+T15	Geometrical_part 344 357	folded states
+T16	Unknown 422 432	structures
+T17	Process 467 478	mutagenesis
+T18	Parameter 505 513	pressure
+T19	Technique 514 530	crystallographic
+T20	Parameter 582 592	properties
+T21	Protein 596 604	proteins
+T22	Parameter 646 656	parameters
+T23	Process 689 697	response
+T24	Body_part 705 711	cavity
+T25	Protein_part 723 734	mutant L99A
+T26	Protein 738 749	T4 lysozyme
+T27	Protein 766 788	pseudo wild-type (WT*)
+T28	Parameter 817 825	pressure
+T29	Body_part 845 851	cavity
+T30	Process 866 872	effect
+T31	Parameter 880 888	pressure
+T32	Process 889 897	response
+T33	Process 918 925	changes
+T34	Protein 942 945	WT*
+T35	Protein_part 952 956	L99A
+T36	Parameter 963 971	pressure
+T37	Body_part 977 983	cavity
+T38	Protein_part 1011 1018	regions
+T39	Protein_part 1070 1078	residues
+T40	State 1110 1119	stability
+T41	Protein 1125 1132	protein
+T42	Body_part 1199 1205	cavity
+T43	Chemical 1217 1222	water
+T44	Parameter 1226 1235	pressures
+T45	Value 1242 1249	100 MPa
+T46	Parameter 1278 1282	size
+T47	Protein 1313 1320	protein
+T48	Location 1367 1371	side
+T49	Unknown 1401 1412	environment
+T50	Physiology 1447 1455	rigidity
+T51	Protein_part 1463 1470	peptide

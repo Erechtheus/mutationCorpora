@@ -1,0 +1,46 @@
+T1	Protein 31 56	cyclin-dependent kinase 2
+T2	Protein 61 86	cyclin-dependent kinase 4
+T3	Category 87 96	inhibitor
+T4	Parameter 97 108	selectivity
+T5	Protein 110 134	Cyclin dependent kinases
+T6	Unknown 145 151	family
+T7	Protein 155 162	kinases
+T8	Physiology 175 185	cell cycle
+T9	Process 186 196	regulation
+T10	Process 219 225	target
+T11	Physiology 230 236	cancer
+T12	Technique 237 249	chemotherapy
+T13	Process 255 260	roles
+T14	Protein_part 269 277	residues
+T15	Protein 285 308	cyclin-dependent kinase
+T16	Protein_part 309 320	active site
+T17	Category 324 333	inhibitor
+T18	Parameter 334 345	selectivity
+T19	Protein 377 410	cyclin-dependent kinase 2 mutants
+T20	Protein 430 436	cyclin
+T21	Protein_part 447 464	kinase 4 residues
+T22	Protein_part 473 477	F82H
+T23	Protein_part 479 483	L83V
+T24	Protein_part 485 489	H84D
+T25	Protein_part 495 499	K89T
+T26	Technique 501 506	Assay
+T27	Molecule 514 521	mutants
+T28	Protein 529 552	cyclin-dependent kinase
+T29	Chemical 553 585	4-selective bisanilinopyrimidine
+T30	Protein_part 601 605	K89T
+T31	Process 606 614	mutation
+T32	Parameter 648 659	selectivity
+T33	Chemical 668 676	compound
+T34	Protein 689 712	cyclin-dependent kinase
+T35	Chemical 713 775	2-selective  6-cyclohexylmethoxy-2-(4'-sulfamoylanilino)purine
+T36	Chemical 777 783	NU6102
+T37	Protein_part 796 800	K89T
+T38	Process 808 812	role
+T39	Parameter 820 831	selectivity
+T40	Process 859 868	mutations
+T41	Process 887 896	influence
+T42	Protein_part 932 940	residues
+T43	Unknown 979 988	structure
+T44	Protein 995 1001	kinase
+T45	Category 1002 1011	inhibitor
+T46	Process 1037 1041	role

@@ -1,0 +1,53 @@
+T1	Protein 0 18	Carbonic anhydrase
+T2	Category 19 29	inhibitors
+T3	Protein_part 42 47	Ala65
+T4	Category 73 83	inhibitors
+T5	Parameter 93 101	affinity
+T6	Protein 121 131	isozyme II
+T7	Geometrical_part 152 169	crystal structure
+T8	Chemical 188 206	sulfamide analogue
+T9	Chemical 212 230	sulfamide analogue
+T10	Chemical 252 256	drug
+T11	Value 273 282	210 times
+T12	Category 295 304	inhibitor
+T13	Protein 308 318	isozyme II
+T14	Protein 326 356	zinc enzyme carbonic anhydrase
+T15	Protein 358 360	CA
+T16	Protein 362 372	EC 4.2.1.1
+T17	Unknown 422 436	isozymes CA VA
+T18	Unknown 438 440	VB
+T19	Unknown 442 445	VII
+T20	Unknown 447 451	XIII
+T21	Unknown 457 460	XIV
+T22	Unknown 462 464	KI
+T23	Value 481 489	21-35 nM
+T24	Process 501 508	binding
+T25	Unknown 512 517	CA II
+T26	Chemical 549 555	methyl
+T27	Molecular_Part 556 561	group
+T28	Category 569 578	inhibitor
+T29	Protein_part 583 588	Ala65
+T30	Chemical 619 623	drug
+T31	Chemical 634 643	compounds
+T32	Value 649 654	lower
+T33	Parameter 655 663	affinity
+T34	Protein 684 691	isozyme
+T35	Protein_part 696 701	Ala65
+T36	Unknown 715 720	CA II
+T37	Technique 734 755	X-ray crystallography
+T38	Chemical 761 779	sulfamide analogue
+T39	Unknown 789 794	CA II
+T40	Chemical 817 826	sulfamide
+T41	Molecular_Part 827 833	moiety
+T42	Chemical 849 855	Zn(II)
+T43	Geometrical_part 877 885	scaffold
+T44	Physiology 905 912	network
+T45	Chemical 916 930	hydrogen bonds
+T46	Protein_part 936 942	Thr199
+T47	Protein_part 944 949	Gln92
+T48	Protein_part 951 956	His94
+T49	Protein_part 958 963	Asn62
+T50	Protein_part 969 975	Thr200
+T51	Process 981 988	binding
+T52	Protein 997 1004	isozyme
+T53	Chemical 1091 1124	cyclic sulfate analogue RWJ-37947

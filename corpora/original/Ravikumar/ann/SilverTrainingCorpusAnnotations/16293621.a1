@@ -1,0 +1,95 @@
+T1	Technique 0 8	Analyses
+T2	Protein 12 42	variant acid beta-glucosidases
+T3	Process 44 51	effects
+T4	Unknown 55 62	Gaucher
+T5	Physiology 63 70	disease
+T6	Process 71 80	mutations
+T7	Protein 82 111	Acid beta-glucosidase (GCase)
+T8	Chemical 117 131	497-amino acid
+T9	Body_part 133 141	membrane
+T10	Body_part 153 162	lysosomal
+T11	Protein 164 184	exo-beta-glucosidase
+T12	Parameter 201 209	activity
+T13	Unknown 223 230	Gaucher
+T14	Physiology 231 238	disease
+T15	Process 268 286	structure/function
+T16	Physiology 295 302	disease
+T17	Process 303 312	mutations
+T18	Protein_part 333 343	amino acid
+T19	Process 344 357	substitutions
+T20	Protein 379 384	GCase
+T21	Organism 402 408	insect
+T22	Body_part 409 420	cell system
+T23	Parameter 460 467	kinetic
+T24	State 469 478	stability
+T25	Category 485 494	activator
+T26	Process 495 503	response
+T27	Parameter 504 514	properties
+T28	Unknown 520 534	variant GCases
+T29	Unknown 540 547	Gaucher
+T30	Physiology 548 555	disease
+T31	Organism 556 564	patients
+T32	Unknown 578 592	variant GCases
+T33	Organism 602 607	mouse
+T34	Parameter 631 637	k(cat)
+T35	Process 655 662	effects
+T36	Protein_part 666 677	active site
+T37	Process 678 685	binding
+T38	Process 693 703	attachment
+T39	Process 707 716	mechanism
+T40	Chemical 733 753	conduritol B epoxide
+T41	Chemical 770 798	deoxynojirimycin derivatives
+T42	Category 800 810	inhibitors
+T43	Process 814 820	defect
+T44	Chemical 843 855	phospholipid
+T45	Process 856 866	activation
+T46	Unknown 898 912	variant GCases
+T47	Protein_part 939 944	N370S
+T48	Protein_part 949 954	V394L
+T49	Physiology 956 964	Deficits
+T50	Protein 968 977	saposin C
+T51	Process 978 989	enhancement
+T52	Parameter 993 999	k(cat)
+T53	Unknown 1016 1030	variant GCases
+T54	Protein_part 1041 1056	residues 48-122
+T55	Value 1066 1086	approximately 2-fold
+T56	Process 1087 1096	increases
+T57	Protein 1120 1131	L264I GCase
+T58	Value 1133 1142	About 50%
+T59	Unknown 1146 1160	variant GCases
+T60	Parameter 1193 1204	sensitivity
+T61	Protein 1217 1228	cathepsin D
+T62	Process 1229 1238	digestion
+T63	Technique 1240 1247	Mapping
+T64	Parameter 1257 1267	properties
+T65	Geometrical_part 1277 1295	crystal structures
+T66	Protein 1299 1304	GCase
+T67	Process 1320 1330	dispersion
+T68	Parameter 1345 1355	properties
+T69	Process 1372 1390	catalytic function
+T70	State 1395 1404	stability
+T71	Technique 1406 1431	Site-directed mutagenesis
+T72	Protein_part 1435 1452	cysteine residues
+T73	Chemical 1469 1484	disulfide bonds
+T74	Protein_part 1486 1500	Cys(4)-Cys(16)
+T75	Protein_part 1506 1521	Cys(18)-Cys(23)
+T76	Protein_part 1534 1542	Cys(342)
+T77	Parameter 1562 1570	activity
+T78	Protein_part 1581 1589	Cys(126)
+T79	Protein_part 1594 1602	Cys(248)
+T80	Parameter 1622 1628	k(cat)
+T81	Protein_part 1655 1658	His
+T82	Process 1659 1671	substitution
+T83	Protein_part 1675 1683	Arg(496)
+T84	Protein_part 1695 1703	Arg(495)
+T85	Process 1741 1753	conservation
+T86	Process 1796 1803	effects
+T87	Unknown 1807 1814	Gaucher
+T88	Physiology 1815 1822	disease
+T89	Process 1823 1832	mutations
+T90	Protein_part 1878 1888	amino acid
+T91	Process 1889 1901	substitution
+T92	Protein_part 1955 1958	Val
+T93	Protein_part 1963 1966	Leu
+T94	Unknown 2030 2044	variant GCases
+T95	Molecule 2063 2083	molecular chaperones

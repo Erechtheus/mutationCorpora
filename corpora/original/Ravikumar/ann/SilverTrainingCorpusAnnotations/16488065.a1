@@ -1,0 +1,37 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Protein 21 32	haemoglobin
+T3	Organism 38 44	donkey
+T4	Organism 46 58	Equus asinus
+T5	Protein_part 63 65	3A
+T6	Parameter 66 76	resolution
+T7	Protein 78 89	Haemoglobin
+T8	Organism 95 101	donkey
+T9	Geometrical_part 135 149	space group C2
+T10	Organism 163 169	donkey
+T11	Protein 170 181	haemoglobin
+T12	Protein 205 219	subunits alpha
+T13	Protein 224 228	beta
+T14	Protein 230 242	These  alpha
+T15	Protein 247 260	beta subunits
+T16	Protein_part 285 304	amino acid residues
+T17	Chemical 328 332	haem
+T18	Molecular_Part 333 339	groups
+T19	Organism 345 351	donkey
+T20	Protein 352 363	haemoglobin
+T21	Organism 377 382	horse
+T22	Protein_part 395 406	amino acids
+T23	Protein 410 421	alpha-chain
+T24	Protein_part 423 428	His20
+T25	Protein_part 432 435	Asn
+T26	Protein_part 440 445	Tyr24
+T27	Protein_part 449 452	Phe
+T28	Process 464 477	substitutions
+T29	Organism 543 549	donkey
+T30	Protein 550 561	haemoglobin
+T31	Chemical 567 571	haem
+T32	Molecular_Part 572 577	group
+T33	Protein_part 578 584	region
+T34	Protein 589 596	subunit
+T35	Process 597 605	contacts
+T36	Organism 640 645	horse
+T37	Protein 646 660	methaemoglobin

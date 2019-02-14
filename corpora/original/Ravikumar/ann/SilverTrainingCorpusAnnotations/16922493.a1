@@ -1,0 +1,67 @@
+T1	Process 11 27	characterization
+T2	Protein 31 58	enterobactin hydrolase IroE
+T3	Process 64 77	proliferation
+T4	Physiology 86 96	pathogenic
+T5	Organism 97 105	bacteria
+T6	Chemical 144 148	iron
+T7	Unknown 158 169	environment
+T8	Organism 185 193	bacteria
+T9	Chemical 203 207	iron
+T10	Molecule 244 252	molecule
+T11	Chemical 253 265	siderophores
+T12	Chemical 279 283	iron
+T13	Chemical 285 289	Iron
+T14	Chemical 296 308	siderophores
+T15	Physiology 339 348	metabolic
+T16	Protein 375 392	serine hydrolases
+T17	Process 439 446	pathway
+T18	Protein 454 458	IroD
+T19	Protein 464 468	IroE
+T20	Geometrical_part 490 507	crystal structure
+T21	Protein 511 515	IroE
+T22	Physiology 521 534	uropathogenic
+T23	Organism 535 558	Escherichia coli CFT073
+T24	Geometrical_part 564 580	native structure
+T25	Category 587 594	complex
+T26	Chemical 600 629	diisopropyl fluorophosphonate
+T27	Chemical 631 634	DFP
+T28	Protein 645 661	serine hydrolase
+T29	Category 662 671	inhibitor
+T30	Value 692 695	2.3
+T31	Value 700 705	1.4 A
+T32	Parameter 706 716	resolution
+T33	Protein 732 736	IroE
+T34	Protein 753 773	alpha/beta-hydrolase
+T35	Protein_part 796 810	catalytic dyad
+T36	Protein_part 823 830	Ser 189
+T37	Protein_part 835 842	His 287
+T38	Process 844 852	Mutation
+T39	Protein_part 863 870	residue
+T40	Process 890 899	catalysis
+T41	Chemical 938 946	oxyanion
+T42	Chemical 973 979	amides
+T43	Protein 981 985	IroE
+T44	Chemical 1007 1018	guanidinium
+T45	Molecular_Part 1019 1025	moiety
+T46	Protein_part 1029 1036	Arg 130
+T47	Protein_part 1038 1044	Asp 90
+T48	Protein_part 1053 1060	Arg 130
+T49	Protein_part 1068 1080	active  site
+T50	Process 1086 1094	mutation
+T51	Protein_part 1105 1112	residue
+T52	Process 1141 1150	catalysis
+T53	Geometrical_part 1172 1181	structure
+T54	Protein 1185 1189	IroE
+T55	Geometrical_part 1197 1206	structure
+T56	Protein 1210 1213	Fes
+T57	Organism 1219 1236	Shigella flexneri
+T58	Organism 1238 1241	PDB
+T59	Process 1242 1247	entry
+T60	Organism 1248 1252	2B20
+T61	Protein 1260 1267	enzymes
+T62	Protein_part 1281 1293	active sites
+T63	Protein 1299 1302	Fes
+T64	Chemical 1321 1335	amino-terminal
+T65	Protein_part 1340 1346	domain
+T66	Protein_part 1358 1365	domains
+T67	Protein 1418 1428	hydrolases

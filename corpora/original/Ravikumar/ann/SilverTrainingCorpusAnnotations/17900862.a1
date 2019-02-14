@@ -1,0 +1,118 @@
+T1	Technique 3 6	NMR
+T2	Process 33 49	characterisation
+T3	Chemical 55 59	cAMP
+T4	Protein_part 69 125	phosphodiesterase-4D5 (PDE4D5) N-terminal region peptide
+T5	Chemical 140 146	PDE4D5
+T6	Process 147 158	interaction
+T7	Process 168 178	signalling
+T8	Geometrical_part 179 187	scaffold
+T9	Protein 188 196	proteins
+T10	Protein 198 211	beta-arrestin
+T11	Protein 216 221	RACK1
+T12	Protein_part 237 265	amino acid N-terminal region
+T13	Chemical 269 273	cAMP
+T14	Chemical 283 313	phosphodiesterase-4D5 (PDE4D5)
+T15	Process 335 342	binding
+T16	Protein_part 343 348	sites
+T17	Process 360 371	interaction
+T18	Process 381 390	signaling
+T19	Geometrical_part 391 399	scaffold
+T20	Protein 400 408	proteins
+T21	Protein 410 422	betaarrestin
+T22	Protein 427 432	RACK1
+T23	Protein_part 436 450	38-mer peptide
+T24	Protein_part 458 466	sequence
+T25	Protein_part 477 488	residues 12
+T26	Chemical 503 509	PDE4D5
+T27	Protein_part 534 577	N-terminal RACK1 Interaction Domain (RAID1)
+T28	Protein 609 622	beta-arrestin
+T29	Process 623 630	binding
+T30	Chemical 637 641	(1)H
+T31	Technique 642 645	NMR
+T32	Technique 650 661	CD analyses
+T33	Protein_part 681 687	region
+T34	Geometrical_part 713 730	helical structure
+T35	Protein_part 736 743	leucine
+T36	Protein 784 789	RACK1
+T37	Process 790 801	interaction
+T38	Body_part 861 865	face
+T39	Protein_part 884 895	alpha-helix
+T40	Protein_part 901 906	Arg34
+T41	Protein_part 911 916	Asn36
+T42	Process 944 949	roles
+T43	Protein 953 958	RACK1
+T44	Process 959 966	binding
+T45	Protein_part 972 995	Asn22/Pro23/Trp24/Asn26
+T46	Protein 1020 1025	RACK1
+T47	Process 1026 1037	interaction
+T48	Protein_part 1058 1068	N-terminal
+T49	Body_part 1069 1073	head
+T50	Protein_part 1093 1098	helix
+T51	Protein_part 1137 1142	RAID1
+T52	Geometrical_part 1187 1204	helical structure
+T53	Process 1226 1233	binding
+T54	Chemical 1237 1243	PDE4D5
+T55	Protein 1251 1268	WD-repeat protein
+T56	Protein 1270 1275	RACK1
+T57	Protein_part 1311 1322	helix-helix
+T58	Process 1323 1334	interaction
+T59	Unknown 1345 1353	G(gamma)
+T60	Protein 1369 1386	WD-repeat protein
+T61	Protein 1388 1395	G(beta)
+T62	Unknown 1415 1422	section
+T63	Protein_part 1430 1456	PDE4D5 N-terminal sequence
+T64	Protein_part 1458 1469	Thr11-Ala85
+T65	Protein 1487 1500	beta-arrestin
+T66	Process 1501 1508	binding
+T67	Protein_part 1518 1526	residues
+T68	Protein_part 1538 1549	RAID1 helix
+T69	Process 1569 1580	interaction
+T70	Protein_part 1614 1622	residues
+T71	Protein_part 1669 1680	RAID1 helix
+T72	Technique 1707 1712	patch
+T73	Protein_part 1719 1724	Leu29
+T74	Protein_part 1726 1731	Val30
+T75	Protein_part 1737 1742	Leu33
+T76	Protein_part 1769 1777	residues
+T77	Protein_part 1779 1784	Asn26
+T78	Protein_part 1786 1791	Glu27
+T79	Protein_part 1793 1798	Asp28
+T80	Protein_part 1800 1805	Arg34
+T81	Process 1812 1823	interaction
+T82	Protein 1829 1842	beta-arrestin
+T83	Protein_part 1883 1894	RAID1 helix
+T84	Protein_part 1913 1921	residues
+T85	Protein_part 1923 1928	Glu27
+T86	Protein_part 1930 1935	Asp28
+T87	Protein 1963 1968	RACK1
+T88	Process 1969 1976	binding
+T89	Process 1995 2006	interaction
+T90	Protein 2010 2015	RACK1
+T91	Protein_part 2021 2026	RAID1
+T92	Parameter 2054 2060	length
+T93	Protein_part 2068 2073	helix
+T94	Protein_part 2087 2098	Leu37/Leu38
+T95	Protein 2128 2141	beta-arrestin
+T96	Process 2142 2149	binding
+T97	Body_part 2153 2161	membrane
+T98	Protein_part 2173 2212	stearoylated Val12-Ser49 38-mer peptide
+T99	Process 2227 2238	interaction
+T100	Protein 2247 2260	beta-arrestin
+T101	Protein 2265 2270	RACK1
+T102	Chemical 2287 2293	PDE4D5
+T103	Body_part 2297 2308	HEKB2 cells
+T104	Protein_part 2327 2334	peptide
+T105	Protein_part 2342 2350	Glu27Ala
+T106	Process 2351 2363	substitution
+T107	Chemical 2394 2406	PDE4D5/RACK1
+T108	Process 2407 2418	interaction
+T109	Protein_part 2424 2463	stearoylated Val12-Ser49 38-mer peptide
+T110	Chemical 2477 2489	isoprenaline
+T111	Protein 2501 2504	PKA
+T112	Process 2505 2520	phosphorylation
+T113	Protein 2528 2556	beta(2)-adrenergic receptors
+T114	Protein 2558 2562	beta
+T115	Protein 2564 2567	)AR
+T116	Process 2577 2587	activation
+T117	Unknown 2591 2594	ERK
+T118	Protein_part 2607 2623	Glu27Ala peptide

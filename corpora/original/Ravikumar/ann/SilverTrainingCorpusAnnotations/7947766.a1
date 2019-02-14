@@ -1,0 +1,86 @@
+T1	Protein 0 8	Thrombin
+T2	Geometrical_part 15 24	structure
+T3	Protein_part 31 44	EGF subdomain
+T4	Organism 50 55	human
+T5	Protein 56 70	thrombomodulin
+T6	Body_part 97 104	nuclear
+T7	Unknown 105 115	Overhauser
+T8	Process 116 123	effects
+T9	Protein_part 129 132	EGF
+T10	Protein_part 138 145	domains
+T11	Organism 149 154	human
+T12	Protein 155 169	thrombomodulin
+T13	Protein 214 222	thrombin
+T14	Protein 243 249	enzyme
+T15	Protein 270 276	enzyme
+T16	Process 285 296	experiments
+T17	Protein 320 328	thrombin
+T18	Protein_part 337 343	region
+T19	Protein 347 361	thrombomodulin
+T20	Chemical 374 380	acidic
+T21	Geometrical_part 381 385	loop
+T22	Protein_part 399 402	EGF
+T23	Protein_part 408 414	domain
+T24	Protein_part 422 430	sequence
+T25	Protein 434 459	E408CPEGYILDDGFI420CTDIDE
+T26	Technique 477 493	NMR spectroscopy
+T27	Process 527 538	interaction
+T28	Protein_part 544 577	des-Ile420 thrombomodulin peptide
+T29	Protein_part 580 667	Cys1(409)Pro2Glu3Gly4Tyr5Ile6-Leu7Asp8Asp9Gly10Phe11Cys12Thr13Asp14Ile15Asp16Glu17(426)
+T30	Process 678 684	target
+T31	Protein 685 704	coagulation protein
+T32	Protein 706 714	thrombin
+T33	Chemical 720 729	disulfide
+T34	Protein_part 737 744	peptide
+T35	Process 782 789	binding
+T36	Protein_part 833 840	peptide
+T37	Chemical 885 893	solution
+T38	Protein 899 907	thrombin
+T39	Unknown 914 923	structure
+T40	Protein_part 938 960	thrombomodulin peptide
+T41	Body_part 991 998	nuclear
+T42	Unknown 999 1009	Overhauser
+T43	Process 1010 1017	effects
+T44	Chemical 1031 1035	NOEs
+T45	Parameter 1044 1052	distance
+T46	Geometrical_part 1053 1061	geometry
+T47	Technique 1066 1091	Monte  Carlo calculations
+T48	Protein 1097 1105	thrombin
+T49	Protein_part 1119 1126	peptide
+T50	State 1146 1158	conformation
+T51	Molecule 1208 1221	EGF molecules
+T52	Protein_part 1234 1251	type II beta-turn
+T53	Protein_part 1262 1280	residues Pro2-Tyr5
+T54	Geometrical_part 1307 1319	antiparallel
+T55	Protein_part 1320 1330	beta-sheet
+T56	Protein_part 1341 1349	residues
+T57	Protein_part 1350 1359	Gly4-Asp8
+T58	Protein_part 1364 1384	residues Phe11-Ile15
+T59	Protein_part 1390 1412	thrombomodulin peptide
+T60	Protein 1434 1442	thrombin
+T61	Geometrical_part 1451 1458	surface
+T62	Protein_part 1467 1480	residues Tyr5
+T63	Protein_part 1485 1490	Phe11
+T64	Protein 1521 1526	chain
+T65	Protein_part 1547 1565	central beta-sheet
+T66	Process 1567 1577	Comparison
+T67	Protein 1585 1593	thrombin
+T68	Unknown 1600 1609	structure
+T69	Molecule 1617 1620	EGF
+T70	Protein_part 1626 1635	subdomain
+T71	Protein_part 1647 1663	thrombin-peptide
+T72	Category 1664 1673	complexes
+T73	Protein 1697 1705	thrombin
+T74	Geometrical_part 1714 1721	surface
+T75	Process 1742 1751	different
+T76	Unknown 1762 1780	structure elements
+T77	Process 1795 1804	different
+T78	Protein_part 1805 1822	peptide sequences
+T79	Protein 1828 1836	thrombin
+T80	Geometrical_part 1843 1852	structure
+T81	Protein_part 1860 1882	thrombomodulin peptide
+T82	Process 1898 1903	basis
+T83	Process 1922 1942	regulatory functions
+T84	Protein 1946 1960	thrombomodulin
+T85	Category 2003 2013	inhibitors
+T86	Protein 2018 2026	thrombin

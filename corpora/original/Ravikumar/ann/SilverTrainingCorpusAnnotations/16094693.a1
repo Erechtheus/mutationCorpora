@@ -1,0 +1,57 @@
+T1	Molecule 23 26	DNA
+T2	Process 27 34	binding
+T3	Protein 42 55	lac repressor
+T4	Protein 59 69	mutant lac
+T5	Category 85 91	mimics
+T6	Molecule 100 109	repressor
+T7	Process 111 122	Recognition
+T8	Protein 130 133	lac
+T9	Protein 150 163	lac repressor
+T10	Process 182 194	interactions
+T11	Protein_part 203 211	residues
+T12	Molecule 219 230	repressor's
+T13	Process 231 242	recognition
+T14	Protein_part 243 248	helix
+T15	Molecule 266 269	DNA
+T16	Geometrical_part 270 282	major groove
+T17	Protein_part 284 289	Tyr17
+T18	Protein_part 294 299	Gln18
+T19	Location 304 315	positions 1
+T20	Location 320 321	2
+T21	Protein 329 342	lac repressor
+T22	Process 344 355	recognition
+T23	Protein_part 356 361	helix
+T24	Protein_part 390 401	amino acids
+T25	Molecule 421 431	repressors
+T26	Geometrical_part 485 503	solution structure
+T27	Protein 509 520	protein-DNA
+T28	Category 521 528	complex
+T29	Protein 555 565	mutant lac
+T30	Protein_part 585 590	Tyr17
+T31	Protein_part 595 600	Gln18
+T32	Protein_part 620 626	valine
+T33	Protein_part 631 638	alanine
+T34	Process 671 682	recognition
+T35	Protein_part 683 688	helix
+T36	Molecule 700 709	repressor
+T37	Technique 738 760	Lehming et al. (EMBO J
+T38	Molecule 808 814	mutant
+T39	Protein 822 835	lac repressor
+T40	Unknown 849 860	variant lac
+T41	Unknown 906 908	Oe
+T42	Protein 914 924	mutant lac
+T43	Category 988 993	mimic
+T44	Molecule 1002 1011	repressor
+T45	Process 1031 1038	bending
+T46	Unknown 1064 1066	Oe
+T47	Process 1119 1128	anchoring
+T48	Protein 1151 1154	lac
+T49	Protein 1184 1187	lac
+T50	Process 1215 1224	different
+T51	Physiology 1225 1232	network
+T52	Protein 1236 1247	protein-DNA
+T53	Process 1248 1260	interactions
+T54	Protein_part 1272 1277	Ala17
+T55	Protein_part 1282 1287	Val18
+T56	Molecule 1304 1307	DNA
+T57	Geometrical_part 1308 1320	major groove

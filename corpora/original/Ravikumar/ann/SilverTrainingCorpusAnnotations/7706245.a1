@@ -1,0 +1,87 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Organism 37 42	human
+T3	Protein_part 43 74	neutrophil-activating peptide-2
+T4	Protein_part 76 79	M6L
+T5	Value 85 90	1.9-A
+T6	Parameter 91 101	resolution
+T7	Protein_part 103 142	Neutrophil-activating peptide-2 (NAP-2)
+T8	Chemical 148 185	70-residue carboxyl-terminal fragment
+T9	Body_part 189 197	platelet
+T10	Protein 204 211	protein
+T11	Body_part 235 249	alpha-granules
+T12	Organism 253 258	human
+T13	Body_part 259 268	platelets
+T14	Protein_part 270 275	NAP-2
+T15	Protein 298 308	CXC family
+T16	Protein 312 322	chemokines
+T17	Protein 337 350	interleukin-8
+T18	Body_part 355 363	platelet
+T19	Protein 364 372	factor 4
+T20	Protein 387 417	interleukin-8 type II receptor
+T21	Process 433 437	rise
+T22	Location 441 450	cytosolic
+T23	Chemical 451 458	calcium
+T24	Process 460 470	chemotaxis
+T25	Body_part 474 485	neutrophils
+T26	Process 491 501	exocytosis
+T27	Unknown 503 511	Crystals
+T28	Protein_part 527 532	NAP-2
+T29	Chemical 553 563	methionine
+T30	Location 567 577	position 6
+T31	Protein_part 594 601	leucine
+T32	Process 616 626	expression
+T33	Geometrical_part 637 651	space group P1
+T34	Geometrical_part 653 662	unit cell
+T35	Parameter 663 673	parameters
+T36	Parameter 674 675	a
+T37	Value 678 682	40.8
+T38	Parameter 684 685	b
+T39	Value 688 692	43.8
+T40	Parameter 698 699	c
+T41	Value 702 708	44.7 A
+T42	Parameter 713 718	alpha
+T43	Value 721 733	98.4 degrees
+T44	Parameter 735 739	beta
+T45	Value 742 755	120.3 degrees
+T46	Parameter 761 766	gamma
+T47	Value 769 781	92.8 degrees
+T48	Molecule 791 800	molecules
+T49	Protein_part 804 809	NAP-2
+T50	Parameter 811 813	Mr
+T51	Value 816 820	7600
+T52	Process 850 871	molecular replacement
+T53	Chemical 872 880	solution
+T54	Organism 897 903	bovine
+T55	Body_part 904 912	platelet
+T56	Protein 913 921	factor 4
+T57	Technique 963 973	rigid body
+T58	Process 974 984	refinement
+T59	Chemical 1004 1011	solvent
+T60	Molecule 1020 1028	electron
+T61	Parameter 1029 1036	density
+T62	Parameter 1099 1107	R-factor
+T63	Value 1111 1116	0.188
+T64	Parameter 1121 1128	2 sigma
+T65	Value 1142 1146	7.0-
+T66	Value 1151 1156	1.9-A
+T67	Parameter 1157 1167	resolution
+T68	Geometrical_part 1187 1204	crystal structure
+T69	Chemical 1218 1235	solvent molecules
+T70	Geometrical_part 1249 1267	tertiary structure
+T71	Body_part 1298 1306	platelet
+T72	Protein 1307 1315	factor 4
+T73	Protein 1320 1333	interleukin-8
+T74	Chemical 1356 1375	amino-terminal loop
+T75	Protein_part 1383 1390	strands
+T76	Geometrical_part 1394 1406	antiparallel
+T77	Protein_part 1407 1417	beta-sheet
+T78	Unknown 1432 1437	Greek
+T79	Geometrical_part 1442 1446	fold
+T80	Protein_part 1456 1467	alpha-helix
+T81	Protein_part 1475 1492	carboxyl terminus
+T82	Protein_part 1498 1518	Glu-Leu-Arg sequence
+T83	Protein 1541 1549	receptor
+T84	Process 1550 1557	binding
+T85	Molecule 1578 1586	electron
+T86	Parameter 1587 1594	density
+T87	State 1617 1630	conformations

@@ -1,0 +1,42 @@
+T1	State 0 14	Conformational
+T2	Protein_part 31 42	active site
+T3	Protein 48 63	heme peroxidase
+T4	State 65 79	Conformational
+T5	Location 96 102	distal
+T6	Protein_part 103 120	histidine residue
+T7	Process 153 162	different
+T8	Protein 163 178	heme peroxidase
+T9	Protein 179 186	enzymes
+T10	Technique 280 293	spectroscopic
+T11	Chemical 323 332	peroxide-
+T12	Category 337 343	ligand
+T13	State 352 366	conformational
+T14	Location 383 389	distal
+T15	Protein_part 390 407	histidine residue
+T16	Protein_part 409 415	His-42
+T17	Unknown 436 443	variant
+T18	Protein 447 467	ascorbate peroxidase
+T19	Protein 469 473	W41A
+T20	Unknown 484 491	variant
+T21	Protein_part 493 499	His-42
+T22	Chemical 518 522	heme
+T23	State 530 543	oxidized form
+T24	Protein_part 561 582	active site structure
+T25	Protein 590 601	cytochromes
+T26	Protein 628 639	cytochromes
+T27	Chemical 670 674	iron
+T28	Process 682 691	catalysis
+T29	State 698 712	conformational
+T30	Chemical 864 872	peroxide
+T31	Parameter 913 921	activity
+T32	Protein 976 987	heme enzyme
+T33	Process 988 997	catalysis
+T34	Process 1031 1043	coordination
+T35	Location 1051 1057	distal
+T36	Protein_part 1058 1067	histidine
+T37	Chemical 1075 1084	heme iron
+T38	Parameter 1128 1136	activity
+T39	Parameter 1157 1166	dimension
+T40	Process 1180 1192	appreciation
+T41	Process 1215 1227	correlations
+T42	Protein 1237 1249	heme enzymes

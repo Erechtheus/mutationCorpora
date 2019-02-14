@@ -1,0 +1,78 @@
+T1	Geometrical_part 4 14	structures
+T2	Protein 18 25	RNase A
+T3	Chemical 41 47	3'-CMP
+T4	Chemical 52 58	d(CpA)
+T5	Protein_part 60 71	active site
+T6	State 72 84	conformation
+T7	Chemical 99 114	water molecules
+T8	Process 120 132	interactions
+T9	Protein 136 143	RNase A
+T10	Chemical 149 183	cytidine 3'-monophosphate (3'-CMP)
+T11	Chemical 188 230	deoxycytidyl-3',5'-deoxyadenosine (d(CpA))
+T12	Technique 248 269	X-ray crystallography
+T13	Chemical 275 281	3'-CMP
+T14	Category 282 289	complex
+T15	Geometrical_part 298 314	native structure
+T16	Unknown 345 353	crystals
+T17	Chemical 363 369	d(CpA)
+T18	Category 370 377	complex
+T19	Unknown 394 402	crystals
+T20	Process 408 419	differences
+T21	Unknown 440 450	structures
+T22	Geometrical_part 471 475	loop
+T23	Protein_part 476 483	regions
+T24	Process 532 540	contacts
+T25	Process 574 593	catalytic mechanism
+T26	Chemical 599 611	general base
+T27	Protein_part 612 618	His 12
+T28	Chemical 641 647	oxygen
+T29	Molecule 675 683	catalyst
+T30	Protein_part 684 690	Lys 41
+T31	Chemical 704 708	acid
+T32	Protein_part 709 716	His 119
+T33	State 723 736	conformations
+T34	Unknown 744 745	B
+T35	Geometrical_part 754 770	native structure
+T36	State 816 817	B
+T37	State 818 830	conformation
+T38	Chemical 838 844	d(CpA)
+T39	Chemical 853 859	3'-CMP
+T40	Category 860 867	complex
+T41	Unknown 886 896	structures
+T42	Process 908 918	comparison
+T43	Protein 924 932	RNase T1
+T44	Protein_part 950 957	His 119
+T45	State 977 989	conformation
+T46	Unknown 995 1004	structure
+T47	Chemical 1012 1018	d(CpA)
+T48	Category 1019 1026	complex
+T49	Technique 1046 1054	analysis
+T50	Process 1073 1080	binding
+T51	Protein_part 1081 1085	site
+T52	Protein_part 1102 1109	His 119
+T53	Protein_part 1114 1121	Asn  71
+T54	Process 1127 1137	comparison
+T55	Protein 1153 1160	RNase A
+T56	Unknown 1161 1171	structures
+T57	Category 1180 1189	inhibitor
+T58	Category 1190 1197	complex
+T59	Protein 1201 1209	RNase T1
+T60	Process 1241 1253	similarities
+T61	Protein_part 1261 1273	active sites
+T62	Protein 1285 1292	enzymes
+T63	Process 1306 1313	absence
+T64	Parameter 1321 1338	sequence homology
+T65	Chemical 1344 1359	water molecules
+T66	Protein_part 1405 1416	water sites
+T67	Protein_part 1428 1439	water sites
+T68	Protein 1470 1477	RNase A
+T69	Unknown 1478 1488	structures
+T70	Process 1496 1505	different
+T71	Molecular_Part 1512 1518	groups
+T72	Chemical 1552 1567	water molecules
+T73	Process 1575 1579	role
+T74	Process 1587 1594	binding
+T75	Protein_part 1602 1618	N-terminal helix
+T76	Protein 1638 1645	protein
+T77	Process 1657 1670	stabilization
+T78	Protein_part 1678 1689	active site

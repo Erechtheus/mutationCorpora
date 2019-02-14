@@ -1,0 +1,51 @@
+T1	Organism 0 5	Human
+T2	Molecule 6 10	SOD1
+T3	Chemical 42 47	metal
+T4	Geometrical_part 49 67	solution structure
+T5	Chemical 71 77	copper
+T6	Chemical 88 97	disulfide
+T7	Molecule 112 116	SOD1
+T8	Process 159 172	modifications
+T9	Protein 211 218	protein
+T10	Process 228 237	insertion
+T11	Chemical 241 245	zinc
+T12	Chemical 250 262	copper atoms
+T13	Process 280 289	formation
+T14	Chemical 305 313	S-S bond
+T15	Protein_part 322 328	Cys-57
+T16	Protein_part 333 340	Cys-146
+T17	Protein 376 383	protein
+T18	Technique 416 419	NMR
+T19	Process 431 444	investigation
+T20	Unknown 460 465	SH-SH
+T21	Chemical 489 499	Zn-as-SOD1
+T22	Protein_part 519 522	C6A
+T23	Protein_part 524 529	C111S
+T24	Protein 563 570	protein
+T25	Unknown 629 638	structure
+T26	State 677 680	S-S
+T27	Organism 714 719	yeast
+T28	Molecule 720 724	SOD1
+T29	Chemical 744 760	copper chaperone
+T30	Chemical 762 765	CCS
+T31	State 773 787	conformational
+T32	Process 788 802	rearrangements
+T33	Chemical 808 824	disulfide bridge
+T34	Process 825 834	reduction
+T35	Protein_part 856 862	region
+T36	Protein_part 868 874	Cys-57
+T37	Chemical 909 916	solvent
+T38	Unknown 932 941	structure
+T39	Physiology 998 1006	disorder
+T40	Protein_part 1014 1020	Cys-57
+T41	Protein 1040 1055	protein-protein
+T42	Process 1056 1067	recognition
+T43	Chemical 1115 1124	S-S bonds
+T44	Location 1149 1156	lateral
+T45	Physiology 1157 1166	sclerosis
+T46	Molecule 1175 1179	SOD1
+T47	Molecule 1180 1187	mutants
+T48	Unknown 1193 1202	structure
+T49	Chemical 1236 1242	copper
+T50	Process 1251 1260	mechanism
+T51	Molecule 1264 1268	SOD1

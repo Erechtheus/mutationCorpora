@@ -1,0 +1,70 @@
+T1	Protein 20 47	porcine pancreatic elastase
+T2	Chemical 63 108	7-amino-3-(2-bromoethoxy)-4-chloroisocoumarin
+T3	Category 164 171	complex
+T4	Category 177 184	complex
+T5	Protein 188 221	porcine pancreatic elastase (PPE)
+T6	Chemical 227 272	7-amino-3-(2-bromoethoxy)-4-chloroisocoumarin
+T7	Process 283 292	mechanism
+T8	Category 299 308	inhibitor
+T9	Geometrical_part 335 352	crystal structure
+T10	Value 367 372	1.9-A
+T11	Parameter 373 383	resolution
+T12	Parameter 397 405	R factor
+T13	Value 409 414	17.1%
+T14	Process 429 439	difference
+T15	Molecule 440 456	Fourier electron
+T16	Parameter 457 464	density
+T17	Parameter 487 494	density
+T18	Chemical 500 507	O gamma
+T19	Protein_part 511 518	Ser 195
+T20	Chemical 526 554	benzoyl carbonyl carbon atom
+T21	Chemical 564 575	N epsilon 2
+T22	Protein_part 579 585	His 57
+T23	Chemical 593 604	carbon atom
+T24	Location 612 622	4-position
+T25	Chemical 630 646	isocoumarin ring
+T26	Category 654 663	inhibitor
+T27	Category 703 712	inhibitor
+T28	Protein 748 754	enzyme
+T29	Process 817 824	binding
+T30	Chemical 831 842	isocoumarin
+T31	Category 843 852	inhibitor
+T32	Protein 856 859	PPE
+T33	Protein_part 873 880	Ser 195
+T34	Protein_part 885 891	His 57
+T35	Protein_part 899 910	active site
+T36	Protein 917 930	PPE-inhibitor
+T37	Category 931 938	complex
+T38	Chemical 970 978	solution
+T39	Chemical 982 995	hydroxylamine
+T40	Process 1013 1022	existence
+T41	Category 1054 1061	complex
+T42	Protein 1077 1088	acyl enzyme
+T43	Chemical 1094 1122	benzoyl carbonyl oxygen atom
+T44	Category 1130 1139	inhibitor
+T45	Chemical 1164 1172	oxyanion
+T46	Chemical 1192 1197	amide
+T47	Unknown 1212 1214	NH
+T48	Molecular_Part 1216 1222	groups
+T49	Protein_part 1226 1233	Gly 193
+T50	Protein_part 1238 1245	Ser 195
+T51	Category 1251 1258	complex
+T52	Chemical 1280 1288	hydrogen
+T53	Process 1297 1309	interactions
+T54	Protein_part 1317 1328	active site
+T55	Chemical 1339 1350	N epsilon 2
+T56	Protein_part 1354 1361	Gln 192
+T57	Chemical 1369 1381	bromine atom
+T58	Category 1389 1398	inhibitor
+T59	Chemical 1407 1412	amino
+T60	Molecular_Part 1413 1418	group
+T61	Location 1426 1436	7-position
+T62	Chemical 1444 1460	isocoumarin ring
+T63	Chemical 1468 1483	carbonyl oxygen
+T64	Protein_part 1487 1493	Thr 41
+T65	Unknown 1502 1515	van der Waals
+T66	Process 1516 1528	interactions
+T67	Process 1534 1544	inhibition
+T68	Parameter 1545 1550	rates
+T69	Chemical 1562 1612	7-substituted 4-chloro-3-(bromoalkoxy)isocoumarins
+T70	Protein 1620 1623	PPE

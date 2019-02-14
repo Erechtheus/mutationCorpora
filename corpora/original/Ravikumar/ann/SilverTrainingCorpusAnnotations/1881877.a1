@@ -1,0 +1,56 @@
+T1	Value 0 6	1.59 A
+T2	Geometrical_part 7 16	structure
+T3	Protein 20 27	trypsin
+T4	Value 31 36	120 K
+T5	Process 38 48	comparison
+T6	Parameter 56 67	temperature
+T7	Value 72 76	room
+T8	Parameter 77 88	temperature
+T9	Unknown 89 99	structures
+T10	Unknown 105 114	structure
+T11	Organism 120 123	rat
+T12	Protein 124 138	trypsin mutant
+T13	Protein_part 140 145	S195C
+T14	Parameter 152 163	temperature
+T15	Value 167 172	120 K
+T16	Technique 196 212	crystallographic
+T17	Parameter 213 221	R factor
+T18	Value 225 230	17.4%
+T19	Value 239 243	12.0
+T20	Value 248 254	1.59 A
+T21	Geometrical_part 280 289	structure
+T22	Protein_part 297 309	D102N mutant
+T23	Value 313 318	295 K
+T24	Process 322 331	reduction
+T25	Geometrical_part 339 348	unit cell
+T26	Parameter 349 359	dimensions
+T27	Value 374 378	room
+T28	Parameter 379 390	temperature
+T29	Parameter 398 409	temperature
+T30	Process 431 439	decrease
+T31	Geometrical_part 453 460	surface
+T32	Parameter 461 465	area
+T33	Parameter 470 488	radius of gyration
+T34	Unknown 502 511	structure
+T35	Value 539 543	room
+T36	Parameter 544 555	temperature
+T37	Parameter 572 582	resolution
+T38	Process 618 626	decrease
+T39	Parameter 646 657	intensities
+T40	Parameter 663 673	resolution
+T41	Process 675 684	reduction
+T42	Parameter 692 710	temperature factor
+T43	Process 784 796	localization
+T44	Chemical 805 818	protein atoms
+T45	Chemical 823 840	solvent molecules
+T46	Parameter 852 863	temperature
+T47	Process 881 892	differences
+T48	Protein_part 925 933	residues
+T49	Value 939 958	higher than average
+T50	Parameter 959 978	temperature factors
+T51	Protein_part 1021 1035	solvent region
+T52	Value 1043 1048	120 K
+T53	Value 1078 1083	295 K
+T54	Chemical 1116 1131	water molecules
+T55	Chemical 1147 1171	interstitial sulfate ion
+T56	Chemical 1180 1214	interstitial benzamidine molecules

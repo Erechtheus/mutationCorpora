@@ -1,0 +1,133 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Protein 22 52	aspartate carbamoyltransferase
+T3	Chemical 66 84	phosphonoacetamide
+T4	Chemical 86 94	malonate
+T5	Chemical 100 103	CTP
+T6	Chemical 107 110	ATP
+T7	Value 114 119	2.8-A
+T8	Parameter 120 130	resolution
+T9	Value 135 142	neutral
+T10	Parameter 143 145	pH
+T11	Protein 151 158	R-state
+T12	Geometrical_part 159 169	structures
+T13	Chemical 177 180	ATP
+T14	Chemical 185 188	CTP
+T15	Category 189 198	complexes
+T16	Protein 202 232	aspartate carbamoyltransferase
+T17	Chemical 246 264	phosphonoacetamide
+T18	Chemical 269 277	malonate
+T19	Value 302 307	2.8-A
+T20	Parameter 308 318	resolution
+T21	Value 323 330	neutral
+T22	Parameter 331 333	pH
+T23	Unknown 341 351	structures
+T24	Process 381 402	molecular replacement
+T25	Technique 423 439	crystallographic
+T26	Value 458 463	0.167
+T27	Value 468 473	0.182
+T28	Chemical 479 491	triphosphate
+T29	Chemical 497 503	ribose
+T30	Chemical 513 519	purine
+T31	Chemical 524 534	pyrimidine
+T32	Molecular_Part 535 543	moieties
+T33	Chemical 547 550	ATP
+T34	Chemical 555 558	CTP
+T35	Protein_part 581 588	regions
+T36	Protein_part 607 613	domain
+T37	Protein 632 637	dimer
+T38	Chemical 639 642	ATP
+T39	Chemical 647 650	CTP
+T40	Process 662 670	increase
+T41	Parameter 688 692	size
+T42	Protein_part 711 715	site
+T43	Location 723 731	vicinity
+T44	Protein_part 739 743	base
+T45	Chemical 768 771	CTP
+T46	Chemical 776 779	ATP
+T47	Parameter 783 785	pH
+T48	Value 786 787	7
+T49	Chemical 793 809	gamma-phosphates
+T50	Protein_part 823 828	His20
+T51	Protein_part 847 852	Lys94
+T52	Chemical 864 880	alpha-phosphates
+T53	Protein_part 907 912	Lys94
+T54	Chemical 918 930	2'-hydroxyls
+T55	Chemical 939 942	CTP
+T56	Chemical 947 950	ATP
+T57	Chemical 964 969	amino
+T58	Molecular_Part 970 975	group
+T59	Protein_part 979 984	Lys60
+T60	Chemical 990 1005	pyrimidine ring
+T61	Chemical 1009 1012	CTP
+T62	Chemical 1028 1042	hydrogen bonds
+T63	Protein_part 1061 1065	site
+T64	Protein_part 1071 1074	NH2
+T65	Molecular_Part 1075 1080	group
+T66	Chemical 1089 1103	hydrogen bonds
+T67	Chemical 1111 1131	main-chain carbonyls
+T68	Protein_part 1135 1140	Ile12
+T69	Protein_part 1145 1150	Tyr89
+T70	Chemical 1159 1169	pyrimidine
+T71	Chemical 1175 1190	carbonyl oxygen
+T72	Chemical 1201 1214	hydrogen bond
+T73	Chemical 1224 1229	amino
+T74	Molecular_Part 1230 1235	group
+T75	Protein_part 1239 1244	Lys60
+T76	Chemical 1250 1258	nitrogen
+T77	Location 1262 1272	position 3
+T78	Chemical 1280 1295	pyrimidine ring
+T79	Chemical 1299 1307	hydrogen
+T80	Protein 1320 1333	main-chain NH
+T81	Molecular_Part 1334 1339	group
+T82	Protein_part 1343 1348	Ile12
+T83	Chemical 1354 1365	purine ring
+T84	Chemical 1369 1372	ATP
+T85	Process 1393 1405	interactions
+T86	Protein_part 1411 1419	residues
+T87	Protein_part 1438 1442	site
+T88	Protein_part 1448 1458	purine NH2
+T89	Chemical 1478 1483	amino
+T90	Molecular_Part 1484 1489	group
+T91	Chemical 1493 1496	CTP
+T92	Chemical 1508 1521	hydrogen bond
+T93	Chemical 1529 1555	main-chain carbonyl oxygen
+T94	Protein_part 1559 1564	Ile12
+T95	Chemical 1570 1581	N3 nitrogen
+T96	Chemical 1601 1606	amino
+T97	Molecular_Part 1607 1612	group
+T98	Protein_part 1616 1621	Lys60
+T99	Chemical 1631 1657	N1 nitrogen hydrogen bonds
+T100	Protein_part 1665 1667	NH
+T101	Molecular_Part 1668 1673	group
+T102	Protein_part 1677 1682	Ile12
+T103	Process 1688 1695	binding
+T104	Chemical 1699 1702	CTP
+T105	Chemical 1707 1710	ATP
+T106	Protein_part 1729 1733	site
+T107	Process 1741 1749	presence
+T108	Chemical 1753 1771	phosphonoacetamide
+T109	Chemical 1776 1784	malonate
+T110	Unknown 1817 1826	structure
+T111	Process 1834 1852	allosteric binding
+T112	Protein_part 1853 1857	site
+T113	Protein_part 1879 1885	domain
+T114	Chemical 1907 1910	CTP
+T115	Unknown 1919 1928	structure
+T116	Parameter 1934 1941	average
+T117	Process 1942 1952	separation
+T118	Protein 1975 1982	trimers
+T119	Value 1996 2015	approximately 0.5 A
+T120	Process 2036 2041	shift
+T121	Geometrical_part 2049 2069	quaternary structure
+T122	State 2081 2088	T state
+T123	Chemical 2097 2101	CTP-
+T124	Chemical 2106 2109	ATP
+T125	Protein 2118 2125	R-state
+T126	Geometrical_part 2126 2136	structures
+T127	Process 2142 2149	binding
+T128	Chemical 2167 2185	phosphonoacetamide
+T129	Chemical 2190 2198	malonate
+T130	Geometrical_part 2219 2229	structures
+T131	Protein_part 2237 2249	active sites
+T132	Parameter 2277 2287	resolution
+T133	Value 2291 2296	2.8 A

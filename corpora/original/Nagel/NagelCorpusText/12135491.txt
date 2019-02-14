@@ -1,0 +1,7 @@
+The p25(rum1) is an inhibitor of Cdc2 kinase expressed in fission yeast and plays an important role in cell-cycle control . 
+As its amino-acid sequence suggests that p25( rum1) has putative phosphorylation sites for mitogen-activated protein kinase (MAPK), we investigated the ability of MAPK to phosphorylate p25(rum1) . 
+Direct in vitro kinase assay using GST-fusion proteins of wild-type as well as various mutants of p25(rum1) demonstrated that MAPK phosphorylates the N-terminal portion of p25(rum1) and residues Thr13 and Ser19 are major phosphorylation sites for MAPK . 
+In addition, phosphorylation of p25(rum1) by MAPK revealed markedly reduced Cdc2 kinase inhibitor ability of the protein . 
+Together with the fact that replacement of both Thr13 and Ser19 with Glu, which mimics the phosphorylated state of these residues, also significantly reduces the activity of p25(rum1) as a Cdc2 inhibitor, it was suggested that the phosphorylation of Thr13 and Ser19 negatively regulates the function of p25(rum1) . 
+Further evidence indicates that phosphorylation of Thr13 and Ser19 may retain a negative effect on the function of p25(rum1) even in vivo . 
+Therefore, MAPK may regulate the function of p25(rum1) via phosphorylation of its Thr and Ser residues and thus participate in cell cycle control in fission yeast . 

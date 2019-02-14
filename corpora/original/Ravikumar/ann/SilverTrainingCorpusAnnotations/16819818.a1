@@ -1,0 +1,77 @@
+T1	Protein 38 84	N5-carboxyaminoimidazole ribonucleotide mutase
+T2	Organism 106 115	bacterium
+T3	Chemical 116 133	Acetobacter aceti
+T4	Protein 135 198	N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) mutase (PurE)
+T5	Process 224 239	interconversion
+T6	Chemical 243 247	acid
+T7	Chemical 255 272	compounds N5-CAIR
+T8	Chemical 277 325	4-carboxy-5-aminoimidazole ribonucleotide (CAIR)
+T9	Unknown 344 348	PurE
+T10	Organism 371 380	bacterium
+T11	Chemical 381 407	Acetobacter aceti (AaPurE)
+T12	Process 425 435	adaptation
+T13	Chemical 439 443	acid
+T14	Parameter 444 446	pH
+T15	Process 455 460	roles
+T16	Protein_part 474 488	residues His59
+T17	Protein_part 493 498	His89
+T18	Chemical 505 511	AaPurE
+T19	Organism 516 532	Escherichia coli
+T20	Unknown 533 537	PurE
+T21	Chemical 562 566	acid
+T22	Process 576 588	inactivation
+T23	Chemical 598 604	AaPurE
+T24	Parameter 629 631	pH
+T25	Value 632 635	3.5
+T26	Value 651 663	20 degrees C
+T27	Process 671 689	thermal  unfolding
+T28	Parameter 690 701	temperature
+T29	Parameter 709 712	pHs
+T30	Protein_part 714 719	His89
+T31	Process 750 758	function
+T32	Geometrical_part 762 766	part
+T33	Molecule 772 778	proton
+T34	Unknown 785 791	system
+T35	Parameter 797 809	kcat pH-rate
+T36	Process 842 852	assignment
+T37	Unknown 856 859	pK1
+T38	Process 876 887	protonation
+T39	Chemical 897 907	nucleotide
+T40	Unknown 912 915	pK2
+T41	Process 919 932	deprotonation
+T42	Protein_part 936 941	His59
+T43	Value 945 951	1.85 A
+T44	Parameter 952 962	resolution
+T45	Geometrical_part 963 980	crystal structure
+T46	Chemical 997 1015	mutant H59N-AaPurE
+T47	Chemical 1026 1030	CAIR
+T48	Process 1043 1054	protonation
+T49	Chemical 1058 1065	CAIR C4
+T50	Process 1083 1090	absence
+T51	Protein_part 1094 1099	His59
+T52	Organism 1115 1122	species
+T53	Chemical 1135 1142	isoCAIR
+T54	Parameter 1143 1191	[4(R)-carboxy-5-iminoimidazoline ribonucleotide]
+T55	Process 1229 1241	interactions
+T56	Protein 1251 1257	enzyme
+T57	Chemical 1264 1278	water molecule
+T58	Chemical 1284 1295	carboxylate
+T59	Molecular_Part 1296 1302	moiety
+T60	Geometrical_part 1328 1334	pocket
+T61	Chemical 1358 1368	nucleotide
+T62	Process 1369 1384	decarboxylation
+T63	Process 1400 1409	direction
+T64	Chemical 1411 1418	N5-CAIR
+T65	Chemical 1423 1427	CAIR
+T66	Unknown 1437 1469	E., Kappock,  T. J., Osuji, C., 
+T67	Unknown 1473 1483	Stubbe, J.
+T68	Unknown 1491 1503	Biochemistry
+T69	Process 1520 1531	Comparisons
+T70	Process 1598 1607	direction
+T71	Unknown 1608 1612	PurE
+T72	Process 1620 1631	protonation
+T73	Chemical 1635 1642	CAIR C4
+T74	Process 1674 1678	role
+T75	Protein_part 1693 1698	His59
+T76	Process 1726 1741	decarboxylation
+T77	Molecule 1759 1787	CO2-azaenolate  intermediate

@@ -1,0 +1,87 @@
+T1	Geometrical_part 0 18	Crystal structures
+T2	Organism 23 28	HIV-1
+T3	Protein 29 50	reverse transcriptase
+T4	Category 54 63	complexes
+T5	Chemical 75 97	pyridinone derivatives
+T6	Category 114 139	non-nucleoside inhibitors
+T7	Chemical 175 179	drug
+T8	Organism 190 197	strains
+T9	Process 206 215	treatment
+T10	Physiology 219 223	AIDS
+T11	Process 229 237	efficacy
+T12	Chemical 245 250	drugs
+T13	Category 262 296	non-nucleoside inhibitors (NNRTIs)
+T14	Organism 300 305	HIV-1
+T15	Protein 306 332	reverse transcriptase (RT)
+T16	Chemical 379 383	drug
+T17	Organism 394 401	viruses
+T18	Protein_part 403 412	Lys103Asn
+T19	Protein_part 414 423	Tyr181Cys
+T20	Protein_part 429 438	Tyr188Leu
+T21	Protein 467 469	RT
+T22	Process 470 479	mutations
+T23	Parameter 491 501	resistance
+T24	Category 505 511	NNRTIs
+T25	Technique 537 561	X-ray crystal structures
+T26	Protein 566 568	RT
+T27	Process 590 599	different
+T28	Chemical 601 623	pyridinone derivatives
+T29	Chemical 625 632	R157208
+T30	Chemical 634 641	R165481
+T31	Chemical 647 654	R221239
+T32	Value 659 663	2.95
+T33	Value 665 668	2.9
+T34	Value 674 680	2.43 A
+T35	Parameter 681 691	resolution
+T36	Category 717 724	ligands
+T37	Parameter 759 778	inhibitory activity
+T38	Protein 787 799	wild-type RT
+T39	Parameter 813 823	activities
+T40	Chemical 832 836	drug
+T41	Molecule 847 854	mutants
+T42	Unknown 856 863	R165481
+T43	Unknown 868 875	R221239
+T44	Category 893 899	NNRTIs
+T45	Process 908 915	binding
+T46	Process 945 953	contacts
+T47	Protein_part 959 965	Tyr181
+T48	Chemical 973 982	compounds
+T49	Organism 1010 1015	HIV-1
+T50	Protein 1016 1018	RT
+T51	Chemical 1023 1027	drug
+T52	Unknown 1038 1046	variants
+T53	Protein_part 1058 1067	Tyr181Cys
+T54	Protein 1072 1084	Lys103Asn RT
+T55	Parameter 1092 1102	properties
+T56	Chemical 1126 1137	iodine atom
+T57	Chemical 1145 1160	pyridinone ring
+T58	Category 1169 1179	inhibitors
+T59	Chemical 1204 1230	main-chain carbonyl oxygen
+T60	Protein_part 1234 1240	Tyr188
+T61	Chemical 1245 1270	acrylonitrile substituent
+T62	Unknown 1274 1281	R165481
+T63	Parameter 1310 1318	activity
+T64	Chemical 1326 1334	compound
+T65	Protein 1343 1355	wild-type RT
+T66	Molecule 1369 1376	mutants
+T67	Category 1416 1426	inhibitors
+T68	Unknown 1462 1470	elements
+T69	Organism 1474 1479	HIV-1
+T70	Protein 1480 1482	RT
+T71	Protein 1490 1500	polymerase
+T72	Protein_part 1501 1515	catalytic site
+T73	Unknown 1520 1527	R221239
+T74	Molecular_Part 1549 1555	linker
+T75	Chemical 1561 1571	furan ring
+T76	Process 1585 1597	interactions
+T77	Protein_part 1603 1609	Val106
+T78	Protein_part 1611 1617	Phe227
+T79	Protein_part 1623 1629	Pro236
+T80	Process 1637 1645	contacts
+T81	Parameter 1668 1687	inhibitory activity
+T82	Unknown 1691 1698	R221239
+T83	Organism 1711 1724	HIV-1 strains
+T84	Protein_part 1740 1749	Val106Ala
+T85	Protein_part 1751 1760	Tyr188Leu
+T86	Protein_part 1766 1775	Phe227Cys
+T87	Process 1776 1785	mutations

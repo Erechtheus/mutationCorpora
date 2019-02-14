@@ -1,0 +1,93 @@
+T1	Process 14 26	modification
+T2	Organism 30 50	hepatitis A virus 3C
+T3	Protein 51 59	protease
+T4	Protein_part 65 71	serine
+T5	Chemical 80 92	beta-lactone
+T6	Process 104 119	crystallization
+T7	Process 124 133	formation
+T8	Protein_part 150 165	catalytic triad
+T9	Protein_part 173 184	active site
+T10	Organism 186 212	Hepatitis A virus (HAV) 3C
+T11	Protein 213 223	proteinase
+T12	Unknown 229 235	member
+T13	Protein 253 271	cysteine proteases
+T14	Organism 310 315	viral
+T15	Protein 316 327	polyprotein
+T16	Process 331 339	function
+T17	Organism 354 359	viral
+T18	Process 360 370	maturation
+T19	Process 412 422	similarity
+T20	Protein_part 432 434	3C
+T21	Protein 439 456	3C-like proteases
+T22	Process 479 485	target
+T23	Process 494 505	development
+T24	Physiology 509 518	antiviral
+T25	Chemical 519 524	drugs
+T26	Chemical 535 543	solution
+T27	Technique 544 547	NMR
+T28	Unknown 574 597	Cys24Ser (C24S) variant
+T29	Organism 601 607	HAV 3C
+T30	Protein 608 615	protein
+T31	Parameter 642 652	properties
+T32	Protein 687 693	enzyme
+T33	Chemical 726 772	N-benzyloxycarbonyl-l-serine-beta-lactone (1a)
+T34	Process 781 791	alkylation
+T35	Chemical 799 810	sulfur atom
+T36	Protein_part 818 836	active site Cys172
+T37	Process 847 862	crystallization
+T38	Molecule 886 892	adduct
+T39	Process 902 910	reaction
+T40	Technique 931 936	X-ray
+T41	Technique 948 956	analysis
+T42	Process 977 989	modification
+T43	Chemical 997 1014	epsilon2-nitrogen
+T44	Geometrical_part 1022 1029	surface
+T45	Protein_part 1030 1036	His102
+T46	Chemical 1044 1056	beta-lactone
+T47	Process 1065 1073	reaction
+T48	Protein_part 1077 1083	Cys172
+T49	Chemical 1085 1087	Re
+T50	Technique 1107 1158	heteronuclear multiple quantum coherence (HMQC) NMR
+T51	Parameter 1159 1166	spectra
+T52	Process 1244 1256	modification
+T53	Parameter 1271 1272	/
+T54	Value 1273 1276	3:1
+T55	Parameter 1277 1282	ratio
+T56	Unknown 1286 1287	S
+T57	Protein_part 1302 1308	Cys172
+T58	Unknown 1312 1313	N
+T59	Protein_part 1328 1334	His102
+T60	Category 1347 1354	product
+T61	Process 1397 1408	interaction
+T62	Chemical 1421 1427	phenyl
+T63	Geometrical_part 1428 1432	ring
+T64	Chemical 1441 1468	N-benzyloxycarbonyl (N-Cbz)
+T65	Molecular_Part 1469 1475	moiety
+T66	Geometrical_part 1494 1500	pocket
+T67	Protein 1519 1535	protein molecule
+T68	Unknown 1543 1550	crystal
+T69	Process 1588 1595	changes
+T70	Protein_part 1617 1628	active site
+T71	Protein 1636 1647	3C protease
+T72	Process 1667 1676	formation
+T73	Protein_part 1694 1709	catalytic triad
+T74	Protein_part 1715 1720	Asp84
+T75	Chemical 1735 1748	hydrogen bond
+T76	Protein_part 1754 1759	His44
+T77	Protein 1774 1785	3C protease
+T78	Protein_part 1798 1804	Cys172
+T79	Protein 1852 1888	His102 N(epsilon2)-alkylated protein
+T80	Protein 1921 1930	enzymatic
+T81	Parameter 1931 1939	activity
+T82	Chemical 1984 2029	N-iodoacetyl-valine-phenylalanine-amide (IVF)
+T83	Chemical 2034 2042	solution
+T84	Unknown 2050 2057	crystal
+T85	Chemical 2091 2103	beta-lactone
+T86	Category 2104 2113	inhibitor
+T87	Chemical 2118 2126	solution
+T88	Chemical 2152 2155	IVF
+T89	Organism 2161 2164	HAV
+T90	Unknown 2165 2179	3C-1a crystals
+T91	Unknown 2220 2227	crystal
+T92	Process 2266 2278	interactions
+T93	Protein_part 2298 2309	active site

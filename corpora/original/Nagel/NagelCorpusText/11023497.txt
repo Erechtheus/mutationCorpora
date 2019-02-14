@@ -1,0 +1,13 @@
+Chemokines are mediators in inflammatory and autoimmune disorders . 
+Aminoterminal truncation of chemokines results in altered specific activities and receptor recognition patterns . 
+Truncated forms of the CXC chemokine interleukin (IL)-8 are more active than full-length IL-8 (1-77), provided the Glu-Leu-Arg (ELR) motif remains intact . 
+Here, a positive feedback loop is demonstrated between gelatinase B, a major secreted matrix metalloproteinase ( MMP-9) from neutrophils, and IL-8, the prototype chemokine active on neutrophils . 
+Natural human neutrophil progelatinase B was purified to homogeneity and activated by stromelysin-1 . 
+Gelatinase B truncated IL-8(1-77) into IL-8(7-77), resulting in a 10- to 27-fold higher potency in neutrophil activation, as measured by the increase in intracellular Ca(++) concentration, secretion of gelatinase B, and neutrophil chemotaxis . 
+This potentiation correlated with enhanced binding to neutrophils and increased signaling through CXC chemokine receptor-1 (CXCR1) , but it was significantly less pronounced on a CXCR2-expressing cell line . 
+Three other CXC chemokines-connective tissue-activating peptide-III (CTAP-III) , platelet factor-4 (PF-4), and GRO-alpha -were degraded by gelatinase B . 
+In contrast, the CC chemokines RANTES and monocyte chemotactic protein-2 (MCP-2) were not digested by this enzyme . 
+The observation of differing effects of neutrophil gelatinase B on the proteolysis of IL-8 versus other CXC chemokines and on CXC receptor usage by processed IL-8 yielded insights into the relative activities of chemokines . 
+This led to a better understanding of regulator (IL-8) and effector molecules (gelatinase B) of neutrophils and of mechanisms underlying leukocytosis, shock syndromes, and stem cell mobilization by IL-8 . 
+(Blood . 
+2000;96:2673-2681) . 

@@ -1,0 +1,85 @@
+T1	Chemical 21 31	nucleotide
+T2	Process 32 39	binding
+T3	Protein_part 40 46	domain
+T4	Protein 54 61	KdpFABC
+T5	Category 62 69	complex
+T6	Organism 75 91	Escherichia coli
+T7	Process 106 113	binding
+T8	Protein 120 134	P-type ATPases
+T9	Protein 161 168	enzymes
+T10	Process 181 197	active transport
+T11	Protein_part 210 218	residues
+T12	Body_part 237 246	membranes
+T13	Protein 252 264	KdpB subunit
+T14	Organism 272 283	prokaryotic
+T15	Protein 284 294	Kdp-ATPase
+T16	Protein 296 303	KdpFABC
+T17	Category 304 311	complex
+T18	Protein_part 335 342	regions
+T19	Protein 360 386	class II-IV P-type ATPases
+T20	Protein 439 461	class IA P-type ATPase
+T21	Technique 484 487	NMR
+T22	Unknown 488 497	structure
+T23	Chemical 505 512	AMP-PNP
+T24	Chemical 519 529	nucleotide
+T25	Process 530 537	binding
+T26	Protein_part 538 550	domain KdpBN
+T27	Organism 558 574	Escherichia coli
+T28	Protein 575 585	Kdp-ATPase
+T29	Parameter 594 604	resolution
+T30	Molecular_Part 619 625	moiety
+T31	Chemical 633 643	nucleotide
+T32	Process 664 671	binding
+T33	Geometrical_part 672 678	pocket
+T34	Protein_part 682 690	Phe(377)
+T35	Protein_part 696 704	Lys(395)
+T36	Process 717 725	stacking
+T37	Chemical 732 741	cation-pi
+T38	Process 742 753	interaction
+T39	Protein_part 777 785	residues
+T40	Location 793 798	outer
+T41	Process 810 817	binding
+T42	Geometrical_part 818 824	pocket
+T43	Protein_part 826 829	Arg
+T44	Protein_part 836 844	Arg(382)
+T45	Protein_part 846 854	Asp(399)
+T46	Protein_part 860 868	Glu(348)
+T47	Chemical 895 907	triphosphate
+T48	Molecular_Part 908 913	group
+T49	Process 932 942	attraction
+T50	Process 947 956	repulsion
+T51	Process 968 983	phosphorylation
+T52	Protein_part 984 990	domain
+T53	Chemical 996 1006	nucleotide
+T54	Process 1007 1014	binding
+T55	Chemical 1024 1036	corroborated
+T56	Process 1044 1055	replacement
+T57	Protein_part 1068 1076	residues
+T58	Process 1095 1103	mutation
+T59	Protein_part 1104 1109	F377Y
+T60	Chemical 1135 1145	nucleotide
+T61	Parameter 1146 1162	binding capacity
+T62	Process 1172 1183	replacement
+T63	Protein_part 1187 1194	alanine
+T64	Chemical 1211 1221	nucleotide
+T65	Parameter 1222 1240	binding capacities
+T66	Process 1260 1264	loss
+T67	Protein 1268 1274	ATPase
+T68	Parameter 1275 1283	activity
+T69	Process 1296 1304	mutation
+T70	Protein_part 1305 1310	K395A
+T71	Process 1324 1328	loss
+T72	Protein 1332 1338	ATPase
+T73	Parameter 1339 1347	activity
+T74	Chemical 1352 1362	nucleotide
+T75	Parameter 1363 1379	binding affinity
+T76	Protein 1398 1405	protein
+T77	Chemical 1463 1473	nucleotide
+T78	Process 1474 1481	binding
+T79	Parameter 1513 1524	selectivity
+T80	Chemical 1535 1545	nucleotide
+T81	Parameter 1546 1562	binding constant
+T82	Process 1601 1609	turnover
+T83	Parameter 1610 1614	rate
+T84	Process 1631 1639	reaction
+T85	Protein 1653 1663	Kdp-ATPase

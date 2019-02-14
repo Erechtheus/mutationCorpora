@@ -1,0 +1,89 @@
+T1	Unknown 0 9	Structure
+T2	Physiology 26 46	respiratory syndrome
+T3	Organism 47 58	coronavirus
+T4	Protein_part 59 82	receptor-binding domain
+T5	Molecule 111 119	antibody
+T6	Physiology 138 158	respiratory syndrome
+T7	Organism 159 170	coronavirus
+T8	Unknown 172 180	SARS-CoV
+T9	Unknown 185 188	SCV
+T10	Protein 255 263	receptor
+T11	Protein 265 303	angiotensin-converting enzyme 2 (ACE2)
+T12	Protein_part 317 346	receptor-binding domain (RBD)
+T13	Geometrical_part 354 362	envelope
+T14	Parameter 364 369	spike
+T15	Unknown 371 372	S
+T16	Protein 374 386	glycoprotein
+T17	Protein_part 392 395	RBD
+T18	Physiology 404 415	immunogenic
+T19	Unknown 431 434	SCV
+T20	Process 435 449	neutralization
+T21	Molecule 497 507	antibodies
+T22	Protein 533 537	ACE2
+T23	Process 563 568	basis
+T24	Protein_part 572 575	RBD
+T25	Technique 576 590	immunogenicity
+T26	Protein_part 592 595	RBD
+T27	Process 605 619	neutralization
+T28	Process 629 633	role
+T29	Protein_part 637 640	RBD
+T30	Process 644 649	entry
+T31	Process 670 677	binding
+T32	Protein 681 685	ACE2
+T33	Body_part 725 731	immune
+T34	Process 732 741	responses
+T35	Protein_part 758 761	RBD
+T36	Protein 768 775	antigen
+T37	Organism 794 799	human
+T38	Molecule 800 808	antibody
+T39	Physiology 830 837	healthy
+T40	Organism 838 848	volunteers
+T41	Unknown 894 897	SCV
+T42	Molecule 911 930	monoclonal antibody
+T43	Molecule 932 936	m396
+T44	Protein 958 962	ACE2
+T45	Process 967 974	binding
+T46	Protein_part 978 981	RBD
+T47	Geometrical_part 1002 1019	crystal structure
+T48	Protein_part 1027 1039	RBD-antibody
+T49	Category 1040 1047	complex
+T50	Value 1051 1056	2.3-A
+T51	Parameter 1057 1067	resolution
+T52	Molecule 1073 1081	antibody
+T53	Protein_part 1088 1091	RBD
+T54	Unknown 1092 1101	structure
+T55	Protein_part 1161 1169	segments
+T56	Protein_part 1171 1187	residues 376-381
+T57	Protein_part 1192 1199	503-512
+T58	Chemical 1211 1225	disulfide bond
+T59	Protein_part 1235 1247	residues 378
+T60	Protein_part 1252 1255	511
+T61	Unknown 1286 1295	structure
+T62	Molecule 1303 1307	m396
+T63	Protein_part 1314 1317	RBD
+T64	Protein 1366 1370	ACE2
+T65	Protein_part 1377 1380	RBD
+T66	Protein 1386 1402	antibody epitope
+T67	Unknown 1421 1436	10-residue-long
+T68	Protein 1448 1459	beta6-beta7
+T69	Geometrical_part 1460 1464	loop
+T70	Protein 1483 1487	ACE2
+T71	Protein_part 1504 1512	residues
+T72	Protein_part 1514 1521	Ile-489
+T73	Protein_part 1526 1533	Tyr-491
+T74	Process 1589 1597	function
+T75	Technique 1624 1642	SCV immunogenicity
+T76	Process 1647 1661	neutralization
+T77	Process 1667 1678	development
+T78	Unknown 1682 1685	SCV
+T79	Protein 1712 1729	antibody paratope
+T80	Protein 1734 1741	epitope
+T81	Chemical 1793 1811	anti-SCV  vaccines
+T82	Unknown 1869 1872	SCV
+T83	Process 1873 1878	entry
+T84	Protein 1902 1906	ACE2
+T85	State 1915 1929	conformational
+T86	Process 1930 1937	changes
+T87	Protein_part 1945 1948	RBD
+T88	State 1971 1985	conformational
+T89	Protein 2022 2033	coreceptors

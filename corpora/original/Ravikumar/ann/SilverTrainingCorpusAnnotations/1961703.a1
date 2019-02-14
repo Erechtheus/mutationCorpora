@@ -1,0 +1,57 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Organism 35 51	Escherichia coli
+T3	Protein 52 81	phosphocarrier protein IIIglc
+T4	Geometrical_part 87 104	crystal structure
+T5	Organism 147 163	Escherichia coli
+T6	Chemical 165 179	phosphocarrier
+T7	Protein 203 217	protein IIIglc
+T8	Process 266 287	molecular replacement
+T9	Parameter 323 331	R-factor
+T10	Value 335 340	0.166
+T11	Value 365 370	2.1-A
+T12	Parameter 371 381	resolution
+T13	Unknown 390 393	rms
+T14	Process 394 403	deviation
+T15	Value 408 415	0.020 A
+T16	Parameter 427 439	bond lengths
+T17	Value 444 455	3.2 degrees
+T18	Parameter 467 478	bond angles
+T19	Molecule 484 492	molecule
+T20	Protein_part 498 508	beta-sheet
+T21	Food 509 517	sandwich
+T22	Geometrical_part 528 540	antiparallel
+T23	Protein_part 541 548	strands
+T24	Location 559 563	side
+T25	Protein_part 590 597	helices
+T26	Body_part 598 602	line
+T27	Protein_part 624 635	active site
+T28	Geometrical_part 678 688	depression
+T29	Value 689 707	approximately 18 A
+T30	Parameter 711 719	diameter
+T31	Geometrical_part 744 748	face
+T32	Protein_part 754 765	side chains
+T33	Protein_part 773 806	active site histidine residues 75
+T34	Protein_part 812 814	90
+T35	Body_part 815 819	face
+T36	Location 838 844	center
+T37	Geometrical_part 852 862	depression
+T38	Location 873 885	N3 positions
+T39	Chemical 897 904	solvent
+T40	Value 919 924	3.3 A
+T41	Molecule 958 965	adducts
+T42	Chemical 971 980	phosphate
+T43	Chemical 982 997	Chloroplatinate
+T44	Chemical 1006 1021	divalent adduct
+T45	Chemical 1032 1040	histidyl
+T46	Protein_part 1041 1052	side chains
+T47	Chemical 1074 1086	phosphodonor
+T48	Process 1087 1095	reaction
+T49	State 1128 1144	transition state
+T50	Technique 1162 1167	patch
+T51	Unknown 1186 1193	crystal
+T52	Process 1194 1201	contact
+T53	Process 1224 1235	association
+T54	Unknown 1239 1245	IIIglc
+T55	Parameter 1257 1267	components
+T56	Chemical 1275 1294	phosphoenolpyruvate
+T57	Protein 1305 1330	phosphotransferase system

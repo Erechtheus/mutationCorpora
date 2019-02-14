@@ -1,0 +1,90 @@
+T1	Chemical 0 12	Chloride ion
+T2	Unknown 33 37	Bohr
+T3	Process 38 44	effect
+T4	Organism 57 62	human
+T5	Protein 63 78	hemoglobin beta
+T6	Protein 80 93	V1M+H2deleted
+T7	Organism 105 110	human
+T8	Protein 111 121	hemoglobin
+T9	Protein 123 127	beta
+T10	Protein 129 141	V1M+H2 delta
+T11	Technique 166 174	Analysis
+T12	Chemical 182 188	oxygen
+T13	Process 189 196	binding
+T14	Parameter 197 203	curves
+T15	Parameter 216 218	pH
+T16	Value 219 222	8.3
+T17	Unknown 234 238	Bohr
+T18	Process 239 245	effect
+T19	Process 282 290	mutation
+T20	Process 316 329	stabilization
+T21	Unknown 338 345	T-state
+T22	State 346 358	conformation
+T23	Value 362 374	0.9 kcal/mol
+T24	Geometrical_part 380 397	crystal structure
+T25	Chemical 401 411	deoxy-beta
+T26	Protein 414 426	V1M+H2 delta
+T27	Value 451 456	2.2-A
+T28	Parameter 457 467	resolution
+T29	Chemical 490 505	deoxy structure
+T30	Organism 509 514	human
+T31	Protein 515 525	hemoglobin
+T32	Parameter 538 548	resolution
+T33	Organism 553 558	human
+T34	Protein 559 569	hemoglobin
+T35	Chemical 574 587	sulfate anion
+T36	Protein 607 618	beta-chains
+T37	Category 624 631	complex
+T38	Physiology 632 639	network
+T39	Chemical 643 650	H-bonds
+T40	Process 669 681	interactions
+T41	Protein_part 691 705	amino terminus
+T42	Protein 710 721	Lys beta 82
+T43	Protein 730 747	mutant hemoglobin
+T44	Food 753 763	shortening
+T45	Protein_part 771 792	amino-terminal region
+T46	Protein_part 802 807	helix
+T47	Protein_part 814 821	residue
+T48	Process 837 846	formation
+T49	Protein 853 863	intrachain
+T50	Process 878 889	interaction
+T51	Chemical 902 922	amino-terminal amino
+T52	Protein 927 938	Asp beta 79
+T53	Chemical 960 967	sulfate
+T54	Process 968 975	binding
+T55	Protein_part 976 980	site
+T56	Chemical 990 997	sulfate
+T57	Chemical 1017 1032	water molecules
+T58	Organism 1051 1056	human
+T59	Protein 1057 1067	hemoglobin
+T60	Chemical 1073 1081	alkaline
+T61	Unknown 1082 1086	Bohr
+T62	Process 1087 1093	effect
+T63	Protein 1098 1102	beta
+T64	Protein 1104 1116	V1M+H2 delta
+T65	Process 1142 1150	presence
+T66	Chemical 1154 1157	Cl-
+T67	Chemical 1183 1190	sulfate
+T68	Process 1191 1198	binding
+T69	Protein_part 1199 1203	site
+T70	Organism 1207 1212	human
+T71	Protein 1213 1223	hemoglobin
+T72	Chemical 1241 1244	Cl-
+T73	Process 1245 1252	binding
+T74	Protein_part 1253 1257	site
+T75	Protein 1272 1297	amino-terminal Val beta 1
+T76	Chemical 1315 1321	oxygen
+T77	Chemical 1329 1332	Cl-
+T78	Process 1333 1340	binding
+T79	Protein 1344 1354	hemoglobin
+T80	Chemical 1370 1375	Cl(-)
+T81	Unknown 1386 1390	Bohr
+T82	Process 1391 1397	effect
+T83	Technique 1399 1407	Analysis
+T84	Chemical 1415 1421	oxygen
+T85	Process 1422 1429	binding
+T86	Parameter 1430 1436	curves
+T87	Chemical 1457 1463	oxygen
+T88	Chemical 1471 1479	Cl- ions
+T89	Process 1498 1505	binding
+T90	Chemical 1519 1534	oxygen molecule

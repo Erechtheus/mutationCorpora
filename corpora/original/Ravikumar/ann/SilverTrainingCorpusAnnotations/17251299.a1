@@ -1,0 +1,75 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 31	poliovirus
+T3	Protein 32 43	3CD protein
+T4	Protein 61 69	protease
+T5	Unknown 74 83	precursor
+T6	Protein 91 119	RNA-dependent RNA polymerase
+T7	Organism 121 131	Poliovirus
+T8	Protein 132 135	3CD
+T9	Protein 157 164	protein
+T10	Unknown 182 191	precursor
+T11	Protein 199 215	protease 3C(pro)
+T12	Organism 224 229	viral
+T13	Protein 230 248	polymerase 3D(pol)
+T14	Process 266 270	role
+T15	Process 278 285	control
+T16	Organism 289 294	viral
+T17	Process 295 306	replication
+T18	Protein 317 320	3CD
+T19	Protein 343 351	protease
+T20	Protein 362 372	polymerase
+T21	Parameter 373 381	activity
+T22	Geometrical_part 402 420	crystal structures
+T23	Protein 424 427	3CD
+T24	Value 433 438	3.4-A
+T25	Parameter 439 449	resolution
+T26	Protein_part 458 462	G64S
+T27	Molecule 472 478	mutant
+T28	Unknown 482 489	3D(pol)
+T29	Value 495 500	3.0-A
+T30	Parameter 501 511	resolution
+T31	Protein 520 523	3CD
+T32	Geometrical_part 524 533	structure
+T33	Protein_part 539 541	3C
+T34	Protein_part 546 556	3D domains
+T35	Protein_part 588 599	polypeptide
+T36	Molecular_Part 600 606	linker
+T37	Process 635 643	cleavage
+T38	Process 651 662	arrangement
+T39	Process 693 704	proteolysis
+T40	Protein 710 720	polymerase
+T41	Protein_part 721 732	active site
+T42	Protein 755 758	3CD
+T43	Protein 767 790	3D(pol) G64S structures
+T44	Process 804 814	disruption
+T45	Physiology 820 827	network
+T46	Protein_part 853 861	residues
+T47	Protein_part 869 880	active site
+T48	Process 893 900	changes
+T49	Process 953 964	differences
+T50	Protein 981 991	polymerase
+T51	Parameter 992 1002	activities
+T52	Process 1014 1021	packing
+T53	Process 1022 1030	contacts
+T54	Geometrical_part 1039 1047	symmetry
+T55	Molecule 1056 1069	3CD molecules
+T56	Protein_part 1094 1096	3C
+T57	Unknown 1097 1105	domain's
+T58	Protein_part 1106 1116	N terminus
+T59	Unknown 1124 1127	VPg
+T60	Process 1128 1135	binding
+T61	Protein_part 1136 1140	site
+T62	Unknown 1154 1161	3D(pol)
+T63	Process 1190 1202	interactions
+T64	Protein_part 1212 1214	3C
+T65	Protein 1216 1219	3CD
+T66	Protein 1225 1238	3BCD proteins
+T67	Process 1256 1269	uridylylation
+T68	Unknown 1273 1276	VPg
+T69	Process 1288 1298	initiation
+T70	Organism 1303 1308	viral
+T71	Process 1309 1320	replication
+T72	Process 1330 1339	mutations
+T73	Process 1393 1400	effects
+T74	Process 1408 1421	uridylylation
+T75	Process 1422 1430	reaction

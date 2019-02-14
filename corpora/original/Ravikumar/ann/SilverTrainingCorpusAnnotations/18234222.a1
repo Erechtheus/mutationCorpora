@@ -1,0 +1,82 @@
+T1	Process 4 8	role
+T2	Chemical 21 29	hydrogen
+T3	Molecular_Part 38 44	groups
+T4	Chemical 57 64	alcohol
+T5	Process 65 72	binding
+T6	Protein_part 73 78	sites
+T7	Protein 82 90	proteins
+T8	Protein 128 132	LUSH
+T9	Process 194 201	effects
+T10	Chemical 205 212	alcohol
+T11	Process 213 224	consumption
+T12	Process 248 255	binding
+T13	Protein_part 268 273	sites
+T14	Protein 277 294	neuronal proteins
+T15	Protein 303 315	ion channels
+T16	Parameter 325 335	components
+T17	Body_part 339 347	neuronal
+T18	Process 348 357	signaling
+T19	Process 358 366	cascades
+T20	Process 368 375	Binding
+T21	Process 386 393	targets
+T22	Chemical 414 419	water
+T23	Process 448 459	alterations
+T24	Protein 463 470	protein
+T25	Geometrical_part 471 480	structure
+T26	Process 516 528	interactions
+T27	Chemical 549 556	alcohol
+T28	Parameter 557 568	sensitivity
+T29	Protein 585 592	protein
+T30	Geometrical_part 657 675	crystal structures
+T31	Organism 683 706	Drosophila melanogaster
+T32	Protein 707 719	protein LUSH
+T33	Category 723 732	complexes
+T34	Chemical 738 758	short-chain alcohols
+T35	Process 792 799	effects
+T36	Protein_part 812 822	amino acid
+T37	Process 823 836	substitutions
+T38	Chemical 840 847	alcohol
+T39	Process 848 855	binding
+T40	Process 861 868	effects
+T41	Process 878 891	substitutions
+T42	Protein_part 906 910	S52A
+T43	Protein_part 912 916	T57S
+T44	Protein_part 922 926	T57A
+T45	Technique 985 1006	X-ray crystallography
+T46	Technique 1008 1033	fluorescence spectroscopy
+T47	Process 1039 1056	thermal unfolding
+T48	Process 1088 1095	binding
+T49	Chemical 1099 1106	ethanol
+T50	Process 1136 1143	changes
+T51	Process 1151 1162	composition
+T52	Chemical 1170 1177	alcohol
+T53	Process 1178 1185	binding
+T54	Protein_part 1186 1190	site
+T55	Protein_part 1205 1208	T57
+T56	Protein_part 1230 1237	residue
+T57	Process 1242 1249	binding
+T58	Chemical 1250 1258	alcohols
+T59	Protein_part 1264 1268	T57A
+T60	Process 1269 1281	substitution
+T61	Process 1303 1310	binding
+T62	Protein_part 1322 1326	T57S
+T63	Process 1327 1339	substitution
+T64	Chemical 1363 1370	ethanol
+T65	Process 1371 1378	binding
+T66	Chemical 1391 1412	longer-chain alcohols
+T67	Process 1429 1440	requirement
+T68	Chemical 1457 1470	hydrogen-bond
+T69	Category 1471 1479	acceptor
+T70	Location 1483 1494	position 52
+T71	Process 1518 1526	presence
+T72	Chemical 1539 1547	hydrogen
+T73	Molecular_Part 1556 1562	groups
+T74	Process 1571 1579	identity
+T75	Chemical 1587 1595	hydrogen
+T76	Protein_part 1604 1612	residues
+T77	Chemical 1642 1649	ethanol
+T78	Process 1650 1657	binding
+T79	Protein_part 1658 1662	site
+T80	Chemical 1730 1739	alcohol's
+T81	Process 1740 1752	interactions
+T82	Protein 1758 1766	proteins

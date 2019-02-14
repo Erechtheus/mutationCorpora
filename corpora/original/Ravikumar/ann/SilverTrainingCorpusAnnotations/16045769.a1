@@ -1,0 +1,60 @@
+T1	Process 4 11	binding
+T2	Chemical 15 18	IMP
+T3	Protein 22 36	ribonuclease A
+T4	Process 42 49	binding
+T5	Chemical 53 79	inosine 5' phosphate (IMP)
+T6	Protein 83 97	ribonuclease A
+T7	Parameter 118 125	kinetic
+T8	Technique 130 152	X-ray crystallographic
+T9	Process 153 164	experiments
+T10	Value 174 179	1.5 A
+T11	Parameter 181 191	resolution
+T12	Chemical 193 196	IMP
+T13	Category 214 223	inhibitor
+T14	Protein 231 237	enzyme
+T15	Unknown 254 255	C
+T16	Geometrical_part 285 290	cleft
+T17	Chemical 310 323	IMP molecules
+T18	Process 335 342	binding
+T19	Chemical 359 372	IMP molecules
+T20	Chemical 404 417	hydrogen bond
+T21	Chemical 422 435	van der Waals
+T22	Process 436 448	interactions
+T23	Protein_part 477 499	B1R1P1B2P0P(-1) region
+T24	Protein_part 523 534	active site
+T25	Chemical 547 560	IMP molecules
+T26	Protein_part 611 621	B2 subsite
+T27	Protein_part 641 647	Glu111
+T28	Chemical 658 668	phosphoryl
+T29	Molecular_Part 669 674	group
+T30	Protein_part 684 686	P1
+T31	Chemical 696 708	IMP molecule
+T32	Chemical 780 790	guanosines
+T33	Chemical 814 816	B1
+T34	Chemical 825 835	phosphoryl
+T35	Molecular_Part 836 841	group
+T36	Unknown 845 850	P(-1)
+T37	Chemical 862 874	IMP molecule
+T38	Protein_part 909 919	C-terminus
+T39	Chemical 925 936	RNase A-IMP
+T40	Category 937 944	complex
+T41	Parameter 993 1003	components
+T42	Protein_part 1007 1020	subsite P(-1)
+T43	Process 1051 1055	role
+T44	Protein_part 1085 1090	Asn71
+T45	Chemical 1138 1145	adenine
+T46	Protein_part 1165 1175	B2 subsite
+T47	Technique 1200 1208	analysis
+T48	Chemical 1216 1219	IMP
+T49	Chemical 1224 1227	AMP
+T50	Category 1228 1237	complexes
+T51	Protein_part 1287 1291	base
+T52	Process 1292 1299	binding
+T53	Protein_part 1300 1308	subsites
+T54	Protein 1312 1319	RNase A
+T55	Process 1383 1390	binding
+T56	Chemical 1394 1397	IMP
+T57	Category 1435 1445	inhibitors
+T58	Body_part 1453 1463	pancreatic
+T59	Protein 1464 1481	RNase superfamily
+T60	Chemical 1493 1503	nucleotide

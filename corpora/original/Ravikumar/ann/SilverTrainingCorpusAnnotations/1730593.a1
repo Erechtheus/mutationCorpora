@@ -1,0 +1,50 @@
+T1	Process 11 18	changes
+T2	Parameter 56 66	efficiency
+T3	Protein 88 108	ribonuclease analogs
+T4	Unknown 114 124	structures
+T5	Protein 171 177	RNases
+T6	Protein_part 200 217	aspartic acid 121
+T7	Protein_part 223 233	asparagine
+T8	Protein_part 237 244	alanine
+T9	Parameter 283 293	resolution
+T10	Value 297 302	2.0 A
+T11	Parameter 304 305	R
+T12	Value 308 313	0.186
+T13	Value 318 323	0.172
+T14	Unknown 352 362	structures
+T15	Value 393 398	1.8-A
+T16	Unknown 399 408	structure
+T17	Parameter 410 411	R
+T18	Value 414 419	0.204
+T19	Protein_part 434 440	active
+T20	Protein_part 441 454	aspartic acid
+T21	Protein 466 472	enzyme
+T22	Unknown 482 503	P.D., Doscher, M.S., 
+T23	Unknown 507 524	Edwards, B. F. P.
+T24	Unknown 532 546	J. Biol. Chem.
+T25	Process 590 597	changes
+T26	Parameter 626 635	magnitude
+T27	Process 662 672	variations
+T28	Category 716 723	complex
+T29	Protein 728 735	RNase A
+T30	Process 771 778	changes
+T31	Process 791 799	movement
+T32	Geometrical_part 807 811	loop
+T33	Protein_part 823 837	residues 65-72
+T34	Protein_part 852 863	active site
+T35	Process 892 902	relocation
+T36	Chemical 933 948	water molecules
+T37	Process 966 980	rearrangements
+T38	Chemical 989 1005	hydrogen bonding
+T39	Physiology 1006 1013	network
+T40	Protein_part 1021 1032	active site
+T41	Process 1039 1046	changes
+T42	Protein_part 1082 1086	site
+T43	Process 1094 1107	modifications
+T44	Molecule 1155 1163	molecule
+T45	Process 1194 1201	changes
+T46	Unknown 1222 1228	analog
+T47	Protein_part 1237 1247	asparagine
+T48	Unknown 1248 1254	analog
+T49	Process 1258 1273	destabilization
+T50	Protein_part 1296 1324	active  site residue His-119

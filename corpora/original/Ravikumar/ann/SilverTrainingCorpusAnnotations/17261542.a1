@@ -1,0 +1,63 @@
+T1	Process 21 25	role
+T2	Protein_part 33 62	Carboxyl-terminal leucine-122
+T3	Parameter 66 69	FMN
+T4	Protein 78 85	protein
+T5	Technique 115 123	analysis
+T6	Molecule 125 132	Mutants
+T7	Protein 136 182	flavin mononucleotide-binding protein (FMN-bp)
+T8	Technique 196 221	site-directed mutagenesis
+T9	Process 241 245	role
+T10	Protein_part 249 273	carboxyl-terminal Leu122
+T11	Protein 290 297	subunit
+T12	Parameter 313 329	redox potentials
+T13	Molecular_Part 343 359	prosthetic group
+T14	Geometrical_part 377 385	tertiary
+T15	Geometrical_part 390 410	quaternary structure
+T16	Process 428 437	oxidation
+T17	Parameter 448 458	potentials
+T18	Parameter 460 463	FMN
+T19	Parameter 472 482	properties
+T20	Geometrical_part 495 505	structures
+T21	Protein 510 526	wild-type FMN-bp
+T22	Protein 536 551	mutant proteins
+T23	Protein 553 558	L122Y
+T24	Protein 560 565	L122E
+T25	Protein 567 572	L122K
+T26	Protein 577 589	L122-deleted
+T27	Parameter 610 626	redox potentials
+T28	Process 644 653	mutations
+T29	Parameter 665 675	affinities
+T30	Protein 679 684	L122E
+T31	Protein 686 691	L122K
+T32	Protein 696 700	L122
+T33	Protein 701 728	deletion mutant apoproteins
+T34	Parameter 733 736	FMN
+T35	Protein 761 781	wild-type apoprotein
+T36	Parameter 795 803	affinity
+T37	Protein 807 812	L122Y
+T38	Parameter 817 820	FMN
+T39	Process 847 866	ultracentrifugation
+T40	Parameter 883 905	dissociation constants
+T41	Process 910 922	dimerization
+T42	Protein 926 931	L122E
+T43	Protein 936 941	L122K
+T44	Protein 963 979	wild-type FMN-bp
+T45	Parameter 993 1015	dissociation constants
+T46	Protein 1020 1025	L122Y
+T47	Process 1034 1042	deletion
+T48	Molecule 1043 1049	mutant
+T49	Geometrical_part 1119 1129	structures
+T50	Protein 1133 1138	L122Y
+T51	Protein 1140 1145	L122E
+T52	Protein_part 1150 1163	L122K mutants
+T53	Technique 1167 1188	X-ray crystallography
+T54	Process 1216 1224	mutation
+T55	Protein_part 1228 1234	Leu122
+T56	Protein 1238 1244	FMN-bp
+T57	Parameter 1253 1272	midpoint potentials
+T58	Parameter 1274 1296	dissociation constants
+T59	Parameter 1301 1304	FMN
+T60	Protein 1310 1315	dimer
+T61	Process 1316 1325	formation
+T62	Protein_part 1348 1355	residue
+T63	Protein 1384 1391	subunit

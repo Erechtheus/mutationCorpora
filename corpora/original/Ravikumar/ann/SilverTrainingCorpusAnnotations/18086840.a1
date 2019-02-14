@@ -1,0 +1,92 @@
+T1	Organism 0 5	Human
+T2	Protein 6 44	macrophage inflammatory protein 3alpha
+T3	Protein 46 53	protein
+T4	Protein_part 58 65	peptide
+T5	Technique 66 92	nuclear magnetic resonance
+T6	Chemical 93 112	solution structures
+T7	Process 114 126	dimerization
+T8	Parameter 157 167	properties
+T9	Organism 169 174	Human
+T10	Protein 175 226	macrophage inflammatory protein 3alpha (MIP-3alpha)
+T11	Protein 242 247	CCL20
+T12	Protein 254 277	70-amino-acid chemokine
+T13	Protein 305 325	chemokine receptor 6
+T14	Protein 345 352	protein
+T15	Chemical 369 382	antimicrobial
+T16	Chemical 384 394	antifungal
+T17	Physiology 400 409	antiviral
+T18	Parameter 410 420	activities
+T19	Geometrical_part 426 444	solution structure
+T20	Protein 448 458	MIP-3alpha
+T21	Location 500 511	homonuclear
+T22	Molecule 512 518	proton
+T23	Technique 519 551	nuclear magnetic resonance (NMR)
+T24	Unknown 557 566	structure
+T25	Protein 594 603	chemokine
+T26	Geometrical_part 604 608	fold
+T27	Geometrical_part 621 633	antiparallel
+T28	Protein_part 634 646	beta strands
+T29	Protein_part 661 683	C-terminal alpha helix
+T30	Geometrical_part 704 722	crystal structures
+T31	Protein 726 736	MIP-3alpha
+T32	Geometrical_part 742 760	solution structure
+T33	Process 796 806	difference
+T34	Technique 819 822	NMR
+T35	Geometrical_part 827 845	crystal structures
+T36	Parameter 858 863	angle
+T37	Protein_part 871 882	alpha helix
+T38	Protein_part 903 915	beta strands
+T39	Value 938 964	approximately 56.5 degrees
+T40	Unknown 976 986	structures
+T41	Technique 1002 1005	NMR
+T42	Process 1006 1015	diffusion
+T43	Parameter 1020 1022	pH
+T44	Process 1023 1032	titration
+T45	Protein 1074 1084	MIP-3alpha
+T46	Protein 1093 1099	dimers
+T47	Value 1103 1110	neutral
+T48	Parameter 1111 1113	pH
+T49	Protein 1118 1126	monomers
+T50	Value 1130 1135	lower
+T51	Parameter 1136 1138	pH
+T52	Process 1157 1168	protonation
+T53	State 1169 1174	state
+T54	Protein_part 1178 1183	His40
+T55	Process 1204 1215	simulations
+T56	Geometrical_part 1246 1259	dimeric forms
+T57	Protein 1263 1273	MIP-3alpha
+T58	Protein 1304 1313	chemokine
+T59	Process 1326 1332	change
+T60	Protein_part 1336 1341	helix
+T61	Parameter 1342 1347	angle
+T62	Process 1353 1365	dimerization
+T63	Chemical 1417 1433	hydrogen bonding
+T64	Process 1434 1442	contacts
+T65	Protein_part 1451 1456	His40
+T66	Protein 1464 1469	dimer
+T67	Protein_part 1505 1515	N terminus
+T68	Process 1530 1537	binding
+T69	Geometrical_part 1538 1544	groove
+T70	Protein 1562 1580	dimeric MIP-3alpha
+T71	Process 1581 1592	simulations
+T72	Protein 1618 1638	monomeric MIP-3alpha
+T73	Chemical 1652 1657	adept
+T74	Protein 1661 1669	receptor
+T75	Process 1670 1677	binding
+T76	Process 1682 1692	activation
+T77	Geometrical_part 1698 1716	solution structure
+T78	Protein_part 1732 1739	peptide
+T79	Protein_part 1766 1774	residues
+T80	Protein 1778 1788	MIP-3alpha
+T81	Protein_part 1820 1831	alpha helix
+T82	Protein_part 1856 1878	antimicrobial peptides
+T83	Chemical 1880 1893	Antimicrobial
+T84	Technique 1894 1900	assays
+T85	Protein_part 1911 1918	peptide
+T86	Parameter 1962 1972	activities
+T87	Organism 1981 1997	Escherichia coli
+T88	Organism 2002 2023	Staphylococcus aureus
+T89	Protein_part 2062 2093	C-terminal alpha-helical region
+T90	Protein 2097 2107	MIP-3alpha
+T91	Geometrical_part 2128 2132	part
+T92	Parameter 2161 2169	activity

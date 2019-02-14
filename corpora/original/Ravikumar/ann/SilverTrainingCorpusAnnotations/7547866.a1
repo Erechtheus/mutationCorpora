@@ -1,0 +1,60 @@
+T1	Geometrical_part 18 36	solution structure
+T2	Chemical 44 58	cyanide adduct
+T3	Protein_part 64 80	Met80Ala variant
+T4	Organism 85 109	Saccharomyces cerevisiae
+T5	Process 130 144	Identification
+T6	Protein_part 148 162	ligand-residue
+T7	Process 164 176	interactions
+T8	Location 184 190	distal
+T9	Chemical 191 195	heme
+T10	Body_part 196 202	cavity
+T11	Chemical 208 210	1H
+T12	Technique 211 214	NMR
+T13	Parameter 215 223	spectrum
+T14	Chemical 235 249	cyanide adduct
+T15	Organism 270 294	Saccharomyces cerevisiae
+T16	Protein_part 315 342	His39Gln/Met80Ala/Cys102Ser
+T17	State 351 364	oxidized form
+T18	Unknown 392 398	1D NOE
+T19	Unknown 403 410	2D COSY
+T20	Unknown 412 417	TOCSY
+T21	Unknown 419 424	NOESY
+T22	Unknown 430 439	NOE-NOESY
+T23	Process 440 451	experiments
+T24	Molecule 457 464	protons
+T25	Geometrical_part 511 529	solution structure
+T26	Protein 559 571	heme protein
+T27	Unknown 610 613	NOE
+T28	Chemical 658 662	NOEs
+T29	Unknown 668 672	RMSD
+T30	Parameter 673 679	values
+T31	Parameter 708 714	energy
+T32	Process 715 727	minimization
+T33	Unknown 734 744	structures
+T34	Parameter 759 767	distance
+T35	Technique 768 789	geometry calculations
+T36	Value 794 807	0.68 +/- 0.11
+T37	Value 812 827	1.32 +/- 0.14 A
+T38	Chemical 859 864	atoms
+T39	Unknown 905 909	RMSD
+T40	Unknown 926 935	structure
+T41	Geometrical_part 973 991	solution structure
+T42	Organism 1012 1017	horse
+T43	Body_part 1018 1023	heart
+T44	Technique 1047 1060	P. X., et al.
+T45	Unknown 1068 1080	Biochemistry
+T46	Unknown 1112 1130	structure elements
+T47	Process 1147 1154	folding
+T48	Unknown 1162 1169	variant
+T49	Protein 1214 1231	wild-type protein
+T50	Technique 1246 1261	X-ray structure
+T51	Process 1289 1300	replacement
+T52	Chemical 1308 1318	methionine
+T53	Location 1319 1324	axial
+T54	Category 1325 1331	ligand
+T55	Protein_part 1340 1355	alanine residue
+T56	Category 1366 1372	ligand
+T57	Parameter 1402 1412	properties
+T58	Body_part 1420 1433	distal cavity
+T59	Geometrical_part 1447 1465	solution structure
+T60	Protein 1498 1511	heme proteins

@@ -1,0 +1,38 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Process 22 30	function
+T3	Chemical 38 47	isoniazid
+T4	Process 48 54	target
+T5	Organism 58 84	Mycobacterium tuberculosis
+T6	Parameter 86 96	Resistance
+T7	Chemical 100 109	isoniazid
+T8	Organism 113 139	Mycobacterium tuberculosis
+T9	Process 159 171	substitution
+T10	Protein_part 175 182	alanine
+T11	Protein_part 187 196	serine 94
+T12	Protein 204 216	InhA protein
+T13	Chemical 222 228	drug's
+T14	Process 237 243	target
+T15	Protein 245 249	InhA
+T16	Chemical 276 321	beta-nicotinamide adenine dinucleotide (NADH)
+T17	Process 331 340	reduction
+T18	Protein 344 378	2-trans-enoyl-acyl carrier protein
+T19	Chemical 401 411	fatty acid
+T20	Process 412 422	elongation
+T21	Parameter 424 431	Kinetic
+T22	Technique 432 440	analyses
+T23	Chemical 456 465	isoniazid
+T24	Parameter 466 476	resistance
+T25	Parameter 499 507	affinity
+T26	Protein 515 529	mutant protein
+T27	Chemical 534 538	NADH
+T28	Geometrical_part 544 572	three-dimensional structures
+T29	Unknown 590 601	mutant InhA
+T30	Value 614 617	2.2
+T31	Value 622 635	2.7 angstroms
+T32	Chemical 665 669	drug
+T33	Parameter 670 680	resistance
+T34	Process 706 718	perturbation
+T35	Chemical 726 734	hydrogen
+T36	Physiology 743 750	network
+T37	Chemical 767 771	NADH
+T38	Process 772 779	binding

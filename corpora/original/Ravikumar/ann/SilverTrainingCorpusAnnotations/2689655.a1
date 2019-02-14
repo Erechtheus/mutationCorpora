@@ -1,0 +1,110 @@
+T1	Process 19 29	refinement
+T2	Protein 35 53	thermitase-eglin-c
+T3	Category 54 61	complex
+T4	Value 65 71	1.98 A
+T5	Parameter 72 82	resolution
+T6	Process 87 97	comparison
+T7	Unknown 105 112	crystal
+T8	Chemical 134 141	calcium
+T9	Geometrical_part 155 172	crystal structure
+T10	Category 180 187	complex
+T11	Protein 191 201	thermitase
+T12	Unknown 207 214	eglin-c
+T13	Unknown 218 225	crystal
+T14	Unknown 231 233	II
+T15	Process 251 259	presence
+T16	Chemical 265 273	mM-CaCl2
+T17	Value 298 304	1.98 A
+T18	Parameter 305 315	resolution
+T19	Unknown 321 330	structure
+T20	Process 347 368	molecular replacement
+T21	Technique 401 417	crystallographic
+T22	Process 418 428	refinement
+T23	Protein 451 469	thermitase-eglin-c
+T24	Geometrical_part 470 479	structure
+T25	Unknown 498 505	crystal
+T26	Unknown 506 512	form I
+T27	Value 516 527	ten degrees
+T28	Technique 528 538	rigid body
+T29	Process 539 551	misplacement
+T30	Unknown 567 574	eglin-c
+T31	Technique 615 631	crystallographic
+T32	Process 632 642	refinement
+T33	Unknown 697 703	system
+T34	Technique 713 729	crystallographic
+T35	Parameter 730 738	R-factor
+T36	Value 742 747	16.5%
+T37	Unknown 765 772	crystal
+T38	Unknown 778 780	II
+T39	Process 786 796	comparison
+T40	Category 804 813	complexes
+T41	Protein 817 827	thermitase
+T42	Unknown 833 840	eglin-c
+T43	Unknown 852 859	crystal
+T44	Unknown 881 888	eglin-c
+T45	Protein 941 949	protease
+T46	Geometrical_part 966 970	loop
+T47	Protein 1006 1016	thermitase
+T48	Protein 1023 1043	subtilisin Carlsberg
+T49	Protein_part 1047 1067	tryptophanyl residue
+T50	Protein_part 1075 1082	S4 site
+T51	Protein 1110 1120	thermitase
+T52	Protein_part 1134 1142	residues
+T53	Category 1150 1159	substrate
+T54	Protein_part 1167 1174	P4 site
+T55	Process 1180 1190	difference
+T56	Protein_part 1198 1200	P1
+T57	Process 1201 1208	binding
+T58	Geometrical_part 1209 1215	pocket
+T59	Protein_part 1217 1227	asparagine
+T60	Protein 1231 1241	thermitase
+T61	Chemical 1253 1260	glycine
+T62	Protein 1264 1284	subtilisin Carlsberg
+T63	Process 1306 1313	binding
+T64	Unknown 1317 1324	eglin-c
+T65	Protein_part 1348 1363	arginyl residue
+T66	Protein_part 1371 1378	P1 site
+T67	Protein 1382 1392	thermitase
+T68	Chemical 1417 1433	hydrogen bonding
+T69	Protein_part 1439 1445	Asn170
+T70	Protein 1449 1459	thermitase
+T71	Chemical 1467 1470	ion
+T72	Protein_part 1479 1484	sites
+T73	Protein 1488 1498	thermitase
+T74	Chemical 1541 1548	calcium
+T75	Protein_part 1557 1562	sites
+T76	Protein_part 1587 1592	sites
+T77	Protein 1596 1616	subtilisin Carlsberg
+T78	Protein 1621 1636	subtilisin BPN'
+T79	Protein_part 1666 1676	amino acid
+T80	Process 1677 1688	differences
+T81	Chemical 1696 1703	calcium
+T82	Protein_part 1712 1717	sites
+T83	Chemical 1739 1746	calcium
+T84	Protein_part 1755 1759	site
+T85	Protein 1763 1773	thermitase
+T86	Protein 1793 1810	subtilisin family
+T87	Parameter 1825 1829	time
+T88	Chemical 1835 1842	calcium
+T89	Protein_part 1855 1863	residues
+T90	Geometrical_part 1873 1880	loop 57
+T91	Process 1890 1900	difference
+T92	Process 1904 1913	chelation
+T93	Protein_part 1934 1938	site
+T94	Unknown 1955 1962	crystal
+T95	Protein 1972 1982	thermitase
+T96	Chemical 2000 2007	calcium
+T97	Parameter 2008 2021	concentration
+T98	Molecule 2034 2042	electron
+T99	Parameter 2043 2050	density
+T100	Protein_part 2068 2073	Asp60
+T101	Unknown 2077 2084	crystal
+T102	Unknown 2090 2092	II
+T103	Chemical 2109 2116	calcium
+T104	Unknown 2128 2134	form I
+T105	Parameter 2141 2148	density
+T106	Chemical 2170 2184	water molecule
+T107	Chemical 2198 2209	calcium ion
+T108	Protein_part 2227 2232	Asp60
+T109	Process 2260 2269	different
+T110	State 2270 2283	conformations

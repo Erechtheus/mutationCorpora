@@ -1,0 +1,56 @@
+T1	Unknown 0 9	Structure
+T2	Protein 17 25	Tfb1/p53
+T3	Category 26 33	complex
+T4	Process 53 64	interaction
+T5	Protein 77 93	p62/Tfb1 subunit
+T6	Unknown 97 102	TFIIH
+T7	Process 111 121	activation
+T8	Protein_part 122 128	domain
+T9	Protein 132 135	p53
+T10	Process 141 152	interaction
+T11	Protein_part 165 208	amino-terminal transactivation domain (TAD)
+T12	Protein 212 215	p53
+T13	Unknown 220 225	TFIIH
+T14	Protein 269 272	p53
+T15	Process 290 303	transcription
+T16	Process 304 314	initiation
+T17	Process 319 329	elongation
+T18	Protein_part 352 358	region
+T19	Protein_part 370 377	p53 TAD
+T20	Protein_part 415 446	pleckstrin homology (PH) domain
+T21	Protein 454 457	p62
+T22	Protein 462 475	Tfb1 subunits
+T23	Organism 479 484	human
+T24	Organism 489 494	yeast
+T25	Unknown 495 500	TFIIH
+T26	Geometrical_part 521 533	3D structure
+T27	Category 539 546	complex
+T28	Protein_part 559 566	p53 TAD
+T29	Protein_part 575 584	PH domain
+T30	Protein 588 592	Tfb1
+T31	Technique 596 612	NMR spectroscopy
+T32	Unknown 618 627	structure
+T33	Protein 641 644	p53
+T34	Protein_part 658 665	residue
+T35	Protein_part 678 689	alpha helix
+T36	Protein_part 691 705	residues 47-55
+T37	Process 712 719	binding
+T38	Protein 723 727	Tfb1
+T39	Process 762 779	diphosphorylation
+T40	Protein 783 786	p53
+T41	Protein_part 790 795	Ser46
+T42	Protein_part 800 805	Thr55
+T43	Process 829 840	enhancement
+T44	Protein 844 847	p53
+T45	Protein 859 862	p62
+T46	Protein 867 871	Tfb1
+T47	Process 903 918	phosphorylation
+T48	Process 919 926	cascade
+T49	Protein_part 937 942	Ser46
+T50	Protein_part 947 952	Thr55
+T51	Protein 956 959	p53
+T52	Process 985 989	role
+T53	Process 997 1007	regulation
+T54	Protein 1018 1021	p53
+T55	Process 1022 1028	target
+T56	Protein 1029 1034	genes

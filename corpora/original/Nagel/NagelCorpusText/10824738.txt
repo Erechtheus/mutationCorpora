@@ -1,0 +1,8 @@
+Specific carrier-mediated transport of purine and pyrimidine nucleobases across cell membranes is a basic biological process in both prokaryotes and eukaryotes . 
+Recent in silico analysis has shown that the Aspergillus nidulans (UapA, UapC) and bacterial (PbuX, UraA, PyrP) nucleobase transporters, and a group of mammalian L-ascorbic acid transporters (SVCT1 and SVCT2), constitute a unique protein family which includes putative homologues from archea, bacteria, plants and metazoans . 
+The construction and functional analysis of chimeric purine transporters (UapA- UapC) and UapA-specific missense mutations in A. nidulans has previously shown that the region including amino acid residues 378-446 in UapA is critical for purine recognition and transport . 
+Here, we extend our studies on UapA structure-function relationships by studying missense mutations constructed within a 'signature' sequence motif [(F/Y/S)X(Q/E/P)NXGXXXXT(K/R/G)] which is conserved in the putative functional region of all members of the nucleobase/ascorbate transporter family . 
+Residues Q449 and N450 were found to be critical for purine recognition and transport . 
+The results suggest that these residues might directly or indirectly be involved in specific interactions with the purine ring . 
+In particular, interaction of residue 449 with C-2 groups of purines might act as a critical molecular filter involved in the selection of transported substrates . 
+The present and previous mutagenic analyses in UapA suggest that specific polar or charged amino acid residues on either side of an amphipathic alpha-helical transmembrane segment are critical for purine binding and transport . 

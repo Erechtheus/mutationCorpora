@@ -1,0 +1,13 @@
+This article reports a Glanzmann thrombasthenia (GT) patient, N.M., with a point mutation in the third cysteine-rich repeat of beta3-integrin or platelet glycoprotein (GP) IIIa, leading to the expression of a constitutively activated fibrinogen receptor . 
+The diagnosis of GT was based on a severely reduced platelet-aggregation response to a series of agonists and approximately 20% of surface-expressed GPIIb-IIIa . 
+The patient's GPIIb-IIIa constitutively expressed epitopes recognized by antibodies to ligand-induced binding sites (LIBS) and also spontaneously bound the fibrinogen-mimetic antibody, PAC-1 . 
+Furthermore, significant amounts of bound fibrinogen were detected on his platelets ex vivo . 
+No signs of platelet activation were observed on sections of unstimulated platelets from N.M. by electron microscopy . 
+Immunogold labeling highlighted the presence of surface-bound fibrinogen but revealed platelet heterogeneity with regard to the surface density . 
+When the patient's platelets were stimulated by thrombin-receptor activating peptide, amounts of surface-expressed GPIIb-IIIa increased and the aggregation response improved, although it failed to normalize . 
+Platelets from N.M. were able to adhere and spread on immobilized fibrinogen . 
+Sequence analysis of genomic DNA from N.M. revealed a homozygous g1776T&gt;C mutation in GPIIIa, leading to a Cys560Arg amino acid substitution . 
+A stable Chinese hamster ovary (CHO) cell line was prepared expressing surface GPIIb-Arg560IIIa . 
+Like platelets from the patient, GPIIb-Arg560IIIa-transfected CHO cells constitutively bound LIBS antibodies and PAC-1 . 
+They also showed an enhanced ability to adhere on surface-bound fibrinogen . 
+Overall, these data demonstrate that a gain-of-function mutation can still be associated with a thrombasthenic phenotype even though platelets show spontaneous fibrinogen binding . 

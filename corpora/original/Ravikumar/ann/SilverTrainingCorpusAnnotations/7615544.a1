@@ -1,0 +1,61 @@
+T1	Process 10 25	phosphorylation
+T2	Process 30 40	activation
+T3	Organism 44 53	bacterial
+T4	Process 54 64	chemotaxis
+T5	Value 70 75	2.1-A
+T6	Geometrical_part 76 85	structure
+T7	Protein_part 91 100	threonine
+T8	Protein_part 104 114	isoleucine
+T9	Molecule 115 121	mutant
+T10	Location 125 136	position 87
+T11	Molecule 140 144	CheY
+T12	Process 165 175	chemotaxis
+T13	Protein 187 199	protein CheY
+T14	Protein_part 222 246	threonine/serine residue
+T15	Process 254 262	response
+T16	Molecule 263 272	regulator
+T17	Unknown 273 284	superfamily
+T18	Protein_part 288 300	threonine 87
+T19	Protein_part 304 314	isoleucine
+T20	Molecule 315 321	mutant
+T21	Molecule 325 329	CheY
+T22	Physiology 373 382	phenotype
+T23	Chemical 405 421	phosphorylatable
+T24	Parameter 438 448	properties
+T25	Process 492 502	activation
+T26	Process 508 523	phosphorylation
+T27	Technique 529 551	x-ray crystallographic
+T28	Geometrical_part 552 561	structure
+T29	Protein_part 569 578	threonine
+T30	Protein_part 582 592	isoleucine
+T31	Molecule 593 597	CheY
+T32	Molecule 598 604	mutant
+T33	Value 636 641	2.1-A
+T34	Parameter 642 652	resolution
+T35	Parameter 660 668	R factor
+T36	Value 672 677	15.6%
+T37	Process 679 689	Comparison
+T38	Chemical 711 722	Mg(2+)-free
+T39	Protein 723 727	CheY
+T40	Geometrical_part 728 737	structure
+T41	Protein_part 753 774	active site structure
+T42	Process 824 835	differences
+T43	State 852 864	conformation
+T44	Location 865 871	distal
+T45	Process 881 893	substitution
+T46	Process 899 907	presence
+T47	Protein_part 915 925	isoleucine
+T48	Protein_part 926 936	side chain
+T49	State 967 979	conformation
+T50	Protein_part 1001 1008	residue
+T51	Molecule 1017 1025	molecule
+T52	Protein_part 1027 1035	tyrosine
+T53	Location 1039 1051	position 106
+T54	Process 1098 1107	signaling
+T55	Geometrical_part 1108 1115	surface
+T56	Process 1132 1147	phosphorylation
+T57	Protein_part 1148 1152	site
+T58	Molecule 1160 1173	CheY molecule
+T59	Protein_part 1188 1200	threonine 87
+T60	Protein_part 1211 1219	residues
+T61	Process 1248 1257	signaling

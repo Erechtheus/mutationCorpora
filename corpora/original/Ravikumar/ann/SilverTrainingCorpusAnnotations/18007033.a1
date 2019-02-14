@@ -1,0 +1,40 @@
+T1	Molecule 0 7	Neutron
+T2	Technique 12 17	X-ray
+T3	Chemical 46 60	hydrogen bonds
+T4	Protein 64 96	photoactive yellow protein (PYP)
+T5	Protein 98 130	Photoactive yellow protein (PYP)
+T6	Organism 136 160	Halorhodospira halophila
+T7	Value 174 180	14 kDa
+T8	Protein 192 205	photoreceptor
+T9	Molecule 232 268	para-coumaric acid chromophore (pCA)
+T10	Protein_part 302 307	Cys69
+T11	Process 367 375	response
+T12	Organism 383 391	organism
+T13	Unknown 421 430	structure
+T14	Chemical 442 449	H atoms
+T15	Protein 454 457	PYP
+T16	Unknown 481 486	D(2)O
+T17	Unknown 494 502	crystals
+T18	Process 515 526	application
+T19	Body_part 530 541	joint X-ray
+T20	Value 543 548	1.1 A
+T21	Molecule 554 561	neutron
+T22	Value 563 568	2.5 A
+T23	Unknown 570 579	structure
+T24	Process 580 590	refinement
+T25	Protein 681 683	XN
+T26	Geometrical_part 684 693	structure
+T27	Chemical 711 727	phenolate O atom
+T28	Molecule 731 734	pCA
+T29	Protein_part 758 775	Glu46 O(epsilon2)
+T30	Protein_part 780 792	Tyr42 O(eta)
+T31	Chemical 816 830	hydrogen bonds
+T32	Process 837 848	arrangement
+T33	Process 870 878	donation
+T34	Protein_part 898 913	Thr50 O(gamma1)
+T35	Protein_part 917 929	Tyr42 O(eta)
+T36	Molecule 970 973	pCA
+T37	Protein_part 978 983	Tyr42
+T38	Chemical 1023 1027	atom
+T39	Protein_part 1051 1056	Thr50
+T40	Chemical 1115 1120	bonds

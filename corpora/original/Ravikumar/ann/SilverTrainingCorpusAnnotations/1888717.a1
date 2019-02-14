@@ -1,0 +1,99 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein 13 31	gamma-chymotrypsin
+T3	Parameter 45 47	pH
+T4	Value 48 51	2.0
+T5	Parameter 55 57	pH
+T6	Value 58 62	10.5
+T7	Protein 77 95	gamma-chymotrypsin
+T8	Protein 110 128	acyl-enzyme adduct
+T9	Value 132 135	low
+T10	Parameter 136 138	pH
+T11	Unknown 140 148	Crystals
+T12	Protein 152 182	gamma-chymotrypsin (gamma-CHT)
+T13	Parameter 192 194	pH
+T14	Value 195 198	7.0
+T15	Parameter 215 217	pH
+T16	Value 218 221	2.0
+T17	Value 225 229	11.0
+T18	Protein 243 252	gamma-CHT
+T19	Unknown 296 302	system
+T20	Geometrical_part 319 328	structure
+T21	Protein 334 341	protein
+T22	Chemical 356 363	solvent
+T23	Parameter 386 388	pH
+T24	Geometrical_part 445 454	structure
+T25	Protein 458 467	gamma-CHT
+T26	Parameter 471 480	pH values
+T27	Value 484 487	2.0
+T28	Value 489 492	7.0
+T29	Value 497 501	10.5
+T30	Protein_part 516 528	tetrapeptide
+T31	Protein_part 547 558	active site
+T32	Protein 562 571	gamma-CHT
+T33	Parameter 575 577	pH
+T34	Value 578 581	7.0
+T35	Parameter 601 603	pH
+T36	Value 604 607	2.0
+T37	Value 612 616	10.5
+T38	Value 650 653	low
+T39	Parameter 654 656	pH
+T40	Process 660 670	comparison
+T41	Unknown 689 699	structures
+T42	Molecule 731 739	electron
+T43	Parameter 740 747	density
+T44	Value 755 758	low
+T45	Parameter 759 761	pH
+T46	Unknown 762 771	structure
+T47	Protein_part 795 805	side-chain
+T48	Protein_part 809 812	Ser
+T49	Category 860 869	inhibitor
+T50	Molecule 894 900	adduct
+T51	Protein 947 953	enzyme
+T52	Value 957 960	low
+T53	Parameter 961 963	pH
+T54	Value 990 996	higher
+T55	Parameter 997 999	pH
+T56	Parameter 1008 1010	pH
+T57	Value 1027 1030	7.0
+T58	Value 1034 1037	2.0
+T59	Protein_part 1043 1053	side-chain
+T60	Protein_part 1057 1063	His 40
+T61	Value 1072 1097	approximately 120 degrees
+T62	Chemical 1109 1128	C alpha-C beta bond
+T63	Protein_part 1150 1160	side-chain
+T64	Protein_part 1164 1170	Gln 34
+T65	Value 1184 1209	approximately 140 degrees
+T66	Chemical 1220 1239	C alpha-C beta bond
+T67	Process 1268 1282	rearrangements
+T68	Location 1290 1298	vicinity
+T69	Protein_part 1302 1308	His 40
+T70	Geometrical_part 1314 1323	structure
+T71	Protein 1327 1336	gamma-CHT
+T72	Parameter 1340 1342	pH
+T73	Value 1343 1346	2.0
+T74	Value 1374 1381	neutral
+T75	Parameter 1382 1384	pH
+T76	Geometrical_part 1390 1399	structure
+T77	Protein 1403 1412	gamma-CHT
+T78	Parameter 1416 1418	pH
+T79	Value 1419 1423	10.5
+T80	Value 1473 1480	neutral
+T81	Parameter 1481 1483	pH
+T82	Process 1497 1507	indication
+T83	Location 1517 1525	internal
+T84	Chemical 1526 1537	salt bridge
+T85	Protein_part 1546 1553	Asp 194
+T86	Chemical 1562 1573	alpha-amino
+T87	Molecular_Part 1574 1579	group
+T88	Parameter 1614 1616	pH
+T89	Value 1617 1621	10.5
+T90	Process 1632 1641	exception
+T91	Location 1649 1657	vicinity
+T92	Protein_part 1661 1667	His 40
+T93	Unknown 1673 1682	structure
+T94	Chemical 1696 1703	solvent
+T95	Geometrical_part 1711 1729	crystal structures
+T96	Value 1734 1737	low
+T97	Value 1739 1746	neutral
+T98	Value 1751 1755	high
+T99	Parameter 1756 1758	pH

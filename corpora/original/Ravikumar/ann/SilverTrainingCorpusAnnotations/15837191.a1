@@ -1,0 +1,50 @@
+T1	Geometrical_part 0 9	Structure
+T2	Protein_part 17 36	UBA domain of Dsk2p
+T3	Category 40 47	complex
+T4	Protein 53 62	ubiquitin
+T5	Protein 90 99	ubiquitin
+T6	Process 100 111	recognition
+T7	Protein_part 117 150	ubiquitin-associated (UBA) domain
+T8	Protein_part 191 197	motifs
+T9	Protein 213 222	ubiquitin
+T10	Unknown 229 234	Dsk2p
+T11	Protein 238 241	UBA
+T12	Protein 253 260	protein
+T13	Organism 266 290	Saccharomyces cerevisiae
+T14	Unknown 311 331	ubiquitin-proteasome
+T15	Process 344 351	pathway
+T16	Body_part 379 386	spindle
+T17	Location 387 391	pole
+T18	Process 392 403	duplication
+T19	Geometrical_part 426 444	solution structure
+T20	Protein_part 452 483	UBA domain of Dsk2p (Dsk2(UBA))
+T21	Category 487 494	complex
+T22	Protein 500 509	ubiquitin
+T23	Unknown 515 524	structure
+T24	Protein_part 542 552	UBA domain
+T25	Protein 568 577	ubiquitin
+T26	Process 578 589	recognition
+T27	Protein_part 621 631	CUE domain
+T28	Protein 641 650	ubiquitin
+T29	Protein_part 660 665	motif
+T30	Parameter 682 699	sequence homology
+T31	Process 720 730	similarity
+T32	Protein_part 736 747	UBA domains
+T33	Protein_part 759 766	domains
+T34	Protein 806 815	ubiquitin
+T35	Protein_part 824 833	motif UIM
+T36	Protein_part 861 877	recognition site
+T37	Protein 882 891	ubiquitin
+T38	Chemical 906 914	hydrogen
+T39	Category 923 931	acceptor
+T40	Chemical 940 945	amide
+T41	Molecular_Part 946 951	group
+T42	Protein_part 955 961	Gly-47
+T43	Chemical 969 975	methyl
+T44	Molecular_Part 976 981	group
+T45	Geometrical_part 1017 1023	pocket
+T46	Protein 1027 1036	ubiquitin
+T47	Protein_part 1047 1052	Leu-8
+T48	Protein_part 1054 1060	Ile-44
+T49	Protein_part 1062 1068	His-68
+T50	Protein_part 1074 1080	Val-70

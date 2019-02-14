@@ -1,0 +1,99 @@
+T1	Geometrical_part 0 27	Three-dimensional structure
+T2	Protein 31 72	galactose-1-phosphate uridylyltransferase
+T3	Organism 78 94	Escherichia coli
+T4	Value 98 103	1.8 A
+T5	Parameter 104 114	resolution
+T6	Protein 116 157	Galactose-1-phosphate uridylyltransferase
+T7	Process 183 191	transfer
+T8	Chemical 199 224	uridine 5'-monophosphoryl
+T9	Molecular_Part 225 231	moiety
+T10	Chemical 235 246	UDP-glucose
+T11	Chemical 254 263	phosphate
+T12	Molecular_Part 264 269	group
+T13	Chemical 273 294	galactose 1-phosphate
+T14	Chemical 303 316	UDP-galactose
+T15	Protein 323 329	enzyme
+T16	Protein 350 356	Leloir
+T17	Process 357 364	pathway
+T18	Chemical 368 377	galactose
+T19	Process 378 388	metabolism
+T20	Process 398 405	absence
+T21	Process 421 426	cause
+T22	Physiology 446 473	lethal disease galactosemia
+T23	Geometrical_part 479 506	three-dimensional structure
+T24	Protein 514 528	dimeric enzyme
+T25	Organism 534 550	Escherichia coli
+T26	Chemical 566 588	uridine 5'-diphosphate
+T27	Unknown 611 620	structure
+T28	Process 656 667	replacement
+T29	Molecule 672 680	electron
+T30	Parameter 681 688	density
+T31	Process 689 701	modification
+T32	Technique 702 712	techniques
+T33	Value 737 742	1.8 A
+T34	Parameter 743 753	resolution
+T35	Protein 755 770	Enzyme subunits
+T36	Protein_part 791 797	domain
+T37	Geometrical_part 827 833	barrel
+T38	Protein_part 873 880	strands
+T39	Geometrical_part 884 896	antiparallel
+T40	Protein_part 897 907	beta-sheet
+T41	Geometrical_part 913 919	barrel
+T42	Location 920 924	axis
+T43	Protein 987 994	subunit
+T44	Protein_part 1012 1019	helices
+T45	Location 1070 1078	interior
+T46	Chemical 1083 1092	iron atom
+T47	Geometrical_part 1123 1129	barrel
+T48	Protein 1147 1154	subunit
+T49	Protein 1166 1178	Intrasubunit
+T50	Process 1179 1191	coordination
+T51	Chemical 1195 1199	iron
+T52	Process 1263 1271	ligation
+T53	Protein_part 1279 1289	histidines
+T54	Chemical 1297 1318	bidentate carboxylate
+T55	Molecular_Part 1319 1324	group
+T56	Location 1338 1343	axial
+T57	Protein_part 1344 1353	histidine
+T58	Protein 1359 1366	subunit
+T59	Process 1399 1411	coordination
+T60	Process 1448 1457	formation
+T61	Protein_part 1513 1520	strands
+T62	Geometrical_part 1541 1546	Loops
+T63	Protein_part 1564 1582	mini-sheet strands
+T64	Process 1601 1610	formation
+T65	Protein_part 1618 1629	active site
+T66	Location 1652 1660	external
+T67	Geometrical_part 1661 1668	surface
+T68	Geometrical_part 1676 1682	barrel
+T69	Geometrical_part 1688 1693	Loops
+T70	Geometrical_part 1701 1707	barrel
+T71	Protein_part 1708 1715	strands
+T72	Chemical 1754 1763	zinc atom
+T73	Geometrical_part 1787 1791	fold
+T74	Process 1818 1827	catalysis
+T75	Geometrical_part 1850 1855	loops
+T76	Protein 1857 1864	S gamma
+T77	Protein_part 1870 1878	cysteine
+T78	Chemical 1894 1914	beta-mercaptoethanol
+T79	Chemical 1935 1951	alpha-phosphorus
+T80	Chemical 1959 1969	nucleotide
+T81	Protein_part 1989 2007	nucleophile His166
+T82	State 2014 2026	conformation
+T83	Process 2058 2070	interactions
+T84	Chemical 2078 2084	uracil
+T85	Chemical 2089 2095	ribose
+T86	Molecular_Part 2096 2104	moieties
+T87	Protein_part 2129 2140	side chains
+T88	Protein_part 2144 2149	Leu54
+T89	Protein_part 2151 2156	Ohe75
+T90	Protein_part 2158 2163	Asn77
+T91	Protein_part 2165 2170	Asp78
+T92	Protein_part 2172 2177	Phe79
+T93	Protein_part 2183 2189	Val108
+T94	Protein_part 2213 2221	residues
+T95	Organism 2246 2251	human
+T96	Physiology 2252 2264	galactosemia
+T97	Unknown 2278 2287	structure
+T98	Process 2313 2320	effects
+T99	Process 2338 2347	mutations

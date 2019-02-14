@@ -1,0 +1,58 @@
+T1	Process 0 19	Molecular mechanism
+T2	Protein 23 32	ubiquitin
+T3	Process 33 44	recognition
+T4	Body_part 48 52	GGA3
+T5	Protein_part 53 56	GAT
+T6	Protein_part 57 63	domain
+T7	Body_part 65 68	GGA
+T8	Body_part 70 75	Golgi
+T9	Protein 88 101	gamma-adaptin
+T10	Body_part 102 105	ear
+T11	Protein_part 106 112	domain
+T12	Unknown 123 126	ARF
+T13	Protein 136 144	proteins
+T14	Unknown 166 172	family
+T15	Protein 176 184	clathrin
+T16	Protein 190 206	adaptor proteins
+T17	Protein 255 264	ubiquitin
+T18	Process 275 282	sorting
+T19	Protein 286 295	receptors
+T20	Process 309 320	interaction
+T21	Protein_part 333 343	C-terminal
+T22	Protein_part 370 403	GAT (GGA and Tom1) domain (C-GAT)
+T23	Protein 408 417	ubiquitin
+T24	Geometrical_part 438 455	crystal structure
+T25	Organism 459 464	human
+T26	Unknown 465 476	GGA3  C-GAT
+T27	Category 480 487	complex
+T28	Protein 493 502	ubiquitin
+T29	Technique 518 523	patch
+T30	Protein 527 547	C-GAT helices alpha1
+T31	Protein 553 559	alpha2
+T32	Process 568 575	binding
+T33	Protein_part 576 580	site
+T34	Protein_part 601 614	Ile44 surface
+T35	Protein 618 627	ubiquitin
+T36	Process 642 654	orientations
+T37	Protein_part 658 673	ubiquitin Arg42
+T38	Geometrical_part 688 693	shape
+T39	Parameter 702 721	charge distribution
+T40	Protein_part 725 748	ubiquitin Ile44 surface
+T41	Process 765 774	different
+T42	Process 775 782	binding
+T43	Technique 807 810	NMR
+T44	Process 853 860	binding
+T45	Protein_part 861 865	site
+T46	Protein 869 889	C-GAT helices alpha2
+T47	Protein 894 900	alpha3
+T48	Process 924 931	binding
+T49	Protein_part 932 936	site
+T50	Protein 949 958	ubiquitin
+T51	Protein 993 1002	ubiquitin
+T52	Protein_part 1024 1034	GAT domain
+T53	Value 1040 1046	higher
+T54	Parameter 1047 1057	efficiency
+T55	Protein 1087 1096	receptors
+T56	Body_part 1101 1110	lysosomal
+T57	Protein 1111 1119	receptor
+T58	Process 1120 1131	degradation

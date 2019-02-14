@@ -1,0 +1,45 @@
+T1	Protein_part 14 25	active-site
+T2	Unknown 26 35	structure
+T3	Organism 41 49	Bacillus
+T4	Protein 50 72	1,3-1,4-beta-glucanase
+T5	Geometrical_part 78 105	three-dimensional structure
+T6	Organism 120 128	Bacillus
+T7	Protein 129 151	1,3-1,4-beta-glucanase
+T8	Protein 153 167	beta-glucanase
+T9	Protein 169 209	1,3-1,4-beta-D-glucan 4-glucanohydrolase
+T10	Protein 211 220	lichenase
+T11	Protein 222 233	EC 3.2.1.73
+T12	Unknown 246 254	H(A16-M)
+T13	Technique 273 294	x-ray crystallography
+T14	Parameter 300 310	resolution
+T15	Value 314 319	2.0 A
+T16	Parameter 338 345	R value
+T17	Value 349 354	16.4%
+T18	Protein 392 408	protein molecule
+T19	Geometrical_part 447 459	antiparallel
+T20	Protein 460 464	beta
+T21	Protein_part 473 479	sheets
+T22	Food 524 532	sandwich
+T23	Unknown 538 547	structure
+T24	Protein 551 558	channel
+T25	Location 572 576	side
+T26	Protein 584 600	protein molecule
+T27	Category 617 626	inhibitor
+T28	Chemical 628 642	3,4-epoxybutyl
+T29	Unknown 643 662	beta-D-cellobioside
+T30	Protein_part 694 704	side chain
+T31	Protein_part 708 715	Glu-105
+T32	Geometrical_part 730 747	crystal structure
+T33	Technique 748 756	analysis
+T34	Value 761 766	2.8-A
+T35	Parameter 767 777	resolution
+T36	Category 803 810	complex
+T37	Parameter 812 813	R
+T38	Value 816 821	16.8%
+T39	Protein_part 829 836	Glu-105
+T40	Protein 862 868	enzyme
+T41	Process 869 878	catalysis
+T42	Unknown 882 890	H(A16-M)
+T43	Technique 907 932	site-directed mutagenesis
+T44	Protein_part 941 948	residue
+T45	Protein 989 995	enzyme

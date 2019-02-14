@@ -1,0 +1,82 @@
+T1	Process 0 10	Plasticity
+T2	Protein 18 26	TSG-6 HA
+T3	Geometrical_part 35 39	loop
+T4	Protein 60 68	TSG-6-HA
+T5	Category 69 76	complex
+T6	Technique 89 92	NMR
+T7	Technique 97 118	X-ray crystallography
+T8	Protein 120 168	Tumour necrosis factor-stimulated gene-6 (TSG-6)
+T9	Chemical 174 191	glycosaminoglycan
+T10	Protein 200 207	protein
+T11	Physiology 225 237	inflammatory
+T12	Physiology 242 254	inflammation
+T13	Process 260 269	processes
+T14	Technique 282 285	NMR
+T15	Unknown 286 296	structures
+T16	Protein 321 353	Link module of TSG-6 (Link_TSG6)
+T17	State 366 371	state
+T18	Chemical 393 407	octasaccharide
+T19	Protein 411 429	hyaluronan (HA(8))
+T20	Chemical 431 438	Heparin
+T21	Unknown 464 466	HA
+T22	Process 467 474	binding
+T23	Protein_part 505 509	site
+T24	Unknown 536 538	HA
+T25	Geometrical_part 547 554	surface
+T26	Technique 572 587	crystallography
+T27	Protein 605 612	protein
+T28	Chemical 618 623	(15)N
+T29	Technique 624 627	NMR
+T30	Process 628 638	relaxation
+T31	Protein 668 673	HA(8)
+T32	Protein 689 698	Link_TSG6
+T33	Unknown 713 717	Link
+T34	Protein 767 774	protein
+T35	Geometrical_part 814 830	beta4/beta5 loop
+T36	Chemical 842 868	Cys47-Cys68 disulfide bond
+T37	Protein_part 888 895	regions
+T38	Unknown 908 910	HA
+T39	Process 911 918	binding
+T40	Protein 934 939	HA(8)
+T41	Physiology 954 963	behaviour
+T42	Protein 1049 1056	protein
+T43	Chemical 1061 1066	sugar
+T44	Process 1117 1126	formation
+T45	Protein_part 1153 1160	residue
+T46	Protein_part 1164 1169	Lys54
+T47	Unknown 1197 1199	HA
+T48	Protein_part 1208 1212	site
+T49	Chemical 1257 1264	heparin
+T50	Process 1265 1272	binding
+T51	Unknown 1279 1281	HA
+T52	Protein_part 1292 1297	Lys54
+T53	Process 1356 1362	effect
+T54	Unknown 1375 1377	HA
+T55	Chemical 1382 1389	heparin
+T56	Protein_part 1398 1403	sites
+T57	Process 1407 1416	mechanism
+T58	Protein_part 1444 1456	beta2-strand
+T59	Protein_part 1461 1473	alpha2-helix
+T60	Geometrical_part 1479 1496	crystal structure
+T61	Protein 1505 1514	Link_TSG6
+T62	Molecule 1529 1538	molecules
+T63	Technique 1594 1597	NMR
+T64	Unknown 1598 1607	structure
+T65	Physiology 1633 1642	behaviour
+T66	Unknown 1657 1659	HA
+T67	Protein_part 1668 1672	site
+T68	Molecule 1697 1705	electron
+T69	Parameter 1707 1714	density
+T70	Geometrical_part 1723 1739	beta4/beta5 loop
+T71	State 1761 1774	conformations
+T72	Chemical 1783 1809	Cys47-Cys68 disulfide bond
+T73	Geometrical_part 1815 1833	crystal structures
+T74	Process 1847 1854	docking
+T75	Technique 1855 1867	calculations
+T76	Chemical 1873 1880	heparin
+T77	Protein 1914 1929	Link_TSG6 dimer
+T78	Protein 1934 1948	heparin 11-mer
+T79	Process 2009 2020	mutagenesis
+T80	Process 2058 2063	basis
+T81	Process 2076 2089	investigation
+T82	Process 2099 2110	interaction

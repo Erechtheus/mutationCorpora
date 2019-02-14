@@ -1,0 +1,61 @@
+T1	Process 40 49	mechanism
+T2	Protein 54 98	Pyrococcus furiosus phosphoglucose isomerase
+T3	Chemical 114 120	aldose
+T4	Chemical 121 127	ketose
+T5	Process 128 141	isomerisation
+T6	Chemical 145 152	glucose
+T7	Chemical 157 172	fructose sugars
+T8	Process 186 194	transfer
+T9	Chemical 200 208	hydrogen
+T10	Chemical 223 225	C1
+T11	Chemical 230 245	C2 carbon atoms
+T12	Chemical 301 308	hydride
+T13	Process 309 314	shift
+T14	Molecule 336 348	intermediate
+T15	Protein 350 402	Pyrococcus furiosus phosphoglucose isomerase (PfPGI)
+T16	Organism 407 415	archaeal
+T17	Protein 416 429	metalloenzyme
+T18	Process 451 466	interconversion
+T19	Chemical 470 489	glucose 6-phosphate
+T20	Chemical 494 514	fructose 6-phosphate
+T21	Chemical 552 559	hydride
+T22	Process 560 565	shift
+T23	Process 566 575	mechanism
+T24	Unknown 616 620	PGIs
+T25	Organism 624 634	eukaryotic
+T26	Organism 638 647	bacterial
+T27	Process 679 692	isomerisation
+T28	Molecule 711 723	intermediate
+T29	Technique 742 745	NMR
+T30	Chemical 751 759	hydrogen
+T31	Process 760 768	exchange
+T32	Category 777 786	substrate
+T33	Chemical 791 798	solvent
+T34	Process 817 825	reaction
+T35	Protein 839 844	PfPGI
+T36	Chemical 878 891	hydride-shift
+T37	Process 898 907	mechanism
+T38	Parameter 922 929	kinetic
+T39	Process 930 942	measurements
+T40	Protein 951 957	enzyme
+T41	Chemical 974 1006	5-phospho-d-arabinonohydroxamate
+T42	Unknown 1017 1025	analogue
+T43	Molecule 1054 1066	intermediate
+T44	Category 1087 1096	inhibitor
+T45	Protein 1104 1110	enzyme
+T46	Technique 1158 1166	analysis
+T47	Geometrical_part 1170 1188	crystal structures
+T48	Protein 1192 1197	PfPGI
+T49	Chemical 1209 1213	zinc
+T50	Category 1222 1231	substrate
+T51	Protein_part 1232 1235	F6P
+T52	Category 1270 1280	inhibitors
+T53	Technique 1286 1298	EPR analysis
+T54	Process 1306 1318	coordination
+T55	Chemical 1326 1335	metal ion
+T56	Protein 1343 1348	PfPGI
+T57	Molecule 1384 1396	intermediate
+T58	Process 1403 1412	mechanism
+T59	Protein 1424 1429	PfPGI
+T60	Protein_part 1435 1440	Glu97
+T61	Process 1486 1499	isomerisation

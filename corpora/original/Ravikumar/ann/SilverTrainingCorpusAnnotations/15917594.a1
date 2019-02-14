@@ -1,0 +1,71 @@
+T1	Protein 23 42	endocellulase Cel5A
+T2	Organism 48 75	Acidothermus cellulolyticus
+T3	Protein_part 83 89	Tyr245
+T4	Protein 93 112	endocellulase Cel5A
+T5	Organism 118 145	Acidothermus cellulolyticus
+T6	Protein_part 162 165	Gly
+T7	Protein_part 167 172	Y245G
+T8	Process 186 194	mutation
+T9	Parameter 200 205	value
+T10	Unknown 209 211	Ki
+T11	Process 216 226	inhibition
+T12	Protein 234 240	enzyme
+T13	Category 248 255	product
+T14	Value 291 296	1480%
+T15	Process 303 312	reduction
+T16	Category 316 323	product
+T17	Process 324 334	inhibition
+T18	Protein 347 360	mutant enzyme
+T19	Process 370 381	conjunction
+T20	Organism 387 405	Trichoderma reesei
+T21	Unknown 406 425	cellobiohydrolase-I
+T22	Chemical 446 452	sugars
+T23	Parameter 458 465	biomass
+T24	Chemical 466 475	cellulose
+T25	Parameter 481 485	rate
+T26	Value 497 500	40%
+T27	Protein 535 556	wild-type (WT) enzyme
+T28	Molecule 562 568	mutant
+T29	Process 589 594	basis
+T30	Geometrical_part 623 640	crystal structure
+T31	Protein 648 650	WT
+T32	Category 668 675	complex
+T33	Parameter 682 692	resolution
+T34	Value 696 701	2.4 A
+T35	Protein 738 744	enzyme
+T36	Process 745 754	mechanism
+T37	Protein_part 790 796	Tyr245
+T38	Protein_part 806 813	residue
+T39	Molecular_Part 833 846	leaving group
+T40	Process 879 885	change
+T41	Parameter 889 897	activity
+T42	Geometrical_part 903 920	crystal structure
+T43	Protein_part 924 929	Y245G
+T44	Value 944 949	2.4-A
+T45	Parameter 950 960	resolution
+T46	Parameter 967 975	R-factor
+T47	Value 979 983	0.19
+T48	Parameter 985 991	R-free
+T49	Value 994 998	0.25
+T50	Process 1057 1069	interactions
+T51	Parameter 1071 1078	density
+T52	Technique 1090 1102	calculations
+T53	Unknown 1136 1145	fragments
+T54	Protein 1153 1161	WT Cel5A
+T55	Protein_part 1166 1171	Y245G
+T56	Process 1212 1216	loss
+T57	Protein_part 1234 1239	Y245G
+T58	Chemical 1250 1263	hydrogen bond
+T59	State 1272 1286	conformational
+T60	Process 1287 1293	change
+T61	Protein_part 1297 1303	Gln247
+T62	Parameter 1317 1331	binding energy
+T63	Category 1341 1348	product
+T64	Protein 1353 1359	enzyme
+T65	Parameter 1371 1375	kilo
+T66	Parameter 1400 1407	kinetic
+T67	Technique 1423 1431	analyses
+T68	Protein 1458 1467	enzymatic
+T69	Parameter 1468 1476	activity
+T70	Category 1488 1495	product
+T71	Process 1496 1506	inhibition

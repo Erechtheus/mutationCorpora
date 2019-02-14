@@ -1,0 +1,55 @@
+T1	Value 4 9	1.6 A
+T2	Geometrical_part 10 19	structure
+T3	Protein_part 23 41	Kunitz-type domain
+T4	Protein 51 64	alpha 3 chain
+T5	Organism 68 78	human type
+T6	Protein 79 90	VI collagen
+T7	Protein_part 96 125	C-terminal Kunitz-type domain
+T8	Protein 135 148	alpha 3 chain
+T9	Organism 152 162	human type
+T10	Protein 163 179	VI collagen (C5)
+T11	Protein_part 193 211	amino acid residue
+T12	Protein 212 217	chain
+T13	Chemical 229 246	disulfide bridges
+T14	Geometrical_part 309 326	space group P2(1)
+T15	Parameter 333 334	a
+T16	Value 337 343	25.7 A
+T17	Parameter 345 346	b
+T18	Value 349 355	38.2 A
+T19	Parameter 357 358	c
+T20	Value 361 367	28.8 A
+T21	Parameter 372 376	beta
+T22	Value 379 390	109 degrees
+T23	Unknown 396 405	structure
+T24	Process 422 443	molecular replacement
+T25	Protein 451 480	Alzheimer's protein precursor
+T26	Category 481 490	inhibitor
+T27	Organism 496 502	bovine
+T28	Body_part 503 513	pancreatic
+T29	Protein 514 521	trypsin
+T30	Category 522 531	inhibitor
+T31	Geometrical_part 532 560	three-dimensional structures
+T32	Molecule 583 591	molecule
+T33	Chemical 601 612	sulfate ion
+T34	Chemical 631 646	water molecules
+T35	Unknown 662 667	XPLOR
+T36	Parameter 674 682	R-factor
+T37	Value 686 691	18.9%
+T38	Value 695 700	1.6 A
+T39	Molecule 706 714	molecule
+T40	Protein 736 743	trypsin
+T41	Protein 764 771	trypsin
+T42	Protein 782 798	serine proteases
+T43	Unknown 825 846	Kunitz family members
+T44	Protein 848 850	C5
+T45	Location 864 868	left
+T46	Chemical 893 919	Cys14-Cys38 disulfide bond
+T47	Physiology 921 930	Inversion
+T48	Chemical 938 952	Thr13 carbonyl
+T49	Protein_part 963 974	side-chains
+T50	Protein 997 1004	trypsin
+T51	Protein 1023 1033	C5-trypsin
+T52	Category 1034 1041	complex
+T53	Process 1058 1062	lack
+T54	Process 1066 1076	inhibition
+T55	Protein 1080 1087	trypsin

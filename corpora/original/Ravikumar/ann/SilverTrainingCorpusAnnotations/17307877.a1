@@ -1,0 +1,70 @@
+T1	Process 25 30	basis
+T2	Protein 34 52	polo-like kinase 1
+T3	Category 53 62	substrate
+T4	Process 63 74	recognition
+T5	Process 76 88	Implications
+T6	Process 104 116	localization
+T7	Protein 118 141	Polo-like kinase (Plk1)
+T8	Physiology 157 167	cell cycle
+T9	Process 168 179	progression
+T10	Process 188 195	mitosis
+T11	Process 242 252	mechanisms
+T12	Category 271 280	substrate
+T13	Process 281 292	recognition
+T14	Protein 296 300	Plk1
+T15	Process 331 343	localization
+T16	Parameter 348 356	activity
+T17	Protein 378 382	Plk1
+T18	Process 383 395	localization
+T19	Protein_part 426 447	polo box domain (PBD)
+T20	Protein 465 471	kinase
+T21	Protein_part 472 478	domain
+T22	Protein 499 503	Plk1
+T23	Process 514 523	mechanism
+T24	Body_part 531 541	centrosome
+T25	Geometrical_part 547 565	crystal structures
+T26	Protein_part 573 576	PBD
+T27	Category 580 587	complex
+T28	Protein_part 593 599	Cdc25C
+T29	Protein_part 604 612	Cdc25C-P
+T30	Process 613 619	target
+T31	Protein_part 620 628	peptides
+T32	Protein_part 641 648	Trp-414
+T33	Process 673 684	recognition
+T34	Process 703 718	phosphorylation
+T35	Process 727 734	Binding
+T36	Process 735 747	measurements
+T37	Protein_part 765 770	W414F
+T38	Process 771 779	mutation
+T39	Process 790 811	molecular recognition
+T40	Process 839 851	localization
+T41	Protein 864 868	Plk1
+T42	Process 882 894	localization
+T43	Protein_part 916 923	His-538
+T44	Protein_part 928 935	Lys-540
+T45	Protein_part 941 949	residues
+T46	Chemical 962 976	phosphorylated
+T47	Process 977 983	target
+T48	Process 984 991	binding
+T49	Process 997 1006	different
+T50	State 1007 1020	conformations
+T51	Geometrical_part 1028 1032	loop
+T52	Protein_part 1058 1063	boxes
+T53	Protein_part 1083 1093	PBD-Cdc25C
+T54	Protein_part 1098 1110	PBD-Cdc25C-P
+T55	Geometrical_part 1119 1129	structures
+T56	Process 1145 1152	changes
+T57	Protein_part 1160 1167	proline
+T58	Location 1168 1176	adjacent
+T59	Chemical 1184 1200	phosphothreonine
+T60	Process 1208 1214	target
+T61	Protein_part 1215 1222	peptide
+T62	Process 1234 1254	regulatory mechanism
+T63	Process 1265 1272	binding
+T64	Chemical 1276 1292	unphosphorylated
+T65	Chemical 1296 1310	phosphorylated
+T66	Process 1311 1317	target
+T67	Category 1318 1328	substrates
+T68	Process 1377 1388	interaction
+T69	Protein 1397 1401	Plk1
+T70	Protein 1406 1412	Cdc25C

@@ -1,0 +1,82 @@
+T1	Geometrical_part 0 9	Structure
+T2	Category 17 24	complex
+T3	Chemical 28 45	L-benzylsuccinate
+T4	Organism 51 56	wheat
+T5	Protein 57 84	serine carboxypeptidase  II
+T6	Value 88 93	2.0-A
+T7	Parameter 94 104	resolution
+T8	Geometrical_part 110 119	structure
+T9	Category 127 134	complex
+T10	Chemical 138 155	L-benzylsuccinate
+T11	Parameter 157 159	Ki
+T12	Value 162 168	0.2 mM
+T13	Organism 179 184	wheat
+T14	Protein 185 211	serine carboxypeptidase II
+T15	Value 233 238	2.0-A
+T16	Parameter 239 249	resolution
+T17	Unknown 275 283	crystals
+T18	Value 287 301	-170 degrees C
+T19	Technique 349 365	crystallographic
+T20	Parameter 366 374	R-factor
+T21	Value 378 383	0.176
+T22	Value 388 394	57,734
+T23	Parameter 395 406	reflections
+T24	Value 424 429	20.0-
+T25	Value 434 439	2.0-A
+T26	Parameter 440 450	resolution
+T27	Parameter 456 482	root mean square deviation
+T28	Chemical 494 499	bonds
+T29	Value 503 510	0.017 A
+T30	Parameter 526 532	angles
+T31	Value 536 547	2.6 degrees
+T32	Protein_part 576 587	amino acids
+T33	Protein_part 591 619	N-linked saccharide residues
+T34	Chemical 629 644	water molecules
+T35	Chemical 646 663	L-Benzylsuccinate
+T36	Protein_part 694 705	active site
+T37	Protein_part 717 723	Tyr 60
+T38	Protein_part 725 732	Tyr 239
+T39	Protein_part 742 753	polypeptide
+T40	Chemical 768 779	carboxylate
+T41	Chemical 786 800	hydrogen bonds
+T42	Protein_part 804 811	Glu 145
+T43	Protein_part 813 819	Asn 51
+T44	Chemical 825 830	amide
+T45	Protein_part 834 840	Gly 52
+T46	Protein_part 860 867	His 397
+T47	Chemical 891 921	peptide C-terminal carboxylate
+T48	Protein 943 949	enzyme
+T49	Chemical 955 961	phenyl
+T50	Geometrical_part 962 966	ring
+T51	Protein_part 982 989	Tyr 239
+T52	Protein_part 994 1000	Tyr 60
+T53	Chemical 1018 1029	carboxylate
+T54	Chemical 1044 1053	"oxyanion
+T55	Chemical 1072 1079	oxygens
+T56	Chemical 1088 1102	hydrogen bonds
+T57	Chemical 1112 1118	amides
+T58	Protein_part 1122 1129	Tyr 147
+T59	Protein_part 1134 1140	Gly 53
+T60	Process 1177 1184	contact
+T61	Value 1186 1191	2.3 A
+T62	Chemical 1202 1209	O gamma
+T63	Protein_part 1213 1220	Ser 146
+T64	Protein_part 1234 1244	side chain
+T65	State 1252 1264	conformation
+T66	State 1307 1312	state
+T67	Protein 1320 1326	enzyme
+T68	Category 1332 1341	inhibitor
+T69	Protein_part 1355 1366	active site
+T70	State 1420 1436	transition-state
+T71	Unknown 1437 1445	analogue
+T72	Protein 1450 1474	serine carboxypeptidases
+T73	Process 1503 1522	enzymatic mechanism
+T74	Category 1534 1543	substrate
+T75	Process 1553 1562	catalysis
+T76	Value 1591 1594	low
+T77	Parameter 1595 1597	pH
+T78	Value 1607 1614	4.0-5.5
+T79	Protein 1619 1628	peptidase
+T80	Parameter 1629 1637	activity
+T81	Unknown 1653 1659	family
+T82	Protein 1663 1681	serine proteinases

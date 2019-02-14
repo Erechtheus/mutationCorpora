@@ -1,0 +1,75 @@
+T1	Parameter 15 22	kinetic
+T2	Process 23 39	characterization
+T3	Protein_part 43 64	active-site histidine
+T4	Molecule 70 76	proton
+T5	Process 88 97	catalysis
+T6	Protein 101 128	human carbonic anhydrase II
+T7	Process 137 146	catalysis
+T8	Process 154 163	hydration
+T9	Chemical 167 181	carbon dioxide
+T10	Process 186 197	dehydration
+T11	Chemical 201 212	bicarbonate
+T12	Protein 216 252	human carbonic anhydrase II (HCA II)
+T13	Protein_part 256 273	histidine residue
+T14	Protein_part 275 280	His64
+T15	Molecule 292 299	protons
+T16	Chemical 312 316	zinc
+T17	Chemical 323 339	solvent molecule
+T18	Chemical 353 361	solution
+T19	Process 379 385	effect
+T20	Protein_part 417 426	histidine
+T21	Parameter 431 433	pH
+T22	Molecule 437 443	proton
+T23	Process 477 486	catalysis
+T24	Geometrical_part 491 509	crystal structures
+T25	Protein 513 529	wild-type HCA II
+T26	Molecule 538 552	double mutants
+T27	Protein 554 563	H64A/N62H
+T28	Protein 568 584	H64A/N67H HCA II
+T29	Protein_part 586 591	His62
+T30	Protein_part 596 601	His67
+T31	Protein_part 618 629	side chains
+T32	Protein_part 649 660	active-site
+T33	Body_part 661 667	cavity
+T34	Parameter 673 682	distances
+T35	Chemical 693 697	zinc
+T36	Protein_part 734 739	His64
+T37	Geometrical_part 741 759	Crystal structures
+T38	Parameter 779 781	pH
+T39	Value 782 790	5.1-10.0
+T40	Process 800 809	catalysis
+T41	Process 817 825	exchange
+T42	Chemical 829 834	(18)O
+T43	Unknown 843 848	CO(2)
+T44	Chemical 853 858	water
+T45	Technique 875 892	mass spectrometry
+T46	Molecule 904 910	proton
+T47	Parameter 931 935	rate
+T48	Value 939 952	10(5) s(-)(1)
+T49	Protein_part 970 979	histidine
+T50	Location 983 995	positions 64
+T51	Location 1001 1003	67
+T52	Molecule 1041 1047	proton
+T53	Process 1048 1056	transfer
+T54	Parameter 1062 1066	rate
+T55	Value 1072 1085	10(3) s(-)(1)
+T56	Protein_part 1103 1108	His62
+T57	Geometrical_part 1134 1152	crystal structures
+T58	Chemical 1170 1178	hydrogen
+T59	Protein 1186 1197	water chain
+T60	Protein_part 1210 1219	histidine
+T61	Protein_part 1228 1235	residue
+T62	Chemical 1244 1248	zinc
+T63	Chemical 1255 1262	solvent
+T64	Molecule 1308 1314	proton
+T65	Process 1315 1323	transfer
+T66	Chemical 1373 1388	water molecules
+T67	Category 1401 1406	donor
+T68	Category 1411 1419	acceptor
+T69	Molecule 1441 1447	proton
+T70	Process 1448 1456	transfer
+T71	Protein 1460 1466	HCA II
+T72	Chemical 1512 1524	water bridge
+T73	Chemical 1555 1570	water molecules
+T74	Molecule 1600 1606	proton
+T75	Process 1607 1615	transfer

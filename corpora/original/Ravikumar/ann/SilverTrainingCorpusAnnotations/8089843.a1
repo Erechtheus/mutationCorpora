@@ -1,0 +1,84 @@
+T1	Geometrical_part 0 18	Solution structure
+T2	Protein_part 22 35	reactive-site
+T3	Organism 47 53	turkey
+T4	Protein_part 54 76	ovomucoid third domain
+T5	Technique 80 106	nuclear magnetic resonance
+T6	Parameter 111 119	distance
+T7	Geometrical_part 120 128	geometry
+T8	Geometrical_part 142 160	solution structure
+T9	Protein_part 164 177	reactive-site
+T10	Organism 189 195	turkey
+T11	Protein_part 196 218	ovomucoid third domain
+T12	Protein_part 221 228	OMTKY3*
+T13	Parameter 279 287	distance
+T14	Parameter 317 325	distance
+T15	Unknown 379 385	family
+T16	Unknown 389 399	structures
+T17	Parameter 461 474	torsion angle
+T18	Chemical 491 505	hydrogen bonds
+T19	Body_part 552 559	nuclear
+T20	Unknown 560 570	Overhauser
+T21	Process 571 582	enhancement
+T22	Technique 583 595	spectroscopy
+T23	Chemical 612 629	disulfide bridges
+T24	Process 646 657	assignments
+T25	Chemical 680 689	hydrogens
+T26	Chemical 697 711	beta-methylene
+T27	Molecular_Part 712 718	groups
+T28	Chemical 733 749	isopropyl methyl
+T29	Molecular_Part 750 756	groups
+T30	Value 758 761	46%
+T31	Process 769 780	assignments
+T32	Protein_part 783 790	OMTKY3*
+T33	Chemical 794 802	solution
+T34	Geometrical_part 822 826	fold
+T35	Geometrical_part 839 858	secondary structure
+T36	Category 873 891	inhibitor (OMTKY3)
+T37	Process 922 933	differences
+T38	Location 941 949	adjacent
+T39	Protein_part 962 966	site
+T40	Chemical 987 995	hydrogen
+T41	Physiology 1004 1011	network
+T42	Protein_part 1028 1041	reactive-site
+T43	Category 1056 1065	inhibitor
+T44	Protein_part 1100 1105	Tyr20
+T45	Category 1133 1142	inhibitor
+T46	Chemical 1170 1173	ion
+T47	Protein_part 1213 1220	termini
+T48	Protein_part 1233 1237	site
+T49	Process 1274 1281	changes
+T50	Protein_part 1298 1305	OMTKY3*
+T51	Category 1326 1332	OMTKY3
+T52	Process 1334 1342	rotation
+T53	Protein_part 1350 1360	Tyr31 ring
+T54	Protein_part 1385 1392	OMTKY3*
+T55	Value 1396 1408	30 degrees C
+T56	Category 1413 1419	OMTKY3
+T57	Process 1426 1434	rotation
+T58	Protein_part 1442 1452	Tyr31 ring
+T59	Parameter 1474 1486	temperatures
+T60	Value 1487 1505	below 15 degrees C
+T61	Unknown 1518 1528	structures
+T62	Protein_part 1532 1539	OMTKY3*
+T63	Geometrical_part 1588 1598	structures
+T64	Protein 1602 1608	OMTKY3
+T65	Process 1636 1646	comparison
+T66	Protein_part 1674 1687	reactive-site
+T67	Protein 1697 1707	proteinase
+T68	Category 1708 1717	inhibitor
+T69	Process 1749 1759	comparison
+T70	Technique 1775 1791	X-ray structures
+T71	Organism 1804 1809	avian
+T72	Protein_part 1810 1833	ovomucoid third domains
+T73	Organism 1849 1856	species
+T74	Unknown 1871 1880	structure
+T75	Protein_part 1884 1891	OMTKY3*
+T76	Chemical 1895 1903	solution
+T77	Unknown 1938 1946	Japanese
+T78	Food 1947 1952	quail
+T79	Protein 1953 1960	protein
+T80	Protein 1962 1969	OMJPQ3*
+T81	Chemical 2025 2031	silver
+T82	Food 2032 2040	pheasant
+T83	Protein 2041 2048	protein
+T84	Protein 2050 2057	OMSVP3*

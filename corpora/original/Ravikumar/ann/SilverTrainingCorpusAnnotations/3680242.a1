@@ -1,0 +1,82 @@
+T1	Geometrical_part 4 21	crystal structure
+T2	Protein 25 39	ribonuclease B
+T3	Value 43 48	2.5-A
+T4	Parameter 49 59	resolution
+T5	Chemical 65 77	glycosylated
+T6	Organism 86 92	bovine
+T7	Body_part 93 103	pancreatic
+T8	Protein 104 116	ribonuclease
+T9	Protein 118 125	RNase B
+T10	Chemical 149 168	polyethylene glycol
+T11	Parameter 181 195	ionic strength
+T12	Geometrical_part 199 213	space group C2
+T13	Geometrical_part 219 228	unit cell
+T14	Parameter 229 239	dimensions
+T15	Parameter 243 244	a
+T16	Value 247 255	101.81 A
+T17	Parameter 257 258	b
+T18	Value 261 268	33.36 A
+T19	Parameter 270 271	c
+T20	Value 274 281	73.60 A
+T21	Parameter 287 291	beta
+T22	Value 295 307	90.4 degrees
+T23	Unknown 313 321	crystals
+T24	Molecule 355 364	molecules
+T25	Protein 368 376	RNase  B
+T26	Process 454 465	replacement
+T27	Process 470 491	molecular replacement
+T28	Unknown 508 518	structures
+T29	Molecule 530 539	molecules
+T30	Value 556 561	2.5-A
+T31	Parameter 562 572	resolution
+T32	Parameter 592 600	R factor
+T33	Value 604 608	0.22
+T34	Technique 617 672	constrained-restrained least squares procedure (CORELS)
+T35	Protein 710 717	RNase B
+T36	Chemical 723 743	ruthenium pentaamine
+T37	Protein 756 763	RNase B
+T38	Category 771 780	substrate
+T39	Chemical 781 801	analogue iodouridine
+T40	Protein_part 807 818	polypeptide
+T41	Molecule 840 849	molecules
+T42	Protein 853 860	RNase B
+T43	Process 935 946	differences
+T44	Protein 952 959	RNase A
+T45	Protein 999 1018	carbohydrate chains
+T46	Molecule 1027 1036	molecules
+T47	Chemical 1051 1067	solvent cavities
+T48	Unknown 1075 1082	crystal
+T49	Geometrical_part 1132 1136	part
+T50	Chemical 1142 1158	oligosaccharides
+T51	Process 1178 1187	influence
+T52	Geometrical_part 1195 1204	structure
+T53	Protein 1212 1219	protein
+T54	Chemical 1221 1232	Iodouridine
+T55	Protein_part 1273 1288	pyrimidine site
+T56	Protein 1297 1304	RNase B
+T57	Molecule 1305 1314	molecules
+T58	Protein 1380 1387	RNase A
+T59	Chemical 1389 1409	Ruthenium pentaamine
+T60	Protein_part 1419 1432	histidine 105
+T61	Protein 1441 1448	RNase B
+T62	Molecule 1449 1458	molecules
+T63	Protein_part 1502 1517	secondary sites
+T64	Technique 1530 1535	array
+T65	Chemical 1545 1549	ions
+T66	Unknown 1566 1571	Fo-Fc
+T67	Process 1572 1582	difference
+T68	Unknown 1583 1590	Fourier
+T69	Process 1591 1600	syntheses
+T70	Chemical 1608 1612	ions
+T71	Location 1618 1626	proximal
+T72	Protein_part 1630 1636	lysine
+T73	Protein_part 1641 1658	arginine residues
+T74	Geometrical_part 1666 1673	surface
+T75	Protein 1681 1689	proteins
+T76	Chemical 1713 1716	ion
+T77	Process 1717 1724	binding
+T78	Protein_part 1725 1730	sites
+T79	Protein_part 1765 1776	active site
+T80	Geometrical_part 1777 1783	clefts
+T81	Protein 1792 1799	RNase B
+T82	Molecule 1800 1809	molecules

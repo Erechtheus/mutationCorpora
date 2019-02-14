@@ -1,0 +1,97 @@
+T1	Process 11 27	characterization
+T2	Unknown 31 32	B
+T3	Unknown 37 51	non-B subtypes
+T4	Protein 55 67	HIV-protease
+T5	Process 95 109	susceptibility
+T6	Chemical 113 117	drug
+T7	Parameter 118 128	resistance
+T8	Process 129 140	development
+T9	Organism 165 170	HIV-1
+T10	Physiology 171 181	infections
+T11	Unknown 185 191	Brazil
+T12	Organism 210 225	subtype B virus
+T13	Unknown 249 255	United
+T14	Unknown 256 262	States
+T15	Technique 267 281	Western Europe
+T16	Organism 284 289	viral
+T17	Unknown 290 300	subtypes F
+T18	Unknown 306 307	C
+T19	Process 348 359	differences
+T20	Unknown 372 380	subtypes
+T21	Protein_part 394 402	sequence
+T22	Process 403 413	variations
+T23	Protein 429 437	proteins
+T24	Organism 453 458	HIV-1
+T25	Protein 459 467	protease
+T26	Chemical 481 495	anti-HIV drugs
+T27	Unknown 534 543	subtype B
+T28	Process 552 559	effects
+T29	Chemical 592 607	drug-resistance
+T30	Process 608 617	mutations
+T31	Process 646 659	polymorphisms
+T32	Organism 663 674	non-B HIV-1
+T33	Unknown 675 683	subtypes
+T34	Unknown 752 761	structure
+T35	Process 766 774	function
+T36	Process 778 787	different
+T37	Unknown 788 796	variants
+T38	Organism 800 803	HIV
+T39	Protein 804 813	proteases
+T40	Value 836 841	2.1 A
+T41	Unknown 842 851	structure
+T42	Organism 866 881	subtype F HIV-1
+T43	Protein 882 895	protease (PR)
+T44	Category 899 906	complex
+T45	Protein 916 924	protease
+T46	Category 925 934	inhibitor
+T47	Molecule 935 939	TL-3
+T48	Geometrical_part 961 979	crystal structures
+T49	Chemical 987 997	multi-drug
+T50	Organism 1015 1018	HIV
+T51	Protein 1019 1022	PRs
+T52	Category 1026 1033	complex
+T53	Molecule 1039 1043	TL-3
+T54	Unknown 1050 1066	subtype B (Bmut)
+T55	Process 1088 1097	mutations
+T56	Protein 1098 1102	V82A
+T57	Protein 1107 1111	L90M
+T58	Unknown 1122 1138	subtype F (Fmut)
+T59	Process 1160 1168	mutation
+T60	Protein_part 1169 1173	V82A
+T61	Process 1193 1201	mutation
+T62	Protein 1202 1206	M36I
+T63	Value 1211 1217	1.75 A
+T64	Value 1222 1227	2.8 A
+T65	Parameter 1228 1238	resolution
+T66	Protein 1258 1272	proteases Bmut
+T67	Protein 1274 1277	Fwt
+T68	Protein 1282 1286	Fmut
+T69	Value 1295 1304	sevenfold
+T70	Value 1306 1315	threefold
+T71	Value 1322 1329	54-fold
+T72	Parameter 1330 1340	resistance
+T73	Molecule 1344 1348	TL-3
+T74	Unknown 1381 1390	structure
+T75	Protein 1394 1420	subtype B wild type HIV-PR
+T76	Category 1424 1431	complex
+T77	Molecule 1437 1441	TL-3
+T78	Geometrical_part 1467 1484	space group P6(1)
+T79	Unknown 1518 1528	structures
+T80	Process 1564 1572	mutation
+T81	Protein_part 1573 1577	V82A
+T82	Process 1595 1601	effect
+T83	Unknown 1620 1626	S1/S1'
+T84	Process 1682 1688	effect
+T85	Molecule 1692 1696	TL-3
+T86	Process 1768 1781	substitutions
+T87	Unknown 1785 1794	subtype F
+T88	Organism 1806 1815	non-B HIV
+T89	Protein 1816 1825	proteases
+T90	Protein 1827 1831	M36I
+T91	Protein 1836 1840	L89M
+T92	Process 1860 1871	development
+T93	Chemical 1875 1879	drug
+T94	Parameter 1880 1890	resistance
+T95	Organism 1894 1902	patients
+T96	Organism 1917 1926	non-B HIV
+T97	Unknown 1927 1935	subtypes

@@ -1,0 +1,60 @@
+T1	Technique 0 25	Crystallographic analysis
+T2	Molecule 47 54	mutants
+T3	Organism 58 80	Azotobacter vinelandii
+T4	Protein 82 92	ferredoxin
+T5	Geometrical_part 98 115	crystal structure
+T6	Protein_part 123 134	C24A mutant
+T7	Organism 138 160	Azotobacter vinelandii
+T8	Protein 161 181	7Fe ferredoxin (FdI)
+T9	Value 213 218	2.0-A
+T10	Parameter 219 229	resolution
+T11	Unknown 235 244	structure
+T12	Protein 270 273	FdI
+T13	Protein_part 288 292	site
+T14	Process 296 304	mutation
+T15	Protein_part 311 314	A24
+T16	Chemical 332 340	[4Fe-4S]
+T17	Process 379 386	packing
+T18	Unknown 410 423	van der Waals
+T19	Process 424 432	contacts
+T20	Location 442 449	S gamma
+T21	Protein_part 453 456	C24
+T22	Protein 467 470	FdI
+T23	Chemical 535 543	[4Fe-4S]
+T24	Value 582 588	higher
+T25	Parameter 589 607	temperature factor
+T26	Parameter 609 617	B factor
+T27	Molecule 648 665	C24A FdI molecule
+T28	Protein 691 699	C24A FdI
+T29	Geometrical_part 700 709	structure
+T30	Parameter 731 739	B factor
+T31	Protein 752 755	FdI
+T32	Process 771 781	comparison
+T33	Protein 792 795	FdI
+T34	Protein_part 801 812	C24A mutant
+T35	Process 847 858	differences
+T36	Parameter 862 870	B factor
+T37	Chemical 890 898	[4Fe-4S]
+T38	Protein 925 933	C20A FdI
+T39	Geometrical_part 934 943	structure
+T40	Unknown 956 1031	G., Burgess, B. K., Stout, C. D., Cash, V. L., Dean, D. R., Jensen, G. M., 
+T41	Unknown 1035 1050	Stephens, P. J.
+T42	Unknown 1058 1086	Proc. Natl. Acad. Sci. U. S.
+T43	Process 1136 1150	rearrangements
+T44	Location 1158 1166	vicinity
+T45	Chemical 1174 1182	[4Fe-4S]
+T46	Process 1216 1222	change
+T47	Parameter 1226 1234	B factor
+T48	State 1240 1254	conformational
+T49	Process 1255 1261	change
+T50	Protein_part 1274 1284	residue 24
+T51	Protein_part 1304 1308	C24A
+T52	Protein 1313 1321	C20A FdI
+T53	Geometrical_part 1322 1332	structures
+T54	Chemical 1338 1345	solvent
+T55	Chemical 1367 1375	Fe atoms
+T56	Chemical 1383 1391	[3Fe-4S]
+T57	Chemical 1396 1404	[4Fe-4S]
+T58	Protein_part 1428 1432	C24A
+T59	Protein_part 1434 1438	C20A
+T60	Protein 1451 1454	FdI

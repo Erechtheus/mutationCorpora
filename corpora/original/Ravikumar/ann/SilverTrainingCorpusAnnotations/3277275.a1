@@ -1,0 +1,46 @@
+T1	Process 0 12	Replacements
+T2	Protein_part 16 21	Pro86
+T3	Organism 25 33	phage T4
+T4	Protein 34 42	lysozyme
+T5	Protein_part 53 64	alpha-helix
+T6	Protein 82 89	protein
+T7	State 90 99	stability
+T8	Process 120 128	relation
+T9	Protein 137 144	protein
+T10	State 145 154	stability
+T11	Organism 188 198	individual
+T12	Unknown 220 228	elements
+T13	Protein_part 230 243	residue Pro86
+T14	Protein_part 250 261	alpha-helix
+T15	Organism 265 273	phage T4
+T16	Protein 274 282	lysozyme
+T17	Process 303 312	different
+T18	Protein_part 313 324	amino acids
+T19	Molecule 330 335	x-ray
+T20	Geometrical_part 336 354	crystal structures
+T21	Protein 371 387	mutant lysozymes
+T22	Parameter 412 422	resolution
+T23	Process 438 449	replacement
+T24	Protein_part 457 464	proline
+T25	Process 481 490	formation
+T26	Protein_part 506 517	alpha-helix
+T27	State 541 555	conformational
+T28	Process 556 562	change
+T29	Protein_part 566 578	residues  81
+T30	Protein_part 582 584	83
+T31	Process 597 603	shifts
+T32	Value 616 628	20 angstroms
+T33	Protein 640 647	protein
+T34	Geometrical_part 648 655	surface
+T35	Protein_part 680 690	amino acid
+T36	Process 691 704	substitutions
+T37	Protein 723 730	protein
+T38	State 737 746	stability
+T39	Protein_part 787 797	amino acid
+T40	Location 801 812	position 86
+T41	Geometrical_part 883 890	helical
+T42	State 916 930	conformational
+T43	Process 931 938	changes
+T44	Process 960 969	mechanism
+T45	Protein 979 987	proteins
+T46	Process 1001 1010	mutations

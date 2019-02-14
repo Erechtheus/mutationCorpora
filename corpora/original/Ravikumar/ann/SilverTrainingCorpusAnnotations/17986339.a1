@@ -1,0 +1,98 @@
+T1	Unknown 0 8	Fragment
+T2	Process 15 29	identification
+T3	State 49 63	conformational
+T4	Technique 68 81	spectroscopic
+T5	Process 82 88	change
+T6	Protein_part 102 113	active site
+T7	Molecule 145 150	toxin
+T8	Protein 213 232	ricin A-chain (RTA)
+T9	Chemical 273 285	adenine base
+T10	Body_part 291 300	ribosomal
+T11	Protein 301 304	RNA
+T12	Process 323 334	translation
+T13	Parameter 361 373	relationship
+T14	Category 382 388	ligand
+T15	Process 389 396	binding
+T16	Protein_part 401 416	RTA active site
+T17	State 417 431	conformational
+T18	Process 432 438	change
+T19	Unknown 450 458	fragment
+T20	Process 499 506	bonding
+T21	Process 507 519	interactions
+T22	Process 535 549	rearrangements
+T23	Protein_part 562 572	side-chain
+T24	Category 620 626	ligand
+T25	Protein 642 656	open conformer
+T26	Protein_part 664 686	RTA active site pocket
+T27	Chemical 694 699	amide
+T28	Molecular_Part 700 705	group
+T29	Chemical 735 749	hydrogen bonds
+T30	Protein 757 764	protein
+T31	Chemical 787 792	amide
+T32	Molecule 804 813	molecules
+T33	Process 830 836	switch
+T34	Geometrical_part 840 848	geometry
+T35	Geometrical_part 856 864	parallel
+T36	Process 883 894	arrangement
+T37	Chemical 901 930	arginine-tryptophan cation-pi
+T38	Process 931 942	interaction
+T39	Process 971 979	increase
+T40	Protein_part 997 1007	tryptophan
+T41	Technique 1008 1020	fluorescence
+T42	Category 1026 1032	ligand
+T43	Process 1033 1040	binding
+T44	Technique 1061 1073	fluorescence
+T45	Process 1114 1121	changes
+T46	Chemical 1125 1132	adenine
+T47	Protein_part 1148 1163	RTA active site
+T48	Protein_part 1180 1184	site
+T49	Process 1194 1201	binding
+T50	Chemical 1205 1209	urea
+T51	Chemical 1211 1215	Urea
+T52	Process 1216 1223	binding
+T53	Parameter 1240 1248	enthalpy
+T54	Process 1249 1255	change
+T55	Parameter 1272 1279	entropy
+T56	Process 1280 1286	change
+T57	Parameter 1295 1301	DeltaH
+T58	Value 1305 1321	-13 +/- 2 kJ/mol
+T59	Parameter 1328 1334	DeltaS
+T60	Value 1338 1352	-0.04 +/- 0.01
+T61	Unknown 1353 1363	kJ/(K*mol)
+T62	Protein_part 1369 1379	side-chain
+T63	Protein_part 1392 1405	residue Tyr80
+T64	Category 1411 1418	complex
+T65	Chemical 1424 1431	adenine
+T66	Geometrical_part 1480 1485	rings
+T67	Chemical 1495 1501	purine
+T68	Process 1549 1553	role
+T69	Protein_part 1583 1598	RTA active site
+T70	Chemical 1626 1631	amide
+T71	Category 1632 1639	ligands
+T72	Protein_part 1686 1697	active site
+T73	Process 1721 1727	shifts
+T74	Protein_part 1758 1785	active site residues Arg180
+T75	Protein_part 1790 1795	Tyr80
+T76	Unknown 1825 1833	fragment
+T77	Chemical 1840 1844	drug
+T78	Process 1898 1905	bonding
+T79	Protein_part 1922 1944	active-site side-chain
+T80	Process 1945 1959	rearrangements
+T81	Technique 1991 2004	spectroscopic
+T82	Process 2005 2011	shifts
+T83	Protein_part 2038 2048	tryptophan
+T84	Technique 2049 2061	fluorescence
+T85	Molecular_Part 2083 2088	probe
+T86	Parameter 2097 2119	geometric relationship
+T87	Chemical 2123 2142	arginine-tryptophan
+T88	Process 2180 2185	roles
+T89	Protein 2189 2196	protein
+T90	Process 2197 2205	function
+T91	Protein 2249 2259	RTA system
+T92	Process 2311 2318	changes
+T93	Protein_part 2322 2326	site
+T94	Chemical 2336 2340	urea
+T95	Protein 2354 2361	protein
+T96	Process 2419 2429	mechanisms
+T97	Protein 2433 2440	protein
+T98	Process 2441 2453	denaturation

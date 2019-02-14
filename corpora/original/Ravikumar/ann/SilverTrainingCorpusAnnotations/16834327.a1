@@ -1,0 +1,62 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 47	Mycobacterium tuberculosis
+T3	Protein 48 64	shikimate kinase
+T4	Category 68 75	complex
+T5	Chemical 82 95	shikimic acid
+T6	Chemical 103 115	ATP analogue
+T7	Protein 117 138	Shikimate kinase (SK)
+T8	Protein 149 156	enzymes
+T9	Process 174 181	pathway
+T10	Process 196 203	targets
+T11	Chemical 228 248	antimicrobial agents
+T12	Chemical 266 284	antiparasite drugs
+T13	Process 298 305	pathway
+T14	Organism 322 336	microorganisms
+T15	Organism 338 344	plants
+T16	Organism 350 359	parasites
+T17	Organism 376 383	mammals
+T18	Protein 385 387	SK
+T19	Process 402 410	reaction
+T20	Chemical 414 424	phosphoryl
+T21	Process 425 433	transfer
+T22	Chemical 439 442	ATP
+T23	Chemical 446 464	shikimic acid (SA)
+T24	Protein 492 494	SK
+T25	Geometrical_part 495 505	structures
+T26	Category 560 569	substrate
+T27	Chemical 571 573	SA
+T28	Chemical 578 581	ATP
+T29	Category 594 601	product
+T30	Chemical 603 615	SA-phosphate
+T31	Chemical 620 623	ADP
+T32	Molecule 625 634	molecules
+T33	Geometrical_part 659 678	crystal  structures
+T34	Protein 682 723	SK from Mycobacterium tuberculosis (MtSK)
+T35	Protein 735 743	apo-MtSK
+T36	Protein 762 766	MtSK
+T37	Chemical 767 771	x SA
+T38	Category 781 796	ternary complex
+T39	Protein 800 804	MtSK
+T40	Chemical 810 812	SA
+T41	Chemical 820 832	ATP analogue
+T42	Chemical 834 840	AMPPCP
+T43	Geometrical_part 846 856	structures
+T44	Protein 860 868	apo-MtSK
+T45	Protein 873 877	MtSK
+T46	Protein_part 878 888	x AMPPCP x
+T47	Chemical 889 891	SA
+T48	State 926 940	conformational
+T49	Process 941 948	changes
+T50	Protein 952 956	MtSK
+T51	Process 966 973	binding
+T52	Category 982 992	substrates
+T53	Unknown 998 1007	structure
+T54	Protein 1011 1015	MtSK
+T55	Protein_part 1016 1026	x AMPPCP x
+T56	Chemical 1027 1029	SA
+T57	Process 1038 1050	interactions
+T58	Protein 1064 1071	protein
+T59	Chemical 1076 1091	gamma-phosphate
+T60	Process 1115 1120	roles
+T61	Protein_part 1124 1148	catalytic residues Lys15
+T62	Protein_part 1153 1159	Arg117

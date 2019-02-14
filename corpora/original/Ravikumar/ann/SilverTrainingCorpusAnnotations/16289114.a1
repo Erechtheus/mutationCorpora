@@ -1,0 +1,83 @@
+T1	Process 11 23	consequences
+T2	Parameter 31 33	pH
+T3	State 42 56	conformational
+T4	Process 57 63	switch
+T5	Organism 67 79	A.polyphemus
+T6	Chemical 80 89	pheromone
+T7	Protein 98 105	protein
+T8	Process 107 117	mechanisms
+T9	Category 121 127	ligand
+T10	Process 128 135	release
+T11	Process 137 146	Olfaction
+T12	Chemical 198 206	chemical
+T13	Process 207 220	communication
+T14	Parameter 255 266	sensitivity
+T15	Parameter 271 282	selectivity
+T16	Protein 284 317	Pheromone-binding proteins (PBPs)
+T17	Organism 346 355	male moth
+T18	Organism 366 380	insect species
+T19	Chemical 403 422	pheromone molecules
+T20	Protein 449 458	G protein
+T21	Body_part 467 476	olfactory
+T22	Protein 477 494	receptor proteins
+T23	Category 537 544	ligands
+T24	Body_part 548 556	membrane
+T25	Protein 563 572	receptors
+T26	Category 582 588	ligand
+T27	Process 589 596	release
+T28	Process 613 619	target
+T29	Body_part 620 634	cell membranes
+T30	Protein 702 705	PBP
+T31	Physiology 721 725	silk
+T32	Organism 726 761	moth Antheraea polyphemus (ApolPBP)
+T33	Chemical 768 785	acetate pheromone
+T34	Parameter 794 796	pH
+T35	Value 803 806	6.0
+T36	Geometrical_part 812 825	its structure
+T37	Parameter 829 831	pH
+T38	Value 832 835	6.3
+T39	Chemical 887 895	solution
+T40	Technique 896 899	NMR
+T41	Geometrical_part 900 909	structure
+T42	Organism 913 920	ApolPBP
+T43	Parameter 928 937	acidic pH
+T44	Value 938 941	5.2
+T45	Process 943 953	Comparison
+T46	Unknown 969 978	structure
+T47	Value 990 997	neutral
+T48	Parameter 998 1000	pH
+T49	Parameter 1028 1030	pH
+T50	State 1039 1053	conformational
+T51	Process 1054 1061	changes
+T52	Category 1097 1103	ligand
+T53	Process 1104 1111	release
+T54	Parameter 1115 1124	acidic pH
+T55	Organism 1130 1137	ApolPBP
+T56	Parameter 1138 1140	pH
+T57	Process 1160 1166	change
+T58	Chemical 1209 1216	alcohol
+T59	Protein 1217 1250	binding Bombyx mori PBP (BmorPBP)
+T60	Protein_part 1262 1280	C-terminal segment
+T61	Protein_part 1294 1299	helix
+T62	Category 1317 1323	ligand
+T63	Process 1324 1331	binding
+T64	Body_part 1332 1338	cavity
+T65	Process 1353 1366	reorientation
+T66	Protein 1370 1384	helices alpha1
+T67	Protein 1386 1392	alpha3
+T68	Protein 1398 1404	alpha4
+T69	Parameter 1408 1417	acidic pH
+T70	Process 1428 1439	protonation
+T71	Protein_part 1443 1448	His69
+T72	Protein_part 1450 1455	His70
+T73	Protein_part 1460 1465	His95
+T74	Location 1473 1481	interior
+T75	Parameter 1509 1514	force
+T76	Process 1526 1533	opening
+T77	Category 1541 1547	ligand
+T78	Process 1548 1555	binding
+T79	Body_part 1556 1562	cavity
+T80	Process 1571 1578	release
+T81	Chemical 1586 1604	pheromone molecule
+T82	Protein 1614 1629	carrier protein
+T83	Body_part 1639 1647	membrane

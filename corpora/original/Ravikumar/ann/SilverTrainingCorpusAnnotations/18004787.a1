@@ -1,0 +1,100 @@
+T1	Protein_part 7 19	L-asparagine
+T2	Chemical 24 53	N-phosphonacetyl-L-asparagine
+T3	Protein_part 73 80	linkage
+T4	Process 85 94	catalysis
+T5	Organism 127 134	E. coli
+T6	Protein 135 162	aspartate transcarbomoylase
+T7	Process 168 177	mechanism
+T8	Protein_part 181 187	domain
+T9	Process 188 195	closure
+T10	Process 204 282	allosteric transition of Escherichia coli aspartate transcarbamoylase (ATCase)
+T11	Protein_part 306 311	L-Asn
+T12	Process 320 328	presence
+T13	Chemical 332 356	carbamoyl phosphate (CP)
+T14	Protein_part 362 398	N-phosphonacetyl-L-asparagine (PASN)
+T15	Process 400 406	ATCase
+T16	Process 433 447	carbamoylation
+T17	Protein_part 451 456	L-Asn
+T18	Parameter 464 468	K(m)
+T19	Value 472 478	122 mM
+T20	Parameter 485 501	maximal velocity
+T21	Value 502 509	10-fold
+T22	Category 547 556	substrate
+T23	Protein_part 558 563	L-Asp
+T24	Protein_part 579 584	L-Asp
+T25	Protein_part 632 637	L-Asn
+T26	Parameter 640 644	Time
+T27	Parameter 654 689	small-angle X-ray scattering (SAXS)
+T28	Technique 694 706	fluorescence
+T29	Process 707 718	experiments
+T30	Chemical 752 754	CP
+T31	Protein_part 759 764	L-Asn
+T32	Protein 785 791	enzyme
+T33	Unknown 801 802	T
+T34	State 810 817	R state
+T35	Protein_part 819 823	PASN
+T36	Category 849 858	inhibitor
+T37	Process 862 868	ATCase
+T38	Parameter 883 887	K(D)
+T39	Value 891 901	8.8 microM
+T40	Parameter 903 907	SAXS
+T41	Process 908 919	experiments
+T42	Protein_part 932 936	PASN
+T43	Molecule 982 991	molecules
+T44	State 999 1006	R state
+T45	Technique 1008 1016	Analysis
+T46	Geometrical_part 1024 1041	crystal structure
+T47	Protein 1050 1056	enzyme
+T48	Process 1064 1072	presence
+T49	Protein_part 1076 1080	PASN
+T50	Process 1099 1106	binding
+T51	Protein_part 1110 1114	PASN
+T52	Unknown 1142 1149	R-state
+T53	Category 1150 1157	complex
+T54	Process 1161 1167	ATCase
+T55	Chemical 1173 1200	N-phosphonaceyl-L-aspartate
+T56	Category 1217 1226	inhibitor
+T57	Protein 1234 1240	enzyme
+T58	Chemical 1258 1260	CP
+T59	Protein_part 1265 1270	L-Asn
+T60	Molecule 1280 1288	molecule
+T61	Protein_part 1290 1294	PASN
+T62	Protein_part 1318 1328	asparagine
+T63	Molecular_Part 1329 1335	moiety
+T64	Protein_part 1344 1355	active site
+T65	Protein_part 1366 1372	domain
+T66	Process 1373 1380	closure
+T67	Process 1389 1410	allosteric transition
+T68	Process 1426 1432	effect
+T69	Parameter 1453 1461	affinity
+T70	Process 1462 1469	binding
+T71	Protein_part 1473 1477	PASN
+T72	Process 1492 1499	binding
+T73	Protein_part 1503 1508	L-Asn
+T74	Process 1517 1525	presence
+T75	Parameter 1542 1555	concentration
+T76	Chemical 1559 1561	CP
+T77	Process 1583 1590	closure
+T78	Protein_part 1602 1609	domains
+T79	Protein 1627 1632	chain
+T80	Protein 1647 1653	enzyme
+T81	Process 1666 1676	transition
+T82	Parameter 1704 1712	affinity
+T83	Protein 1713 1714	R
+T84	Geometrical_part 1715 1724	structure
+T85	Protein_part 1751 1757	Arg229
+T86	Chemical 1784 1800	beta-carboxylate
+T87	Protein_part 1804 1809	L-Asp
+T88	Process 1828 1832	role
+T89	Process 1840 1851	orientation
+T90	Protein_part 1855 1860	L-Asp
+T91	Protein_part 1868 1879	active site
+T92	Process 1901 1912	requirement
+T93	Chemical 1920 1936	beta-carboxylate
+T94	Protein_part 1940 1945	L-Asp
+T95	Process 1953 1962	mechanism
+T96	Protein_part 1966 1972	domain
+T97	Process 1973 1980	closure
+T98	Process 1989 2010	allosteric transition
+T99	Organism 2014 2021	E. coli
+T100	Process 2022 2028	ATCase

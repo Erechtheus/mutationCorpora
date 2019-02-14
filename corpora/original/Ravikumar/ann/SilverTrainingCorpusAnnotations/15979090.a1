@@ -1,0 +1,79 @@
+T1	Geometrical_part 0 17	Crystal structure
+T2	Organism 21 29	Bacillus
+T3	Unknown 34 37	GL1
+T4	Protein 46 51	lyase
+T5	Category 69 78	substrate
+T6	Protein 98 104	enzyme
+T7	Process 105 113	reaction
+T8	Process 114 123	mechanism
+T9	Organism 125 133	Bacillus
+T10	Unknown 138 141	GL1
+T11	Protein 150 155	lyase
+T12	Unknown 159 165	member
+T13	Protein 169 205	polysaccharide lyase family 8 (PL-8)
+T14	Protein_part 232 243	side-chains
+T15	Chemical 247 262	pentasaccharide
+T16	Chemical 273 287	polysaccharide
+T17	Chemical 313 328	glycosidic bond
+T18	Chemical 337 360	glucuronic acid (GlcUA)
+T19	Chemical 365 393	pyruvylated mannose (PyrMan)
+T20	Protein 404 408	beta
+T21	Process 421 429	reaction
+T22	Protein 447 453	enzyme
+T23	Process 454 462	reaction
+T24	Process 463 472	mechanism
+T25	Category 483 492	substrate
+T26	Process 493 504	recognition
+T27	Process 509 527	catalytic reaction
+T28	Geometrical_part 543 561	crystal structures
+T29	Protein 567 580	mutant enzyme
+T30	Protein 582 587	N194A
+T31	Category 592 601	complexes
+T32	Category 611 618	product
+T33	Chemical 620 626	PyrMan
+T34	Category 634 643	substrate
+T35	Chemical 645 659	pentasacharide
+T36	Value 690 693	1.8
+T37	Value 695 698	2.1
+T38	Value 704 708	2.3A
+T39	Parameter 709 719	resolution
+T40	Unknown 734 744	structures
+T41	Molecule 752 758	mutant
+T42	Category 762 771	complexes
+T43	Category 781 788	product
+T44	Category 793 802	substrate
+T45	Protein 826 831	lyase
+T46	Protein_part 847 861	PyrMan residue
+T47	Protein_part 865 875	subsite -1
+T48	Protein_part 884 897	GlcUA residue
+T49	Protein_part 919 929	side-chain
+T50	Process 951 962	interaction
+T51	Protein_part 972 982	main chain
+T52	Chemical 990 1004	polysaccharide
+T53	Unknown 1010 1019	structure
+T54	Category 1044 1051	complex
+T55	Chemical 1073 1081	hydroxyl
+T56	Molecular_Part 1082 1087	group
+T57	Protein_part 1092 1098	Tyr255
+T58	Chemical 1121 1129	C-5 atom
+T59	Protein_part 1137 1150	GlcUA residue
+T60	Chemical 1159 1170	oxygen atom
+T61	Chemical 1178 1193	glycosidic bond
+T62	Protein_part 1225 1231	Tyr255
+T63	Chemical 1249 1261	general base
+T64	Molecule 1280 1286	proton
+T65	Unknown 1292 1295	C-5
+T66	Protein_part 1303 1316	GlcUA residue
+T67	Chemical 1334 1338	acid
+T68	Molecule 1356 1362	proton
+T69	Chemical 1370 1385	glycosidic bond
+T70	Process 1400 1410	comparison
+T71	Location 1414 1431	catalytic centers
+T72	Protein 1435 1446	PL-8 lyases
+T73	Process 1466 1484	catalytic reaction
+T74	Process 1485 1494	mechanism
+T75	Unknown 1512 1519	members
+T76	Unknown 1527 1538	family PL-8
+T77	Category 1550 1559	substrate
+T78	Process 1560 1571	recognition
+T79	Process 1572 1581	mechanism

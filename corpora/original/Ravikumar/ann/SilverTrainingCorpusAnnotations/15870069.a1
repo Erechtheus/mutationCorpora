@@ -1,0 +1,96 @@
+T1	Parameter 5 15	resolution
+T2	Process 16 24	reaction
+T3	Molecule 25 38	intermediates
+T4	Organism 42 48	rabbit
+T5	Body_part 49 55	muscle
+T6	Protein 56 90	fructose-1,6-bisphosphate aldolase
+T7	Category 92 101	substrate
+T8	Process 102 110	cleavage
+T9	Geometrical_part 128 146	Crystal structures
+T10	Value 166 171	1.8 A
+T11	Parameter 172 182	resolution
+T12	Protein 190 244	glycolytic enzyme fructose-1,6-bis(phosphate) aldolase
+T13	Category 256 263	complex
+T14	Category 273 282	substrate
+T15	Category 302 311	inhibitor
+T16	Chemical 313 340	mannitol-1,6-bis(phosphate)
+T17	Protein 346 352	enzyme
+T18	Category 353 362	substrate
+T19	Category 363 370	complex
+T20	Chemical 403 427	Schiff base intermediate
+T21	Process 436 444	reaction
+T22	Geometrical_part 445 453	geometry
+T23	Chemical 480 490	C3-C4 bond
+T24	Process 491 499	cleavage
+T25	Protein_part 510 517	Glu-187
+T26	Location 528 536	adjacent
+T27	Chemical 547 558	Schiff base
+T28	Protein_part 567 574	Lys-229
+T29	Chemical 576 580	Atom
+T30	Process 581 592	arrangement
+T31	Chemical 611 615	bond
+T32	Process 623 631	reaction
+T33	Molecule 632 644	intermediate
+T34	Category 645 651	mimics
+T35	State 665 681	transition state
+T36	Process 714 727	condensations
+T37	Chemical 729 751	Lys-146 hydrogen-bonds
+T38	Category 756 765	substrate
+T39	Chemical 766 777	C4 hydroxyl
+T40	Category 790 799	substrate
+T41	Process 800 808	cleavage
+T42	Value 839 847	negative
+T43	Parameter 848 854	charge
+T44	Chemical 862 873	C4 hydroxyl
+T45	Molecule 881 887	proton
+T46	Process 888 899	abstraction
+T47	Chemical 901 928	Mannitol-1,6-bis(phosphate)
+T48	Category 949 956	complex
+T49	Protein_part 964 975	active site
+T50	Process 983 990	binding
+T51	Geometrical_part 991 999	geometry
+T52	Category 1000 1006	mimics
+T53	Chemical 1020 1043	carbinolamine precursor
+T54	Chemical 1045 1067	Glu-187 hydrogen-bonds
+T55	Chemical 1072 1083	C2 hydroxyl
+T56	Category 1091 1100	inhibitor
+T57	Protein 1108 1114	enzyme
+T58	Category 1115 1122	complex
+T59	Molecule 1141 1147	proton
+T60	Process 1148 1156	transfer
+T61	Process 1157 1161	role
+T62	Protein_part 1165 1172	Glu-187
+T63	Process 1191 1201	conversion
+T64	Chemical 1210 1236	carbinolamine intermediate
+T65	Chemical 1240 1251	Schiff base
+T66	Category 1277 1286	substrate
+T67	Process 1288 1301	configuration
+T68	Protein_part 1311 1322	active site
+T69	Protein_part 1329 1336	Glu-187
+T70	Chemical 1341 1345	acid
+T71	Chemical 1352 1360	hydrogen
+T72	Category 1375 1384	substrate
+T73	Chemical 1385 1396	C2 carbonyl
+T74	Chemical 1401 1412	C4 hydroxyl
+T75	Category 1435 1444	substrate
+T76	Chemical 1445 1451	ketose
+T77	Protein_part 1479 1486	Lys-229
+T78	Process 1508 1512	role
+T79	Protein_part 1516 1523	Glu-187
+T80	Chemical 1580 1591	Schiff base
+T81	Protein 1600 1609	aldolases
+T82	Chemical 1621 1633	carbohydrate
+T83	Process 1634 1644	metabolism
+T84	Chemical 1658 1685	tagatose-1,6-bis(phosphate)
+T85	Protein 1689 1704	diastereoisomer
+T86	Chemical 1708 1735	fructose 1,6-bis(phosphate)
+T87	Process 1762 1776	discrimination
+T88	Chemical 1789 1799	ketohexose
+T89	Process 1800 1807	binding
+T90	Category 1826 1832	ligand
+T91	State 1852 1866	conformational
+T92	Process 1867 1874	changes
+T93	Location 1882 1890	adjacent
+T94	Protein_part 1891 1912	alpha-helical regions
+T95	Chemical 1926 1935	phosphate
+T96	Protein_part 1951 1962	active site

@@ -1,0 +1,76 @@
+T1	Unknown 0 9	Structure
+T2	Organism 23 30	tobacco
+T3	Physiology 31 39	necrosis
+T4	Organism 40 45	virus
+T5	Technique 52 68	crystallographic
+T6	Process 69 79	refinement
+T7	Value 83 88	2.5 A
+T8	Parameter 89 99	resolution
+T9	Geometrical_part 105 114	structure
+T10	Protein 122 137	protein subunit
+T11	Organism 151 158	tobacco
+T12	Physiology 159 167	necrosis
+T13	Organism 168 173	virus
+T14	Value 193 198	3.7 A
+T15	Parameter 199 209	resolution
+T16	Parameter 288 298	resolution
+T17	Value 302 307	2.5 A
+T18	Protein 378 385	subunit
+T19	Process 386 398	interactions
+T20	Process 404 414	refinement
+T21	Geometrical_part 470 478	symmetry
+T22	Organism 486 491	virus
+T23	Unknown 492 500	particle
+T24	Physiology 538 545	network
+T25	Process 549 561	interactions
+T26	Protein_part 574 587	salt linkages
+T27	Chemical 589 603	hydrogen bonds
+T28	Process 620 628	contacts
+T29	Process 665 674	different
+T30	Protein_part 675 690	metal ion sites
+T31	Protein 698 705	protein
+T32	Protein 725 741	protein subunits
+T33	Protein_part 758 763	sites
+T34	Chemical 789 801	calcium ions
+T35	Protein_part 807 811	site
+T36	Geometrical_part 864 875	3-fold axis
+T37	Organism 883 888	virus
+T38	Category 894 901	ligands
+T39	Chemical 910 920	octahedral
+T40	Process 921 932	arrangement
+T41	Protein_part 943 953	main chain
+T42	Chemical 954 970	carbonyl oxygens
+T43	Chemical 992 1010	carboxylate oxygen
+T44	Parameter 1012 1015	OD1
+T45	Protein_part 1021 1027	Asp194
+T46	Protein 1041 1048	subunit
+T47	Chemical 1062 1080	carboxylate oxygen
+T48	Chemical 1082 1085	OE1
+T49	Protein_part 1089 1094	Glu25
+T50	Value 1103 1109	3-fold
+T51	Protein 1118 1125	subunit
+T52	Chemical 1131 1146	water molecules
+T53	Chemical 1160 1170	octahedral
+T54	Process 1171 1182	arrangement
+T55	Protein_part 1186 1197	second site
+T56	Geometrical_part 1220 1231	3-fold axis
+T57	Chemical 1255 1274	carboxylate oxygens
+T58	Value 1282 1288	3-fold
+T59	Protein_part 1298 1312	Asp55 residues
+T60	Protein_part 1324 1338	metal ion site
+T61	Value 1355 1361	5-fold
+T62	Location 1362 1366	axis
+T63	Chemical 1389 1405	carbonyl oxygens
+T64	Protein_part 1409 1415	Thr138
+T65	Chemical 1424 1439	water molecules
+T66	Protein_part 1478 1508	N-terminal amino acid residues
+T67	Organism 1531 1536	virus
+T68	Location 1537 1545	interior
+T69	Parameter 1564 1571	density
+T70	Protein 1576 1579	RNA
+T71	Chemical 1616 1628	nucleic acid
+T72	Organism 1636 1641	virus
+T73	Process 1665 1676	orientation
+T74	Unknown 1684 1691	crystal
+T75	Unknown 1693 1698	CRDT-
+T76	Value 1707 1715	25 00:00

@@ -1,0 +1,65 @@
+T1	Unknown 11 18	crystal
+T2	Organism 27 44	Aspergillus niger
+T3	Protein 45 58	alpha-amylase
+T4	Category 62 69	complex
+T5	Chemical 75 82	maltose
+T6	Value 86 99	1.8 angstroms
+T7	Parameter 100 110	resolution
+T8	Organism 112 129	Aspergillus niger
+T9	Protein 130 143	alpha-amylase
+T10	Process 158 168	hydrolysis
+T11	Chemical 172 199	alpha-1,4-glucosidic  bonds
+T12	Chemical 203 209	starch
+T13	Value 220 224	100%
+T14	Parameter 225 242	sequence identity
+T15	Organism 250 259	A. oryzae
+T16	Protein 260 269	homologue
+T17	Protein 283 295	TAKA-amylase
+T18	Geometrical_part 304 322	crystal structures
+T19	Geometrical_part 400 425	space group P2(1)2(1)2(1)
+T20	Molecule 435 443	molecule
+T21	Geometrical_part 498 515	space group P2(1)
+T22	Molecule 528 537	molecules
+T23	Process 569 581	purification
+T24	Process 583 598	crystallization
+T25	Unknown 603 612	structure
+T26	Organism 630 638	A. niger
+T27	Protein 639 652	alpha-amylase
+T28	Geometrical_part 684 701	space group P2(1)
+T29	Molecule 711 720	molecules
+T30	Category 744 751	complex
+T31	Chemical 757 764	maltose
+T32	Value 768 781	1.8 angstroms
+T33	Parameter 782 792	resolution
+T34	Value 827 840	1.6 angstroms
+T35	Parameter 841 851	resolution
+T36	Unknown 865 872	crystal
+T37	Geometrical_part 879 901	space group P2(1)2(1)2
+T38	Protein 917 923	enzyme
+T39	Chemical 943 960	maltose molecules
+T40	Protein 981 1002	maltose-alpha-amylase
+T41	Category 1003 1010	complex
+T42	Protein_part 1034 1057	active-site subsites -2
+T43	Protein_part 1063 1065	-1
+T44	Protein_part 1105 1113	subsites
+T45	Protein_part 1118 1124	Asp233
+T46	Protein_part 1126 1132	Gly234
+T47	Protein_part 1142 1148	Asp235
+T48	Chemical 1162 1178	maltose molecule
+T49	Process 1200 1207	binding
+T50	Protein_part 1208 1216	sites d1
+T51	Protein_part 1218 1224	Tyr382
+T52	Unknown 1230 1232	d2
+T53	Protein_part 1234 1240	Trp385
+T54	Protein_part 1305 1323	active-site groove
+T55	Process 1332 1341	different
+T56	Process 1342 1349	binding
+T57	Chemical 1359 1364	sugar
+T58	Protein_part 1374 1382	subsites
+T59	Protein_part 1418 1435	active-site cleft
+T60	Location 1449 1465	catalytic centre
+T61	Process 1499 1506	binding
+T62	Category 1510 1519	substrate
+T63	Protein 1520 1526	chains
+T64	Process 1534 1541	release
+T65	Category 1545 1553	products

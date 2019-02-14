@@ -1,0 +1,112 @@
+T1	Process 26 42	characterization
+T2	Category 46 52	HQL-79
+T3	Category 74 83	inhibitor
+T4	Organism 87 92	human
+T5	Body_part 93 106	hematopoietic
+T6	Protein 107 131	prostaglandin D synthase
+T7	Geometrical_part 151 168	crystal structure
+T8	Organism 172 177	human
+T9	Protein 178 230	hematopoietic prostaglandin (PG) D synthase (H-PGDS)
+T10	Category 238 256	quaternary complex
+T11	Chemical 262 273	glutathione
+T12	Chemical 275 278	GSH
+T13	Chemical 281 285	Mg2+
+T14	Category 295 304	inhibitor
+T15	Molecule 306 312	HQL-79
+T16	Physiology 321 338	anti-inflammatory
+T17	Parameter 339 349	activities
+T18	Value 364 370	1.45-A
+T19	Parameter 371 381	resolution
+T20	Category 390 408	quaternary complex
+T21	Molecule 410 416	HQL-79
+T22	Geometrical_part 458 463	cleft
+T23	Protein_part 472 478	Trp104
+T24	Chemical 483 486	GSH
+T25	Molecule 488 494	HQL-79
+T26	Process 513 524	interaction
+T27	Chemical 530 536	phenyl
+T28	Geometrical_part 537 541	ring
+T29	Chemical 549 557	diphenyl
+T30	Molecular_Part 558 563	group
+T31	Protein_part 569 575	Trp104
+T32	Chemical 587 597	piperidine
+T33	Molecular_Part 598 603	group
+T34	Chemical 609 612	GSH
+T35	Protein_part 617 622	Arg14
+T36	Chemical 631 646	water molecules
+T37	Physiology 661 668	network
+T38	Chemical 674 690	hydrogen bonding
+T39	Chemical 695 699	salt
+T40	Chemical 718 722	Mg2+
+T41	Molecule 724 730	HQL-79
+T42	Organism 741 746	human
+T43	Protein 747 753	H-PGDS
+T44	Category 780 789	substrate
+T45	Chemical 790 794	PGH2
+T46	Chemical 825 828	GSH
+T47	Parameter 834 836	Ki
+T48	Value 840 841	5
+T49	Value 846 854	3 microm
+T50	Geometrical_part 870 877	Surface
+T51	Technique 878 904	plasmon resonance analysis
+T52	Molecule 919 925	HQL-79
+T53	Protein 935 941	H-PGDS
+T54	Parameter 950 958	affinity
+T55	Value 968 975	12-fold
+T56	Process 990 998	presence
+T57	Chemical 1002 1005	GSH
+T58	Chemical 1010 1014	Mg2+
+T59	Parameter 1016 1018	Kd
+T60	Value 1020 1030	0.8 microm
+T61	Process 1046 1053	absence
+T62	Protein_part 1088 1093	Arg14
+T63	Chemical 1116 1120	Mg2+
+T64	Process 1130 1138	increase
+T65	Parameter 1146 1162	binding affinity
+T66	Protein 1166 1172	H-PGDS
+T67	Molecule 1177 1183	HQL-79
+T68	Protein_part 1194 1200	Trp104
+T69	Protein_part 1202 1208	Lys112
+T70	Protein_part 1214 1220	Lys198
+T71	Molecule 1256 1259	HQL
+T72	Geometrical_part 1268 1274	pocket
+T73	Molecule 1276 1282	HQL-79
+T74	Chemical 1305 1309	PGD2
+T75	Process 1310 1320	production
+T76	Protein 1325 1331	H-PGDS
+T77	Organism 1343 1348	human
+T78	Body_part 1349 1363	megakaryocytes
+T79	Organism 1368 1371	rat
+T80	Body_part 1372 1389	mastocytoma cells
+T81	Parameter 1398 1409	IC50  value
+T82	Value 1413 1429	about 100 microm
+T83	Process 1463 1473	production
+T84	Chemical 1483 1494	prostanoids
+T85	Process 1528 1538	engagement
+T86	Protein 1547 1553	H-PGDS
+T87	Protein 1558 1572	cyclooxygenase
+T88	Molecule 1594 1600	HQL-79
+T89	Value 1602 1610	30 mg/kg
+T90	Body_part 1611 1615	body
+T91	Parameter 1616 1622	weight
+T92	Protein 1634 1641	antigen
+T93	Process 1650 1660	production
+T94	Chemical 1664 1668	PGD2
+T95	Process 1692 1702	production
+T96	Chemical 1706 1710	PGE2
+T97	Chemical 1716 1725	PGF2alpha
+T98	Body_part 1743 1749	airway
+T99	Physiology 1750 1762	inflammation
+T100	Organism 1780 1785	human
+T101	Protein 1786 1792	H-PGDS
+T102	Organism 1808 1812	mice
+T103	Geometrical_part 1835 1844	structure
+T104	Category 1848 1866	quaternary complex
+T105	Process 1911 1920	mechanism
+T106	Molecule 1924 1930	HQL-79
+T107	Unknown 1957 1966	structure
+T108	Process 1973 1984	development
+T109	Physiology 1994 2011	anti-inflammatory
+T110	Chemical 2012 2017	drugs
+T111	Chemical 2032 2036	PGD2
+T112	Process 2037 2047	production

@@ -1,0 +1,63 @@
+T1	Process 0 6	Effect
+T2	Protein 10 29	human serum albumin
+T3	Chemical 33 37	drug
+T4	Process 38 48	metabolism
+T5	Protein 73 81	esterase
+T6	Parameter 82 90	activity
+T7	Protein 94 113	human serum albumin
+T8	Protein 115 140	Human serum albumin (HSA)
+T9	Body_part 162 168	plasma
+T10	Protein 169 176	protein
+T11	Organism 184 189	human
+T12	Body_part 190 194	body
+T13	Body_part 202 208	plasma
+T14	Parameter 209 222	concentration
+T15	Value 226 231	0.6mM
+T16	Protein 233 236	HSA
+T17	Process 256 260	role
+T18	Chemical 264 268	drug
+T19	Process 269 278	transport
+T20	Process 283 293	metabolism
+T21	Protein 295 304	Enzymatic
+T22	Parameter 305 313	activity
+T23	Protein 317 320	HSA
+T24	Process 324 333	different
+T25	Category 334 344	substrates
+T26	Chemical 348 353	drugs
+T27	Process 402 411	mechanism
+T28	Parameter 420 428	activity
+T29	Geometrical_part 489 507	crystal structures
+T30	Protein 512 525	HSA-myristate
+T31	Category 531 538	complex
+T32	Chemical 542 549	aspirin
+T33	Chemical 557 571	salicylic acid
+T34	Geometrical_part 591 608	crystal structure
+T35	Protein 612 633	HSA-myristate-aspirin
+T36	Chemical 651 658	aspirin
+T37	Chemical 669 675	acetyl
+T38	Molecular_Part 676 681	group
+T39	Protein_part 685 691	Lys199
+T40	Chemical 715 729	salicylic acid
+T41	Protein 733 736	HSA
+T42	Process 742 752	hydrolysis
+T43	Category 753 760	product
+T44	Chemical 762 776	salicylic acid
+T45	Protein 795 798	HSA
+T46	Process 842 851	different
+T47	Process 852 863	orientation
+T48	Chemical 887 901	salicylic acid
+T49	Chemical 909 937	HSA-myristate-salicylic acid
+T50	Category 938 953	ternary complex
+T51	Protein 1013 1021	esterase
+T52	Parameter 1022 1030	activity
+T53	Protein 1034 1037	HSA
+T54	State 1060 1074	conformational
+T55	Process 1075 1085	plasticity
+T56	Protein 1089 1092	HSA
+T57	Chemical 1096 1100	drug
+T58	Process 1101 1108	binding
+T59	Process 1162 1172	modulation
+T60	Protein 1176 1184	HSA-drug
+T61	Process 1185 1196	interaction
+T62	Protein 1233 1241	HSA-drug
+T63	Geometrical_part 1242 1251	structure

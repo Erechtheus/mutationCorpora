@@ -1,0 +1,66 @@
+T1	Physiology 11 20	antiviral
+T2	Chemical 21 29	compound
+T3	Process 44 54	inhibition
+T4	Process 70 82	interactions
+T5	Chemical 88 92	drug
+T6	Molecule 103 110	mutants
+T7	Organism 125 130	HIV-1
+T8	Protein 131 139	protease
+T9	Physiology 156 165	antiviral
+T10	Category 166 175	inhibitor
+T11	Unknown 176 189	GRL-98065 (1)
+T12	Organism 193 198	HIV-1
+T13	Protein 199 212	protease (PR)
+T14	Protein 236 247	PR variants
+T15	Process 270 279	mutations
+T16	Protein_part 280 284	D30N
+T17	Protein_part 286 290	I50V
+T18	Protein_part 292 296	V82A
+T19	Protein_part 302 306	I84V
+T20	Parameter 320 330	resistance
+T21	Category 353 363	inhibitors
+T22	Chemical 365 375	Compound 1
+T23	Parameter 380 400	inhibition constants
+T24	Value 404 411	17-fold
+T25	Value 413 419	8-fold
+T26	Value 421 427	3-fold
+T27	Value 433 439	3-fold
+T28	Protein 459 467	PR(D30N)
+T29	Protein 469 477	PR(I50V)
+T30	Protein 479 487	PR(V82A)
+T31	Protein 493 501	PR(I84V)
+T32	Protein 514 526	wild type PR
+T33	Chemical 551 560	darunavir
+T34	Process 582 592	inhibition
+T35	Protein 605 613	PR(D30N)
+T36	Category 621 632	inhibitor 1
+T37	Value 637 657	approximately 3-fold
+T38	Parameter 680 690	resolution
+T39	Value 692 701	1.11-1.60
+T40	Parameter 702 710	Angstrom
+T41	Geometrical_part 712 730	crystal structures
+T42	Protein 734 743	PR mutant
+T43	Category 744 753	complexes
+T44	Category 759 770	inhibitor 1
+T45	Process 784 791	changes
+T46	Protein 808 824	wild type enzyme
+T47	Protein 826 834	PR(D30N)
+T48	Protein 839 847	PR(V82A)
+T49	Process 868 880	interactions
+T50	Category 886 897	inhibitor 1
+T51	Protein 919 921	PR
+T52	Process 949 957	contacts
+T53	Protein 977 985	PR(I50V)
+T54	Protein 990 998	PR(I84V)
+T55	Category 1014 1025	inhibitor 1
+T56	Category 1026 1035	complexes
+T57	Process 1049 1056	changes
+T58	Protein 1074 1085	type enzyme
+T59	Chemical 1104 1113	darunavir
+T60	Category 1114 1123	complexes
+T61	Category 1136 1147	inhibitor 1
+T62	Process 1162 1170	addition
+T63	Physiology 1178 1187	antiviral
+T64	Category 1188 1198	inhibitors
+T65	Organism 1235 1242	strains
+T66	Organism 1246 1249	HIV

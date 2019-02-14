@@ -1,0 +1,102 @@
+T1	Process 0 10	Modulation
+T2	Protein 14 31	androgen receptor
+T3	Process 32 53	activation function 2
+T4	Chemical 57 69	testosterone
+T5	Chemical 74 93	dihydrotestosterone
+T6	Protein 99 121	androgen receptor (AR)
+T7	Parameter 161 169	affinity
+T8	Process 170 177	binding
+T9	Chemical 181 193	testosterone
+T10	Unknown 195 196	T
+T11	Unknown 205 211	5alpha
+T12	Chemical 220 230	metabolite
+T13	Chemical 232 257	dihydrotestosterone (DHT)
+T14	Chemical 273 281	androgen
+T15	Organism 295 299	male
+T16	Body_part 300 318	reproductive tract
+T17	Process 319 330	development
+T18	Process 346 351	basis
+T19	Parameter 367 375	activity
+T20	Unknown 379 380	T
+T21	Unknown 414 415	T
+T22	Category 422 428	ligand
+T23	Process 429 436	binding
+T24	Protein_part 437 451	domain crystal
+T25	Geometrical_part 452 462	structures
+T26	Protein 466 478	wild-type AR
+T27	Body_part 485 493	prostate
+T28	Physiology 494 500	cancer
+T29	Body_part 501 508	somatic
+T30	Protein 535 543	AR FXXLF
+T31	Category 547 558	coactivator
+T32	Protein_part 559 572	LXXLL peptide
+T33	Process 591 603	interactions
+T34	Unknown 607 608	T
+T35	Chemical 613 616	DHT
+T36	Protein 624 626	AR
+T37	Category 627 633	ligand
+T38	Process 634 641	binding
+T39	Geometrical_part 642 648	pocket
+T40	Parameter 672 677	rates
+T41	Process 681 693	dissociation
+T42	Protein 702 713	AR fragment
+T43	Category 729 735	ligand
+T44	Process 736 743	binding
+T45	Protein_part 744 750	domain
+T46	Unknown 761 762	T
+T47	Protein 778 786	AR FXXLF
+T48	Category 791 802	coactivator
+T49	Protein_part 803 814	LXXLL motif
+T50	Process 815 827	interactions
+T51	Process 831 858	activation function 2 (AF2)
+T52	Protein_part 875 886	FXXLF motif
+T53	Process 898 901	AF2
+T54	Unknown 922 923	T
+T55	Process 924 936	dissociation
+T56	Protein 954 956	AR
+T57	Unknown 958 959	T
+T58	Chemical 985 988	DHT
+T59	Parameter 994 1002	activity
+T60	Body_part 1014 1040	AR helix-10 H874Y prostate
+T61	Physiology 1041 1047	cancer
+T62	Process 1048 1056	mutation
+T63	Protein_part 1062 1069	Tyr-874
+T64	Molecule 1070 1076	mutant
+T65	Protein_part 1077 1087	side chain
+T66	Chemical 1103 1119	hydrogen bonding
+T67	Location 1132 1140	exterior
+T68	Protein_part 1141 1149	helix-10
+T69	Protein 1162 1169	protein
+T70	Geometrical_part 1170 1174	core
+T71	Protein_part 1175 1198	helix-4 residue Tyr-739
+T72	Unknown 1209 1210	T
+T73	Protein 1219 1221	AR
+T74	Parameter 1222 1230	activity
+T75	Process 1244 1247	AF2
+T76	Process 1248 1255	binding
+T77	Protein_part 1259 1264	FXXLF
+T78	Protein_part 1269 1281	LXXLL motifs
+T79	Protein 1292 1294	AR
+T80	Process 1295 1298	AF2
+T81	Parameter 1299 1307	activity
+T82	Protein_part 1325 1330	helix
+T83	Process 1331 1343	interactions
+T84	Process 1364 1371	effects
+T85	Physiology 1375 1383	melanoma
+T86	Protein 1384 1391	antigen
+T87	Protein 1392 1396	gene
+T88	Protein 1397 1407	protein-11
+T89	Protein 1412 1426	AR coregulator
+T90	Protein_part 1442 1457	AR  FXXLF motif
+T91	Process 1462 1469	targets
+T92	Process 1470 1473	AF2
+T93	Process 1478 1488	activation
+T94	Unknown 1507 1508	T
+T95	Chemical 1521 1529	androgen
+T96	Chemical 1535 1538	DHT
+T97	Unknown 1565 1566	T
+T98	Protein 1577 1585	AR FXXLF
+T99	Category 1590 1601	coactivator
+T100	Protein_part 1603 1614	LXXLL motif
+T101	Process 1615 1627	interactions
+T102	Process 1631 1634	AF2

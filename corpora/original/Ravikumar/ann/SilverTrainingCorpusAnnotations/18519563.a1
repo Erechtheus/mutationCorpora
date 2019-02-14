@@ -1,0 +1,79 @@
+T1	Parameter 39 50	temperature
+T2	Molecule 73 79	Galpha
+T3	Molecule 80 86	mutant
+T4	Process 90 114	asymmetric cell division
+T5	Organism 118 140	Caenorhabditis elegans
+T6	Protein 148 167	trimeric G-proteins
+T7	Chemical 230 238	metazoan
+T8	Process 239 269	asymmetric cell division (ACD)
+T9	Organism 278 300	Caenorhabditis elegans
+T10	Body_part 301 307	zygote
+T11	Unknown 309 326	GOA-1 (Galpha(o))
+T12	Unknown 331 349	GPA-16 (Galpha(i))
+T13	Parameter 377 383	forces
+T14	Protein 404 416	microtubules
+T15	Body_part 434 441	spindle
+T16	Location 442 456	asymmetrically
+T17	Molecule 459 465	GPA-16
+T18	Process 466 474	function
+T19	Parameter 520 531	temperature
+T20	Protein 542 562	allele gpa-16(it143)
+T21	Parameter 590 601	temperature
+T22	Body_part 614 621	spindle
+T23	Process 622 633	orientation
+T24	Process 634 641	defects
+T25	Body_part 651 658	embryos
+T26	Process 692 697	basis
+T27	Unknown 701 714	gpa-16(it143)
+T28	Process 732 746	point mutation
+T29	Protein_part 748 753	G202D
+T30	Process 762 768	switch
+T31	Protein_part 769 778	II region
+T32	Protein 782 788	GPA-16
+T33	Unknown 796 813	Galpha(i1)(G202D)
+T34	Technique 829 849	biochemical analyses
+T35	Parameter 876 887	temperature
+T36	Unknown 915 928	mutant Galpha
+T37	Parameter 948 959	temperature
+T38	Unknown 965 978	mutant Galpha
+T39	Chemical 995 998	GTP
+T40	Process 999 1006	binding
+T41	Process 1012 1018	switch
+T42	Unknown 1019 1021	II
+T43	Process 1022 1035	rearrangement
+T44	Process 1061 1071	activation
+T45	State 1072 1077	state
+T46	Process 1088 1100	interactions
+T47	Molecule 1106 1116	regulators
+T48	Process 1129 1132	ACD
+T49	Protein_part 1144 1157	GoLoco motifs
+T50	Protein 1159 1171	RGS proteins
+T51	Unknown 1177 1182	RIC-8
+T52	Geometrical_part 1198 1215	crystal structure
+T53	Unknown 1223 1236	mutant Galpha
+T54	Chemical 1246 1249	GDP
+T55	Process 1276 1282	switch
+T56	Unknown 1283 1285	II
+T57	State 1286 1298	conformation
+T58	Geometrical_part 1310 1316	steric
+T59	Unknown 1352 1365	GPA-16(it143)
+T60	Body_part 1406 1413	Spindle
+T61	Body_part 1426 1447	gpa-16(it143) embryos
+T62	Parameter 1470 1476	forces
+T63	Parameter 1534 1545	temperature
+T64	Parameter 1570 1576	forces
+T65	Parameter 1617 1626	magnitude
+T66	Parameter 1658 1669	temperature
+T67	Process 1678 1685	defects
+T68	Unknown 1693 1702	structure
+T69	Unknown 1706 1719	GPA-16(it143)
+T70	Parameter 1742 1748	forces
+T71	Body_part 1752 1773	gpa-16(it143) embryos
+T72	Parameter 1792 1803	temperature
+T73	Molecule 1825 1830	GOA-1
+T74	Process 1831 1839	function
+T75	Category 1856 1863	complex
+T76	Process 1864 1873	interplay
+T77	Protein 1877 1891	Galpha subunit
+T78	Process 1892 1900	function
+T79	Process 1904 1907	ACD
