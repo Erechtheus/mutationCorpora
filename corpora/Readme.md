@@ -86,4 +86,4 @@ Comments: tmVar norm contains dbSNP mentions; not sure how they were annotated
 
 
 ## Missing corpora
-EMU, OMM
+EMU, OMM, Bronco, Amia18
