@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="first revision of SETH">
+      <change afterPath="$PROJECT_DIR$/code/Nagel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Variome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/amia18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/tmVar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpora/json/Nagel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpora/json/Variome.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpora/json/tmvar-test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpora/json/tmvar-train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/SETH.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/SETH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/json/SETH.json" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/json/SETH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/16533815.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/16533815.a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/18076904.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/18076904.a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/7714902.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/7714902.a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/8046751.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/8046751.a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/original/SETH/annotations/.stats_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Nagel/NagelCorpus.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Nala/tagtog_IDP4+_anndoc.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Osiris/OSIRIScorpusv01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Ravikumar/ProteinResidueRelationsSilverCorpus.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Ravikumar/ProteinResidueRelationsSilverCorpus_A1.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/SETH/SETH-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Variome/readbiomed-variome-corpus-data-6ae3f1ebfdfd.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/Verspoor/ProteinResidueFullTextCorpus.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/mutationfinder/MutationFinder-1.1.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVar/normalization-variation-corpus.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVar/tmVarCorpus.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVarNorm/tmVar.Normalization.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-102" />
-    <option name="y" value="47" />
     <option name="width" value="2510" />
     <option name="height" value="1413" />
   </component>
+  <component name="ProjectId" id="1zr3UFlqbZ9M9zQ8pgzp5tUCAVT" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -36,18 +84,50 @@
       </pane>
     </panes>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mutation-normalization-cormus" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/corpora/original" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SETH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/SETH.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SETH" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,18 +139,29 @@
       <option name="presentableId" value="Default" />
       <updated>1550043445264</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added SETH oa">
+      <created>1634902255577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634902255577</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first revision of SETH">
+      <created>1634902296382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634902296382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-102" y="47" width="2510" height="1413" extended-state="0" />
+    <frame x="0" y="0" width="2510" height="1413" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25487804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25731707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -78,11 +169,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added SETH oa" />
+    <MESSAGE value="first revision of SETH" />
+    <option name="LAST_COMMIT_MESSAGE" value="first revision of SETH" />
   </component>
 </project>

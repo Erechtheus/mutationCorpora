@@ -16,14 +16,13 @@ for line in corpusFile:
         print("Error reading corpusline '" +line +"'")
 
     corpusDict[array[0]] = array[1]
-
 corpusFile.close()
 
 jsonDocuments = []
 for filepath in glob.iglob(inDir +'/annotations/*.ann'):
         #print(filepath)
         annotationFile = open(filepath, 'r')
-        pubmedId = os.path.basename('corpora/original/SETH//annotations/8460646.ann').rsplit('.', 1)[0]
+        pubmedId = os.path.basename(filepath).rsplit('.', 1)[0]
 
         entities = []
         relations = []
@@ -46,19 +45,22 @@ for filepath in glob.iglob(inDir +'/annotations/*.ann'):
                     relations.append({"ID" : array[0], "type" : array[1], "arg1" : array[2], "arg2" : array[3]})
             else:
                 print("No handling for '" +line +"' in: " +filepath)
+        annotationFile.close()
 
         jsonDocument = {"document" : {
             "ID" : pubmedId,
             "text" : corpusDict[pubmedId],
             "entities" : entities,
-            "relations" : relations
+            "relations" : relations,
+            "metadata": []
         }}
         jsonDocuments.append(jsonDocument)
 
-        annotationFile.close()
 
+corpus = {"referenceURL" : "", "version" : "", "bibtex" : "",
+    "documents" : jsonDocuments}
 
 f = open(outFile, "w")
-f.write(json.dumps(jsonDocuments, indent=4))
+f.write(json.dumps(corpus, indent=4))
 f.close()
 
