@@ -32,7 +32,7 @@ def getDocuments(inDir):
             #print(array)
 
             if (array[0].startswith("T")):
-                entities.append({"ID": array[0], "type": array[1], "begin": array[2], "end": array[3],
+                entities.append({"ID": array[0], "type": array[1], "begin": int(array[2]), "end": int(array[3]),
                                  "text": " ".join(array[4:])})
 
             elif (array[0].startswith("R")):
@@ -40,7 +40,7 @@ def getDocuments(inDir):
                     print("Error reading annotationfile '" + filepath)
                     print(array)
                 else:
-                    relations.append({"ID": array[0], "type": array[1], "arg1": array[2], "arg2": array[3]})
+                    relations.append({"ID": array[0], "type": array[1], "arg1": array[2].split(":")[1], "arg2": array[3].split(":")[1]})
             else:
                 print("No handling for '" + line + "' in: " + filepath)
         annotationFile.close()
@@ -55,11 +55,7 @@ def getDocuments(inDir):
         jsonDocuments.append(jsonDocument)
     return jsonDocuments
 
-trainData= getDocuments(inDir + "00/")
-trainData.append(getDocuments(inDir + "01/"))
-trainData.append(getDocuments(inDir + "02/"))
-trainData.append(getDocuments(inDir + "03/"))
-trainData.append(getDocuments(inDir + "04/"))
+trainData= getDocuments(inDir + "00/") + (getDocuments(inDir + "01/")) + (getDocuments(inDir + "02/")) + (getDocuments(inDir + "03/")) +(getDocuments(inDir + "04/"))
 
 corpus = {"referenceURL" : "", "version" : "", "bibtex" : "",
     "documents" : trainData}
@@ -70,9 +66,7 @@ f.close()
 
 
 
-testData = getDocuments(inDir + "05/")
-testData.append(getDocuments(inDir + "06/"))
-testData.append(getDocuments(inDir + "07/"))
+testData = getDocuments(inDir + "05/") + (getDocuments(inDir + "06/")) +(getDocuments(inDir + "07/"))
 
 corpus = {"referenceURL" : "", "version" : "", "bibtex" : "",
     "documents" : testData}
