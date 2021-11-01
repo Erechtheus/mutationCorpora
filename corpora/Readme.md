@@ -1,13 +1,9 @@
 # Organisation
 
-## Raw
-The folder "raw" contains files downloaded from the respective provider.
-Thils folder exists only for provenance reasons and is probably not interesting for most users.
-
 ## Original
-The folder "original" contains the extracted files from "raw" and is a starting point for all conversion efforts.
+The folder "original" contains the downloaded and potentially extracted files and is a starting point for all conversion efforts.
 
-## Converted corpora
+## Converted NER-corpora
 
 ### SETH
 ```
@@ -50,6 +46,47 @@ Comments: Pubmed-central, many different entites
 ```
 
 
+### AMIA18
+```
+Corpus short name: amia18 
+Publication: Antonio Jimeno Yepes, Andrew MacKinlay, Natalie Gunn, Christine Schieber, Noel Faux, Matthew Downton, Benjamin Goudey, Richard L. Martin, A hybrid approach for automated mutation annotation of the extended human mutation landscape in scientific literature, American Medical Informatics Association (AMIA) Symposium, 2018
+URL:  https://github.com/ibm-aur-nlp/amia-18-mutation-corpus
+Downloaded: 
+Comments: Sets 00, 01, 02, 03 and 04 were used for training and sets 05, 06 and 07 were used as test sets in our study.
+```
+
+## Converted linking corpora
+### Thomas2011
+Ignored this corpus, as the goal was not to provide a full named-entity annotation but rather associate entities with dbSNP ids
+
+```normalization-variation-corpus.tar.gz
+Corpus short name: Thomas2011
+Publication: P. Thomas and R. Klinger and L. Furlong and M. Hofmann-Apitius and C. Friedrich "Challenges in the Association of Human Single Nucleotide Polymorphism Mentions with Unique Database Identifiers" (2011)
+URL: https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/downloads/corpus-for-normalization-of-variation-mentions.html
+Downloaded: 13.2.2019 
+Comments: Annotates only mutations with dbSNP identifier; Provides no text corpus
+```
+
+### tmVarNorm
+```Corpus short name: tmVarNorm 
+Publication:tmVar 2.0: integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine
+Chih-Hsuan Wei, Lon Phan, Juliana Feltz, Rama Maiti, Tim Hefferon, and Zhiyong Lu
+URL: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/tmVar.html
+Downloaded: 12.2.2019
+Comments: 
+```
+
+
+### Osiris
+```OSIRIScorpusv01.xml
+Corpus short name: Osiris
+Publication: Furlong LI, Dach H, Hofmann-Apitius M, Sanz F. OSIRISv1.2: a named entity recognition system for sequence variants of genes in biomedical literature. BMC Bioinformatics 2008, 9:84.
+URL: https://sites.google.com/site/laurafurlongweb/databases-and-tools/corpora/
+Downloaded: 12.2.2019 
+Comments: 
+```
+
+
 
 ## Ignored corpora
 
@@ -62,17 +99,6 @@ Publication: J. Gregory Caporaso, William A. Baumgartner Jr., David A. Randolph,
 URL: http://mutationfinder.sourceforge.net/
 Downloaded: 12.2.2019 
 Comments: 
-```
-
-### Thomas2011
-Ignored this corpus, as the goal was not to provide a full named-entity annotation but rather associate entities with dbSNP ids
-
-```normalization-variation-corpus.tar.gz
-Corpus short name: Thomas2011
-Publication: P. Thomas and R. Klinger and L. Furlong and M. Hofmann-Apitius and C. Friedrich "Challenges in the Association of Human Single Nucleotide Polymorphism Mentions with Unique Database Identifiers" (2011)
-URL: https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/downloads/corpus-for-normalization-of-variation-mentions.html
-Downloaded: 13.2.2019 
-Comments: Annotates only mutations with dbSNP identifier; Provides no text corpus
 ```
 
 ### Verspoor
@@ -99,6 +125,7 @@ Comments: silver standard corpus
 
 ## Unconverted corpora
 
+https://github.com/Rostlab/nala/tree/develop/resources/corpora
 
 #### Nala
 ```Corpus short name: Nala / tagtog_IDP4+
@@ -107,36 +134,6 @@ URL: https://www.tagtog.net/-corpora/IDP4+
 Downloaded: 12.2.2019
 Comments: 
 ```
-
-### Osiris
-```OSIRIScorpusv01.xml
-Corpus short name: Osiris
-Publication: Furlong LI, Dach H, Hofmann-Apitius M, Sanz F. OSIRISv1.2: a named entity recognition system for sequence variants of genes in biomedical literature. BMC Bioinformatics 2008, 9:84.
-URL: https://sites.google.com/site/laurafurlongweb/databases-and-tools/corpora/
-Downloaded: 12.2.2019 
-Comments: 
-```
-
-### tmVarNorm
-```Corpus short name: tmVarNorm 
-Publication:tmVar 2.0: integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine
-Chih-Hsuan Wei, Lon Phan, Juliana Feltz, Rama Maiti, Tim Hefferon, and Zhiyong Lu
-URL: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/tmVar.html
-Downloaded: 12.2.2019
-Comments: 
-```
-
-### AMIA18
-```
-Corpus short name: amia18 
-Publication: Antonio Jimeno Yepes, Andrew MacKinlay, Natalie Gunn, Christine Schieber, Noel Faux, Matthew Downton, Benjamin Goudey, Richard L. Martin, A hybrid approach for automated mutation annotation of the extended human mutation landscape in scientific literature, American Medical Informatics Association (AMIA) Symposium, 2018
-URL:  https://github.com/ibm-aur-nlp/amia-18-mutation-corpus
-Downloaded: 
-Comments: Sets 00, 01, 02, 03 and 04 were used for training and sets 05, 06 and 07 were used as test sets in our study.
-```
-
-
-
 
 ## Missing corpora
 
