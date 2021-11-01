@@ -37,20 +37,29 @@ for article in root.findall("Article"):
         if children.tail is not None:
             text = text + children.tail
 
+    # Minor error analysis
+    for annotation in annotations:
+        if annotation["text"] != text[annotation["begin"]:annotation["end"]]:
+            print(annotation["text"])
+
+            print(text[annotation["begin"]:annotation["end"]])
+            print("---")
+
     #Handle abstract
     text = text +"\n"
     if abstractElement.text is not None:
         text = abstractElement.text
 
 
+    offset = len(titleElement)
     for children in list(abstractElement):
         if children.tag == "gene":
-            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(text), "end": len(text) + len(children.text),
+            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text), "end": offset+ len(text) + len(children.text),
              "text": children.text, "entrez": children.get("g_id")})
 
         elif children.tag == "variant":
-            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(text),
-                                "end": len(text) + len(children.text),
+            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
+                                "end": len(text) + len(children.text) +offset ,
                                 "text": children.text, "dbSNP": children.get("v_id")})
 
         else:

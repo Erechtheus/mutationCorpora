@@ -6,7 +6,7 @@ outFile="corpora/json/linking/thomas.json"
 
 
 #1.) Load annotations
-annotaitonDict = {}
+annotationDict = {}
 corpusFile = open(inFile, 'r')
 for line in corpusFile:
     array = line.strip().split("\t")
@@ -15,32 +15,51 @@ for line in corpusFile:
     if(len(array) != 7):
         print("Error!")
 
-    if array[0] not in annotaitonDict:
-        annotaitonDict[array[0]] = []
+    if array[0] not in annotationDict:
+        annotationDict[array[0]] = []
 
-    annotaitonDict[array[0]].append({"ID": "T"+ str(len(annotaitonDict[array[0]])), "type": array[1], "begin": array[3], "end": array[4], "text": array[2], "dbSNP" : array[5], "type" : array[6]})
+    annotationDict[array[0]].append({"ID": "T" + str(len(annotationDict[array[0]])),  "begin": int(array[3]) , "end": int(array[4]) , "text": array[1][1:-1], "dbSNP" : array[5], "type" : array[6]})
 corpusFile.close()
 
 #2.) Get the documents from NCBI eutils
-jsonDocuments = []
-for pmid in annotaitonDict.keys():
+documentDict = {}
+for pmid in annotationDict.keys():
+
     print(pmid)
-
     response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&rettype=xml&id="+pmid)
+    documentDict[pmid] = response.text
 
-    root = ET.fromstring(response.text)
-    title = root.find("PubmedArticle").find("MedlineCitation").find("Article").find("Journal").find("Title").text
-    abstr = root.find("PubmedArticle").find("MedlineCitation").find("Article").find("Abstract").find("AbstractText").text
+
+#3.) Build the documents for JSON serializaion
+jsonDocuments = []
+for pmid in annotationDict.keys():
+
+    root = ET.fromstring(documentDict[pmid])
+    title = root.find("PubmedArticle").find("MedlineCitation").find("Article").find("ArticleTitle").text
+
+    abstr = ""
+    for abstract in root.find("PubmedArticle").find("MedlineCitation").find("Article").find("Abstract").findall("AbstractText"):
+        abstr += (abstract.text)
+        abstr += "\n"
+
+    documentText = title +"\n\n" +abstr
+
+    for annotation in annotationDict[pmid]:
+        if annotation["text"] != documentText[annotation["begin"] : annotation["end"]]:
+            print(pmid)
+            print("'" +annotation["text"] +"' != '" +documentText[annotation["begin"] : annotation["end"]] +"'")
+            print(annotation)
+            print(title +"\n" +abstr)
+            print("----")
 
     jsonDocument = {"document": {
         "ID": pmid,
-        "text": title +"\n" +abstr,
-        "entities": annotaitonDict[pmid],
+        "text": documentText,
+        "entities": annotationDict[pmid],
         "relations": [],
         "metadata": []
     }}
     jsonDocuments.append(jsonDocument)
-
 
 corpus = {"referenceURL" : "", "version" : "", "bibtex" : "",
     "documents" : jsonDocuments}
@@ -49,3 +68,6 @@ f = open(outFile, "w")
 f.write(json.dumps(corpus, indent=4))
 f.close()
 
+response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&rettype=xml&id="+"18201684")
+xml = response.text
+root = ET.fromstring(xml)

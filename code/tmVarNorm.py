@@ -24,13 +24,13 @@ for line in corpusFile:
             print("Problem")
 
     elif len(array) == 7:
-        annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": array[1],
-                            "end": array[2],
+        annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": int(array[1]),
+                            "end": int(array[2]),
                             "text": array[3], "dbSNP": array[6] })
 
     elif len(array) == 6:
-        annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": array[1],
-                            "end": array[2],
+        annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": int(array[1]),
+                            "end": int(array[2]),
                             "text": array[3], "dbSNP": array[5] })
 
 

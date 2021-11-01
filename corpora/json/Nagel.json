@@ -8,7 +8,8 @@
                 "ID": "12953057",
                 "text": "",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -16,7 +17,8 @@
                 "ID": "1740150",
                 "text": "Cathepsin J has been partially purified [Liao, J . \nC . \nR. &amp; Lenney, J . \nF . \n(1984) Biochem . \nBiophys . \nRes . \nCommun . \n124, 909-916], but its detailed properties are still unknown . \nIn this study, we have purified cathepsin J completely and characterized it . \nIt was purified to homogeneity from the mitochondrial-lysosomal fraction of rat liver by acid treatment, followed by ammonium sulfate precipitation (20-65%), and chromatographies on S-Sepharose, ConA-Sepharose, Affi-gel 501, HPLC DEAE-5PW and HPLC TSK G3000SW . \nCathepsin J was found to be a lysosomal high-molecular-mass cysteine protease of about 160 kDa consisted of two different subunits . \nOne subunit (alpha subunit) was a glycoprotein with a molecular mass of 19-24 kDa which was reduced to 19 kDa by treatment with endoglycosidase F . \nIt has the amino acid sequence LPESWDWRNVR at its N-terminus, which was very similar to those at the N-termini of rat cathepsins B, H and L . \nThe other subunit (beta subunit) was a glycoprotein with a molecular mass of 17 kDa, which was reduced to 14 kDa by treatment with endoglycosidase F . \nIt had DTPANETYPDLLG at its N-terminus, which had no similarity with the N-terminal sequences of other cathepsins . \nCathepsin J showed strong affinity for synthetic substrates such as N-benzyloxycarbonyl-phenylalanyl-arginine 4-methyl-coumaryl-7-amide and glycyl-arginine beta-naphthylamide . \nIt was activated by thiol reagents and chloride ion and was inhibited by cysteine protease inhibitors . \nHowever, its initial inhibition constant Ki(initial) by N-(L-3-trans-carboxyoxirane-2-carbonyl)-L-leucine-3- methylbutylamide (E-64-c) was 1800 nM, which was 100-500 times those of cathepsins B and L . \nMany properties of cathepsin J were similar to those of cathepsin C (dipeptidylaminopeptidase I) reported as a lysosomal cysteine protease with dipeptidyl-aminopeptidase activity [McDonald, J . \nK., Reilly, T . \nJ. &amp; Ellis, S . \n(1964) Biochem . \nBiophys . \nRes . \nCommun . \n16, 135-140] . \nFurthermore, antiserum against rat liver cathepsin C reacted with rat liver cathepsin J . \nThese findings suggested that cathepsin J is identical with cathepsin C . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -27,19 +29,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Lys301"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 33,
+                        "end": 39,
+                        "text": "Glu216"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -47,7 +50,8 @@
                 "ID": "1764072",
                 "text": "We cloned homologs of the human Xeroderma Pigmentosum Group A complementing (XPAC) gene from chicken, Xenopus laevis and Drosophila melanogaster . \nA comparison of the amino acid sequences of these homologs with that of the human XPAC protein revealed that in the NH2-terminal domain there are only two conserved regions, one of which is presumed to function as the nuclear localization signal, whereas the COOH-terminal domain is highly conserved, the frequency of identical amino acids in all four XPAC proteins being 50%, and the four cysteine residues predicted to form a zinc-finger motif, and three other cysteine residues are all conserved . \nThese results strongly suggest that the COOH-terminal domain containing a zinc-finger motif plays an important role in the function of these proteins . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -55,7 +59,8 @@
                 "ID": "9509572",
                 "text": "The proteome of the yeast Saccharomyces cerevisiae was analysed by two-dimensional (2D) polyacrylamide gel electrophoresis utilizing a non-linear immobilized pH gradient (3-10) in the first-dimensional separation . \nCells were labelled by [35S]methionine incorporation in the respiro-fermentative phase during exponential growth on glucose . \nGels were run, visualized with phosphoimager technology and all resolved proteins automatically quantified . \nProteins were well resolved over the whole pH interval, and evidence for isoelectric focusing on the basic side of the pattern was generated by sequencing of some spots, revealing the 2D positions of Tef1p, Pgk1p, Gpm1p, Tdh1p and Shm2p . \nRoughly 25% of the spots were resolved at the alkaline side of the pattern (pI &gt; 7) . \nThe position reproducibility was high and in the range 1-2 mm in the x- and y-dimension, respectively . \nNo quantitative variation was linked to a certain size or charge class of resolved proteins, and the average quantitative standard deviation was 17 +/- 11% . \nThe obtained immobilized pH gradient based pattern could easily be compared to the old ampholine-based 2D pattern, and the previously reported identifications could thus be transferred . \nOur yeast pattern currently contains 43 known proteins, all identified by protein sequencing . \nUtilizing these identified proteins, relevant pI and Mr scales in the pattern were constructed . \nNormalization of the expression of identified spots by compensating for the number of methionine residues a protein contains allowed stoichiometric comparisons . \nThe most dominant proteins under these growth conditions were Tdh3p, Fba1p, Eno2p and Tef1p/Tef2p, all being expressed at more than 500,000 copies per cell . \nThe differential carbon source response during exponential growth on either glucose, galactose or ethanol was examined for the alkaline proteins identified by micro-sequencing in this study . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -66,187 +71,188 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "His-455"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 34,
+                        "end": 41,
+                        "text": "His-455"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 64,
+                        "end": 71,
+                        "text": "His-455"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 94,
+                        "end": 101,
+                        "text": "His-455"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 124,
+                        "end": 130,
+                        "text": "Lys-22"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 153,
+                        "end": 159,
+                        "text": "Arg-92"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 182,
+                        "end": 189,
+                        "text": "Asp-321"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 212,
+                        "end": 219,
+                        "text": "Glu-323"
                     },
                     {
                         "ID": "T8",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 242,
+                        "end": 249,
+                        "text": "Gln-335"
                     },
                     {
                         "ID": "T9",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 272,
+                        "end": 279,
+                        "text": "Arg-337"
                     },
                     {
                         "ID": "T10",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 302,
+                        "end": 309,
+                        "text": "Glu-279"
                     },
                     {
                         "ID": "T11",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 332,
+                        "end": 339,
+                        "text": "Asp-280"
                     },
                     {
                         "ID": "T12",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 362,
+                        "end": 369,
+                        "text": "Arg-135"
                     },
                     {
                         "ID": "T13",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 392,
+                        "end": 399,
+                        "text": "Thr-253"
                     },
                     {
                         "ID": "T14",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 422,
+                        "end": 429,
+                        "text": "Gln-240"
                     },
                     {
                         "ID": "T15",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 452,
+                        "end": 458,
+                        "text": "Lys-22"
                     },
                     {
                         "ID": "T16",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 481,
+                        "end": 487,
+                        "text": "Arg-92"
                     },
                     {
                         "ID": "T17",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 510,
+                        "end": 524,
+                        "text": "Gly-101 to Met"
                     },
                     {
                         "ID": "T18",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 521,
+                        "end": 528,
+                        "text": "Met-103"
                     },
                     {
                         "ID": "T19",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 551,
+                        "end": 558,
+                        "text": "Arg-337"
                     },
                     {
                         "ID": "T20",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 581,
+                        "end": 588,
+                        "text": "Asp-321"
                     },
                     {
                         "ID": "T21",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 611,
+                        "end": 618,
+                        "text": "Glu-323"
                     },
                     {
                         "ID": "T22",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 641,
+                        "end": 648,
+                        "text": "Gln-335"
                     },
                     {
                         "ID": "T23",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 671,
+                        "end": 678,
+                        "text": "Glu-279"
                     },
                     {
                         "ID": "T24",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 701,
+                        "end": 708,
+                        "text": "Asp-280"
                     },
                     {
                         "ID": "T25",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 731,
+                        "end": 738,
+                        "text": "Arg-135"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -254,7 +260,8 @@
                 "ID": "9135133",
                 "text": "The central reaction in the process of N-linked protein glycosylation in eukaryotic cells, the transfer of the oligosaccharide Glc(3)Man(9)GlcNAc(2) from the lipid dolicholpyrophosphate to selected asparagine residues, is catalyzed by the oligosaccharyltransferase (OTase) . \nThis enzyme consists of multiple subunits; however, purification of the complex has revealed different results with respect to its protein composition . \nTo determine how many different loci are required for OTase activity in vivo, we performed a novel, specific screen for mutants with altered OTase activity . \nBased on the synthetic lethal phenotype of OTase mutants in combination with a deficiency of dolicholphosphoglucose biosynthesis which results in non-glucosylated lipid-linked oligosaccharide, we identified seven complementation groups with decreased OTase activity . \nBeside the known OTase loci, STT3, OST1, WBP1, OST3, SWP1 and OST2, a novel locus, OST5, was identified . \nOST5 is an intron-containing gene encoding a putative membrane protein of 9.5 kDa present in highly purified OTase preparations . \nOST5 protein is not essential for growth but its depletion results in a reduced OTase activity . \nSuppression of an ost1 mutation by overexpression of OST5 indicates that this small membrane protein directly interacts with other OTase components, most likely with Ost1p . \nA strong genetic interaction with a stt3 mutation implies a role in complex assembly . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -262,7 +269,8 @@
                 "ID": "11456274",
                 "text": "Although type 1 and type 2 diabetes are regarded as clinically distinct diseases, several lines of evidence have suggested common genetic factors between the two types of diabetes . \nThe non-obese diabetic (NOD) mouse, an animal model of type 1 diabetes, and the Nagoya-Shibata-Yasuda (NSY) mouse, a model of type 2 diabetes, are derived from the same outbred colony, Jcl:HCR, suggesting a shared susceptibility between the two types of diabetes in mice . \nGenetic as well as functional studies have supported the possibility that Tcf2, which encodes the transcription factor, hepatocyte nuclear factor 1beta (HNF-1beta), is a candidate gene for the common susceptibility between NSY and NOD mice . \nTxn, encoding thioredoxin which is a redox (reduction/oxidation)-active protein, is also a positional and functional candidate for a common susceptibility gene . \nTo investigate whether either of these two genes is a common susceptibility gene, the coding nucleotide sequences of these two genes were compared among the NSY, NOD and control C3H strains . \nThe coding sequence of Tcf2 of the NOD mouse was identical to that of the C3H mouse, but was different from that of the NSY mouse . \nThe coding sequence of Txn was identical in the three strains . \nThese data suggest that neither of the two genes is a common susceptiblity gene between type 1 and type 2 diabetes in mice . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -273,12 +281,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Gly17"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -286,7 +295,8 @@
                 "ID": "7559430",
                 "text": "Ribosomal protein S4 from Escherichia coli binds a large domain of 16 S ribosomal RNA and also a pseudoknot structure in the alpha operon mRNA, where it represses its own synthesis . \nNo similarity between the two RNA binding sites has been detected . \nTo find out whether separate protein regions are responsible for rRNA and mRNA recognition, proteins with N-terminal or C-terminal deletions have been overexpressed and purified . \nProtein-mRNA interactions were detected by (i) a nitrocellulose filter binding assay, (ii) inhibition of primer extension by reverse transcriptase, and (iii) a gel shift assay . \nCircular dichroism spectra were taken to determine whether the proteins adopted stable secondary structures . \nFrom these studies it is concluded that amino acids 48-104 make specific contacts with the mRNA, although residues 105-177 (out of 205) are required to observe the same toeprint pattern as full-length protein and may stabilize a specific portion of the mRNA structure . \nThese results parallel ribosomal RNA binding properties of similar fragments (Conrad, R . \nC., and Craven, G . \nR . \n(1987) Nucleic Acids Res . \n15, 10331-10343, and references therein) . \nIt appears that the same protein domain is responsible for both mRNA and rRNA binding activities . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -297,40 +307,41 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 44,
+                        "end": 49,
+                        "text": "Cys65"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 72,
+                        "end": 77,
+                        "text": "Cys65"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 100,
+                        "end": 105,
+                        "text": "Ala89"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 128,
+                        "end": 133,
+                        "text": "Cys65"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 156,
+                        "end": 161,
+                        "text": "Cys65"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -341,12 +352,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 14,
+                        "text": "leucine 16"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -356,27 +368,28 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 9,
+                        "text": "R389G"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 32,
+                        "end": 37,
+                        "text": "L343F"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 60,
+                        "end": 65,
+                        "text": "E189G"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -384,7 +397,8 @@
                 "ID": "10077573",
                 "text": "Vaccinia virus early, intermediate, and late stage genes are sequentially transcribed by the viral RNA polymerase within the cytoplasm of infected cells . \nWe found that the 34- and 45-kDa polypeptides encoded by vaccinia virus ORFs A8R and A23R, respectively, were necessary to reconstitute transcription of a template with an intermediate stage promoter . \nCoexpression of the A8R and A23R genes in Escherichia coli was required for in vitro activity . \nIn addition, the two polypeptides copurified, indicating their association as protein subunits of a vaccinia virus intermediate transcription factor . \nThis factor, which we named VITF-3, complemented three viral proteins-namely, the RNA polymerase, capping enzyme, and a 30-kDa protein called VITF-1 that is also a subunit of the RNA polymerase-and an unidentified cell factor called VITF-2 . \nExpression of the A8R and A23R genes occurred between 1 and 5 h after vaccinia virus infection and was not prevented by an inhibitor of DNA replication, consistent with a role for VITF-3 in specifically regulating intermediate transcription in vivo . \nThe vaccinia virus A8R and A23R genes are highly conserved among vertebrate poxviruses, but no other viral or cellular homologs were identified . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -395,26 +409,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 15,
+                        "text": "tyrosine 85"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 38,
+                        "end": 44,
+                        "text": "Tyr 85"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 48,
+                        "end": 54,
+                        "text": "Ser 85"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -425,12 +440,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 73,
+                        "end": 82,
+                        "text": "lysine 79"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -441,26 +457,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "His35"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 32,
+                        "end": 37,
+                        "text": "His83"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 60,
+                        "end": 65,
+                        "text": "His35"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -468,7 +485,8 @@
                 "ID": "6589592",
                 "text": "Isozyme 4 of rabbit liver microsomal cytochrome P-450 was shown earlier in this laboratory to contain multiple NH2-terminal residues, whereas isozymes 2, 3a, 3b, and 3c have single, unique NH2-terminal sequences . \nSimilar results were obtained with isozyme 4 obtained from animals that were untreated, treated with phenobarbital (which does not induce this isozyme), or induced with beta-naphthoflavone or isosafrole . \nWith the use of selective chemical blocking at seryl or at nonprolyl residues, the complexity of the NH2-terminal sequence has now been shown to be due to the presence of three forms of the cytochrome differing only in the absence of the first or the first two residues: NH2-Ala-Met-Ser-Pro-Ala-Ala-Pro-, NH2-Met-Ser-Pro-Ala-Ala-Pro-, and NH2-Ser-Pro-Ala-Ala-Pro- . \nThese forms may result from variable biological processing . \nPeptides containing the seven cysteine residues were sequenced and compared with similar peptides reported for other P-450 cytochromes; homology was extensive with respect to two of the cysteine regions in isozyme 4, and a third cysteine region showed partial identity . \nThe sequence of peptides representing about two-thirds of the amino acids in isosafrole-induced cytochrome P-450 isozyme 4 was determined . \nComparison with phenobarbital-induced rabbit cytochrome P-450 isozyme 2 indicated about 25% homology . \nIn contrast, comparison of isozyme 4 with rat cytochrome P-450d, which is also induced by isosafrole and for which the sequence has recently been deduced from cDNA [Kawajiri, K., Gotoh, O., Sogawa, K., Tagashira, Y., Muramatsu, M. &amp; Fujii-Kuriyama, Y . \n(1984) Proc . \nNatl . \nAcad . \nSci . \nUSA 81, 1649-1653], showed about 70% homology . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -479,19 +497,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Ser-60"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 41,
+                        "end": 47,
+                        "text": "Ser-60"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -501,20 +520,21 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 14,
+                        "text": "Lys253-Ala"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 11,
+                        "end": 17,
+                        "text": "Ala254"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -522,7 +542,8 @@
                 "ID": "7667268",
                 "text": "Human transcription initiation factor TFIID is composed of the TATA-binding polypeptide ( TBP) and at least 13 TBP-associated factors (TAFs) that collectively or individually are involved in activator-dependent transcription . \nTo investigate protein-protein interactions involved in TFIID assembly and in TAF-mediated activator functions, we have cloned and expressed cDNAs encoding human TAFII80 and TAFII31 . \nCoimmunoprecipitation assays showed that TAFII80 interacted with TAFII250, TAFII31, TAFII20, and TBP, but not with TAFII55 . \nSimilar assays showed that TAFII80 interacted with TFIIE alpha and with TFIIF alpha (RAP74) but not with TFIIB, TFIIE beta, or TFIIF beta (RAP30) . \nFurther studies with TAFII80 mutations revealed three distinct interaction domains which fall within regions conserved in human TAFII80, Drosophila TAFII60, and yeast TAFII60 . \nThe N terminus of TAFII80 (residues 1-100) interacts with both TAFII31 and TAFII20, while two C-terminal regions are involved, respectively, in interactions with TAFII250 and TFIIF alpha (RAP74) (residues 203-276) and with TBP and TFIIE alpha (residues 377-505) . \nThe interactions between TAFII80 and general factors TFIIE alpha and TFIIF alpha (RAP74) could be important for recruitment of GTFs during activator-dependent transcription . \nBecause TAFs 80, 31, and 20 show sequence similarities to histones H4, H3, and H2B, as well as some parallel interactions, this subset of TAFs may form a related core structure within TFIID . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -533,26 +554,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Asp392"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 33,
+                        "end": 39,
+                        "text": "Asp395"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 62,
+                        "end": 68,
+                        "text": "Glu359"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -560,7 +582,8 @@
                 "ID": "1740125",
                 "text": "We have isolated three novel peptides from the aqueous extract of the pars intercerebralis of male and female adults of the insect Locusta migratoria . \nAfter extensive HPLC purification, the peptides were characterised by automated Edman degradation and electrospray mass spectrometry: one is a 35-residue peptide (3752.3 +/- 1.1 Da) containing six cysteines involved in three intramolecular disulfide bridges, the second is a 36-residue peptide (3919.2 +/- 0.9 Da), also cross-linked by three intramolecular disulfide bridges . \nThis second peptide is post-translationally modified by a single fucose moiety, which was identified by gas chromatography coupled to mass spectrometry . \nThese two peptides show a strong sequence similarity . \nAdditionally, they were also found in larger amounts in the fat body of Locusta; this finding raises the question of their exact site of synthesis . \nThe third peptide (5776.3 +/- 0.9 Da), a 54-residue peptide cross-linked by six intramolecular disulfide bridges, is structurally related to the two other peptides, but to a lesser extent . \nMass spectrometry has shown that all the cysteines within these three peptides are involved in intramolecular disulfide bridges; however, the location of these bridges is not yet established and is currently being investigated . \nA computer search of sequence data banks did not reveal any significant similarity of these three peptides with other known proteins . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -571,19 +594,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Thr105"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 33,
+                        "end": 39,
+                        "text": "Ser107"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -594,75 +618,76 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 38,
+                        "end": 74,
+                        "text": "Cys residues at positions 73 and 152"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 38,
+                        "end": 74,
+                        "text": "Cys residues at positions 73 and 152"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 97,
+                        "end": 104,
+                        "text": "Cys(48)"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 162,
+                        "end": 169,
+                        "text": "Cys(48)"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 192,
+                        "end": 199,
+                        "text": "Cys(48)"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 222,
+                        "end": 230,
+                        "text": "Cys(152)"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 253,
+                        "end": 260,
+                        "text": "Cys(48)"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 283,
+                        "end": 291,
+                        "text": "Cys(152)"
                     },
                     {
                         "ID": "T8",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 314,
+                        "end": 321,
+                        "text": "Cys(73)"
                     },
                     {
                         "ID": "T9",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 344,
+                        "end": 351,
+                        "text": "Cys(48)"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -670,7 +695,8 @@
                 "ID": "16269718",
                 "text": "Yeast Saccharomyces cerevisiae cells generally cannot synthesize biotin, a vitamin required for many carboxylation reactions . \nAlthough sake yeasts, which are used for Japanese sake brewing, are classified as S. cerevisiae, they do not require biotin for their growth . \nIn this study, we identified a novel open reading frame (ORF) in the genome of one strain of sake yeast that we speculated to be involved in biotin synthesis . \nHomologs of this gene are widely distributed in the genomes of sake yeasts . \nHowever, they are not found in many laboratory strains and strains used for wine making and beer brewing . \nThis ORF was named BIO6 because it has 52% identity with BIO3, a biotin biosynthesis gene of a laboratory strain . \nFurther research showed that yeasts without the BIO6 gene are auxotrophic for biotin, whereas yeasts holding the BIO6 gene are prototrophic for biotin . \nThe BIO6 gene was disrupted in strain A364A, which is a laboratory strain with one copy of the BIO6 gene . \nAlthough strain A364A is prototrophic for biotin, a BIO6 disrupted mutant was found to be auxotrophic for biotin . \nThe BIO6 disruptant was able to grow in biotin-deficient medium supplemented with 7-keto-8-amino-pelargonic acid (KAPA), while the bio3 disruptant was not able to grow in this medium . \nThese results suggest that Bio6p acts in an unknown step of biotin synthesis before KAPA synthesis . \nFurthermore, we demonstrated that expression of the BIO6 gene, like that of other biotin synthesis genes, was upregulated by depletion of biotin . \nWe conclude that the BIO6 gene is a novel biotin biosynthesis gene of S. cerevisiae . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -681,40 +707,41 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "Ser 124"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 34,
+                        "end": 41,
+                        "text": "Glu 228"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 64,
+                        "end": 71,
+                        "text": "His 260"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 94,
+                        "end": 100,
+                        "text": "Leu 40"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 123,
+                        "end": 130,
+                        "text": "Met 125"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -725,166 +752,167 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 12,
+                        "text": "Arg(271)"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 35,
+                        "end": 43,
+                        "text": "Arg(292)"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 66,
+                        "end": 74,
+                        "text": "Asp(297)"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 97,
+                        "end": 105,
+                        "text": "Lys(413)"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 128,
+                        "end": 136,
+                        "text": "Lys(382)"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 159,
+                        "end": 167,
+                        "text": "Arg(431)"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 190,
+                        "end": 198,
+                        "text": "Arg(271)"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 221,
+                        "end": 229,
+                        "text": "Lys(413)"
                     },
                     {
                         "ID": "T8",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 252,
+                        "end": 257,
+                        "text": "R271L"
                     },
                     {
                         "ID": "T9",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 280,
+                        "end": 285,
+                        "text": "K413Q"
                     },
                     {
                         "ID": "T10",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 308,
+                        "end": 313,
+                        "text": "K413Q"
                     },
                     {
                         "ID": "T11",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 336,
+                        "end": 341,
+                        "text": "R271L"
                     },
                     {
                         "ID": "T12",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 364,
+                        "end": 372,
+                        "text": "Arg(292)"
                     },
                     {
                         "ID": "T13",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 395,
+                        "end": 403,
+                        "text": "Asp(297)"
                     },
                     {
                         "ID": "T14",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 426,
+                        "end": 431,
+                        "text": "R292D"
                     },
                     {
                         "ID": "T15",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 454,
+                        "end": 459,
+                        "text": "D297R"
                     },
                     {
                         "ID": "T16",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 482,
+                        "end": 487,
+                        "text": "R292D"
                     },
                     {
                         "ID": "T17",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 510,
+                        "end": 515,
+                        "text": "R292D"
                     },
                     {
                         "ID": "T18",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 538,
+                        "end": 543,
+                        "text": "K382Q"
                     },
                     {
                         "ID": "T19",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 566,
+                        "end": 571,
+                        "text": "R431E"
                     },
                     {
                         "ID": "T20",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 594,
+                        "end": 599,
+                        "text": "R431E"
                     },
                     {
                         "ID": "T21",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 622,
+                        "end": 627,
+                        "text": "K382Q"
                     },
                     {
                         "ID": "T22",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 650,
+                        "end": 658,
+                        "text": "Lys(382)"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -892,7 +920,8 @@
                 "ID": "11733144",
                 "text": "NR-binding SET-domain-containing protein (NSD1) is a mouse nuclear protein containing su(var)3-9, enhancer-of-zeste, trithorax (SET), proline-tryptophan-tryptophan-proline (PWWP) and plant homeodomain protein (PHD)-finger domains (Huang et al., EMBO J . \n17 (1998) 3398) . \nThis protein also has two other distinct nuclear receptor (NR)-interaction domains, called NID(-L) and NID(+L), and acts as both a NR corepressor and a coactivator by interacting directly with the ligand-binding domain of several NRs . \nThus, NSD1 is a bifunctional, transcriptional, intermediary factor . \nWe isolated the human homologue (NSD1) of the mouse NSD1 gene (Nsd1), mapped it to human chromosome 5q35, and characterized its genomic structure . \nNSD1 consists of at least 23 exons . \nIts cDNA is 8552 bp long, has an 8088 bp open reading frame, contains at least six functional domains (SET, PWWP-I, PWWP-II, PHD-I, PHD-II, and PHD-III) and ten putative nuclear localization signals, and encodes 2696 amino acids . \nNSD1 shows 86% identity with the mouse Nsd1 at the nucleotide level, and 83% at the amino acid level . \nNSD1 is expressed in the fetal/adult brain, kidney, skeletal muscle, spleen, and the thymus, and faintly in the lung . \nTwo different transcripts (9.0 and 10.0 kb) were consistently observed in various fetal and adult tissues examined . \nThese findings favor the character of NSD1 as a nucleus-localized, basic transcriptional factor and also a bifunctional transcriptional regulator, such as that of the mouse Nsd1 . \nIt remains to be investigated whether mutations of NSD1 lead to a specific phenotype in man . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -900,7 +929,8 @@
                 "ID": "1740115",
                 "text": "Tn5 insertion mutations of Escherichia coli were isolated that impaired the formation of correctly folded alkaline phosphatase (PhoA) in the periplasm . \nThe PhoA polypeptide synthesized in the mutants was translocated across the cytoplasmic membrane but not released into the periplasmic space . \nIt was susceptible to degradation by proteases in vivo and in vitro . \nThe wild-type counterpart of this gene (named ppfA) has been sequenced and shown to encode a periplasmic protein with a pair of potentially redox-active cysteine residues . \nPhoA synthesized in the mutants indeed lacked disulfide bridges . \nThese results indicate that the folding of PhoA in vivo is not spontaneous but catalyzed at least at the disulfide bond formation step . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -911,47 +941,48 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 42,
+                        "end": 48,
+                        "text": "Ser474"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 71,
+                        "end": 77,
+                        "text": "Ser472"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 100,
+                        "end": 123,
+                        "text": "Ser472 to glutamic acid"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 146,
+                        "end": 152,
+                        "text": "Ser474"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 223,
+                        "end": 229,
+                        "text": "Ser474"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 281,
+                        "end": 287,
+                        "text": "Ser474"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -962,61 +993,62 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 26,
+                        "text": "lysine in position 493"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 49,
+                        "end": 54,
+                        "text": "E493K"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 77,
+                        "end": 82,
+                        "text": "Q187P"
                     },
                     {
                         "ID": "T3",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 105,
+                        "end": 110,
+                        "text": "T485P"
                     },
                     {
                         "ID": "T4",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 133,
+                        "end": 138,
+                        "text": "L490P"
                     },
                     {
                         "ID": "T5",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 161,
+                        "end": 166,
+                        "text": "E493D"
                     },
                     {
                         "ID": "T6",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 189,
+                        "end": 194,
+                        "text": "E493K"
                     },
                     {
                         "ID": "T7",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 217,
+                        "end": 222,
+                        "text": "E494K"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1026,90 +1058,91 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 8,
+                        "text": "H14C"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 31,
+                        "end": 36,
+                        "text": "A111V"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 59,
+                        "end": 64,
+                        "text": "A113T"
                     },
                     {
                         "ID": "T3",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 87,
+                        "end": 92,
+                        "text": "D259T"
                     },
                     {
                         "ID": "T4",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 115,
+                        "end": 120,
+                        "text": "A379E"
                     },
                     {
                         "ID": "T5",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 143,
+                        "end": 148,
+                        "text": "C132C"
                     },
                     {
                         "ID": "T6",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 171,
+                        "end": 176,
+                        "text": "Q199Q"
                     },
                     {
                         "ID": "T7",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 199,
+                        "end": 204,
+                        "text": "H225H"
                     },
                     {
                         "ID": "T8",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 227,
+                        "end": 232,
+                        "text": "V247V"
                     },
                     {
                         "ID": "T9",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 255,
+                        "end": 260,
+                        "text": "P264P"
                     },
                     {
                         "ID": "T10",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 283,
+                        "end": 288,
+                        "text": "T288T"
                     },
                     {
                         "ID": "T11",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 311,
+                        "end": 316,
+                        "text": "L293L"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1120,12 +1153,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "Tyr-499"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1133,7 +1167,8 @@
                 "ID": "10570158",
                 "text": "[ M\u00fcllerian inhibiting substance ] (MIS) causes regression of the fetal M\u00fcllerian duct on binding a heteromeric complex of types I and II cell-surface receptors in the fetal urogenital ridge . \nThe MIS type II receptor (MISRII), which provides specificity for MIS, is also expressed in the adult testis, ovary, and uterus . \nThe rat MISRII promoter was cloned to study the molecular mechanisms underlying its temporal and cell-specific expression . \nThe 1.6-kilobase (kb) promoter contained no recognizable TATA or CAAT box, but there was a consensus Sp1 site upstream of the transcription initiation site . \nTwo binding sites for the orphan nuclear receptor steroidogenic factor-1 (SF-1) are occupied in vitro by using nuclear extracts from R2C cells, an MIS-responsive rat Leydig cell line that expresses endogenous MISRII, with differing affinities, indicating that the distal SF-1 site is bound more avidly than is the proximal SF-1 site . \nR2C cells transfected with MISRII promoter/luciferase reporter constructs show a 12-fold induction with the 1.6-kb fragment and deletion of sequences upstream of -282-bp lowered luciferase expression to one-third . \nMutation of both SF-1 sites greatly inhibited luciferase expression, whereas mutation of either site alone resulted in continuing activation by endogenous SF-1, indicating redundancy . \nIn vitro binding and transcriptional analyses suggest that a proximal potential Smad-responsive element and an uncharacterized element also contribute to activation of the MISRII gene . \nR2C cells and MISRII promoter regulation can now be used to uncover endogenous transcription factors responsible for receptor expression or repression . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1141,7 +1176,8 @@
                 "ID": "11023497",
                 "text": "Chemokines are mediators in inflammatory and autoimmune disorders . \nAminoterminal truncation of chemokines results in altered specific activities and receptor recognition patterns . \nTruncated forms of the CXC chemokine interleukin (IL)-8 are more active than full-length IL-8 (1-77), provided the Glu-Leu-Arg (ELR) motif remains intact . \nHere, a positive feedback loop is demonstrated between gelatinase B, a major secreted matrix metalloproteinase ( MMP-9) from neutrophils, and IL-8, the prototype chemokine active on neutrophils . \nNatural human neutrophil progelatinase B was purified to homogeneity and activated by stromelysin-1 . \nGelatinase B truncated IL-8(1-77) into IL-8(7-77), resulting in a 10- to 27-fold higher potency in neutrophil activation, as measured by the increase in intracellular Ca(++) concentration, secretion of gelatinase B, and neutrophil chemotaxis . \nThis potentiation correlated with enhanced binding to neutrophils and increased signaling through CXC chemokine receptor-1 (CXCR1) , but it was significantly less pronounced on a CXCR2-expressing cell line . \nThree other CXC chemokines-connective tissue-activating peptide-III (CTAP-III) , platelet factor-4 (PF-4), and GRO-alpha -were degraded by gelatinase B . \nIn contrast, the CC chemokines RANTES and monocyte chemotactic protein-2 (MCP-2) were not digested by this enzyme . \nThe observation of differing effects of neutrophil gelatinase B on the proteolysis of IL-8 versus other CXC chemokines and on CXC receptor usage by processed IL-8 yielded insights into the relative activities of chemokines . \nThis led to a better understanding of regulator (IL-8) and effector molecules (gelatinase B) of neutrophils and of mechanisms underlying leukocytosis, shock syndromes, and stem cell mobilization by IL-8 . \n(Blood . \n2000;96:2673-2681) . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1149,7 +1185,8 @@
                 "ID": "10968622",
                 "text": "Rubrerythrin is a non-heme iron dimeric protein isolated from the sulfate-reducing bacterium Desulfovibrio vulgaris . \nEach monomer has one mononuclear iron center similar to rubredoxin and one dinuclear metal center similar to hemerythrin or ribonucleotide reductase . \nThe 1.88 A X-ray structure of the &quot;as isolated&quot; molecule and a uranyl heavy atom derivative have been solved by molecular replacement techniques . \nThe resulting model of the native &quot;as isolated&quot; molecule, including 164 water molecules, has been refined giving a final R factor of 0.197 (R(free) = 0.255) . \nThe structure has the same general protein fold, domain structure, and dimeric interactions as previously found for rubrerythrin [1, 2], but it also has some interesting undetected differences at the metal centers . \nThe refined model of the protein structure has a cis peptide between residues 78 and 79 . \nThe Fe-Cys4 center has a previously undetected strong seventh N-H...S hydrogen bond in addition to the six N-H...S bonds usually found in rubredoxin . \nThe dinuclear metal center has a hexacoordinate Fe atom and a tetracoordinate Zn atom . \nEach metal is coordinated by a GluXXHis polypeptide chain segment . \nThe Zn atom binds at a site distinctly different from that found in the structure of a diiron rubrerythrin . \nDifference electron density for the uranyl derivative shows an extremely large peak adjacent to and replacing the Zn atom, indicating that this particular site is capable of binding other atoms . \nThis feature/ability may give rise to some of the confusing activities ascribed to this molecule . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1160,19 +1197,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 36,
+                        "text": "cysteine residue at position 275"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 45,
+                        "end": 77,
+                        "text": "lysine residues, at positions 219"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1182,13 +1220,14 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 9,
+                        "text": "G296S"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1196,7 +1235,8 @@
                 "ID": "9135156",
                 "text": "We have isolated a human cDNA which encodes a novel I kappa B family member using a yeast two-hybrid screen for proteins able to interact with the p52 subunit of the transcription factor NF-kappa B . \nThe protein is found in many cell types and its expression is up-regulated following NF-kappa B activation and during myelopoiesis . \nConsistent with its proposed role as an I kappa B molecule, I kappa B-epsilon is able to inhibit NF-kappa B -directed transactivation via cytoplasmic retention of rel proteins . \nI kappa B-epsilon translation initiates from an internal ATG codon to give rise to a protein of 45 kDa, which exists as multiple phosphorylated isoforms in resting cells . \nUnlike the other inhibitors, it is found almost exclusively in complexes containing RelA and/or cRel . \nUpon activation, I kappa B-epsilon protein is degraded with slow kinetics by a proteasome-dependent mechanism . \nSimilarly to I kappa B-alpha and I kappa B, I kappa B-epsilon contains multiple ankyrin repeats and two conserved serines which are necessary for signal-induced degradation of the molecule . \nA unique lysine residue located N-terminal of the serines appears to be not strictly required for degradation . \nUnlike I kappa B- alpha and I kappa B-beta, I kappa B-epsilon does not contain a C-terminal PEST-like sequence . \nI kappa B-epsilon would, therefore, appear to regulate a late, transient activation of a subset of genes, regulated by RelA/cRel NF-kappa B complexes, distinct from those regulated by other I kappa B proteins . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1207,19 +1247,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Glu90"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 14,
+                        "end": 19,
+                        "text": "Asp90"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1227,7 +1268,8 @@
                 "ID": "9003463",
                 "text": "The gene for the regulatory subunit RII alpha of cAMP-dependent protein kinase is highly regulated during spermatogenesis and a strong signal from a distinct short mRNA form is observed postmeiotically during spermatid elongation . \nThis report presents the isolation and characterization of the 5'-flanking region (1.2 kb) and exon 1 of the human RII alpha gene . \nS1 nuclease mapping and primer extension experiments revealed the presence of a major transcriptional start site located 208 nucleotides upstream of start for translation . \nThe 5'-flanking region of the RII alpha gene did not contain a TATA box and was highly G/C-rich . \nA basal promoter directing high levels of chloramphenicol acetyl transferase (CAT) activity was identified in the 5'-flanking sequence . \nSeveral potential binding sites for transcription factors were identified in this region, which may be responsible for the germ cell-specific regulation of this gene . \nWe have previously reported that the human testis RII alpha cDNA contains a region (amino acids 45-75) with little or no homology to the corresponding rat skeletal muscle cDNA (Oyen, O., Myklebust, F., Scott, J.D., Cadd, G.G., McKnight, G.S., Hansson, V. and Jahnsen, T . \n(1990) Biol . \nReprod . \n43, 46-54) . \nWe examined whether this difference could arise due to organ-specific splice mechanisms or represented a species difference . \nWe show that the low homology region of the human RII alpha cDNA resides entirely within exon 1, and does not originate from a tissue-specific alternate splicing of this distinct region . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1237,69 +1279,70 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 8,
+                        "text": "E50A"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 31,
+                        "end": 35,
+                        "text": "E51A"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 58,
+                        "end": 62,
+                        "text": "E50A"
                     },
                     {
                         "ID": "T3",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 85,
+                        "end": 89,
+                        "text": "I54A"
                     },
                     {
                         "ID": "T4",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 112,
+                        "end": 116,
+                        "text": "E51A"
                     },
                     {
                         "ID": "T5",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 139,
+                        "end": 143,
+                        "text": "I55A"
                     },
                     {
                         "ID": "T6",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 166,
+                        "end": 170,
+                        "text": "E50A"
                     },
                     {
                         "ID": "T7",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 193,
+                        "end": 197,
+                        "text": "E50A"
                     },
                     {
                         "ID": "T8",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 220,
+                        "end": 224,
+                        "text": "I54A"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1310,26 +1353,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 187,
+                        "end": 192,
+                        "text": "Cys39"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 215,
+                        "end": 219,
+                        "text": "C39S"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 321,
+                        "end": 325,
+                        "text": "C39S"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1339,13 +1383,14 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 11,
+                        "text": "T10191C"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1353,7 +1398,8 @@
                 "ID": "12676091",
                 "text": "The spindle checkpoint inhibits anaphase until all chromosomes have established bipolar attachment . \nTwo kinetochore states trigger this checkpoint . \nThe absence of microtubules activates the attachment response, while the inability of attached microtubules to generate tension triggers the tension/orientation response . \nThe single aurora kinase of budding yeast, Ipl1, is required for the tension/orientation, but not attachment, response . \nIn contrast, we find that the single aurora kinase of fission yeast, Ark1, is required for the attachment response . \nHaving established that the initiator codon assigned to ark1(+) was incorrect and that Ark1-associated kinase activity depended upon survivin function and phosphorylation, we found that the loss of Ark1 from kinetochores by either depletion or use of a survivin mutant overides the checkpoint response to microtubule depolymerization . \nArk1/survivin function was not required for the association of Bub1 or Mad3 with the kinetochores . \nHowever, it was required for two aspects of Mad2 function that accompany checkpoint activation: full-scale association with kinetochores and formation of a complex with Mad3 . \nNeither the phosphorylation of histone H3 that accompanies chromosome condensation nor condensin recruitment to mitotic chromatin were seen when Ark1 function was compromised . \nCytokinesis was not affected by Ark1 depletion or expression of the &quot;kinase dead&quot; ark1.K118R mutant . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1361,7 +1407,8 @@
                 "ID": "1398981",
                 "text": "Pan 1 is an acidic outer membrane protein of Neisseria gonorrhoeae that is expressed only when gonococci are grown anaerobically . \nOn silver-stained sodium dodecyl sulfate-polyacrylamide gels, Pan 1 migrates as an intense but diffuse 54-kDa protein . \nThe deduced amino acid sequence of Pan 1 from the aniA (anaerobically induced protein) open reading frame reveals a lipoprotein consensus sequence, Ala-Leu-Ala-Ala-Cys, and a processed molecular mass of 39 kDa . \nFurthermore, there is strong homology at the N terminus and C terminus of Pan 1 to the termini of the gonococcal outer membrane lipoproteins Lip and Laz . \n[3H] palmitic acid labeling of gonococci grown under oxygen-limited conditions demonstrated specific incorporation of label into Pan 1, suggesting further that Pan 1 is a lipoprotein . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1372,61 +1419,62 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 35,
+                        "end": 41,
+                        "text": "Arg-66"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 64,
+                        "end": 70,
+                        "text": "Glu-70"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 93,
+                        "end": 100,
+                        "text": "Arg-200"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 123,
+                        "end": 130,
+                        "text": "Asp-254"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 153,
+                        "end": 160,
+                        "text": "Asp-255"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 183,
+                        "end": 190,
+                        "text": "Asp-276"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 213,
+                        "end": 219,
+                        "text": "His-35"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 242,
+                        "end": 248,
+                        "text": "His-48"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1434,7 +1482,8 @@
                 "ID": "10824738",
                 "text": "Specific carrier-mediated transport of purine and pyrimidine nucleobases across cell membranes is a basic biological process in both prokaryotes and eukaryotes . \nRecent in silico analysis has shown that the Aspergillus nidulans (UapA, UapC) and bacterial (PbuX, UraA, PyrP) nucleobase transporters, and a group of mammalian L-ascorbic acid transporters (SVCT1 and SVCT2), constitute a unique protein family which includes putative homologues from archea, bacteria, plants and metazoans . \nThe construction and functional analysis of chimeric purine transporters (UapA- UapC) and UapA-specific missense mutations in A. nidulans has previously shown that the region including amino acid residues 378-446 in UapA is critical for purine recognition and transport . \nHere, we extend our studies on UapA structure-function relationships by studying missense mutations constructed within a 'signature' sequence motif [(F/Y/S)X(Q/E/P)NXGXXXXT(K/R/G)] which is conserved in the putative functional region of all members of the nucleobase/ascorbate transporter family . \nResidues Q449 and N450 were found to be critical for purine recognition and transport . \nThe results suggest that these residues might directly or indirectly be involved in specific interactions with the purine ring . \nIn particular, interaction of residue 449 with C-2 groups of purines might act as a critical molecular filter involved in the selection of transported substrates . \nThe present and previous mutagenic analyses in UapA suggest that specific polar or charged amino acid residues on either side of an amphipathic alpha-helical transmembrane segment are critical for purine binding and transport . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1442,7 +1491,8 @@
                 "ID": "8505332",
                 "text": "The noncollagenous (NC1) domain of the human collagen alpha 3(IV)-chain is the primary target of autoantibodies produced in Goodpasture syndrome and, therefore, has been designated as the Goodpasture antigen . \nIn this report, we show that Goodpasture antigen mRNA undergoes processing to at least two alternatively spliced forms in a variety of human tissues, resulting in the exclusion of sequence encoded by either one or two exons . \nInterestingly, no alternatively spliced forms were observed in bovine or rat tissues . \nThe derived amino acid sequences of the two variant mRNA forms are identical and significantly shorter than that arising from the complete Goodpasture antigen mRNA . \nThey lack the carboxyl-terminal region contributing to the formation of the Goodpasture epitope and all but one of the cysteines found in the complete form . \nThese sequence characteristics suggest that, if translated, the variant Goodpasture antigen is likely to be defective in triple helix formation and no longer reactive with Goodpasture autoantibodies . \nAlthough each tissue expressing Goodpasture antigen displayed a specific mRNA pattern, the complete form was always the most abundant and was present at levels apparently unrelated to whether or not the organ of origin is a potential target in Goodpasture syndrome . \nFurthermore, the antigen sequence was identical in the kidneys of normal and Goodpasture-affected individuals, and no major differences in the expression of the complete and spliced forms were observed . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1453,26 +1503,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 45,
+                        "end": 51,
+                        "text": "Ser164"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 74,
+                        "end": 80,
+                        "text": "His190"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 103,
+                        "end": 109,
+                        "text": "Asp286"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1480,7 +1531,8 @@
                 "ID": "11865057",
                 "text": "Mammalian Lin-2 (mLin-2)/CASK is a membrane-associated guanylate kinase (MAGUK) and contains multidomain modules that mediate protein-protein interactions important for the establishment and maintenance of neuronal and epithelial cell polarization . \nThe importance of mLin-2/CASK in mammalian development is demonstrated by the fact that mutations in mLin-2/CASK or SAP97, another MAGUK protein, lead to cleft palate in mice . \nWe recently identified a new protein-protein interaction domain, called the L27 domain, which is present twice in mLin-2/CASK . \nIn this report, we further define the binding of the L27C domain of mLin-2/CASK to the L27 domain of mLin-7 and identify the binding partner for L27N of mLin-2/CASK . \nBiochemical analysis reveals that this L27N domain binds to the N terminus of SAP97, a region that was previously reported to be essential for the lateral membrane recruitment of SAP97 in epithelia . \nOur colocalization studies, using dominant-negative mLin-2/CASK, show that the association with mLin-2/CASK is crucial for lateral localization of SAP97 in MDCK cells . \nWe also report the identification of a novel isoform of Discs Large, a Drosophila melanogaster orthologue of SAP97, which contains a region highly related to the SAP97 N terminus and which binds Camguk, a Drosophila orthologue of mLin-2/CASK . \nOur data identify evolutionarily conserved protein-protein interaction domains that link mLin-2/CASK to SAP97 and account for their common phenotype when mutated in mice . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1488,7 +1540,8 @@
                 "ID": "10655612",
                 "text": "Aspartic proteinase A from yeast is specifically and potently inhibited by a small protein called IA3 from Saccharomyces cerevisiae . \nAlthough this inhibitor consists of 68 residues, we show that the inhibitory activity resides within the N-terminal half of the molecule . \nStructures solved at 2.2 and 1.8 A, respectively, for complexes of proteinase A with full-length IA3 and with a truncated form consisting only of residues 2-34, reveal an unprecedented mode of inhibitor-enzyme interactions . \nNeither form of the free inhibitor has detectable intrinsic secondary structure in solution . \nHowever, upon contact with the enzyme, residues 2-32 become ordered and adopt a near-perfect alpha-helical conformation . \nThus, the proteinase acts as a folding template, stabilizing the helical conformation in the inhibitor, which results in the potent and specific blockage of the proteolytic activity . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1496,7 +1549,8 @@
                 "ID": "1740159",
                 "text": "1 . \nRetinol-binding protein (RBP) has been isolated from the pooled plasma or rainbow trouts (Oncorhinchus mykiss) by gel filtration, hydrophobic interaction chromatography and ion-exchange chromatography . \nBy this procedure two forms of the protein, both with a molecular mass (approximately 20 kDa) similar to that of mammalian RBP, were purified to homogeneity . \nFive amino acid substitutions have been found in the partial (about 60%) sequences of the two forms of trout RBP, which are presumably acetylated at their N terminus . \nThe apparent participation of six conserved cysteines in the formation of disulphide bridges, as in human RBP, and the similarity (about 60%) of the amino acid sequence of trout and mammalian RBPs, indicate the existence of a similar overall structure organization in evolutionary distant RBPs . \n2 . \nAlthough the two forms of trout RBP are not physiologically involved in the formation of any protein--protein complex in plasma, they are capable of interacting with mammalian transthyretin, albeit with a binding affinity (K'd = 15-40 microM) considerably lower than that of mammalian RBP . \nOur data indicate that the two forms of trout RBP also possess the region that in mammalian RBP has the functional role of binding transthyretin . \nIt is suggested that transthyretin (or a homologous protein) was modified, during phylogenetic development of the non mammalian vertebrates, to acquire a binding site for such a region of the RBP molecule . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1504,7 +1558,8 @@
                 "ID": "10775416",
                 "text": "Similar to other eukaryotes, yeasts have parallel pathways of one-carbon metabolism in the cytoplasm and mitochondria and have folylpolyglutamate synthetase activity in both compartments . \nThe gene encoding folylpolyglutamate synthetase is MET7 (also referred to as MET23) on chromosome XV and appears to encode both the cytoplasmic and mitochondrial forms of the enzyme . \nIn order to determine the metabolic roles of both forms of folylpolyglutamate synthetase, we disrupted the met7 gene and determined that the strain is a methionine auxotroph and an adenine and thymidine auxotroph when grown in the presence of sulfanilamide . \nThe met7 mutant becomes petite under normal growth conditions but can be maintained with a grande phenotype if the strain is tup and all media are supplemented with dTMP . \nA met7 gly1 strain is auxotrophic for glycine when grown on glucose but prototrophic when grown on glycerol . \nA met7 ser1 strain cannot use glycine to suppress the serine auxotrophy of the ser1 phenotype . \nA met7 shm2 strain is nonviable . \nIn order to disrupt just the mitochondrial folylpolyglutamate synthetase activity, we constructed mutants with an inactivated chromosomal MET7 gene complemented by genes that express only cytoplasmic folylpolyglutamate synthetase, including the Lactobacillus casei folC gene and the yeast MET7 gene with its mitochondrial leader sequence deleted (MET7Deltam) . \nAll the genes providing cytoplasmic folylpolyglutamate synthetase complemented the methionine auxotrophy as well as the synthetic lethality of the shm2 strain and the synthetic glycine auxotrophy of the gly1 strain . \nThe strains lacking the mitochondrial folylpolyglutamate synthetase had longer doubling times than the isogenic wild-type strains but retained the function of the mitochondrial folate-dependent enzymes to produce formate, serine, and glycine . \nMutants complemented by the bacterial folC gene or by the MET7Deltam gene on a 2mu plasmid remained grande without the tup mutation and supplementation and dTMP . \nMutants complemented by the MET7Deltam gene integrated in single copy became petites under those conditions, indicating a deficiency in dTMP production but this is likely due to lower expression of cytoplasmic folylpolyglutamate synthetase by the MET7Deltam gene . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1514,27 +1569,28 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 13,
+                        "text": "His43-Asp"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 10,
+                        "end": 15,
+                        "text": "Asp88"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 16,
+                        "end": 22,
+                        "text": "Ser182"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1545,12 +1601,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Asn67"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1561,19 +1618,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 13,
+                        "text": "serine 15"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 36,
+                        "end": 45,
+                        "text": "serine 15"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1581,7 +1639,8 @@
                 "ID": "9135158",
                 "text": "The structure of the translational initiation factor IF1 from Escherichia coli has been determined with multidimensional NMR spectroscopy . \nUsing 1041 distance and 78 dihedral constraints, 40 distance geometry structures were calculated, which were refined by restrained molecular dynamics . \nFrom this set, 19 structures were selected, having low constraint energy and few constraint violations . \nThe ensemble of 19 structures displays a root-mean-square deviation versus the average of 0.49 A for the backbone atoms and 1.12 A for all atoms for residues 6-36 and 46-67 . \nThe structure of IF1 is characterized by a five-stranded beta-barrel . \nThe loop connecting strands three and four contains a short 3(10) helix but this region shows considerably higher flexibility than the beta-barrel . \nThe fold of IF1 is very similar to that found in the bacterial cold shock proteins CspA and CspB, the N-terminal domain of aspartyl-tRNA synthetase and the staphylococcal nuclease, and can be identified as the oligomer-binding motif . \nSeveral proteins of this family are nucleic acid-binding proteins . \nThis suggests that IF1 plays its role in the initiation of protein synthesis by nucleic acid interactions . \nSpecific changes of NMR signals of IF1 upon titration with 30S ribosomal subunit identifies several residues that are involved in the interaction with ribosomes . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1592,75 +1651,76 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 65,
+                        "end": 70,
+                        "text": "Ser70"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 93,
+                        "end": 98,
+                        "text": "Ser76"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 121,
+                        "end": 126,
+                        "text": "Ser75"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 149,
+                        "end": 154,
+                        "text": "Ser73"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 177,
+                        "end": 182,
+                        "text": "Ser18"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 205,
+                        "end": 210,
+                        "text": "Ser26"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 233,
+                        "end": 238,
+                        "text": "Ser18"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 261,
+                        "end": 266,
+                        "text": "Ser18"
                     },
                     {
                         "ID": "T8",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 289,
+                        "end": 294,
+                        "text": "Ser26"
                     },
                     {
                         "ID": "T9",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 317,
+                        "end": 322,
+                        "text": "Ser75"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1668,7 +1728,8 @@
                 "ID": "17044815",
                 "text": "We have isolated and characterized omwaprin, a 50-amino-acid cationic protein from the venom of inland taipan (Oxyuranus microlepidotus) . \nIt is a new member of the waprin family of snake venom proteins . \nA synthetic gene was designed and constructed for expressing the recombinant protein in Escherichia coli . \nRecombinant omwaprin was used for carrying out functional analyses . \nThe protein is non-toxic to Swiss albino mice at doses of up to 10 mg/kg when administered intraperitoneally . \nHowever, it shows selective and dose-dependant antibacterial activity against Gram-positive bacteria . \nThe minimum inhibitory doses were in the range 2-10 microg for selected species of bacteria in radial diffusion assays . \nThe antibacterial activity is salt-tolerant up to 350 mM NaCl . \nHowever, omwaprin lost its antibacterial activity upon reduction and alkylation of its cysteine residues, or upon deletion of six N-terminal amino acid residues, four of which are positively charged . \nThese observations indicate that the three-dimensional structure constrained by four disulfide bonds and the N-terminal residues are essential for its activity . \nThe mechanism of action is via membrane disruption, as shown by scanning electron microscopy . \nImportantly, omwaprin lacks haemolytic activity on human erythrocytes . \nThis demonstrates the specificity of omwaprin for bacterial membranes . \nUnlike other reported WAP (whey acidic protein) domain-containing antibacterial proteins, including elafin, EPPIN (epididymal proteinase inhibitor), SWAM1 and SWAM2 [single WAP (whey acidic protein) motif proteins 1 and 2] and SLPI (secretory leucocyte proteinase inhibitor), omwaprin shows species-specific activity on the Gram-positive bacteria tested . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1676,7 +1737,8 @@
                 "ID": "1764065",
                 "text": "A cDNA encoding bovine tissue factor has been isolated from a lambda gt11 bovine adrenal cDNA library . \nThe cDNA insert was 1877 base pairs with an open reading frame of 876 base pairs that encoded a presequence of 35 amino acids and a mature tissue factor of 257 amino acids . \nBovine tissue factor had three potential N-glycosylation sites, four extracellular cysteine residues, a cytoplasmic cysteine residue, and one tripeptide tryptophan-lysine-serine motif . \nIdentities of the amino acid sequences of the mature forms between the bovine tissue factor and each of human, mouse, and rabbit tissue factors were 70.4%, 57.2%, and 74.1%, respectively . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1687,12 +1749,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Leu22"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1700,7 +1763,8 @@
                 "ID": "8505342",
                 "text": "Rab geranylgeranyl transferase (Rab GG transferase) attaches 20-carbon geranylgeranyl groups to cysteine residues in Rab proteins that contain the COOH-terminal sequence Cys-X-Cys or Cys-Cys . \nRab GG transferase consists of two components that are separable in high salt solutions . \nComponent A is a 95-kDa protein, and Component B is a heterodimer consisting of a 60-kDa alpha subunit and a 38-kDa beta subunit . \nIn the current paper, we have cloned cDNAs for the alpha and beta subunits of Component B . \nThe cDNAs for the rat alpha and beta subunits predict proteins of 567 and 331 amino acids, respectively . \nThe mRNAs for both subunits are expressed in many tissues . \nWhen transfected together in embryonic kidney 293 cells, the alpha and beta subunit cDNAs produced Rab GG transferase activity that was stimulated in vitro by the addition of purified Component A . \nComparisons of the amino acid sequences suggest that the proteins encoded by the Saccharomyces cerevisiae genes MAD2 and BET2 are the yeast counterparts of the mammalian Rab GG transferase alpha and beta subunits, respectively . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1711,19 +1775,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "Tyr-985"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 34,
+                        "end": 42,
+                        "text": "Tyr-1077"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1731,7 +1796,8 @@
                 "ID": "7126685",
                 "text": "Three different ferredoxins have been isolated from the sulfate reducing bacterium, Desulfovibrio africanus . \nThe present paper describes the complete amino acid sequence of D. africanus ferredoxin I . \nThis sequence was determined using automatic protein sequencing in liquid phase and in solid phase . \nThe 61 amino acid residues of the sequence have been aligned with the aid of peptides obtained by cyanogen bromide, cleavage and by tryptic hydrolysis . \nThis ferredoxin which contains 4 cysteine residues represents the most simple case of one (4 Fe-4 S) cluster ferredoxin . \nA comparison of D. africanus ferredoxin I with D. gigas and Clostridium pasteurianum ferredoxins is presented in terms of structural and possible evolutionary relationships . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1739,7 +1805,8 @@
                 "ID": "8108417",
                 "text": "Pseudomonas aeruginosa possesses a multigene operon that includes phenylalanine hydroxylase (PhhA; phenylalanine 4-monooxygenase, EC 1.14.16.1) . \nphhA encodes PhhA (M(r) = 30,288), phhB (M(r) = 13,333) encodes a homologue of mammalian 4 alpha-carbinolamine dehydratase/homeodomain protein transregulator, and phhC encodes an aromatic aminotransferase (M(r) = 43,237) . \nThe reading frames specifying phhB and phhC overlap by 2 bases . \nThe P. aeruginosa PhhA appears to contain iron and is pterin dependent . \nUnlike the multimeric mammalian hydroxylase, the native P. aeruginosa enzyme is a monomer . \nThe P. aeruginosa PhhA is homologous with mammalian PhhA, tryptophan hydroxylase, and tyrosine hydroxylase . \nExpression of PhhA from its native promoter required phhB . \nThis may suggest a positive regulatory role for phhB, consistent with the dual catalytic and regulatory roles of the corresponding mammalian homologue . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1750,12 +1817,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 42,
+                        "end": 48,
+                        "text": "Cys303"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1766,12 +1834,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Tyr74"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1782,82 +1851,83 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Gly43"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 32,
+                        "end": 37,
+                        "text": "Ser61"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 60,
+                        "end": 65,
+                        "text": "Gly63"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 88,
+                        "end": 93,
+                        "text": "Gly66"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 116,
+                        "end": 122,
+                        "text": "Phe230"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 145,
+                        "end": 151,
+                        "text": "Asn258"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 174,
+                        "end": 179,
+                        "text": "Asn59"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 202,
+                        "end": 208,
+                        "text": "Ala179"
                     },
                     {
                         "ID": "T8",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 231,
+                        "end": 237,
+                        "text": "Ala180"
                     },
                     {
                         "ID": "T9",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 260,
+                        "end": 266,
+                        "text": "Asp183"
                     },
                     {
                         "ID": "T10",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 289,
+                        "end": 294,
+                        "text": "Arg55"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1868,26 +1938,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 69,
+                        "end": 77,
+                        "text": "Tyr(136)"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 100,
+                        "end": 108,
+                        "text": "Tyr(193)"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 131,
+                        "end": 139,
+                        "text": "Tyr(233)"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1895,7 +1966,8 @@
                 "ID": "10089508",
                 "text": "The three-dimensional structure of a form of human apolactoferrin, in which one lobe (the N-lobe) has an open conformation and the other lobe (the C-lobe) is closed, has been refined at 2.0 A resolution . \nThe refinement, by restrained least-squares methods, used synchrotron radiation X-ray diffraction data combined with a lower resolution diffractometer data set . \nThe final refined model (5346 protein atoms from residues 1-691, two Cl- ions and 363 water molecules) gives a crystallographic R factor of 0.201 (Rfree = 0 . \n286) for all 51305 reflections in the resolution range 10.0-2.0 A . \nThe conformational change in the N-lobe, which opens up the binding cleft, involves a 54 degrees rotation of the N2 domain relative to the N1 domain . \nThis also results in a small reorientation of the two lobes relative to one another with a further approximately 730 A2 of surface area being buried as the N2 domain contacts the C-lobe and the inter-lobe helix . \nThese new contacts also involve the C-terminal helix and provide a mechanism through which the conformational and iron-binding status of the N-lobe can be signalled to the C-lobe . \nSurface-area calculations indicate a fine balance between open and closed forms of lactoferrin, which both have essentially the same solvent-accessible surface . \nChloride ions are bound in the anion-binding sites of both lobes, emphasizing the functional significance of these sites . \nThe closed configuration of the C-lobe, attributed in part to weak stabilization by crystal packing interactions, has important implications for lactoferrin dynamics . \nIt shows that a stable closed structure, essentially identical to that of the iron-bound form, can be formed in the absence of iron binding . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1906,19 +1978,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 48,
+                        "end": 52,
+                        "text": "Arg8"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 75,
+                        "end": 80,
+                        "text": "Trp36"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1926,7 +1999,8 @@
                 "ID": "16762365",
                 "text": "Sex-reversal mutations in human SRY cluster within its high-mobility group box, a conserved motif of DNA bending . \nA classical substitution at the crux of this angular domain (M64I) has been reported to impair DNA bending but not DNA binding, implying that sharp bending is required for transcriptional activation and testis determination . \nSurprisingly, we report that this defect was an inadvertent consequence of protein truncation: in the intact protein, sharp DNA bending is restored by the basic tail of the high-mobility group box . \nStructural coupling between box and tail is tuned to the native DNA bend angle, damping conformational fluctuations and enabling bidirectional induced fit within the bent complex . \nM64I-associated sex reversal is instead caused by the impaired function of a flanking non-classical nuclear localization signal (NLS) . \nSimilar impairment is caused by M64A, suggesting that mislocalization is due to loss of an M64-specific function and not gain of a non-native I64-specific function . \nTranscriptional activity, attenuated by mislocalization, is rescued by fusion of a heterologous NLS . \nIn a male embryonic gonadal cell line, M64I and M64A SRY-NLS fusion proteins exhibit native transcriptional activation of Sox9, a key step in testicular differentiation . \nOur results suggest that male development is robust to subtle alterations in SRY-DNA architecture but depends critically on nuclear localization . \nThe previously unsuspected role of M64 within a non-classical NLS may contribute to its invariance among SOX-related and LEF-1-related transcription factors . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1936,13 +2010,14 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 3,
+                        "end": 42,
+                        "text": "substitutes Ser for Pro at position 97"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -1953,47 +2028,48 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 8,
+                        "text": "His5"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 31,
+                        "end": 35,
+                        "text": "Trp7"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 58,
+                        "end": 62,
+                        "text": "Tyr8"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 131,
+                        "end": 135,
+                        "text": "His5"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 158,
+                        "end": 162,
+                        "text": "Trp7"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 185,
+                        "end": 189,
+                        "text": "Tyr8"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2004,19 +2080,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 85,
+                        "end": 92,
+                        "text": "Lys-175"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 219,
+                        "end": 226,
+                        "text": "Lys-175"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2026,13 +2103,14 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 13,
+                        "text": "Cys560Arg"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2043,26 +2121,27 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 54,
+                        "end": 59,
+                        "text": "Asp87"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 82,
+                        "end": 87,
+                        "text": "Glu88"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 110,
+                        "end": 115,
+                        "text": "Asp90"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2072,13 +2151,14 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 8,
+                        "text": "W77R"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2089,61 +2169,62 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 9,
+                        "text": "Thr13"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 32,
+                        "end": 37,
+                        "text": "Ser19"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 60,
+                        "end": 65,
+                        "text": "Thr13"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 88,
+                        "end": 93,
+                        "text": "Ser19"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 116,
+                        "end": 121,
+                        "text": "Thr13"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 144,
+                        "end": 149,
+                        "text": "Ser19"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 172,
+                        "end": 177,
+                        "text": "Thr13"
                     },
                     {
                         "ID": "T7",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 200,
+                        "end": 205,
+                        "text": "Ser19"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2151,7 +2232,8 @@
                 "ID": "10836796",
                 "text": "Members of the double-stranded RNA- (dsRNA) specific adenosine deaminase gene family convert adenosine residues into inosines in dsRNA and are involved in A-to-I RNA editing of transcripts of glutamate receptor (GluR) subunits and serotonin receptor subtype 2C (5-HT(2C)R) . \nWe have isolated hADAR3, the third member of this class of human enzyme and investigated its editing site selectivity using in vitro RNA editing assay systems . \nAs originally reported for rat ADAR3 or RED2, purified ADAR3 proteins could not edit GluR-B RNA at the &quot;Q/R&quot; site, the &quot;R/G&quot; site, and the intronic &quot;hot spot&quot; site . \nIn addition, ADAR3 did not edit any of five sites discovered recently within the intracellular loop II region of 5-HT(2C)R RNAs, confirming its total lack of editing activity for currently known substrate RNAs . \nFilter-binding analyses revealed that ADAR3 is capable of binding not only to dsRNA but also to single-stranded RNA (ssRNA) . \nDeletion mutagenesis identified a region rich in arginine residues located in the N-terminus that is responsible for binding of ADAR3 to ssRNA . \nThe presence of this ssRNA-binding domain as well as its expression in restricted brain regions and postmitotic neurons make ADAR3 distinct from the other two ADAR gene family members, editing competent ADAR1 and ADAR2 . \nADAR3 inhibited in vitro the activities of RNA editing enzymes of the ADAR gene family, raising the possibility of a regulatory role in RNA editing . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2162,40 +2244,41 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Arg659"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 33,
+                        "end": 39,
+                        "text": "Lys663"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 62,
+                        "end": 68,
+                        "text": "Arg587"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 91,
+                        "end": 97,
+                        "text": "His639"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 120,
+                        "end": 126,
+                        "text": "Gln613"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2203,7 +2286,8 @@
                 "ID": "12664160",
                 "text": "The human S100 gene family encodes the EF-hand superfamily of calcium-binding proteins, with at least 14 family members clustered relatively closely together on chromosome 1q21 . \nWe have analyzed the most recently available genomic sequence of the human S100 gene cluster for evidence of tandem gene duplications during primate evolutionary history . \nThe sequences obtained from both GenBank and GoldenPath were analyzed in detail using various comparative sequence analysis tools . \nWe found that of the S100A genes clustered relatively closely together within a genomic region of 260 kb, only the S100A7 (psoriasin) gene region showed evidence of recent duplications . \nThe S100A7 gene duplicated region is composed of three distinct genomic regions, 33, 11, and 31 kb, respectively, that together harbor at least five identifiable S100A7-like genes . \nRegions 1 and 3 are in opposite orientation to each other, but each region carries two S100A7-like genes separated by an 11-kb intergenic region (region 2) that has only one S100A7-like gene, providing limited sequence resemblance to regions 1 and 3 . \nThe duplicated genomic regions 1 and 3 share a number of different retroelements including five Alu subfamily members that serve as molecular clocks . \nThe shared (paralogous) Alu S insertions suggest that regions 1 and 3 were probably duplicated during or after the phase of AluS amplification some 30-40 mya . \nWe used PCR to amplify an indel within intron 1 of the S100A7a and S100A7c genes that gave the same two expected product sizes using 40 human DNA samples and 1 chimpanzee sample, therefore confirming the presence of the region 1 and 3 duplication in these species . \nComparative genomic analysis of the other S100 gene members shows no similarity between intergenic regions, suggesting that they diverged long before the emergence of the primates . \nThis view was supported by the phylogenetic analysis of different human S100 proteins including the human S100A7 protein members . \nThe S100A7 protein, also known as psoriasin, has important functions as a mediator and regulator in skin differentiation and disease (psoriasis), in breast cancer, and as a chemotactic factor for inflammatory cells . \nThis is the first report of five copies of the S100A7 gene in the human genome, which may impact on our understanding of the possible dose effects of these genes in inflammation and normal skin development and pathogenesis . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2211,7 +2295,8 @@
                 "ID": "7836471",
                 "text": "Exposure of preadipocytes to long chain fatty acids induces expression of several gene markers of adipocyte differentiation . \nThis report describes the cloning, from a preadipocyte library, of a cDNA encoding a fatty acid-activated receptor, FAAR . \nThe cDNA had the characteristics and ligand-binding domains of nuclear hormone receptors and encoded a 440 amino acid protein related to peroxisome proliferator-activated receptors, PPAR . \nThe deduced protein sequence was 88% homologous to that of hNUC I, isolated from human osteosarcoma cells . \nFAAR mRNA was abundant in adipose tissue, intestine, brain, heart, and skeletal muscles and less abundant in kidney, liver, testis, and spleen . \nThe mRNA was undetectable in growing Ob1771 and 3T3-F442A preadipocytes, was strongly induced early during differentiation, and was increased by fatty acid . \nTranscription assays using hybrid receptor showed strong stimulation by fatty acid and weaker induction by fibrates . \nTransfection of 3T3-C2 fibroblasts, with a FAAR expression vector, conferred fatty acid inducibility of the adipocyte lipid-binding protein and the fatty acid transporter . \nTranscriptional induction of these genes exhibited inducer specificity identical to that described in preadipocytes . \nIn summary, the data indicate that FAAR is likely a mediator of fatty acid transcriptional effects in preadipocytes . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2222,19 +2307,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 39,
+                        "end": 46,
+                        "text": "Cys-260"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 69,
+                        "end": 76,
+                        "text": "Cys-266"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2245,54 +2331,55 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "Ser(36)"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 38,
+                        "end": 46,
+                        "text": "Trp(256)"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 117,
+                        "end": 125,
+                        "text": "Glu(127)"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 148,
+                        "end": 156,
+                        "text": "Glu(128)"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 219,
+                        "end": 226,
+                        "text": "Gly(81)"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 249,
+                        "end": 256,
+                        "text": "Tyr(80)"
                     },
                     {
                         "ID": "T6",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 310,
+                        "end": 318,
+                        "text": "Glu(190)"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2303,19 +2390,20 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 30,
+                        "end": 35,
+                        "text": "Gln45"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 58,
+                        "end": 63,
+                        "text": "Asp46"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2323,7 +2411,8 @@
                 "ID": "3552731",
                 "text": "To determine the modes of three disulfide linkages in the heat-stable enterotoxin (STh) produced by a human strain of enterotoxigenic Escherichia coli, we synthesized STh(6-18), which consists of 13 amino acid residues and has the same intramolecular disulfide linkages as native STh [(1985) FEBS Lett . \n181, 138-142], by stepwise and selective formation of disulfide bonds using different types of removable protecting groups for the Cys residues . \nSynthesis of the peptide with different modes of disulfide bond formation provided three peptides consistent with standard STh(6-18) in their physicochemical and biological properties, thereby indicating that the disulfide bonds in STh(6-18) are Cys-Cys-Glu-Leu-Cys-Cys-Asn-Pro-Ala-Cys-Thr-Gly-Cys . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2334,131 +2423,132 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 11,
+                        "text": "Gly(14)"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 15,
+                        "end": 22,
+                        "text": "Asp(14)"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 45,
+                        "end": 53,
+                        "text": "Glu(231)"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 57,
+                        "end": 65,
+                        "text": "Lys(231)"
                     },
                     {
                         "ID": "T4",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 88,
+                        "end": 92,
+                        "text": "G14D"
                     },
                     {
                         "ID": "T5",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 115,
+                        "end": 120,
+                        "text": "E231K"
                     },
                     {
                         "ID": "T6",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 143,
+                        "end": 148,
+                        "text": "H153Q"
                     },
                     {
                         "ID": "T7",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 171,
+                        "end": 176,
+                        "text": "H209Q"
                     },
                     {
                         "ID": "T8",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 199,
+                        "end": 204,
+                        "text": "H257Q"
                     },
                     {
                         "ID": "T9",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 227,
+                        "end": 231,
+                        "text": "G14D"
                     },
                     {
                         "ID": "T10",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 254,
+                        "end": 259,
+                        "text": "E231K"
                     },
                     {
                         "ID": "T11",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 282,
+                        "end": 287,
+                        "text": "H153Q"
                     },
                     {
                         "ID": "T12",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 310,
+                        "end": 315,
+                        "text": "H209Q"
                     },
                     {
                         "ID": "T13",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 338,
+                        "end": 343,
+                        "text": "H257Q"
                     },
                     {
                         "ID": "T14",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 366,
+                        "end": 374,
+                        "text": "Glu(231)"
                     },
                     {
                         "ID": "T15",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 397,
+                        "end": 405,
+                        "text": "His(153)"
                     },
                     {
                         "ID": "T16",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 428,
+                        "end": 436,
+                        "text": "His(209)"
                     },
                     {
                         "ID": "T17",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 459,
+                        "end": 467,
+                        "text": "His(257)"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2466,7 +2556,8 @@
                 "ID": "1406250",
                 "text": "Arginine auxotrophs of the dinitrogen-fixing cyanobacterium Anabaena species strain PCC 7120 were isolated after ultraviolet light mutagenesis and penicillin enrichment . \nTwo of these auxotrophs were complemented by a cosmid gene library of the wild-type strain established in Escherichia coli that was transferred en masse to the mutants by conjugation . \nThe gene complementing one of those mutants was found to complement an E. coli argC mutant . \nSequencing analysis of the gene showed that it encodes a 322-residue polypeptide that is homologous to the ArgC protein of E. coli, Bacillus subtilis and Streptomyces clavuligerus and to the C-terminal moiety of the Saccharomyces cerevisiae ARG5,6 gene product, N-acetylglutamate semialdehyde dehydrogenase . \nA cysteine residue present in a highly conserved domain in the five proteins is probably located in the active site of the enzyme . \nConserved among the ArgC proteins, sequences resembling the primary structure of nucleotide-binding domains are also found . \nDownstream of the Anabaena argC gene seven nearly perfect repeats of a heptanucleotide (consensus sequence:5'-CTAATGA-3') are found . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2477,40 +2568,41 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 39,
+                        "end": 45,
+                        "text": "ser-52"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 68,
+                        "end": 74,
+                        "text": "Ser-52"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 97,
+                        "end": 103,
+                        "text": "ser-52"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 135,
+                        "end": 141,
+                        "text": "ser-52"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 164,
+                        "end": 170,
+                        "text": "ser-52"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2518,7 +2610,8 @@
                 "ID": "7523402",
                 "text": "The entire sequence of the human alpha 4(IV) collagen chain was determined from cDNA clones and polymerase chain reaction-amplified DNAs . \nThe complete translation product has 1,690 amino acid residues and the processedalpha 4(IV) chain proper 1,652 residues . \nThere is a 38-residue putative signal peptide, a 1,421-residue collagenous domain starting with a 23-residue noncollagenous sequence, and a 231-residue NC1 domain . \nThe Gly-Xaa-Yaa-repeat sequence of the collagenous domain is interrupted at 26 locations by noncollagenous sequences of 1-12 residues in length . \nThe alpha 4(IV) chain contains 31 cysteine residues of which 18 are conserved in the other type IV collagen alpha chains . \nThe calculated molecular weight of the mature alpha 4(IV) chain is 164,123 . \nAnalysis of the primary structure showed that the alpha 4(IV) chain belongs to the alpha 2-like type IV collagen chains together with alpha 2(IV) and alpha 6(IV) . \nNorthern analyses with RNA from several human fetal tissues revealed quite similar expression patterns for the alpha 4(IV) and alpha 3(IV) chains, but there were also distinct differences in some tissues . \nThe expression patterns of alpha 5(IV) and alpha 6(IV) differed extensively between each other and they also differed from those of alpha 3(IV) and alpha 4(IV) . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2529,12 +2622,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Phe351"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2542,7 +2636,8 @@
                 "ID": "3877721",
                 "text": "The complete amino acid sequence of bovine bone matrix Gla protein (MGP) was determined by automatic sequence analysis of the intact protein and of peptides isolated from tryptic and BNPS-skatole digests . \nThis 79-residue, vitamin K-dependent protein contains a single disulfide bond and 4.8 gamma-carboxyglutamate (Gla) residues, one each at positions 37, 41, 48, and 52, and 0.8 Gla and 0.2 Glu at position 2 . \nThere is sufficient sequence homology between MGP and bone Gla protein (BGP) to indicate that these two bovine bone proteins arose by gene duplication and subsequent divergent evolution . \nAlthough MGP has a very low solubility in water compared to BGP, there is no hydrophobic domain in MGP which could account for its insolubility, and the overall fraction of hydrophobic residues is 32% for MGP compared to 43% for BGP . \nMGP is the first vitamin K-dependent protein to be discovered which has several non-gamma-carboxylated residues to the NH2-terminal side of its Gla residues . \nThe presence of NH2-terminal Glu residues between the putative targeting domain for the gamma-carboxylase in the MGP leader sequence and the mid-molecule Gla residues suggests that the gamma-carboxylase may have additional, as yet unrecognized, specificity requirements which determine the susceptibility of Glu residues for gamma-carboxylation . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2550,7 +2645,8 @@
                 "ID": "16762386",
                 "text": "The soluble venom from the scorpion Androctonus crassicauda was fractionated by high performance liquid chromatography . \nAt least 44 different sub-fractions were resolved and collected for finger print mass analysis using an electrospray mass spectrometer . \nThis analysis revealed the presence of 80 distinct molecular mass components, from which five were further characterized . \nA peptide, named Acra1 was fully sequenced . \nIt contains 58 amino acid residues cross-bridged by six cysteines forming three disulfide pairs, with a molecular mass of 6497 Da . \nA second purified peptide named Acra2 was partially sequenced with a molecular mass of 7849 Da . \nAcra1 is toxic and Acra2 is lethal to mice, at the dose assayed . \nAdditionally, a cDNA library of the venomous gland of one specimen was prepared and several clones were obtained among which is one that codes for Acra1 . \nThree analog gene sequences were found with point mutations either in the section that corresponds to the mature peptide or to the signal peptide . \nThe signal peptide is 22 amino acid residues long . \nSeveral other gene sequences obtained suggest the presence in this venom of three distinct groups of peptides, among which are peptides similar to known Na(+)-channel specific toxins of other scorpions . \nA new type of peptide was identified with odd number of cysteines (seven), allowing the formation of heterodimers with molecular masses in the range of 16,000 atomic mass units (a.m.u.) . \n",
                 "entities": [],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2561,47 +2657,48 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 4,
+                        "end": 10,
+                        "text": "Asp123"
                     },
                     {
                         "ID": "T1",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 33,
+                        "end": 39,
+                        "text": "His279"
                     },
                     {
                         "ID": "T2",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 62,
+                        "end": 68,
+                        "text": "Asp250"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 91,
+                        "end": 96,
+                        "text": "Glu55"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 119,
+                        "end": 125,
+                        "text": "Trp124"
                     },
                     {
                         "ID": "T5",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 148,
+                        "end": 154,
+                        "text": "Trp124"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2611,20 +2708,21 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 9,
+                        "text": "W612C"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 32,
+                        "end": 37,
+                        "text": "W612C"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2634,48 +2732,49 @@
                 "entities": [
                     {
                         "ID": "T0",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 4,
+                        "end": 8,
+                        "text": "E92K"
                     },
                     {
                         "ID": "T1",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 31,
+                        "end": 35,
+                        "text": "E92K"
                     },
                     {
                         "ID": "T2",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 58,
+                        "end": 62,
+                        "text": "E92K"
                     },
                     {
                         "ID": "T3",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 85,
+                        "end": 90,
+                        "text": "Lys92"
                     },
                     {
                         "ID": "T4",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "begin": 113,
+                        "end": 118,
+                        "text": "Asp26"
                     },
                     {
                         "ID": "T5",
-                        "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
-                        "text": "Tyr-196"
+                        "type": "Mutation",
+                        "begin": 141,
+                        "end": 145,
+                        "text": "E92K"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         },
         {
@@ -2686,12 +2785,13 @@
                     {
                         "ID": "T0",
                         "type": "AminoAcidResidue",
-                        "begin": "4",
-                        "end": "11",
+                        "begin": 4,
+                        "end": 11,
                         "text": "Tyr-196"
                     }
                 ],
-                "relations": []
+                "relations": [],
+                "metadata": []
             }
         }
     ]

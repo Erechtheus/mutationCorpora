@@ -44,10 +44,13 @@ for pubmedId in corpusDict.keys():
     relations = []
 
     if pubmedId in annotationDict:
-        for i in range(len(annotationDict[pubmedId])):
-            annotation = annotationDict[pubmedId][i]
-            print(annotation)
-            entities.append({"ID": "T" +str(i), "type":array[1], "begin" : array[2], "end" : array[3], "text" : array[7]})
+        tmpEntities = annotationDict[pubmedId]
+
+        for i in range(len(tmpEntities)):
+            tmpEntities[i]
+            entities.append(
+                {"ID": "T" + str(i), "type": tmpEntities[i][1], "begin": int(tmpEntities[i][2]), "end": int(tmpEntities[i][3]), "text": tmpEntities[i][7]})
+
 
 
     jsonDocument = {"document": {

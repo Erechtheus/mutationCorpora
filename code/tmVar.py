@@ -4,8 +4,8 @@ import json
 inFile="corpora/original/tmVar/test.BioC.xml"
 outFile="corpora/json/tmvar-test.json"
 
-#inFile="corpora/original/tmVar/train.BioC.xml"
-#outFile="corpora/json/tmvar-train.json"
+inFile="corpora/original/tmVar/train.BioC.xml"
+outFile="corpora/json/tmvar-train.json"
 
 
 jsonDocuments = []
@@ -33,8 +33,8 @@ for document in root.findall("document"):
 
         for annotation in passage.findall("annotation"):
             entityId = annotation.get("id")
-            entityStart = annotation.find("location").get("offset")
-            entityEnd = annotation.find("location").get("offset") + annotation.find("location").get("length")
+            entityStart = int(annotation.find("location").get("offset"))
+            entityEnd = int(annotation.find("location").get("offset")) + int(annotation.find("location").get("length"))
             entityText = annotation.find("text").text
             for infon in annotation.findall("infon"):
                 if infon.get("key") == "type":
