@@ -1,4 +1,6 @@
 import json
+import requests
+from tqdm import tqdm
 
 inFile="corpora/json/amia-test.json"
 inFile="corpora/json/amia-train.json"
@@ -9,11 +11,28 @@ inFile="corpora/json/linking/thomas.json" #Error!
 inFile="corpora/json/tmvar-test.json"
 inFile="corpora/json/tmvar-train.json"
 inFile="corpora/json/linking/tmvarnorm.json"
-inFile="corpora/json/Variome.json"
+#inFile="corpora/json/Variome.json"
+
+
+knownSNPs = set()
+def exists(rsId):
+
+    if rsId  in knownSNPs:
+        return True
+
+    response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" +str(rsId))
+
+    if response.status_code != 200:
+        return False
+
+    else:
+        knownSNPs.add(response.json()["refsnp_id"])
+        return True
+
 
 with open(inFile) as f:
     documents = json.load(f)
-    for document in documents["documents"]:
+    for document in tqdm(documents["documents"]):
 
         document = document["document"]
 
@@ -31,6 +50,10 @@ with open(inFile) as f:
                 print("Problem with document '" +str(id) +"' entity offset wrong for '" +entity["text"] +"' != '" +text[entity["begin"] : entity["end"]] +"'")
                 print(entity)
                 print("---")
+
+            if "dbSNP" in entity:
+                if exists(entity["dbSNP"]) == False:
+                    print("dbSNP does not exist for entity=" +entity)
 
         for relation in relations:
 
