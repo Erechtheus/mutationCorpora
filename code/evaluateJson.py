@@ -1,6 +1,8 @@
 import json
 import requests
 from tqdm import tqdm
+import os
+import pickle
 
 inFile="corpora/json/amia-test.json"
 inFile="corpora/json/amia-train.json"
@@ -13,25 +15,61 @@ inFile="corpora/json/tmvar-train.json"
 inFile="corpora/json/linking/tmvarnorm.json"
 #inFile="corpora/json/Variome.json"
 
+#divide list into chunks of size n
+def divide_chunks(listIn, n):
+    for i in range(0, len(listIn), n):
+        yield listIn[i:i + n]
 
-knownSNPs = set()
-def exists(rsId):
 
-    if rsId  in knownSNPs:
-        return True
+#Retrieves all merge information for a set of dbSNP identifiers
+#This opens a REST call to NCBI eutils and therefore takes some time
+def getSNPs(dbSNPIDs):
+    cacheFolder = "cache/"
+    cacheFile = cacheFolder + "dbSNP.pickle"
 
-    response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" +str(rsId))
+    if os.path.isdir(cacheFolder) == False:
+        os.mkdir(cacheFolder)
 
-    if response.status_code != 200:
-        return False
-
+    if os.path.exists(cacheFile):
+        with open(cacheFile, 'rb') as file:
+            snpDict = pickle.load(file)
     else:
-        knownSNPs.add(response.json()["refsnp_id"])
-        return True
+        snpDict = {}
+
+    dbSNPIDs = dbSNPIDs - set(snpDict.keys())
+
+    if len(dbSNPIDs) > 0:
+        print("Querying NCBI-efetch service. Please stand-by...")
+        for chunk in tqdm(divide_chunks(list(dbSNPIDs), 10)):
+            response = requests.get(
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" + str(
+                    ",".join(chunk)), timeout=60)
+
+            for jsonString in response.text.split("{\"refsnp_id\""):
+                if jsonString != "":
+                    #print(jsonString[0:50])
+                    data = json.loads("{\"refsnp_id\"" + jsonString)
+                    snpDict[data["refsnp_id"]] = set(
+                        map(lambda x: x["merged_rsid"], data["dbsnp1_merges"]))
+
+            #Save each iteration
+            with open(cacheFile, 'wb') as fid:
+                pickle.dump(snpDict, fid)
+
+    return snpDict
 
 
 with open(inFile) as f:
     documents = json.load(f)
+
+    dbSNPIDs = set()
+    for document in documents["documents"]:
+        for entity in document["document"]["entities"]:
+            if "dbSNP" in entity:
+                dbSNPIDs.add(str(entity["dbSNP"]))
+    snpDict = getSNPs(dbSNPIDs)
+
+
     for document in tqdm(documents["documents"]):
 
         document = document["document"]
@@ -52,8 +90,8 @@ with open(inFile) as f:
                 print("---")
 
             if "dbSNP" in entity:
-                if exists(entity["dbSNP"]) == False:
-                    print("dbSNP does not exist for entity=" +entity)
+                if entity["dbSNP"] not in snpDict.keys():
+                    print(" PMID=" +str(id) +" dbSNP-ID= '" +str(entity["dbSNP"]) +"'" +" does not exist for entity=" +str(entity))
 
         for relation in relations:
 
@@ -70,3 +108,7 @@ with open(inFile) as f:
 
 
 f.close()
+
+
+
+

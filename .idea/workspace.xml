@@ -4,37 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="first revision of SETH">
-      <change afterPath="$PROJECT_DIR$/code/Nagel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Variome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/amia18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/tmVar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corpora/json/Nagel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corpora/json/Variome.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corpora/json/tmvar-test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corpora/json/tmvar-train.json" afterDir="false" />
+    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="Next iteration">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Nala.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/SETH.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/SETH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/json/SETH.json" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/json/SETH.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/16533815.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/16533815.a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/18076904.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/18076904.a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/7714902.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/7714902.a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/8046751.a1" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/original/Ravikumar/ann/SilverTrainingCorpusAnnotations/8046751.a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/original/SETH/annotations/.stats_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Nagel/NagelCorpus.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Nala/tagtog_IDP4+_anndoc.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Osiris/OSIRIScorpusv01.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Ravikumar/ProteinResidueRelationsSilverCorpus.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Ravikumar/ProteinResidueRelationsSilverCorpus_A1.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/SETH/SETH-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Variome/readbiomed-variome-corpus-data-6ae3f1ebfdfd.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/Verspoor/ProteinResidueFullTextCorpus.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/mutationfinder/MutationFinder-1.1.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVar/normalization-variation-corpus.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVar/tmVarCorpus.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpora/raw/tmVarNorm/tmVar.Normalization.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/evaluateJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluateJson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/corpora/json/linking" />
       <recent name="$PROJECT_DIR$/corpora/original" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -153,7 +128,56 @@
       <option name="project" value="LOCAL" />
       <updated>1634902296382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactoring repository">
+      <created>1635250921195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635250921196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added AMIA data">
+      <created>1635251001786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635251001786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added some corpora">
+      <created>1635755963032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635755963032</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Passes initial checks">
+      <created>1635757259533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635757259533</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Resolved some errors in amia">
+      <created>1635758214218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635758214218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Making progress">
+      <created>1635769007213</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635769007213</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Next iteration">
+      <created>1635841733892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635841733892</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -195,6 +219,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added SETH oa" />
     <MESSAGE value="first revision of SETH" />
-    <option name="LAST_COMMIT_MESSAGE" value="first revision of SETH" />
+    <MESSAGE value="refactoring repository" />
+    <MESSAGE value="Added AMIA data" />
+    <MESSAGE value="Added some corpora" />
+    <MESSAGE value="Passes initial checks" />
+    <MESSAGE value="Resolved some errors in amia" />
+    <MESSAGE value="Making progress" />
+    <MESSAGE value="Next iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next iteration" />
   </component>
 </project>
