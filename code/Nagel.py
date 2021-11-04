@@ -5,6 +5,8 @@ import json
 inDir="corpora/original/Nagel/"
 outFile="corpora/json/Nagel.json"
 
+print("Script works, but entity offset from 'Nagel_GC.standoff.txt' do not match the text in folder 'NagelCorpusText'")
+exit()
 
 #1.) Load the corpus into corpusDict
 corpusDict = {}
