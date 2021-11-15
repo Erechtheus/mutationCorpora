@@ -58,7 +58,7 @@ for article in root.findall("Article"):
              "text": children.text, "entrez": children.get("g_id")})
 
         elif children.tag == "variant":
-            if children.get("v_id") != "No":
+            if children.get("v_id").isnumeric(): #Otherwise entity cannot be normalized to dbSNP
                 annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
                                 "end": len(text) + len(children.text) +offset ,
                                 "text": children.text, "dbSNP": children.get("v_id")})
