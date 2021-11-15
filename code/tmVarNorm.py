@@ -61,15 +61,7 @@ for line in corpusFile:
         print("Skipping line '" +line +"'")
 corpusFile.close()
 
-# Add the final document
-jsonDocument = {"document": {
-    "ID": pmid,
-    "text": title + "\n" + abstr,
-    "entities": annotations,
-    "relations": [],
-    "metadata": []
-}}
-jsonDocuments.append(jsonDocument)
+
 
 corpus = {"referenceURL" : "", "version" : "", "bibtex" : "",
     "documents" : jsonDocuments}
