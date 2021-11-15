@@ -58,9 +58,15 @@ for article in root.findall("Article"):
              "text": children.text, "entrez": children.get("g_id")})
 
         elif children.tag == "variant":
-            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
+            if children.get("v_id") != "No":
+                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
                                 "end": len(text) + len(children.text) +offset ,
                                 "text": children.text, "dbSNP": children.get("v_id")})
+            else:
+                annotations.append(
+                    {"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
+                     "end": len(text) + len(children.text) + offset,
+                     "text": children.text})
 
         else:
             print("Error no handling for '" +children.tag +"'")

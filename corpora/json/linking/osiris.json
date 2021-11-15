@@ -53,8 +53,7 @@
                         "type": "variant",
                         "begin": 921,
                         "end": 928,
-                        "text": "+1632 T",
-                        "dbSNP": "No"
+                        "text": "+1632 T"
                     },
                     {
                         "ID": "T6",
@@ -215,8 +214,7 @@
                         "type": "variant",
                         "begin": 1718,
                         "end": 1724,
-                        "text": "-866 A",
-                        "dbSNP": "No"
+                        "text": "-866 A"
                     },
                     {
                         "ID": "T15",
@@ -297,8 +295,7 @@
                         "type": "variant",
                         "begin": 1436,
                         "end": 1442,
-                        "text": "-86G/A",
-                        "dbSNP": "No"
+                        "text": "-86G/A"
                     },
                     {
                         "ID": "T7",
@@ -371,8 +368,7 @@
                         "type": "variant",
                         "begin": 383,
                         "end": 402,
-                        "text": "Nco I polymorphisms",
-                        "dbSNP": "No"
+                        "text": "Nco I polymorphisms"
                     },
                     {
                         "ID": "T6",
@@ -435,8 +431,7 @@
                         "type": "variant",
                         "begin": 1221,
                         "end": 1239,
-                        "text": "-308 TNF-alpha G/G",
-                        "dbSNP": "No"
+                        "text": "-308 TNF-alpha G/G"
                     },
                     {
                         "ID": "T14",
@@ -549,32 +544,28 @@
                         "type": "variant",
                         "begin": 953,
                         "end": 958,
-                        "text": "T123C",
-                        "dbSNP": "No"
+                        "text": "T123C"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 960,
                         "end": 965,
-                        "text": "G358A",
-                        "dbSNP": "No"
+                        "text": "G358A"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 967,
                         "end": 972,
-                        "text": "T382G",
-                        "dbSNP": "No"
+                        "text": "T382G"
                     },
                     {
                         "ID": "T11",
                         "type": "variant",
                         "begin": 977,
                         "end": 982,
-                        "text": "A402G",
-                        "dbSNP": "No"
+                        "text": "A402G"
                     },
                     {
                         "ID": "T12",
@@ -589,8 +580,7 @@
                         "type": "variant",
                         "begin": 1457,
                         "end": 1462,
-                        "text": "T382G",
-                        "dbSNP": "No"
+                        "text": "T382G"
                     },
                     {
                         "ID": "T14",
@@ -687,8 +677,7 @@
                         "type": "variant",
                         "begin": 794,
                         "end": 799,
-                        "text": "H131R",
-                        "dbSNP": "No"
+                        "text": "H131R"
                     },
                     {
                         "ID": "T10",
@@ -719,8 +708,7 @@
                         "type": "variant",
                         "begin": 822,
                         "end": 827,
-                        "text": "F176V",
-                        "dbSNP": "No"
+                        "text": "F176V"
                     },
                     {
                         "ID": "T14",
@@ -759,8 +747,7 @@
                         "type": "variant",
                         "begin": 1024,
                         "end": 1028,
-                        "text": "176F",
-                        "dbSNP": "No"
+                        "text": "176F"
                     },
                     {
                         "ID": "T19",
@@ -791,8 +778,7 @@
                         "type": "variant",
                         "begin": 1253,
                         "end": 1257,
-                        "text": "176V",
-                        "dbSNP": "No"
+                        "text": "176V"
                     },
                     {
                         "ID": "T23",
@@ -865,8 +851,7 @@
                         "type": "variant",
                         "begin": 722,
                         "end": 729,
-                        "text": "-403 AA",
-                        "dbSNP": "No"
+                        "text": "-403 AA"
                     },
                     {
                         "ID": "T3",
@@ -915,8 +900,7 @@
                         "type": "variant",
                         "begin": 685,
                         "end": 794,
-                        "text": "mutation at intron 2 of the CLCN5 gene, a T-to-G substitution, located 17 bp upstream of the AG acceptor site",
-                        "dbSNP": "No"
+                        "text": "mutation at intron 2 of the CLCN5 gene, a T-to-G substitution, located 17 bp upstream of the AG acceptor site"
                     },
                     {
                         "ID": "T4",
@@ -931,8 +915,7 @@
                         "type": "variant",
                         "begin": 904,
                         "end": 915,
-                        "text": "IVS2-17 T>G",
-                        "dbSNP": "No"
+                        "text": "IVS2-17 T>G"
                     }
                 ],
                 "relations": [],
@@ -1153,24 +1136,21 @@
                         "type": "variant",
                         "begin": 283,
                         "end": 292,
-                        "text": "-11365C>G",
-                        "dbSNP": "No"
+                        "text": "-11365C>G"
                     },
                     {
                         "ID": "T4",
                         "type": "variant",
                         "begin": 294,
                         "end": 302,
-                        "text": "-4034A>C",
-                        "dbSNP": "No"
+                        "text": "-4034A>C"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 304,
                         "end": 312,
-                        "text": "-3964A>G",
-                        "dbSNP": "No"
+                        "text": "-3964A>G"
                     },
                     {
                         "ID": "T6",
@@ -1185,16 +1165,14 @@
                         "type": "variant",
                         "begin": 326,
                         "end": 333,
-                        "text": "+276G>T",
-                        "dbSNP": "No"
+                        "text": "+276G>T"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 739,
                         "end": 748,
-                        "text": "-4034 C/C",
-                        "dbSNP": "No"
+                        "text": "-4034 C/C"
                     },
                     {
                         "ID": "T9",
@@ -1225,8 +1203,7 @@
                         "type": "variant",
                         "begin": 1100,
                         "end": 1106,
-                        "text": "+276 T",
-                        "dbSNP": "No"
+                        "text": "+276 T"
                     },
                     {
                         "ID": "T13",
@@ -1291,8 +1268,7 @@
                         "type": "variant",
                         "begin": 507,
                         "end": 515,
-                        "text": "-866 G/A",
-                        "dbSNP": "No"
+                        "text": "-866 G/A"
                     },
                     {
                         "ID": "T5",
@@ -1365,16 +1341,14 @@
                         "type": "variant",
                         "begin": 602,
                         "end": 624,
-                        "text": "IL-1alpha-889 T allele",
-                        "dbSNP": "No"
+                        "text": "IL-1alpha-889 T allele"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 761,
                         "end": 783,
-                        "text": "IL-1alpha-889 T allele",
-                        "dbSNP": "No"
+                        "text": "IL-1alpha-889 T allele"
                     },
                     {
                         "ID": "T6",
@@ -1399,16 +1373,14 @@
                         "type": "variant",
                         "begin": 988,
                         "end": 998,
-                        "text": "994G --> T",
-                        "dbSNP": "No"
+                        "text": "994G --> T"
                     },
                     {
                         "ID": "T1",
                         "type": "variant",
                         "begin": 1000,
                         "end": 1009,
-                        "text": "Val279Phe",
-                        "dbSNP": "No"
+                        "text": "Val279Phe"
                     },
                     {
                         "ID": "T2",
@@ -1711,8 +1683,7 @@
                         "type": "variant",
                         "begin": 144,
                         "end": 152,
-                        "text": "-1131T>C",
-                        "dbSNP": "No"
+                        "text": "-1131T>C"
                     },
                     {
                         "ID": "T4",
@@ -1727,16 +1698,14 @@
                         "type": "variant",
                         "begin": 276,
                         "end": 283,
-                        "text": "-1131TT",
-                        "dbSNP": "No"
+                        "text": "-1131TT"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 315,
                         "end": 321,
-                        "text": "-1131C",
-                        "dbSNP": "No"
+                        "text": "-1131C"
                     },
                     {
                         "ID": "T7",
@@ -2003,32 +1972,28 @@
                         "type": "variant",
                         "begin": 1132,
                         "end": 1137,
-                        "text": "2430C",
-                        "dbSNP": "No"
+                        "text": "2430C"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1138,
                         "end": 1143,
-                        "text": "2731T",
-                        "dbSNP": "No"
+                        "text": "2731T"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 1144,
                         "end": 1149,
-                        "text": "3667G",
-                        "dbSNP": "No"
+                        "text": "3667G"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 1150,
                         "end": 1155,
-                        "text": "4427C",
-                        "dbSNP": "No"
+                        "text": "4427C"
                     },
                     {
                         "ID": "T11",
@@ -2093,8 +2058,7 @@
                         "type": "variant",
                         "begin": 243,
                         "end": 249,
-                        "text": "131R/H",
-                        "dbSNP": "No"
+                        "text": "131R/H"
                     },
                     {
                         "ID": "T4",
@@ -2109,16 +2073,14 @@
                         "type": "variant",
                         "begin": 264,
                         "end": 270,
-                        "text": "176F/V",
-                        "dbSNP": "No"
+                        "text": "176F/V"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 288,
                         "end": 294,
-                        "text": "NA1/2 ",
-                        "dbSNP": "No"
+                        "text": "NA1/2 "
                     },
                     {
                         "ID": "T7",
@@ -2133,16 +2095,14 @@
                         "type": "variant",
                         "begin": 803,
                         "end": 807,
-                        "text": "131R",
-                        "dbSNP": "No"
+                        "text": "131R"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 817,
                         "end": 821,
-                        "text": "176F",
-                        "dbSNP": "No"
+                        "text": "176F"
                     },
                     {
                         "ID": "T10",
@@ -2157,8 +2117,7 @@
                         "type": "variant",
                         "begin": 1061,
                         "end": 1065,
-                        "text": "131R",
-                        "dbSNP": "No"
+                        "text": "131R"
                     },
                     {
                         "ID": "T12",
@@ -2173,8 +2132,7 @@
                         "type": "variant",
                         "begin": 1083,
                         "end": 1087,
-                        "text": "176F",
-                        "dbSNP": "No"
+                        "text": "176F"
                     }
                 ],
                 "relations": [],
@@ -2231,16 +2189,14 @@
                         "type": "variant",
                         "begin": 693,
                         "end": 700,
-                        "text": "Ala-459",
-                        "dbSNP": "No"
+                        "text": "Ala-459"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 705,
                         "end": 712,
-                        "text": "Pro-459",
-                        "dbSNP": "No"
+                        "text": "Pro-459"
                     },
                     {
                         "ID": "T7",
@@ -2255,24 +2211,21 @@
                         "type": "variant",
                         "begin": 996,
                         "end": 1037,
-                        "text": "Ala to Pro substitution at amino acid 459",
-                        "dbSNP": "No"
+                        "text": "Ala to Pro substitution at amino acid 459"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 1118,
                         "end": 1125,
-                        "text": "Pro-459",
-                        "dbSNP": "No"
+                        "text": "Pro-459"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 1174,
                         "end": 1181,
-                        "text": "Ala-459",
-                        "dbSNP": "No"
+                        "text": "Ala-459"
                     },
                     {
                         "ID": "T11",
@@ -2329,8 +2282,7 @@
                         "type": "variant",
                         "begin": 610,
                         "end": 615,
-                        "text": "4G/5G",
-                        "dbSNP": "No"
+                        "text": "4G/5G"
                     },
                     {
                         "ID": "T5",
@@ -2345,8 +2297,7 @@
                         "type": "variant",
                         "begin": 626,
                         "end": 631,
-                        "text": "C677T",
-                        "dbSNP": "No"
+                        "text": "C677T"
                     },
                     {
                         "ID": "T7",
@@ -2377,8 +2328,7 @@
                         "type": "variant",
                         "begin": 1110,
                         "end": 1115,
-                        "text": "C677T",
-                        "dbSNP": "No"
+                        "text": "C677T"
                     },
                     {
                         "ID": "T11",
@@ -2393,8 +2343,7 @@
                         "type": "variant",
                         "begin": 1184,
                         "end": 1189,
-                        "text": "4G/5G",
-                        "dbSNP": "No"
+                        "text": "4G/5G"
                     },
                     {
                         "ID": "T13",
@@ -2409,8 +2358,7 @@
                         "type": "variant",
                         "begin": 1199,
                         "end": 1204,
-                        "text": "C677T",
-                        "dbSNP": "No"
+                        "text": "C677T"
                     },
                     {
                         "ID": "T15",
@@ -2433,8 +2381,7 @@
                         "type": "variant",
                         "begin": 1358,
                         "end": 1363,
-                        "text": "4G/5G",
-                        "dbSNP": "No"
+                        "text": "4G/5G"
                     },
                     {
                         "ID": "T18",
@@ -2449,8 +2396,7 @@
                         "type": "variant",
                         "begin": 1374,
                         "end": 1379,
-                        "text": "C677T",
-                        "dbSNP": "No"
+                        "text": "C677T"
                     },
                     {
                         "ID": "T20",
@@ -2499,8 +2445,7 @@
                         "type": "variant",
                         "begin": 59,
                         "end": 66,
-                        "text": "-866G/A",
-                        "dbSNP": "No"
+                        "text": "-866G/A"
                     },
                     {
                         "ID": "T4",
@@ -2587,8 +2532,7 @@
                         "type": "variant",
                         "begin": 1111,
                         "end": 1118,
-                        "text": "-866G/A",
-                        "dbSNP": "No"
+                        "text": "-866G/A"
                     },
                     {
                         "ID": "T15",
@@ -2717,8 +2661,7 @@
                         "type": "variant",
                         "begin": 991,
                         "end": 1002,
-                        "text": "HLA-DRB1*04",
-                        "dbSNP": "No"
+                        "text": "HLA-DRB1*04"
                     },
                     {
                         "ID": "T12",
@@ -3043,40 +2986,35 @@
                         "type": "variant",
                         "begin": 990,
                         "end": 997,
-                        "text": "-491a/t",
-                        "dbSNP": "No"
+                        "text": "-491a/t"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 999,
                         "end": 1006,
-                        "text": "-427c/t",
-                        "dbSNP": "No"
+                        "text": "-427c/t"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1008,
                         "end": 1015,
-                        "text": "-219g/t",
-                        "dbSNP": "No"
+                        "text": "-219g/t"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1017,
                         "end": 1023,
-                        "text": "113c/g",
-                        "dbSNP": "No"
+                        "text": "113c/g"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1029,
                         "end": 1036,
-                        "text": "5361c/t",
-                        "dbSNP": "No"
+                        "text": "5361c/t"
                     },
                     {
                         "ID": "T16",
@@ -3385,8 +3323,7 @@
                         "type": "variant",
                         "begin": 1120,
                         "end": 1125,
-                        "text": "L267V",
-                        "dbSNP": "No"
+                        "text": "L267V"
                     },
                     {
                         "ID": "T7",
@@ -3409,8 +3346,7 @@
                         "type": "variant",
                         "begin": 1145,
                         "end": 1150,
-                        "text": "K281K",
-                        "dbSNP": "No"
+                        "text": "K281K"
                     },
                     {
                         "ID": "T10",
@@ -3425,24 +3361,21 @@
                         "type": "variant",
                         "begin": 1186,
                         "end": 1199,
-                        "text": "3'UTR +62 G/A",
-                        "dbSNP": "No"
+                        "text": "3'UTR +62 G/A"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 1480,
                         "end": 1485,
-                        "text": "P266T",
-                        "dbSNP": "No"
+                        "text": "P266T"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1490,
                         "end": 1495,
-                        "text": "R371H",
-                        "dbSNP": "No"
+                        "text": "R371H"
                     },
                     {
                         "ID": "T14",
@@ -3499,32 +3432,28 @@
                         "type": "variant",
                         "begin": 649,
                         "end": 656,
-                        "text": "-88 G/T",
-                        "dbSNP": "No"
+                        "text": "-88 G/T"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 658,
                         "end": 666,
-                        "text": "-123 C/A",
-                        "dbSNP": "No"
+                        "text": "-123 C/A"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 668,
                         "end": 676,
-                        "text": "-200 T/C",
-                        "dbSNP": "No"
+                        "text": "-200 T/C"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 682,
                         "end": 690,
-                        "text": "-213 G/T",
-                        "dbSNP": "No"
+                        "text": "-213 G/T"
                     },
                     {
                         "ID": "T8",
@@ -3547,8 +3476,7 @@
                         "type": "variant",
                         "begin": 990,
                         "end": 997,
-                        "text": "-88 G/T",
-                        "dbSNP": "No"
+                        "text": "-88 G/T"
                     },
                     {
                         "ID": "T11",
@@ -3613,8 +3541,7 @@
                         "type": "variant",
                         "begin": 83,
                         "end": 156,
-                        "text": "C/A polymorphism--160 base pairs relative to the transcription start site",
-                        "dbSNP": "No"
+                        "text": "C/A polymorphism--160 base pairs relative to the transcription start site"
                     }
                 ],
                 "relations": [],
@@ -3655,8 +3582,7 @@
                         "type": "variant",
                         "begin": 525,
                         "end": 535,
-                        "text": "-511 (C-T)",
-                        "dbSNP": "No"
+                        "text": "-511 (C-T)"
                     },
                     {
                         "ID": "T4",
@@ -3679,8 +3605,7 @@
                         "type": "variant",
                         "begin": 885,
                         "end": 905,
-                        "text": "C allele at -511 SNP",
-                        "dbSNP": "No"
+                        "text": "C allele at -511 SNP"
                     },
                     {
                         "ID": "T7",
@@ -3695,8 +3620,7 @@
                         "type": "variant",
                         "begin": 1123,
                         "end": 1130,
-                        "text": "-511C/C",
-                        "dbSNP": "No"
+                        "text": "-511C/C"
                     },
                     {
                         "ID": "T9",
@@ -3769,8 +3693,7 @@
                         "type": "variant",
                         "begin": 911,
                         "end": 918,
-                        "text": "921G/A ",
-                        "dbSNP": "No"
+                        "text": "921G/A "
                     }
                 ],
                 "relations": [],
@@ -3835,8 +3758,7 @@
                         "type": "variant",
                         "begin": 708,
                         "end": 714,
-                        "text": "C-564T",
-                        "dbSNP": "No"
+                        "text": "C-564T"
                     },
                     {
                         "ID": "T7",
@@ -3917,24 +3839,21 @@
                         "type": "variant",
                         "begin": 320,
                         "end": 326,
-                        "text": "G-217A",
-                        "dbSNP": "No"
+                        "text": "G-217A"
                     },
                     {
                         "ID": "T4",
                         "type": "variant",
                         "begin": 328,
                         "end": 332,
-                        "text": "A-6G",
-                        "dbSNP": "No"
+                        "text": "A-6G"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 338,
                         "end": 343,
-                        "text": "M235T",
-                        "dbSNP": "No"
+                        "text": "M235T"
                     },
                     {
                         "ID": "T6",
@@ -3949,112 +3868,98 @@
                         "type": "variant",
                         "begin": 467,
                         "end": 473,
-                        "text": "-217AA",
-                        "dbSNP": "No"
+                        "text": "-217AA"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 478,
                         "end": 482,
-                        "text": "-6GG",
-                        "dbSNP": "No"
+                        "text": "-6GG"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 777,
                         "end": 783,
-                        "text": "G-217A",
-                        "dbSNP": "No"
+                        "text": "G-217A"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 792,
                         "end": 796,
-                        "text": "A-6G",
-                        "dbSNP": "No"
+                        "text": "A-6G"
                     },
                     {
                         "ID": "T11",
                         "type": "variant",
                         "begin": 922,
                         "end": 926,
-                        "text": "A-6G",
-                        "dbSNP": "No"
+                        "text": "A-6G"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 935,
                         "end": 940,
-                        "text": "M235T",
-                        "dbSNP": "No"
+                        "text": "M235T"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1095,
                         "end": 1098,
-                        "text": "-6A",
-                        "dbSNP": "No"
+                        "text": "-6A"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1123,
                         "end": 1126,
-                        "text": "-6G",
-                        "dbSNP": "No"
+                        "text": "-6G"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1302,
                         "end": 1307,
-                        "text": "-217A",
-                        "dbSNP": "No"
+                        "text": "-217A"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1323,
                         "end": 1326,
-                        "text": "-6A",
-                        "dbSNP": "No"
+                        "text": "-6A"
                     },
                     {
                         "ID": "T17",
                         "type": "variant",
                         "begin": 1331,
                         "end": 1336,
-                        "text": "-217G",
-                        "dbSNP": "No"
+                        "text": "-217G"
                     },
                     {
                         "ID": "T18",
                         "type": "variant",
                         "begin": 1352,
                         "end": 1355,
-                        "text": "-6G",
-                        "dbSNP": "No"
+                        "text": "-6G"
                     },
                     {
                         "ID": "T19",
                         "type": "variant",
                         "begin": 1413,
                         "end": 1418,
-                        "text": "-217G",
-                        "dbSNP": "No"
+                        "text": "-217G"
                     },
                     {
                         "ID": "T20",
                         "type": "variant",
                         "begin": 1434,
                         "end": 1437,
-                        "text": "-6A",
-                        "dbSNP": "No"
+                        "text": "-6A"
                     }
                 ],
                 "relations": [],
@@ -4233,8 +4138,7 @@
                         "type": "variant",
                         "begin": 434,
                         "end": 442,
-                        "text": "SNP 1368",
-                        "dbSNP": "No"
+                        "text": "SNP 1368"
                     },
                     {
                         "ID": "T9",
@@ -4257,16 +4161,14 @@
                         "type": "variant",
                         "begin": 502,
                         "end": 506,
-                        "text": "T26M",
-                        "dbSNP": "No"
+                        "text": "T26M"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 508,
                         "end": 512,
-                        "text": "P56L",
-                        "dbSNP": "No"
+                        "text": "P56L"
                     },
                     {
                         "ID": "T13",
@@ -4297,8 +4199,7 @@
                         "type": "variant",
                         "begin": 797,
                         "end": 805,
-                        "text": "SNP 1368",
-                        "dbSNP": "No"
+                        "text": "SNP 1368"
                     },
                     {
                         "ID": "T17",
@@ -4321,8 +4222,7 @@
                         "type": "variant",
                         "begin": 920,
                         "end": 928,
-                        "text": "SNP 1368",
-                        "dbSNP": "No"
+                        "text": "SNP 1368"
                     },
                     {
                         "ID": "T20",
@@ -4483,8 +4383,7 @@
                         "type": "variant",
                         "begin": 1136,
                         "end": 1143,
-                        "text": "-308G/A",
-                        "dbSNP": "No"
+                        "text": "-308G/A"
                     },
                     {
                         "ID": "T6",
@@ -4639,24 +4538,21 @@
                         "type": "variant",
                         "begin": 1221,
                         "end": 1226,
-                        "text": "P967L",
-                        "dbSNP": "No"
+                        "text": "P967L"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1228,
                         "end": 1234,
-                        "text": "R1047L",
-                        "dbSNP": "No"
+                        "text": "R1047L"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 1240,
                         "end": 1246,
-                        "text": "Q1068R",
-                        "dbSNP": "No"
+                        "text": "Q1068R"
                     },
                     {
                         "ID": "T10",
@@ -4679,8 +4575,7 @@
                         "type": "variant",
                         "begin": 1697,
                         "end": 1703,
-                        "text": "R1047L",
-                        "dbSNP": "No"
+                        "text": "R1047L"
                     },
                     {
                         "ID": "T13",
@@ -4695,24 +4590,21 @@
                         "type": "variant",
                         "begin": 1718,
                         "end": 1724,
-                        "text": "Q1068R",
-                        "dbSNP": "No"
+                        "text": "Q1068R"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1794,
                         "end": 1799,
-                        "text": "P967L",
-                        "dbSNP": "No"
+                        "text": "P967L"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1805,
                         "end": 1811,
-                        "text": "R1047L",
-                        "dbSNP": "No"
+                        "text": "R1047L"
                     },
                     {
                         "ID": "T17",
@@ -4735,24 +4627,21 @@
                         "type": "variant",
                         "begin": 1972,
                         "end": 1978,
-                        "text": "Q1068R",
-                        "dbSNP": "No"
+                        "text": "Q1068R"
                     },
                     {
                         "ID": "T20",
                         "type": "variant",
                         "begin": 1989,
                         "end": 1994,
-                        "text": "P967L",
-                        "dbSNP": "No"
+                        "text": "P967L"
                     },
                     {
                         "ID": "T21",
                         "type": "variant",
                         "begin": 1999,
                         "end": 2005,
-                        "text": "R1047L",
-                        "dbSNP": "No"
+                        "text": "R1047L"
                     },
                     {
                         "ID": "T22",
@@ -4923,8 +4812,7 @@
                         "type": "variant",
                         "begin": 177,
                         "end": 262,
-                        "text": "1G/2G single nucleotide polymorphism (SNP) in the MMP-1 promoter at position -1607 bp",
-                        "dbSNP": "No"
+                        "text": "1G/2G single nucleotide polymorphism (SNP) in the MMP-1 promoter at position -1607 bp"
                     },
                     {
                         "ID": "T4",
@@ -4997,24 +4885,21 @@
                         "type": "variant",
                         "begin": 425,
                         "end": 429,
-                        "text": "CT60",
-                        "dbSNP": "No"
+                        "text": "CT60"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 431,
                         "end": 435,
-                        "text": "JO31",
-                        "dbSNP": "No"
+                        "text": "JO31"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 441,
                         "end": 445,
-                        "text": "JO30",
-                        "dbSNP": "No"
+                        "text": "JO30"
                     },
                     {
                         "ID": "T7",
@@ -5037,40 +4922,35 @@
                         "type": "variant",
                         "begin": 727,
                         "end": 731,
-                        "text": "JO31",
-                        "dbSNP": "No"
+                        "text": "JO31"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 824,
                         "end": 828,
-                        "text": "JO30",
-                        "dbSNP": "No"
+                        "text": "JO30"
                     },
                     {
                         "ID": "T11",
                         "type": "variant",
                         "begin": 914,
                         "end": 918,
-                        "text": "JO31",
-                        "dbSNP": "No"
+                        "text": "JO31"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 1029,
                         "end": 1033,
-                        "text": "JO31",
-                        "dbSNP": "No"
+                        "text": "JO31"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1188,
                         "end": 1192,
-                        "text": "JO31",
-                        "dbSNP": "No"
+                        "text": "JO31"
                     },
                     {
                         "ID": "T14",
@@ -5127,8 +5007,7 @@
                         "type": "variant",
                         "begin": 422,
                         "end": 463,
-                        "text": "C-G change in the promoter -104 base pair",
-                        "dbSNP": "No"
+                        "text": "C-G change in the promoter -104 base pair"
                     },
                     {
                         "ID": "T5",
@@ -5219,8 +5098,7 @@
                         "type": "variant",
                         "begin": 38,
                         "end": 47,
-                        "text": "(-108C/T)",
-                        "dbSNP": "No"
+                        "text": "(-108C/T)"
                     },
                     {
                         "ID": "T2",
@@ -5293,16 +5171,14 @@
                         "type": "variant",
                         "begin": 288,
                         "end": 296,
-                        "text": "-238 G/A",
-                        "dbSNP": "No"
+                        "text": "-238 G/A"
                     },
                     {
                         "ID": "T2",
                         "type": "variant",
                         "begin": 301,
                         "end": 309,
-                        "text": "-308 G/A",
-                        "dbSNP": "No"
+                        "text": "-308 G/A"
                     },
                     {
                         "ID": "T3",
@@ -5317,8 +5193,7 @@
                         "type": "variant",
                         "begin": 322,
                         "end": 330,
-                        "text": "+252 G/A",
-                        "dbSNP": "No"
+                        "text": "+252 G/A"
                     },
                     {
                         "ID": "T5",
@@ -5333,16 +5208,14 @@
                         "type": "variant",
                         "begin": 361,
                         "end": 369,
-                        "text": "-511 C/T",
-                        "dbSNP": "No"
+                        "text": "-511 C/T"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 374,
                         "end": 383,
-                        "text": "+3953 T/C",
-                        "dbSNP": "No"
+                        "text": "+3953 T/C"
                     },
                     {
                         "ID": "T8",
@@ -5357,8 +5230,7 @@
                         "type": "variant",
                         "begin": 431,
                         "end": 441,
-                        "text": "(+252) G/G",
-                        "dbSNP": "No"
+                        "text": "(+252) G/G"
                     },
                     {
                         "ID": "T10",
@@ -5381,8 +5253,7 @@
                         "type": "variant",
                         "begin": 962,
                         "end": 972,
-                        "text": "(+252) G/G",
-                        "dbSNP": "No"
+                        "text": "(+252) G/G"
                     },
                     {
                         "ID": "T13",
@@ -5447,8 +5318,7 @@
                         "type": "variant",
                         "begin": 584,
                         "end": 590,
-                        "text": "C+872T",
-                        "dbSNP": "No"
+                        "text": "C+872T"
                     },
                     {
                         "ID": "T6",
@@ -5771,40 +5641,35 @@
                         "type": "variant",
                         "begin": 1558,
                         "end": 1563,
-                        "text": "D357A",
-                        "dbSNP": "No"
+                        "text": "D357A"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1565,
                         "end": 1570,
-                        "text": "I363F",
-                        "dbSNP": "No"
+                        "text": "I363F"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1572,
                         "end": 1577,
-                        "text": "L550V",
-                        "dbSNP": "No"
+                        "text": "L550V"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1583,
                         "end": 1588,
-                        "text": "N852S",
-                        "dbSNP": "No"
+                        "text": "N852S"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1599,
                         "end": 1604,
-                        "text": "N852S",
-                        "dbSNP": "No"
+                        "text": "N852S"
                     },
                     {
                         "ID": "T17",
@@ -5885,16 +5750,14 @@
                         "type": "variant",
                         "begin": 1297,
                         "end": 1303,
-                        "text": "-79C/T",
-                        "dbSNP": "No"
+                        "text": "-79C/T"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1370,
                         "end": 1376,
-                        "text": "-79C/T",
-                        "dbSNP": "No"
+                        "text": "-79C/T"
                     }
                 ],
                 "relations": [],
@@ -5935,8 +5798,7 @@
                         "type": "variant",
                         "begin": 613,
                         "end": 626,
-                        "text": "R243H (KCNQ1)",
-                        "dbSNP": "No"
+                        "text": "R243H (KCNQ1)"
                     },
                     {
                         "ID": "T4",
@@ -5959,24 +5821,21 @@
                         "type": "variant",
                         "begin": 951,
                         "end": 964,
-                        "text": "S706C (KCNH2)",
-                        "dbSNP": "No"
+                        "text": "S706C (KCNH2)"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 982,
                         "end": 995,
-                        "text": "G144S (KCNJ2)",
-                        "dbSNP": "No"
+                        "text": "G144S (KCNJ2)"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1021,
                         "end": 1034,
-                        "text": "S706C (KCNH2)",
-                        "dbSNP": "No"
+                        "text": "S706C (KCNH2)"
                     }
                 ],
                 "relations": [],
@@ -6033,40 +5892,35 @@
                         "type": "variant",
                         "begin": 471,
                         "end": 529,
-                        "text": "-22 and -348 relative to the BAT1 transcription start site",
-                        "dbSNP": "No"
+                        "text": "-22 and -348 relative to the BAT1 transcription start site"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 684,
                         "end": 693,
-                        "text": "BAT1-22*C",
-                        "dbSNP": "No"
+                        "text": "BAT1-22*C"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 694,
                         "end": 704,
-                        "text": "BAT1-348*C",
-                        "dbSNP": "No"
+                        "text": "BAT1-348*C"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 756,
                         "end": 765,
-                        "text": "BAT1-22*C",
-                        "dbSNP": "No"
+                        "text": "BAT1-22*C"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 766,
                         "end": 776,
-                        "text": "BAT1-348*T",
-                        "dbSNP": "No"
+                        "text": "BAT1-348*T"
                     },
                     {
                         "ID": "T10",
@@ -6171,8 +6025,7 @@
                         "type": "variant",
                         "begin": 339,
                         "end": 344,
-                        "text": "I251L",
-                        "dbSNP": "No"
+                        "text": "I251L"
                     },
                     {
                         "ID": "T8",
@@ -6279,8 +6132,7 @@
                         "type": "variant",
                         "begin": 579,
                         "end": 639,
-                        "text": "An A>G single nucleotide polymorphism (SNP) at position -579",
-                        "dbSNP": "No"
+                        "text": "An A>G single nucleotide polymorphism (SNP) at position -579"
                     },
                     {
                         "ID": "T3",
@@ -6295,8 +6147,7 @@
                         "type": "variant",
                         "begin": 1205,
                         "end": 1212,
-                        "text": "-579A>G",
-                        "dbSNP": "No"
+                        "text": "-579A>G"
                     },
                     {
                         "ID": "T5",
@@ -6507,8 +6358,7 @@
                         "type": "variant",
                         "begin": 591,
                         "end": 598,
-                        "text": "-634C/G",
-                        "dbSNP": "No"
+                        "text": "-634C/G"
                     },
                     {
                         "ID": "T5",
@@ -6565,16 +6415,14 @@
                         "type": "variant",
                         "begin": 268,
                         "end": 298,
-                        "text": "factor V Leiden (FVL) mutation",
-                        "dbSNP": "No"
+                        "text": "factor V Leiden (FVL) mutation"
                     },
                     {
                         "ID": "T2",
                         "type": "variant",
                         "begin": 300,
                         "end": 311,
-                        "text": "1691G --> A",
-                        "dbSNP": "No"
+                        "text": "1691G --> A"
                     },
                     {
                         "ID": "T3",
@@ -6605,32 +6453,28 @@
                         "type": "variant",
                         "begin": 644,
                         "end": 656,
-                        "text": "99930G --> A",
-                        "dbSNP": "No"
+                        "text": "99930G --> A"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 668,
                         "end": 680,
-                        "text": "55907A --> G",
-                        "dbSNP": "No"
+                        "text": "55907A --> G"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 692,
                         "end": 704,
-                        "text": "42855A --> G",
-                        "dbSNP": "No"
+                        "text": "42855A --> G"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 722,
                         "end": 734,
-                        "text": "37833T --> G",
-                        "dbSNP": "No"
+                        "text": "37833T --> G"
                     },
                     {
                         "ID": "T10",
@@ -6653,24 +6497,21 @@
                         "type": "variant",
                         "begin": 1417,
                         "end": 1428,
-                        "text": "1691G --> A",
-                        "dbSNP": "No"
+                        "text": "1691G --> A"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1465,
                         "end": 1478,
-                        "text": "Arg506 by Gln",
-                        "dbSNP": "No"
+                        "text": "Arg506 by Gln"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1568,
                         "end": 1580,
-                        "text": "FVL mutation",
-                        "dbSNP": "No"
+                        "text": "FVL mutation"
                     }
                 ],
                 "relations": [],
@@ -6751,16 +6592,14 @@
                         "type": "variant",
                         "begin": 655,
                         "end": 660,
-                        "text": "A173G",
-                        "dbSNP": "No"
+                        "text": "A173G"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 685,
                         "end": 716,
-                        "text": "G to A exchange at position 765",
-                        "dbSNP": "No"
+                        "text": "G to A exchange at position 765"
                     },
                     {
                         "ID": "T10",
@@ -6775,16 +6614,14 @@
                         "type": "variant",
                         "begin": 777,
                         "end": 780,
-                        "text": "C3Y",
-                        "dbSNP": "No"
+                        "text": "C3Y"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 785,
                         "end": 789,
-                        "text": "M33T",
-                        "dbSNP": "No"
+                        "text": "M33T"
                     },
                     {
                         "ID": "T13",
@@ -6807,16 +6644,14 @@
                         "type": "variant",
                         "begin": 862,
                         "end": 871,
-                        "text": "128 G-->A",
-                        "dbSNP": "No"
+                        "text": "128 G-->A"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 876,
                         "end": 885,
-                        "text": "696 C-->T",
-                        "dbSNP": "No"
+                        "text": "696 C-->T"
                     },
                     {
                         "ID": "T17",
@@ -6831,24 +6666,21 @@
                         "type": "variant",
                         "begin": 923,
                         "end": 927,
-                        "text": "W11R",
-                        "dbSNP": "No"
+                        "text": "W11R"
                     },
                     {
                         "ID": "T19",
                         "type": "variant",
                         "begin": 931,
                         "end": 935,
-                        "text": "V47A",
-                        "dbSNP": "No"
+                        "text": "V47A"
                     },
                     {
                         "ID": "T20",
                         "type": "variant",
                         "begin": 961,
                         "end": 991,
-                        "text": "G to A exchange at position 81",
-                        "dbSNP": "No"
+                        "text": "G to A exchange at position 81"
                     },
                     {
                         "ID": "T21",
@@ -6863,16 +6695,14 @@
                         "type": "variant",
                         "begin": 1082,
                         "end": 1086,
-                        "text": "P24T",
-                        "dbSNP": "No"
+                        "text": "P24T"
                     },
                     {
                         "ID": "T23",
                         "type": "variant",
                         "begin": 1094,
                         "end": 1098,
-                        "text": "L48V",
-                        "dbSNP": "No"
+                        "text": "L48V"
                     },
                     {
                         "ID": "T24",
@@ -6887,16 +6717,14 @@
                         "type": "variant",
                         "begin": 1169,
                         "end": 1173,
-                        "text": "P24T",
-                        "dbSNP": "No"
+                        "text": "P24T"
                     },
                     {
                         "ID": "T26",
                         "type": "variant",
                         "begin": 1178,
                         "end": 1182,
-                        "text": "L48V",
-                        "dbSNP": "No"
+                        "text": "L48V"
                     },
                     {
                         "ID": "T27",
@@ -6985,24 +6813,21 @@
                         "type": "variant",
                         "begin": 864,
                         "end": 870,
-                        "text": "-79C>T",
-                        "dbSNP": "No"
+                        "text": "-79C>T"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 876,
                         "end": 883,
-                        "text": "-838C>A",
-                        "dbSNP": "No"
+                        "text": "-838C>A"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 903,
                         "end": 908,
-                        "text": "-838A",
-                        "dbSNP": "No"
+                        "text": "-838A"
                     },
                     {
                         "ID": "T11",
@@ -7017,24 +6842,21 @@
                         "type": "variant",
                         "begin": 1177,
                         "end": 1195,
-                        "text": "A at position -838",
-                        "dbSNP": "No"
+                        "text": "A at position -838"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1320,
                         "end": 1329,
-                        "text": "C in -838",
-                        "dbSNP": "No"
+                        "text": "C in -838"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1379,
                         "end": 1384,
-                        "text": "-838A",
-                        "dbSNP": "No"
+                        "text": "-838A"
                     },
                     {
                         "ID": "T15",
@@ -7099,8 +6921,7 @@
                         "type": "variant",
                         "begin": 983,
                         "end": 986,
-                        "text": "M1V",
-                        "dbSNP": "No"
+                        "text": "M1V"
                     },
                     {
                         "ID": "T6",
@@ -7173,32 +6994,28 @@
                         "type": "variant",
                         "begin": 542,
                         "end": 554,
-                        "text": "padi4_89*G/A",
-                        "dbSNP": "No"
+                        "text": "padi4_89*G/A"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 556,
                         "end": 568,
-                        "text": "padi4_90*T/C",
-                        "dbSNP": "No"
+                        "text": "padi4_90*T/C"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 570,
                         "end": 582,
-                        "text": "padi4_92*G/C",
-                        "dbSNP": "No"
+                        "text": "padi4_92*G/C"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 588,
                         "end": 601,
-                        "text": "padi4_104*T/C",
-                        "dbSNP": "No"
+                        "text": "padi4_104*T/C"
                     },
                     {
                         "ID": "T8",
@@ -7263,8 +7080,7 @@
                         "type": "variant",
                         "begin": 275,
                         "end": 280,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T5",
@@ -7295,24 +7111,21 @@
                         "type": "variant",
                         "begin": 425,
                         "end": 430,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 432,
                         "end": 437,
-                        "text": "A640G",
-                        "dbSNP": "No"
+                        "text": "A640G"
                     },
                     {
                         "ID": "T10",
                         "type": "variant",
                         "begin": 443,
                         "end": 450,
-                        "text": "-930A/G",
-                        "dbSNP": "No"
+                        "text": "-930A/G"
                     },
                     {
                         "ID": "T11",
@@ -7343,40 +7156,35 @@
                         "type": "variant",
                         "begin": 1162,
                         "end": 1167,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1276,
                         "end": 1281,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1348,
                         "end": 1353,
-                        "text": "A640G",
-                        "dbSNP": "No"
+                        "text": "A640G"
                     },
                     {
                         "ID": "T17",
                         "type": "variant",
                         "begin": 1362,
                         "end": 1369,
-                        "text": "-930A/G",
-                        "dbSNP": "No"
+                        "text": "-930A/G"
                     },
                     {
                         "ID": "T18",
                         "type": "variant",
                         "begin": 1521,
                         "end": 1526,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T19",
@@ -7521,32 +7329,28 @@
                         "type": "variant",
                         "begin": 1147,
                         "end": 1162,
-                        "text": "GSTP1*A/GSTP1*B",
-                        "dbSNP": "No"
+                        "text": "GSTP1*A/GSTP1*B"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1167,
                         "end": 1182,
-                        "text": "GSTP1*A/GSTP1*C",
-                        "dbSNP": "No"
+                        "text": "GSTP1*A/GSTP1*C"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1220,
                         "end": 1235,
-                        "text": "GSTP1*B/GSTP1*B",
-                        "dbSNP": "No"
+                        "text": "GSTP1*B/GSTP1*B"
                     },
                     {
                         "ID": "T17",
                         "type": "variant",
                         "begin": 1240,
                         "end": 1255,
-                        "text": "GSTP1*C/GSTP1*D",
-                        "dbSNP": "No"
+                        "text": "GSTP1*C/GSTP1*D"
                     },
                     {
                         "ID": "T18",
@@ -7627,8 +7431,7 @@
                         "type": "variant",
                         "begin": 1254,
                         "end": 1279,
-                        "text": "(TCT --> TCC) in codon 10",
-                        "dbSNP": "No"
+                        "text": "(TCT --> TCC) in codon 10"
                     },
                     {
                         "ID": "T7",
@@ -7709,8 +7512,7 @@
                         "type": "variant",
                         "begin": 1062,
                         "end": 1077,
-                        "text": "GG at the -1082",
-                        "dbSNP": "No"
+                        "text": "GG at the -1082"
                     },
                     {
                         "ID": "T4",
@@ -7725,8 +7527,7 @@
                         "type": "variant",
                         "begin": 1101,
                         "end": 1117,
-                        "text": "CC at the -33IL4",
-                        "dbSNP": "No"
+                        "text": "CC at the -33IL4"
                     },
                     {
                         "ID": "T6",
@@ -7741,8 +7542,7 @@
                         "type": "variant",
                         "begin": 1443,
                         "end": 1452,
-                        "text": "-1082IL10",
-                        "dbSNP": "No"
+                        "text": "-1082IL10"
                     },
                     {
                         "ID": "T8",
@@ -7765,8 +7565,7 @@
                         "type": "variant",
                         "begin": 1627,
                         "end": 1633,
-                        "text": "-33IL4",
-                        "dbSNP": "No"
+                        "text": "-33IL4"
                     },
                     {
                         "ID": "T11",
@@ -7831,8 +7630,7 @@
                         "type": "variant",
                         "begin": 936,
                         "end": 944,
-                        "text": "11381G/C",
-                        "dbSNP": "No"
+                        "text": "11381G/C"
                     },
                     {
                         "ID": "T5",
@@ -8149,8 +7947,7 @@
                         "type": "variant",
                         "begin": 514,
                         "end": 522,
-                        "text": "1183 T/C",
-                        "dbSNP": "No"
+                        "text": "1183 T/C"
                     },
                     {
                         "ID": "T5",
@@ -8385,40 +8182,35 @@
                         "type": "variant",
                         "begin": 286,
                         "end": 293,
-                        "text": "-250G/A",
-                        "dbSNP": "No"
+                        "text": "-250G/A"
                     },
                     {
                         "ID": "T4",
                         "type": "variant",
                         "begin": 636,
                         "end": 641,
-                        "text": "-250A",
-                        "dbSNP": "No"
+                        "text": "-250A"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 888,
                         "end": 893,
-                        "text": "-250A",
-                        "dbSNP": "No"
+                        "text": "-250A"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 1345,
                         "end": 1352,
-                        "text": "-250G/A",
-                        "dbSNP": "No"
+                        "text": "-250G/A"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 1445,
                         "end": 1452,
-                        "text": "-250G/A",
-                        "dbSNP": "No"
+                        "text": "-250G/A"
                     }
                 ],
                 "relations": [],
@@ -8645,16 +8437,14 @@
                         "type": "variant",
                         "begin": 700,
                         "end": 789,
-                        "text": "G/A genotype associated with tumor necrosis factor-alpha promoter positions -376 and -244",
-                        "dbSNP": "No"
+                        "text": "G/A genotype associated with tumor necrosis factor-alpha promoter positions -376 and -244"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 864,
                         "end": 872,
-                        "text": "-244 G/A",
-                        "dbSNP": "No"
+                        "text": "-244 G/A"
                     },
                     {
                         "ID": "T10",
@@ -8899,24 +8689,21 @@
                         "type": "variant",
                         "begin": 1098,
                         "end": 1103,
-                        "text": "-445A",
-                        "dbSNP": "No"
+                        "text": "-445A"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 1105,
                         "end": 1110,
-                        "text": "-292A",
-                        "dbSNP": "No"
+                        "text": "-292A"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1112,
                         "end": 1117,
-                        "text": "-147G",
-                        "dbSNP": "No"
+                        "text": "-147G"
                     },
                     {
                         "ID": "T9",
@@ -8939,24 +8726,21 @@
                         "type": "variant",
                         "begin": 1314,
                         "end": 1319,
-                        "text": "-445C",
-                        "dbSNP": "No"
+                        "text": "-445C"
                     },
                     {
                         "ID": "T12",
                         "type": "variant",
                         "begin": 1321,
                         "end": 1326,
-                        "text": "-292C",
-                        "dbSNP": "No"
+                        "text": "-292C"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1328,
                         "end": 1333,
-                        "text": "-147G",
-                        "dbSNP": "No"
+                        "text": "-147G"
                     },
                     {
                         "ID": "T14",
@@ -9175,48 +8959,42 @@
                         "type": "variant",
                         "begin": 1114,
                         "end": 1126,
-                        "text": "c.280+170C>G",
-                        "dbSNP": "No"
+                        "text": "c.280+170C>G"
                     },
                     {
                         "ID": "T13",
                         "type": "variant",
                         "begin": 1128,
                         "end": 1139,
-                        "text": "c.712+26G>A",
-                        "dbSNP": "No"
+                        "text": "c.712+26G>A"
                     },
                     {
                         "ID": "T14",
                         "type": "variant",
                         "begin": 1141,
                         "end": 1153,
-                        "text": "c.713-155C>T",
-                        "dbSNP": "No"
+                        "text": "c.713-155C>T"
                     },
                     {
                         "ID": "T15",
                         "type": "variant",
                         "begin": 1155,
                         "end": 1165,
-                        "text": "c.834+7G>A",
-                        "dbSNP": "No"
+                        "text": "c.834+7G>A"
                     },
                     {
                         "ID": "T16",
                         "type": "variant",
                         "begin": 1171,
                         "end": 1183,
-                        "text": "c.1478-94C>G",
-                        "dbSNP": "No"
+                        "text": "c.1478-94C>G"
                     },
                     {
                         "ID": "T17",
                         "type": "variant",
                         "begin": 1487,
                         "end": 1497,
-                        "text": "c.834+7G>A",
-                        "dbSNP": "No"
+                        "text": "c.834+7G>A"
                     },
                     {
                         "ID": "T18",
@@ -9265,8 +9043,7 @@
                         "type": "variant",
                         "begin": 63,
                         "end": 69,
-                        "text": "A1555G",
-                        "dbSNP": "No"
+                        "text": "A1555G"
                     },
                     {
                         "ID": "T3",
@@ -9297,8 +9074,7 @@
                         "type": "variant",
                         "begin": 513,
                         "end": 519,
-                        "text": "A1555G",
-                        "dbSNP": "No"
+                        "text": "A1555G"
                     },
                     {
                         "ID": "T7",
@@ -9313,16 +9089,14 @@
                         "type": "variant",
                         "begin": 679,
                         "end": 685,
-                        "text": "A1555G",
-                        "dbSNP": "No"
+                        "text": "A1555G"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 951,
                         "end": 958,
-                        "text": "D6S1577",
-                        "dbSNP": "No"
+                        "text": "D6S1577"
                     },
                     {
                         "ID": "T10",
@@ -9345,8 +9119,7 @@
                         "type": "variant",
                         "begin": 1349,
                         "end": 1355,
-                        "text": "A1555G",
-                        "dbSNP": "No"
+                        "text": "A1555G"
                     }
                 ],
                 "relations": [],
@@ -9371,8 +9144,7 @@
                         "type": "variant",
                         "begin": 5,
                         "end": 52,
-                        "text": "hemoglobin E variant (HbE; ( beta )26Glu-->Lys)",
-                        "dbSNP": "No"
+                        "text": "hemoglobin E variant (HbE; ( beta )26Glu-->Lys)"
                     },
                     {
                         "ID": "T2",
@@ -9517,8 +9289,7 @@
                         "type": "variant",
                         "begin": 678,
                         "end": 685,
-                        "text": "-270C>T",
-                        "dbSNP": "No"
+                        "text": "-270C>T"
                     },
                     {
                         "ID": "T8",
@@ -9533,8 +9304,7 @@
                         "type": "variant",
                         "begin": 1173,
                         "end": 1178,
-                        "text": "-270C",
-                        "dbSNP": "No"
+                        "text": "-270C"
                     },
                     {
                         "ID": "T10",
@@ -9583,8 +9353,7 @@
                         "type": "variant",
                         "begin": 155,
                         "end": 162,
-                        "text": "46C-->T",
-                        "dbSNP": "No"
+                        "text": "46C-->T"
                     },
                     {
                         "ID": "T3",
@@ -9607,8 +9376,7 @@
                         "type": "variant",
                         "begin": 347,
                         "end": 354,
-                        "text": "46C-->T",
-                        "dbSNP": "No"
+                        "text": "46C-->T"
                     },
                     {
                         "ID": "T6",
@@ -9623,8 +9391,7 @@
                         "type": "variant",
                         "begin": 684,
                         "end": 691,
-                        "text": "46C-->T",
-                        "dbSNP": "No"
+                        "text": "46C-->T"
                     },
                     {
                         "ID": "T8",
@@ -9639,8 +9406,7 @@
                         "type": "variant",
                         "begin": 1202,
                         "end": 1209,
-                        "text": "46C-->T",
-                        "dbSNP": "No"
+                        "text": "46C-->T"
                     }
                 ],
                 "relations": [],
@@ -9681,8 +9447,7 @@
                         "type": "variant",
                         "begin": 299,
                         "end": 307,
-                        "text": "-159 T/C",
-                        "dbSNP": "No"
+                        "text": "-159 T/C"
                     },
                     {
                         "ID": "T4",
@@ -9705,8 +9470,7 @@
                         "type": "variant",
                         "begin": 609,
                         "end": 616,
-                        "text": "-159T/C",
-                        "dbSNP": "No"
+                        "text": "-159T/C"
                     },
                     {
                         "ID": "T7",
@@ -9729,8 +9493,7 @@
                         "type": "variant",
                         "begin": 1331,
                         "end": 1338,
-                        "text": "-159T/C",
-                        "dbSNP": "No"
+                        "text": "-159T/C"
                     },
                     {
                         "ID": "T10",
@@ -9811,8 +9574,7 @@
                         "type": "variant",
                         "begin": 1093,
                         "end": 1103,
-                        "text": "ss20399075",
-                        "dbSNP": "No"
+                        "text": "ss20399075"
                     },
                     {
                         "ID": "T8",
@@ -9845,16 +9607,14 @@
                         "type": "variant",
                         "begin": 285,
                         "end": 290,
-                        "text": "I164T",
-                        "dbSNP": "No"
+                        "text": "I164T"
                     },
                     {
                         "ID": "T2",
                         "type": "variant",
                         "begin": 295,
                         "end": 300,
-                        "text": "G276T",
-                        "dbSNP": "No"
+                        "text": "G276T"
                     },
                     {
                         "ID": "T3",
@@ -9909,8 +9669,7 @@
                         "type": "variant",
                         "begin": 1241,
                         "end": 1246,
-                        "text": "I164T",
-                        "dbSNP": "No"
+                        "text": "I164T"
                     },
                     {
                         "ID": "T10",
@@ -9925,8 +9684,7 @@
                         "type": "variant",
                         "begin": 1423,
                         "end": 1428,
-                        "text": "G276T",
-                        "dbSNP": "No"
+                        "text": "G276T"
                     },
                     {
                         "ID": "T12",
@@ -10203,8 +9961,7 @@
                         "type": "variant",
                         "begin": 678,
                         "end": 683,
-                        "text": "4552C",
-                        "dbSNP": "No"
+                        "text": "4552C"
                     },
                     {
                         "ID": "T7",
@@ -10219,8 +9976,7 @@
                         "type": "variant",
                         "begin": 741,
                         "end": 747,
-                        "text": "30833A",
-                        "dbSNP": "No"
+                        "text": "30833A"
                     },
                     {
                         "ID": "T9",
@@ -10235,16 +9991,14 @@
                         "type": "variant",
                         "begin": 823,
                         "end": 828,
-                        "text": "4044T",
-                        "dbSNP": "No"
+                        "text": "4044T"
                     },
                     {
                         "ID": "T11",
                         "type": "variant",
                         "begin": 833,
                         "end": 838,
-                        "text": "4062T",
-                        "dbSNP": "No"
+                        "text": "4062T"
                     }
                 ],
                 "relations": [],
@@ -10277,16 +10031,14 @@
                         "type": "variant",
                         "begin": 440,
                         "end": 520,
-                        "text": "T (A1) to C (A2) transition in the 5'-UTR of the cytochrome P450c17alpha (CYP17)",
-                        "dbSNP": "No"
+                        "text": "T (A1) to C (A2) transition in the 5'-UTR of the cytochrome P450c17alpha (CYP17)"
                     },
                     {
                         "ID": "T3",
                         "type": "variant",
                         "begin": 532,
                         "end": 615,
-                        "text": "G (Val) to A (Met) transition in exon 4 of the catechol- O-methyltransferase (COMT)",
-                        "dbSNP": "No"
+                        "text": "G (Val) to A (Met) transition in exon 4 of the catechol- O-methyltransferase (COMT)"
                     },
                     {
                         "ID": "T4",
@@ -10333,8 +10085,7 @@
                         "type": "variant",
                         "begin": 1349,
                         "end": 1356,
-                        "text": "T(27)-C",
-                        "dbSNP": "No"
+                        "text": "T(27)-C"
                     },
                     {
                         "ID": "T10",
@@ -10349,8 +10100,7 @@
                         "type": "variant",
                         "begin": 1521,
                         "end": 1530,
-                        "text": "G(1947)-A",
-                        "dbSNP": "No"
+                        "text": "G(1947)-A"
                     }
                 ],
                 "relations": [],
@@ -10399,32 +10149,28 @@
                         "type": "variant",
                         "begin": 523,
                         "end": 530,
-                        "text": "-597G/A",
-                        "dbSNP": "No"
+                        "text": "-597G/A"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 532,
                         "end": 539,
-                        "text": "-572G/C",
-                        "dbSNP": "No"
+                        "text": "-572G/C"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 544,
                         "end": 551,
-                        "text": "-174G/C",
-                        "dbSNP": "No"
+                        "text": "-174G/C"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 586,
                         "end": 598,
-                        "text": "-373(A)n(T)m",
-                        "dbSNP": "No"
+                        "text": "-373(A)n(T)m"
                     },
                     {
                         "ID": "T8",
@@ -10439,8 +10185,7 @@
                         "type": "variant",
                         "begin": 873,
                         "end": 879,
-                        "text": "-174GG",
-                        "dbSNP": "No"
+                        "text": "-174GG"
                     }
                 ],
                 "relations": [],
@@ -10481,8 +10226,7 @@
                         "type": "variant",
                         "begin": 250,
                         "end": 305,
-                        "text": "Arg677Trp polymorphism (C2029T nucleotide substitution)",
-                        "dbSNP": "No"
+                        "text": "Arg677Trp polymorphism (C2029T nucleotide substitution)"
                     }
                 ],
                 "relations": [],
@@ -10539,8 +10283,7 @@
                         "type": "variant",
                         "begin": 300,
                         "end": 362,
-                        "text": "single nucleotide polymorphism (SNP) in position +49 of exon 1",
-                        "dbSNP": "No"
+                        "text": "single nucleotide polymorphism (SNP) in position +49 of exon 1"
                     },
                     {
                         "ID": "T6",
@@ -10645,16 +10388,14 @@
                         "type": "variant",
                         "begin": 410,
                         "end": 421,
-                        "text": "C112R (E4) ",
-                        "dbSNP": "No"
+                        "text": "C112R (E4) "
                     },
                     {
                         "ID": "T11",
                         "type": "variant",
                         "begin": 425,
                         "end": 435,
-                        "text": "R158C (E2)",
-                        "dbSNP": "No"
+                        "text": "R158C (E2)"
                     },
                     {
                         "ID": "T12",
@@ -10831,8 +10572,7 @@
                         "type": "variant",
                         "begin": 391,
                         "end": 405,
-                        "text": "RAD51-135g-->c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135g-->c"
                     },
                     {
                         "ID": "T9",
@@ -10855,8 +10595,7 @@
                         "type": "variant",
                         "begin": 691,
                         "end": 705,
-                        "text": "RAD51-135g-->c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135g-->c"
                     },
                     {
                         "ID": "T12",
@@ -10879,8 +10618,7 @@
                         "type": "variant",
                         "begin": 1020,
                         "end": 1030,
-                        "text": "RAD51-135c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135c"
                     },
                     {
                         "ID": "T15",
@@ -10911,16 +10649,14 @@
                         "type": "variant",
                         "begin": 1274,
                         "end": 1284,
-                        "text": "RAD51-135c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135c"
                     },
                     {
                         "ID": "T19",
                         "type": "variant",
                         "begin": 1475,
                         "end": 1485,
-                        "text": "RAD51-135c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135c"
                     },
                     {
                         "ID": "T20",
@@ -10935,8 +10671,7 @@
                         "type": "variant",
                         "begin": 1650,
                         "end": 1660,
-                        "text": "RAD51-135c",
-                        "dbSNP": "No"
+                        "text": "RAD51-135c"
                     },
                     {
                         "ID": "T22",
@@ -11123,8 +10858,7 @@
                         "type": "variant",
                         "begin": 401,
                         "end": 409,
-                        "text": "- 866G/A",
-                        "dbSNP": "No"
+                        "text": "- 866G/A"
                     },
                     {
                         "ID": "T7",
@@ -11139,8 +10873,7 @@
                         "type": "variant",
                         "begin": 504,
                         "end": 512,
-                        "text": "- 866G/A",
-                        "dbSNP": "No"
+                        "text": "- 866G/A"
                     },
                     {
                         "ID": "T9",
@@ -11155,8 +10888,7 @@
                         "type": "variant",
                         "begin": 905,
                         "end": 913,
-                        "text": "- 866G/A",
-                        "dbSNP": "No"
+                        "text": "- 866G/A"
                     },
                     {
                         "ID": "T11",
@@ -11171,8 +10903,7 @@
                         "type": "variant",
                         "begin": 1452,
                         "end": 1460,
-                        "text": "- 866G/A",
-                        "dbSNP": "No"
+                        "text": "- 866G/A"
                     }
                 ],
                 "relations": [],
@@ -11391,16 +11122,14 @@
                         "type": "variant",
                         "begin": 983,
                         "end": 997,
-                        "text": "4245 + 82A > G",
-                        "dbSNP": "No"
+                        "text": "4245 + 82A > G"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1003,
                         "end": 1009,
-                        "text": "G6174A",
-                        "dbSNP": "No"
+                        "text": "G6174A"
                     },
                     {
                         "ID": "T9",
@@ -11423,8 +11152,7 @@
                         "type": "variant",
                         "begin": 1134,
                         "end": 1148,
-                        "text": "4245 + 82A > G",
-                        "dbSNP": "No"
+                        "text": "4245 + 82A > G"
                     },
                     {
                         "ID": "T12",
@@ -11439,8 +11167,7 @@
                         "type": "variant",
                         "begin": 1183,
                         "end": 1189,
-                        "text": "G6174A",
-                        "dbSNP": "No"
+                        "text": "G6174A"
                     },
                     {
                         "ID": "T14",
@@ -11537,16 +11264,14 @@
                         "type": "variant",
                         "begin": 564,
                         "end": 569,
-                        "text": "P392L",
-                        "dbSNP": "No"
+                        "text": "P392L"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 846,
                         "end": 859,
-                        "text": "IVS1 + 633A/C",
-                        "dbSNP": "No"
+                        "text": "IVS1 + 633A/C"
                     },
                     {
                         "ID": "T6",
@@ -11561,8 +11286,7 @@
                         "type": "variant",
                         "begin": 879,
                         "end": 885,
-                        "text": "976A/G",
-                        "dbSNP": "No"
+                        "text": "976A/G"
                     },
                     {
                         "ID": "T8",
@@ -11585,8 +11309,7 @@
                         "type": "variant",
                         "begin": 1242,
                         "end": 1247,
-                        "text": "P392L",
-                        "dbSNP": "No"
+                        "text": "P392L"
                     },
                     {
                         "ID": "T11",
@@ -11627,64 +11350,56 @@
                         "type": "variant",
                         "begin": 519,
                         "end": 524,
-                        "text": "Y181H",
-                        "dbSNP": "No"
+                        "text": "Y181H"
                     },
                     {
                         "ID": "T3",
                         "type": "variant",
                         "begin": 529,
                         "end": 534,
-                        "text": "R248Q",
-                        "dbSNP": "No"
+                        "text": "R248Q"
                     },
                     {
                         "ID": "T4",
                         "type": "variant",
                         "begin": 594,
                         "end": 599,
-                        "text": "R248Q",
-                        "dbSNP": "No"
+                        "text": "R248Q"
                     },
                     {
                         "ID": "T5",
                         "type": "variant",
                         "begin": 683,
                         "end": 688,
-                        "text": "Y181H",
-                        "dbSNP": "No"
+                        "text": "Y181H"
                     },
                     {
                         "ID": "T6",
                         "type": "variant",
                         "begin": 722,
                         "end": 727,
-                        "text": "R248Q",
-                        "dbSNP": "No"
+                        "text": "R248Q"
                     },
                     {
                         "ID": "T7",
                         "type": "variant",
                         "begin": 873,
                         "end": 878,
-                        "text": "R248Q",
-                        "dbSNP": "No"
+                        "text": "R248Q"
                     },
                     {
                         "ID": "T8",
                         "type": "variant",
                         "begin": 1017,
                         "end": 1026,
-                        "text": "g.-114A>G",
-                        "dbSNP": "No"
+                        "text": "g.-114A>G"
                     },
                     {
                         "ID": "T9",
                         "type": "variant",
                         "begin": 1031,
                         "end": 1038,
-                        "text": "c.39C>T",
-                        "dbSNP": "No"
+                        "text": "c.39C>T"
                     },
                     {
                         "ID": "T10",
@@ -11813,8 +11528,7 @@
                         "type": "variant",
                         "begin": 960,
                         "end": 969,
-                        "text": "-1098 T/G",
-                        "dbSNP": "No"
+                        "text": "-1098 T/G"
                     },
                     {
                         "ID": "T14",
@@ -11829,8 +11543,7 @@
                         "type": "variant",
                         "begin": 1188,
                         "end": 1195,
-                        "text": "+3962 C",
-                        "dbSNP": "No"
+                        "text": "+3962 C"
                     },
                     {
                         "ID": "T16",
@@ -11885,8 +11598,7 @@
                         "type": "variant",
                         "begin": 1477,
                         "end": 1486,
-                        "text": "-1098 T/G",
-                        "dbSNP": "No"
+                        "text": "-1098 T/G"
                     },
                     {
                         "ID": "T23",
