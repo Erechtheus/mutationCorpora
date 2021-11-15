@@ -1236,8 +1236,7 @@
                         "type": "variant",
                         "begin": 11,
                         "end": 19,
-                        "text": "-866 G/A",
-                        "dbSNP": "No"
+                        "text": "-866 G/A"
                     },
                     {
                         "ID": "T1",
@@ -2429,8 +2428,7 @@
                         "type": "variant",
                         "begin": 43,
                         "end": 50,
-                        "text": "-866G/A",
-                        "dbSNP": "No"
+                        "text": "-866G/A"
                     },
                     {
                         "ID": "T2",
@@ -3517,8 +3515,7 @@
                         "type": "variant",
                         "begin": 0,
                         "end": 7,
-                        "text": "-160C/A",
-                        "dbSNP": "No"
+                        "text": "-160C/A"
                     },
                     {
                         "ID": "T1",
@@ -6406,8 +6403,7 @@
                         "type": "variant",
                         "begin": 58,
                         "end": 82,
-                        "text": "factor V Leiden mutation",
-                        "dbSNP": "No"
+                        "text": "factor V Leiden mutation"
                     },
                     {
                         "ID": "T1",
@@ -6756,8 +6752,7 @@
                         "type": "variant",
                         "begin": 60,
                         "end": 67,
-                        "text": "-838C>A",
-                        "dbSNP": "No"
+                        "text": "-838C>A"
                     },
                     {
                         "ID": "T2",
@@ -7047,8 +7042,7 @@
                         "type": "variant",
                         "begin": 0,
                         "end": 5,
-                        "text": "C242T",
-                        "dbSNP": "No"
+                        "text": "C242T"
                     },
                     {
                         "ID": "T1",
@@ -8157,8 +8151,7 @@
                         "type": "variant",
                         "begin": 20,
                         "end": 27,
-                        "text": "-250G/A",
-                        "dbSNP": "No"
+                        "text": "-250G/A"
                     },
                     {
                         "ID": "T1",
@@ -9034,8 +9027,7 @@
                         "type": "variant",
                         "begin": 114,
                         "end": 120,
-                        "text": "A1555G",
-                        "dbSNP": "No"
+                        "text": "A1555G"
                     },
                     {
                         "ID": "T2",
@@ -9336,8 +9328,7 @@
                         "type": "variant",
                         "begin": 71,
                         "end": 78,
-                        "text": "46C-->T",
-                        "dbSNP": "No"
+                        "text": "46C-->T"
                     },
                     {
                         "ID": "T1",
@@ -9708,8 +9699,7 @@
                         "type": "variant",
                         "begin": 32,
                         "end": 45,
-                        "text": "-468 Gly to A",
-                        "dbSNP": "No"
+                        "text": "-468 Gly to A"
                     },
                     {
                         "ID": "T1",
@@ -10209,8 +10199,7 @@
                         "type": "variant",
                         "begin": 20,
                         "end": 29,
-                        "text": "Arg677Trp",
-                        "dbSNP": "No"
+                        "text": "Arg677Trp"
                     },
                     {
                         "ID": "T2",
@@ -10817,8 +10806,7 @@
                         "type": "variant",
                         "begin": 51,
                         "end": 59,
-                        "text": "- 866G/A",
-                        "dbSNP": "No"
+                        "text": "- 866G/A"
                     },
                     {
                         "ID": "T2",
