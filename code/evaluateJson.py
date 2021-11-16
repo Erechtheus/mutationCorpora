@@ -6,14 +6,14 @@ import pickle
 
 inFile="corpora/json/amia-test.json"
 inFile="corpora/json/amia-train.json"
-inFile="corpora/json/Nagel.json" #Error!
-inFile="corpora/json/linking/osiris.json" #Error!
 inFile="corpora/json/SETH.json"
-inFile="corpora/json/linking/thomas.json" #Error!
 inFile="corpora/json/tmvar-test.json"
 inFile="corpora/json/tmvar-train.json"
+inFile="corpora/json/Variome.json"
+
+inFile="corpora/json/linking/osiris.json"
+inFile="corpora/json/linking/thomas.json"
 inFile="corpora/json/linking/tmvarnorm.json"
-#inFile="corpora/json/Variome.json"
 
 #divide list into chunks of size n
 def divide_chunks(listIn, n):
@@ -23,6 +23,8 @@ def divide_chunks(listIn, n):
 
 #Retrieves all merge information for a set of dbSNP identifiers
 #This opens a REST call to NCBI eutils and therefore takes some time
+#Therefore, we save all the result into a cache
+# Result is a dictionary with merged ids
 def getSNPs(dbSNPIDs):
     cacheFolder = "cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
@@ -36,7 +38,7 @@ def getSNPs(dbSNPIDs):
     else:
         snpDict = {}
 
-    dbSNPIDs = dbSNPIDs - set(snpDict.keys())
+    dbSNPIDs = dbSNPIDs - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
 
     if len(dbSNPIDs) > 0:
         print("Querying NCBI-efetch service. Please stand-by...")
@@ -59,6 +61,9 @@ def getSNPs(dbSNPIDs):
     return snpDict
 
 
+#Read and check corpus
+offseterrors = 0
+offsetDocuments = set()
 with open(inFile) as f:
     documents = json.load(f)
 
@@ -88,10 +93,12 @@ with open(inFile) as f:
                 print("Problem with document '" +str(id) +"' entity offset wrong for '" +entity["text"] +"' != '" +text[entity["begin"] : entity["end"]] +"'")
                 print(entity)
                 print("---")
+                offseterrors = offseterrors+1
+                offsetDocuments.add(id)
 
-            if "dbSNP" in entity:
-                if entity["dbSNP"] not in snpDict.keys():
-                    print(" PMID=" +str(id) +" dbSNP-ID= '" +str(entity["dbSNP"]) +"'" +" does not exist for entity=" +str(entity))
+        #    if "dbSNP" in entity:
+        #        if entity["dbSNP"] not in snpDict.keys():
+        #            print(" PMID=" +str(id) +" dbSNP-ID= '" +str(entity["dbSNP"]) +"'" +" does not exist for entity=" +str(entity))
 
         for relation in relations:
 
@@ -105,10 +112,25 @@ with open(inFile) as f:
 
             if (len(arg1) != 1):
                 print("Problem with document '" +str(id) +"' number of relations wrong for relation= " +str(relation))
-
-
 f.close()
 
+print("#Offseterrors=" +str(offseterrors) +" in " +str(len(offsetDocuments)) +" docs" +str(offsetDocuments))
+
+##Print some small statistics
+import itertools
+from collections import Counter
 
 
+print("#docs=" +str(len(documents["documents"])))
+entities = list(map(lambda x :x["document"]["entities"], documents["documents"]))
+relations = list(map(lambda x :x["document"]["relations"], documents["documents"]))
 
+print("#entities=" +str(len(list(itertools.chain(*entities)))))
+print("\ttypes=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*entities)))))))
+tmp = Counter(list(map(lambda x:x["text"], list(itertools.chain(*entities)))))
+print("\tmostCommonTokens=" +str(tmp.most_common(10)))
+tmp = Counter(list(map(lambda x:x["dbSNP"], list(itertools.chain(*entities)))))
+print("\tmostCommonRSIDs=" +str(tmp.most_common(10)))
+
+print("#relations=" +str(len(list(itertools.chain(*relations)))))
+print("\ttypes=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*relations)))))))
