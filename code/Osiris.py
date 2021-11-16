@@ -10,76 +10,87 @@ jsonDocuments = []
 for article in root.findall("Article"):
     pmid = article.find("Pmid").text
 
+#    if pmid != "15164150":
+#        continue
+
     titleElement = article.find("Title")
     abstractElement = article.find("Abstract")
 
-    text = ""
+    # 1.) Handle title
+    titleText = ""
     if titleElement.text is not None:
-        text = titleElement.text
+        titleText = titleElement.text
 
     annotations = []
 
-    #Handle title
     for children in list(titleElement):
         if children.tag == "gene":
-            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(text), "end": len(text) + len(children.text),
+            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(titleText), "end": len(titleText) + len(children.text),
              "text": children.text, "entrez": children.get("g_id"), })
 
         elif children.tag == "variant":
             if children.get("v_id").isnumeric():  # Otherwise entity cannot be normalized to dbSNP
-                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(text),
-                                "end": len(text) + len(children.text),
+                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(titleText),
+                                "end": len(titleText) + len(children.text),
                                 "text": children.text, "dbSNP": children.get("v_id") })
             else:
-                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(text),
-                                "end": len(text) + len(children.text),
+                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(titleText),
+                                "end": len(titleText) + len(children.text),
                                 "text": children.text })
-
 
         else:
             print("Error no handling for '" +children.tag +"'")
 
-        text = text +children.text
+        titleText = titleText +children.text
         if children.tail is not None:
-            text = text + children.tail
+            titleText = titleText + children.tail
 
     # Minor error analysis
     for annotation in annotations:
-        if annotation["text"] != text[annotation["begin"]:annotation["end"]]:
+        if annotation["text"] != titleText[annotation["begin"]:annotation["end"]]:
             print(annotation["text"])
 
-            print(text[annotation["begin"]:annotation["end"]])
+            print(titleText[annotation["begin"]:annotation["end"]])
             print("---")
 
-    #Handle abstract
-    text = text +"\n"
+
+
+    # 2.) Handle abstract
+    abstractText = ""
     if abstractElement.text is not None:
-        text = abstractElement.text
+        abstractText = abstractElement.text
 
+    annotations = []
 
-    offset = len(titleElement)
     for children in list(abstractElement):
         if children.tag == "gene":
-            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text), "end": offset+ len(text) + len(children.text),
-             "text": children.text, "entrez": children.get("g_id")})
+            annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(abstractText), "end": len(abstractText) + len(children.text),
+             "text": children.text, "entrez": children.get("g_id"), })
 
         elif children.tag == "variant":
-            if children.get("v_id").isnumeric(): #Otherwise entity cannot be normalized to dbSNP
-                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
-                                "end": len(text) + len(children.text) +offset ,
-                                "text": children.text, "dbSNP": children.get("v_id")})
+            if children.get("v_id").isnumeric():  # Otherwise entity cannot be normalized to dbSNP
+                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(abstractText),
+                                "end": len(abstractText) + len(children.text),
+                                "text": children.text, "dbSNP": children.get("v_id") })
             else:
-                annotations.append(
-                    {"ID": "T" + str(len(annotations)), "type": children.tag, "begin": offset + len(text),
-                     "end": len(text) + len(children.text) + offset,
-                     "text": children.text})
+                annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(abstractText),
+                                "end": len(abstractText) + len(children.text),
+                                "text": children.text })
 
         else:
             print("Error no handling for '" +children.tag +"'")
 
-        text = text +children.text
+        abstractText = abstractText +children.text
         if children.tail is not None:
-            text = text + children.tail
+            abstractText = abstractText + children.tail
+
+    # Minor error analysis
+    for annotation in annotations:
+        if annotation["text"] != abstractText[annotation["begin"]:annotation["end"]]:
+            print(annotation["text"])
+
+            print(abstractText[annotation["begin"]:annotation["end"]])
+            print("---")
 
     jsonDocument = {"document": {
         "ID": pmid,
