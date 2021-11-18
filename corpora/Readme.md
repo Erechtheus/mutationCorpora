@@ -15,17 +15,7 @@ Downloaded: 12.2.2019
 Comments:
 ```
 
-### Nagel
 
-```NagelCorpus.tar.gz
-Corpus short name: Nagel
-Publication: Nagel K (2009) Automatic functional annotation of predicted active sites: combining PDB and literature mining. Cambridge, UK: University of Cambridge.
-Nagel K (2009) Automatic functional annotation of predicted active sites: combining PDB and literature mining. Cambridge, UK: University of Cambridge.
-Nagel K, Jimeno-Yepes A, Rebholz-Schuhmann D (2009) Annotation of protein residues based on a literature analysis: cross-validation against UniProtKb. BMC Bioinformatics 10 (Suppl 8): S4.
-URL: http://sourceforge.net/projects/bionlp-corpora/files/ProteinResidue/NagelCorpus.tar.gz
-Downloaded: 12.2.2019
-Comments: 
-```
 
 ### tmVar
 ```Corpus short name: tmVar 
@@ -127,7 +117,23 @@ Comments: silver standard corpus
 
 https://github.com/Rostlab/nala/tree/develop/resources/corpora
 
+### Nagel
+Failed to correctly parse this corpus. The XML seems to be invalid and the standoff-file entities do (often) not match the string in the text.
+
+```NagelCorpus.tar.gz
+Corpus short name: Nagel
+Publication: Nagel K (2009) Automatic functional annotation of predicted active sites: combining PDB and literature mining. Cambridge, UK: University of Cambridge.
+Nagel K (2009) Automatic functional annotation of predicted active sites: combining PDB and literature mining. Cambridge, UK: University of Cambridge.
+Nagel K, Jimeno-Yepes A, Rebholz-Schuhmann D (2009) Annotation of protein residues based on a literature analysis: cross-validation against UniProtKb. BMC Bioinformatics 10 (Suppl 8): S4.
+URL: http://sourceforge.net/projects/bionlp-corpora/files/ProteinResidue/NagelCorpus.tar.gz
+Downloaded: 12.2.2019
+Comments: 
+```
+
 #### Nala
+Interesting corpus. 
+Parsed the JSON with named entities and relations, but the document format is unclear to me. 
+Help highly appreciated.
 ```Corpus short name: Nala / tagtog_IDP4+
 Publication:  Juan Miguel Cejuela, Aleksandar Bojchevski, Carsten Uhlig, Rustem Bekmukhametov, Sanjeev Kumar Karn, Shpend Mahmuti, Ashish Baghudana, Ankit Dubey, Venkata P Satagopam, Burkhard Rost; nala: text mining natural language mutation mentions, Bioinformatics, Volume 33, Issue 12, 15 June 2017, Pages 1852–1858
 URL: https://www.tagtog.net/-corpora/IDP4+
