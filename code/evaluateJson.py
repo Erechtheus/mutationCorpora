@@ -49,7 +49,7 @@ with open(inFile) as f:
                 offsetDocuments.add(id)
 
             if "dbSNP" in entity:
-                if str(entity["dbSNP"]) not in snpDict.keys() and str(entity["dbSNP"]) not in snpDict[entity["dbSNP"]]:
+                if str(entity["dbSNP"]) not in snpDict.keys() or str(entity["dbSNP"]) not in snpDict[str(entity["dbSNP"])]:
                     missingDBSNPEntries.add(entity["dbSNP"])
                     #print(" PMID=" +str(id) +" dbSNP-ID= '" +str(entity["dbSNP"]) +"'" +" does not exist for entity=" +str(entity))
 
@@ -86,7 +86,7 @@ print("\tmostCommonTokens=" +str(tmp.most_common(10)))
 print("\tUnique dbSNP Mentions:" +str(len(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))))
 tmp = Counter(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))
 print("\tmostCommonRSIDs=" +str(tmp.most_common(10)))
-print("\tFor "+str(len(missingDBSNPEntries))+" dbSNP entries we could not find any information in dbSNP; wrong ID's?" +str(missingDBSNPEntries))
+print("\tFor "+str(len(missingDBSNPEntries))+" dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: " +str(missingDBSNPEntries))
 
 print("#relations=" +str(len(list(itertools.chain(*relations)))))
 print("\ttypes=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*relations)))))))
