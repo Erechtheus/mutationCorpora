@@ -32,7 +32,7 @@ for article in root.findall("Article"):
             if children.get("v_id").isnumeric():  # Otherwise entity cannot be normalized to dbSNP
                 annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(titleText),
                                 "end": len(titleText) + len(children.text),
-                                "text": children.text, "dbSNP": children.get("v_id") })
+                                "text": children.text, "dbSNP": int(children.get("v_id")) })
             else:
                 annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(titleText),
                                 "end": len(titleText) + len(children.text),
@@ -63,7 +63,7 @@ for article in root.findall("Article"):
             if children.get("v_id").isnumeric():  # Otherwise entity cannot be normalized to dbSNP
                 annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(fulltext),
                                 "end": len(fulltext) + len(children.text),
-                                "text": children.text, "dbSNP": children.get("v_id") })
+                                "text": children.text, "dbSNP": int(children.get("v_id")) })
             else:
                 annotations.append({"ID": "T" + str(len(annotations)), "type": children.tag, "begin": len(fulltext),
                                 "end": len(fulltext) + len(children.text),
