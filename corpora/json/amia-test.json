@@ -1187,6 +1187,12 @@
                         "type": "Has_Mutation",
                         "arg1": "T4",
                         "arg2": "T3"
+                    },
+                    {
+                        "ID": "alias4",
+                        "type": "alias",
+                        "arg1": "T19",
+                        "arg2": "T20"
                     }
                 ],
                 "metadata": []
@@ -3784,6 +3790,12 @@
                         "type": "Has_Mutation",
                         "arg1": "T2",
                         "arg2": "T1"
+                    },
+                    {
+                        "ID": "alias7",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T10"
                     }
                 ],
                 "metadata": []
@@ -5348,6 +5360,12 @@
                         "arg2": "T45"
                     },
                     {
+                        "ID": "alias16",
+                        "type": "alias",
+                        "arg1": "T52",
+                        "arg2": "T39"
+                    },
+                    {
                         "ID": "R6",
                         "type": "Component_of",
                         "arg1": "T7",
@@ -5820,10 +5838,28 @@
                         "arg2": "T12"
                     },
                     {
+                        "ID": "alias5",
+                        "type": "alias",
+                        "arg1": "T9",
+                        "arg2": "T24"
+                    },
+                    {
                         "ID": "R2",
                         "type": "Has_Mutation",
                         "arg1": "T8",
                         "arg2": "T18"
+                    },
+                    {
+                        "ID": "alias7",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T20"
+                    },
+                    {
+                        "ID": "alias8",
+                        "type": "alias",
+                        "arg1": "T2",
+                        "arg2": "T21"
                     }
                 ],
                 "metadata": []
@@ -5991,6 +6027,12 @@
                         "type": "Has_Mutation",
                         "arg1": "T13",
                         "arg2": "T9"
+                    },
+                    {
+                        "ID": "alias5",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T10"
                     }
                 ],
                 "metadata": []
@@ -6532,6 +6574,12 @@
                         "type": "Has_Mutation",
                         "arg1": "T14",
                         "arg2": "T13"
+                    },
+                    {
+                        "ID": "alias5",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T19"
                     }
                 ],
                 "metadata": []
