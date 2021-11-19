@@ -30,7 +30,7 @@ def getSNPs(dbSNPIDs):
     dbSNPIDs = dbSNPIDs - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
 
     if len(dbSNPIDs) > 0:
-        print("Querying NCBI-efetch service for " +str(len(dbSNPIDs)) +" IDs. Please stand-by...")
+        print("Querying NCBI-efetch service for " +str(len(dbSNPIDs)) +" IDs. Please stand-by... " +str(dbSNPIDs))
         for chunk in tqdm(divide_chunks(list(dbSNPIDs), 10)):
             response = requests.get(
                 "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" + str(
@@ -77,3 +77,7 @@ def getSNPs(dbSNPIDs):
 
     return snpDict
 
+
+#bla = set()
+#bla.add(str(334))
+#tmp = getSNPs(bla)
