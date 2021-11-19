@@ -29,7 +29,7 @@ for line in corpusFile:
 
         annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": int(array[1]),
                             "end": int(array[2]),
-                            "text": array[3], "dbSNP": array[6].split(":")[1] })
+                            "text": array[3], "dbSNP": int(array[6].split(":")[1]) })
 
     elif len(array) == 6:
         if array[5].startswith("rs") == False:
@@ -37,7 +37,7 @@ for line in corpusFile:
         else:
             annotations.append({"ID": "T" + str(len(annotations)), "type": array[4], "begin": int(array[1]),
                             "end": int(array[2]),
-                            "text": array[3], "dbSNP": array[5].split("rs")[1] })
+                            "text": array[3], "dbSNP": int(array[5].split("rs")[1]) })
 
 
     #Reset after parsing an article
