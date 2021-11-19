@@ -1,16 +1,16 @@
 import json
 from fetchTool import getSNPs
 
-#inFile="../corpora/json/amia-test.json"
-#inFile="../corpora/json/amia-train.json"
-#inFile="../corpora/json/SETH.json"
-#inFile="../corpora/json/tmvar-test.json"
-#inFile="../corpora/json/tmvar-train.json"
-#inFile="../corpora/json/Variome.json"
+inFile="../corpora/json/amia-test.json"
+inFile="../corpora/json/amia-train.json"
+inFile="../corpora/json/SETH.json"
+inFile="../corpora/json/tmvar-test.json"
+inFile="../corpora/json/tmvar-train.json"
+inFile="../corpora/json/Variome.json"
 
 inFile="../corpora/json/linking/osiris.json"
 inFile="../corpora/json/linking/thomas.json"
-#inFile="../corpora/json/linking/tmvarnorm.json"
+inFile="../corpora/json/linking/tmvarnorm.json"
 #inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
