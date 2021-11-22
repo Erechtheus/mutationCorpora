@@ -27,7 +27,7 @@ with open(inFile) as f:
     for document in documents["documents"]:
         for entity in document["document"]["entities"]:
             if "dbSNP" in entity:
-                dbSNPIDs.add(str(entity["dbSNP"]))
+                dbSNPIDs.add(int(entity["dbSNP"]))
     snpDict = getSNPs(dbSNPIDs)
 
 
@@ -49,7 +49,7 @@ with open(inFile) as f:
                 offsetDocuments.add(id)
 
             if "dbSNP" in entity:
-                if str(entity["dbSNP"]) not in snpDict.keys() or str(entity["dbSNP"]) not in snpDict[str(entity["dbSNP"])]:
+                if int(entity["dbSNP"]) not in snpDict.keys() or int(entity["dbSNP"]) not in snpDict[entity["dbSNP"]]:
                     missingDBSNPEntries.add(entity["dbSNP"])
                     #print(" PMID=" +str(id) +" dbSNP-ID= '" +str(entity["dbSNP"]) +"'" +" does not exist for entity=" +str(entity))
 
