@@ -15,6 +15,7 @@ def divide_chunks(listIn, n):
 #Therefore, we save all the result into a cache
 # Result is a dictionary with merged ids
 def getSNPs(dbSNPIDs):
+    dbSNPIDs = set(map(int, dbSNPIDs)) #Ensure that the IDs are a set and integers
     cacheFolder = "cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
 
@@ -31,19 +32,12 @@ def getSNPs(dbSNPIDs):
 
     if len(dbSNPIDs) > 0:
         print("Querying NCBI-efetch service for " +str(len(dbSNPIDs)) +" IDs. Please stand-by... " +str(dbSNPIDs))
+        print("Calling service "+str(int(len(dbSNPIDs)/10)) +" times")
         for chunk in tqdm(divide_chunks(list(dbSNPIDs), 10)):
             response = requests.get(
                 "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" + str(
-                    ",".join(chunk)), timeout=60)
-
-            for jsonString in response.text.split("{\"refsnp_id\""):
-                if jsonString != "":
-                    #print(jsonString[0:50])
-                    data = json.loads("{\"refsnp_id\"" + jsonString)
-                    snpDict[data["refsnp_id"]] = set(
-                        map(lambda x: x["merged_rsid"], data["dbsnp1_merges"]))
-                    snpDict[data["refsnp_id"]].add(data["refsnp_id"])
-
+                    ",".join(map(str,chunk))), timeout=60)
+            snpDict.update(parseNCBIRequest(response.text)) #Add the elements to the dictionary
 
             #Save each iteration
             with open(cacheFile, 'wb') as fid:
@@ -55,21 +49,17 @@ def getSNPs(dbSNPIDs):
     #is not in the database, then it retourned no results at all. --> Therefore, we call the service again
     dbSNPIDs = dbSNPIDs - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
     if len(dbSNPIDs) > 0:
-        print("Querying NCBI-efetch service for small subset of " +str(len(dbSNPIDs)) +" IDs. Please stand-by...")
-        for chunk in tqdm(divide_chunks(list(dbSNPIDs), 1)):
+        print("Querying NCBI-efetch service for remaining subset of " +str(len(dbSNPIDs)) +" IDs. Please stand-by...")
+        for chunk in list(dbSNPIDs):
             response = requests.get(
-                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" + str(
-                    ",".join(chunk)), timeout=60)
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=" + str(chunk),
+                timeout=60)
 
             for jsonString in response.text.split("{\"refsnp_id\""):
                 if jsonString != "":
-                    #print(jsonString[0:50])
-                    data = json.loads("{\"refsnp_id\"" + jsonString)
-                    snpDict[data["refsnp_id"]] = set(
-                        map(lambda x: x["merged_rsid"], data["dbsnp1_merges"]))
-                    snpDict[data["refsnp_id"]].add(data["refsnp_id"])
-                else:
-                    snpDict[chunk[0]] = set()
+                    snpDict.update(parseNCBIRequest(response.text))
+                else: #if we get no returncode
+                    snpDict[int(chunk)] = set()
 
             #Save each iteration
             with open(cacheFile, 'wb') as fid:
@@ -77,6 +67,19 @@ def getSNPs(dbSNPIDs):
 
     return snpDict
 
+#Parses the JSON-line for a NCBI dbSNP request
+#e.g.,https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=334 or
+#e.g., https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=334,123
+#The webservice returns no result if one of all submitted ID's is wrong..
+def parseNCBIRequest(lines):
+    resultDict = {}
+    for jsonString in lines.split("{\"refsnp_id\""):
+        if jsonString != "":
+#            print(jsonString[0:50])
+            data = json.loads("{\"refsnp_id\"" + jsonString)
+            resultDict[int(data["refsnp_id"])] = set(map(lambda x: int(x["merged_rsid"]), data["dbsnp1_merges"]))
+            resultDict[int(data["refsnp_id"])].add(int(data["refsnp_id"]))
+    return resultDict
 
 #bla = set()
 #bla.add(str(334))
