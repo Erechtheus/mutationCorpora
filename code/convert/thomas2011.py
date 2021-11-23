@@ -86,6 +86,7 @@ for pmid in annotationDict.keys():
         "text": documentText,
         "entities": annotationDict[pmid],
         "relations": [],
+        "equivalences": [],
         "metadata": []
     }}
     jsonDocuments.append(jsonDocument)

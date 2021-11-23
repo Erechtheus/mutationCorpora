@@ -95,6 +95,7 @@ for filepath in glob.glob(inDir +'/**/*.ann.json', recursive=True):
             "text" : corpusDict[pmid],
             "entities" : entities,
             "relations" : relations,
+            "equivalences": [],
             "metadata": []
         }}
         jsonDocuments.append(jsonDocument)

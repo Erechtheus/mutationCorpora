@@ -60,6 +60,7 @@ for pubmedId in corpusDict.keys():
         "text": corpusDict[pubmedId],
         "entities": entities,
         "relations": relations,
+        "equivalences": [],
         "metadata" : []
     }}
     jsonDocuments.append(jsonDocument)

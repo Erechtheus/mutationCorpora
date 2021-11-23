@@ -81,6 +81,7 @@ for article in root.findall("Article"):
         "text": fulltext,
         "entities": annotations,
         "relations": [],
+        "equivalences": [],
         "metadata": []
     }}
     jsonDocuments.append(jsonDocument)

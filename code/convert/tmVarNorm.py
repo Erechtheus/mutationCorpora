@@ -48,6 +48,7 @@ for line in corpusFile:
             "text": title +"\n" +abstr,
             "entities": annotations,
             "relations": [],
+            "equivalences": [],
             "metadata": []
         }}
         jsonDocuments.append(jsonDocument)

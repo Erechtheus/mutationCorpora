@@ -52,6 +52,7 @@ for document in root.findall("document"):
         "text": text,
         "entities": entities,
         "relations": relations,
+        "equivalences": [],
         "metadata" : metadata
     }}
     jsonDocuments.append(jsonDocument)

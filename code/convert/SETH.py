@@ -52,6 +52,7 @@ for filepath in glob.iglob(inDir +'/annotations/*.ann'):
             "text" : corpusDict[pubmedId],
             "entities" : entities,
             "relations" : relations,
+            "equivalences": [],
             "metadata": []
         }}
         jsonDocuments.append(jsonDocument)
