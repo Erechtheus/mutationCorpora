@@ -26,6 +26,7 @@ def getDocuments(inDir):
 
         entities = []
         relations = []
+        equivalences = []
         annotationFile = open(filepath, 'r')
         for line in annotationFile:
             array = line.strip().split()
@@ -42,8 +43,9 @@ def getDocuments(inDir):
                 else:
                     relations.append({"ID": array[0], "type": array[1], "arg1": array[2].split(":")[1], "arg2": array[3].split(":")[1]})
             elif (array[0].startswith("*")):
-              relations.append(
-                  {"ID": "alias" +str(len(relations)), "type": "alias", "arg1":line.split()[2], "arg2": line.split()[3]})
+                equivalences.append({"ID": "E" +str(len(equivalences)), "type": "alias", "arg1":line.split()[2], "arg2": line.split()[3]})
+#              relations.append(
+ #                 {"ID": "alias" +str(len(relations)), "type": "alias", "arg1":line.split()[2], "arg2": line.split()[3]})
             else:
                 print("No handling for '" + line + "' in: " + filepath)
         annotationFile.close()
@@ -53,6 +55,7 @@ def getDocuments(inDir):
             "text": corpusDict[pubmedId],
             "entities": entities,
             "relations": relations,
+            "equivalences" : equivalences,
             "metadata": []
         }}
         jsonDocuments.append(jsonDocument)
