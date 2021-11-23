@@ -11,7 +11,7 @@ inFile="../corpora/json/Variome.json"
 inFile="../corpora/json/linking/osiris.json"
 inFile="../corpora/json/linking/thomas.json"
 inFile="../corpora/json/linking/tmvarnorm.json"
-#inFile="../corpora/json/linking/mutationCoreference.json"
+inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -41,6 +41,10 @@ with open(inFile) as f:
         relations = document["relations"]
 
         for entity in entities:
+
+            if entity["ID"].startswith("T") == False:
+                print("Entity ID '" +entity["ID"] +"' should start with T")
+
             if text[entity["begin"] : entity["end"]] != entity["text"]:
                 print("Problem with document '" +str(id) +"' entity offset wrong for '" +entity["text"] +"' != '" +text[entity["begin"] : entity["end"]] +"'")
                 print(entity)
@@ -55,6 +59,9 @@ with open(inFile) as f:
 
 
         for relation in relations:
+
+            if relation["ID"].startswith("R") == False:
+                print("Entity ID '" +relation["ID"] +"' should start with R")
 
             relId = relation["ID"]
             relType = relation["type"]
@@ -74,7 +81,6 @@ print("#Offseterrors=" +str(offseterrors) +" in " +str(len(offsetDocuments)) +" 
 import itertools
 from collections import Counter
 
-
 print("#docs=" +str(len(documents["documents"])))
 entities = list(map(lambda x :x["document"]["entities"], documents["documents"]))
 relations = list(map(lambda x :x["document"]["relations"], documents["documents"]))
@@ -86,6 +92,7 @@ print("\tmostCommonTokens=" +str(tmp.most_common(10)))
 print("\tUnique dbSNP Mentions:" +str(len(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))))
 tmp = Counter(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))
 print("\tmostCommonRSIDs=" +str(tmp.most_common(10)))
+print("\tuniqueRSIDs=" +str(len(set(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))))
 print("\tFor "+str(len(missingDBSNPEntries))+" dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: " +str(missingDBSNPEntries))
 
 print("#relations=" +str(len(list(itertools.chain(*relations)))))
