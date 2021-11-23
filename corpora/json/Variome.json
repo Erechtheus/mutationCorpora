@@ -142,6 +142,7 @@
                         "arg2": "T1_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1294,6 +1295,7 @@
                         "arg2": "T17"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2240,6 +2242,7 @@
                         "arg2": "T15"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2425,6 +2428,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2542,6 +2546,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2996,6 +3001,7 @@
                         "arg2": "T32"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3320,6 +3326,7 @@
                         "arg2": "T24"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3351,6 +3358,7 @@
                         "arg2": "T1_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3563,6 +3571,7 @@
                         "arg2": "T17"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4464,6 +4473,7 @@
                         "arg2": "T37"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4695,6 +4705,7 @@
                         "arg2": "T24_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4862,6 +4873,7 @@
                         "arg2": "T14"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4920,6 +4932,7 @@
                         "arg2": "T4"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5125,6 +5138,7 @@
                         "arg2": "T10_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5283,6 +5297,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5572,6 +5587,7 @@
                         "arg2": "T23"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5596,6 +5612,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6001,6 +6018,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7073,6 +7091,7 @@
                         "arg2": "T60_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8466,6 +8485,7 @@
                         "arg2": "T51"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9275,6 +9295,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9389,6 +9410,7 @@
                         "arg2": "T12_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9614,6 +9636,7 @@
                         "arg2": "T4_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -10071,6 +10094,7 @@
                         "arg2": "T14_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -11380,6 +11404,7 @@
                         "arg2": "T78"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -12204,6 +12229,7 @@
                         "arg2": "T57"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -12381,6 +12407,7 @@
                         "arg2": "T14_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -12666,6 +12693,7 @@
                         "arg2": "T24"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -14303,6 +14331,7 @@
                         "arg2": "T19"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15231,6 +15260,7 @@
                         "arg2": "T33_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16341,6 +16371,7 @@
                         "arg2": "T33"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16473,6 +16504,7 @@
                         "arg2": "T6"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17395,6 +17427,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17496,6 +17529,7 @@
                         "arg2": "T1_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17916,6 +17950,7 @@
                         "arg2": "T5_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -20994,6 +21029,7 @@
                         "arg2": "T79"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -22853,6 +22889,7 @@
                         "arg2": "T124"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -24665,6 +24702,7 @@
                         "arg2": "T90_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -25351,6 +25389,7 @@
                         "arg2": "T47"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -26028,6 +26067,7 @@
                         "arg2": "T46"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -27166,6 +27206,7 @@
                         "arg2": "T71"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -27847,6 +27888,7 @@
                         "arg2": "T23"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -28438,6 +28480,7 @@
                         "arg2": "T20"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -29801,6 +29844,7 @@
                         "arg2": "T52_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -30110,6 +30154,7 @@
                         "arg2": "T10_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -30356,6 +30401,7 @@
                         "arg2": "T24_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -31262,6 +31308,7 @@
                         "arg2": "T64_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -31271,6 +31318,7 @@
                 "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nStatistics\n\nStudent's t-test was used to analyze continuous data, and Fisher's exact test was used to analyze categorical data. Differences were considered statistically significant at a level of P < 0.05.\n\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -31867,6 +31915,7 @@
                         "arg2": "T13_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -32072,6 +32121,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -32249,6 +32299,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -32823,6 +32874,7 @@
                         "arg2": "T25_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -33472,6 +33524,7 @@
                         "arg2": "T57_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -34137,6 +34190,7 @@
                         "arg2": "T27"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -34336,6 +34390,7 @@
                         "arg2": "T9_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -35529,6 +35584,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -37634,6 +37690,7 @@
                         "arg2": "T16"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -38856,6 +38913,7 @@
                         "arg2": "T47_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -39161,6 +39219,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -39325,6 +39384,7 @@
                         "arg2": "T13"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -40187,6 +40247,7 @@
                         "arg2": "T67_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -40818,6 +40879,7 @@
                         "arg2": "T33"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -41432,6 +41494,7 @@
                         "arg2": "T22"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -42233,6 +42296,7 @@
                         "arg2": "T40"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -43247,6 +43311,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -43389,6 +43454,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -43871,6 +43937,7 @@
                         "arg2": "T4_cancers"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -43975,6 +44042,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -44105,6 +44173,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -46484,6 +46553,7 @@
                         "arg2": "T31"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -46993,6 +47063,7 @@
                         "arg2": "T42_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -47787,6 +47858,7 @@
                         "arg2": "T13"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -48330,6 +48402,7 @@
                         "arg2": "T20_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -48528,6 +48601,7 @@
                         "arg2": "T9_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -49468,6 +49542,7 @@
                         "arg2": "T49"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -49702,6 +49777,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -50306,6 +50382,7 @@
                         "arg2": "T27"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -50449,6 +50526,7 @@
                         "arg2": "T2_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -50593,6 +50671,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -52024,6 +52103,7 @@
                         "arg2": "T56"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -52083,6 +52163,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -53536,6 +53617,7 @@
                         "arg2": "T56"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -53661,6 +53743,7 @@
                         "arg2": "T2_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -54311,6 +54394,7 @@
                         "arg2": "T11"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -56111,6 +56195,7 @@
                         "arg2": "T42"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -56915,6 +57000,7 @@
                         "arg2": "T59"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -57933,6 +58019,7 @@
                         "arg2": "T50"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -58131,6 +58218,7 @@
                         "arg2": "T6_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -59256,6 +59344,7 @@
                         "arg2": "T87"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -60806,6 +60895,7 @@
                         "arg2": "T103_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -61073,6 +61163,7 @@
                         "arg2": "T6_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -61880,6 +61971,7 @@
                         "arg2": "T30"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -62353,6 +62445,7 @@
                         "arg2": "T11"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -62700,6 +62793,7 @@
                         "arg2": "T26"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -62709,6 +62803,7 @@
                 "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nStatistics\n\nData were analysed by \u03c72 test, Fisher's exact test or T-test, as appropriate, using SAS software, version 8.2 (Cary, NC, USA). P-values <\u200a0.05 were interpreted as significant.\n\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -63027,6 +63122,7 @@
                         "arg2": "T28"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -63098,6 +63194,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -63210,6 +63307,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -64467,6 +64565,7 @@
                         "arg2": "T70"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -65119,6 +65218,7 @@
                         "arg2": "T35"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -65410,6 +65510,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -65944,6 +66045,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -66244,6 +66346,7 @@
                         "arg2": "T19_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -67389,6 +67492,7 @@
                         "arg2": "T15"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -68547,6 +68651,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -69239,6 +69344,7 @@
                         "arg2": "T8_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -70409,6 +70515,7 @@
                         "arg2": "T5_cancer"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -70801,6 +70908,7 @@
                         "arg2": "T31"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -71017,6 +71125,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -71318,6 +71427,7 @@
                         "arg2": "T18_2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -72449,6 +72559,7 @@
                         "arg2": "T69_merge"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -72555,6 +72666,7 @@
                         "arg2": "T1_cancers"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -73302,6 +73414,7 @@
                         "arg2": "T7"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -74922,6 +75035,7 @@
                         "arg2": "T36"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -75735,6 +75849,7 @@
                         "arg2": "T54"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -76861,6 +76976,7 @@
                         "arg2": "T14"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -77349,6 +77465,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -77551,6 +77668,7 @@
                         "arg2": "T19"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -77560,6 +77678,7 @@
                 "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nStatistical methods\n\nThe data are presented as mean and standard deviation (x \u00b1 SD) or percentage. Student t-test, chi-square test or Log-rank test were used for statistic analysis as appropriate (SPSS Inc., Chicago, IL, USA), with p < 0.05 indicating statistical significance.\n\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -78148,6 +78267,7 @@
                         "arg2": "T27"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         }

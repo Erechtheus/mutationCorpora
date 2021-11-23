@@ -24,6 +24,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -78,6 +79,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -118,6 +120,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -136,6 +139,7 @@
                 "text": "Enhanced replication of hepatitis B virus with frameshift in the precore region found in fulminant hepatitis patients.\nBACKGROUND: The genotype B of hepatitis B virus (HBV) was reported to associate with fulminant hepatitis (FH). We aimed to clarify the characteristics of HBV obtained from FH patients in an area of Japan where genotype B HBV is prevalent. METHODS: Using serum samples of 16 HBV-associated FH patients, partial HBV sequences were determined. The effects of HBV mutation/insertion/deletion were evaluated using an in vitro HBV replication system. RESULTS: Of the 16 HBV isolates, 31% belonged to subgenotype B1/Bj, 38% were subgenotype B2/Ba, and 31% were subgenotype C2/Ce. Notably, the single nucleotide insertion/deletion that resulted in a frameshift of the precore protein was found exclusively in 60% of B1/Bj strains. An in vitro study showed that all of the frameshift mutants had significantly higher amounts of HBV DNA than did the wild type. One of the isolates had a novel insertion of A between nucleotides 1900 and 1901, which resulted in a 3-nucleotide change within the Kozak sequence of the core protein and enhanced the core protein expression in vitro. CONCLUSIONS: The frameshift insertion/deletion in the precore region enhanced HBV replication and might be associated with the development of FH by the subgenotype B1/Bj HBV.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -169,6 +173,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -202,6 +207,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -242,6 +248,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -260,6 +267,7 @@
                 "text": "Plasminogen activator inhibitor type 1 serum levels and 4G/5G gene polymorphism in morbidly obese Hispanic patients with non-alcoholic fatty liver disease.\nBACKGROUND: The plasminogen activator inhibitor type-1 (PAI-1) has been implicated in the regulation of fibrinolysis and extracellular matrix components. The single base pair guanine insertion/deletion polymorphism (4G/5G) within the promoter region of the PAI-1 gene influences PAI-1 synthesis and may modulate hepatic fibrogenesis. AIM: To evaluate the influence of PAI-1 serum levels and 4G/5G polymorphism on the risk of liver fibrosis associated to non-alcoholic fatty liver disease (NAFLD) in morbidly obese patients. MATERIAL AND METHODS: Case-control study of 50 obese patients undergoing bariatric surgery and 71 non-obese subjects matched by age and sex. Anthropometric and biochemical measurements were performed, including PAI-1 serum levels. Genomic DNA was obtained to assess the presence of 4G/5G polymorphism. RESULTS: BMI, insulinemia, triglycerides, HOMA-IR, hypertension and diabetes were significantly higher in obese patients compared to control subjects. PAI-1 serum levels observed in obese patients were significantly lower (10.63    4.82) compared to controls (14.26    11.4; p < 0.05). No differences were observed in the PAI-1 4G/5G promoter genotypes frequencies (p = 0.12). No differences were observed in PAI-1 plasma levels among obese patients with liver fibrosis (10.64    4.35) compared to patients without liver fibrosis (10.61    5.2; p = 0.985). PAI-1 4G/5G promoter genotypes frequencies were similar in patients with or without liver fibrosis associated to NASH (p = 0.6). CONCLUSIONS: Morbidly obese patients had significantly lower PAI-1 serum levels with similar PAI-1 4G/5G genotypes frequencies compared to non-obese subjects. The frequency of 4G/5G genotypes in Chilean Hispanic healthy subjects was similar to that described in other populations. No association was found between PAI-1 serum levels or 4G/5G genotype with liver fibrosis in obese patients.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -300,6 +308,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -340,6 +349,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -401,6 +411,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -419,6 +430,7 @@
                 "text": "Mutational analysis of CYP2C8 in hypertensive patients using denaturing high performance liquid chromatography.\nWHAT IS KNOWN AND OBJECTIVE: CYP2C8 is involved in the cytochrome P450 (CYP) epoxygenase pathway. Arachidonic acid metabolites such as epoxyeicosatrienenoic acids and hydroxyeicosatetrenoic acids, produced may have a role in hypertension. We aimed to develop a medium through-put method for screening samples of known and new mutations of CYP2C8 using denaturing high performance liquid chromatography (DHPLC). METHODS: DNA samples from 200 subjects (hypertensive patients and healthy controls) were screened for SNPs in CYP2C8 using DHPLC. Genotypes and allelic frequencies of CYP2C8 between the healthy controls and patients with hypertension were compared. RESULTS AND DISCUSSIONS: Six variants were detected and two were new; T deletion at 5063 and substitution of C to T at 33468 in exon 8. Differences in variant frequencies were detected between the controls and hypertensive patients. The controls have significantly higher prevalence of C35322C compared to the patients. The functional significance of the SNP at 35322 requires further study. Having homozygous C35322C could be a protective factor for hypertension. WHAT IS NEW AND CONCLUSION: Denaturing high performance liquid chromatography is useful for population screening to identify new and existing SNPs. A higher frequency of the C35322T SNP was observed among hypertensive patients than control subjects. This potentially important observation requires confirmation and the clinical significance assessed.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -522,6 +534,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -576,6 +589,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -594,6 +608,7 @@
                 "text": "Analysis of a SNP linked to lactase persistence: An exercise for teaching molecular biology techniques to undergraduates.\nRecent experimental evidence indicates that the ability of adults to tolerate milk, cheese, and other lactose-containing dairy products is an autosomal dominant trait that co-evolved with dairy farming in Central Europe about 7,500 years ago. Among persons of European descent, this trait is strongly associated with a C to T substitution at a polymorphic site 13,910 bp upstream of the lactase gene. This mutation results in the persistent expression of lactase into adulthood enabling individuals carrying a T(-13,910) allele to digest lactose as adults. In this report, we describe a laboratory exercise for an undergraduate molecular biology course in which students determine their own genotype at the -13,910 polymorphic site and correlate this with their ability to tolerate dairy products. The exercise is used as a tool to teach basic molecular biology procedures such as agarose gel electrophoresis, PCR1, and DNA sequencing. Students are actively engaged in the learning process, not only by analyzing their own DNA but also by applying their knowledge and skills to answer an authentic question. The exercise is also integrated with lecture material on the control of gene expression at the transcriptional level, in particular, how transcription factors can influence the activity of a promoter by binding to cis-acting DNA regulatory elements located within the proximal promoter of a gene or distant enhancer regions.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -612,6 +627,7 @@
                 "text": "The distribution of human endogenous retrovirus K-113 in health and autoimmune diseases in Poland.\nOBJECTIVE: During the evolution of the human genome, a number of retroviral integrations have occurred creating a group of human endogenous retroviruses (HERVs). As of now several studies have pointed to the association of HERVs with certain autoimmune diseases such as RA, SLE, multiple sclerosis (MS) and SS as well as various neoplasms. In this study, we investigated the prevalence of HERV-K113 in patients with RA, SLE and in healthy subjects in the Polish population. METHODS: Genomic DNA samples from 155 RA patients, 139 SLE patients and 261 newborns (as controls) were tested for the presence of the HERV-K113 allele using PCR. Each individual's DNA was genotyped for null, homozygous or heterozygous insertion of HERV-K113. RESULTS: Our data revealed statistically significant differences in the insertion frequencies of HERV-K113 between the groups of RA and SLE patients vs healthy controls (provirus DNA was found in 14.19, 15.11 and 8.05% of individuals, respectively). No homozygous individuals for the K113 allele were found in each of the groups. There was no evidence for HERV-K113 association with clinical features in either group. CONCLUSION: Our study-the first such performed for the Polish population-provides a consistent observation with previous reports on the genetic association of HERV-K113 integrations in autoimmune disorders. Here, we found that the prevalence of insertionally polymorphic HERV-K113 was significantly increased in Polish patients with SLE and RA.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -630,6 +646,7 @@
                 "text": "Association of GSTM1 and GSTT1 gene deletions with risk of head and neck cancer in Pakistan: a case control study.\nPolymorphic deletions of GSTM1 and GSTT1 genes involved in the detoxification of potentially carcinogenic agents may be risk factors for various cancers, including head and neck cancer (HNC). In the present case-control study we aimed to access possible associations of HNC with GSTM1 and GSTT1 null genotypes in a Pakistani population. DNA was extracted from leukocytes of 388 cancer patients and 150 healthy controls by phenol-chloroform procedure. GSTM1 and GSTT1 deletion variants were genotyped by multiplex PCR assay with CYP1A1 as an internal control and further analyzed by primer specific PCR assay and sequencing. Mean age of cases and controls was 48 (  16.6) years with a male to female ratio of 1:1. Cancer of the oral cavity (57%) was most prevalent in the sampled population followed by pharynx and larynx (30% and 13% respectively). A statistically significant (P<0.05) association was observed for both null genotypes in contribution to HNC as compared with the controls. The odds ratio (OR) for the GSTM1 null genotype was 2.3 with a 95% CI of 1.5-5.5 and for GSTT1 OR was 2.04 with 95% CI of 1.3-3.1. These results suggest that the GSTM1 and GSTT1 null genotypes are risk factors for HNC development among the Pakistani population.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -656,6 +673,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -689,6 +707,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -707,6 +726,7 @@
                 "text": "Acquired TNFRSF14 mutations in follicular lymphoma are associated with worse prognosis.\nClinical correlative studies have linked 1p36 deletions with worse prognosis in follicular lymphoma (FL). In this study, we sought to identify the critical gene(s) in this region that is responsible for conferring inferior prognosis. BAC array technology applied to 141 FL specimens detected a minimum region of deletion (MRD) of    97 kb within 1p36.32 in 20% of these cases. Frequent single-nucleotide polymorphism-detected copy-neutral loss of heterozygosity was also found in this region. Analysis of promoter CpGs in the MRD did not reveal differential patterns of DNA methylation in samples that differed in 1p36 status. Exon sequencing of MRD genes identified somatic alterations in the TNFRSF14 gene in 3 of 11 selected cases with matching normal DNA. An expanded cohort consisting of 251 specimens identified 46 cases (18.3%) with nonsynonymous mutations affecting TNFRSF14. Overall survival (OS) and disease-specific survival (DSS) were associated with the presence of TNFRSF14 mutation in patients whose overall treatment included rituximab. We further showed that inferior OS and DSS were most pronounced in patients whose lymphomas contained both TNFRSF14 mutations and 1p36 deletions after adjustment for the International Prognostic Index [hazard ratios of 3.65 (95% confidence interval, 1.35-9.878, P=0.011) and 3.19 (95% confidence interval, 1.06-9.57, P=0.039), respectively]. Our findings identify TNFRSF14 as a candidate gene associated with a subset of FL, based on frequent occurrence of acquired mutations and their correlation with inferior clinical outcomes.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -740,6 +760,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -773,6 +794,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -827,6 +849,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -845,6 +868,7 @@
                 "text": "Mutations in the sarcomere gene MYH7 in Ebstein anomaly.\nBACKGROUND: Ebstein anomaly is a rare congenital heart malformation characterized by adherence of the septal and posterior leaflets of the tricuspid valve to the underlying myocardium. An association between Ebstein anomaly with left ventricular noncompaction (LVNC) and mutations in MYH7 encoding b-myosin heavy chain has been shown; in this report, we have screened for MYH7 mutations in a cohort of probands with Ebstein anomaly in a large population-based study. METHODS AND RESULTS: Mutational analysis in a cohort of 141 unrelated probands with Ebstein anomaly was performed by next-generation sequencing and direct DNA sequencing of MYH7. Heterozygous mutations were identified in 8 of 141 samples (6%). Seven distinct mutations were found; 5 were novel and 2 were known to cause hypertrophic cardiomyopathy. All mutations except for 1 3-bp deletion were missense mutations; 1 was a de novo change. Mutation-positive probands and family members showed various congenital heart malformations as well as LVNC. Among 8 mutation-positive probands, 6 had LVNC, whereas among 133 mutation-negative probands, none had LVNC. The frequency of MYH7 mutations was significantly different between probands with and without LVNC accompanying Ebstein anomaly (P<0.0001). LVNC segregated with the MYH7 mutation in the pedigrees of 3 of the probands, 1 of which also included another individual with Ebstein anomaly. CONCLUSIONS: Ebstein anomaly is a congenital heart malformation that is associated with mutations in MYH7. MYH7 mutations are predominantly found in Ebstein anomaly associated with LVNC and may warrant genetic testing and family evaluation in this subset of patients.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -871,6 +895,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -911,6 +936,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -965,6 +991,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -983,6 +1010,7 @@
                 "text": "AluYb8 insertion in the MUTYH gene is related to increased 8-OHdG in genomic DNA and could be a risk factor for type 2 diabetes in a Chinese population.\nThe Mutyh DNA glycosylase is involved in the repair of oxidized DNA bases. Because oxidative stress may contribute to increased diabetes risk, the common variant of the MUTYH gene (AluYb8MUTYH) was investigated for its possible role in type 2 diabetes mellitus (T2DM). A total of 565 T2DM patients and 565 healthy subjects from China were enrolled in a case-control study. The distribution of AluYb8MUTYH differed in diabetic patients from controls, with a moderately increased percentage of the mutant allele (P) (44.7% versus 40.3%, P = 0.033, OR = 1.199). However, this distribution was similar between the diabetic early-onset and late-onset subgroups. Another 66 T2DM patients were further evaluated for 8-hydroxy-2'deoxyguanosine (8-OHdG) levels in leukocytic DNA. The average value of 8-OHdG/10(6) dG was 10.4 in patients with the wild-type genotype, 15.9 in heterozygotes, and 22.3 in homozygotes with the variation (P < 0.001, compared with the wild-type). Therefore, the AluYb8MUTYH polymorphism could be a novel genetic risk factor for T2DM, and accumulated 8-OHdG could contribute to this disease.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1030,6 +1058,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1091,6 +1120,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1109,6 +1139,7 @@
                 "text": "Homozygous loss of ADAM3A revealed by genome-wide analysis of pediatric high-grade glioma and diffuse intrinsic pontine gliomas.\nOverall, pediatric high-grade glioma (pHGG) has a poor prognosis, in part due to the lack of understanding of the underlying biology. High-resolution 244 K oligo array comparative genomic hybridization (CGH) was used to analyze DNA from 38 formalin-fixed paraffin-embedded predominantly pretreatment pHGG samples, including 13 diffuse intrinsic pontine gliomas (DIPGs). The patterns of gains and losses were distinct from those seen in HGG arising in adults. In particular, we found 1q gain in up to 27% of our cohort compared with 9% reported in adults. A total of 13% had a balanced genetic profile with no large-scale copy number alterations. Homozygous loss at 8p12 was seen in 6 of 38 (16%) cases of pHGG. This novel deletion, which includes the ADAM3A gene, was confirmed by quantitative real-time PCR (qPCR). Loss of CDKN2A/CDKN2B in 4 of 38 (10%) samples by oligo array CGH was confirmed by fluorescent in situ hybridization on tissue microarrays and was restricted to supratentorial tumors. Only    50% of supratentorial tumors were positive for CDKN2B expression by immunohistochemistry (IHC), while    75% of infratentorial tumors were positive for CDKN2B expression (P = 0.03). Amplification of the 4q11-13 region was detected in 8% of cases and included PDGFRA and KIT, and subsequent qPCR analysis was consistent with the amplification of PDGFRA. MYCN amplification was seen in 5% of samples being significantly associated with anaplastic astrocytomas (P= 0.03). Overall, DIPG shared similar spectrum of changes to supratentorial HGG with some notable differences, including high-frequency loss of 17p and 14q and lack of CDKN2A/CDKN2B deletion. Informative genetic data providing insight into the underlying biology and potential therapeutic possibilities can be generated from archival tissue and typically small biopsies from DIPG. Our findings highlight the importance of obtaining pretreatment samples.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1135,6 +1166,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1153,6 +1185,7 @@
                 "text": "A genome-wide analysis of loss of heterozygosity and chromosomal copy number variation in Proteus syndrome using high-density SNP microarrays.\nExcessive cell proliferation and genetic changes such as loss of an allele (loss of heterozygosity (LOH)) or amplifications or deletions of parts of chromosomes (copy number variations (CNV)) are common findings in cancers. It is unknown whether these changes are also present in patients with overgrowth syndromes, although the presence of small-scale CNVs (such as duplication of 11p15 in Beckwith-Wiedemann syndrome), excessive cell proliferation and an increased frequency of tumors have all been reported in these patients. We present results of a genome-wide scan for LOH and CNV in Proteus syndrome (PS), a severely disfiguring overgrowth syndrome. We investigated CNV and LOH in DNA derived from affected and normal tissue samples from six PS patients using Affymetrix GeneChip Mapping 250   K Nsp high-density single-nucleotide polymorphism microarrays. Analysis revealed that LOH and CNVs were not common in PS. We attempted to validate selected CNVs detected by microarray analysis using quantitative genomic PCR, but the observed changes were not confirmed. These results suggest that large-scale genome-wide CNVs and LOH as seen in cancer syndromes are not characteristic findings in PS, although we cannot rule out the possibility that newer arrays with a higher number of probes could uncover smaller CNVs not detected in this study.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1171,6 +1204,7 @@
                 "text": "A single heterozygous nucleotide substitution displays two different altered mechanisms in the FBN1 gene of five Italian Marfan patients.\nThe Fibrillin-1 gene (FBN1; chromosome 15q21.1) encodes a major glycoprotein component of the extracellular matrix. Mutations in FBN1, TGFBR1, TGFBR2 are known to cause Marfan syndrome (MIM 154700), a pleiotropic disorder. In the present study, we describe five novel missense FBN1 mutations in five Marfan patients that have the peculiarity to activate two contemporary mutational mechanisms: a missense mutation and exon skipping.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1197,6 +1231,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1244,6 +1279,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1284,6 +1320,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1310,6 +1347,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1350,6 +1388,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1368,6 +1407,7 @@
                 "text": "Loss of heterozygosity of the tumor suppressor gene Tg737 in the side population cells of hepatocellular carcinomas is associated with poor prognosis.\nAnalysis of loss of heterozygosity (LOH) is a useful method for finding genetic alterations in tumor and precancerous lesion tissues. In this study, we analyzed LOH of the tumor suppressor gene Tg737 in side population cells of human hepatocellular carcinomas. Side population cells were sorted and identification by flow cytometry from suspensions of hepatocarcinoma or normal liver cells generated from 95 hepatocellular carcinoma and normal tissues, respectively. DNA was extracted from the two groups of side population cells and peripheral blood specimens. Five microsatellite markers on the Tg737 gene were used to analyze the frequency of loss of heterozygosity in the side population cells of the hepatocellular carcinoma. Twenty-four (25.30%) tumor samples had a large deletion in more than three microsatellite markers. The highest frequency of loss of heterozygosity was observed with the G64212 marker (78.75%) and the SHGC-57879 marker (75.95%). Statistical analysis of the correlation between loss of heterozygosity of Tg737 and clinicopathological features indicated a strong correlation between the two markers associated with the highest frequency of loss of heterozygosity and survival. The results indicate that loss of heterozygosity of the tumor suppressor gene Tg737 may play an important role in the carcinogenetic mechanism of liver cancer stem cells. In addition, the independent association between loss of heterozygosity at the SHGC-57879 and G64212 markers and worsened short-term survival in patients could be used as a novel prognostic predictor. Further studies of side population cells may contribute to the establishment of novel therapeutic strategies for hepatocellular carcinoma.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1394,6 +1434,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1448,6 +1489,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1502,6 +1544,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1549,6 +1592,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1582,6 +1626,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1622,6 +1667,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1640,6 +1686,7 @@
                 "text": "New mutations in the PKD1 gene in Czech population with autosomal dominant polycystic kidney disease.\nBACKGROUND: Autosomal dominant polycystic kidney disease (ADPKD) is the most common hereditary renal disease. The disease is caused by mutations of the PKD1 (affecting roughly 85% of ADPKD patients) and PKD2 (affecting roughly 14% of ADPKD patients) genes, although in several ADPKD families, the PKD1 and/or PKD2 linkage was not found. Mutation analysis of the PKD1 gene is complicated by the presence of highly homologous genomic duplications of the first two thirds of the gene. METHODS: The direct detection of mutations in the non-duplicated region of the PKD1 gene was performed in 90 unrelated individuals, consisting of 58 patients with end-stage renal failure (manifesting before their 50th year of life) and 32 individuals from families where the disease was clearly linked to the PKD1 gene. Mutation screening was performed using denaturing gradient gel electrophoresis (DGGE). DNA fragments showing an aberrant electrophoretic banding pattern were sequenced. RESULTS: In the non-duplicated region of the PKD1 gene, 19 different likely pathogenic germline sequence changes were identified in 19 unrelated families/individuals. Fifteen likely pathogenic sequence changes are unique for the Czech population. The following probable mutations were identified: 9 nonsense mutations, 6 likely pathogenic missense mutations, 2 frameshifting mutations, one in-frame deletion and probable splice site mutation. In the non-duplicated region of the PKD1 gene, 16 different polymorphisms or unclassified variants were detected. CONCLUSION: Twenty probable mutations of the PKD1 gene in 90 Czech individuals (fifteen new probable mutations) were detected. The establishment of localization and the type of causal mutations and their genotype phenotype correlation in ADPKD families will improve DNA diagnosis and could help in the assessment of the clinical prognosis of ADPKD patients.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1658,6 +1705,7 @@
                 "text": "Clusters of multidrug-resistant Mycobacterium tuberculosis cases, Europe.\nMolecular surveillance of multidrug-resistant tuberculosis (MDR TB) was implemented in Europe as case reporting in 2005. For all new MDR TB cases detected from January 2003 through June 2007, countries reported case-based epidemiologic data and DNA fingerprint patterns of MDR TB strains when available. International clusters were detected and analyzed. From 2003 through mid-2007 in Europe, 2,494 cases of MDR TB were reported from 24 European countries. Epidemiologic and molecular data were linked for 593 (39%) cases, and 672 insertion sequence 6110 DNA fingerprint patterns were reported from 19 countries. Of these patterns, 288 (43%) belonged to 18 European clusters; 7 clusters (242/288 cases, 84%) were characterized by strains of the Beijing genotype family, including the largest cluster (175/288 cases, 61%). Both clustering and the Beijing genotype were associated with strains originating in eastern European countries. Molecular cluster detection contributes to identification of transmission profile, risk factors, and control measures.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1684,6 +1732,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1731,6 +1780,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1749,6 +1799,7 @@
                 "text": "Protein kinase C gamma, a protein causative for dominant ataxia, negatively regulates nuclear import of recessive-ataxia-related aprataxin.\nSpinocerebellar ataxia type 14 (SCA14) is an autosomal dominant disease caused by mutations in the gene encoding protein kinase C gamma (PKC gamma). We report an SCA14 family with a novel deletion of a termination-codon-containing region, resulting in a missense change and a C-terminal 13-amino-acid extension with increased kinase activity. Notably, one patient with a severe phenotype is the first homozygote for the mutation causing SCA14. We show the novel molecular consequences of increased kinase activities of mutants: aprataxin (APTX), a DNA repair protein causative for autosomal recessive ataxia, was found to be a preferential substrate of mutant PKC gamma, and phosphorylation inhibited its nuclear entry. The phosphorylated residue was Thr111, located adjacent to the nuclear localization signal, and disturbed interactions with importin alpha, a nuclear import adaptor. Decreased nuclear APTX increased oxidative stress-induced DNA damage and cell death. Phosphorylation-resistant APTX, kinase inhibitors, and antioxidants may be therapeutic options for SCA14.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1767,6 +1818,7 @@
                 "text": "CYP1A1 genotype modifies the impact of smoking on effectiveness of HAART among women.\nWe have recently shown that cigarette smoking is associated with lesser responses to potent antiretroviral therapies. Certain Cytochrome P-450 enzymes activate compounds derived from tobacco smoke into toxic forms that may promote HIV-1 gene expression through promotion of DNA-adduct formation by the oxidation of chemical constituents of cigarette smoke, such as polyaromatic hydrocarbons and dioxins. To explore the association between environmental and genetic factors to viral replication in women who smoke and receive highly active anti-retroviral therapy (HAART), we assessed the impact of polymorphisms in a panel of four Cytochrome P-450 genes (CYP1A1, CYP2A6, CYP2D6, and CYP2E1) and two Glutathione S-transferase genes (GSTM1 and GSST1) in 924 participants of the Women's Interagency HIV Study (WIHS). Our findings showed that GSTM1 and GSST1 deletions were not associated with HAART effectiveness. By contrast, homozygosity for the CYP1A1-m1 polymorphism, was associated with impaired viral response to treatment among smokers (relative hazard (RH) = 0.54; 95% confidence interval = 0.31-0.94) after adjustment for pretreament viral load, CD4 count, age, hepatitis C infection, prior HAART therapy and race, although it had no effect among nonsmokers. We conclude that the association of the CPY1A1-m1 variant with a reduced response to HAART therapy in HIV infected smokers is consistent with this enzyme's role in the metabolic conversion of environmental toxins to DNA adducts, which may directly promote HIV-1 gene expression.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1842,6 +1894,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1860,6 +1913,7 @@
                 "text": "Somatic LKB1 mutations promote cervical cancer progression.\nHuman Papilloma Virus (HPV) is the etiologic agent for cervical cancer. Yet, infection with HPV is not sufficient to cause cervical cancer, because most infected women develop transient epithelial dysplasias that spontaneously regress. Progression to invasive cancer has been attributed to diverse host factors such as immune or hormonal status, as no recurrent genetic alterations have been identified in cervical cancers. Thus, the pressing question as to the biological basis of cervical cancer progression has remained unresolved, hampering the development of novel therapies and prognostic tests. Here we show that at least 20% of cervical cancers harbor somatically-acquired mutations in the LKB1 tumor suppressor. Approximately one-half of tumors with mutations harbored single nucleotide substitutions or microdeletions identifiable by exon sequencing, while the other half harbored larger monoallelic or biallelic deletions detectable by multiplex ligation probe amplification (MLPA). Biallelic mutations were identified in most cervical cancer cell lines; HeLa, the first human cell line, harbors a homozygous 25 kb deletion that occurred in vivo. LKB1 inactivation in primary tumors was associated with accelerated disease progression. Median survival was only 13 months for patients with LKB1-deficient tumors, but >100 months for patients with LKB1-wild type tumors (P = 0.015, log rank test; hazard ratio = 0.25, 95% CI = 0.083 to 0.77). LKB1 is thus a major cervical tumor suppressor, demonstrating that acquired genetic alterations drive progression of HPV-induced dysplasias to invasive, lethal cancers. Furthermore, LKB1 status can be exploited clinically to predict disease recurrence.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1907,6 +1961,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1925,6 +1980,7 @@
                 "text": "Relation between angiotensin-converting enzyme I/D gene polymorphism and pulse pressure in patients with a first anterior acute myocardial infarction.\nOBJECTIVE: Evidence shows that an elevated pulse pressure (PP) may lead to an increased risk of cardiovascular morbidity and mortality. The aim of the present study was to determine the effects of polymorphism of the angiotensin-converting enzyme (ACE) gene on the PP after a first anterior acute myocardial infarction (AMI). METHODS: Overall 116 patients with a first anterior AMI were included in this cross-sectional study. DNA was isolated from peripheral leukocytes. The ID status was determined by polymerase chain reaction by a laboratory staff member who was unaware of the clinical details. Based on the polymorphism of the ACE gene, they were classified into 3 groups: Deletion/Deletion (DD) genotype (Group 1, n=45), Insertion/Deletion (ID) genotype (Group 2, n=58), Insertion/Insertion (II) genotype (Group 3, n=13). Blood pressure measurements were performed in all patients within 10 minutes admitted to coronary care unit. The PP was calculated by subtraction of diastolic blood pressure (DBP) from systolic blood pressure (SBP). Echocardiographic examinations were performed using the parasternal longitudinal axis and apical 4-chamber windows in accordance with the recommendations of the American Echocardiography Committee. One-way analysis of variance (ANOVA) and Chi-square analyses were used to compare differences among subjects with different genotypes. RESULTS: There were no significant differences among clinical parameters of patients. Pulse pressure was significantly higher in patients who have ACE DD and ID genotypes than in patients who have ACE II genotype (47+/- 16, 47+/- 14 and 39+/- 12, F=3.4, p<0.05). But SBP, DBP and heart rate were not significantly different among ACE DD, ACE ID and ACE II genotypes. CONCLUSION: Our results suggested that, ACE Gene I/D polymorphism D allele may affect PP in patients with a first anterior AMI.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1943,6 +1999,7 @@
                 "text": "Identification of microdeletions in candidate genes for cleft lip and/or palate.\nBACKGROUND: Genome-wide association studies are now used routinely to identify genes implicated in complex traits. The panels used for such analyses can detect single nucleotide polymorphisms and copy number variants, both of which may help to identify small deleted regions of the genome that may contribute to a particular disease. METHODS: We performed a candidate gene analysis involving 1,221 SNPs in 333 candidate genes for orofacial clefting, using 2,823 samples from 725 two- and three-generation families with a proband having cleft lip with or without cleft palate. We used SNP genotyping, DNA sequencing, high-resolution DNA microarray analysis, and long-range PCR to confirm and characterize the deletion events. RESULTS: This dataset had a high duplicate reproducibility rate (99.98%), high Mendelian consistency rate (99.93%), and low missing data rate (0.55%), which provided a powerful opportunity for deletion detection. Apparent Mendelian inconsistencies between parents and children suggested deletion events in 15 individuals in 11 genomic regions. We confirmed deletions involving CYP1B1, FGF10, SP8, SUMO1, TBX1, TFAP2A, and UGT7A1, including both de novo and familial cases. Deletions of SUMO1, TBX1, and TFAP2A are likely to be etiologic. CONCLUSIONS: These deletions suggest the potential roles of genes or regulatory elements contained within deleted regions in the etiology of clefting. Our analysis took advantage of genotypes from a candidate-gene-based SNP survey and proved to be an efficient analytical approach to interrogate genes potentially involved in clefting. This can serve as a model to find genes playing a role in complex traits in general.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -1983,6 +2040,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2037,6 +2095,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2055,6 +2114,7 @@
                 "text": "Peters plus syndrome.\nA 10-year-old boy, issue of unrelated parents presented with visual impairment, short stature and mental retardation. The presence of a Peters' anomaly, mental retardation, disproportionate short stature, skeletal abnormalities and distinctive facial features (broad forehead, telecanthus, cupid bow shaped upper lip) established the diagnosis of Peters' plus syndrome. Analysis of his genomic DNA revealed a homozygous deletion in the beta1,3-galactosyltransferase-like gene (B3GALTL), a recently identified gene.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2073,6 +2133,7 @@
                 "text": "Expression of TSLC1, a candidate tumor suppressor gene mapped to chromosome 11q23, is downregulated in unfavorable neuroblastoma without promoter hypermethylation.\nAlthough it has been well documented that loss of human chromosome 11q is frequently observed in primary neuroblastomas, the smallest region of overlap (SRO) has not yet been precisely identified. Previously, we performed array-comparative genomic hybridization (array-CGH) analysis for 236 primary neuroblastomas to search for genomic aberrations with high-resolution. In our study, we have identified the SRO of deletion (10-Mb or less) at 11q23. Within this region, there exists a TSLC1/IGSF4/CADM1 gene (Tumor suppressor in lung cancer 1/Immunoglobulin superfamily 4/Cell adhesion molecule 1), which has been identified as a putative tumor suppressor gene for lung and some other cancers. Consistent with previous observations, we have found that 35% of primary neuroblastomas harbor loss of heterozygosity (LOH) on TSLC1 locus. In contrast to other cancers, we could not detect the hypermethylation in its promoter region in primary neuroblastomas as well as neuroblastoma-derived cell lines. The clinicopathological analysis demonstrated that TSLC1 expression levels significantly correlate with stage, Shimada's pathological classification, MYCN amplification status, TrkA expression levels and DNA index in primary neuroblastomas. The immunohistochemical analysis showed that TSLC1 is remarkably reduced in unfavorable neuroblastomas. Furthermore, decreased expression levels of TSLC1 were significantly associated with a poor prognosis in 108 patients with neuroblastoma. Additionally, TSLC1 reduced cell proliferation in human neuroblastoma SH-SY5Y cells. Collectively, our present findings suggest that TSLC1 acts as a candidate tumor suppressor gene for neuroblastoma.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2091,6 +2152,7 @@
                 "text": "Integrated genomic and expression profiling in mantle cell lymphoma: identification of gene-dosage regulated candidate genes.\nMantle cell lymphoma (MCL) is characterized by the t(11;14)(q13;q32) translocation and several other cytogenetic aberrations, including heterozygous loss of chromosomal arms 1p, 6q, 11q and 13q and/or gains of 3q and 8q. The common intervals of chromosomal imbalance have been narrowed down using array-comparative genomic hybridization (CGH). However, the chromosomal intervals still contain many genes potentially involved in MCL pathogeny. Combined analysis of tiling-resolution array-CGH with gene expression profiling on 11 MCL tumours enabled the identification of genomic alterations and their corresponding gene expression profiles. Only subsets of genes located within given cytogenetic anomaly-intervals showed a concomitant change in mRNA expression level. The genes that showed consistent correlation between DNA copy number and RNA expression levels are likely to be important in MCL pathology. Besides several 'anonymous genes', we also identified various fully annotated genes, whose gene products are involved in cyclic adenosine monophosphate-regulated pathways (PRKACB), DNA damage repair, maintenance of chromosome stability and prevention of rereplication (ATM, ERCC5, FBXO5), energy metabolism (such as genes that are involved in the synthesis of proteins encoded by the mitochondrial genome) and signal transduction (ARHGAP29). Deregulation of these gene products may interfere with the signalling pathways that are involved in MCL tumour development and maintenance.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2117,6 +2179,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2213,6 +2276,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2231,6 +2295,7 @@
                 "text": "Chromosome 17: association of a large inversion polymorphism with corticosteroid response in asthma.\nA 900-kb inversion exists within a large region of conserved linkage disequilibrium (LD) on chromosome 17. CRHR1 is located within the inversion region and associated with inhaled corticosteroid response in asthma. We hypothesized that CRHR1 variants are in LD with the inversion, supporting a potential role for natural selection in the genetic response to corticosteroids. We genotyped six single nucleotide polymorphisms (SNPs) spanning chromosome 17: 40,410,565-42,372,240, including four SNPs defining inversion status. Similar allele frequencies and strong LD were noted between the inversion and a CRHR1 SNP previously associated with lung function response to inhaled corticosteroids. Each inversion-defining SNP was strongly associated with inhaled corticosteroid response in adult asthma (P values 0.002-0.005). The CRHR1 response to inhaled corticosteroids may thus be explained by natural selection resulting from inversion status or by long-range LD with another gene. Additional pharmacogenetic investigations into regions of chromosomal diversity, including copy number variation and inversions, are warranted.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2271,6 +2336,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2289,6 +2355,7 @@
                 "text": "A metastasis modifier locus on human chromosome 8p in uveal melanoma identified by integrative genomic analysis.\nPURPOSE: To identify genes that modify metastatic risk in uveal melanoma, a type of cancer that is valuable for studying metastasis because of its remarkably consistent metastatic pattern and well-characterized gene expression signature associated with metastasis. EXPERIMENTAL DESIGN: We analyzed 53 primary uveal melanomas by gene expression profiling, array-based comparative genomic hybridization, array-based global DNA methylation profiling, and single nucleotide polymorphism-based detection of loss of heterozygosity to identify modifiers of metastatic risk. A candidate gene, leucine zipper tumor suppressor-1 (LZTS1), was examined for its effect on proliferation, migration, and motility in cultured uveal melanoma cells. RESULTS: In metastasizing primary uveal melanomas, deletion of chromosome 8p12-22 and DNA hypermethylation of the corresponding region of the retained hemizygous 8p allele were associated with more rapid metastasis. Among the 11 genes located within the deleted region, LZTS1 was most strongly linked to rapid metastasis. LZTS1 was silenced in rapidly metastasizing and metastatic uveal melanomas but not in slowly metastasizing and nonmetastasizing uveal melanomas. Forced expression of LZTS1 in metastasizing uveal melanoma cells inhibited their motility and invasion, whereas depletion of LZTS1 increased their motility. CONCLUSIONS: We have described a metastatic modifier locus on chromosome 8p and identified LZTS1 as a potential metastasis suppressor within this region. This study shows the utility of integrative genomic methods for identifying modifiers of metastatic risk in human cancers and may suggest new therapeutic targets in metastasizing tumor cells.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2315,6 +2382,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2376,6 +2444,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2451,6 +2520,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2469,6 +2539,7 @@
                 "text": "Molecular allelokaryotyping of early-stage, untreated chronic lymphocytic leukemia.\nBACKGROUND: To the authors' knowledge, genetic abnormalities in early-stage chronic lymphocytic leukemia (CLL) have not been examined fully. Single nucleotide polymorphism (SNP) genomic array (SNP-chip) is a new tool that can detect copy number changes and uniparental disomy (UPD) over the entire genome with very high resolution. METHODS: The authors performed SNP-chip analysis on 56 samples from patients with early-stage, untreated CLL. To validate the SNP-chip data, fluorescence in situ hybridization (FISH) analysis was performed at selected sites. Expression levels of ZAP-70 and the mutational status of immunoglobulin heavy-chain gene also were examined. RESULTS: SNP-chip analysis easily detected nearly all changes that were identified by FISH, including trisomy 12, deletion of TP53 (17p13), deletion of ATM (11q22), and deletion of 13q14. Only 10 of 56 CLL samples (18%) had no genomic abnormalities. Excluding the 4 common abnormalities mentioned above, 25 CLL samples (45%) had a total of 45 copy number changes detected by SNP-chip analysis. Four samples had 6q deletion at 6q21 that involved the AIM1 gene. UPD was detected in 4 samples; 2 samples involved whole chromosome 13 resulting in homozygous deletion of micro-RNA-15a (miR-15a)/miR-16-1. CLL samples with deletion of 13q14 and trisomy 12 were mutually exclusive. CONCLUSIONS: Genetic abnormalities, including whole chromosome 13 UPD, are very common events in early-stage CLL. SNP-chip analysis can detect small genetic abnormalities in CLL and may be able to support or even supplant FISH and cytogenetics.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2487,6 +2558,7 @@
                 "text": "No association with risk for colorectal cancer of the insertion/deletion polymorphism which affects levels of angiotensin-converting enzyme.\nBACKGROUND: In the light of the established association of angiotensin-converting enzyme (ACE) with several types of cancer, the possible contribution of the insertion/deletion (I/D) polymorphism that affects ACE gene expression, in the development of colorectal cancer was investigated. MATERIALS AND METHODS: DNA samples of 92 patients with colorectal cancer (adenocarcinomas) and 102 healthy controls were examined by allele-specific polymerase chain reaction followed by electrophoretic analysis. The resulting allele and genotype frequencies of the patients were compared to those of the controls by Fischer's exact test and odds ratios. RESULTS: No statistical differences were observed between healthy controls and patients with colorectal cancer regarding either genotype distribution or low expression I allele frequency. CONCLUSION: The ACE I/D polymorphism is not a genetic predisposing factor concerning the risk for colorectal cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2548,6 +2620,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2581,6 +2654,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2656,6 +2730,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2689,6 +2764,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2750,6 +2826,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2783,6 +2860,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2830,6 +2908,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2848,6 +2927,7 @@
                 "text": "Characterization of the BMPR2 5'-untranslated region and a novel mutation in pulmonary hypertension.\nRATIONALE: Familial pulmonary arterial hypertension results from heterozygous inactivating mutations of the BMPR2 gene. Traditional mutation analysis identifies pathogenic mutations in some 70% of linked families. We hypothesized that the apparent shortfall is due to mutations located in the promoter region of the gene, resulting in abnormal gene regulation. OBJECTIVES: To identify mutations in untranslated sequence regulating BMPR2 transcription. METHODS: DNA upstream of the coding region was analyzed by direct sequencing in 16 families. Reverse transcription-polymerase chain reaction analysis and rapid amplification of cDNA ends of normal human lung RNA were used to investigate transcription of this region. Transcript levels were assessed by allele-specific expression analysis and inhibition of nonsense-mediated decay in lymphoblastoid cell lines. MEASUREMENTS AND MAIN RESULTS: The wild-type transcriptional start site of BMPR2 was defined, 1,148 bp upstream of the ATG. Within this region, we identified a double-substitution mutation, predicted to form a cryptic translational start site, in one family. The mutant transcript contains a premature stop codon predicted to trigger nonsense-mediated decay. Expression analysis in the patient's cell line indeed showed reduced expression of the mutant transcript that could be restored to normal by inhibiting nonsense-mediated decay. CONCLUSIONS: Activation of a cryptic translation initiation site is a novel mutational mechanism in this disorder. These results demonstrate that the 5'-untranslated region of BMPR2 is considerably longer than previously thought, emphasizing the need to fully characterize the BMPR2 promoter and the importance of analyzing noncoding regions in patients with pulmonary arterial hypertension who are negative for mutations within the coding region and intron-exon junctions.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2888,6 +2968,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -2963,6 +3044,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3003,6 +3085,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3021,6 +3104,7 @@
                 "text": "Angiotensin converting enzyme gene polymorphisms do not predict the course of idiopathic nephrotic syndrome in Swiss children.\nAIM: Contradictory reports exist about a correlation of angiotensin I converting enzyme (ACE) gene polymorphisms to the outcome of idiopathic nephrotic syndrome (INS) in children. We investigated the frequency of ACE polymorphisms and their impact on the clinical course of INS in children in a Swiss hospital. METHODS: The ACE gene polymorphism (I, insertion; D, deletion) was assessed in 32 children - 22 with steroid-sensitive INS and 10 with steroid-resistant INS - with a median age at onset of INS of 2.9 years (range 1.1-15.0). Polymerase chain reaction amplification was performed on genomic DNA isolated from blood leucocytes. Results were correlated to clinical course and renal morphology. RESULTS: The ACE genotype was I/I, I/D and D/D in two, 12 and eight patients, respectively, with steroid-sensitive INS, and in one, eight and one patient, respectively, with steroid resistance. Renal morphology, available in 25 patients showed minimal change glomerulopathy in 17 patients (14 steroid-sensitive; three steroid-resistant) and focal segmental glomerulosclerosis in eight (one steroid-sensitive; seven steroid-resistant). There was no significant correlation between ACE genotype and steroid responsiveness, histology or outcome. ACE genotype was I/I, I/D and D/D in none, 12 and five patients, respectively, with minimal change glomerulopathy, and in one, five and two patients, respectively, with focal segmental glomerulosclerosis. Six patients with steroid-resistant nephrotic syndrome went into end stage renal disease; ACE genotype was I/I in one and I/D in five, but none were D/D. CONCLUSION: In contrast to previous reports, ACE gene polymorphism is irrelevant for clinical outcome, steroid responsiveness or morphology in Swiss children with INS.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3075,6 +3159,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3093,6 +3178,7 @@
                 "text": "Severe beta(0) thalassemia/hemoglobin E disease caused by de novo 22-base pair duplication in the paternal allele of beta globin gene.\nbeta Thalassemia is a major public health concern in Southeast Asia. A prevention program has been implemented in Thailand comprising mass carrier screening and genetic testing. In this study, a Thai girl with severe beta thalassemia/hemoglobin (Hb) E disease was born from the mother with Hb E trait and the genotypically normal father. DNA sequencing revealed novel 22-bp tandem duplication in the paternal allele of beta globin gene, producing a severely truncated product. A short recurring nucleotide at the insertion site suggested a predisposition to this mutation. Therefore, spontaneous beta globin mutations occasionally occur in normal population. Its clinical significance is noteworthy in countries with high prevalence of beta thalassemia.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3111,6 +3197,7 @@
                 "text": "Quantitative analysis of CAPN3 transcripts in LGMD2A patients: involvement of nonsense-mediated mRNA decay.\nLimb girdle muscular dystrophy type 2A (LGMD2A) is caused by single or small nucleotide changes widespread along the CAPN3 gene, which encodes the muscle-specific proteolytic enzyme calpain-3. About 356 unique allelic variants of CAPN3 have been identified to date. We performed analysis of the CAPN3 gene in LGMD2A patients at both the mRNA level using reverse transcription-PCR, and at the DNA level using PCR and denaturing high performance liquid chromatography. In four patients, we detected homozygous occurrence of a missense mutation or an in-frame deletion at the mRNA level although the DNA was heterozygous for this mutation in conjunction with a frame-shift mutation. The relationship observed in 12 patients between the quantity of CAPN3 mRNA, determined using real-time PCR, and the genotype leads us to propose that CAPN3 mRNAs which contain frame-shift mutations are degraded by nonsense-mediated mRNA decay. Our results illustrate the importance of DNA analysis for reliable establishment of mutation status, and provide a new insight into the process of mRNA decay in cells of LGMD2A patients.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3144,6 +3231,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3162,6 +3250,7 @@
                 "text": "Analysis of skin cancer risk factors in immunosuppressed renal transplant patients shows high levels of UV-specific tandem CC to TT mutations of the p53 gene.\nImmunosuppressed renal transplant recipients (RTRs) are predisposed to non-melanoma skin cancers (NMSCs), predominantly squamous cell carcinomas (SCCs). We have analyzed skin lesions from RTRs with aggressive tumors for p53 gene modifications, the presence of Human Papillomas Virus (HPV) DNA in relation to the p53 codon 72 genotype and polymorphisms of the XPD repair gene. We detected 24 p53 mutations in 15/25 (60%) NMSCs, 1 deletion and 23 base substitutions, the majority (78%) being UV-specific C to T transitions at bipyrimidine sites. Importantly, 35% (6/17) are tandem mutations, including 4 UV signature CC to TT transitions possibly linked to modulated DNA repair caused by the immunosuppressive drug cyclosporin A (CsA). We found 8 p53 mutations in 7/17 (41%) precancerous actinic keratosis (AK), suggesting that p53 mutations are early events in RTR skin carcinogenesis. Immunohistochemical analysis shows a good correlation between p53 accumulation and mutations. HPV DNA was detected in 78% of skin lesions (60% Basal Cell Carcinomas, 82%AK and 79% SCCs). Thus, immunosuppression has increased the risk of infections by HPVs, predominantly epidermodysplasia verruciformis, speculated to play a role in skin cancer development. No association is found between HPV status and p53 mutation. Moreover, p53 codon 72 or frequencies of three XPD genotypes of RTRs are comparable with control populations. The p53 mutation spectrum, presenting a high level of CC to TT mutations, shows that the UV component of sunlight is the major risk factor and modulated DNA repair by immunosuppressive drug treatment may be significant in the skin carcinogenesis of RTRs.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3209,6 +3298,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3235,6 +3325,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3275,6 +3366,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3293,6 +3385,7 @@
                 "text": "16q-linked autosomal dominant cerebellar ataxia: a clinical and genetic study.\nThe autosomal dominant cerebellar ataxias (ADCAs) comprise a genetically and clinically heterogenous group of neurodegenerative disorders. Very recently, a C-to-T single nucleotide substitution in the puratrophin-1 gene was found to be strongly associated with a form of ADCA linked to chromosome 16q22.1 (16q-linked ADCA; OMIM 600223). We found the C-to-T substitution in the puratrophin-1 gene in 20 patients with ataxia (16 heterozygotes and four homozygotes) and four asymptomatic carriers in 9 of 24 families with an unknown type of ADCA. We also found two cases with 16q-linked ADCA among 43 sporadic patients with late-onset cortical cerebellar atrophy (LCCA). The mean age at onset in the 22 patients was 61.8 years, and that of homozygous patients was lower than that of heterozygous ones in one family. Neurological examination revealed that the majority of our patients showed exaggerated deep tendon reflexes in addition to the cardinal symptom of cerebellar ataxia (100%), and 37.5% of them had sensorineural hearing impairment, whereas sensory axonal neuropathy was absent. The frequency of 16q-linked ADCA was about 1/10 of our series of 110 ADCA families, making it the third most frequent ADCA in Japan.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3333,6 +3426,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3373,6 +3467,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3406,6 +3501,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3424,6 +3520,7 @@
                 "text": "Loss of p16 (INK4A) expression is associated with allelic imbalance/loss of heterozygosity of chromosome 9p21 in microdissected malignant peripheral nerve sheath tumors.\nThe p16 is a tumor suppressor gene on the short arm of chromosome 9p21. The product of the p16 acts as a negative cell cycle regulator by inhibiting G1 cyclin-dependent kinases that phosphorylate the retinoblastoma protein. This study was designed to assess the frequency of genetic loss of 9p21 and to determine the role of p16 the pathogenesis of sporadic and neurofibromatosis 1 (NF1)-associated malignant peripheral nerve sheath tumors (MPNSTs). The authors examined 15 cases for p16 protein expression and 10 cases for allelic imbalance (AI)/loss of heterozygosity (LOH) of chromosome 9p. DNA was microdissected from normal and neoplastic tissues. AI/LOH analysis was performed using six microsatellite markers on the 9p region. On immunohistochemical analysis 80% of cases showed abnormal expression of p16. Similarly, 8 of 10 cases revealed genetic loss with at least one microsatellite marker. The most frequent deletion was that within the coding sequence. Of p16 at me D9S974 locus. These findings emphasize the role of loss of p16 in the development of both sporadic and NF1-associated MPNSTs.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3527,6 +3624,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3545,6 +3643,7 @@
                 "text": "Epstein-Barr virus infection in precursor lesions of nasopharyngeal carcinoma.\nBACKGROUND _#38; OBJECTIVE: The infiltrating neoplastic cells within early-stage nasopharyngeal carcinoma (NPC) are consistently infected with Epstein-Barr virus (EBV). The precursor lesions could often be found in paracancerous epithelium of early-stage NPC. This study was to investigate the role of EBV infection and the intrahost evolution of EBV genotype developed in nasopharyngeal carcinogenesis through detection of EBV harboring in precursor lesions. METHODS: EBV-encoded RNA (EBER) in 15 cases of early-stage NPC biopsy tissue was detected by nucleic acid in situ hybridization. EBV type and latent membrane protein 1 (LMP1) EBV strain in precursor lesions and carcinoma nests were detected by nested polymerase chain reaction (PCR). DNA sequencing of the representative PCR products of carboxyl-terminus of LMP1 gene was analyzed by using four-colored fluorescence terminator sequencing technique. RESULTS: Most infiltrating carcinoma cells of all 15 cases of NPC showed EBER-positive. EBER-positive abnormal epithelial cells and/or infiltrating lymphocytes were found in 14 of 15 cases of precursor lesion. Single A-type EBV was detected in 9 of 11 available DNA samples of carcinoma nest and 9 of 10 available DNA samples of precursor lesion. The carboxyl-terminus of EBV LMP1 gene was detected in all 15 DNA samples of carcinoma nest, among which 14 were single 30-bp deleted LMP1 (del-LMP1) EBV infection and 1 was coinfection of wild-type LMP1 (wt-LMP1) EBV strain and del-LMP1 EBV strain. Among the 11 available DNA samples of precursor lesion suitable for carboxyl-terminus amplification, 5 were coinfection of wt-LMP1 and del-LMP1 EBV, 4 were single del-LMP1 EBV infection, 1 was single wt-LMP1 EBV infection, and 1 showed negative reaction. The DNA sequence of the carboxyl-terminus of wt-LMP1 gene was identical with that of B95-8 cells, while that of del-LMP1 gene had a 30-bp deletion (codon: 346-355) and 4 missense point mutations (codon: 334, 335, 338, and 366). CONCLUSION: EBV infection in nasopharyngeal epithelial cells is a preinvasive event of carcinogenesis of NPC, and the intrahost evolution of EBV genotype would take place during nasopharyngeal carcinogenesis.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3563,6 +3662,7 @@
                 "text": "A juvenile hemochromatosis patient homozygous for a novel deletion of cDNA nucleotide 81 of hemojuvelin.\nBACKGROUND: A 25-year-old woman of English/Irish background was diagnosed with hemochromatosis. She manifested hypogonadotrophic hypogonadism and congestive heart failure. Although there were abnormal liver function tests, no cirrhosis was present. The patient has been treated intermittently by phlebotomy for 24 years. The aim of this study was to investigate the genetic basis of the patient's iron overload disease. METHODS: Genetic analysis was performed by direct sequencing of the genes for hemojuvelin, HFE, hepcidin, ferroportin and transferrin receptor 2. RESULTS AND CONCLUSIONS: Molecular analysis showed that the patient was homozygous for a previously undescribed mutation of HJV, the gene encoding hemojuvelin. This mutation, nt 81G deletion, causes a frameshift encoding 23 additional irrelevant amino acids and premature termination. No mutations were found in the other hemochromatosis genes, hepcidin, HFE, ferroportin or transferrin receptor 2, which might have contributed to her iron overload.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3581,6 +3681,7 @@
                 "text": "Homozygous deletion and reduced expression of the DOCK8 gene in human lung cancer.\nA homozygous deletion of the DOCK8 (dedicator of cytokinesis 8) locus at chromosome 9p24 was found in a lung cancer cell line by array-CGH analysis. Cloning of the full-length DOCK8 cDNA led us to define that the DOCK8 gene encodes a protein consisting of 2,099 amino acids. DOCK8 was expressed in a variety of human organs, including the lungs, and was also expressed in type II alveolar, bronchiolar epithelial and bronchial epithelial cells, which are considered as being progenitors for lung cancer cells. DOCK8 expression was reduced in 62/71 (87%) primary lung cancers compared with normal lung tissue, and the reduction occurred irrespective of the histological type of lung cancer. 5-Aza-2'-deoxy-cytidine and/or Trichostatin A treatments induced DOCK8 expression in lung cancer cell lines with reduced DOCK8 expression. Therefore, epigenetic mechanisms, including DNA methylation and histone deacetylation, were indicated to be involved in DOCK8 down-regulation in lung cancer cells. Further screening revealed homozygous deletions of the DOCK8 gene in a gastric and a breast cancer cell line. DOCK family proteins have been shown to play roles in regulation of migration, morphology, adhesion and growth of cells. Thus, the present results suggest that genetic and epigenetic inactivation of DOCK8 is involved in the development and/or progression of lung and other cancers by disturbing such regulations.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3599,6 +3700,7 @@
                 "text": "Inactivating mutations in ESCO2 cause SC phocomelia and Roberts syndrome: no phenotype-genotype correlation.\nThe rare, autosomal recessive Roberts syndrome (RBS) is characterized by tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency. SC phocomelia (SC) has a milder phenotype, with a lesser degree of limb reduction and with survival to adulthood. Since heterochromatin repulsion (HR) is characteristic for both disorders and is not complemented in somatic-cell hybrids, it has been hypothesized that the disorders are allelic. Recently, mutations in ESCO2 (establishment of cohesion 1 homolog 2) on 8p21.1 have been reported in RBS. To determine whether ESCO2 mutations are also responsible for SC, we studied three families with SC and two families in which variable degrees of limb and craniofacial abnormalities, detected by fetal ultrasound, led to pregnancy terminations. All cases were positive for HR. We identified seven novel mutations in exons 3-8 of ESCO2. In two families, affected individuals were homozygous--for a 5-nucleotide deletion in one family and a splice-site mutation in the other. In three nonconsanguineous families, probands were compound heterozygous for a single-nucleotide insertion or deletion, a nonsense mutation, or a splice-site mutation. Abnormal splice products were characterized at the RNA level. Since only protein-truncating mutations were identified, regardless of clinical severity, we conclude that genotype does not predict phenotype. Having established that RBS and SC are caused by mutations in the same gene, we delineated the clinical phenotype of the tetraphocomelia spectrum that is associated with HR and ESCO2 mutations and differentiated it from other types of phocomelia that are negative for HR.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3617,6 +3719,7 @@
                 "text": "Polymerase chain reaction-based analysis using deaminated DNA of dodecamer expansions in CSTB, associated with Unverricht-Lundborg myoclonus epilepsy.\nProgressive myoclonus epilepsy of the Unverricht-Lundborg type is an autosomal recessive disorder that is characterized clinically by myoclonic seizures and ataxia. The majority of affected individuals carry repeat expansions of a dodecamer in the promoter region of the cystatin B gene. The unusually high GC content of this tract is refractory to conventional polymerase chain reaction (PCR), and, as a result, a circumventive procedure involving the deamination of DNA with sodium bisulfite has been proposed. This study evaluates the effectiveness of this deamination modification for the detection of dodecamer repeat variants. An analysis of 258 healthy Japanese individuals revealed an allele with four copies of the dodecamer repeat with a frequency of 0.01, in addition to the more commonly observed two and three copy repeat alleles. Homozygous repeat expansions 600 and 680 base pairs in length were detected in the analyses of two affected individuals. For these cases, sequencing, along with an alternative PCR-stutter formation, revealed 41 and 48 copies, respectively, of the dodecamer repeat. The complete conversion of C to T was observed in the expanded tracts, indicating that no methylation occurred at the CpG sites. Based on these results, it was concluded that the use of deaminated DNA allows for a precise analysis of consecutive GC tracts.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3635,6 +3738,7 @@
                 "text": "Distribution of insertion- and deletion-associated genetic polymorphisms among four Mycobacterium tuberculosis phospholipase C genes and associations with extrathoracic tuberculosis: a population-based study.\nThe Mycobacterium tuberculosis genome contains four phospholipase C (PLC)-encoding genes, designated plcA, plcB, plcC, and plcD, respectively. Each of the four genes contributes to the overall PLC activity of M. tuberculosis. PLC is hypothesized to contribute to M. tuberculosis virulence. Infection of M. tuberculosis strains carrying a truncated plcD gene is associated with the occurrence of extrathoracic tuberculosis. However, whether the other three plc genes are also associated with extrathoracic tuberculosis remains to be assessed. We investigated the insertion- and deletion-associated genetic diversity in all four plc genes among 682 epidemiologically and clinically well-characterized M. tuberculosis clinical isolates using PCR, DNA sequencing, and Southern hybridization. Two hundred sixty-six (39%) of the 682 isolates had an interruption in at least one of the four plc genes, most often associated with an IS6110 insertion. The plcD gene interruption was the most common: it was observed in 233 (34%) of the isolates, compared to 4.7%, 4.1%, and 5.9% for plcA, plcB, and plcC gene interruption, respectively. The association between the plc gene genotypes and disease presentation was adjusted for clustering using generalized estimating equations for both bivariate and multivariate analyses. After controlling for the genotypes of the plcABC genes and the host-related risk factors, interruption in the plcD gene remained significantly associated with extrathoracic tuberculosis (odds ratio, 3.27; 95% confidence interval, 1.32 to 8.14). The data suggest that the plcD gene might play a more important role in the pathogenesis of thoracic TB than it does in the pathogenesis of extrathoracic TB.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3653,6 +3757,7 @@
                 "text": "Array-based comparative genomic hybridization analysis reveals recurrent chromosomal alterations and prognostic parameters in primary cutaneous large B-cell lymphoma.\nPURPOSE: To evaluate the clinical relevance of genomic aberrations in primary cutaneous large B-cell lymphoma (PCLBCL). PATIENTS AND METHODS: Skin biopsy samples of 31 patients with a PCLBCL classified as either primary cutaneous follicle center lymphoma (PCFCL; n = 19) or PCLBCL, leg type (n = 12), according to the WHO-European Organisation for Research and Treatment of Cancer (EORTC) classification, were investigated using array-based comparative genomic hybridization, fluorescence in situ hybridization (FISH), and examination of promoter hypermethylation. RESULTS: The most recurrent alterations in PCFCL were high-level DNA amplifications at 2p16.1 (63%) and deletion of chromosome 14q32.33 (68%). FISH analysis confirmed c-REL amplification in patients with gains at 2p16.1. In PCLBCL, leg type, most prominent aberrations were a high-level DNA amplification of 18q21.31-q21.33 (67%), including the BCL-2 and MALT1 genes as confirmed by FISH, and deletions of a small region within 9p21.3 containing the CDKN2A, CDKN2B, and NSG-x genes. Homozygous deletion of 9p21.3 was detected in five of 12 patients with PCLBCL, leg type, but in zero of 19 patients with PCFCL. Complete methylation of the promoter region of the CDKN2A gene was demonstrated in one PCLBCL, leg type, patient with hemizygous deletion, in one patient without deletion, but in zero of 19 patients with PCFCL. Seven of seven PCLBCL, leg type, patients with deletion of 9p21.3 and/or complete methylation of CDKN2A died as a result of their lymphoma. CONCLUSION: Our results demonstrate prominent differences in chromosomal alterations between PCFCL and PCLBCL, leg type, that support their classification as separate entities within the WHO-EORTC scheme. Inactivation of CDKN2A by either deletion or methylation of its promoter could be an important prognostic parameter for the group of PCLBCL, leg type.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3812,6 +3917,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3887,6 +3993,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -3920,6 +4027,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4009,6 +4117,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4035,6 +4144,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4068,6 +4178,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4115,6 +4226,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4141,6 +4253,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4167,6 +4280,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4185,6 +4299,7 @@
                 "text": "Screening for exonic copy number mutations at MSH2 and MLH1 by MAPH.\nBACKGROUND: Exonic deletions in MSH2 and MLH1 are significant contributors to the mutation spectrum in HNPCC, and heterozygous changes in exon copy number are not detected by conventional mutation screening methods. AIMS: We aimed to develop methods for screening copy number changes in all the exons of the MLH1 and MSH2 genes using a single multiplex amplifiable probe hybridisation (MAPH) assay. METHODS: We developed a probe set consisting of probes from the 19 exons of MLH1 and 16 exons of MSH2, and 3 control probes, and applied it to screening for deletions and duplications using fluorescent detection of amplified fragments. RESULTS: We tested 73 DNA samples from controls and 50 from HNPCC patients in whom no point mutations had been found, and detected 10 copy number changes among the patient samples. A deletion of about 1.4 kb including exon 3 of MSH2 was confirmed by amplification of a junction fragment, and was shown to be the result of an unequal recombination between intronic Alu elements. CONCLUSIONS: MAPH can detect exonic copy number changes in MLH1 and MSH2 in DNA from HNPCC patients. Since finding an exonic deletion or duplication makes full sequence analysis unnecessary, it may be most cost-effective to pre-screen samples by MAPH or MLPA before screening for point mutations.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4203,6 +4318,7 @@
                 "text": "Detection of a new 3-base pair insertion mutation in the protease gene of human immunodeficiency virus type 1 during highly active antiretroviral therapy (HAART).\nTo investigate a new insertion mutation in the protease (PR) gene of human immunodeficiency virus type 1 (HIV-1) in a patient extensively pretreated with antiretroviral drugs, genotypic analyses of plasma-derived viruses were performed by sequencing segments of 1302 nucleotides in the pol gene of HIV-1. Despite optimal compliance to highly active antiretroviral therapy (HAART) the patient showed poor virological success. Nucleotide sequences of retrospective available plasma samples exhibited a previously unknown 3-bp insertion mutation, corresponding to a leucine, between codons 31 and 32 of the PR gene. This kind of mutation appears to be very rare and it does not seem to be associated with any phenotypic resistance profile known so far. It should be noted that the insert mutation, once it appeared, did not revert to the wild-type variant, suggesting that it seems to correspond to a better fitness of the variant viruses.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4348,6 +4464,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4388,6 +4505,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4449,6 +4567,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4475,6 +4594,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4508,6 +4628,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4526,6 +4647,7 @@
                 "text": "Sequence variation in G-protein-coupled receptors: analysis of single nucleotide polymorphisms.\nWe assessed the disease-causing potential of single nucleotide polymorphisms (SNPs) based on a simple set of sequence-based features. We focused on SNPs from the dbSNP database in G-protein-coupled receptors (GPCRs), a large class of important transmembrane (TM) proteins. Apart from the location of the SNP in the protein, we evaluated the predictive power of three major classes of features to differentiate between disease-causing mutations and neutral changes: (i) properties derived from amino-acid scales, such as volume and hydrophobicity; (ii) position-specific phylogenetic features reflecting evolutionary conservation, such as normalized site entropy, residue frequency and SIFT score; and (iii) substitution-matrix scores, such as those derived from the BLOSUM62, GRANTHAM and PHAT matrices. We validated our approach using a control dataset consisting of known disease-causing mutations and neutral variations. Logistic regression analyses indicated that position-specific phylogenetic features that describe the conservation of an amino acid at a specific site are the best discriminators of disease mutations versus neutral variations, and integration of all our features improves discrimination power. Overall, we identify 115 SNPs in GPCRs from dbSNP that are likely to be associated with disease and thus are good candidates for genotyping in association studies.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4706,6 +4828,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4724,6 +4847,7 @@
                 "text": "Common dihydrofolate reductase 19-base pair deletion allele: a novel risk factor for preterm delivery.\nBACKGROUND: Folate is critical for cell division, a major feature of in utero development. Dihydrofolate reductase (DHFR) is required to convert the folic acid used in supplements and for food fortification and the dihydrofolate produced by thymidylate synthase during DNA synthesis to the reduced folate forms used by the cell. OBJECTIVE: We aimed to determine whether a common, recently discovered deletion polymorphism in the DHFR gene is a risk factor for preterm delivery or low birth weight. DESIGN: We studied 324 pregnant women from Camden, NJ. Folate intake was computed from folate supplement intake plus the mean of two 24-h recalls completed during the course of pregnancy. Genomic DNA was extracted from the women's leukocytes and genotyped. RESULTS: Women with a deletion allele had a significantly greater risk of preterm delivery [adjusted odds ratio (AOR): 3.0; 95% CI: 1.0, 8.8; P < 0.05] than did those without a deletion allele. Women with both a DHFR deletion allele and low folate intake (<400 microg/d from diet plus supplements) had a significantly greater risk of preterm delivery (AOR: 5.5; 95% CI: 1.5, 20.4; P = 0.01) and a significantly greater risk of having an infant with a low birth weight (AOR: 8.3; 95% CI: 1.8, 38.6; P = 0.01) than did women without a deletion allele and with a folate intake >/=400 microg/d. CONCLUSIONS: The DHFR 19-base pair deletion allele may be a risk factor for preterm delivery. In the presence of low dietary folate, the allele may also be a risk factor for low birth weight. This may be a gene-environment interaction.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4806,6 +4930,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4909,6 +5034,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4927,6 +5053,7 @@
                 "text": "Association between SLC11A1 (formerly NRAMP1) and the risk of sarcoidosis in Poland.\nSarcoidosis (SA) is a systemic granulomatous disorder of unknown etiology characterized by T helper 1-type inflammatory responses at sites of disease with signs of B cell hyperactivity. Like rheumatoid arthritis and diabetes, an infectious etiology has frequently been postulated but no single infectious trigger definitively identified. Polymorphic alleles at SLC11A1 have previously been associated with susceptibility to both the putative infectious agents and to these autoimmune disorders. We therefore investigated its candidacy as a genetic determinant of SA in Poland in an association-based study comparing 86 SA patients with 85 tuberculosis (TB) patients and 93 control subjects. The functional promoter (GT)(n) polymorphism and four of 10 other single nucleotide or insertion/deletion polymorphisms genotyped across SLC11A1 were informative in our sample. Consistent with previous autoimmune disease studies, allele 3 at the functional (GT)(n) promoter region repeat polymorphism was significantly associated with SA when compared with healthy controls (odds ratio 1.68; 95% CI: 1.01-2.81; P=0.04) or with TB patients (odds ratio 1.69; 95% CI: 1.042-0.78; P=0.03).\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4945,6 +5072,7 @@
                 "text": "Mutation scanning of the NF2 gene: an improved service based on meta-PCR/sequencing, dosage analysis, and loss of heterozygosity analysis.\nWe describe the development and implementation of a neurofibromatosis type 2 (NF2) mutation scanning service based on novel techniques. All 17 exons of the NF2 gene are amplified in four polymerase chain reaction (PCR) reactions, using the meta-PCR technique to link the NF2 exons into chimeric concatamers. The meta-PCR products are then scanned for point mutations by direct sequencing. A four-exon dosage assay is used to test for large deletion/duplication mutations. In certain cases when tumour studies are necessary, these techniques are also combined with loss of heterozygosity analysis with three highly polymorphic microsatellite markers located within or close to the NF2 gene. Over a period of 2 years, we have applied these techniques in a service setting to the analysis of 271 patient samples (245 lymphocyte DNA; 26 schwannoma DNA). Meta-PCR and sequencing identified 90 point mutations in the 271 blood and tumor samples, 48 of which have not been reported previously. Dosage analysis identified large deletions in 12 of the lymphocyte DNA samples. In addition, over 84% of mutations were identified in 23 schwannoma DNA samples in which complete analysis was possible. Adoption of this novel strategy has increased the overall mutation detection rate in familial NF2 cases to 88% and sporadic NF2 cases to 59%. It has also allowed us to decrease our reporting turnaround times, and because of a low overall failure rate, permitted the running of an efficient and cost-effective service.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -4971,6 +5099,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5032,6 +5161,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5079,6 +5209,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5097,6 +5228,7 @@
                 "text": "Matrix metalloproteinase 1 gene polymorphism as a prognostic predictor of invasive cervical cancer.\nOBJECTIVES: Whereas human papillomavirus (HPV) infection is the major determinant of cervical carcinogenesis, host genetic factors may confer individual susceptibility and prognosis. Matrix metalloproteinase 1 (MMP-1) is an important modulator of carcinogenesis. A guanine insertion (2G) polymorphism at nucleotide -1607 of the MMP-1 gene promoter creates an Ets-1-binding site, which increases transcription activity. The present study investigates the association between MMP-1 polymorphism and cervical neoplasia, and their prognostic significance. METHODS: In this study, the MMP-1 polymorphism was assessed in 135 high-grade squamous intraepithelial lesions (HSILs) and 197 invasive squamous cell carcinomas (SCCs), and in age-matched controls, by capillary electrophoresis. The association of clinicopathological factors and HPV status with MMP-1 genotypes was tested. RESULTS: Frequencies of the 2G allele in HSIL and SCC were 64% and 65%, respectively, which did not differ significantly from control values (66% and 64%, respectively). The 2G allele was associated with advanced stages of disease (P = 0.03), whereas the G allele was more common in patients with regional lymph node metastases (P = 0.02). The survival time in patients with the heterozygous genotype G/2G (median, 55.3 months) was significantly longer than those with either the G/G (50.3 months) or 2G/2G genotype (43.9 months) (P = 0.02). No significant correlation between HPV status and MMP-1 genotype was identified. CONCLUSIONS: The genetic polymorphisms of MMP-1 are not associated with the risk of HSIL and SCC, but with the invasiveness and prognosis of SCC. The heterozygous genotype of MMP-1 can be used as a prognostic marker in patients with invasive cervical cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5115,6 +5247,7 @@
                 "text": "Polymorphic changes in the KAL1 gene: not all of them should be classified as polymorphisms.\nThe KAL1 gene has a closely related nonfunctional pseudogene on the Y chromosome; a high degree of X-Y sequence similarity is observed. Some individuals present a T to C substitution at position 1833 (exon 12). Because this nucleotide differs in the X (thymine) and in the Y (cytosine) chromosome, we investigated if this was truly a polymorphism, or if in some cases the Y sequence had been amplified. The complete sequence of exon 12 of KAL1 was analyzed in 11 Kallmann Syndrome (KS) males, in 50 normal males, in 50 normal females, and in 16 patients with Ullrich-Turner Syndrome (UTS). Nucleotide 1833 was found in a heterozygous or a homozygous state in KS, normal males and normal females; UTS patients were always homozygous. Of the 61 males, 17 were heterozygous, while 11 were TT and 33 were CC. With these observations we can not assure whether these patients present a \"real\" polymorphism. Besides, all males were heterozygous in nucleotides 1678, 1694, 1699, 1708 and 1825, whilst females were homozygous; and in these positions, KAL1 also differs from its pseudogene. These results indicate that we are identifying the X and the Y nucleotide and these variants are not polymorphisms. Sequence variations may be pseudogene products rather than true polymorphisms, so we should always determine if the position where the variation is located differs between KAL1 and its pseudogene, because it has been suggested that the presence of various polymorphisms in affected individuals could be the cause of KS.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5133,6 +5266,7 @@
                 "text": "Treatment of MDS patients with recombinant human erythropoietin and the role of GSTs.\nGlutathione S-transferases (GSTs) are a group of enzymes involved in the detoxification process of carcinogens and other substances. The genes encoding isoenzymes M1 and T1 have \"null\" alleles, which are polymorphic in humans. Our purpose was to examine whether the GSTM1 and GSTT1 homozygous null genotypes have an impact on the response to recombinant human erythropoietin (rhuEpo) treatment in MDS patients. We analyzed lymphocyte DNA samples from 27 patients with all types of myelodysplastic syndromes (MDS) at the time of diagnosis. All patients were scheduled to receive rHuEpo in doses of 150 u/Kg/day for a period of 12 weeks in order to obtain and maintain stable responses. A multiplex polymerase chain reaction (PCR) was used to genotype both GSTM1 and GSTT1 simultaneously, in responders and non-responders to rhuEpo with respect to various pretreatment parameters: haemoglobin, white blood cell count, platelets, serum erythropoietin, transfusion requirements and bone marrow blasts. The data obtained were evaluated by chi2 test and odds ratio were extracted. Twelve out of 27 evaluated patients demonstrated an erythroid response (44%). Nine out of the 12 patients (75%) responding after 12 weeks of treatment had GSTM1 null genotype (OR=3.4). In contrast, only 1 responder (8.3%) was homozygotes of GSTT1 null genotype. Furthermore, no statistically significant difference in the response rate of the different MDS subgroups was observed. Our results suggest that a treatment with rHuEpo may be effective in achieving a stable erythroid response in MDS patients who carry an homozygous deletion of the GSTM1 gene.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5159,6 +5293,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5177,6 +5312,7 @@
                 "text": "High-resolution gene copy number and expression profiling of human chromosome 22 in ovarian carcinomas.\nPrevious low-resolution studies of chromosome 22 in ovarian carcinoma have suggested its involvement in the development of the disease. We report a high-resolution analysis of DNA copy number and gene expression of 22q in 18 ovarian carcinomas using a 22q-specific genomic microarray. We identified aberrations in 67% of the studied tumors, which displayed 3 distinct gene copy number profiles. The majority of the cases (11 of 18) demonstrated heterozygous terminal deletions of various sizes, the smallest of which was 3.5 Mb. The second profile, detected in 3 tumors, revealed the coexistence of heterozygous deletions and different patterns of low-copy-number gain that involved the proximal half of 22q. The latter finding has not been reported previously in ovarian carcinoma. One case displayed a continuous deletion encompassing the entire 22q, consistent with monosomy 22. Furthermore, we compared the results with the available data on these tumors by using cDNA microarrays to define the degree of correlation between abnormalities at the DNA level and variation in mRNA expression. By a comparison with the expression data, we were able to identify 21 deleted genes showing low mRNA levels and 12 amplified genes displaying elevated gene expression, several of which play roles in cell cycle control and the induction of apoptosis. Our results indicated significant correlation between DNA copy number aberrations and variation in mRNA expression. We also identified several regions and candidate genes on 22q that should be studied further to determine their role in the development of ovarian cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5224,6 +5360,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5250,6 +5387,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5332,6 +5470,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5350,6 +5489,7 @@
                 "text": "Breast cancer risk associated with genotype polymorphism of the catechol estrogen-metabolizing genes: a multigenic study on cancer susceptibility.\nEstrogen has been suggested to trigger breast cancer development via an initiating mechanism involving its metabolite, catechol estrogen (CE). To examine this hypothesis, we carried out a multigenic case-control study of 469 incident breast cancer patients and 740 healthy controls to define the role of important genes involved in the different metabolic steps that protect against the potentially harmful effects of CE metabolism. We studied the 3 genes involved in CE detoxification by conjugation reactions involving methylation (catechol-O-methyltransferase, COMT), sulfation (sulfotransferase 1A1, SULT1A1), or glucuronidation (UDP-glucuronosyltransferase 1A1, UGT1A1), one (manganese superoxide dismutase, MnSOD) involved in protection against reactive oxidative species-mediated oxidation during the conversion of CE-semiquinone (CE-SQ) to CE-quinone (CE-Q), and 2 of the glutathione S-transferase superfamily, GSTM1 and GSTT1, involved in CE-Q metabolism. Support for this hypothesis came from the observations that (i) there was a trend toward an increased risk of breast cancer in women harboring a greater number of putative high-risk genotypes of these genes (p < 0.05); (ii) this association was stronger and more significant in those women who were more susceptible to estrogen [no history of pregnancy or older (> or =26 years) at first full-term pregnancy (FFTP)]; and (iii) the risks associated with having one or more high-risk genotypes were not the same in women having experienced different menarche-to-FFTP intervals, being more significant in women having been exposed to estrogen for a longer period (> or =12 years) before FFTP. Furthermore, because CE-Q can attack DNA, leading to the formation of double-strand breaks (DSB), we examined whether the relationship between cancer risk and the genotypic polymorphism of CE-metabolizing genes was modified by the genotypes of DSB repair genes, and found that a joint effect of CE-metabolizing genes and one of the two DSB repair pathways, the homologous recombination pathway, was significantly associated with breast cancer development. Based on comprehensive CE metabolizing gene profiles, our study provides support to the hypotheses that breast cancer can be initiated by estrogen exposure and that increased estrogen exposure confers a higher risk of breast cancer by causing DSB to DNA.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5453,6 +5593,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5479,6 +5620,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5497,6 +5639,7 @@
                 "text": "Quantitative PCR analysis reveals a high incidence of large intragenic deletions in the FANCA gene in Spanish Fanconi anemia patients.\nFanconi anaemia is an autosomal recessive disease characterized by chromosome fragility, multiple congenital abnormalities, progressive bone marrow failure and a high predisposition to develop malignancies. Most of the Fanconi anaemia patients belong to complementation group FA-A due to mutations in the FANCA gene. This gene contains 43 exons along a 4.3-kb coding sequence with a very heterogeneous mutational spectrum that makes the mutation screening of FANCA a difficult task. In addition, as the FANCA gene is rich in Alu sequences, it was reported that Alu-mediated recombination led to large intragenic deletions that cannot be detected in heterozygous state by conventional PCR, SSCP analysis, or DNA sequencing. To overcome this problem, a method based on quantitative fluorescent multiplex PCR was proposed to detect intragenic deletions in FANCA involving the most frequently deleted exons (exons 5, 11, 17, 21 and 31). Here we apply the proposed method to detect intragenic deletions in 25 Spanish FA-A patients previously assigned to complementation group FA-A by FANCA cDNA retroviral transduction. A total of eight heterozygous deletions involving from one to more than 26 exons were detected. Thus, one third of the patients carried a large intragenic deletion that would have not been detected by conventional methods. These results are in agreement with previously published data and indicate that large intragenic deletions are one of the most frequent mutations leading to Fanconi anaemia. Consequently, this technology should be applied in future studies on FANCA to improve the mutation detection rate.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5515,6 +5658,7 @@
                 "text": "Genetic variants of the extra-large stimulatory Gs protein alpha-subunit and risk of thrombotic and haemorrhagic disorders.\nA polymorphism of the gene encoding the extra-large stimulatory G-protein alpha-subunit (XLalphas), originally identified in three patients with a bleeding tendency, involved a 36-bp insertion and two missense changes. A paternally-inherited insertion displayed a moderate platelet Gsalpha over-expression, which lead to platelet hypo-reactivity. These data prompted us to investigate the genetic, functional and clinical relevance of this polymorphism in the Mediterranean population. We included 414 healthy subjects and three case/control studies: 263 consecutive patients with a first episode of primary intracerebral haemorrhage, 195 patients with deep venous thrombosis, and 104 patients with cerebrovascular disease. Controls were selected by approximating criteria to match selected risk factors to patients. Moreover, we performed studies of platelet function. We developed a simple method to determine the methylated allele, by digestion of genomic DNA with Sma I before polymerase chain reaction amplification. We identified two new rare variants, resulting from the loss of repeat units 7 and 5. The AB genotype was present in 3.6% of healthy population and the prevalence of the B allele was similar among cases and controls. Accordingly, the non-methylated B allele did not modify either the expression of platelet Gsalpha or the platelet response to Gs-agonists. Thus, our study suggests a minor functional role of XLalphas polymorphism in thrombotic or in haemorrhagic disorders.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5562,6 +5706,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5580,6 +5725,7 @@
                 "text": "Nijmegen breakage syndrome in 13% of age-matched Czech children with primary microcephaly.\nThe Nijmegen breakage syndrome is a rare autosomal recessive chromosomal instability disorder characterized by early growth retardation, congenital microcephaly, immunodeficiency, borderline mental development, and a high tendency to lymphoreticular malignancies. Most Nijmegen breakage syndrome patients are of Slavonic origin, and all of them known so far carry a founder homozygous 5 nucleotide deletion in the NBS1 gene. Microcephaly was present in 100% of Nijmegen breakage syndrome patients in a recent large international cooperative study. The frequency of Nijmegen breakage syndrome among children with primary microcephaly was not known. Early correct diagnosis of the syndrome is crucial for appropriate preventive care and therapy. We tested 67 Czech patients of different ages with simple microcephaly for the presence of the most common mutation in the NBS1 gene. Three new Nijmegen breakage syndrome cases were detected in this cohort, representing 4.5% of the cohort. All these newly diagnosed Nijmegen breakage syndrome patients were younger than 10 months at the time of diagnosis. They were all born within a 2.5-year period. Twenty-three of the 67 children in the cohort were born within this 2.5-year period, representing a 13% incidence of Nijmegen breakage syndrome. Frequency of Nijmegen breakage syndrome heterozygotes among infants in the Czech Republic is 1: 130-158 and the birth rate is 90,000 per year, therefore in the time span of 2.5 years, three new Nijmegen breakage syndrome homozygotes are expected to be born. Therefore we assume that by DNA testing of Czech primary microcephalic children it is possible to detect all Nijmegen breakage syndrome patients to be expected. The age at correct diagnosis was lowered from 7.1 years at the time before DNA testing, to well under 1 year of age. All new Nijmegen breakage syndrome patients could receive appropriate preventive care, which should significantly improve their life expectancy and prognosis.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5613,6 +5759,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5681,6 +5828,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5699,6 +5847,7 @@
                 "text": "Deletion and reduced expression of the Fanconi anemia FANCA gene in sporadic acute myeloid leukemia.\nFanconi anemia (FA) is an autosomal recessive chromosomal instability disorder caused by mutations in one of seven known genes (FANCA,C,D2,E,F,G and BRCA2). Mutations in the FANCA gene are the most prevalent, accounting for two-thirds of FA cases. Affected individuals have greatly increased risks of acute myeloid leukemia (AML). This raises the question as to whether inherited or acquired mutations in FA genes might be involved in the development of sporadic AML. Quantitative fluorescent PCR was used to screen archival DNA from sporadic AML cases for FANCA deletions, which account for 40% of FANCA mutations in FA homozygotes. Four heterozygous deletions were found in 101 samples screened, which is 35-fold higher than the expected population frequency for germline FANCA deletions (P<0.0001). Sequencing FANCA in the AML samples with FANCA deletions did not detect mutations in the second allele and there was no evidence of epigenetic silencing by hypermethylation. However, real-time quantitative PCR analysis in these samples showed reduced expression of FANCA compared to nondeleted AML samples and to controls. These findings suggest that gene deletions and reduced expression of FANCA may be involved in the promotion of genetic instability in a subset of cases of sporadic AML.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5717,6 +5866,7 @@
                 "text": "Loss of heterozygosity and internal tandem duplication mutations of the CBP gene are frequent events in human esophageal squamous cell carcinoma.\nPURPOSE: Cyclic AMP response element binding protein binding protein (CBP), a nuclear transcriptional coactivator protein, is an important component of the cAMP signal transduction pathway. In this study, we systematically analyzed the pattern and frequency of CBP gene alterations in esophageal squamous cell carcinoma (ESCC) samples from Linzhou (Linxian), China. Experimental Design: Using microsatellite markers D16S475, D16S2622, and D16S523 within the chromosome 16p13.3 locus flanking the CBP gene, we observed loss of heterozygosity (LOH), microsatellite instability (MSI), or homozygous deletion in 16 of 26 ESCC samples. Additional ESCC samples were analyzed using different sets of microsatellite markers (CS1-CS5) within the introns or in close proximity to the 3' end of the CBP gene. RESULTS: The data showed that CBP gene LOH or MSI occurred in 9 of 19 ESCC samples. A detailed genetic alteration map of the CBP gene showed that an LOH or MSI hot spot occurred within intron 2 of the CBP gene. Furthermore, ESCC samples were investigated for CBP gene mutation by conformation sensitive gel electrophoresis and DNA sequencing. These results revealed that most of the shifted fragments contained internal tandem duplication (ITD), frequently in the regions encoding the histone acetyltransferase domain and COOH-terminal transactivating domain one of the CBP gene. The presence of ITD within the CBP gene was additionally confirmed by Southern blot analysis and sequencing. CONCLUSIONS: These studies show that LOH and ITD of the CBP gene are frequent genetic events in human ESCC. These alterations may have functional importance in the development of human ESCC.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5735,6 +5885,7 @@
                 "text": "Reciprocal crossovers and a positional preference for strand exchange in recombination events resulting in deletion or duplication of chromosome 17p11.2.\nSmith-Magenis syndrome (SMS) is caused by an approximately 4-Mb heterozygous interstitial deletion on chromosome 17p11.2 in approximately 80%-90% of affected patients. Three large ( approximately 200 kb), complex, and highly homologous ( approximately 98%) low-copy repeats (LCRs) are located inside or flanking the SMS common deletion. These repeats, also known as \"SMS-REPs,\" are termed \"distal,\" \"middle,\" and \"proximal.\" The directly oriented distal and proximal copies act as substrates for nonallelic homologous recombination resulting in both the deletion associated with SMS and the reciprocal duplication: dup(17)(p11.2p11.2). Using restriction enzyme cis-morphism analyses and direct sequencing, we mapped the regions of strand exchange in 16 somatic-cell hybrids that harbor only the recombinant SMS-REP. Our studies showed that the sites of crossovers were distributed throughout the region of homology between the distal and proximal SMS-REPs. However, despite approximately 170 kb of high homology, 50% of the recombinant junctions occurred in a 12.0-kb region within the KER gene clusters. DNA sequencing of this hotspot (positional preference for strand exchange) in seven recombinant SMS-REPs narrowed the crossovers to an approximately 8-kb interval. Four of them occurred in a 1,655-bp region rich in polymorphic nucleotides that could potentially reflect frequent gene conversion. For further evaluation of the strand exchange frequency in patients with SMS, novel junction fragments from the recombinant SMS-REPs were identified. As predicted by the reciprocal-recombination model, junction fragments were also identified from this hotspot region in patients with dup(17)(p11.2p11.2), documenting reciprocity of the positional preference for strand exchange. Several potential cis-acting recombination-promoting sequences were identified within the hotspot. It is interesting that we found 2.1-kb AT-rich inverted repeats flanking the proximal and middle KER gene clusters but not the distal one. The role of any or all of these in stimulating double-strand breaks around this positional recombination hotspot remains to be explored.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5753,6 +5904,7 @@
                 "text": "Mutations of the PML tumor suppressor gene in acute promyelocytic leukemia.\nThe promyelocytic leukemia (PML) tumor suppressor of acute promyelocytic leukemia (APL) is essential for a number of proapoptotic and growth-suppressive pathways as well as for the activity of differentiating agents such as retinoic acid (RA). In human APL, the dose of PML is reduced to heterozygosity given that one allele is involved in the chromosomal translocation while the status of the remaining PML allele is unknown. We have therefore used single-strand conformational polymorphism (SSCP) and sequencing analysis to screen DNA from APL patients for mutations at the PML locus. We identified DNA sequence variations resulting in a truncated PML protein in APL cases that displayed RA resistance and a very poor prognosis. Mutation analysis also led to the identification of aberrant PML sequence variations in other hematopoietic malignancies. Complete functional loss of PML is therefore selected by the APL phenotype and associates with poor prognosis and RA unresponsiveness.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5786,6 +5938,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5896,6 +6049,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5914,6 +6068,7 @@
                 "text": "Identification of twelve novel mutations in patients with classic and variant forms of maple syrup urine disease.\nMaple syrup urine disease (MSUD) is an autosomal recessive metabolic disorder of panethnic distribution caused by a deficiency of the activity of branched-chain alpha-ketoacid dehydrogenase (BCKD) complex. Mutations in the human BCKD genes E1alpha (BCKDHA), E1beta (BCKDHB) and E2 (DBT) are known to result in MSUD, referred to as type Ia, Ib and II mutations respectively. In this study 16 patients with the classic severe form of MSUD and three patients with milder variant forms of the disease were investigated for mutations in the E1alpha-, E1beta- and E2-gene by single-strand conformation polymorphism (SSCP) analysis and DNA sequencing. The patients' clinical and biochemical phenotypes were well characterized. One novel type Ia missense mutation, eight novel type Ib (three missense, two nonsense, two small deletions, one small duplication) and three novel type II (two missense, one splice site) mutations were identified in patients. Moreover, eleven previously described mutations were detected: five type Ia (four missense, one nonsense), three type Ib mutations (two missense, one nonsense) and three type II mutations (two missense, one small deletion). Fourteen patients are homozygous for one single mutation, five patients are compound-heterozygous for two different mutations affecting one of the three genes. Thus, in all 19 patients the identified mutations can most probably be considered the molecular basis of the disease.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -5996,6 +6151,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6014,6 +6170,7 @@
                 "text": "Progressive familial intrahepatic cholestasis type 1 and extrahepatic features: no catch-up of stature growth, exacerbation of diarrhea, and appearance of liver steatosis after liver transplantation.\nBACKGROUND/AIMS: Progressive familial intrahepatic cholestasis characterized by normal serum gamma-glutamyltransferase activity can be due to mutations in familial intrahepatic cholestasis type 1 (FIC1) (ATP8B1), a gene expressed in several organs. In some cases, it is associated with extrahepatic features. We searched for FIC1 mutations and analyzed the outcome of extrahepatic features after liver transplantation in two children with this form of progressive familial intrahepatic cholestasis associated with chronic unexplained diarrhea and short stature. METHODS: FIC1 sequence was determined after polymerase chain reaction (PCR) of genomic lymphocyte DNA and/or reverse transcription-PCR of liver or lymphocyte RNA. RESULTS: A homozygous amino acid change deletion was found in one child. The second child harboured compound heterozygous missense and nonsense mutations. In both children, despite successful liver transplantation, evolution (follow-up: 9.5-11 years) was characterized by exacerbation of diarrhea and no catch-up of stature growth, and appearance of liver steatosis. CONCLUSIONS: Progressive familial intrahepatic cholestasis characterized by normal serum gamma-glutamyltransferase activity and extrahepatic features corresponds to progressive familial intrahepatic cholestasis type 1. Extrahepatic symptomatology is not corrected or may be aggravated by liver transplantation, impairing life quality.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6047,6 +6204,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6065,6 +6223,7 @@
                 "text": "Refinement of heterozygosity loss on chromosome 5p15 in sporadic colorectal cancer.\nAIM: To refine the loss of heterozygosity on chromosome 5p15 and to identify the new tumor suppressor gene (s) in colorectal tumorigenesis. METHODS: Sixteen polymorphic microsatellite markers were analyzed on chromosome 5 and another 6 markers were applied on chromosome 5p15 in 83 cases of colorectal and normal DNA by PCR. PCR products were electrophoresed on an ABI 377 DNA sequencer. Genescan 3.1 and Genotype 2.1 software were used for LOH scanning and analysis. RESULTS: We observed 2 distinct regions of frequent allelic deletions on Chromosome 5, at D5S416 on 5p15 and D5S428-D5S410 on 5q. Another 6 polymorphric microsatellite markers were applied to 5p15 and the minimal region of frequent loss of heterozygosity was established on 5p15 spanning the D5S416 locus. CONCLUSION: Through our detailed deletion mapping studies, we have found a critical and precise location of 5p deletions, 5p15.2-5p15.3, which must contain one or more unknown tumor suppressor gene (s) of colorectal cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6105,6 +6264,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6166,6 +6326,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6220,6 +6381,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6238,6 +6400,7 @@
                 "text": "Polymorphism at position -174 of IL-6 gene is associated with susceptibility to chronic periodontitis in a Caucasian Brazilian population.\nBACKGROUND: Interleukin-6 (IL-6) is a multifunctional cytokine that mediates inflammatory tissue destruction. A G to C substitution at position -174 in the promoter of IL-6 gene reduces in vitro transcription of IL-6. This polymorphism has been associated with inflammatory diseases like chronic arthritis. OBJECTIVE: The aim of this study was to investigate the association between the IL-6-174 polymorphism and susceptibility to chronic periodontitis in Brazilians. MATERIAL AND METHODS: Eighty-four nonsmoking subjects over 25 years (mean age 42.4) were divided according to the severity level of periodontal disease: 36 healthy individuals (control group), 24 subjects with moderate and 24 with severe periodontitis. Genomic DNA was obtained from epithelial cells through a mouthwash with 3% glucose and scraping of oral mucosa. The samples were analyzed for IL-6-174 polymorphism using PCR-RFLP. The significance of the differences in the frequencies of the polymorphism in the control and groups with periodontitis was assessed by chi2 test (p<0.05). RESULTS: Differences were found between control and groups with periodontitis in the genotype (p=0.0036, OR=3.0) and in the allele (p=0.0838, OR=1.9) frequencies. CONCLUSION: We concluded that the IL-6-174 polymorphism is associated with susceptibility to chronic periodontitis in the population studied.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6256,6 +6419,7 @@
                 "text": "KLF5 is frequently deleted and down-regulated but rarely mutated in prostate cancer.\nBACKGROUND: Previous studies mapped a region at the q21 band of chromosome 13 (13q21), which is frequently deleted in various human cancers including prostate cancer, suggesting the existence of a tumor suppressor gene at 13q21. The target gene of deletion in prostate cancer, however, has not been identified at present. METHODS: We examined four non-neoplastic and 18 neoplastic prostatic cell lines or xenografts. Homozygous/hemizygous deletion was detected by assays of duplex PCR and real-time PCR. Expression levels of genes were determined by the methods of RT-PCR, real time PCR, and northern blot analysis. Mutations of KLF5 were detected by the approaches of single strand conformational polymorphism (SSCP) and direct sequencing. For the detection of promoter methylation, Southern blotting of genomic DNA and restriction digestion or SSCP analysis of methylation specific PCR products were used. Finally, an expression plasmid of KLF5 was introduced into prostate cancer cell lines with reduced KLF5 expression to investigate colony formation for cell growth. RESULTS: A 2-Mb region of homozygous deletion at 13q21 was detected in the LUCaP70 xenograft of prostate cancer. This region of deletion was further narrowed to 142 Kb by a hemizygous deletion in the NCI-H660 cell line. KLF5 was identified as the only complete gene in the smallest region of deletion. Quantitative deletion of KLF5 genome occurred in six of the 18 (33%) prostate cancer xenografts/cell lines. Each of the six samples with deletion also showed loss of expression for KLF5, suggesting that hemizygous deletion is one mechanism for loss of KLF5 expression. In total, 16 of the 18 cases (89%) showed loss of KLF5 expression at different degrees. In contrast, mutations and promoter methylations were not detected in any of the samples. Functionally, restoration of KLF5 in DU 145 and 22Rv1 cell lines significantly inhibited their growth in vitro. CONCLUSIONS: Frequent genomic deletion and loss of expression as well as cell growth suppression indicate that KLF5 is a reasonable candidate for the tumor suppressor gene at 13q21 in prostate cancer. Mutation and promoter methylation are not common mechanisms for the inactivation of KLF5 in prostate cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6310,6 +6474,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
@@ -6328,6 +6493,7 @@
                 "text": "Total C4B deficiency due to gene deletion and gene conversion in a patient with severe infections.\nDeficiencies of the early components of the classical complement pathway impair the actions of innate and humoral immunity and may lead to increased susceptibility to infections. We have studied the genetic basis of total C4B deficiency in a Finnish patient with recurrent meningitis, chronic fistulas and abscesses. The maternal chromosome carried a four-gene deletion including the C4B gene, and a conversion from C4B to C4A gene was found on the paternal chromosome resulting in complete deficiency of C4B. In the converted C4A gene, mutation screening did not reveal any amino acid changes or prominent mutations, yet a large number of nucleotide variations were found. Further, the patient was heterozygous for structural deficiency of mannan binding lectin (MBL) associating with medium levels of serum MBL. Our data provides new information on the genetic instability of the C4 gene region, and on the association of homozygous C4B deficiency and variant MBL genotype with increased susceptibility to recurrent and chronic infections. Importantly, plasma therapy induced a prompt clinical cure with long-term effects.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": [
                     {
                         "passageOffset": "0",
