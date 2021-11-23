@@ -43,7 +43,6 @@ for path in Path(inFolder).rglob('*.json'):
         text = document["document"]["text"]
         entities = document["document"]["entities"]
         relations = document["document"]["relations"]
-        equivalences = document["document"]["equivalences"]
 
         #1.) Text file
         f = open(outFOlder +folderName  +"/" +id +".txt", "w")
@@ -68,7 +67,6 @@ for path in Path(inFolder).rglob('*.json'):
 
             #Write normalization
             if "dbSNP" in entity:
-                print(folderName)
                 f.write("N")
                 f.write(str(myCounter))
                 myCounter += 1
@@ -94,13 +92,17 @@ for path in Path(inFolder).rglob('*.json'):
             f.write(relation["arg2"])
             f.write("\n")
 
-        for equivalence in equivalences:
-            f.write("*")
-            f.write("\t")
-            f.write(equivalence["arg1"])
-            f.write(" ")
-            f.write(equivalence["arg2"])
-            f.write("\n")
+
+        if "equivalences" in document["document"].keys():
+            equivalences = document["document"]["equivalences"]
+
+            for equivalence in equivalences:
+                f.write("*")
+                f.write("\t")
+                f.write(equivalence["arg1"])
+                f.write(" ")
+                f.write(equivalence["arg2"])
+                f.write("\n")
 
 
         f.close()
