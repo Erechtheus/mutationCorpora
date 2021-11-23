@@ -118,6 +118,16 @@ Downloaded: 14.2.2019
 Comments: Pubmed-central, many different entites
 ```
 
+### Variome 120
+
+```Corpus short name: Variome
+Publication: https://pubmed.ncbi.nlm.nih.gov/25285203/
+URL: https://github.com/Rostlab/nala/tree/develop/resources/corpora/variome_120
+Downloaded: 12.11.2021
+Comments: In Nala, the authors used Variome120, which is more specific in terms of "position specific variants", and if I understand correctly varopme is the same dataset as in the F1000 paper.
+```
+
+
 Result of conversion:
 To me it looks as if, the offset errors are in fact correct and occur due to some encoding isues of ?spaces? or greater/lesser symbols
 ```
@@ -307,9 +317,17 @@ URL: http://bioinf.umbc.edu/EMU/ftp
 Comments: Broken URL
 ```
 
-### Variome 120
+
+## Visualize in BRAT
+
+### start brat container:  
+```shell script
+docker run --name=brat -d -p 81:80 -v ~/.brat/data:/bratdata -v ~/.brat/config:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=brat@example.com cassj/brat
 ```
-In the paper of Cejuela they also introduce Variome 120. Need to have a look
-https://github.com/Rostlab/nala/tree/develop/resources/corpora/variome
-https://github.com/Rostlab/nala/tree/develop/resources/corpora/variome_120
+### update brat data with corpus:
+```shell script
+sudo rm -rf ~/.brat/data/corpus
+sudo cp -r corpora/BRAT/ ~/.brat/data/corpus
+sudo chmod -R 755 ~/.brat/data/corpus
+sudo chown -R www-data:www-data ~/.brat/data/corpus
 ```
