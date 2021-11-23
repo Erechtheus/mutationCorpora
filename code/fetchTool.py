@@ -68,7 +68,7 @@ def getSNPs(dbSNPIDs):
     return snpDict
 
 #Parses the JSON-line for a NCBI dbSNP request
-#e.g.,https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=334 or
+#e.g., https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=334 or
 #e.g., https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&rettype=json&retmode=text&id=334,123
 #The webservice returns no result if one of all submitted ID's is wrong..
 def parseNCBIRequest(lines):
@@ -82,5 +82,6 @@ def parseNCBIRequest(lines):
     return resultDict
 
 #bla = set()
-#bla.add(str(334))
+#bla.add(int(4149313))
 #tmp = getSNPs(bla)
+#print(tmp)
