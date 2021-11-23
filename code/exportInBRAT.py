@@ -29,9 +29,10 @@ for path in Path(inFolder).rglob('*.json'):
     folderName = os.path.basename(path)
     folderName = folderName[:-5]
 
+
     #Create export-directories if necessary
     if os.path.isdir(outFOlder +folderName) == False:
-        os.mkdir(outFOlder +folderName)
+        os.makedirs(outFOlder +folderName)
 
     with open(path) as f:
         corpus = json.load(f)
@@ -42,6 +43,7 @@ for path in Path(inFolder).rglob('*.json'):
         text = document["document"]["text"]
         entities = document["document"]["entities"]
         relations = document["document"]["relations"]
+        equivalences = document["document"]["equivalences"]
 
         #1.) Text file
         f = open(outFOlder +folderName  +"/" +id +".txt", "w")
@@ -91,5 +93,14 @@ for path in Path(inFolder).rglob('*.json'):
             f.write("Arg2:")
             f.write(relation["arg2"])
             f.write("\n")
+
+        for equivalence in equivalences:
+            f.write("*")
+            f.write("\t")
+            f.write(equivalence["arg1"])
+            f.write(" ")
+            f.write(equivalence["arg2"])
+            f.write("\n")
+
 
         f.close()
