@@ -362,6 +362,7 @@
                         "arg2": "T20"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -526,6 +527,7 @@
                         "arg2": "T26"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -535,6 +537,7 @@
                 "text": "Increased in vitro tetraploidy and mandibular osteomas in patients with and without colorectal diseases.\n\nOne hundred and seventy-six individuals with various colorectal diseases were investigated simultaneously for increased in vitro tetraploidy in dermal fibroblast cultures and for occult mandibular osteomas. In only 10 of the 176 persons were both presumed markers of colorectal genetic predisposition present in the same individual. No evidence was found that these traits are causally associated. A combination of the two presumed markers showed a tendency towards occurrence in individuals with a positive family history of colorectal cancer among first-degree relatives.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -594,6 +597,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -944,9 +948,11 @@
                         "type": "Has_Modification",
                         "arg1": "T31",
                         "arg2": "T32"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias9",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T33",
                         "arg2": "T17"
@@ -1004,6 +1010,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1200,6 +1207,7 @@
                         "arg2": "T17"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1461,6 +1469,7 @@
                         "arg2": "T33"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1706,12 +1715,6 @@
                         "arg2": "T16"
                     },
                     {
-                        "ID": "alias11",
-                        "type": "alias",
-                        "arg1": "T16",
-                        "arg2": "T15"
-                    },
-                    {
                         "ID": "R7",
                         "type": "Component_of",
                         "arg1": "T20",
@@ -1728,6 +1731,14 @@
                         "type": "Has_Modification",
                         "arg1": "T5",
                         "arg2": "T27"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T16",
+                        "arg2": "T15"
                     }
                 ],
                 "metadata": []
@@ -1855,6 +1866,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1879,6 +1891,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1983,6 +1996,7 @@
                         "arg2": "T7"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2014,6 +2028,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2080,6 +2095,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2244,6 +2260,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2275,6 +2292,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2528,9 +2546,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T11",
                         "arg2": "T13"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias8",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T33",
                         "arg2": "T20"
@@ -2646,6 +2666,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2747,6 +2768,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2778,6 +2800,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3132,6 +3155,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3333,6 +3357,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3487,6 +3512,7 @@
                         "arg2": "T18"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3559,6 +3585,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3813,6 +3840,7 @@
                         "arg2": "T15"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3872,6 +3900,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3980,6 +4009,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4559,16 +4589,18 @@
                         "arg2": "T18"
                     },
                     {
-                        "ID": "alias34",
-                        "type": "alias",
-                        "arg1": "T23",
-                        "arg2": "T61"
-                    },
-                    {
                         "ID": "R5",
                         "type": "Has_Mutation",
                         "arg1": "T1",
                         "arg2": "T52"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T23",
+                        "arg2": "T61"
                     }
                 ],
                 "metadata": []
@@ -4693,6 +4725,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5132,16 +5165,18 @@
                         "arg2": "T52"
                     },
                     {
-                        "ID": "alias20",
-                        "type": "alias",
-                        "arg1": "T54",
-                        "arg2": "T41"
-                    },
-                    {
                         "ID": "R6",
                         "type": "Has_Mutation",
                         "arg1": "T3",
                         "arg2": "T16"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T54",
+                        "arg2": "T41"
                     }
                 ],
                 "metadata": []
@@ -5267,6 +5302,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5284,6 +5320,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5573,6 +5610,7 @@
                         "arg2": "T43"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5860,6 +5898,7 @@
                         "arg2": "T26"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6074,16 +6113,18 @@
                         "arg2": "T3"
                     },
                     {
-                        "ID": "alias7",
-                        "type": "alias",
-                        "arg1": "T20",
-                        "arg2": "T19"
-                    },
-                    {
                         "ID": "R3",
                         "type": "Has_Mutation",
                         "arg1": "T24",
                         "arg2": "T28"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T20",
+                        "arg2": "T19"
                     }
                 ],
                 "metadata": []
@@ -6316,9 +6357,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T1",
                         "arg2": "T15"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias10",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T11",
                         "arg2": "T28"
@@ -6774,6 +6817,7 @@
                         "arg2": "T20"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6959,6 +7003,7 @@
                         "arg2": "T6"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7329,6 +7374,7 @@
                         "arg2": "T29"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7422,6 +7468,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7516,6 +7563,7 @@
                         "arg2": "T13"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7727,6 +7775,7 @@
                         "arg2": "T7"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7846,9 +7895,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T2",
                         "arg2": "T14"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias2",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T13",
                         "arg2": "T12"
@@ -7947,6 +7998,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8262,6 +8314,7 @@
                         "arg2": "T26"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8271,6 +8324,7 @@
                 "text": "Assessing disease risk in genome-wide association studies using family history.\n\nWe show how to use reports of cancer in family members to discover additional genetic associations or confirm previous findings in genome-wide association (GWA) studies conducted in case-control, cohort, or cross-sectional studies. Our novel family history-based approach allows economical association studies for multiple cancers, without genotyping of relatives (as required in family studies), follow-up of participants (as required in cohort studies), or oversampling of specific cancer cases (as required in case-control studies). We empirically evaluate the performance of the proposed family history-based approach in studying associations with prostate and ovarian cancers, using data from GWA studies previously conducted within the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial. The family history-based method may be particularly useful for investigating genetic susceptibility to rare diseases for which accruing cases may be very difficult, by using disease information from nongenotyped relatives of participants in multiple case-control and cohort studies designed primarily for other purposes.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8378,6 +8432,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8402,6 +8457,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8665,6 +8721,7 @@
                         "arg2": "T25"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8806,6 +8863,7 @@
                         "arg2": "T17"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -8893,6 +8951,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9134,9 +9193,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T10",
                         "arg2": "T7"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias13",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T25",
                         "arg2": "T21"
@@ -9151,6 +9212,7 @@
                 "text": "Mismatch repair defects and Lynch syndrome: The role of the basic scientist in the battle against cancer.\n\nWe have currently entered a genomic era of cancer research which may soon lead to a genomic era of cancer treatment. Patient DNA sequencing information may lead to a personalized approach to managing an individual's cancer as well as future cancer risk. The success of this approach, however, begins not necessarily in the clinician's office, but rather at the laboratory bench of the basic scientist. The basic scientist plays a critical role since the DNA sequencing information is of limited use unless one knows the function of the gene that is altered and the manner by which a sequence alteration affects that function. The role of basic science research in aiding the clinical management of a disease is perhaps best exemplified by considering the case of Lynch syndrome, a hereditary disease that predisposes patients to colorectal and other cancers. This review will examine how the diagnosis, treatment and even prevention of Lynch syndrome-associated cancers has benefitted from extensive basic science research on the DNA mismatch repair genes whose alteration underlies this condition.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9358,6 +9420,7 @@
                         "arg2": "T4"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9367,6 +9430,7 @@
                 "text": "Collision tumor of the rectum: a case report of metastatic gastric adenocarcinoma plus primary rectal adenocarcinoma.\n\nCollision tumors are thought to arise from the accidental meeting and interpenetration of two independent tumors. We report here a highly unusual case of a 61-year old man who had a unique tumor that was composed of a metastatic adenocarcinoma from the stomach to the rectum, which harbored a collision tumor of primary rectal adenocarcinoma. The clonalities of the two histologically distinct lesions of the rectal mass were confirmed by immunohistochemical and molecular analysis. Although histologic examination is the cornerstone in pathology, immunohistochemical and molecular analysis can provide evidence regarding whether tumors originate from the same clone or different clones. To the best of our knowledge, this is the first reported case of such an occurrence.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9624,16 +9688,18 @@
                         "arg2": "T24"
                     },
                     {
-                        "ID": "alias6",
-                        "type": "alias",
-                        "arg1": "T17",
-                        "arg2": "T35"
-                    },
-                    {
                         "ID": "R2",
                         "type": "Has_Mutation",
                         "arg1": "T26",
                         "arg2": "T29"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T17",
+                        "arg2": "T35"
                     }
                 ],
                 "metadata": []
@@ -9778,12 +9844,6 @@
                         "arg2": "T11"
                     },
                     {
-                        "ID": "alias2",
-                        "type": "alias",
-                        "arg1": "T26",
-                        "arg2": "T25"
-                    },
-                    {
                         "ID": "R8",
                         "type": "Has_Mutation",
                         "arg1": "T2",
@@ -9796,6 +9856,14 @@
                         "arg2": "T7"
                     }
                 ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T26",
+                        "arg2": "T25"
+                    }
+                ],
                 "metadata": []
             }
         },
@@ -9805,6 +9873,7 @@
                 "text": "DNA mismatch repair and cancer.\n\nThe genetic basis of cancer involves certain classes of genes, particularly oncogenes, tumor-suppressor genes, and DNA mismatch repair genes. Originally identified in bacteria and yeast, the human homologues of DNA mismatch repair genes have been implicated in the pathogenesis of the hereditary nonpolyposis colorectal cancer syndromes, as well as a variety of different sporadic cancers. An appreciation of their role in cancer is predicated on an understanding of their function in the processes of DNA repair. This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -9946,6 +10015,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -10137,6 +10207,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -10617,6 +10688,7 @@
                         "arg2": "T52"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -10675,6 +10747,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -10821,9 +10894,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T1",
                         "arg2": "T4"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias3",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T7",
                         "arg2": "T6"
@@ -10923,6 +10998,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -11130,22 +11206,24 @@
                         "arg2": "T14"
                     },
                     {
-                        "ID": "alias7",
+                        "ID": "R2",
+                        "type": "Has_Mutation",
+                        "arg1": "T8",
+                        "arg2": "T20"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T15",
                         "arg2": "T22"
                     },
                     {
-                        "ID": "alias8",
+                        "ID": "E1",
                         "type": "alias",
                         "arg1": "T1",
                         "arg2": "T16"
-                    },
-                    {
-                        "ID": "R2",
-                        "type": "Has_Mutation",
-                        "arg1": "T8",
-                        "arg2": "T20"
                     }
                 ],
                 "metadata": []
@@ -11172,6 +11250,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -11343,6 +11422,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -11599,12 +11679,6 @@
                         "arg2": "T10"
                     },
                     {
-                        "ID": "alias7",
-                        "type": "alias",
-                        "arg1": "T26",
-                        "arg2": "T25"
-                    },
-                    {
                         "ID": "R14",
                         "type": "Component_of",
                         "arg1": "T29",
@@ -11629,6 +11703,14 @@
                         "arg2": "T19"
                     }
                 ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T26",
+                        "arg2": "T25"
+                    }
+                ],
                 "metadata": []
             }
         },
@@ -11646,6 +11728,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -11814,12 +11897,6 @@
                         "arg2": "T5"
                     },
                     {
-                        "ID": "alias4",
-                        "type": "alias",
-                        "arg1": "T11",
-                        "arg2": "T10"
-                    },
-                    {
                         "ID": "R5",
                         "type": "Has_Mutation",
                         "arg1": "T12",
@@ -11842,6 +11919,14 @@
                         "type": "Component_of",
                         "arg1": "T18",
                         "arg2": "T6"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T11",
+                        "arg2": "T10"
                     }
                 ],
                 "metadata": []
@@ -12150,6 +12235,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -12486,9 +12572,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T10",
                         "arg2": "T11"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias16",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T13",
                         "arg2": "T12"
@@ -12665,9 +12753,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T1",
                         "arg2": "T14"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias6",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T15",
                         "arg2": "T13"
@@ -12717,6 +12807,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -13013,12 +13104,6 @@
                         "arg2": "T15"
                     },
                     {
-                        "ID": "alias9",
-                        "type": "alias",
-                        "arg1": "T36",
-                        "arg2": "T34"
-                    },
-                    {
                         "ID": "R6",
                         "type": "Has_Mutation",
                         "arg1": "T29",
@@ -13029,6 +13114,14 @@
                         "type": "Has_Mutation",
                         "arg1": "T12",
                         "arg2": "T23"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T36",
+                        "arg2": "T34"
                     }
                 ],
                 "metadata": []
@@ -13301,6 +13394,7 @@
                         "arg2": "T23"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -13673,6 +13767,7 @@
                         "arg2": "T13"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -13858,6 +13953,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -13909,9 +14005,10 @@
                         "text": "MSI"
                     }
                 ],
-                "relations": [
+                "relations": [],
+                "equivalences": [
                     {
-                        "ID": "alias0",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T6",
                         "arg2": "T4"
@@ -14265,18 +14362,6 @@
                         "arg2": "T8"
                     },
                     {
-                        "ID": "alias6",
-                        "type": "alias",
-                        "arg1": "T39",
-                        "arg2": "T2"
-                    },
-                    {
-                        "ID": "alias7",
-                        "type": "alias",
-                        "arg1": "T1",
-                        "arg2": "T40"
-                    },
-                    {
                         "ID": "R2",
                         "type": "Has_Mutation",
                         "arg1": "T3",
@@ -14313,58 +14398,10 @@
                         "arg2": "T11"
                     },
                     {
-                        "ID": "alias14",
-                        "type": "alias",
-                        "arg1": "T49",
-                        "arg2": "T44"
-                    },
-                    {
-                        "ID": "alias15",
-                        "type": "alias",
-                        "arg1": "T53",
-                        "arg2": "T47"
-                    },
-                    {
-                        "ID": "alias16",
-                        "type": "alias",
-                        "arg1": "T56",
-                        "arg2": "T51"
-                    },
-                    {
-                        "ID": "alias17",
-                        "type": "alias",
-                        "arg1": "T58",
-                        "arg2": "T55"
-                    },
-                    {
-                        "ID": "alias18",
-                        "type": "alias",
-                        "arg1": "T59",
-                        "arg2": "T57"
-                    },
-                    {
-                        "ID": "alias19",
-                        "type": "alias",
-                        "arg1": "T10",
-                        "arg2": "T11"
-                    },
-                    {
-                        "ID": "alias20",
-                        "type": "alias",
-                        "arg1": "T15",
-                        "arg2": "T16"
-                    },
-                    {
                         "ID": "R13",
                         "type": "Has_Mutation",
                         "arg1": "T12",
                         "arg2": "T16"
-                    },
-                    {
-                        "ID": "alias22",
-                        "type": "alias",
-                        "arg1": "T17",
-                        "arg2": "T18"
                     },
                     {
                         "ID": "R14",
@@ -14373,28 +14410,90 @@
                         "arg2": "T18"
                     },
                     {
-                        "ID": "alias24",
-                        "type": "alias",
-                        "arg1": "T50",
-                        "arg2": "T45"
-                    },
-                    {
                         "ID": "R16",
                         "type": "Has_Mutation",
                         "arg1": "T48",
                         "arg2": "T45"
                     },
                     {
-                        "ID": "alias26",
-                        "type": "alias",
-                        "arg1": "T22",
-                        "arg2": "T46"
-                    },
-                    {
                         "ID": "R15",
                         "type": "Has_Mutation",
                         "arg1": "T48",
                         "arg2": "T22"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T39",
+                        "arg2": "T2"
+                    },
+                    {
+                        "ID": "E1",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T40"
+                    },
+                    {
+                        "ID": "E2",
+                        "type": "alias",
+                        "arg1": "T49",
+                        "arg2": "T44"
+                    },
+                    {
+                        "ID": "E3",
+                        "type": "alias",
+                        "arg1": "T53",
+                        "arg2": "T47"
+                    },
+                    {
+                        "ID": "E4",
+                        "type": "alias",
+                        "arg1": "T56",
+                        "arg2": "T51"
+                    },
+                    {
+                        "ID": "E5",
+                        "type": "alias",
+                        "arg1": "T58",
+                        "arg2": "T55"
+                    },
+                    {
+                        "ID": "E6",
+                        "type": "alias",
+                        "arg1": "T59",
+                        "arg2": "T57"
+                    },
+                    {
+                        "ID": "E7",
+                        "type": "alias",
+                        "arg1": "T10",
+                        "arg2": "T11"
+                    },
+                    {
+                        "ID": "E8",
+                        "type": "alias",
+                        "arg1": "T15",
+                        "arg2": "T16"
+                    },
+                    {
+                        "ID": "E9",
+                        "type": "alias",
+                        "arg1": "T17",
+                        "arg2": "T18"
+                    },
+                    {
+                        "ID": "E10",
+                        "type": "alias",
+                        "arg1": "T50",
+                        "arg2": "T45"
+                    },
+                    {
+                        "ID": "E11",
+                        "type": "alias",
+                        "arg1": "T22",
+                        "arg2": "T46"
                     }
                 ],
                 "metadata": []
@@ -14715,6 +14814,7 @@
                         "arg2": "T42"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -14848,6 +14948,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -14893,6 +14994,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15328,6 +15430,7 @@
                         "arg2": "T38"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15401,6 +15504,7 @@
                         "arg2": "T4"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15657,6 +15761,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15716,6 +15821,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15761,6 +15867,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15880,6 +15987,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -15987,6 +16095,7 @@
                         "arg2": "T6"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16185,9 +16294,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T4",
                         "arg2": "T6"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias7",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T16",
                         "arg2": "T17"
@@ -16210,6 +16321,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16469,6 +16581,7 @@
                         "arg2": "T20"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16639,6 +16752,7 @@
                         "arg2": "T9"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16953,6 +17067,7 @@
                         "arg2": "T39"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -16998,6 +17113,7 @@
                         "arg2": "T4"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17274,6 +17390,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17490,6 +17607,7 @@
                         "arg2": "T27"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17716,6 +17834,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -17795,6 +17914,7 @@
                         "arg2": "T6"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         }

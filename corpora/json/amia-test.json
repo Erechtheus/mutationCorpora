@@ -58,6 +58,7 @@
                         "arg2": "T3"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -265,6 +266,7 @@
                         "arg2": "T22"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -345,6 +347,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -591,6 +594,7 @@
                         "arg2": "T14"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -699,6 +703,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -832,6 +837,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -998,6 +1004,7 @@
                         "arg2": "T20"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1007,6 +1014,7 @@
                 "text": "Ulcerative colitis and colon cancer: strategies for cancer prevention.\n\nThe risk of development of colon cancer in patients with ulcerative colitis is an emotive issue with patients and a potential medico-legal problem for physicians caring for such patients. The exact magnitude of the risk is not clearly defined. Current surveillance programmes use dysplasia as a marker for the risk of invasive carcinoma development, but this strategy has inherent limitations. A number of new molecular markers have been investigated but none are currently considered robust enough for routine clinical use. Recommendations for patient selection and interval for colonoscopic surveillance are currently pragmatic, and not entirely evidence-based. Nevertheless, optimal medical management and adherence to a surveillance programme geared to detect dysplasia might still be the best risk reduction strategy.\n",
                 "entities": [],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1187,9 +1195,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T4",
                         "arg2": "T3"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias4",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T19",
                         "arg2": "T20"
@@ -1303,6 +1313,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1535,6 +1546,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1764,6 +1776,7 @@
                         "arg2": "T5"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -1809,6 +1822,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2147,6 +2161,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2337,6 +2352,7 @@
                         "arg2": "T21"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2375,6 +2391,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2497,6 +2514,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2668,6 +2686,7 @@
                         "arg2": "T8"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2913,6 +2932,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -2985,6 +3005,7 @@
                         "arg2": "T4"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3234,6 +3255,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3251,6 +3273,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3475,6 +3498,7 @@
                         "arg2": "T2"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3627,6 +3651,7 @@
                         "arg2": "T12"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -3790,9 +3815,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T2",
                         "arg2": "T1"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias7",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T1",
                         "arg2": "T10"
@@ -3829,6 +3856,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4116,6 +4144,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4338,6 +4367,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4411,6 +4441,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4722,6 +4753,7 @@
                         "arg2": "T1"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4823,6 +4855,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -4896,6 +4929,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5360,12 +5394,6 @@
                         "arg2": "T45"
                     },
                     {
-                        "ID": "alias16",
-                        "type": "alias",
-                        "arg1": "T52",
-                        "arg2": "T39"
-                    },
-                    {
                         "ID": "R6",
                         "type": "Component_of",
                         "arg1": "T7",
@@ -5376,6 +5404,14 @@
                         "type": "Has_Mutation",
                         "arg1": "T52",
                         "arg2": "T14"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T52",
+                        "arg2": "T39"
                     }
                 ],
                 "metadata": []
@@ -5636,6 +5672,7 @@
                         "arg2": "T15"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -5838,25 +5875,27 @@
                         "arg2": "T12"
                     },
                     {
-                        "ID": "alias5",
+                        "ID": "R2",
+                        "type": "Has_Mutation",
+                        "arg1": "T8",
+                        "arg2": "T18"
+                    }
+                ],
+                "equivalences": [
+                    {
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T9",
                         "arg2": "T24"
                     },
                     {
-                        "ID": "R2",
-                        "type": "Has_Mutation",
-                        "arg1": "T8",
-                        "arg2": "T18"
-                    },
-                    {
-                        "ID": "alias7",
+                        "ID": "E1",
                         "type": "alias",
                         "arg1": "T1",
                         "arg2": "T20"
                     },
                     {
-                        "ID": "alias8",
+                        "ID": "E2",
                         "type": "alias",
                         "arg1": "T2",
                         "arg2": "T21"
@@ -6027,9 +6066,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T13",
                         "arg2": "T9"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias5",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T1",
                         "arg2": "T10"
@@ -6278,6 +6319,7 @@
                         "arg2": "T14"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6357,6 +6399,7 @@
                         "arg2": "T10"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6381,6 +6424,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -6574,9 +6618,11 @@
                         "type": "Has_Mutation",
                         "arg1": "T14",
                         "arg2": "T13"
-                    },
+                    }
+                ],
+                "equivalences": [
                     {
-                        "ID": "alias5",
+                        "ID": "E0",
                         "type": "alias",
                         "arg1": "T1",
                         "arg2": "T19"
@@ -7106,6 +7152,7 @@
                         "arg2": "T31"
                     }
                 ],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7123,6 +7170,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7189,6 +7237,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7213,6 +7262,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         },
@@ -7230,6 +7280,7 @@
                     }
                 ],
                 "relations": [],
+                "equivalences": [],
                 "metadata": []
             }
         }
