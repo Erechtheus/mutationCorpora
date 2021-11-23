@@ -44,7 +44,7 @@ for document in root.findall("document"):
                 else:
                     print("No handle for mutation-infon")
 
-            entities.append({"ID": str(entityId), "type":entityType, "begin" : entityStart, "end" : entityEnd, "text" : entityText})
+            entities.append({"ID": "T" +str(entityId), "type":entityType, "begin" : entityStart, "end" : entityEnd, "text" : entityText})
 
 
     jsonDocument = {"document": {
