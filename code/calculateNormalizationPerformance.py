@@ -11,8 +11,8 @@ predFile ="../corpora/predictions/linking/thomas.json"
 goldFile="../corpora/json/linking/tmvarnorm.json"
 predFile ="../corpora/predictions/linking/tmvarnom.json"
 
-#goldFile="../corpora/json/linking/"
-#predFile ="../corpora/predictions/linking/"
+#goldFile="../corpora/json/linking/mutationCoreference.json"
+#predFile ="../corpora/predictions/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -54,8 +54,6 @@ def equals(goldSNP, predSNP):
     return not set(seta).isdisjoint(setb)
 
 
-
-
 performances = {} #We save TP, FP, FN for each mutation-type in this variable
 #Iterate the goldstandard
 for goldDocument in goldDocuments["documents"]:
@@ -90,7 +88,7 @@ for goldDocument in goldDocuments["documents"]:
                 # If we find not the entity or if the returned entity has no rs-ID -> FN
                 elif len(predEntity) == 0 or len(predEntity[0]["rs"]) ==0:
                     performances[goldType]["fn"] = performances[goldType]["fn"] + 1
-                    print("FN\t" + documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(set()) + "\t" + goldType)
+                    print(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(set()) + "\t" + goldType +"\tFN" )
 
                 #In this case we have at least one prediction for the named entity
                 else:
@@ -105,7 +103,7 @@ for goldDocument in goldDocuments["documents"]:
                         if equals(goldRS, predictedRS):
                             tp = True
                             toRemove.add(predictedRS)
-                            print("TP\t" + documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(predictedRSs) + "\t"+goldType)
+                            print(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(predictedRSs) + "\t"+goldType +"\tTP")
 
                     predictedRSs = predictedRSs - toRemove
 
@@ -113,11 +111,11 @@ for goldDocument in goldDocuments["documents"]:
                         performances[goldType]["tp"] = performances[goldType]["tp"] +1
                     else:
                         performances[goldType]["fn"] = performances[goldType]["fn"] +1
-                        print("FN\t" +documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType)
+                        print(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFN")
 
                     if len(predictedRSs) > 0:
                         performances[goldType]["fp"] = performances[goldType]["fp"] +len(predictedRSs)
-                        print("FP\t" +documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType)
+                        print(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFP")
 
 def divideWOException(num, denum):
     try:
