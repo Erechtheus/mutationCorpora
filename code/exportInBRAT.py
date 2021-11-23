@@ -11,7 +11,7 @@ docker run --name=brat -d -p 81:80 -v ~/.brat/data:/bratdata -v ~/.brat/config:/
 * update brat data with corpus:
 ```shell script
 sudo rm -rf ~/.brat/data/corpus
-sudo cp -r YOUR_LOCAL_CORPUS_LOCATION ~/.brat/data/corpus
+sudo cp -r corpora/BRAT/ ~/.brat/data/corpus
 sudo chmod -R 755 ~/.brat/data/corpus
 sudo chown -R www-data:www-data ~/.brat/data/corpus
 ```
@@ -51,6 +51,7 @@ for path in Path(inFolder).rglob('*.json'):
         #2.) Annotation file
         f = open(outFOlder + folderName + "/" + id + ".ann", "w")
 
+        myCounter = 1
         for entity in entities:
             f.write(entity["ID"])
             f.write("\t")
@@ -63,11 +64,27 @@ for path in Path(inFolder).rglob('*.json'):
             f.write(entity["text"])
             f.write("\n")
 
+            #Write normalization
+            if "dbSNP" in entity:
+                print(folderName)
+                f.write("N")
+                f.write(str(myCounter))
+                myCounter += 1
+                f.write("\t")
+                f.write("Reference ")
+                f.write(entity["ID"])
+                f.write(" ")
+                f.write("dbSNP:")
+                f.write(str(entity["dbSNP"]))
+                f.write("\t")
+                f.write(entity["text"])
+                f.write("\n")
+
         for relation in relations:
             f.write(relation["ID"])
             f.write("\t")
             f.write(relation["type"])
-            f.write("\t")
+            f.write(" ")
             f.write("Arg1:")
             f.write(relation["arg1"])
             f.write(" ")
