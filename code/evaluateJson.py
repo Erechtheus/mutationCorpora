@@ -61,7 +61,7 @@ with open(inFile) as f:
         for relation in relations:
 
             if relation["ID"].startswith("R") == False:
-                print("Entity ID '" +relation["ID"] +"' should start with R")
+                print("Relation ID '" +relation["ID"] +"' should start with R in "+str(id))
 
             relId = relation["ID"]
             relType = relation["type"]
