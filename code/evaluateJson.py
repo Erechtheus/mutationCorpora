@@ -1,6 +1,7 @@
 import json
 import os
 from fetchTool import getSNPFromRsMergeArch
+import glob
 
 inFile="../corpora/json/amia-train.json"
 inFile="../corpora/json/amia-test.json"
@@ -17,6 +18,10 @@ inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
+
+"""for inFile in glob.iglob("../corpora/json/linking/" + '/*.json', recursive=True):
+    print(inFile)
+"""
 
 #Read and check corpus
 offseterrors = 0
