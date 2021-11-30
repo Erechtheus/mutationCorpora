@@ -4,6 +4,8 @@
 The folder "original" contains the downloaded and potentially extracted files and is a starting point for all conversion efforts.
 
 ## Converted NER-corpora
+You can find corpora converted into the JSON format in folder "json". 
+In the following we provide a short overview of corpora.
 
 ### AMIA18
 Conversion looks fine
@@ -220,10 +222,6 @@ Result of conversion:
 ```
 
 
-
-
-
-
 ## Ignored corpora
 
 ### Mutationfinder
@@ -260,7 +258,7 @@ Comments: silver standard corpus
 ```
 
 ## Unconverted corpora
-
+Some corpora could not be correctly parsed are therefore not integrated into the repository.
 
 ### Nagel
 Failed to correctly parse this corpus. The XML seems to be invalid and the standoff-file entities do (often) not match the string in the text.
@@ -287,6 +285,7 @@ Comments:
 ```
 
 ## Missing corpora
+Some corpora we had problems to download.
 
 ### Bronco
 ```
@@ -319,8 +318,11 @@ Comments: Broken URL
 
 
 ## Visualize in BRAT
+We also exported the !converted! JSON documents into BRAT. 
+The BRAT exports can be found in folder BRAT. 
+In order to visualize the brat-files you can  follow the docker recipe to set up a container.
 
-### start brat container:  
+### start brat docker-container:  
 ```shell script
 docker run --name=brat -d -p 81:80 -v ~/.brat/data:/bratdata -v ~/.brat/config:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=brat@example.com cassj/brat
 ```
@@ -331,3 +333,9 @@ sudo cp -r corpora/BRAT/ ~/.brat/data/corpus
 sudo chmod -R 755 ~/.brat/data/corpus
 sudo chown -R www-data:www-data ~/.brat/data/corpus
 ```
+
+### Open browser
+Visit [localhost:81](localhost:81) on your local machine to see BRAT.
+
+## IOB export
+In order to train custom NER-taggers we also export the !converted! JSON as IOB by using spacy as tokenizer.
