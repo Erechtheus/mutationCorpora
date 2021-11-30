@@ -1,8 +1,7 @@
-import os
-import pickle
 import json
-import requests
 import xml.etree.ElementTree as ET
+from fetchTool import getPMID
+
 inFile="corpora/original/Thomas2011/annotations.txt"
 outFile="corpora/json/linking/thomas.json"
 
@@ -25,26 +24,7 @@ corpusFile.close()
 
 #2.) Get the documents from NCBI eutils
 #We cache the result in cacheFile for faster processing
-cacheFolder = "cache/"
-cacheFile = cacheFolder + "thomas.pickle"
-
-documentDict = {}
-if os.path.isdir(cacheFolder) == False:
-    os.mkdir(cacheFolder)
-
-if os.path.exists(cacheFile):
-    with open(cacheFile, 'rb') as file:
-        documentDict = pickle.load(file)
-else:
-    for pmid in annotationDict.keys():
-
-        print("Fetching '" +str(pmid) +"' from NCBI utils")
-        response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&rettype=xml&id="+pmid)
-        documentDict[pmid] = response.text
-
-    with open(cacheFile, 'wb') as fid:
-        pickle.dump(documentDict, fid)
-    fid.close()
+documentDict = getPMID(annotationDict.keys())
 
 errors = 0
 errorDocs = set()

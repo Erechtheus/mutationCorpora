@@ -7,11 +7,38 @@ import xml.etree.ElementTree as ET
 import wget
 import gzip
 
+# Get the documents from NCBI eutils
+# We cache the result in cacheFile for faster processing
+def getPMID(pmids):
+    print("Fething" +str(len(pmids)) +"pubmed abstracts")
+
+    cacheFolder = "cache/"
+    cacheFile = cacheFolder + "thomas.pickle"
+
+    documentDict = {}
+    if os.path.isdir(cacheFolder) == False:
+        os.mkdir(cacheFolder)
+
+    if os.path.exists(cacheFile):
+        with open(cacheFile, 'rb') as file:
+            documentDict = pickle.load(file)
+    else:
+        for pmid in pmids:
+            print("Fetching '" + str(pmid) + "' from NCBI utils")
+            response = requests.get(
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&rettype=xml&id=" + pmid)
+            documentDict[pmid] = response.text
+
+        with open(cacheFile, 'wb') as fid:
+            pickle.dump(documentDict, fid)
+        fid.close()
+
+    return documentDict
+
 # The methods getSNPFromRsMergeArch, getSNPFromXML, getSNPs do all the same!
 # They all try to find the merge information for a dbSNP-mention. For example,  rs3168321 -> rs334
 # However, the REST-Endpoints have their own problems. For instance some return no result when >= 1 ID is non existant
 # In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
-
 def getSNPFromRsMergeArch(dbSNPIDs):
     dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
 
