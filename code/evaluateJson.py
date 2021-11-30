@@ -1,5 +1,5 @@
 import json
-from fetchTool import getSNPs
+from fetchTool import getSNPFromRsMergeArch
 
 inFile="../corpora/json/amia-test.json"
 inFile="../corpora/json/amia-train.json"
@@ -7,11 +7,12 @@ inFile="../corpora/json/SETH.json"
 inFile="../corpora/json/tmvar-test.json"
 inFile="../corpora/json/tmvar-train.json"
 inFile="../corpora/json/Variome.json"
+inFile="../corpora/json/Variome120.json"
 
 inFile="../corpora/json/linking/osiris.json"
 inFile="../corpora/json/linking/thomas.json"
 inFile="../corpora/json/linking/tmvarnorm.json"
-inFile="../corpora/json/linking/mutationCoreference.json"
+#inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -28,7 +29,7 @@ with open(inFile) as f:
         for entity in document["document"]["entities"]:
             if "dbSNP" in entity:
                 dbSNPIDs.add(int(entity["dbSNP"]))
-    snpDict = getSNPs(dbSNPIDs)
+    snpDict = getSNPFromRsMergeArch(dbSNPIDs)
 
 
     for document in documents["documents"]:

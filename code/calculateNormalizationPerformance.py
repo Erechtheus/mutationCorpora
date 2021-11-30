@@ -1,6 +1,5 @@
 import json
-import itertools
-from fetchTool import getSNPs
+from fetchTool import getSNPFromRsMergeArch
 
 goldFile="../corpora/json/linking/osiris.json"
 predFile ="../corpora/predictions/linking/osiris.json"
@@ -31,14 +30,14 @@ for goldDocument in goldDocuments["documents"]:
     for goldEntity in goldDocument["document"]["entities"]:
         if "dbSNP" in goldEntity:
             dbSNPIDs.add((goldEntity["dbSNP"]))
-snpDict = getSNPs(dbSNPIDs)
+snpDict = getSNPFromRsMergeArch(dbSNPIDs)
 
 dbSNPIDs = set()
 for goldDocument in predDocuments:
     for goldEntity in goldDocument["entities"]:
         for x in goldEntity["rs"]:
             dbSNPIDs.add((x))
-snpDict = getSNPs(dbSNPIDs)
+snpDict = getSNPFromRsMergeArch(dbSNPIDs)
 ####</Retrieve all dbSNP Ids>####
 
 
