@@ -94,7 +94,7 @@ def getSNPFromRsMergeArch(dbSNPIDs):
     dbSNPIDs = set(dbSNPIDs) - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
     if len(dbSNPIDs) > 0:
         print("Querying REST-API for remaining set of "+str(len(dbSNPIDs)) +" IDs")
-    snpDict = getSNPFromXML(dbSNPIDs)
+        snpDict = getSNPFromXML(dbSNPIDs)
 
     return snpDict
 
