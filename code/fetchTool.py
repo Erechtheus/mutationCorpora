@@ -40,6 +40,11 @@ def getPMID(pmids):
 # However, the REST-Endpoints have their own problems. For instance some return no result when >= 1 ID is non existant
 # In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
 def getSNPFromRsMergeArch(dbSNPIDs):
+
+    #Return empty dictionary if nothing was requested
+    if len(dbSNPIDs) == 0:
+        return {}
+
     dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
 
     cacheFolder = "cache/"
