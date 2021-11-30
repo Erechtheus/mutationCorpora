@@ -76,12 +76,12 @@ def getSNPFromRsMergeArch(dbSNPIDs):
             orig = int(line[0]) #Old-UD
             newId = int(line[1]) #New-ID
 
-#            if orig in dbSNPIDs or newId in dbSNPIDs:
-            if newId not in snpDict.keys():
-                snpDict[newId] = set()
+            if orig in dbSNPIDs or newId in dbSNPIDs:
+                if newId not in snpDict.keys():
+                    snpDict[newId] = set()
 
-            snpDict[newId].add(orig)
-            snpDict[newId].add(newId)
+                snpDict[newId].add(orig)
+                snpDict[newId].add(newId)
 
     #Save the result to disk
     with open(cacheFile, 'wb') as fid:

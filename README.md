@@ -233,18 +233,43 @@ Downloaded: 12.2.2019
 Comments: 
 ```
 
-Result of conversion:
+#### Overview of corpus 'tmvarnorm'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=158
-#entities=672
-	types=Counter({'ProteinMutation': 434, 'DNAMutation': 190, 'SNP': 48})
+158 documents
+	Offseterrors=0
 	mostCommonTokens=[('R114H', 13), ('G-395A', 8), ('Met326Ile', 8), ('Cys 23 Ser', 8), ('Val175Met', 7), ('rs6232', 7), ('F826Y', 6), ('M404V', 6), ('Lys198Asn', 6), ('rs6235', 6)]
+672 entities
+	Entity-types=Counter({'ProteinMutation': 434, 'DNAMutation': 190, 'SNP': 48})
 	Unique dbSNP Mentions:672
 	mostCommonRSIDs=[(72556554, 15), (7946, 12), (1801133, 9), (6318, 9), (1207568, 8), (6232, 8), (3730089, 8), (121909210, 8), (28931614, 8), (1052133, 7)]
-	For 3 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: {760040233, 11399890, 762198323}
-#relations=0
+	uniqueRSIDs=284
+	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
+0 relations
 	types=Counter()
+```
+
+
+### mutationCoreference corpus
+```Corpus short name:  
+Publication:
+URL: 
+Downloaded:
+Comments: 
+```
+
+#### Overview of corpus 'mutationCoreference'
+```
+343 documents
+	Offseterrors=0
+	mostCommonTokens=[('Val66Met', 25), ('Pro12Ala', 22), ('rs2275913', 19), ('Arg16Gly', 18), ('rs6265', 15), ('C677T', 15), ('Val158Met', 12), ('rs763780', 11), ('rs1801133', 11), ('rs1801282', 11)]
+2386 entities
+	Entity-types=Counter({'SUBSTITUTION': 1198, 'DBSNP_MENTION': 1176, 'INSERTION': 5, 'DELETION': 4, 'FRAMESHIFT': 2, 'DUPLICATION': 1})
+	Unique dbSNP Mentions:1814
+	mostCommonRSIDs=[(6265, 26), (2275913, 25), (1801133, 19), (1801282, 19), (1800896, 16), (1800795, 16), (1042714, 15), (1800872, 14), (1800871, 14), (763780, 14)]
+	uniqueRSIDs=576
+	For 9 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: {4149313, 11273540, 637044681, 17294542, 4646994, 201231411, 9390322, 1139682898, 22518}
+649 relations
+	types=Counter({'mutationcoreference': 649})
 ```
 
 
@@ -365,3 +390,125 @@ Visit [localhost:81](localhost:81) on your local machine to see BRAT.
 
 ## IOB export
 In order to train custom NER-taggers we also export the !converted! JSON as IOB by using spacy as tokenizer.
+
+## Normalization performance
+We also used SETH to predict dbSNP identifiers for all four entity-linking corpora and report here the results:
+
+### Osiris
+
+```
+------variant------
+TP=141
+FP=1
+FN=101
+Precision=0.99
+Recall=0.58
+F1=0.73
+------Overall------
+TP=141
+FP=1
+FN=101
+Precision=0.99
+Recall=0.58
+F1=0.73
+```
+
+### Thomas
+
+```
+------NSM------
+TP=47
+FP=7
+FN=197
+Precision=0.87
+Recall=0.19
+F1=0.32
+------PSM------
+TP=245
+FP=10
+FN=38
+Precision=0.96
+Recall=0.87
+F1=0.91
+------Overall------
+TP=292
+FP=17
+FN=235
+Precision=0.94
+Recall=0.55
+F1=0.70
+```
+
+
+### TmvarNorm
+
+```
+------SNP------
+TP=35
+FP=0
+FN=13
+Precision=1.00
+Recall=0.73
+F1=0.84
+------DNAMutation------
+TP=52
+FP=1
+FN=138
+Precision=0.98
+Recall=0.27
+F1=0.43
+------ProteinMutation------
+TP=328
+FP=7
+FN=106
+Precision=0.98
+Recall=0.76
+F1=0.85
+------Overall------
+TP=415
+FP=8
+FN=257
+Precision=0.98
+Recall=0.62
+F1=0.76
+```
+
+
+### mutation-coreference
+```
+------DBSNP_MENTION------
+TP=875
+FP=5
+FN=301
+Precision=0.99
+Recall=0.74
+F1=0.85
+------SUBSTITUTION------
+TP=294
+FP=21
+FN=341
+Precision=0.93
+Recall=0.46
+F1=0.62
+------DELETION------
+TP=0
+FP=0
+FN=2
+Precision=0.00
+Recall=0.00
+F1=0.00
+------INSERTION------
+TP=0
+FP=0
+FN=1
+Precision=0.00
+Recall=0.00
+F1=0.00
+------Overall------
+TP=1169
+FP=26
+FN=645
+Precision=0.98
+Recall=0.64
+F1=0.78
+```

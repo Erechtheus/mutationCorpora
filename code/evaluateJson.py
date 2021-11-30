@@ -1,18 +1,19 @@
 import json
+import os
 from fetchTool import getSNPFromRsMergeArch
 
-inFile="../corpora/json/amia-test.json"
 inFile="../corpora/json/amia-train.json"
+inFile="../corpora/json/amia-test.json"
 inFile="../corpora/json/SETH.json"
-inFile="../corpora/json/tmvar-test.json"
 inFile="../corpora/json/tmvar-train.json"
+inFile="../corpora/json/tmvar-test.json"
 inFile="../corpora/json/Variome.json"
 inFile="../corpora/json/Variome120.json"
 
 inFile="../corpora/json/linking/osiris.json"
 inFile="../corpora/json/linking/thomas.json"
 inFile="../corpora/json/linking/tmvarnorm.json"
-#inFile="../corpora/json/linking/mutationCoreference.json"
+inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -76,25 +77,35 @@ with open(inFile) as f:
                 print("Problem with document '" +str(id) +"' number of relations wrong for relation= " +str(relation))
 f.close()
 
-print("#Offseterrors=" +str(offseterrors) +" in " +str(len(offsetDocuments)) +" docs" +str(offsetDocuments))
-
 ##Print some small statistics
 import itertools
 from collections import Counter
 
-print("#docs=" +str(len(documents["documents"])))
+corpusName = os.path.basename(inFile)[:-5]
+
 entities = list(map(lambda x :x["document"]["entities"], documents["documents"]))
 relations = list(map(lambda x :x["document"]["relations"], documents["documents"]))
 
-print("#entities=" +str(len(list(itertools.chain(*entities)))))
-print("\ttypes=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*entities)))))))
+print("#### Overview of corpus '" +corpusName +"'")
+print("```")
+
+#Document
+print(str(len(documents["documents"])) +" documents")
+print("\tOffseterrors=" +str(offseterrors))
 tmp = Counter(list(map(lambda x:x["text"], list(itertools.chain(*entities)))))
 print("\tmostCommonTokens=" +str(tmp.most_common(10)))
+
+#Entity
+print(str(len(list(itertools.chain(*entities)))) +" entities")
+print("\tEntity-types=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*entities)))))))
 print("\tUnique dbSNP Mentions:" +str(len(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))))
 tmp = Counter(list(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))
 print("\tmostCommonRSIDs=" +str(tmp.most_common(10)))
 print("\tuniqueRSIDs=" +str(len(set(map(lambda x:x["dbSNP"], filter(lambda x: "dbSNP" in x, list(itertools.chain(*entities))))))))
 print("\tFor "+str(len(missingDBSNPEntries))+" dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: " +str(missingDBSNPEntries))
 
-print("#relations=" +str(len(list(itertools.chain(*relations)))))
+#Relation
+print(str(len(list(itertools.chain(*relations)))) +" relations")
 print("\ttypes=" + str(Counter(list(map(lambda x:x["type"], list(itertools.chain(*relations)))))))
+
+print("```")

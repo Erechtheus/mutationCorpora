@@ -10,8 +10,8 @@ predFile ="../corpora/predictions/linking/thomas.json"
 goldFile="../corpora/json/linking/tmvarnorm.json"
 predFile ="../corpora/predictions/linking/tmvarnom.json"
 
-#goldFile="../corpora/json/linking/mutationCoreference.json"
-#predFile ="../corpora/predictions/linking/mutationCoreference.json"
+goldFile="../corpora/json/linking/mutationCoreference.json"
+predFile ="../corpora/predictions/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -125,6 +125,7 @@ def divideWOException(num, denum):
 tpSum = 0
 fpSum = 0
 fnSum = 0
+print("```")
 for key in performances.keys():
     tp = performances[key]["tp"]
     fp = performances[key]["fp"]
@@ -160,3 +161,4 @@ f1 = 2 * (recall * precision) / (recall + precision)
 print("Precision=%.2f" % precision)
 print("Recall=%.2f" % recall)
 print("F1=%.2f" % f1)
+print("```")
