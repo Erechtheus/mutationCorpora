@@ -6,7 +6,7 @@ from pathlib import Path
 randomSeed = 1202
 splitSize = 80 / 100
 inFolder="../../corpora/json/"
-outFOlder="splits/"
+outFOlder="../../corpora/IOB/splits/"
 
 if __name__ == "__main__":
     print("Generate train/test splits for corpora without dedicated train/test-splits")
