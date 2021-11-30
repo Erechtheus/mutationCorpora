@@ -17,33 +17,34 @@ Downloaded:
 Comments: Sets 00, 01, 02, 03 and 04 were used for training and sets 05, 06 and 07 were used as test sets in our study.
 ```
 
-Result of conversion (train):
-
+#### Overview of corpus 'amia-train'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=100
-#entities=1831
-	types=Counter({'Gene_protein': 825, 'DNA_Mutation': 592, 'locus': 187, 'Protein_Mutation': 64, 'Mutation': 60, 'DNA_modification': 43, 'dbSNP': 37, 'RNA': 18, 'RNA_Mutation': 5})
+100 documents
+	Offseterrors=0
 	mostCommonTokens=[('mutations', 115), ('mutation', 94), ('BRAF', 53), ('p53', 50), ('APC', 36), ('MSI', 29), ('microsatellite instability', 28), ('K-ras', 26), ('SNPs', 23), ('methylation', 20)]
+1831 entities
+	Entity-types=Counter({'Gene_protein': 825, 'DNA_Mutation': 592, 'locus': 187, 'Protein_Mutation': 64, 'Mutation': 60, 'DNA_modification': 43, 'dbSNP': 37, 'RNA': 18, 'RNA_Mutation': 5})
 	Unique dbSNP Mentions:0
 	mostCommonRSIDs=[]
+	uniqueRSIDs=0
 	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=651
-	types=Counter({'Has_Mutation': 520, 'Component_of': 63, 'Has_Modification': 35, 'alias': 33})
+618 relations
+	types=Counter({'Has_Mutation': 520, 'Component_of': 63, 'Has_Modification': 35})
 ```
 
-Result of conversion (test):
+#### Overview of corpus 'amia-test'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=45
-#entities=763
-	types=Counter({'DNA_Mutation': 338, 'Gene_protein': 280, 'locus': 92, 'Protein_Mutation': 26, 'RNA_Mutation': 16, 'RNA': 5, 'dbSNP': 3, 'Mutation': 2, 'DNA_modification': 1})
+45 documents
+	Offseterrors=0
 	mostCommonTokens=[('mutations', 54), ('mutation', 49), ('MSI', 32), ('p53', 17), ('mutant', 14), ('KRAS', 13), ('SNPs', 12), ('PIK3CA', 12), ('polymorphisms', 11), ('APC', 10)]
+763 entities
+	Entity-types=Counter({'DNA_Mutation': 338, 'Gene_protein': 280, 'locus': 92, 'Protein_Mutation': 26, 'RNA_Mutation': 16, 'RNA': 5, 'dbSNP': 3, 'Mutation': 2, 'DNA_modification': 1})
 	Unique dbSNP Mentions:0
 	mostCommonRSIDs=[]
+	uniqueRSIDs=0
 	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=235
-	types=Counter({'Has_Mutation': 211, 'Component_of': 15, 'alias': 8, 'Has_Modification': 1})
+227 relations
+	types=Counter({'Has_Mutation': 211, 'Component_of': 15, 'Has_Modification': 1})
 ```
 
 
@@ -58,17 +59,18 @@ Downloaded: 12.2.2019
 Comments:
 ```
 
-Result of conversion:
+#### Overview of corpus 'SETH'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=630
-#entities=3219
-	types=Counter({'Gene': 2315, 'SNP': 895, 'RS': 9})
+630 documents
+	Offseterrors=0
 	mostCommonTokens=[('MEN1', 30), ('BRCA1', 29), ('NF1', 24), ('TP53', 19), ('PTEN', 18), ('CFTR', 18), ('p53', 16), ('BRCA2', 16), ('SOX9', 14), ('TSC1', 13)]
+3219 entities
+	Entity-types=Counter({'Gene': 2315, 'SNP': 895, 'RS': 9})
 	Unique dbSNP Mentions:0
 	mostCommonRSIDs=[]
+	uniqueRSIDs=0
 	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=593
+593 relations
 	types=Counter({'AssociatedTo': 384, 'Equals': 209})
 ```
 
@@ -82,34 +84,35 @@ Comments: tmVar norm contains dbSNP mentions; not sure how they were annotated
 Also seperate sections for title and abstracts
 ```
 
-Result of conversion (test):
+#### Overview of corpus 'tmvar-train'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=166
-#entities=464
-	types=Counter({'DNAMutation': 220, 'ProteinMutation': 205, 'SNP': 39})
-	mostCommonTokens=[('Delta30', 9), ('Val175Met', 7), ('Arg399Gln', 5), ('V175M', 5), ('6bINS', 5), ('A467T', 5), ('N372H', 5), ('c.399_402delAGAG', 5), ('3020insC', 5), ('L1503R', 4)]
-	Unique dbSNP Mentions:0
-	mostCommonRSIDs=[]
-	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=0
-	types=Counter()
-```
-
-Result of conversion (train):
-```
-#Offseterrors=0 in 0 docsset()
-#docs=334
-#entities=967
-	types=Counter({'ProteinMutation': 440, 'DNAMutation': 431, 'SNP': 96})
+334 documents
+	Offseterrors=0
 	mostCommonTokens=[('Delta32', 13), ('R114H', 13), ('G-395A', 8), ('Met326Ile', 8), ('Cys 23 Ser', 8), ('G/C', 7), ('rs6232', 7), ('G/A', 6), ('E333D', 6), ('F826Y', 6)]
+967 entities
+	Entity-types=Counter({'ProteinMutation': 440, 'DNAMutation': 431, 'SNP': 96})
 	Unique dbSNP Mentions:0
 	mostCommonRSIDs=[]
+	uniqueRSIDs=0
 	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=0
+0 relations
 	types=Counter()
 ```
 
+#### Overview of corpus 'tmvar-test'
+```
+166 documents
+	Offseterrors=0
+	mostCommonTokens=[('Delta30', 9), ('Val175Met', 7), ('Arg399Gln', 5), ('V175M', 5), ('6bINS', 5), ('A467T', 5), ('N372H', 5), ('c.399_402delAGAG', 5), ('3020insC', 5), ('L1503R', 4)]
+464 entities
+	Entity-types=Counter({'DNAMutation': 220, 'ProteinMutation': 205, 'SNP': 39})
+	Unique dbSNP Mentions:0
+	mostCommonRSIDs=[]
+	uniqueRSIDs=0
+	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
+0 relations
+	types=Counter()
+```
 
 ### Variome
 
@@ -119,6 +122,27 @@ URL: https://bitbucket.org/readbiomed/variome-corpus-data
 Downloaded: 14.2.2019
 Comments: Pubmed-central, many different entites
 ```
+
+Please note that the offset-errors are due to some encoding issues which pose no problem.
+For instance, in '1619718-05-Discussion-p01' the text '> 60 years' != '> 60 years', as the one uses a regular space and the other a hairspace.
+
+
+
+#### Overview of corpus 'Variome'
+```
+120 documents
+	Offseterrors=10
+	mostCommonTokens=[('patients', 229), ('colorectal', 194), ('APC', 191), ('cancer', 180), ('mutation', 154), ('cancers', 137), ('CRC', 129), ('MLH1', 128), ('polyps', 126), ('BRAF', 117)]
+6991 entities
+	Entity-types=Counter({'disease': 1700, 'cohort-patient': 1272, 'gene': 1086, 'size': 675, 'mutation': 598, 'body-part': 465, 'Concepts_Ideas': 359, 'Disorder': 353, 'Physiology': 252, 'age': 85, 'gender': 62, 'ethnicity': 62, 'Phenomena': 22})
+	Unique dbSNP Mentions:0
+	mostCommonRSIDs=[]
+	uniqueRSIDs=0
+	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
+4650 relations
+	types=Counter({'has': 4007, 'relatedTo': 643})
+```
+
 
 ### Variome 120
 
@@ -130,19 +154,19 @@ Comments: In Nala, the authors used Variome120, which is more specific in terms 
 ```
 
 
-Result of conversion:
-To me it looks as if, the offset errors are in fact correct and occur due to some encoding isues of ?spaces? or greater/lesser symbols
+#### Overview of corpus 'Variome120'
 ```
-#Offseterrors=10 in 3 docs{'1619718-04-Results-p03', '1619718-05-Discussion-p01', '1619718-04-Results-p01'}
-#docs=120
-#entities=6991
-	types=Counter({'disease': 1700, 'cohort-patient': 1272, 'gene': 1086, 'size': 675, 'mutation': 598, 'body-part': 465, 'Concepts_Ideas': 359, 'Disorder': 353, 'Physiology': 252, 'age': 85, 'gender': 62, 'ethnicity': 62, 'Phenomena': 22})
-	mostCommonTokens=[('patients', 229), ('colorectal', 194), ('APC', 191), ('cancer', 180), ('mutation', 154), ('cancers', 137), ('CRC', 129), ('MLH1', 128), ('polyps', 126), ('BRAF', 117)]
+120 documents
+	Offseterrors=0
+	mostCommonTokens=[('p.Lys618Ala', 39), ('V600E', 11), ('c.1852_1853AA>GC', 7), ('c.5465A > T', 4), ('c.70C > T', 3), ('c.834G > C', 3), ('c.835-7T > G', 3), ('c.3927_3931del AAAGA', 2), ('p.Pro622Thr', 2), ('proline 622 to threonine (p.Pro622Thr) amino acid substitution', 2)]
+120 entities
+	Entity-types=Counter({'mutation': 120})
 	Unique dbSNP Mentions:0
 	mostCommonRSIDs=[]
+	uniqueRSIDs=0
 	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
-#relations=4650
-	types=Counter({'has': 4007, 'relatedTo': 643})
+0 relations
+	types=Counter()
 ```
 
 
@@ -157,17 +181,18 @@ Downloaded: 12.2.2019
 Comments: 
 ```
 
-Result of conversion:
+#### Overview of corpus 'osiris'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=105
-#entities=1220
-	types=Counter({'gene': 689, 'variant': 531})
+105 documents
+	Offseterrors=0
 	mostCommonTokens=[('insulin', 26), ('UCP2', 21), ('TNF-beta', 13), ('adiponectin', 10), ('p53', 10), ('APOE', 9), ('BDNF', 9), ('HbE', 9), ('FCGR2B', 8), ('BRCA1', 8)]
+1220 entities
+	Entity-types=Counter({'gene': 689, 'variant': 531})
 	Unique dbSNP Mentions:242
 	mostCommonRSIDs=[(1061622, 11), (747302, 9), (1801282, 8), (1799983, 7), (1050501, 6), (1009382, 6), (2245220, 6), (1805123, 6), (1861972, 6), (1861973, 6)]
-	For 3 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: {11542313, 5743293, 8179183}
-#relations=0
+	uniqueRSIDs=105
+	For 0 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: set()
+0 relations
 	types=Counter()
 ```
 
@@ -183,17 +208,18 @@ Downloaded: 13.2.2019
 Comments: Annotates only mutations with dbSNP identifier; Provides no text corpus
 ```
 
-Result of conversion:
+#### Overview of corpus 'thomas'
 ```
-#Offseterrors=0 in 0 docsset()
-#docs=296
-#entities=527
-	types=Counter({'PSM': 283, 'NSM': 244})
+296 documents
+	Offseterrors=0
 	mostCommonTokens=[('Val158Met', 12), ('Val66Met', 9), ('Pro12Ala', 6), ('Y402H', 5), ('V103I', 3), ('Leu72Met', 3), ('K121Q', 3), ('Gly482Ser', 3), ('T300A', 3), ('-174G>C', 3)]
+527 entities
+	Entity-types=Counter({'PSM': 283, 'NSM': 244})
 	Unique dbSNP Mentions:527
 	mostCommonRSIDs=[(4680, 14), (1061170, 11), (6265, 10), (1801282, 8), (11209026, 6), (1042522, 5), (2032582, 5), (2229616, 4), (696217, 4), (4880, 4)]
-	For 7 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: {154410, 2298668, 6195, 17231380, 7379701, 1982073, 603965}
-#relations=0
+	uniqueRSIDs=385
+	For 2 dbSNP entries we could not find any information in dbSNP; potentially wrong IDs: {154410, 17231380}
+0 relations
 	types=Counter()
 ```
 
