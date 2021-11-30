@@ -41,16 +41,12 @@ def getPMID(pmids):
 # In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
 def getSNPFromRsMergeArch(dbSNPIDs):
 
-    #Return empty dictionary if nothing was requested
-    if len(dbSNPIDs) == 0:
-        return {}
-
-    dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
-
     cacheFolder = "cache/"
     url = "ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/database/organism_data/RsMergeArch.bcp.gz"
     RsMergeArchFile = cacheFolder + "RsMergeArch.bcp.gz"
     cacheFile = cacheFolder + "dbSNP.pickle"
+
+    dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
 
     if os.path.isdir(cacheFolder) == False:
         os.mkdir(cacheFolder)
@@ -65,6 +61,14 @@ def getSNPFromRsMergeArch(dbSNPIDs):
     else:
         snpDict = {}
 
+
+    #Return loaded snpDict, if there is nothing missing
+    dbSNPIDs = dbSNPIDs - set(snpDict.keys())  # We query the webservice only for missing dbSNP-identifiers
+    if len(dbSNPIDs) == 0:
+        return snpDict
+
+    #Otherwise load file
+    print("Parsing RsMergeArchFile")
     with gzip.open(RsMergeArchFile, 'rb') as fin:
         for line in fin:
             line = line.decode('UTF-8')
@@ -87,7 +91,6 @@ def getSNPFromRsMergeArch(dbSNPIDs):
     #E.g., when starting with 334 we will find no merge information, as the ID is correct
     #However, we still want to distinguish these ID's from potentially non-existant ID's
     #To this end we use the REST-API :)
-
     dbSNPIDs = set(dbSNPIDs) - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
     if len(dbSNPIDs) > 0:
         print("Querying REST-API for remaining set of "+str(len(dbSNPIDs)) +" IDs")
