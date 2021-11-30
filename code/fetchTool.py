@@ -3,11 +3,100 @@ import os
 import pickle
 from tqdm import tqdm
 import json
+import xml.etree.ElementTree as ET
+import wget
+import gzip
+
+# The methods getSNPFromRsMergeArch, getSNPFromXML, getSNPs do all the same!
+# They all try to find the merge information for a dbSNP-mention. For example,  rs3168321 -> rs334
+# However, the REST-Endpoints have their own problems. For instance some return no result when >= 1 ID is non existant
+# In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
+
+def getSNPFromRsMergeArch(dbSNPIDs):
+    dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
+
+    cacheFolder = "cache/"
+    url = "ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/database/organism_data/RsMergeArch.bcp.gz"
+    RsMergeArchFile = cacheFolder + "RsMergeArch.bcp.gz"
+    cacheFile = cacheFolder + "dbSNP.pickle"
+
+    if os.path.isdir(cacheFolder) == False:
+        os.mkdir(cacheFolder)
+
+    if not os.path.exists(RsMergeArchFile):
+        print(RsMergeArchFile +" not found, downloading")
+        wget.download(url, RsMergeArchFile)
+
+    if os.path.exists(cacheFile):
+        with open(cacheFile, 'rb') as file:
+            snpDict = pickle.load(file)
+    else:
+        snpDict = {}
+
+    with gzip.open(RsMergeArchFile, 'rb') as fin:
+        for line in fin:
+            line = line.decode('UTF-8')
+            line = line.split("\t")
+            orig = int(line[0]) #Old-UD
+            newId = int(line[1]) #New-ID
+
+#            if orig in dbSNPIDs or newId in dbSNPIDs:
+            if newId not in snpDict.keys():
+                snpDict[newId] = set()
+
+            snpDict[newId].add(orig)
+            snpDict[newId].add(newId)
+
+    #Save the result to disk
+    with open(cacheFile, 'wb') as fid:
+        pickle.dump(snpDict, fid)
+
+    #For some dbSNP-ID's we have no merge information in the file, because these are corect ones :)
+    #E.g., when starting with 334 we will find no merge information, as the ID is correct
+    #However, we still want to distinguish these ID's from potentially non-existant ID's
+    #To this end we use the REST-API :)
+
+    dbSNPIDs = set(dbSNPIDs) - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
+    if len(dbSNPIDs) > 0:
+        print("Querying REST-API for remaining set of "+str(len(dbSNPIDs)) +" IDs")
+    snpDict = getSNPFromXML(dbSNPIDs)
+
+    return snpDict
+
 
 #divide list into chunks of size n
 def divide_chunks(listIn, n):
     for i in range(0, len(listIn), n):
         yield listIn[i:i + n]
+
+def getSNPFromXML(dbSNPIDs):
+    dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
+    cacheFolder = "cache/"
+    cacheFile = cacheFolder + "dbSNP.pickle"
+
+    if os.path.isdir(cacheFolder) == False:
+        os.mkdir(cacheFolder)
+
+    if os.path.exists(cacheFile):
+        with open(cacheFile, 'rb') as file:
+            snpDict = pickle.load(file)
+    else:
+        snpDict = {}
+
+    dbSNPIDs = dbSNPIDs - set(snpDict.keys())#We query the webservice only for missing dbSNP-identifiers
+
+    for dbSNP in tqdm(dbSNPIDs):
+        response = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=snp&term=rs" +str(dbSNP), timeout=60)
+        root = ET.fromstring(response.text)
+        tmp = set()
+        for dbSNPId in root.find("IdList").findall("Id"):
+            tmp.add(int(dbSNPId.text))
+
+        snpDict[int(dbSNP)] = tmp
+
+        with open(cacheFile, 'wb') as fid:
+            pickle.dump(snpDict, fid)
+    return snpDict
 
 
 #Retrieves all merge information for a set of dbSNP identifiers
@@ -43,6 +132,7 @@ def getSNPs(dbSNPIDs):
             with open(cacheFile, 'wb') as fid:
                 pickle.dump(snpDict, fid)
 
+#https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=snp&term=rs2066714
 
     #Perform the same block as before, but this time we call the REST service for each dbSNP seperately
     #In our experiments we observed that the dbSNP webservice has problems when called with 10 ID's and one
