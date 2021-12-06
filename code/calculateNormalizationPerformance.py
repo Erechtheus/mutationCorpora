@@ -1,17 +1,18 @@
+import os
 import json
 from fetchTool import getSNPFromRsMergeArch
 
 goldFile="../corpora/json/linking/osiris.json"
-predFile ="../corpora/predictions/linking/osiris.json"
+predFile ="../corpora/predictions/linking/osiris-xml.json"
 
 goldFile="../corpora/json/linking/thomas.json"
-predFile ="../corpora/predictions/linking/thomas.json"
+predFile ="../corpora/predictions/linking/thomas-xml.json"
 
 goldFile="../corpora/json/linking/tmvarnorm.json"
-predFile ="../corpora/predictions/linking/tmvarnom.json"
+predFile ="../corpora/predictions/linking/tmvarnom-xml.json"
 
 goldFile="../corpora/json/linking/mutationCoreference.json"
-predFile ="../corpora/predictions/linking/mutationCoreference.json"
+predFile ="../corpora/predictions/linking/mutationCoreference-xml.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -23,6 +24,8 @@ f.close()
 with open(predFile) as f:
     predDocuments = json.load(f)
 f.close()
+
+resultFile = open(os.path.abspath(predFile) +".result", "w")
 
 ####<Retrieve all dbSNP Ids>####
 dbSNPIDs = set()
@@ -87,7 +90,8 @@ for goldDocument in goldDocuments["documents"]:
                 # If we find not the entity or if the returned entity has no rs-ID -> FN
                 elif len(predEntity) == 0 or len(predEntity[0]["rs"]) ==0:
                     performances[goldType]["fn"] = performances[goldType]["fn"] + 1
-                    print(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(set()) + "\t" + goldType +"\tFN" )
+                    resultFile.write(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(set()) + "\t" + goldType +"\tFN" )
+                    resultFile.write("\n")
 
                 #In this case we have at least one prediction for the named entity
                 else:
@@ -102,19 +106,22 @@ for goldDocument in goldDocuments["documents"]:
                         if equals(goldRS, predictedRS):
                             tp = True
                             toRemove.add(predictedRS)
-                            print(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(predictedRSs) + "\t"+goldType +"\tTP")
+                            resultFile.write(documentID + "\t" + goldID +"\t" +goldText + "\trs=" + str(goldRS) + "\t" + str(predictedRSs) + "\t"+goldType +"\tTP")
+                            resultFile.write("\n")
 
-                    predictedRSs = predictedRSs - toRemove
+                            predictedRSs = predictedRSs - toRemove
 
                     if tp == True:
                         performances[goldType]["tp"] = performances[goldType]["tp"] +1
                     else:
                         performances[goldType]["fn"] = performances[goldType]["fn"] +1
-                        print(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFN")
+                        resultFile.write(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFN")
+                        resultFile.write("\n")
 
                     if len(predictedRSs) > 0:
                         performances[goldType]["fp"] = performances[goldType]["fp"] +len(predictedRSs)
-                        print(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFP")
+                        resultFile.write(documentID +"\t" +goldID +"\t" +goldText +"\trs=" +str(goldRS) +"\t" +str(predictedRSs)+ "\t"+goldType +"\tFP")
+                        resultFile.write("\n")
 
 def divideWOException(num, denum):
     try:
@@ -125,7 +132,7 @@ def divideWOException(num, denum):
 tpSum = 0
 fpSum = 0
 fnSum = 0
-print("```")
+printString = "```\n"
 for key in performances.keys():
     tp = performances[key]["tp"]
     fp = performances[key]["fp"]
@@ -135,30 +142,35 @@ for key in performances.keys():
     fpSum+= fp
     fnSum+= fn
 
-    print("------" +key +"------")
-    print("TP=" +str(tp))
-    print("FP=" +str(fp))
-    print("FN=" +str(fn))
+    printString = printString +"------" +key +"------\n"
+    printString = printString + ("TP=" +str(tp) +"\n")
+    printString = printString + ("FP=" +str(fp) +"\n")
+    printString = printString + ("FN=" +str(fn) +"\n")
 
     precision = divideWOException(tp,(tp+fp))
     recall = divideWOException(tp,(tp + fn))
     f1 = divideWOException(2 * (recall * precision) , (recall + precision))
 
-    print("Precision=%.2f" % precision )
-    print("Recall=%.2f" %recall)
-    print("F1=%.2f" %f1)
+    printString = printString + ("Precision=%.2f" % precision +"\n")
+    printString = printString + ("Recall=%.2f" %recall +"\n")
+    printString = printString + ("F1=%.2f" %f1 +"\n")
 
 
 
-print("------" +"Overall" +"------")
-print("TP=" +str(tpSum))
-print("FP=" +str(fpSum))
-print("FN=" +str(fnSum))
+printString = printString +("------" +"Overall" +"------"+"\n")
+printString = printString +("TP=" +str(tpSum)+"\n")
+printString = printString +("FP=" +str(fpSum)+"\n")
+printString = printString +("FN=" +str(fnSum)+"\n")
 
 precision = tpSum / (tpSum + fpSum)
 recall = tpSum / (tpSum + fnSum)
 f1 = 2 * (recall * precision) / (recall + precision)
-print("Precision=%.2f" % precision)
-print("Recall=%.2f" % recall)
-print("F1=%.2f" % f1)
-print("```")
+printString = printString +("Precision=%.2f" % precision+"\n")
+printString = printString +("Recall=%.2f" % recall+"\n")
+printString = printString +("F1=%.2f" % f1+"\n")
+printString = printString +("```")
+
+print(printString)
+
+resultFile.write(printString)
+resultFile.close()
