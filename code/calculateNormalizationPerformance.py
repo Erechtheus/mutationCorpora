@@ -3,16 +3,16 @@ import json
 from fetchTool import getSNPFromRsMergeArch
 
 goldFile="../corpora/json/linking/osiris.json"
-predFile ="../corpora/predictions/linking/osiris-xml.json"
+predFile ="../corpora/predictions/linking/osiris-json.json"
 
 goldFile="../corpora/json/linking/thomas.json"
-predFile ="../corpora/predictions/linking/thomas-xml.json"
+predFile ="../corpora/predictions/linking/thomas-json.json"
 
 goldFile="../corpora/json/linking/tmvarnorm.json"
-predFile ="../corpora/predictions/linking/tmvarnom-xml.json"
+predFile ="../corpora/predictions/linking/tmvarnom-json.json"
 
 goldFile="../corpora/json/linking/mutationCoreference.json"
-predFile ="../corpora/predictions/linking/mutationCoreference-xml.json"
+predFile ="../corpora/predictions/linking/mutationCoreference-json.json"
 
 if __name__ == "__main__":
     print("Executing")
@@ -51,6 +51,11 @@ snpDict = getSNPFromRsMergeArch(dbSNPIDs)
 def equals(goldSNP, predSNP):
     seta = set(snpDict[goldSNP])
     setb = set(snpDict[predSNP])
+
+    #We add the keys to the set simply, because some target ID's are not valid dbSNP identifiers, but we want tp be able to normalize them
+    #E.g., we assume that we found the text mention rs12345678 -> even if this identifier does not exist, we want to say it is a TP
+    seta.add(goldSNP)
+    setb.add(predSNP)
 
     # If the two sets are disjoint, then the elements cannot be identical
     return not set(seta).isdisjoint(setb)
