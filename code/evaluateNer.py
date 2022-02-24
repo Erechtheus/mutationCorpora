@@ -2,18 +2,21 @@ from nervaluate import Evaluator
 import json
 import argparse
 
+#Parse arguments from command line
+parser = argparse.ArgumentParser(description='Evaluate Named Entity Recognition performance')
+parser.add_argument('--gold', required=True, type=str, nargs='?', help='Destination of gold-file')
+parser.add_argument('--prediction', required=True, type=str, nargs='?', help='Destination of predicted file')
+args = parser.parse_args()
+if args.gold:
+    goldFile = args.gold
+
+if args.prediction:
+    predFile = args.prediction
+
+
 if __name__ == "__main__":
     print("Evaluation of named entity recogntion")
 
-    # Parse the arguments from the command line
-    parser = argparse.ArgumentParser(description='Evaluate Named Entity Recognition performance')
-    parser.add_argument('gold', nargs='?', help='Destination of gold-file')
-    parser.add_argument('prediction', nargs='?', help='Destination of predicted file')
-    args = parser.parse_args()
-    #main(args.config)
-
-goldFile="corpora/json/linking/mutationCoreference.json"
-predFile ="corpora/json/linking/mutationCoreference.json"
 
 
 # Code to convert our internal representation for named entities into
