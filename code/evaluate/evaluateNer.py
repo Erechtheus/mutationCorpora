@@ -1,6 +1,7 @@
 from nervaluate import Evaluator
 import json
 import argparse
+import os
 
 # --gold /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/json/amia-test.json --prediction /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/predictions/ner/predictions.json
 # --gold /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/json/amia-test.json --prediction /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/predictions/ner/predictions_run_25_02_22_12_06.json
@@ -17,8 +18,13 @@ if args.prediction:
 
 
 if __name__ == "__main__":
-    print("Evaluation of named entity recogntion")
+    print("Evaluation of named entity recognition (NER)")
 
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 
 # Code to convert our internal representation for named entities into

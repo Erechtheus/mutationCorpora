@@ -16,7 +16,13 @@ inFile="../corpora/json/amia-train.json"
 #inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
-    print("Executing")
+    print("Evaluate JSON completeness")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 """for inFile in glob.iglob("../corpora/json/linking/" + '/*.json', recursive=True):
     print(inFile)

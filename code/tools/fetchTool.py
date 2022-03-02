@@ -106,7 +106,7 @@ def divide_chunks(listIn, n):
 
 def getSNPFromXML(dbSNPIDs):
     dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
 
     if os.path.isdir(cacheFolder) == False:
@@ -140,7 +140,7 @@ def getSNPFromXML(dbSNPIDs):
 # Result is a dictionary with merged ids
 def getSNPs(dbSNPIDs):
     dbSNPIDs = set(map(int, dbSNPIDs)) #Ensure that the IDs are a set and integers
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
 
     if os.path.isdir(cacheFolder) == False:

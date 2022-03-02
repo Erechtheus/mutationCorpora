@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="Next iteration">
-      <change afterPath="$PROJECT_DIR$/cache/dbSNP.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/thomas.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mutationCorpora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mutationCorpora.iml" afterDir="false" />
+    <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="Some refactorings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/Nagel.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Nagel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/Nala.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Nala.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/Osiris.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Osiris.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/SETH.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/SETH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/Variome.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Variome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/Variome120.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Variome120.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/amia18.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/amia18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/thomas2011.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/thomas2011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/tmVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/tmVar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/convert/tmVarNorm.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/tmVarNorm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/dbSNP.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/cache/dbSNP.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/evaluate/evaluateJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/evaluateJson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/evaluate/evaluateNer.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/evaluateNer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/tools/fetchTool.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/tools/fetchTool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +77,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exportInBRAT">
+  <component name="RunManager" selected="Python.calculateNormalizationPerformance">
     <configuration name="Variome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mutationCorpora" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +141,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="evaluateJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/evaluate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/evaluate/evaluateJson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exportInBRAT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mutationCorpora" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,41 +183,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tmVarNorm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mutationCorpora" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/tmVarNorm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.tmVarNorm" />
       <item itemvalue="Python.Variome" />
       <item itemvalue="Python.Variome120" />
       <item itemvalue="Python.calculateNormalizationPerformance" />
       <item itemvalue="Python.exportInBRAT" />
+      <item itemvalue="Python.evaluateJson" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exportInBRAT" />
         <item itemvalue="Python.calculateNormalizationPerformance" />
+        <item itemvalue="Python.evaluateJson" />
+        <item itemvalue="Python.exportInBRAT" />
         <item itemvalue="Python.Variome120" />
         <item itemvalue="Python.Variome" />
-        <item itemvalue="Python.tmVarNorm" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635841733892</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Some refactorings">
+      <created>1646234605636</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646234605636</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -335,6 +331,7 @@
     <MESSAGE value="Resolved some errors in amia" />
     <MESSAGE value="Making progress" />
     <MESSAGE value="Next iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Next iteration" />
+    <MESSAGE value="Some refactorings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some refactorings" />
   </component>
 </project>
