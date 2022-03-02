@@ -1,0 +1,12 @@
+{
+  "data_format": "json",
+  "data_url": "/home/lisa/projects/mutationCorpora/corpora/json/",
+  "model": "bert-base-cased",
+  "test": "amia-test.json",
+  "train": "amia-train.json",
+  "use_wandb": false,
+  "test_size": 0.1,
+  "seed": 42,
+  "epochs": 10,
+  "patience": 4
+}
