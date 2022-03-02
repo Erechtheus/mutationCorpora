@@ -2,8 +2,17 @@ import os
 import glob
 import json
 
-inDir = "corpora/original/amia-18-mutation-corpus-master/data/"
-outDir="corpora/json/"
+inDir = "../corpora/original/amia-18-mutation-corpus-master/data/"
+outDir= "../corpora/json/"
+
+if __name__ == "__main__":
+    print("Converting Amia corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 def getDocuments(inDir):
 

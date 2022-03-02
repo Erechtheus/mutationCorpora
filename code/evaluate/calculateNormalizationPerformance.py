@@ -1,6 +1,6 @@
 import os
 import json
-from code.tools.fetchTool import getSNPFromRsMergeArch
+from tools.fetchTool import getSNPFromRsMergeArch
 
 goldFile="../corpora/json/linking/osiris.json"
 predFile ="../corpora/predictions/linking/osiris-json.json"

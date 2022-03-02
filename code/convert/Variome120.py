@@ -2,8 +2,18 @@ import json
 import glob
 import os
 
-inDir = "corpora/original/Variome120/"
-outFile="corpora/json/Variome120.json"
+inDir = "../corpora/original/Variome120/"
+outFile = "../corpora/json/Variome120.json"
+
+if __name__ == "__main__":
+    print("Converting Variome120 corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 #1.) Load corpus
 corpusDict = {}

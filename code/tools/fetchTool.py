@@ -12,7 +12,7 @@ import gzip
 def getPMID(pmids):
     print("Fething" +str(len(pmids)) +"pubmed abstracts")
 
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "thomas.pickle"
 
     documentDict = {}

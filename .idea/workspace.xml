@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="Next iteration">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Nala.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/dbSNP.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/thomas.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mutationCorpora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mutationCorpora.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/evaluateJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluateJson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/Nagel.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Nagel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/Nala.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Nala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/Osiris.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Osiris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/SETH.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/SETH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/Variome.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Variome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/Variome120.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/Variome120.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/amia18.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/amia18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/thomas2011.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/thomas2011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/tmVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/tmVar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/convert/tmVarNorm.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/convert/tmVarNorm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/tools/fetchTool.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/tools/fetchTool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -74,8 +88,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="SETH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exportInBRAT">
+    <configuration name="Variome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mutationCorpora" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/SETH.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/Variome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,9 +110,104 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Variome120" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/Variome120.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calculateNormalizationPerformance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/evaluate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exportInBRAT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/export/BRAT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/export/BRAT/exportInBRAT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmVarNorm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/tmVarNorm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tmVarNorm" />
+      <item itemvalue="Python.Variome" />
+      <item itemvalue="Python.Variome120" />
+      <item itemvalue="Python.calculateNormalizationPerformance" />
+      <item itemvalue="Python.exportInBRAT" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SETH" />
+        <item itemvalue="Python.exportInBRAT" />
+        <item itemvalue="Python.calculateNormalizationPerformance" />
+        <item itemvalue="Python.Variome120" />
+        <item itemvalue="Python.Variome" />
+        <item itemvalue="Python.tmVarNorm" />
       </list>
     </recent_temporary>
   </component>

@@ -2,8 +2,18 @@ import os
 import glob
 import json
 
-inDir="corpora/original/Nagel/"
-outFile="corpora/json/Nagel.json"
+inDir="../corpora/original/Nagel/"
+outFile="../corpora/json/Nagel.json"
+
+if __name__ == "__main__":
+    print("Converting Nagel corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 print("Script works, but entity offset from 'Nagel_GC.standoff.txt' do not match the text in folder 'NagelCorpusText'")
 exit()

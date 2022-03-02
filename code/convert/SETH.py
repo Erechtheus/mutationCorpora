@@ -2,8 +2,18 @@ import os
 import glob
 import json
 
-inDir="corpora/original/SETH/"
-outFile="corpora/json/SETH.json"
+inDir="../corpora/original/SETH/"
+outFile="../corpora/json/SETH.json"
+
+if __name__ == "__main__":
+    print("Converting SETH corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 corpusDict = {}
 corpusFile = open(inDir + "corpus.txt", 'r')
