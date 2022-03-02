@@ -41,7 +41,7 @@ def getPMID(pmids):
 # In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
 def getSNPFromRsMergeArch(dbSNPIDs):
 
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     url = "ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/database/organism_data/RsMergeArch.bcp.gz"
     RsMergeArchFile = cacheFolder + "RsMergeArch.bcp.gz"
     cacheFile = cacheFolder + "dbSNP.pickle"
