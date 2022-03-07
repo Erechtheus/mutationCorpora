@@ -1,26 +1,34 @@
+import os
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 from torch.utils.data import DataLoader
-import os
-from my_datasets.mutations import load_mutations
 from datasets import GenerateMode, set_caching_enabled
 from pytorch_ie import Document, Pipeline
 from pytorch_lightning.callbacks.early_stopping import EarlyStopping
+from pytorch_lightning.loggers import WandbLogger
 
-
-from pytorch_ie.models import TransformerSpanClassificationModel
 from pytorch_ie.models import TransformerTokenClassificationModel
 
 from pytorch_ie.taskmodules import (
     TransformerSpanClassificationTaskModule,
     TransformerTokenClassificationTaskModule,
 )
-
-import argparse
 import json
-
 from datetime import datetime
+import wandb
+import torch
 
+from my_datasets.mutations import load_mutations
+
+
+wandb.init(project="mutation_ner")
+wandb_logger = WandbLogger(project="mutation_ner")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+if device == "cuda":
+    GPU = 1
+else:
+    GPU = 0
 
 SPAN_CLASSIFICATION = False
 
@@ -56,12 +64,12 @@ def prepare_data(config):
     return train_docs, val_docs
 
 
-def get_task_module(model_name):
+def get_task_module(model_name, config):
     """..."""
     if SPAN_CLASSIFICATION:
         task_module = TransformerSpanClassificationTaskModule(
             tokenizer_name_or_path=model_name,
-            max_length=300,
+            max_length=config["max_window"],
             padding="max_length",
             single_sentence=True,
             sentence_annotation="sentences",
@@ -74,14 +82,21 @@ def get_task_module(model_name):
             # padding="max_length",
             partition_annotation="sentences",
             truncation=True,
-            max_window=512,
+            max_window=config["max_window"],
         )
 
     return task_module
 
 
 def finetune_model(
-    model_name, model_output_path, config, task_module, train_dataloader, val_dataloader, num_epochs=3
+    model_name,
+    model_output_path,
+    config,
+    task_module,
+    train_dataloader,
+    val_dataloader,
+    model_out_name,
+    num_epochs=3,
 ):
     """..."""
     if SPAN_CLASSIFICATION:
@@ -90,21 +105,21 @@ def finetune_model(
             model_name_or_path=model_name,
             # num_classes=len(task_module.label_to_id),
             t_total=len(train_dataloader) * num_epochs,
-            learning_rate=1e-4,
+            learning_rate=config["learning_rate"],
         )
     else:
         model = TransformerTokenClassificationModel(
             model_name_or_path=model_name,
             num_classes=len(task_module.label_to_id),
             # t_total=len(train_dataloader) * num_epochs,
-            learning_rate=1e-4,
+            learning_rate=config["learning_rate"],
         )
 
     checkpoint_callback = ModelCheckpoint(
         monitor="val/f1",
         dirpath=model_output_path,
         # filename="ner-{epoch:02d}-val_f1-{val/f1:.2f}",
-        filename="ner-finetuned",
+        filename=model_out_name,
         save_top_k=1,
         mode="max",
         auto_insert_metric_name=False,
@@ -124,11 +139,12 @@ def finetune_model(
     trainer = pl.Trainer(
         fast_dev_run=False,
         max_epochs=config.get("num_epochs", num_epochs),
-        gpus=0,
+        gpus=GPU,
         enable_checkpointing=True,
         callbacks=[early_stop_callback, checkpoint_callback],
         precision=32,
         log_every_n_steps=10,
+        logger=wandb_logger,
     )
     trainer.fit(model, train_dataloader, val_dataloader)
 
@@ -137,21 +153,30 @@ def finetune_model(
     # trainer.save_checkpoint(model_output_path + "model.ckpt")
 
 
-def main(config):
+def run_training(config):
     pl.seed_everything(42)
+
+    wandb.log({"config_file": config})
 
     with open(config, "r") as read_handle:
         config = json.load(read_handle)
 
+    # wandb.config.update(config)
+    # set config defaults
+    wandb.config.setdefaults(config)
+
     t = datetime.now().strftime("%d_%m_%y_%H_%M")
-    model_output_path = f"./model_output/run_{t}/"
-    model_name = "bert-base-cased"
-    num_epochs = 30
-    batch_size = 12
+    model_dir = "./model_output/"
+    run_name = f"run_{t}/"
+    model_output_path = os.path.join(model_dir, run_name)
+    model_out_name = "ner-finetuned"
+    model_type = wandb.config["model"]
+    num_epochs = wandb.config["epochs"]
+    batch_size = wandb.config["batch_size"]
 
-    train_docs, val_docs = prepare_data(config)
+    train_docs, val_docs = prepare_data(config=wandb.config)
 
-    task_module = get_task_module(model_name)
+    task_module = get_task_module(model_type, config=wandb.config)
 
     # creates id2label and label2id dicts
     task_module.prepare(train_docs)
@@ -178,8 +203,19 @@ def main(config):
     )
 
     finetune_model(
-        model_name, model_output_path, config, task_module, train_dataloader, val_dataloader, num_epochs=num_epochs
+        model_type,
+        model_output_path,
+        wandb.config,
+        task_module,
+        train_dataloader,
+        val_dataloader,
+        model_out_name=model_out_name,
+        num_epochs=num_epochs,
     )
+
+    wandb.log({"run_name": run_name, "model_dir": model_dir})
+
+    return run_name, model_dir, model_type
 
     ################### PREDICTION ###############
     # print("\nPredicting:")

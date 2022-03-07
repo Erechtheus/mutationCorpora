@@ -10,7 +10,7 @@ from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 
 # from pytorch_ie.data.datasets.conll2003 import load_conll2003
 
-from pytorch_ie.models import TransformerSpanClassificationModel
+# from pytorch_ie.models import TransformerSpanClassificationModel
 from pytorch_ie.models import TransformerTokenClassificationModel
 
 # from pytorch_ie.models.transformer_token_classification import TransformerSpanClassificationModel
@@ -27,19 +27,17 @@ import json
 SPAN_CLASSIFICATION = False
 
 
-def main(config):
+def run_prediction(config, run_name, model_output_dir, model_type):
     pl.seed_everything(42)
 
     with open(config, "r") as read_handle:
         config = json.load(read_handle)
 
-    run_name = "run_25_02_22_12_06"
-    model_output_path = f"./model_output/{run_name}/ner-finetuned.ckpt"
-    model_name = "bert-base-cased"
-    taskmodule_config_file = f"./model_output/{run_name}/taskmodule_config.json"
-    predictions_output = f"./model_output/{run_name}/predictions_{run_name}.json"
-    num_epochs = 2
-    batch_size = 8
+    model_output_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
+    # taskmodule_config_file = f"./{model_output_dir}/{run_name}/taskmodule_config.json"
+    taskmodule_config_file = os.path.join(model_output_dir, run_name, "taskmodule_config.json")
+    # predictions_output = f"./{model_output_dir}/{run_name}/predictions_{run_name}.json"
+    predictions_output = os.path.join(model_output_dir, run_name, f"predictions_{run_name[:-1]}.json")
 
     with open(taskmodule_config_file) as read_handle:
         taskmodule_config = json.load(read_handle)
@@ -65,7 +63,7 @@ def main(config):
 
     if SPAN_CLASSIFICATION:
         ner_taskmodule = TransformerSpanClassificationTaskModule(
-            tokenizer_name_or_path=model_name,
+            tokenizer_name_or_path=model_type,
             max_length=300,
             padding="max_length",
             label_to_id=taskmodule_config["label_to_id"],
@@ -77,7 +75,7 @@ def main(config):
         )
     else:
         ner_taskmodule = TransformerTokenClassificationTaskModule(
-            tokenizer_name_or_path=model_name,
+            tokenizer_name_or_path=model_type,
             # max_length=512,
             # label_to_id=LABEL2ID,
             # padding="max_length",
@@ -87,17 +85,10 @@ def main(config):
             max_window=512,
         )
 
-        # ner_model = TransformerTokenClassificationModel.from_pretrained(
-        #     model_output_path
-        # )
+        ner_model = TransformerTokenClassificationModel.load_from_checkpoint(
+            model_output_path
+        )
 
-        ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_output_path)
-
-    # creates id2label and label2id dicts
-    # task_module.prepare(train_docs)
-
-    # train_dataset = task_module.encode(train_docs, encode_target=True)
-    # val_dataset = task_module.encode(val_docs, encode_target=True)
     test_dataset = ner_taskmodule.encode(test_docs, encode_target=True)
 
     ner_pipeline = Pipeline(model=ner_model, taskmodule=ner_taskmodule, device=-1)
@@ -144,4 +135,12 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    main(args.config)
+    run_name = "run_25_02_22_12_06"
+    model_type = "bert-base-cased"
+
+    run_prediction(
+        config=args.config,
+        run_name=run_name,
+        model_output_path=model_output_path,
+        model_type=model_type,
+    )

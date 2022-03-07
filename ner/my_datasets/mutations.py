@@ -54,7 +54,6 @@ def convert_brat_to_document(
     # doc = Document(text=brat_doc["context"], doc_id=brat_doc["file_name"])
     doc = Document(text=brat_doc["context"], doc_id=brat_doc["ID"])
 
-
     # add spans
     span_id_mapping = {}
     for brat_span in dl_to_ld(brat_doc["spans"]):
