@@ -5,9 +5,9 @@ import spacy # #python -m spacy download en_core_web_sm
 
 randomSeed = 1202
 splitSize = 80 / 100
-inFolder="../../corpora/json/"
-splitFolder="../../corpora/IOB/splits/"
-iobFolder="../../corpora/IOB/IOB/"
+inFolder="../../../corpora/json/"
+splitFolder="../../../corpora/IOB/splits/"
+iobFolder="../../../corpora/IOB/IOB/"
 
 if __name__ == "__main__":
     print("Generate IOB files using the train/test splits")

@@ -2,8 +2,8 @@ import json
 import os
 from pathlib import Path
 
-inFolder="../corpora/json/"
-outFOlder="../corpora/BRAT/"
+inFolder="../../../corpora/json/"
+outFOlder="../../../corpora/BRAT/"
 
 
 if __name__ == "__main__":
