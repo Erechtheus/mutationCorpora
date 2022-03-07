@@ -54,7 +54,18 @@ for document in root.findall("document"):
                 else:
                     print("No handle for mutation-infon")
 
-            entities.append({"ID": "T" +str(entityId), "type":entityType, "begin" : entityStart, "end" : entityEnd, "text" : entityText})
+            normalizedtype = entityType
+
+            if normalizedtype == "ProteinMutation":
+                normalizedtype = "Mutation"
+            elif normalizedtype == "DNAMutation":
+                normalizedtype = "Mutation"
+            elif normalizedtype == "SNP":
+                normalizedtype = "dbSNP"
+            else:
+                print("Problem to normalize: '" +normalizedtype +"'")
+
+            entities.append({"ID": "T" +str(entityId), "type":entityType, "normalizedtype" : normalizedtype, "begin" : entityStart, "end" : entityEnd, "text" : entityText})
 
 
     jsonDocument = {"document": {

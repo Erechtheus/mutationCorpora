@@ -45,7 +45,16 @@ for filepath in glob.iglob(inDir +'/annotations/*.ann'):
             array = line.split()
 
             if (array[0].startswith("T")):
-                entities.append({"ID": array[0], "type":array[1], "begin" : int(array[2]), "end" : int(array[3]), "text" : " ".join(array[4:])})
+                normalizedtype = array[1]
+                if normalizedtype == "RS":
+                    normalizedtype = "dbSNP"
+                elif normalizedtype == "SNP":
+                    normalizedtype = "Mutation"
+                elif normalizedtype == "Gene":
+                    normalizedtype = "Gene"
+                else:
+                    print("Problem to normalize: '" + normalizedtype + "'")
+                entities.append({"ID": array[0], "type":array[1], "normalizedtype" : normalizedtype, "begin" : int(array[2]), "end" : int(array[3]), "text" : " ".join(array[4:])})
 
             elif (array[0].startswith("R")):
                 if(len(array) != 4):

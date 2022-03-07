@@ -11,6 +11,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1323,
                         "end": 1332,
                         "text": "c.737delC"
@@ -18,6 +19,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1386,
                         "end": 1402,
                         "text": "p.Pro246HisfsX13"
@@ -45,6 +47,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 327,
                         "end": 336,
                         "text": "rs2234671"
@@ -52,6 +55,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 349,
                         "end": 359,
                         "text": "Ex2+860G>C"
@@ -59,6 +63,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 425,
                         "end": 430,
                         "text": "S276T"
@@ -66,6 +71,7 @@
                     {
                         "ID": "T3",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 751,
                         "end": 760,
                         "text": "rs2234671"
@@ -73,6 +79,7 @@
                     {
                         "ID": "T4",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 972,
                         "end": 981,
                         "text": "rs2234671"
@@ -100,6 +107,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1031,
                         "end": 1038,
                         "text": "3190C>T"
@@ -107,6 +115,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1160,
                         "end": 1169,
                         "text": "Arg987Ter"
@@ -114,6 +123,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1287,
                         "end": 1296,
                         "text": "Arg987Ter"
@@ -160,6 +170,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 902,
                         "end": 911,
                         "text": "c.104delT"
@@ -167,6 +178,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 957,
                         "end": 972,
                         "text": "p.Val35AlafsX25"
@@ -194,6 +206,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1185,
                         "end": 1192,
                         "text": "rs16754"
@@ -201,6 +214,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1472,
                         "end": 1479,
                         "text": "rs16754"
@@ -228,6 +242,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1065,
                         "end": 1073,
                         "text": "c.130G>A"
@@ -235,6 +250,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1342,
                         "end": 1350,
                         "text": "c.130G>A"
@@ -242,6 +258,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1458,
                         "end": 1464,
                         "text": "p.V44M"
@@ -288,6 +305,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 818,
                         "end": 833,
                         "text": "IVSII-1 (G > A)"
@@ -295,6 +313,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 874,
                         "end": 889,
                         "text": "IVSII-1 (G > A)"
@@ -302,6 +321,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1045,
                         "end": 1061,
                         "text": "CD +90 del 13 bp"
@@ -329,6 +349,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 579,
                         "end": 591,
                         "text": "c.1706-2 A>T"
@@ -336,6 +357,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 847,
                         "end": 872,
                         "text": "c.1706-1715del.ATCTCCTCAG"
@@ -343,6 +365,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1071,
                         "end": 1089,
                         "text": "p.(Asp569Valfs*93)"
@@ -370,6 +393,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 6,
                         "end": 15,
                         "text": "Arg399Gln"
@@ -377,6 +401,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 256,
                         "end": 265,
                         "text": "Arg399Gln"
@@ -384,6 +409,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 267,
                         "end": 274,
                         "text": "rs25487"
@@ -391,6 +417,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 359,
                         "end": 368,
                         "text": "Arg399Gln"
@@ -398,6 +425,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 919,
                         "end": 928,
                         "text": "Arg399Gln"
@@ -405,6 +433,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1561,
                         "end": 1570,
                         "text": "Arg399Gln"
@@ -451,6 +480,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1019,
                         "end": 1024,
                         "text": "L180M"
@@ -458,6 +488,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1029,
                         "end": 1034,
                         "text": "M204V"
@@ -465,6 +496,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1130,
                         "end": 1135,
                         "text": "V173L"
@@ -472,6 +504,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1239,
                         "end": 1244,
                         "text": "V173L"
@@ -479,6 +512,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1249,
                         "end": 1254,
                         "text": "L180M"
@@ -486,6 +520,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1259,
                         "end": 1264,
                         "text": "M204V"
@@ -493,6 +528,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1312,
                         "end": 1317,
                         "text": "E164D"
@@ -500,6 +536,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1321,
                         "end": 1326,
                         "text": "I195M"
@@ -507,6 +544,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1358,
                         "end": 1364,
                         "text": "A1762T"
@@ -514,6 +552,7 @@
                     {
                         "ID": "T9",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1366,
                         "end": 1372,
                         "text": "G1764A"
@@ -521,6 +560,7 @@
                     {
                         "ID": "T10",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1401,
                         "end": 1407,
                         "text": "G1896A"
@@ -528,6 +568,7 @@
                     {
                         "ID": "T11",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1409,
                         "end": 1415,
                         "text": "G1899A"
@@ -555,6 +596,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 374,
                         "end": 384,
                         "text": "p.Asp50Asn"
@@ -562,6 +604,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1712,
                         "end": 1720,
                         "text": "c.263C>T"
@@ -569,6 +612,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1797,
                         "end": 1807,
                         "text": "p.Ala88Val"
@@ -576,6 +620,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1903,
                         "end": 1911,
                         "text": "c.263C>T"
@@ -583,6 +628,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1913,
                         "end": 1923,
                         "text": "p.Ala88Val"
@@ -667,6 +713,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 47,
                         "end": 57,
                         "text": "Arg158 Pro"
@@ -694,6 +741,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 751,
                         "end": 759,
                         "text": "c.69delC"
@@ -701,6 +749,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 832,
                         "end": 843,
                         "text": "c.410+5 G/A"
@@ -747,6 +796,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 741,
                         "end": 749,
                         "text": "c.908G>A"
@@ -754,6 +804,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 891,
                         "end": 896,
                         "text": "G303E"
@@ -781,6 +832,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 577,
                         "end": 580,
                         "text": "T>C"
@@ -788,6 +840,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 617,
                         "end": 622,
                         "text": "I597T"
@@ -815,6 +868,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 600,
                         "end": 607,
                         "text": "-616C/G"
@@ -822,6 +876,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 613,
                         "end": 620,
                         "text": "-521C/T"
@@ -829,6 +884,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 914,
                         "end": 923,
                         "text": "-1240 L/S"
@@ -836,6 +892,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1014,
                         "end": 1022,
                         "text": "-521 C/T"
@@ -843,6 +900,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1209,
                         "end": 1217,
                         "text": "-521 C/T"
@@ -889,6 +947,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 14,
                         "end": 21,
                         "text": "delta32"
@@ -916,6 +975,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 27,
                         "end": 35,
                         "text": "-1021C/T"
@@ -923,6 +983,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 400,
                         "end": 409,
                         "text": "rs1611115"
@@ -930,6 +991,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1261,
                         "end": 1270,
                         "text": "rs1800587"
@@ -957,6 +1019,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1077,
                         "end": 1085,
                         "text": "c.-17T>C"
@@ -964,6 +1027,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1087,
                         "end": 1095,
                         "text": "c.171T>C"
@@ -971,6 +1035,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1097,
                         "end": 1105,
                         "text": "c.465G>T"
@@ -978,6 +1043,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1144,
                         "end": 1152,
                         "text": "c.465G>T"
@@ -985,6 +1051,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1201,
                         "end": 1212,
                         "text": "p.Glu155Asp"
@@ -1031,6 +1098,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 21,
                         "end": 29,
                         "text": "10034C>T"
@@ -1038,6 +1106,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 493,
                         "end": 501,
                         "text": "10034C>T"
@@ -1045,6 +1114,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 503,
                         "end": 512,
                         "text": "rs2066865"
@@ -1052,6 +1122,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1337,
                         "end": 1345,
                         "text": "10034C>T"
@@ -1079,6 +1150,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1072,
                         "end": 1080,
                         "text": "rs525549"
@@ -1086,6 +1158,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1085,
                         "end": 1094,
                         "text": "rs6589664"
@@ -1093,6 +1166,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1125,
                         "end": 1134,
                         "text": "rs5758222"
@@ -1100,6 +1174,7 @@
                     {
                         "ID": "T3",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1136,
                         "end": 1145,
                         "text": "rs7286979"
@@ -1107,6 +1182,7 @@
                     {
                         "ID": "T4",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1151,
                         "end": 1158,
                         "text": "rs20551"
@@ -1114,6 +1190,7 @@
                     {
                         "ID": "T5",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1520,
                         "end": 1529,
                         "text": "rs6589664"
@@ -1160,6 +1237,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 557,
                         "end": 568,
                         "text": "c.2554+1G>T"
@@ -1225,6 +1303,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 722,
                         "end": 741,
                         "text": "c.2515_2519delAAGTT"
@@ -1252,6 +1331,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1285,
                         "end": 1293,
                         "text": "c.356G>A"
@@ -1259,6 +1339,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1330,
                         "end": 1335,
                         "text": "C119Y"
@@ -1266,6 +1347,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1609,
                         "end": 1616,
                         "text": "rs13267"
@@ -1273,6 +1355,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1824,
                         "end": 1829,
                         "text": "C119Y"
@@ -1300,6 +1383,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 550,
                         "end": 565,
                         "text": "c.1546_1547insC"
@@ -1307,6 +1391,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 769,
                         "end": 783,
                         "text": "IVS3 + 18C > T"
@@ -1314,6 +1399,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 980,
                         "end": 994,
                         "text": "IVS3 + 18C > T"
@@ -1341,6 +1427,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 988,
                         "end": 1023,
                         "text": "(G-->A) at nucleotide position 2141"
@@ -1368,6 +1455,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 686,
                         "end": 695,
                         "text": "rs4112788"
@@ -1375,6 +1463,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 989,
                         "end": 998,
                         "text": "rs4112788"
@@ -1382,6 +1471,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1381,
                         "end": 1385,
                         "text": "R68C"
@@ -1428,6 +1518,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 621,
                         "end": 638,
                         "text": "codon 104 G --> A"
@@ -1455,6 +1546,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 674,
                         "end": 683,
                         "text": "rs2070197"
@@ -1462,6 +1554,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 756,
                         "end": 765,
                         "text": "rs2004640"
@@ -1469,6 +1562,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 770,
                         "end": 780,
                         "text": "rs10954213"
@@ -1476,6 +1570,7 @@
                     {
                         "ID": "T3",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 821,
                         "end": 831,
                         "text": "rs10954213"
@@ -1483,6 +1578,7 @@
                     {
                         "ID": "T4",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1010,
                         "end": 1020,
                         "text": "rs10954213"
@@ -1510,6 +1606,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1029,
                         "end": 1036,
                         "text": "p.E180K"
@@ -1517,6 +1614,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1038,
                         "end": 1045,
                         "text": "p.R194S"
@@ -1524,6 +1622,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1051,
                         "end": 1058,
                         "text": "p.C152G"
@@ -1531,6 +1630,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1152,
                         "end": 1164,
                         "text": "p.D157fsX158"
@@ -1538,6 +1638,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1169,
                         "end": 1181,
                         "text": "p.S173fsX174"
@@ -1565,6 +1666,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 6,
                         "end": 15,
                         "text": "Ser326Cys"
@@ -1572,6 +1674,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 230,
                         "end": 239,
                         "text": "rs1052133"
@@ -1579,6 +1682,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 468,
                         "end": 477,
                         "text": "rs1052133"
@@ -1586,6 +1690,7 @@
                     {
                         "ID": "T3",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1453,
                         "end": 1462,
                         "text": "rs1052133"
@@ -1613,6 +1718,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 607,
                         "end": 616,
                         "text": "c.263 G>C"
@@ -1620,6 +1726,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 690,
                         "end": 699,
                         "text": "c.264 C>A"
@@ -1647,6 +1754,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 604,
                         "end": 638,
                         "text": "G>A substitution at nucleotide 893"
@@ -1654,6 +1762,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 640,
                         "end": 645,
                         "text": "R298Q"
@@ -1661,6 +1770,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 715,
                         "end": 725,
                         "text": "rs16864880"
@@ -1726,6 +1836,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 286,
                         "end": 293,
                         "text": "rs16375"
@@ -1753,6 +1864,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 825,
                         "end": 834,
                         "text": "rs2236624"
@@ -1760,6 +1872,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 900,
                         "end": 909,
                         "text": "rs3761422"
@@ -1767,6 +1880,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 911,
                         "end": 920,
                         "text": "rs5751876"
@@ -1774,6 +1888,7 @@
                     {
                         "ID": "T3",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 925,
                         "end": 935,
                         "text": "rs35320474"
@@ -1839,6 +1954,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 854,
                         "end": 862,
                         "text": "c.507G>T"
@@ -1846,6 +1962,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 864,
                         "end": 874,
                         "text": "p.E169stop"
@@ -1853,6 +1970,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 877,
                         "end": 885,
                         "text": "c.867G>T"
@@ -1860,6 +1978,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 887,
                         "end": 897,
                         "text": "p.G289stop"
@@ -1867,6 +1986,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 900,
                         "end": 908,
                         "text": "c.897G>T"
@@ -1874,6 +1994,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 910,
                         "end": 920,
                         "text": "p.E299stop"
@@ -1881,6 +2002,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 967,
                         "end": 982,
                         "text": "c.1558-1559insA"
@@ -1888,6 +2010,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 984,
                         "end": 1000,
                         "text": "p.S522fs 525stop"
@@ -1934,6 +2057,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 962,
                         "end": 968,
                         "text": "G-669A"
@@ -1941,6 +2065,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1541,
                         "end": 1552,
                         "text": "Leu203fsX15"
@@ -1948,6 +2073,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1617,
                         "end": 1623,
                         "text": "Glu98X"
@@ -1955,6 +2081,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1683,
                         "end": 1692,
                         "text": "Ser863Asn"
@@ -2020,6 +2147,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 722,
                         "end": 730,
                         "text": "A 11666C"
@@ -2027,6 +2155,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1023,
                         "end": 1030,
                         "text": "A 1166C"
@@ -2034,6 +2163,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1636,
                         "end": 1643,
                         "text": "A 1166C"
@@ -2061,6 +2191,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 0,
                         "end": 5,
                         "text": "R58fs"
@@ -2068,6 +2199,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1234,
                         "end": 1243,
                         "text": "c.342delA"
@@ -2075,6 +2207,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1322,
                         "end": 1331,
                         "text": "p.Arg58fs"
@@ -2082,6 +2215,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1335,
                         "end": 1342,
                         "text": "p.R58fs"
@@ -2089,6 +2223,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1479,
                         "end": 1484,
                         "text": "R58fs"
@@ -2173,6 +2308,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1541,
                         "end": 1551,
                         "text": "rs12329760"
@@ -2200,6 +2336,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 623,
                         "end": 629,
                         "text": "46delS"
@@ -2207,6 +2344,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 663,
                         "end": 674,
                         "text": "118-119insA"
@@ -2214,6 +2352,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 679,
                         "end": 691,
                         "text": "125-126insAA"
@@ -2221,6 +2360,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 728,
                         "end": 731,
                         "text": "A6V"
@@ -2228,6 +2368,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 733,
                         "end": 738,
                         "text": "P163S"
@@ -2235,6 +2376,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 740,
                         "end": 745,
                         "text": "E359K"
@@ -2242,6 +2384,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 747,
                         "end": 752,
                         "text": "P407Q"
@@ -2249,6 +2392,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 754,
                         "end": 759,
                         "text": "S429T"
@@ -2256,6 +2400,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 764,
                         "end": 769,
                         "text": "A442V"
@@ -2263,6 +2408,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 954,
                         "end": 959,
                         "text": "E359K"
@@ -2270,6 +2416,7 @@
                     {
                         "ID": "T10",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1088,
                         "end": 1101,
                         "text": "c.1146+25insA"
@@ -2316,6 +2463,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 652,
                         "end": 658,
                         "text": "Y1854X"
@@ -2323,6 +2471,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 818,
                         "end": 824,
                         "text": "R1858X"
@@ -2330,6 +2479,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 878,
                         "end": 884,
                         "text": "Y1854X"
@@ -2376,6 +2526,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1088,
                         "end": 1099,
                         "text": "c.2068-4T>A"
@@ -2403,6 +2554,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 0,
                         "end": 6,
                         "text": "L1503R"
@@ -2410,6 +2562,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 501,
                         "end": 538,
                         "text": "T-->G transversion at nucleotide 4508"
@@ -2417,6 +2570,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 573,
                         "end": 579,
                         "text": "L1503R"
@@ -2424,6 +2578,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1194,
                         "end": 1200,
                         "text": "L1503R"
@@ -2431,6 +2586,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1329,
                         "end": 1335,
                         "text": "L1503Q"
@@ -2438,6 +2594,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1455,
                         "end": 1461,
                         "text": "L1503R"
@@ -2465,6 +2622,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1247,
                         "end": 1256,
                         "text": "c.520delC"
@@ -2472,6 +2630,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1258,
                         "end": 1267,
                         "text": "c.681dupA"
@@ -2479,6 +2638,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1269,
                         "end": 1278,
                         "text": "c.956delC"
@@ -2486,6 +2646,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1319,
                         "end": 1329,
                         "text": "c.360+1G>C"
@@ -2493,6 +2654,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1331,
                         "end": 1341,
                         "text": "c.899+1G>T"
@@ -2500,6 +2662,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1343,
                         "end": 1354,
                         "text": "c.1570+2T>C"
@@ -2507,6 +2670,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1409,
                         "end": 1418,
                         "text": "p.Arg153X"
@@ -2514,6 +2678,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1488,
                         "end": 1498,
                         "text": "c.360+1G>C"
@@ -2579,6 +2744,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 720,
                         "end": 725,
                         "text": "R462Q"
@@ -2586,6 +2752,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 730,
                         "end": 735,
                         "text": "D541E"
@@ -2593,6 +2760,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 951,
                         "end": 956,
                         "text": "R462Q"
@@ -2600,6 +2768,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 961,
                         "end": 966,
                         "text": "D541E"
@@ -2607,6 +2776,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1053,
                         "end": 1058,
                         "text": "K294E"
@@ -2614,6 +2784,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1418,
                         "end": 1442,
                         "text": "A/G transition -1,071 bp"
@@ -2641,6 +2812,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 950,
                         "end": 954,
                         "text": "P29S"
@@ -2648,6 +2820,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1224,
                         "end": 1229,
                         "text": "M200V"
@@ -2675,6 +2848,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1093,
                         "end": 1108,
                         "text": "c.97GCC[9]+[10]"
@@ -2682,6 +2856,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1160,
                         "end": 1166,
                         "text": "25*G>A"
@@ -2689,6 +2864,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1234,
                         "end": 1242,
                         "text": "c.262G>A"
@@ -2696,6 +2872,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1280,
                         "end": 1288,
                         "text": "Ala88Thr"
@@ -2703,6 +2880,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1366,
                         "end": 1375,
                         "text": "c.1272C>T"
@@ -2710,6 +2888,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1377,
                         "end": 1386,
                         "text": "Ser424Ser"
@@ -2717,6 +2896,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1392,
                         "end": 1401,
                         "text": "c.1284T>C"
@@ -2724,6 +2904,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1403,
                         "end": 1412,
                         "text": "Tyr428Tyr"
@@ -2751,6 +2932,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 491,
                         "end": 494,
                         "text": "G/A"
@@ -2758,6 +2940,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 706,
                         "end": 716,
                         "text": "-1082(G/A)"
@@ -2785,6 +2968,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 47,
                         "end": 56,
                         "text": "IVS1-1G>C"
@@ -2792,6 +2976,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 225,
                         "end": 236,
                         "text": "IVS1-1G > C"
@@ -2799,6 +2984,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 688,
                         "end": 693,
                         "text": "G > C"
@@ -2806,6 +2992,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 942,
                         "end": 953,
                         "text": "IVS1-1G > A"
@@ -2813,6 +3000,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 957,
                         "end": 968,
                         "text": "IVS1-1G > C"
@@ -2820,6 +3008,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1218,
                         "end": 1229,
                         "text": "IVS1-1G > C"
@@ -2847,6 +3036,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 68,
                         "end": 90,
                         "text": "g.ORF15 + 652-653delAG"
@@ -2854,6 +3044,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 740,
                         "end": 762,
                         "text": "g.ORF15 + 652-653delAG"
@@ -2881,6 +3072,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 263,
                         "end": 270,
                         "text": "Delta32"
@@ -2888,6 +3080,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 845,
                         "end": 852,
                         "text": "Delta32"
@@ -2895,6 +3088,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1134,
                         "end": 1141,
                         "text": "Delta32"
@@ -2902,6 +3096,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1553,
                         "end": 1560,
                         "text": "Delta32"
@@ -2948,6 +3143,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 822,
                         "end": 831,
                         "text": "rs2720709"
@@ -2955,6 +3151,7 @@
                     {
                         "ID": "T1",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1265,
                         "end": 1274,
                         "text": "rs2720709"
@@ -2962,6 +3159,7 @@
                     {
                         "ID": "T2",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 1409,
                         "end": 1418,
                         "text": "rs2648875"
@@ -2989,6 +3187,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 54,
                         "end": 59,
                         "text": "V175M"
@@ -2996,6 +3195,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 306,
                         "end": 315,
                         "text": "Val175Met"
@@ -3003,6 +3203,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 531,
                         "end": 540,
                         "text": "Val175Met"
@@ -3010,6 +3211,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 806,
                         "end": 815,
                         "text": "Val175Met"
@@ -3017,6 +3219,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 951,
                         "end": 960,
                         "text": "Val175Met"
@@ -3024,6 +3227,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1208,
                         "end": 1217,
                         "text": "Val175Met"
@@ -3031,6 +3235,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1278,
                         "end": 1287,
                         "text": "Val175Met"
@@ -3038,6 +3243,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1461,
                         "end": 1470,
                         "text": "Val175Met"
@@ -3065,6 +3271,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 773,
                         "end": 778,
                         "text": "A149P"
@@ -3072,6 +3279,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 780,
                         "end": 785,
                         "text": "A174D"
@@ -3079,6 +3287,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 791,
                         "end": 796,
                         "text": "N334K"
@@ -3125,6 +3334,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 491,
                         "end": 496,
                         "text": "6bINS"
@@ -3132,6 +3342,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 642,
                         "end": 647,
                         "text": "6bINS"
@@ -3139,6 +3350,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1119,
                         "end": 1124,
                         "text": "6bINS"
@@ -3146,6 +3358,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1418,
                         "end": 1423,
                         "text": "6bINS"
@@ -3153,6 +3366,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1552,
                         "end": 1557,
                         "text": "6bINS"
@@ -3218,6 +3432,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1220,
                         "end": 1228,
                         "text": "-2084G>C"
@@ -3225,6 +3440,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1233,
                         "end": 1241,
                         "text": "-1282G>A"
@@ -3271,6 +3487,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 754,
                         "end": 765,
                         "text": "p.Ser555Leu"
@@ -3278,6 +3495,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 846,
                         "end": 857,
                         "text": "c.2633+1G>C"
@@ -3285,6 +3503,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1074,
                         "end": 1085,
                         "text": "c.2633+1G>C"
@@ -3292,6 +3511,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1183,
                         "end": 1197,
                         "text": "r.2521_2634del"
@@ -3319,6 +3539,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 823,
                         "end": 834,
                         "text": "c.2406C-->A"
@@ -3346,6 +3567,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 359,
                         "end": 366,
                         "text": "1858C/T"
@@ -3353,6 +3575,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 907,
                         "end": 914,
                         "text": "2250G/C"
@@ -3360,6 +3583,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1216,
                         "end": 1223,
                         "text": "1858C/T"
@@ -3406,6 +3630,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 636,
                         "end": 645,
                         "text": "-863C > A"
@@ -3413,6 +3638,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1607,
                         "end": 1642,
                         "text": "C > A substitution at position -863"
@@ -3420,6 +3646,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1765,
                         "end": 1774,
                         "text": "-863C > A"
@@ -3447,6 +3674,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 13,
                         "end": 23,
                         "text": "Tyr1306Cys"
@@ -3454,6 +3682,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1052,
                         "end": 1062,
                         "text": "Tyr1306Cys"
@@ -3461,6 +3690,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1328,
                         "end": 1338,
                         "text": "Tyr1306Cys"
@@ -3488,6 +3718,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2,
                         "end": 8,
                         "text": "G1103R"
@@ -3495,6 +3726,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 791,
                         "end": 797,
                         "text": "G1103R"
@@ -3541,6 +3773,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 760,
                         "end": 770,
                         "text": "c.210T > G"
@@ -3548,6 +3781,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 823,
                         "end": 829,
                         "text": "Tyr69X"
@@ -3555,6 +3789,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 928,
                         "end": 938,
                         "text": "c.791C > T"
@@ -3562,6 +3797,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 963,
                         "end": 972,
                         "text": "Ser263Phe"
@@ -3569,6 +3805,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1004,
                         "end": 1017,
                         "text": "c.2045-1G > A"
@@ -3576,6 +3813,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1219,
                         "end": 1232,
                         "text": "c.892_895dupG"
@@ -3583,6 +3821,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1244,
                         "end": 1259,
                         "text": "Ser290/Ala291fs"
@@ -3590,6 +3829,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1342,
                         "end": 1357,
                         "text": "c.1642_1644dupA"
@@ -3597,6 +3837,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1371,
                         "end": 1379,
                         "text": "Tyr547fs"
@@ -3604,6 +3845,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1463,
                         "end": 1472,
                         "text": "Arg260His"
@@ -3611,6 +3853,7 @@
                     {
                         "ID": "T10",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1474,
                         "end": 1483,
                         "text": "Ser413Leu"
@@ -3618,6 +3861,7 @@
                     {
                         "ID": "T11",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1489,
                         "end": 1498,
                         "text": "Val414Phe"
@@ -3778,6 +4022,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 659,
                         "end": 664,
                         "text": "R243Q"
@@ -3785,6 +4030,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 666,
                         "end": 675,
                         "text": "EX6-96A>G"
@@ -3792,6 +4038,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 677,
                         "end": 682,
                         "text": "R111X"
@@ -3799,6 +4046,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 684,
                         "end": 689,
                         "text": "Y356X"
@@ -3806,6 +4054,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 695,
                         "end": 700,
                         "text": "R413P"
@@ -3813,6 +4062,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 860,
                         "end": 868,
                         "text": "I38fsX19"
@@ -3820,6 +4070,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 870,
                         "end": 879,
                         "text": "IVS4+3G>C"
@@ -3827,6 +4078,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 881,
                         "end": 886,
                         "text": "Y154H"
@@ -3834,6 +4086,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 888,
                         "end": 893,
                         "text": "R157K"
@@ -3841,6 +4094,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 895,
                         "end": 900,
                         "text": "R157I"
@@ -3848,6 +4102,7 @@
                     {
                         "ID": "T10",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 902,
                         "end": 910,
                         "text": "T200fsX6"
@@ -3855,6 +4110,7 @@
                     {
                         "ID": "T11",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 912,
                         "end": 917,
                         "text": "Q267H"
@@ -3862,6 +4118,7 @@
                     {
                         "ID": "T12",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 919,
                         "end": 924,
                         "text": "Q267E"
@@ -3869,6 +4126,7 @@
                     {
                         "ID": "T13",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 926,
                         "end": 935,
                         "text": "F302fsX39"
@@ -3876,6 +4134,7 @@
                     {
                         "ID": "T14",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 937,
                         "end": 942,
                         "text": "G346R"
@@ -3883,6 +4142,7 @@
                     {
                         "ID": "T15",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 944,
                         "end": 949,
                         "text": "S349A"
@@ -3890,6 +4150,7 @@
                     {
                         "ID": "T16",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 951,
                         "end": 956,
                         "text": "L367L"
@@ -3897,6 +4158,7 @@
                     {
                         "ID": "T17",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 958,
                         "end": 963,
                         "text": "R400K"
@@ -3904,6 +4166,7 @@
                     {
                         "ID": "T18",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 965,
                         "end": 975,
                         "text": "IVS12+4A>G"
@@ -3911,6 +4174,7 @@
                     {
                         "ID": "T19",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 981,
                         "end": 991,
                         "text": "IVS12+6T>A"
@@ -3938,6 +4202,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 674,
                         "end": 708,
                         "text": "A --> G transition at 127 position"
@@ -3945,6 +4210,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 722,
                         "end": 759,
                         "text": "Asn --> Ser substitution at codon 127"
@@ -3952,6 +4218,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 765,
                         "end": 774,
                         "text": "Asn127Ser"
@@ -3959,6 +4226,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 795,
                         "end": 830,
                         "text": "G --> A transition at 1032 position"
@@ -3966,6 +4234,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 846,
                         "end": 877,
                         "text": "Gly --> Asp change at codon 322"
@@ -3973,6 +4242,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 883,
                         "end": 892,
                         "text": "Gly322Asp"
@@ -3980,6 +4250,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1410,
                         "end": 1419,
                         "text": "Gly322Asp"
@@ -3987,6 +4258,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1565,
                         "end": 1574,
                         "text": "Gly322Asp"
@@ -4014,6 +4286,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 874,
                         "end": 879,
                         "text": "S482X"
@@ -4021,6 +4294,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 884,
                         "end": 889,
                         "text": "K386T"
@@ -4048,6 +4322,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 807,
                         "end": 815,
                         "text": "E873stop"
@@ -4055,6 +4330,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 816,
                         "end": 821,
                         "text": "A467T"
@@ -4062,6 +4338,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 827,
                         "end": 835,
                         "text": "E873stop"
@@ -4069,6 +4346,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 906,
                         "end": 911,
                         "text": "A467T"
@@ -4076,6 +4354,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1039,
                         "end": 1047,
                         "text": "E873-TAG"
@@ -4083,6 +4362,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1422,
                         "end": 1427,
                         "text": "A467T"
@@ -4090,6 +4370,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1468,
                         "end": 1476,
                         "text": "E873stop"
@@ -4097,6 +4378,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1575,
                         "end": 1580,
                         "text": "A467T"
@@ -4104,6 +4386,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1689,
                         "end": 1694,
                         "text": "A467T"
@@ -4111,6 +4394,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1756,
                         "end": 1764,
                         "text": "E873stop"
@@ -4138,6 +4422,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 964,
                         "end": 978,
                         "text": "IVS2-58_55insT"
@@ -4165,6 +4450,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 764,
                         "end": 773,
                         "text": "Arg792Gly"
@@ -4172,6 +4458,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 861,
                         "end": 870,
                         "text": "Arg792Gly"
@@ -4199,6 +4486,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 517,
                         "end": 522,
                         "text": "V175M"
@@ -4206,6 +4494,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 537,
                         "end": 542,
                         "text": "V175M"
@@ -4213,6 +4502,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 698,
                         "end": 703,
                         "text": "V175M"
@@ -4220,6 +4510,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 919,
                         "end": 924,
                         "text": "V175M"
@@ -4247,6 +4538,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 858,
                         "end": 863,
                         "text": "C-->T"
@@ -4274,6 +4566,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 762,
                         "end": 768,
                         "text": "rs5393"
@@ -4339,6 +4632,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 679,
                         "end": 686,
                         "text": "p.A150P"
@@ -4346,6 +4640,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 694,
                         "end": 701,
                         "text": "p.A175D"
@@ -4353,6 +4648,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 712,
                         "end": 719,
                         "text": "p.N335K"
@@ -4360,6 +4656,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 775,
                         "end": 791,
                         "text": "c.360_363delCAAA"
@@ -4367,6 +4664,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 793,
                         "end": 799,
                         "text": "p.R60X"
@@ -4374,6 +4672,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 801,
                         "end": 808,
                         "text": "p.Y204X"
@@ -4381,6 +4680,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 814,
                         "end": 823,
                         "text": "c.865delC"
@@ -4388,6 +4688,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 915,
                         "end": 943,
                         "text": "c.1044_1049delTTCTGGinsACACT"
@@ -4395,6 +4696,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 967,
                         "end": 981,
                         "text": "c.345_372del28"
@@ -4402,6 +4704,7 @@
                     {
                         "ID": "T9",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 983,
                         "end": 997,
                         "text": "c.841_842delAC"
@@ -4409,6 +4712,7 @@
                     {
                         "ID": "T10",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1027,
                         "end": 1037,
                         "text": "c.113-1G>A"
@@ -4416,6 +4720,7 @@
                     {
                         "ID": "T11",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1039,
                         "end": 1049,
                         "text": "c.799+2T>A"
@@ -4423,6 +4728,7 @@
                     {
                         "ID": "T12",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1075,
                         "end": 1083,
                         "text": "c.612T>G"
@@ -4430,6 +4736,7 @@
                     {
                         "ID": "T13",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1085,
                         "end": 1092,
                         "text": "p.Y204X"
@@ -4437,6 +4744,7 @@
                     {
                         "ID": "T14",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1124,
                         "end": 1132,
                         "text": "c.532T>C"
@@ -4444,6 +4752,7 @@
                     {
                         "ID": "T15",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1134,
                         "end": 1141,
                         "text": "p.C178R"
@@ -4451,6 +4760,7 @@
                     {
                         "ID": "T16",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1144,
                         "end": 1152,
                         "text": "c.851T>C"
@@ -4458,6 +4768,7 @@
                     {
                         "ID": "T17",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1154,
                         "end": 1161,
                         "text": "p.L284P"
@@ -4485,6 +4796,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 870,
                         "end": 879,
                         "text": "rs2277025"
@@ -4492,6 +4804,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 917,
                         "end": 929,
                         "text": "157delMTTTVP"
@@ -4499,6 +4812,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1301,
                         "end": 1313,
                         "text": "157delMTTTVP"
@@ -4526,6 +4840,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 874,
                         "end": 879,
                         "text": "G529A"
@@ -4533,6 +4848,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 895,
                         "end": 900,
                         "text": "C934A"
@@ -4540,6 +4856,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 916,
                         "end": 922,
                         "text": "A1053G"
@@ -4547,6 +4864,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 938,
                         "end": 946,
                         "text": "G1915T/A"
@@ -4554,6 +4872,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 962,
                         "end": 970,
                         "text": "T2005C/A"
@@ -4561,6 +4880,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 990,
                         "end": 996,
                         "text": "C3026T"
@@ -4588,6 +4908,7 @@
                     {
                         "ID": "T0",
                         "type": "SNP",
+                        "normalizedtype": "dbSNP",
                         "begin": 892,
                         "end": 901,
                         "text": "rs1639679"
@@ -4615,6 +4936,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 335,
                         "end": 344,
                         "text": "GAT-->GAG"
@@ -4622,6 +4944,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 416,
                         "end": 451,
                         "text": "ACG-->AAG substitution in codon 420"
@@ -4668,6 +4991,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 686,
                         "end": 691,
                         "text": "G183S"
@@ -4675,6 +4999,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 702,
                         "end": 707,
                         "text": "R246W"
@@ -4682,6 +5007,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 718,
                         "end": 725,
                         "text": "del642T"
@@ -4689,6 +5015,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 736,
                         "end": 741,
                         "text": "G196S"
@@ -4696,6 +5023,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 756,
                         "end": 767,
                         "text": "217_218insC"
@@ -4703,6 +5031,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 777,
                         "end": 781,
                         "text": "A49T"
@@ -4710,6 +5039,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 860,
                         "end": 865,
                         "text": "Q126R"
@@ -4717,6 +5047,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 866,
                         "end": 875,
                         "text": "IVS3+1G>A"
@@ -4724,6 +5055,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 886,
                         "end": 891,
                         "text": "Q126R"
@@ -4731,6 +5063,7 @@
                     {
                         "ID": "T9",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 892,
                         "end": 899,
                         "text": "del418T"
@@ -4738,6 +5071,7 @@
                     {
                         "ID": "T10",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 923,
                         "end": 928,
                         "text": "Q126R"
@@ -4745,6 +5079,7 @@
                     {
                         "ID": "T11",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 929,
                         "end": 934,
                         "text": "G158R"
@@ -4752,6 +5087,7 @@
                     {
                         "ID": "T12",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 974,
                         "end": 979,
                         "text": "A207D"
@@ -4759,6 +5095,7 @@
                     {
                         "ID": "T13",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 981,
                         "end": 986,
                         "text": "G196S"
@@ -4766,6 +5103,7 @@
                     {
                         "ID": "T14",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 992,
                         "end": 997,
                         "text": "R266W"
@@ -4773,6 +5111,7 @@
                     {
                         "ID": "T15",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1017,
                         "end": 1021,
                         "text": "V89L"
@@ -4780,6 +5119,7 @@
                     {
                         "ID": "T16",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1083,
                         "end": 1088,
                         "text": "A207D"
@@ -4787,6 +5127,7 @@
                     {
                         "ID": "T17",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1150,
                         "end": 1154,
                         "text": "A49T"
@@ -4794,6 +5135,7 @@
                     {
                         "ID": "T18",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1349,
                         "end": 1356,
                         "text": "del642T"
@@ -4801,6 +5143,7 @@
                     {
                         "ID": "T19",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1361,
                         "end": 1366,
                         "text": "G158R"
@@ -4808,6 +5151,7 @@
                     {
                         "ID": "T20",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1420,
                         "end": 1429,
                         "text": "IVS3+1G>A"
@@ -4815,6 +5159,7 @@
                     {
                         "ID": "T21",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1465,
                         "end": 1476,
                         "text": "217_218insC"
@@ -4822,6 +5167,7 @@
                     {
                         "ID": "T22",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1687,
                         "end": 1692,
                         "text": "G183S"
@@ -4868,6 +5214,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1067,
                         "end": 1074,
                         "text": "222insT"
@@ -4875,6 +5222,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1110,
                         "end": 1118,
                         "text": "912delTA"
@@ -4882,6 +5230,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1152,
                         "end": 1160,
                         "text": "835del18"
@@ -4889,6 +5238,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1197,
                         "end": 1202,
                         "text": "P291A"
@@ -4896,6 +5246,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1249,
                         "end": 1253,
                         "text": "L89R"
@@ -4903,6 +5254,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1290,
                         "end": 1295,
                         "text": "Q536X"
@@ -4910,6 +5262,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1398,
                         "end": 1403,
                         "text": "R171Q"
@@ -4917,6 +5270,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1440,
                         "end": 1445,
                         "text": "D418D"
@@ -4924,6 +5278,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1460,
                         "end": 1467,
                         "text": "GAC/GAT"
@@ -4951,6 +5306,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 21,
                         "end": 26,
                         "text": "L490R"
@@ -4958,6 +5314,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 31,
                         "end": 36,
                         "text": "V561X"
@@ -4965,6 +5322,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 169,
                         "end": 174,
                         "text": "C282Y"
@@ -4972,6 +5330,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 876,
                         "end": 884,
                         "text": "1469T->G"
@@ -4979,6 +5338,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 886,
                         "end": 891,
                         "text": "L490R"
@@ -4986,6 +5346,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 897,
                         "end": 905,
                         "text": "1665delC"
@@ -4993,6 +5354,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 907,
                         "end": 912,
                         "text": "V561X"
@@ -5000,6 +5362,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 968,
                         "end": 973,
                         "text": "I238M"
@@ -5007,6 +5370,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1011,
                         "end": 1016,
                         "text": "L490R"
@@ -5014,6 +5378,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1050,
                         "end": 1055,
                         "text": "L490R"
@@ -5021,6 +5386,7 @@
                     {
                         "ID": "T10",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1060,
                         "end": 1065,
                         "text": "I238M"
@@ -5028,6 +5394,7 @@
                     {
                         "ID": "T11",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1309,
                         "end": 1314,
                         "text": "V561X"
@@ -5093,6 +5460,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 20,
                         "end": 53,
                         "text": "A>G polymorphism at position -670"
@@ -5120,6 +5488,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 177,
                         "end": 182,
                         "text": "N372H"
@@ -5127,6 +5496,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 381,
                         "end": 386,
                         "text": "N372H"
@@ -5134,6 +5504,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 453,
                         "end": 461,
                         "text": "203G > A"
@@ -5141,6 +5512,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1017,
                         "end": 1022,
                         "text": "N372H"
@@ -5148,6 +5520,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1322,
                         "end": 1327,
                         "text": "N372H"
@@ -5155,6 +5528,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1538,
                         "end": 1543,
                         "text": "N372H"
@@ -5182,6 +5556,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 801,
                         "end": 811,
                         "text": "g.3907G >A"
@@ -5189,6 +5564,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 836,
                         "end": 848,
                         "text": "Glu29 to Lys"
@@ -5196,6 +5572,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 850,
                         "end": 854,
                         "text": "E29K"
@@ -5203,6 +5580,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 880,
                         "end": 884,
                         "text": "E29K"
@@ -5287,6 +5665,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1176,
                         "end": 1186,
                         "text": "IVS10 + 4G"
@@ -5333,6 +5712,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 807,
                         "end": 839,
                         "text": "G-->A substitution at codon 1763"
@@ -5340,6 +5720,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1366,
                         "end": 1372,
                         "text": "V1764M"
@@ -5347,6 +5728,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1408,
                         "end": 1414,
                         "text": "I1762A"
@@ -5354,6 +5736,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1566,
                         "end": 1572,
                         "text": "V1763M"
@@ -5381,6 +5764,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 403,
                         "end": 411,
                         "text": "1188-A/C"
@@ -5408,6 +5792,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 356,
                         "end": 363,
                         "text": "Delta30"
@@ -5415,6 +5800,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 573,
                         "end": 580,
                         "text": "Delta30"
@@ -5422,6 +5808,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 842,
                         "end": 849,
                         "text": "Delta30"
@@ -5429,6 +5816,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1083,
                         "end": 1090,
                         "text": "Delta30"
@@ -5436,6 +5824,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1262,
                         "end": 1269,
                         "text": "Delta30"
@@ -5443,6 +5832,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1287,
                         "end": 1294,
                         "text": "Delta30"
@@ -5450,6 +5840,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1445,
                         "end": 1452,
                         "text": "Delta30"
@@ -5457,6 +5848,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1495,
                         "end": 1502,
                         "text": "Delta30"
@@ -5464,6 +5856,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1512,
                         "end": 1519,
                         "text": "Delta30"
@@ -5510,6 +5903,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1126,
                         "end": 1131,
                         "text": "P364L"
@@ -5517,6 +5911,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1133,
                         "end": 1143,
                         "text": "1091 C > T"
@@ -5524,6 +5919,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1177,
                         "end": 1182,
                         "text": "Y486D"
@@ -5531,6 +5927,7 @@
                     {
                         "ID": "T3",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1422,
                         "end": 1426,
                         "text": "G71R"
@@ -5538,6 +5935,7 @@
                     {
                         "ID": "T4",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1475,
                         "end": 1479,
                         "text": "G71R"
@@ -5545,6 +5943,7 @@
                     {
                         "ID": "T5",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1561,
                         "end": 1566,
                         "text": "Y486D"
@@ -5552,6 +5951,7 @@
                     {
                         "ID": "T6",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1576,
                         "end": 1581,
                         "text": "P229Q"
@@ -5559,6 +5959,7 @@
                     {
                         "ID": "T7",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1644,
                         "end": 1649,
                         "text": "P364L"
@@ -5566,6 +5967,7 @@
                     {
                         "ID": "T8",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1748,
                         "end": 1752,
                         "text": "G71R"
@@ -5573,6 +5975,7 @@
                     {
                         "ID": "T9",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1771,
                         "end": 1776,
                         "text": "Y486D"
@@ -5580,6 +5983,7 @@
                     {
                         "ID": "T10",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1841,
                         "end": 1845,
                         "text": "G71R"
@@ -5587,6 +5991,7 @@
                     {
                         "ID": "T11",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1913,
                         "end": 1918,
                         "text": "P364L"
@@ -5614,6 +6019,7 @@
                     {
                         "ID": "T0",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 654,
                         "end": 661,
                         "text": "Tyr246X"
@@ -5679,6 +6085,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1184,
                         "end": 1197,
                         "text": "6573 + 1G > C"
@@ -5686,6 +6093,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1387,
                         "end": 1395,
                         "text": "5504delA"
@@ -5693,6 +6101,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1778,
                         "end": 1786,
                         "text": "5504delA"
@@ -5700,6 +6109,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1871,
                         "end": 1884,
                         "text": "6573 + 1G > C"
@@ -5746,6 +6156,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1143,
                         "end": 1151,
                         "text": "del 329C"
@@ -5753,6 +6164,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1295,
                         "end": 1300,
                         "text": "C435G"
@@ -5780,6 +6192,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1049,
                         "end": 1056,
                         "text": "2068G>C"
@@ -5787,6 +6200,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1116,
                         "end": 1123,
                         "text": "2068G>C"
@@ -5794,6 +6208,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1326,
                         "end": 1333,
                         "text": "2084G>A"
@@ -5801,6 +6216,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1338,
                         "end": 1345,
                         "text": "1780C>A"
@@ -5808,6 +6224,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1460,
                         "end": 1467,
                         "text": "1242G>T"
@@ -5815,6 +6232,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1472,
                         "end": 1479,
                         "text": "1780C>A"
@@ -5822,6 +6240,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1594,
                         "end": 1601,
                         "text": "9 +1G>T"
@@ -5925,6 +6344,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 4,
                         "end": 9,
                         "text": "C270T"
@@ -5932,6 +6352,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 175,
                         "end": 180,
                         "text": "C270T"
@@ -5959,6 +6380,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 822,
                         "end": 830,
                         "text": "-1001C/T"
@@ -5966,6 +6388,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 832,
                         "end": 839,
                         "text": "-263G/A"
@@ -5973,6 +6396,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 845,
                         "end": 851,
                         "text": "-13C/T"
@@ -5980,6 +6404,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1034,
                         "end": 1042,
                         "text": "-1001C/T"
@@ -5987,6 +6412,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1044,
                         "end": 1051,
                         "text": "-263G/A"
@@ -5994,6 +6420,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1053,
                         "end": 1059,
                         "text": "-13C/T"
@@ -6001,6 +6428,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1061,
                         "end": 1068,
                         "text": "+142C/G"
@@ -6008,6 +6436,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1074,
                         "end": 1081,
                         "text": "+355G/T"
@@ -6015,6 +6444,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1271,
                         "end": 1279,
                         "text": "-1001C/T"
@@ -6022,6 +6452,7 @@
                     {
                         "ID": "T9",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1281,
                         "end": 1288,
                         "text": "-263G/A"
@@ -6029,6 +6460,7 @@
                     {
                         "ID": "T10",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1290,
                         "end": 1296,
                         "text": "-13C/T"
@@ -6036,6 +6468,7 @@
                     {
                         "ID": "T11",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1298,
                         "end": 1305,
                         "text": "+142C/G"
@@ -6043,6 +6476,7 @@
                     {
                         "ID": "T12",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1311,
                         "end": 1318,
                         "text": "+355G/T"
@@ -6089,6 +6523,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 692,
                         "end": 698,
                         "text": "T/C704"
@@ -6096,6 +6531,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 734,
                         "end": 741,
                         "text": "A/C1166"
@@ -6103,6 +6539,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 774,
                         "end": 781,
                         "text": "T/C-344"
@@ -6110,6 +6547,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1220,
                         "end": 1226,
                         "text": "T/C704"
@@ -6117,6 +6555,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1248,
                         "end": 1255,
                         "text": "A/C1166"
@@ -6124,6 +6563,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1281,
                         "end": 1288,
                         "text": "T/C-344"
@@ -6131,6 +6571,7 @@
                     {
                         "ID": "T6",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1547,
                         "end": 1553,
                         "text": "T/C704"
@@ -6138,6 +6579,7 @@
                     {
                         "ID": "T7",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1572,
                         "end": 1579,
                         "text": "T/C-344"
@@ -6145,6 +6587,7 @@
                     {
                         "ID": "T8",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1600,
                         "end": 1607,
                         "text": "A/C1166"
@@ -6191,6 +6634,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 919,
                         "end": 932,
                         "text": "C877T in cDNA"
@@ -6198,6 +6642,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 969,
                         "end": 987,
                         "text": "620-621del in cDNA"
@@ -6244,6 +6689,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 554,
                         "end": 573,
                         "text": "-866 promoter (G/A)"
@@ -6251,6 +6697,7 @@
                     {
                         "ID": "T1",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 600,
                         "end": 608,
                         "text": "Ala55Val"
@@ -6258,6 +6705,7 @@
                     {
                         "ID": "T2",
                         "type": "ProteinMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 612,
                         "end": 616,
                         "text": "A55V"
@@ -6285,6 +6733,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 83,
                         "end": 100,
                         "text": "c.399_402del AGAG"
@@ -6292,6 +6741,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 629,
                         "end": 645,
                         "text": "c.399_402delAGAG"
@@ -6299,6 +6749,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1372,
                         "end": 1388,
                         "text": "c.399_402delAGAG"
@@ -6306,6 +6757,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1429,
                         "end": 1445,
                         "text": "c.399_402delAGAG"
@@ -6313,6 +6765,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1446,
                         "end": 1462,
                         "text": "c.399_402delAGAG"
@@ -6320,6 +6773,7 @@
                     {
                         "ID": "T5",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1784,
                         "end": 1800,
                         "text": "c.399_402delAGAG"
@@ -6347,6 +6801,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 41,
                         "end": 47,
                         "text": "G-308A"
@@ -6354,6 +6809,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 59,
                         "end": 65,
                         "text": "C-174G"
@@ -6361,6 +6817,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 359,
                         "end": 365,
                         "text": "G-308A"
@@ -6368,6 +6825,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 392,
                         "end": 398,
                         "text": "C-174G"
@@ -6375,6 +6833,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1232,
                         "end": 1238,
                         "text": "G-308A"
@@ -6440,6 +6899,7 @@
                     {
                         "ID": "T0",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 63,
                         "end": 71,
                         "text": "3020insC"
@@ -6447,6 +6907,7 @@
                     {
                         "ID": "T1",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 295,
                         "end": 303,
                         "text": "3020insC"
@@ -6454,6 +6915,7 @@
                     {
                         "ID": "T2",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 990,
                         "end": 998,
                         "text": "3020insC"
@@ -6461,6 +6923,7 @@
                     {
                         "ID": "T3",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1156,
                         "end": 1164,
                         "text": "3020insC"
@@ -6468,6 +6931,7 @@
                     {
                         "ID": "T4",
                         "type": "DNAMutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1362,
                         "end": 1370,
                         "text": "3020insC"

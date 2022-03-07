@@ -31,6 +31,7 @@
                     {
                         "ID": "T34",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 268,
                         "end": 277,
                         "text": "c.70C > T"
@@ -38,6 +39,7 @@
                     {
                         "ID": "T36",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 684,
                         "end": 704,
                         "text": "c.3927_3931del AAAGA"
@@ -45,6 +47,7 @@
                     {
                         "ID": "T41",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1044,
                         "end": 1064,
                         "text": "c.3927_3931del AAAGA"
@@ -52,6 +55,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 803,
                         "end": 822,
                         "text": "c.3183_3187delACAAA"
@@ -100,6 +104,7 @@
                     {
                         "ID": "T28",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2490,
                         "end": 2499,
                         "text": "Pro622Leu"
@@ -107,6 +112,7 @@
                     {
                         "ID": "T27",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1767,
                         "end": 1778,
                         "text": "p.Pro622Thr"
@@ -114,6 +120,7 @@
                     {
                         "ID": "T26",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1741,
                         "end": 1803,
                         "text": "proline 622 to threonine (p.Pro622Thr) amino acid substitution"
@@ -121,6 +128,7 @@
                     {
                         "ID": "T9",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1645,
                         "end": 1654,
                         "text": "c.1864C>A"
@@ -128,6 +136,7 @@
                     {
                         "ID": "T25",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1643,
                         "end": 1678,
                         "text": "a c.1864C>A transversion in exon 12"
@@ -135,6 +144,7 @@
                     {
                         "ID": "T16_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2447,
                         "end": 2456,
                         "text": "Pro640Leu"
@@ -183,6 +193,7 @@
                     {
                         "ID": "T23_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 3764,
                         "end": 3775,
                         "text": "c.5465A > T"
@@ -331,6 +342,7 @@
                     {
                         "ID": "T42_merge",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1041,
                         "end": 1060,
                         "text": "1799T to A mutation"
@@ -338,6 +350,7 @@
                     {
                         "ID": "T28",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 232,
                         "end": 242,
                         "text": "1799T to A"
@@ -345,6 +358,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 273,
                         "end": 278,
                         "text": "V600E"
@@ -352,6 +366,7 @@
                     {
                         "ID": "T2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1080,
                         "end": 1085,
                         "text": "V600E"
@@ -400,6 +415,7 @@
                     {
                         "ID": "T43",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1272,
                         "end": 1280,
                         "text": "c.767C>T"
@@ -407,6 +423,7 @@
                     {
                         "ID": "T45",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1301,
                         "end": 1312,
                         "text": "p.Lys618Ala"
@@ -414,6 +431,7 @@
                     {
                         "ID": "T44",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1282,
                         "end": 1291,
                         "text": "p.Arg226X"
@@ -421,6 +439,7 @@
                     {
                         "ID": "T59",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 716,
                         "end": 727,
                         "text": "p.Lys618Ala"
@@ -428,6 +447,7 @@
                     {
                         "ID": "T55",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 429,
                         "end": 440,
                         "text": "p.Lys618Ala"
@@ -435,6 +455,7 @@
                     {
                         "ID": "T64",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1448,
                         "end": 1459,
                         "text": "p.Lys618Ala"
@@ -442,6 +463,7 @@
                     {
                         "ID": "T67",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1513,
                         "end": 1524,
                         "text": "p.Lys618Ala"
@@ -449,6 +471,7 @@
                     {
                         "ID": "T95",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1153,
                         "end": 1164,
                         "text": "p.Lys618Ala"
@@ -456,6 +479,7 @@
                     {
                         "ID": "T91",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2531,
                         "end": 2542,
                         "text": "p.Lys618Ala"
@@ -463,6 +487,7 @@
                     {
                         "ID": "T84",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2087,
                         "end": 2098,
                         "text": "p.Lys618Ala"
@@ -470,6 +495,7 @@
                     {
                         "ID": "T83",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2054,
                         "end": 2064,
                         "text": "p.Arg1005X"
@@ -477,6 +503,7 @@
                     {
                         "ID": "T82",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2043,
                         "end": 2052,
                         "text": "c.3013C>T"
@@ -605,6 +632,7 @@
                     {
                         "ID": "T48_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1267,
                         "end": 1278,
                         "text": "c.5465A > T"
@@ -673,6 +701,7 @@
                     {
                         "ID": "T31",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 104,
                         "end": 113,
                         "text": "c.70C > T"
@@ -680,6 +709,7 @@
                     {
                         "ID": "T58",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1519,
                         "end": 1528,
                         "text": "c.70C > T"
@@ -738,6 +768,7 @@
                     {
                         "ID": "T43",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2611,
                         "end": 2624,
                         "text": "codon 41: A\u2192G"
@@ -745,6 +776,7 @@
                     {
                         "ID": "T42",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2537,
                         "end": 2550,
                         "text": "codon 33: C\u2192A"
@@ -752,6 +784,7 @@
                     {
                         "ID": "T40",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2502,
                         "end": 2525,
                         "text": "codon 45: 3 bp deletion"
@@ -759,6 +792,7 @@
                     {
                         "ID": "T44",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2629,
                         "end": 2642,
                         "text": "codon 45: C\u2192T"
@@ -787,6 +821,7 @@
                     {
                         "ID": "T43",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1786,
                         "end": 1848,
                         "text": "proline 622 to threonine (p.Pro622Thr) amino acid substitution"
@@ -794,6 +829,7 @@
                     {
                         "ID": "T42",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1717,
                         "end": 1757,
                         "text": "missense (c.1864C>A) mutation in exon 12"
@@ -801,6 +837,7 @@
                     {
                         "ID": "T54",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1812,
                         "end": 1823,
                         "text": "p.Pro622Thr"
@@ -808,6 +845,7 @@
                     {
                         "ID": "T55",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1727,
                         "end": 1736,
                         "text": "c.1864C>A"
@@ -826,6 +864,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1949,
                         "end": 1953,
                         "text": "M23A"
@@ -844,6 +883,7 @@
                     {
                         "ID": "T49",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2015,
                         "end": 2025,
                         "text": "p.Arg1005X"
@@ -851,6 +891,7 @@
                     {
                         "ID": "T48",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2004,
                         "end": 2013,
                         "text": "c.3013C>T"
@@ -858,6 +899,7 @@
                     {
                         "ID": "T47",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1961,
                         "end": 1970,
                         "text": "p.Arg226X"
@@ -865,6 +907,7 @@
                     {
                         "ID": "T46",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1951,
                         "end": 1959,
                         "text": "c.676C>T"
@@ -872,6 +915,7 @@
                     {
                         "ID": "T50",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 72,
                         "end": 83,
                         "text": "p.Lys618Ala"
@@ -879,6 +923,7 @@
                     {
                         "ID": "T75",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2337,
                         "end": 2353,
                         "text": "c.1852_1853AA>GC"
@@ -886,6 +931,7 @@
                     {
                         "ID": "T72",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2182,
                         "end": 2193,
                         "text": "p.Lys618Ala"
@@ -893,6 +939,7 @@
                     {
                         "ID": "T71",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2136,
                         "end": 2147,
                         "text": "p.Lys618Ala"
@@ -900,6 +947,7 @@
                     {
                         "ID": "T65",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1495,
                         "end": 1506,
                         "text": "p.Lys618Ala"
@@ -907,6 +955,7 @@
                     {
                         "ID": "T67",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1628,
                         "end": 1639,
                         "text": "p.Lys618Ala"
@@ -925,6 +974,7 @@
                     {
                         "ID": "T31",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 378,
                         "end": 430,
                         "text": "codon 12 (G\u2192T at position 35 and T\u2192G at position 36)"
@@ -932,6 +982,7 @@
                     {
                         "ID": "T1_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 449,
                         "end": 454,
                         "text": "V600E"
@@ -960,6 +1011,7 @@
                     {
                         "ID": "T6_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1551,
                         "end": 1556,
                         "text": "A1796"
@@ -967,6 +1019,7 @@
                     {
                         "ID": "T1_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1299,
                         "end": 1304,
                         "text": "V600E"
@@ -974,6 +1027,7 @@
                     {
                         "ID": "T2_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1315,
                         "end": 1320,
                         "text": "V599E"
@@ -1022,6 +1076,7 @@
                     {
                         "ID": "T25",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 124,
                         "end": 133,
                         "text": "Lys618Ala"
@@ -1029,6 +1084,7 @@
                     {
                         "ID": "T37",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 470,
                         "end": 481,
                         "text": "p.Val600Glu"
@@ -1057,6 +1113,7 @@
                     {
                         "ID": "T73",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2189,
                         "end": 2200,
                         "text": "p.Lys618Ala"
@@ -1064,6 +1121,7 @@
                     {
                         "ID": "T74",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2331,
                         "end": 2342,
                         "text": "p.Lys618Ala"
@@ -1071,6 +1129,7 @@
                     {
                         "ID": "T62",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1367,
                         "end": 1378,
                         "text": "p.Lys618Ala"
@@ -1078,6 +1137,7 @@
                     {
                         "ID": "T65",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1527,
                         "end": 1538,
                         "text": "p.Lys618Ala"
@@ -1085,6 +1145,7 @@
                     {
                         "ID": "T37",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1748,
                         "end": 1759,
                         "text": "p.Lys618Ala"
@@ -1092,6 +1153,7 @@
                     {
                         "ID": "T49",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 755,
                         "end": 766,
                         "text": "p.Lys618Ala"
@@ -1099,6 +1161,7 @@
                     {
                         "ID": "T48",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 653,
                         "end": 664,
                         "text": "p.Lys618Ala"
@@ -1106,6 +1169,7 @@
                     {
                         "ID": "T40",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 31,
                         "end": 47,
                         "text": "c.1852_1853AA>GC"
@@ -1113,6 +1177,7 @@
                     {
                         "ID": "T46",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 405,
                         "end": 416,
                         "text": "p.Lys618Ala"
@@ -1120,6 +1185,7 @@
                     {
                         "ID": "T45",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 387,
                         "end": 403,
                         "text": "c.1852_1853AA>GC"
@@ -1127,6 +1193,7 @@
                     {
                         "ID": "T59",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1217,
                         "end": 1228,
                         "text": "p.Lys618Ala"
@@ -1134,6 +1201,7 @@
                     {
                         "ID": "T51",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 920,
                         "end": 931,
                         "text": "p.Lys618Ala"
@@ -1222,6 +1290,7 @@
                     {
                         "ID": "T33",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 393,
                         "end": 404,
                         "text": "C1668 C > T"
@@ -1229,6 +1298,7 @@
                     {
                         "ID": "T32",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 380,
                         "end": 391,
                         "text": "C1886 A > G"
@@ -1277,6 +1347,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 507,
                         "end": 512,
                         "text": "V600E"
@@ -1305,6 +1376,7 @@
                     {
                         "ID": "T10",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 22,
                         "end": 38,
                         "text": "c.1852_1853AA>GC"
@@ -1312,6 +1384,7 @@
                     {
                         "ID": "T9",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 9,
                         "end": 20,
                         "text": "p.Lys618Ala"
@@ -1319,6 +1392,7 @@
                     {
                         "ID": "T14",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 511,
                         "end": 522,
                         "text": "p.Lys618Ala"
@@ -1337,6 +1411,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 75,
                         "end": 80,
                         "text": "V600E"
@@ -1344,6 +1419,7 @@
                     {
                         "ID": "T2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 430,
                         "end": 435,
                         "text": "V600E"
@@ -1412,6 +1488,7 @@
                     {
                         "ID": "T63_2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2879,
                         "end": 2890,
                         "text": "c.5465A > T"
@@ -1419,6 +1496,7 @@
                     {
                         "ID": "T61",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1703,
                         "end": 1714,
                         "text": "c.5465A > T"
@@ -1426,6 +1504,7 @@
                     {
                         "ID": "T44",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 192,
                         "end": 202,
                         "text": "c.834G > C"
@@ -1464,6 +1543,7 @@
                     {
                         "ID": "T92",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 3692,
                         "end": 3705,
                         "text": "c.845-17A > G"
@@ -1471,6 +1551,7 @@
                     {
                         "ID": "T85",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2993,
                         "end": 3003,
                         "text": "c.834G > C"
@@ -1478,6 +1559,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 192,
                         "end": 208,
                         "text": "c.2700_2701delTC"
@@ -1485,6 +1567,7 @@
                     {
                         "ID": "T83",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2731,
                         "end": 2743,
                         "text": "c.835-7T > G"
@@ -1533,6 +1616,7 @@
                     {
                         "ID": "T22",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1210,
                         "end": 1221,
                         "text": "p.Lys618Ala"
@@ -1540,6 +1624,7 @@
                     {
                         "ID": "T13",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 3374,
                         "end": 3385,
                         "text": "p.Lys618Ala"
@@ -1547,6 +1632,7 @@
                     {
                         "ID": "T35",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2204,
                         "end": 2215,
                         "text": "p.Lys618Ala"
@@ -1554,6 +1640,7 @@
                     {
                         "ID": "T30",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1060,
                         "end": 1071,
                         "text": "p.Lys618Ala"
@@ -1561,6 +1648,7 @@
                     {
                         "ID": "T31",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1292,
                         "end": 1303,
                         "text": "p.Lys618Ala"
@@ -1599,6 +1687,7 @@
                     {
                         "ID": "T26",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1818,
                         "end": 1828,
                         "text": "c.834G > C"
@@ -1606,6 +1695,7 @@
                     {
                         "ID": "T23",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1013,
                         "end": 1025,
                         "text": "c.835-7T > G"
@@ -1613,6 +1703,7 @@
                     {
                         "ID": "T20",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 403,
                         "end": 415,
                         "text": "c.835-7T > G"
@@ -1620,6 +1711,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2507,
                         "end": 2523,
                         "text": "c.423-6del8ins13"
@@ -1627,6 +1719,7 @@
                     {
                         "ID": "T2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2539,
                         "end": 2575,
                         "text": "c. 423 -6delAAATAGGTinsGAAGCAAGATCAG"
@@ -1645,6 +1738,7 @@
                     {
                         "ID": "T3",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 84,
                         "end": 100,
                         "text": "c.1852_1853AA>GC"
@@ -1683,6 +1777,7 @@
                     {
                         "ID": "T53_merge",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 2301,
                         "end": 2372,
                         "text": "c.70C > T substitution which introduces a nonsense mutation in codon 24"
@@ -1690,6 +1785,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 374,
                         "end": 385,
                         "text": "1825del3595"
@@ -1697,6 +1793,7 @@
                     {
                         "ID": "T2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1357,
                         "end": 1373,
                         "text": "c.2700_2701delTC"
@@ -1704,6 +1801,7 @@
                     {
                         "ID": "T34_merge",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 359,
                         "end": 385,
                         "text": "c.423-1662_531+1825del3595"
@@ -1732,6 +1830,7 @@
                     {
                         "ID": "T28",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 140,
                         "end": 151,
                         "text": "p.Lys618Ala"
@@ -1739,6 +1838,7 @@
                     {
                         "ID": "T24",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1432,
                         "end": 1443,
                         "text": "p.Lys618Ala"
@@ -1746,6 +1846,7 @@
                     {
                         "ID": "T39",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1736,
                         "end": 1747,
                         "text": "p.Lys618Ala"
@@ -1753,6 +1854,7 @@
                     {
                         "ID": "T32",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 404,
                         "end": 415,
                         "text": "p.Lys618Ala"
@@ -1760,6 +1862,7 @@
                     {
                         "ID": "T3",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1025,
                         "end": 1036,
                         "text": "p.Val600Glu"
@@ -1838,6 +1941,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 768,
                         "end": 773,
                         "text": "V600E"
@@ -1866,6 +1970,7 @@
                     {
                         "ID": "T59",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 477,
                         "end": 558,
                         "text": "codons 37 and 45, all were C\u2192T transitions, leading to Ser\u2192Phe amino acid changes"
@@ -1873,6 +1978,7 @@
                     {
                         "ID": "T87_merge_merge",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 371,
                         "end": 507,
                         "text": "loss of one of the Ser/Thr phosphorylation sites and subsequent stabilisation of the protein, occurred at codons 37 and 45, all were C\u2192T"
@@ -1901,6 +2007,7 @@
                     {
                         "ID": "T21",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 315,
                         "end": 325,
                         "text": "1796T to A"
@@ -1908,6 +2015,7 @@
                     {
                         "ID": "T1",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 352,
                         "end": 357,
                         "text": "V600E"
@@ -1915,6 +2023,7 @@
                     {
                         "ID": "T3",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1515,
                         "end": 1520,
                         "text": "V600E"
@@ -1922,6 +2031,7 @@
                     {
                         "ID": "T2",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 387,
                         "end": 392,
                         "text": "V600E"
@@ -2000,6 +2110,7 @@
                     {
                         "ID": "T28",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 575,
                         "end": 586,
                         "text": "p.Lys618Ala"
@@ -2007,6 +2118,7 @@
                     {
                         "ID": "T38",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 941,
                         "end": 950,
                         "text": "c.3202C>T"
@@ -2014,6 +2126,7 @@
                     {
                         "ID": "T37",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 929,
                         "end": 939,
                         "text": "p.Arg1068X"
@@ -2021,6 +2134,7 @@
                     {
                         "ID": "T39",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1017,
                         "end": 1028,
                         "text": "p.Lys618Ala"
@@ -2028,6 +2142,7 @@
                     {
                         "ID": "T33",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 741,
                         "end": 757,
                         "text": "c.1852_1853AA>GC"
@@ -2035,6 +2150,7 @@
                     {
                         "ID": "T36",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 889,
                         "end": 905,
                         "text": "c.1852_1853AA>GC"
@@ -2042,6 +2158,7 @@
                     {
                         "ID": "T35",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 876,
                         "end": 887,
                         "text": "p.Lys618Ala"
@@ -2049,6 +2166,7 @@
                     {
                         "ID": "T32",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 726,
                         "end": 736,
                         "text": "c.546-2A>G"
@@ -2056,6 +2174,7 @@
                     {
                         "ID": "T48",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1675,
                         "end": 1686,
                         "text": "p.Lys618Ala"
@@ -2063,6 +2182,7 @@
                     {
                         "ID": "T13",
                         "type": "mutation",
+                        "normalizedtype": "Mutation",
                         "begin": 1385,
                         "end": 1396,
                         "text": "p.Lys618Ala"
