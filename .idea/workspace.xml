@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb73658-c81d-428a-909d-cd2ef4d72039" name="Default Changelist" comment="Some refactorings">
+      <change afterPath="$PROJECT_DIR$/code/export/splits/generateCorpora.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/dbSNP.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/cache/dbSNP.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/calculateNormalizationPerformance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/evaluate/evaluateJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/evaluateJson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/evaluate/evaluateNer.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/evaluate/evaluateNer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/tools/fetchTool.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/tools/fetchTool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/export/IOB/generateSplits.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/export/splits/generateSplits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/IOB/splits/SETH.json" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/splits/SETH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/IOB/splits/Variome.json" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/splits/Variome.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/IOB/splits/Variome120.json" beforeDir="false" afterPath="$PROJECT_DIR$/corpora/splits/Variome120.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,54 +72,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/corpora" />
+      <recent name="$PROJECT_DIR$/code/export/splits" />
       <recent name="$PROJECT_DIR$/corpora/json/linking" />
       <recent name="$PROJECT_DIR$/corpora/original" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculateNormalizationPerformance">
-    <configuration name="Variome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mutationCorpora" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/Variome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Variome120" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mutationCorpora" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/convert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/convert/Variome120.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.generateCorpora">
     <configuration name="calculateNormalizationPerformance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mutationCorpora" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,20 +143,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="generateCorpora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/export/splits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/export/splits/generateCorpora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generateSplits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mutationCorpora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/export/splits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/export/splits/generateSplits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Variome" />
-      <item itemvalue="Python.Variome120" />
       <item itemvalue="Python.calculateNormalizationPerformance" />
       <item itemvalue="Python.exportInBRAT" />
       <item itemvalue="Python.evaluateJson" />
+      <item itemvalue="Python.generateSplits" />
+      <item itemvalue="Python.generateCorpora" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generateCorpora" />
+        <item itemvalue="Python.generateSplits" />
         <item itemvalue="Python.calculateNormalizationPerformance" />
         <item itemvalue="Python.evaluateJson" />
         <item itemvalue="Python.exportInBRAT" />
-        <item itemvalue="Python.Variome120" />
-        <item itemvalue="Python.Variome" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646234605636</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Refactored JSON to map entity-types to unified type">
+      <created>1646650041394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646650041394</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">

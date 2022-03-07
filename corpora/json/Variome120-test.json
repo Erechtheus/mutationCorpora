@@ -1,0 +1,487 @@
+{
+    "referenceURL": "",
+    "version": "",
+    "bibtex": "",
+    "documents": [
+        {
+            "document": {
+                "ID": "2386495-05-Discussion-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nDiscussion\n\nThe APC mutations identified in the Swedish patients are scattered along the APC gene (Figure 1). The most 5' situated pathogenic germ line APC mutation identified in this study, in codon 24 of exon 1 (c.70C > T), was detected when analyzing patient C157. This may be the most 5' location of any mutation detected in the coding region of APC (Figure 1[38]). Codon 24 is within the oligomerization domain at the N-terminus of APC, encoded by amino acids 6\u201357 [39]. The most 3' situated mutation identified in the present study (C159) is a frameshift at codon 1920. The most frequently found mutation was the well-known c.3927_3931del AAAGA (amino acid position 1309) mutation detected in 10 out of the 95 patients. The recurrent mutation c.3183_3187delACAAA (amino acid 1061) was found in four patients. The frequency of de novo mutation cases was 16% which is lower than the estimation of 20\u201325% reported by Bisgaard et al [40]. The most frequent mutation occurring de novo was c.3927_3931del AAAGA (3 out of 10 cases, 30%) compared with mutations at other sites in the gene (7 out of 55 cases, 12.7%).\n\nGenotype-phenotype\n\nThe clinical characterization of the APC-mutation positive patients is summarized in Additional file 1 and the characterization of APC- and MUTYH-mutation negative patients are presented in Table 1. Probands with mutations between codon 1250 and 1468 in the APC gene, which predict a severe course of the colorectal polyposis [41] were significantly younger at diagnosis compared with those with mutations outside this region and seem to have more colorectal polyps. Despite a lower fraction of patients with dense polyposis among those with mutations outside codon 1250\u20131464, CRC at diagnosis occurred often. High age at diagnosis can probably explain the relatively high risk of having CRC at diagnosis in this subgroup of probands. Early detection because of short patients and delay by doctors may explain the relatively low fraction of patients having CRC at diagnosis among those where the site of the mutation and clinical features indicate a more severe phenotype. Overall, the risk for a proband of having a CRC at diagnosis was lower than previously reported by Bj\u00f6rk et al [33] where 67% of the probands diagnosed between 1912 and 1996 had CRC at diagnosis. In this previous study a continued decrease in CRC morbidity among probands was seen over time being 48% in the last period studied (1977\u20131996). In this current study 84% (27 out of 32) of the probands were diagnosed with FAP during that period or later (after 1976). Nine of the 27 (33%) probands had CRC at diagnosis, which indicates a continued decrease in CRC at diagnosis over time. This is in agreement with our other findings. Except for more rapid detection of symptomatic patients with classical FAP in recent years, a shift over time of probands being diagnosed with FAP towards a less-severe phenotype, might explain the decrease in CRC morbidity.\n\n",
+                "entities": [
+                    {
+                        "ID": "T34",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 268,
+                        "end": 277,
+                        "text": "c.70C > T"
+                    },
+                    {
+                        "ID": "T36",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 684,
+                        "end": 704,
+                        "text": "c.3927_3931del AAAGA"
+                    },
+                    {
+                        "ID": "T41",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1044,
+                        "end": 1064,
+                        "text": "c.3927_3931del AAAGA"
+                    },
+                    {
+                        "ID": "T1",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 803,
+                        "end": 822,
+                        "text": "c.3183_3187delACAAA"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1360090-03-Results-p02",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nClinicopathological and molecular features of BRAF mutant colorectal cancers stratified according to microsatellite instability status.\n\naTumor-infiltrating lymphocytes\n\nClinicopathological and molecular features of BRAF mutant colorectal cancers stratified according to methylator phenotype status.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-04-Discussion-p02",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nFor a more detailed survey of congruence between gene expression and chromosomal aberrations in CRC, we compared our results to six previous studies reporting chromosomal gains or losses in distinct chromosomal regions [18,19,21-25] (see Tables 3, 4). We considered only those chromosomal regions that were reported by different researchers or were found to be aberrant in > 20% of tumor samples. In summary, we found that the majority of deletion regions show a reduction in expression. This suggests that regional transcriptional silencing in CRC is mainly achieved by loss of genomic DNA. In contrast, amplified regions rather show heterogeneous expression changes. We found regions of expression gain in the most frequently reported regions of chromosome gain on 7, 8q, 13, 20q. These regions are in support for a positive correlation of DNA copy number and transcript abundance, although a direct causal relationship is not shown in this study.\n\nExpression in Islands frequently amplified in CRC.\n\nLiterature survey of chromosomal regions with evidence for amplifications in colorectal cancers. We checked all regions of frequent chromosomal amplifications for congruence with expression patterns. Congruence between literature CGH data and our expression data was declared on the presumption that allelic gain causes mRNA up-regulation.\n\nHowever, there are also many regions of frequent deletions that did not show alterations in expression or that were even down-regulated (7q11.2-7q12, 9q34, 12p13.1-13.2, 15q22-15q23, 16p12-16p11, 22q11; compare Tables 3 and 4). One possible explanation is that these down-regulated regions are not amplified in our tumor samples. An alternative explanation is that the influence of chromosomal amplification on transcription levels can be either positive or negative. It is possible that amplification of a particular genomic region disrupts transcription of amplified genes by a yet unknown mechanism, e.g. by induction of chromatin-based silencing, or by separation of essential enhancer regions from transcription starts.\n\nPlatzer et al. found amplifications in 7p, 8q, 13q, 20q in 26%\u201343% of their CRC patients and revealed by microarray-based expression analysis that only 81 of 2146 genes in amplified regions show over-expression (3.8%) whereas 164 of 2146 genes show under-expression (7.7%). Using a different approach (microdissection, oligo arrays, analysis aimed at the identification of single chromosomal expression domains and not at the location of all differentially expressed genes in chromosomes) we found several smaller up-regulated regions and no regions of down-regulation in the same chromosomal regions. Therefore, our data partly contradicts the findings of Platzer et al. which state that in these frequently amplified regions gene expression is rather down-regulated. However, other misregulated expression domains (see above) of our study confirmed the general notion by Platzer et al. that frequently amplified regions in CRC can also exhibit down-regulation of transcript levels.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1266026-06-Conclusion-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nConclusion\n\nThe biology of cancer must underlie the epidemiology of cancer. Here we illustrate that multistage models provide conceptually plausible solutions even when colorectal cancers are divided into biologically relevant and quite different subtypes. Ages at cancer are consistent with five or six somatic oncogenic mutations for hereditary (HNPCC) MSI+ cancers and seven or eight mutations for its sporadic counterpart. The apparent requirement for more than one additional somatic mutation in sporadic MSI+ cancers may reflect that MMR inactivation is commonly epigenetic, which may involve multiple steps. Ages at MSI- cancers were consistent with six or seven oncogenic mutations, with similar estimates for all clinical stages, suggesting that mutations acquired very early in life dictate the cancer phenotype at the time of transformation. Better integration of cancer epidemiology with its biology remains a further challenge.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1557864-02-Background-p02",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nInterestingly, a number of in vitro studies have suggested a relationship between MMR deficiency and platinum-drug resistance. Several resistant sublines of ovarian and melanoma cell lines generated by cisplatin selection, appeared to be MMR deficient [11-15]. In addition, a colon (HCT116) and an endometrioid cell line (HEC59), deficient for MLH1 and MSH2 respectively, were 2.1 and 1.8 fold resistant to cisplatin compared to cell lines complemented with chromosome 3, containing MLH1, or chromosome 2, containing MSH2 [15-17]. These in vitro studies suggest that inactivation of proteins involved in the initiation of MMR might cause cisplatin resistance. It is thought that the DNA damage caused by platin-drugs is recognized by MMR. The cell will then undergo several unsuccessful repair cycles, finally resulting in the induction of apoptosis. When MMR is inactive the DNA damage caused by platin-drugs will not be picked up and will therefore not result in apoptosis rendering the cells resistant to platin-drugs.\n\nSeveral studies have determined the frequency of MMR inactivation in ovarian cancer using MSI as a marker [18-37]. However, there was a wide range observed (0%\u201339%) and so far only a few studies have linked MMR inactivation to platinum-based chemotherapy resistance. Thus, there is still no general agreement about the frequency of MMR inactivation and its possible involvement in the platinum-based chemotherapy resistance seen in ovarian cancer patients.\n\nThe aim of this study is to determine the frequency of mismatch repair (MMR) inactivation in ovarian cancer and whether it is associated with platinum-based chemotherapy resistance. To this purpose we analyzed seventy-five ovarian carcinomas and eight ovarian cancer cell lines. In the discussion, the results were compared to that of twenty similar studies in the literature including in total 1315 ovarian cancer patients.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-04-Discussion-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nDiscussion\n\nGlobal analysis of chromosomal regions with expression gain or loss\n\nWe found that 25% of the genes lie in regions that are affected by expression imbalance in colon cancer. This does not mean that 25% of the genes are misregulated as many genes that fall into these regions are not expressed at all in tumors and in normal epithelium of the colon. Additionally, we note that these numbers are probably an upper limit because the sliding window approach probably included several genes in close proximity to the boundaries of misexpressed regions. Nevertheless, the number of regions of imbalanced expression is remarkable and suggest that there is extensive regulation in CRC at the genomic level. Recently, Nakao et al. estimated from genome-wide array CGH data that ~17% of the human genome is affected by DNA copy number changes in CRC [23]. Prior to a more detailed analysis of individual regions in this study, this suggested that not all regional expression changes in CRC will be explainable by DNA copy number aberrations.\n\nThere are only slightly more genes with expression loss than regions with expression gain. One can argue that a tumor ought to show a higher frequency of expression loss than expression gain. Reasons are that there should be a tendency to lose tumor suppressor genes selectively and to lose non-essential genes (genomic ballast) as a side effect. If transcription would be a process that is predominantly driven by positive regulation of transcriptional activators, one would assume that any partial genome loss results in a slow down of transcription. In the light of these considerations, an equally high number of regions with expression gain can be interpreted in two ways. Either positive selection drives expression gain of some regions in cancer cells, or a default phenotype of transcription suppression dominates in normal cells which is relaxed during tumor cell development.\n\nGene expression in chromosomal regions with frequent DNA copy number changes in CRC\n\nMost studies reported frequent gains of chromosome 7, 8q, 13q, 20q and losses of 4 and 18q in CRC [18,19,21-25]. These broadly-defined alterations are in perfect agreement with chromosome-specific trends in our expression data, especially the exclusive presence of domains of expression gain on 8, 13 and 20 and the exclusive presence of domains of expression loss on chromosome 4 and 18 (see Table 2 and Figures 21, 22, 23, 24, 25, 26). There is a single discrepancy for chromosome 7: region 7q11-7q12 has been reported as amplified in CRC, but its expression is significantly down-regulated in our tumor samples.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-03-Results-p07",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nUp-regulation of mRNA levels in human chromosomal region 17q21.33-23.2 (patient counts with coordinate up-regulation). Grayscale cross-comparison plots of up-regulation patterns across patients (analogous to Figures 7, 10, 13). View this plot in conjunction with Figures 18 and 20. Note, that many more patients show up-regulation as indicated by dark spots in this plot than down-regulation as indicated by dark spots in Figure 20. This region has been reported in other studies to be frequently amplified in colon cancer (see Table 3).\n\nUp-regulation of mRNA levels in human chromosomal region 17q21.33-23.2 (patient counts with coordinate down-regulation). Grayscale cross-comparison plots of down-regulation patterns across patients (analogous to Figures 8, 11, 14). View this plot in conjunction with Figures 18 and 19.\n\nIndividual chromosomal islands with loss of expression\n\n1p36.13-1p36.11\n\nThe most strongly down-regulated region in our study is 1p36.13-1p36.11 (see Figures 9, 10, 11). A larger chromosome region comprising this fragment has recently been reported to be frequently deleted in CRC (see Tables 1 and 4). No tumor suppressor gene has been found yet. Our data suggest multiple genes that could act as class II TSGs. Several have been associated with proliferative processes or even cancer before. The PLA2G2A encodes phospholipase A2 group IIA which has been proposed as a TSG and a marker for metastasis and patient survival in gastric cancer [30]. The E2F2 transcription factor is a known regulator of TSGs and interacts specifically with the RB protein. It plays an important role in the cell cycle. The CDC42 protein is a small Rho-like GTPase. It acts in intracellular signaling and is involved in various processes like control of morphology, migration, endocytosis, and the cell cycle. Therefore, PLAG2A, E2F2 and CDC42 are the primary candidate tumor suppressors in this region.\n\nExpression in Islands frequently deleted in CRC.\n\nLiterature survey of chromosomal regions with evidence for deletions in colorectal cancers. We checked all regions of frequent chromosomal deletions for congruence with expression patterns. Congruence between literature CGH data and our expression data was declared on the presumption that allelic loss causes mRNA down-regulation.\n\nDown-regulation of mRNA expression in human chromosomal region 1p36.13-1p36.11 (T/N relative expression heat map). Heat map of fold change of tumor-versus-normal expression. Genes are given in chromosomal order on the horizontal axis. Patient codes are given on the vertical axis. The legend depicts which colors code for which expression changes on a loge scale (green: down in tumor; red: up in tumor). View in conjunction with Figures 10 and 11.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-01-Abstract-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nA genome-wide map of aberrantly expressed chromosomal islands in colorectal cancer\n\nAbstract\n\nBackground\n\nCancer development is accompanied by genetic phenomena like deletion and amplification of chromosome parts or alterations of chromatin structure. It is expected that these mechanisms have a strong effect on regional gene expression.\n\nResults\n\nWe investigated genome-wide gene expression in colorectal carcinoma (CRC) and normal epithelial tissues from 25 patients using oligonucleotide arrays. This allowed us to identify 81 distinct chromosomal islands with aberrant gene expression. Of these, 38 islands show a gain in expression and 43 a loss of expression. In total, 7.892 genes (25.3% of all human genes) are located in aberrantly expressed islands. Many chromosomal regions that are linked to hereditary colorectal cancer show deregulated expression. Also, many known tumor genes localize to chromosomal islands of misregulated expression in CRC.\n\nConclusion\n\nAn extensive comparison with published CGH data suggests that chromosomal regions known for frequent deletions in colon cancer tend to show reduced expression. In contrast, regions that are often amplified in colorectal tumors exhibit heterogeneous expression patterns: even show a decrease of mRNA expression. Because for several islands of deregulated expression chromosomal aberrations have never been observed, we speculate that additional mechanisms (like abnormal states of regional chromatin) also have a substantial impact on the formation of co-expression islands in colorectal carcinoma.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-06-Methods-p03",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nAnalysis of expression along chromosomes\n\nIn each graph of Figures 2, 3, 4, 5, we plotted the numbers of patient samples with tumor up/down regulation (percentage on informative cases) for all genes according to their position on the chromosome. In these plots, the smoothing of the curve is achieved by averaging over 50 consecutive genes.\n\nSignificant deviations from average expression in a particular chromosomal region is not sufficient to infer coordinated deregulation. This is because it does not allow to infer whether all genes of a region are actually de-regulated in the same subset of patients. They could also be de-regulated in different patients. Consider three genes G1, G2, G3 and their expression in patients A,B,C,D. Each gene is up-regulated in 50% of patients. If the genes are up-regulated in different patients (G1 is up-regulated in A/B, G2 is up-regulated in B/C, G3 is up-regulated in C/D), then one can not assume that there is a regional up-regulation in all patients. However, if the genes are up-regulated in the same patients (G1, G2 and G3 are all up-regulated in A and B), then it is fair to assume that they have undergone coordinated regional up-regulation. Chance effects more likely create non-coordinated up-regulation. To capture such a gene-versus-gene correlation structure, we performed the following for a given chromosome region:\n\nFor each pair of genes of a given chromosome region we count the number of their coordinated (simultaneous) up-regulations (based on the above computed fold changes) over the set of patients and the number of coordinated down-regulations, separately. These values can be represented in gray-scale plots: one gray scale plot for the coordinated up-regulation and a similar one for coordinated down-regulation. Both, horizontal and vertical axis comprise genes of the chromosome region in the right chromosomal order (see Figures 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32). The darkness of squares represents the number of coordinated up- or down-regulations, respectively. Coordinately up-regulated regions show up as squares with high \"correlation\" measures along the diagonal. Such resulting cross-comparison matrices can be visualized interactively for any chromosomal region on our supplementary website[41] along with heat maps of expression intensities and are used in Figures 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32. Alternatively, we applied \"correlation\" measures like Pearson correlation coefficients on fold changes, mutual information, and set-theoretic coefficients like the Dice and Jaccard coefficients on binary patterns of up-regulation and down-regulation (only available on our website [41]).\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1334229-05-Discussion-p03",
+                "text": "Of the microsatellite instable tumours, approximately 90% show absence of hMLH1 expression [24]. In most sporadic colorectal cancers, the promoter region of hMLH1 is hypermethylated, resulting in absence of the protein [53-55]. BAT-26 was previously shown to identify microsatellite instability in sporadic colorectal cancer [56] and results from our study showed a good agreement between unstable BAT-26 and absent hMLH1 expression.\n\nSeveral studies have shown that microsatellite instability and mutations in APC and K-ras occur almost mutually exclusively [18,19,21,57], suggesting that these characteristics represent separate pathways. However, others have observed aberrations in both pathways, but these studies have been performed in relatively small groups of HNPCC and sporadic colorectal cancer patients [14,20,58] and this may have given rise to a relative overrepresentation of mutation detection in both pathways. Although in our study the simultaneous occurrence of hMLH1 deficiency as well as an APC or K-ras mutation was observed in a small number of tumours, the mutually exclusive occurrence of hMLH1 deficiency and mutations in APC and/or K-ras seemed to predominate.\n\nMoreover, after exclusion of tumours displaying this overlap, a striking difference between occurrences of APC and/or K-ras mutations versus absence of hMLH1 expression was observed. The differences were most pronounced with regard to tumour sub-localisation and differentiation. hMLH1 deficient tumours occur almost exclusively in the proximal colon and are relatively more frequently poorly differentiated, which is in accordance with reports from other studies [22-25].\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "2386495-03-Methods-p03",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nStatistics\n\nStudent's t-test was used to analyze continuous data, and Fisher's exact test was used to analyze categorical data. Differences were considered statistically significant at a level of P < 0.05.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1373649-01-Abstract-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nMicrosatellite instability analysis in hereditary non-polyposis colon cancer using the Bethesda consensus panel of microsatellite markers in the absence of proband normal tissue\n\nAbstract\n\nBackground\n\nHereditary non-polyposis colon cancer (HNPCC) is an autosomal dominant syndrome predisposing to the early development of various cancers including those of colon, rectum, endometrium, ovarium, small bowel, stomach and urinary tract. HNPCC is caused by germline mutations in the DNA mismatch repair genes, mostly hMSH2 or hMLH1.\n\nIn this study, we report the analysis for genetic counseling of three first-degree relatives (the mother and two sisters) of a male who died of colorectal adenocarcinoma at the age of 23. The family fulfilled strict Amsterdam-I criteria (AC-I) with the presence of extracolonic tumors in the extended pedigree. We overcame the difficulty of having a proband post-mortem non-tumor tissue sample for MSI testing by studying the alleles carried by his progenitors.\n\nMethods\n\nTumor MSI testing is described as initial screening in both primary and metastasis tumor tissue blocks, using the reference panel of 5 microsatellite markers standardized by the National Cancer Institute (NCI) for the screening of HNPCC (BAT-25, BAT-26, D2S123, D5S346 and D17S250). Subsequent mutation analysis of the hMLH1 and hMSH2 genes was performed.\n\nResults\n\nThree of five microsatellite markers (BAT-25, BAT-26 and D5S346) presented different alleles in the proband's tumor as compared to those inherited from his parents. The tumor was classified as high frequency microsatellite instability (MSI-H). We identified in the HNPCC family a novel germline missense (c.1864C>A) mutation in exon 12 of hMSH2 gene, leading to a proline 622 to threonine (p.Pro622Thr) amino acid substitution.\n\nConclusion\n\nThis approach allowed us to establish the tumor MSI status using the NCI recommended panel in the absence of proband's non-tumor tissue and before sequencing the obligate carrier. According to the Human Gene Mutation Database (HGMD) and the International Society for Gastrointestinal Hereditary Tumors (InSiGHT) Database this is the first report of this mutation.\n\n",
+                "entities": [
+                    {
+                        "ID": "T43",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1786,
+                        "end": 1848,
+                        "text": "proline 622 to threonine (p.Pro622Thr) amino acid substitution"
+                    },
+                    {
+                        "ID": "T42",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1717,
+                        "end": 1757,
+                        "text": "missense (c.1864C>A) mutation in exon 12"
+                    },
+                    {
+                        "ID": "T54",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1812,
+                        "end": 1823,
+                        "text": "p.Pro622Thr"
+                    },
+                    {
+                        "ID": "T55",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1727,
+                        "end": 1736,
+                        "text": "c.1864C>A"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-03-Results-p06",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nUp-regulation of mRNA expression in human chromosomal region 12q21.1-q21.2 (T/N relative expression heat map). Heat map of fold change of tumor-versus-normal expression. Genes are given in chromosomal order on the horizontal axis. Patient codes are given on the vertical axis. The legend depicts which colors code for which expression changes on a loge scale (green: down in tumor; red: up in tumor). View in conjunction with Figures 16 and 17.\n\nUp-regulation of mRNA expression in human chromosomal region 12q21.1-q21.2 (patient counts with coordinate up-regulation). Grayscale cross-comparison plots of up-regulation patterns across patients (analogous to Figures 7, 10 and 13). View this plot in conjunction with Figures 15 and 17. Note, that many more patients show up-regulation as indicated by dark spots in this plot than down-regulation as indicated by dark spots in Figure 17. Over-expressed genes in this region comprise leucine-rich G-protein coupled receptor 5 (GPR49), HIV-1 rev binding protein 2 (HRB2), pleckstrin-homology-like domain family A member 1 (PHLDA1), nucleosome assembly protein 1-like 1 (NAP1L1), oxysterol binding protein-like 8 (OSBPL8), cystein- and glycine-rich protein 2 (CSRP2), E2F transcription factor 7 (LOC144455).\n\nUp-regulation of mRNA expression in human chromosomal region 12q21.1-q21.2 (patient counts with coordinate down-regulation). Grayscale cross-comparison plots of down-regulation patterns across patients (analogous to Figures 8, 11, 14). View this plot in conjunction with Figures 15 and 16.\n\n17q21.33-17q23.2\n\nThe chromosomal interval 17q21.33-17q23.2 harbors numerous up-regulated genes (see Figures 18, 19, 20). Chromosomal gains of this region in CRC have been described by two independent studies [21,25]. Up to 18 of 25 patients show up-regulation of expression in this region. The known tumor gene NME1 (non-metastatic 1; encoding the NM23A protein, a nucleoside diphosphate kinase) is among the most frequently up-regulated genes in this region. Also the paralogous genomic neighbor NME2 which acts in the same pathway is strongly up-regulated. These two genes are possibly the primary targets of regional expression up-regulation. However, up-regulation of several other genes is also remarkable. The up-regulation of the mitochondrial ribosomal component MRPS23 is notable as it is in agreement with other observations of up-regulation of genes acting in translation (see above). Additionally, the RING finger gene FLJ20315/RNF124, possibly encoding a novel E3 ubiquitin ligase, and the suppressor of Ty 4 homologue 1 (SUPT4H1), a putative human chromatin regulator that alters transcription, are genes that are strongly up-regulated and could have the potential to contribute to development of CRC.\n\nUp-regulation of mRNA levels in human chromosomal region 17q21.33-23.2 (T/N relative expression heat map). Heat map of fold change of tumor-versus-normal expression. Genes are given in chromosomal order on the horizontal axis. Patient codes are given on the vertical axis. The legend depicts which colors code for which expression changes on a loge scale (green: down in tumor; red: up in tumor). View in conjunction with Figures 19 and 20.\n\n",
+                "entities": [
+                    {
+                        "ID": "T1",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1949,
+                        "end": 1953,
+                        "text": "M23A"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1266026-02-Background-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nBackground\n\nCancer is thought to arise through a multistep process involving sequential cycles of mutation and selection [1]. The identities and numbers of mutations required for transformation are uncertain, but perhaps six general cellular functions are typically altered [2]. Numbers of oncogenic mutations may also be inferred from the age-related increases in frequencies observed with many cancer types. For example, logarithms of cancer frequencies versus age typically yield straight lines, with slopes proportional to numbers of cancer mutations [3].\n\nColorectal cancer epidemiology is consistent with approximately five to seven oncogenic mutations before transformation [3-6]. The variability in estimated numbers of mutations may reflect a number of differences. For example, estimates vary between populations, with five to six mutations in England and six to seven mutations in Finland [4]. Recent advances in cancer genetics also reveal biologic colorectal cancer heterogeneity. Approximately 5% of all colorectal cancers have strong familial predispositions and arise in individuals with germline mutations in critical susceptibility loci [7]. Such hereditary cancers (familial adenomatous polyposis (FAP) and hereditary nonpolyposis colorectal cancer (HNPCC)) typically present at younger ages and should require fewer somatic mutations than their sporadic counterparts because one mutation is inherited.\n\nGenetic instability also divides colorectal cancers into two groups [8]. Approximately 10 to 15% of sporadic cancers exhibit microsatellite instability (MSI) secondary to somatic loss of DNA mismatch repair (MMR). Most other cancers exhibit chromosomal instability (CIN) characterized by aneuploidy and loss of heterozygosity (LOH) [7,8]. CIN and MSI+ colorectal cancers have different characteristics with respect to mutated loci, tumor location, morphology, and clinical outcomes [7,8].\n\nNumbers of oncogenic mutations may differ between cancer subtypes. Therefore, colorectal cancers arising in a population-based setting were molecularly classified as either sporadic or hereditary, and MSI+ or MSI-. Cancers were also classified with respect to clinical stage because additional mutations may be required for invasion or metastasis. Ages at cancer for each subgroup were used to infer numbers of mutations required for each type of colorectal cancer.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "3034663-01-Abstract-p01",
+                "text": "Evidence for classification of c.1852_1853AA>GC in MLH1 as a neutral variant for Lynch syndrome\n\nAbstract\n\nBackground\n\nLynch syndrome (LS) is an autosomal dominant inherited cancer syndrome characterized by early onset cancers of the colorectum, endometrium and other tumours. A significant proportion of DNA variants in LS patients are unclassified. Reports on the pathogenicity of the c.1852_1853AA>GC (p.Lys618Ala) variant of the MLH1 gene are conflicting. In this study, we provide new evidence indicating that this variant has no significant implications for LS.\n\nMethods\n\nThe following approach was used to assess the clinical significance of the p.Lys618Ala variant: frequency in a control population, case-control comparison, co-occurrence of the p.Lys618Ala variant with a pathogenic mutation, co-segregation with the disease and microsatellite instability in tumours from carriers of the variant. We genotyped p.Lys618Ala in 1034 individuals (373 sporadic colorectal cancer [CRC] patients, 250 index subjects from families suspected of having LS [revised Bethesda guidelines] and 411 controls). Three well-characterized LS families that fulfilled the Amsterdam II Criteria and consisted of members with the p.Lys618Ala variant were included to assess co-occurrence and co-segregation. A subset of colorectal tumour DNA samples from 17 patients carrying the p.Lys618Ala variant was screened for microsatellite instability using five mononucleotide markers.\n\nResults\n\nTwenty-seven individuals were heterozygous for the p.Lys618Ala variant; nine had sporadic CRC (2.41%), seven were suspected of having hereditary CRC (2.8%) and 11 were controls (2.68%). There were no significant associations in the case-control and case-case studies. The p.Lys618Ala variant was co-existent with pathogenic mutations in two unrelated LS families. In one family, the allele distribution of the pathogenic and unclassified variant was in trans, in the other family the pathogenic variant was detected in the MSH6 gene and only the deleterious variant co-segregated with the disease in both families. Only two positive cases of microsatellite instability (2/17, 11.8%) were detected in tumours from p.Lys618Ala carriers, indicating that this variant does not play a role in functional inactivation of MLH1 in CRC patients.\n\nConclusions\n\nThe p.Lys618Ala variant should be considered a neutral variant for LS. These findings have implications for the clinical management of CRC probands and their relatives.\n\n",
+                "entities": [
+                    {
+                        "ID": "T73",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 2189,
+                        "end": 2200,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T74",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 2331,
+                        "end": 2342,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T62",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1367,
+                        "end": 1378,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T65",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1527,
+                        "end": 1538,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T37",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1748,
+                        "end": 1759,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T49",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 755,
+                        "end": 766,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T48",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 653,
+                        "end": 664,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T40",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 31,
+                        "end": 47,
+                        "text": "c.1852_1853AA>GC"
+                    },
+                    {
+                        "ID": "T46",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 405,
+                        "end": 416,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T45",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 387,
+                        "end": 403,
+                        "text": "c.1852_1853AA>GC"
+                    },
+                    {
+                        "ID": "T59",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1217,
+                        "end": 1228,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T51",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 920,
+                        "end": 931,
+                        "text": "p.Lys618Ala"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "2275286-03-Methods-p02",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nThe DNA sequence of each microsatellite in the tumor was compared with that of the matched normal mucosa. It was considered as unstable if there was an absence, shortening or prolongation of the DNA sequence. MSI-L was defined as 1 unstable microsatellite out of 5, while MSI-H was defined as more than 1 unstable microsatellite out of 5. If the tumor microsatellites were identical to those of the normal tissue, the microsatellite was considered as stable (MSS).\n\nFor the MSI-L CRCs, BAT-40 and MYCL were detected. If either of these two markers was unstable, this colorectal sample was considered as MSI-H.\n\nImmunohistochemical staining for MSH2, MSH6 and MLH1 on TMAs\n\nThe CRC microarray was constructed as previously described [8,9]. Briefly, formalin-fixed paraffin-embedded tissue blocks of CRC resections were cut from the donor block and stained with hematoxylin-eosin (HE). These slides were used to guide the sampling from morphologically representative regions of the tissues. A tissue array instrument (Beecher Instruments, Silver Spring, MD) was used to create holes in a recipient paraffin block and to acquire tissue cores from the donor block by a thin-walled needle with an inner diameter of 1.0 mm, held in an X-Y precision guide. The cylindrical samples were retrieved from the selected regions in the donors and extruded directly into the recipient blocks with defined array coordinates. Three cores were obtained from each sample. After the construction of the array block, multiple 4-mm thick sections were cut with a microtome using an adhesive-coated tape sectioning system (Instrumedics, Hackensack, NJ). In our analysis the rates of lost cases attributable to tissue damage were less than 5% for the different markers.\n\nTMA slides were stained with MLH1 antibodies (1:50 dilution, No. sc-494, Santa Cruz, Biotrade Ltd, Shanghai, China) and MSH2 (1:100 dilution, No. sc-581, Santa Cruz, Biotrade Ltd, Shanghai, China). IHC staining for samples on the tissue microarray was carried out using Envision ready-to-use methods (Dako Diagnostics, Zug, Switzerland). Slides were deparaffinized in xylene and rehydrated through graded concentrations of ethanol to distilled water, and endogenous peroxidase activity was blocked by incubation with 30 mL/L H2O2 in methanol for 10 min at room temperature. Then sections were submitted to antigen retrieval in a pressure cooker containing 0.01 mmol/L natrium citricium buffer for 10 min. Slides were subsequently incubated in 100 mL/L normal goat serum for 20 min at room temperature. Sections were permeabilized in PBS-Triton and incubated overnight with primary antibody at 4\u00b0C. The pathologist and technician who reviewed the immunostaining of the tissue samples were blinded to the patient's information. Stained slides and individual cores were scored as either positive (showing nuclear staining in at least some tumor cells) or negative.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "2275286-04-Results-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nResults\n\nOne hundred fifty-eight patients received treatment for colorectal cancer in our Colorectal Center from October 2004 to June 2006. Three patients were excluded for concomitant ulcerative colitis and two for unresectable diseases. Five patients refused operation and 2 patients refused to participate in the study. 146 patients (84 male and 62 female, age: 60.8 \u00b1 10.5 yr) were recruited into the study. Clinicopathological features of those patients are summarized in Table 1.\n\nClinicopathological features of cases (N = 146)\n\n*Astler-Coller Dukes stage\n\nThe results of the MSI analysis, hypermethylation of MLH1 and IHC staining of MSH2, MSH6 and MLH1\n\nWith the original NCI five marker panel, 34 of 146 patients (23.2%) were MSI, 17 were MSI-H and another 17 were MSI-L. Two out of 17 MSI-L CRCs were unstable with BAT-40 and were judged as MSI-H. Seven out of 17 MSI-H CRCs were unstable with BAT-40. In all, 19 CRCs (55.9%) were MSI-H and 15 cancers (44.1%) were MSI-L. The remaining 112 patients (76.8% were MSS. In the MSI group, 13 patients (8.9%) were BAT-26 unstable, 18 (12.3%) were BAT-25 unstable, 16 (11.0%) were D2S123 unstable, 11 (7.5%) were D5S346 unstable, 14 (9.6%) were D17S250 unstable.\n\nNegative staining for MSH2 was found in 8 CRCs, negative staining for MSH6 was found in 6 CRCs. One MSI-H CRC was negative for both MSH6 and MSH2. Seventeen CRCs stained negatively for MLH1. Negative staining was not found in three MSI CRCs, and one CRC was found with negative MLH1 staining, but it was MSS.\n\nMLH1 promoter methylation was determined in 34 MSI CRCs. Hypermethylation of the MLH1 promoter occurred in 14 (73.7%) out of 19 MSI-H CRCs and 5 (33.3%) out 15 MSI-L CRCs. The results of MSI and IHC staining are summarized in Table 2.\n\nThe result of MSI, hypermethylation of MLH1 and IHC staining\n\n*One MSI-H CRCs was negative both for MSH6 and MSH2\n\n# MLH1 promoter methylation was determined only in MSI CRCs.\n\nComparison of clinical features between MSI and MSS colorectal cancers\n\nTable 3 summarizes the clinical features of MSS and MSI patients. Patients in the MSS group are younger than those in MSI group (70.9 \u00b1 17.8 versus 61.0 \u00b1 9.4, p = 0.045). Twenty out of 34 (59%) MSI patients were stage III or stage IV, significantly higher than those (35.7%) in the MSS group (p = 0.008). There were no differences in other demographic and clinical pathological features, including sex, tumor location and type between the two groups. The most common location of the tumor was the rectum in both groups, accounting for more than 50% of the cases. Adenocarcinoma was the most common pathological type in both groups. Ten patients in the MSI group (29.4%) had mucinous carcinoma.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1360090-01-Abstract-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nmutations are associated with distinctive clinical, pathological and molecular features of colorectal cancer independently of microsatellite instability status\n\nAbstract\n\nBackground\n\nBRAF is a member of RAF family of serine/threonine kinases and mediates cellular responses to growth signals through the RAS-RAF-MAP kinase pathway. Activating mutations in BRAF have recently been found in about 10% of colorectal cancers, with the vast majority being a V600E hotspot mutation. The aim of the present study was to evaluate the clinical, pathological and molecular phenotype of colorectal tumors with BRAF mutations.\n\nResults\n\nMutations in BRAF were identified in 8% (23/275) of colorectal cancers. They were 5\u201310-fold more frequent in tumors with infiltrating lymphocytes, location in the proximal colon, poor histological grade and mucinous appearance (P < 0.002 for each). Tumors with BRAF mutation were also 10-fold more likely to show microsatellite instability and frequent DNA methylation (P < 0.0001) compared to tumors without this mutation. The characteristic morphological features of tumors with BRAF mutation (infiltrating lymphocytes, poor grade, mucinous) remained after stratification according to microsatellite instability and methylator phenotypes. Mutations in BRAF were mutually exclusive with mutations in KRAS but showed no clear association with the presence of TP53 mutation.\n\nConclusion\n\nBRAF mutation identifies a colorectal cancer subgroup with distinctive phenotypic properties independent of microsatellite instability status and thus could be a valuable marker for studies into the clinical properties of these tumors.\n\n",
+                "entities": [
+                    {
+                        "ID": "T1",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 507,
+                        "end": 512,
+                        "text": "V600E"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "3034663-02-Background-p02",
+                "text": "The MLH1 p.Lys618Ala (c.1852_1853AA>GC) variant was initially considered a deleterious variant based on its recurrent presence in LS families, in silico predictions and in vitro experiments on its functional effect. However, recent data on its co-segregation with LS have cast doubt on its clinical significance [6]. In this study, we provide evidence supporting the contention that this variant has no significant implications in LS.\n\nThe following approach was used to assess the clinical significance of the p.Lys618Ala variant: frequency in a control population, case-control and case-case comparisons, co-occurrence with a pathogenic mutation, co-segregation with the disease and MSI in tumours from carrier individuals.\n\n",
+                "entities": [
+                    {
+                        "ID": "T10",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 22,
+                        "end": 38,
+                        "text": "c.1852_1853AA>GC"
+                    },
+                    {
+                        "ID": "T9",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 9,
+                        "end": 20,
+                        "text": "p.Lys618Ala"
+                    },
+                    {
+                        "ID": "T14",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 511,
+                        "end": 522,
+                        "text": "p.Lys618Ala"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "2386495-04-Results-p04",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nCharacterization of mutation in patient C633. Diagram of genomic DNA sequence at the exon/intron 7 boundary. The line arrow indicates the c.834G > C mutation and the wildtype 5' donor splice site of intron 7 is underlined in the sequence diagram. The wildtype cDNA and the resulting amino acid sequence from the corresponding transcript are shown above the diagram. The G that is substituted in one allele in the patient is indicated in bold. The cryptic splice site used as a result of the mutation is underlined with a dashed line and the shaded area corresponds to the mRNA sequence deleted in the mutant transcript. Beneath the genomic sequence the cDNA sequence derived from the mutant allele is displayed, showing the resulting frameshift and premature termination of the translation product.\n\nA family with reduced APC expression\n\nLowered APC expression was observed in samples from two affected individuals from family 1 in the Swedish Polyposis Registry (index case, C152). The level of APC mRNA expression in peripheral blood cells from these two individuals where investigated by TaqMan quantitative RT-PCR analysis. In total, 29 patients including all 9 mutation-negative cases were analyzed. APC- and MUTYH-mutation positive patients as well as healthy individuals where included as controls. Reduced APC expression was only observed in two samples from affected individuals and both of those where from family 1 (Figure 5A). The APC-mutation positive samples used as controls did not show reduced expression of APC. To verify the expression data, cDNA from the individuals was sequenced over an informative heterozygous cSNP position (c.5465A > T). By sequencing cDNA and monitoring the level of expression of each allele as shown by the sequence diagram (Figure 5B), the level of the T-allele was found to be lowered in the two FAP-affected members of the family, compared with control individuals who had displayed normal APC expression in the quantitative RT-PCR experiment (Figure 5A). Linkage to the APC locus on chromosome 5 has also been investigated in this family. Positive linkage in two different branches of the family was determined. Individuals who have shown positive linkage to APC are indicated in Figure 6, which shows a pedigree presenting only a part of the complete pedigree of the large family 1. In total, this family includes 150 individuals of whom 57 are affected by the disease.\n\nmRNA expression analysis of family 1 of the Swedish Polyposis Registry. (A) Diagram of part of the results from the TaqMan APC mRNA expression analysis, showing the relative mRNA levels calculated by the standard curve method of two affected members of family 1 (A and B) and two control individuals (C and D). (B) Diagrams of cDNA sequences of the above indicated patients and controls covering the APC c.5465A > T polymorphism.\n\n",
+                "entities": [
+                    {
+                        "ID": "T63_2",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 2879,
+                        "end": 2890,
+                        "text": "c.5465A > T"
+                    },
+                    {
+                        "ID": "T61",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 1703,
+                        "end": 1714,
+                        "text": "c.5465A > T"
+                    },
+                    {
+                        "ID": "T44",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 192,
+                        "end": 202,
+                        "text": "c.834G > C"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "3034663-06-Conclusions-p01",
+                "text": "Conclusions\n\nTaken together, the results of this study and others indicate that the c.1852_1853AA>GC variant should be considered a neutral variant for LS. These findings have considerable relevance for the clinical management of CRC probands and their relatives.\n\n",
+                "entities": [
+                    {
+                        "ID": "T3",
+                        "type": "mutation",
+                        "normalizedtype": "Mutation",
+                        "begin": 84,
+                        "end": 100,
+                        "text": "c.1852_1853AA>GC"
+                    }
+                ],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-04-Discussion-p03",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nAberrantly expressed chromosomal islands linked to hereditary cancer\n\nRoughly 5% of all colorectal carcinomas are hereditary non-polyposis colorectal cancers (HNPCCs). In HNPCC, histologically verified colorectal carcinoma is found in at least three relatives from two or more successive generations. In at least one patient, the age of onset should be less than 50 years. Seven chromosomal regions have been linked to HNPCC. More than half of these HNPCC regions show misregulated expression in our patients. Three regions show down-regulation (3p21.3, 2q31-q33 comprising PMS1, 14q24.3 comprising MLH3), one region shows up-regulation (7p22 comprising PMS2), and three regions do not show significant changes in expression (2p22.p21 comprising MSH2, 2p16 comprising MSH6, 3p22 comprising TGFBR2). Eleven further chromosomal regions are linked to hereditary colorectal carcinoma under a common entry in OMIM (14500). More than 50% of these regions show significant expression changes in our data. Five regions show down-regulation (1p35, 14q24.3, 17p11.2, 17p13.1, 22q13), one region shows up-regulation (2p25), and five regions do not show significant expression changes in our data (3q26.3, 8p22-p21.3, 11p11.2, 15q15, 17q24). In combination, these findings strongly suggest that expression changes in regions linked to hereditary CRC play a role in CRC development.\n\nCongruence of our study with the genome-wide copy number and expression analysis of Tsafrir et al\n\nA particular focus of our study was on the congruence of our data with that of Tsafrir et al. [17]. These authors described 11 alterations of whole chromosomes or chromosome arms. Using our approach based solely on expression data we found precisely defined region of coordinated up-regulation in all four regions of gene expression and gDNA copy number gain that they reported (+7, +8q, +13q, +20q). For six of seven aberrations (-1p, -4, -5q, -14q, -15q, -18) we discovered smaller expression islands of coordinated down-regulation. We were not able to reproduce the finding of expression loss on 8p. In summary, this large congruence of our results with that of Tsafrir et al. can be regarded as an external validation of our results. The comparison illustrates the power of our data analysis approach which allows to define expression islands on a single-gene resolution. Most importantly it confirms our confidence in the use of the chip platform (Affymetrix U133A) that was used in both studies and apparently can lead to largely congruent results in different patient cohorts and laboratories.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1557864-04-Results-p01",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nResults\n\nMicrosatellite analysis\n\nTwo sublines of the ovarian cancer cell line A2780 that have been cultured by two research groups in our department and the cell lines SKOV3 and 2774 showed a microsatellite instable (MSI) pattern for both mononucleotide markers BAT25 and BAT26. All other cell lines showed no aberrations. In addition, the 75 ovarian carcinoma tissues and the four normal stromal controls showed no aberrations for BAT25, BAT26 and BAT40 or D2S123, indicating that these are microsatellite stable (MSS).\n\nMLH1 promoter methylation\n\nOne of the two A2780 sublines showed complete methylation of the MLH1 promoter while the other showed a low level of methylation. The results for HOC7 and 2774 were not informative and the other five cell lines showed no methylation. A low level of MLH1 promoter methylation was also seen in six ovarian carcinoma specimens and in addition, one ovarian carcinoma specimen showed abundant methylation. Five ovarian carcinomas were not informative while the other 63 ovarian carcinomas showed no methylation.\n\nQuantitative RT-PCR: expression of MLH1, MSH2, MSH3, MSH6 and PMS2\n\nThe mRNA expression data for the cell lines is shown in Figure 3A. One of the two separately cultured MSI positive A2780 cell lines showed complete methylation of the MLH1 promoter and had no mRNA expression of MLH1. The other A2780 showed a low level of methylation but had the highest MLH1 expression levels compared to the other cell lines. Of the other two MSI positive cell lines, SKOV3 also showed no MLH1 expression while 2774 did express MLH1 mRNA.\n\nRNA was available for 50 of the 75 ovarian carcinomas and the mRNA expression data for these carcinomas is shown in Figure 3B. Interestingly, the ovarian carcinoma with an abundant MLH1 promoter methylation had a low MLH1 mRNA expression compared to the other carcinomas. Thirty-six of the 50 patients received platinum-based chemotherapy (7 non-responders, 28 responders and one patient with unknown response). There was no significant association between the response to platinum-based chemotherapy and the expression of each of these genes separately (Mann-Whitney test, p > 0.6). Since inactivation of only one of these genes might be sufficient to cause MMR deficiency, we used the expression of all of the five genes to mark MMR as active or inactive. If at least one of the five genes had an expression in the lowest quartile we marked MMR as inactive. If none of the genes had an expression in the lowest quartile MMR was marked as active (Figure 3B). Next the Mann-Whitney test demonstrated that there was no significant relation between the deducted MMR status and response to platinum-based chemotherapy (p = 0.665).\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        },
+        {
+            "document": {
+                "ID": "1601966-03-Results-p09",
+                "text": "** IGNORE LINE **\n** IGNORE LINE **\n** IGNORE LINE **\nDown-regulation of mRNA expression in human chromosomal region 4p15.31-15.2 (T/N relative expression heat map). Heat map of fold change of tumor-versus-normal expression. Genes are given in chromosomal order on the horizontal axis. Patient codes are given on the vertical axis. The legend depicts which colors code for which expression changes on a loge scale (green: down in tumor; red: up in tumor). View in conjunction with Figures 22 and 23.\n\nDown-regulation of mRNA expression in human chromosomal region 4p15.31-15.2 (patient counts with coordinate up-regulation). Grayscale cross-comparison plot of up-regulation patterns across patients (analogous to Figures 7, 10, 13). View this plot in conjunction with Figures 21 and 23.\n\nDown-regulation of mRNA expression in human chromosomal region 4p15.31-15.2 (patient counts with coordinate down-regulation). Grayscale cross-comparison plot of down-regulation patterns across patients (analogous to Figures 8, 11, 14). View this plot in conjunction with Figures 21 and 22. Note, that many more patients show down-regulation as indicated by dark spots in this plot than up-regulation as indicated by dark spots in Figure 22. This region has been reported in other studies to be frequently deleted in colon cancer (see Table 4). Note the expression down-regulation of SLIT2, GPR125 and PCDH7.\n\n18q21.2-18q23\n\nThere are several reports of loss of chromosome 18q in CRC (see Tables 1 and 4). We found a smaller region of expression down-regulation at 18q21.2-18q23 (see Figures 24, 25, 26). There is a hot spot for down-regulation in direct vicinity of the BCL2 gene. Its special role in cancer qualified the anti-apoptotic BCL2 protein as a therapeutic target molecule [34,35]. Here we observed down-regulation of BCL2 and its neighbors which is contradictory to its known anti-apoptotic cancer-promoting function. Distal to BCL2 at 18q21.1-18q21.2 there is a region of less pronounced down-regulation between ME2 and MBD2. The SMAD4 (Hs.298320) is only weakly down-regulated and the biological significance is questionable. The DCC (deleted in colorectal carcinoma), proximal to MBD2, is the largest gene in this region, but no statements about its expression can be made because of a lack of informative expression measures. The SMAD2 and SMAD7 genes are in close vicinity to this region. In summary, we do not have direct evidence for down-regulation of tumor suppressor genes in this region. Instead, we observed down-regulation of the cancer-promoting BCL2 gene. Therefore, the biological significance of this domain of expression loss remains elusive. Possibly, the down-regulation of the BCL2 region is just a by-stander effect of deletions targeted at DCC disruption. Alternatively, BCL2 down-regulation could be an unsuccessful attempt of the tumor cells' genetic program to shift the cellular homeostasis towards cell death.\n\n",
+                "entities": [],
+                "relations": [],
+                "equivalences": [],
+                "metadata": []
+            }
+        }
+    ]
+}
