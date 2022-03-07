@@ -156,7 +156,7 @@ def finetune_model(
 def run_training(config):
     pl.seed_everything(42)
 
-    wand.log({"config_file": config})
+    wandb.log({"config_file": config})
 
     with open(config, "r") as read_handle:
         config = json.load(read_handle)

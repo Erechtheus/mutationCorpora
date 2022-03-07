@@ -2,3 +2,6 @@
 /cache/thomas.pickle
 /cache/
 /cache/RsMergeArch.bcp.gz
+__pycache__/
+wandb/
+model_output/
