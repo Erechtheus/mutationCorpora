@@ -1,9 +1,19 @@
+import os
 import json
 import xml.etree.ElementTree as ET
-from fetchTool import getPMID
+from tools.fetchTool import getPMID
 
-inFile="corpora/original/Thomas2011/annotations.txt"
-outFile="corpora/json/linking/thomas.json"
+inFile="../corpora/original/Thomas2011/annotations.txt"
+outFile="../corpora/json/linking/thomas.json"
+
+if __name__ == "__main__":
+    print("Converting Thomas2011 corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 
 #1.) Load annotations

@@ -3,8 +3,18 @@ import glob
 import json
 
 
-inDir="corpora/original/Nala/tagtog_IDP4/"
-outFile="corpora/json/tagtog_IDP4.json"
+inDir="../corpora/original/Nala/tagtog_IDP4/"
+outFile="../corpora/json/tagtog_IDP4.json"
+
+if __name__ == "__main__":
+    print("Converting Nala corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 #1.) Load the html-documents!
 #TODO Implement this

@@ -1,8 +1,17 @@
+import os
 import re
 import json
-inFile="corpora/original/tmVarNorm/tmVar.Normalization.txt"
-outFile="corpora/json/linking/tmvarnorm.json"
+inFile="../corpora/original/tmVarNorm/tmVar.Normalization.txt"
+outFile="../corpora/json/linking/tmvarnorm.json"
 
+if __name__ == "__main__":
+    print("Converting Amia corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 corpusFile = open(inFile, 'r')
 annotations = []

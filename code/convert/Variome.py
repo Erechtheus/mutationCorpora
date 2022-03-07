@@ -2,8 +2,18 @@ import json
 import glob
 import os
 
-inDir = "corpora/original/Variome/variome_annotation_corpus/data/"
-outFile="corpora/json/Variome.json"
+inDir = "../corpora/original/Variome/variome_annotation_corpus/data/"
+outFile="../corpora/json/Variome.json"
+
+if __name__ == "__main__":
+    print("Converting Variome corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 #1.) Load corpus
 corpusDict = {}

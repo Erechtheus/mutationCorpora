@@ -1,23 +1,28 @@
 import json
 import os
-from fetchTool import getSNPFromRsMergeArch
-import glob
+from tools.fetchTool import getSNPFromRsMergeArch
 
 inFile="../corpora/json/amia-train.json"
-inFile="../corpora/json/amia-test.json"
-inFile="../corpora/json/SETH.json"
-inFile="../corpora/json/tmvar-train.json"
-inFile="../corpora/json/tmvar-test.json"
-inFile="../corpora/json/Variome.json"
-inFile="../corpora/json/Variome120.json"
+#inFile="../corpora/json/amia-test.json"
+#inFile="../corpora/json/SETH.json"
+#inFile="../corpora/json/tmvar-train.json"
+#inFile="../corpora/json/tmvar-test.json"
+#inFile="../corpora/json/Variome.json"
+#inFile="../corpora/json/Variome120.json"
 
-inFile="../corpora/json/linking/osiris.json"
-inFile="../corpora/json/linking/thomas.json"
-inFile="../corpora/json/linking/tmvarnorm.json"
-inFile="../corpora/json/linking/mutationCoreference.json"
+#inFile="../corpora/json/linking/osiris.json"
+#inFile="../corpora/json/linking/thomas.json"
+#inFile="../corpora/json/linking/tmvarnorm.json"
+#inFile="../corpora/json/linking/mutationCoreference.json"
 
 if __name__ == "__main__":
-    print("Executing")
+    print("Evaluate JSON completeness")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 """for inFile in glob.iglob("../corpora/json/linking/" + '/*.json', recursive=True):
     print(inFile)

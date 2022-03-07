@@ -1,11 +1,21 @@
+import os
 import xml.etree.ElementTree as ET
 import json
 
-inFile="corpora/original/tmVar/test.BioC.xml"
-outFile="corpora/json/tmvar-test.json"
+inFile="../corpora/original/tmVar/test.BioC.xml"
+outFile="../corpora/json/tmvar-test.json"
 
-inFile="corpora/original/tmVar/train.BioC.xml"
-outFile="corpora/json/tmvar-train.json"
+inFile="../corpora/original/tmVar/train.BioC.xml"
+outFile="../corpora/json/tmvar-train.json"
+
+if __name__ == "__main__":
+    print("Converting tmVar corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 
 jsonDocuments = []

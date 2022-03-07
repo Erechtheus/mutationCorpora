@@ -1,7 +1,10 @@
 from nervaluate import Evaluator
 import json
 import argparse
+import os
 
+# --gold /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/json/amia-test.json --prediction /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/predictions/ner/predictions.json
+# --gold /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/json/amia-test.json --prediction /home/philippe/workspace/PycharmProjects/mutationCorpora/corpora/predictions/ner/predictions_run_25_02_22_12_06.json
 #Parse arguments from command line
 parser = argparse.ArgumentParser(description='Evaluate Named Entity Recognition performance')
 parser.add_argument('--gold', required=True, type=str, nargs='?', help='Destination of gold-file')
@@ -15,8 +18,13 @@ if args.prediction:
 
 
 if __name__ == "__main__":
-    print("Evaluation of named entity recogntion")
+    print("Evaluation of named entity recognition (NER)")
 
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 
 # Code to convert our internal representation for named entities into
@@ -41,8 +49,15 @@ def loadDocumentsToMap(filename):
     #Parse JSON
     tmpMap = {}
     for document in documents["documents"]:
-        docID = document["document"]["ID"]
-        docEntities = document["document"]["entities"]
+
+        #This is the normal structure for gold-annotations
+        if "document" in document:
+            docID = document["document"]["ID"]
+            docEntities = document["document"]["entities"]
+        #This is an alternative structure for predictions
+        else:
+            docID = document["ID"]
+            docEntities = document["predicted_entities"]
 
         if docID in tmpMap:
             print("Multiple entries for '" +docID +"' in '" +filename +"'")
@@ -72,9 +87,12 @@ for docId in goldMap.keys():
 
 
 # Evaluate and print result
-evaluator = Evaluator(trueLabel, predLabel, tags=list(set([item["label"] for sublist in predLabel for item in sublist])))
+tags = list(set([item["label"] for sublist in predLabel for item in sublist]))
+evaluator = Evaluator(trueLabel, predLabel, tags=tags)
 results, results_per_tag = evaluator.evaluate()
 print("Goldstandard = " +goldFile)
 print("Predicted-file= " +predFile)
+print(tags)
 print("------------------")
-print(results)
+#print(results)
+print(json.dumps(results_per_tag, sort_keys=True, indent=4))

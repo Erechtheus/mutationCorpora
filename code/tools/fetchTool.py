@@ -12,7 +12,7 @@ import gzip
 def getPMID(pmids):
     print("Fething" +str(len(pmids)) +"pubmed abstracts")
 
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "thomas.pickle"
 
     documentDict = {}
@@ -41,7 +41,7 @@ def getPMID(pmids):
 # In the end we decided tp use the RsMergeArch-file provided by dbSNP which publishes the whole history of dbSNP-merges
 def getSNPFromRsMergeArch(dbSNPIDs):
 
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     url = "ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/database/organism_data/RsMergeArch.bcp.gz"
     RsMergeArchFile = cacheFolder + "RsMergeArch.bcp.gz"
     cacheFile = cacheFolder + "dbSNP.pickle"
@@ -106,7 +106,7 @@ def divide_chunks(listIn, n):
 
 def getSNPFromXML(dbSNPIDs):
     dbSNPIDs = set(map(int, dbSNPIDs))  # Ensure that the IDs are a set and integers
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
 
     if os.path.isdir(cacheFolder) == False:
@@ -140,7 +140,7 @@ def getSNPFromXML(dbSNPIDs):
 # Result is a dictionary with merged ids
 def getSNPs(dbSNPIDs):
     dbSNPIDs = set(map(int, dbSNPIDs)) #Ensure that the IDs are a set and integers
-    cacheFolder = "cache/"
+    cacheFolder = "../cache/"
     cacheFile = cacheFolder + "dbSNP.pickle"
 
     if os.path.isdir(cacheFolder) == False:

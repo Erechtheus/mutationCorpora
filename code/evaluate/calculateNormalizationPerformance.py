@@ -1,6 +1,8 @@
 import os
 import json
-from fetchTool import getSNPFromRsMergeArch
+import argparse
+import sys
+from tools.fetchTool import getSNPFromRsMergeArch
 
 goldFile="../corpora/json/linking/osiris.json"
 predFile ="../corpora/predictions/linking/osiris-json.json"
@@ -14,8 +16,27 @@ predFile ="../corpora/predictions/linking/tmvarnom-json.json"
 goldFile="../corpora/json/linking/mutationCoreference.json"
 predFile ="../corpora/predictions/linking/mutationCoreference-json.json"
 
+parser = argparse.ArgumentParser(description='Evaluate Named Entity Normalization (NEN) performance')
+parser.add_argument('--gold', required=False, type=str, nargs='?', help='Destination of gold-file')
+parser.add_argument('--prediction', required=False, type=str, nargs='?', help='Destination of predicted file')
+args = parser.parse_args()
+if args.gold:
+    goldFile = args.gold
+
+if args.prediction:
+    predFile = args.prediction
+
+if len(sys.argv)==1:
+    parser.print_help(sys.stderr)
+
 if __name__ == "__main__":
-    print("Executing")
+    print("Evaluate normalization performance")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
 
 with open(goldFile) as f:
     goldDocuments = json.load(f)

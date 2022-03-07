@@ -1,7 +1,18 @@
+import os
 import json
 import xml.etree.ElementTree as ET
-inFile = "corpora/original/Osiris/OSIRIScorpusv01.xml"
-outFile="corpora/json/linking/osiris.json"
+inFile = "../corpora/original/Osiris/OSIRIScorpusv01.xml"
+outFile="../corpora/json/linking/osiris.json"
+
+if __name__ == "__main__":
+    print("Converting Osiris corpus to JSON")
+
+#Try to change the working directory to ../../code/ -> needed if called from subdirectory
+try:
+    os.chdir("../../code/")
+except OSError:
+    pass
+
 
 tree = ET.parse(inFile)
 root = tree.getroot()
@@ -94,3 +105,4 @@ f = open(outFile, "w")
 f.write(json.dumps(corpus, indent=4))
 f.close()
 
+print("Done")

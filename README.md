@@ -1,19 +1,78 @@
-# Organisation
+# Organisation and purpose of this repository
+In this project we collect several mutation corpora and parse them into a common JSON-document format.
+We hope that the common data-representation helps researchers to save time to process the different corpora, as well as avoid parsing errors.
+If you observe any problems, please open an issue or open a merge-request on github.
+We also provide scripts to evaluate named-entity-recognition and named-entity-normalization (dbSNP-IDs).
 
-## Original
+## Licence
+The code of this repository is published unter Apache License Version 2.0.
+
+# Structure of this repository
+
+## Code
+Home of the python code.
+
+### code/convert
+In the folder convert, we save all scripts required to convert mutation-corpora into the uniform JSON-format.
+
+### code/evaluate
+Evaluate provides scripts to evaluate named-entity-recognition and named-entity-normaliazion.
+
+### code/export
+In export, we save all scripts required to convert JSON-documents into either BRAT (for visualization) or IOB (for NER).
+
+
+## corpora
+The folder corpora contains different versions of the same corpora.
+
+### corpora/original
 The folder "original" contains the downloaded and potentially extracted files and is a starting point for all conversion efforts.
 
-## Converted NER-corpora
+### corpora/json
 You can find corpora converted into the JSON format in folder "json". 
 In the following we provide a short overview of corpora.
 
+## corpora/IOB
+In order to train custom NER-taggers we also export the converted JSON as IOB by using spacy as tokenizer.
+The IOB representation can be used to train your own custom tagger, but our evaluation scripts work on offsets instead of IOB.
+
+### corpora/BRAT
+Our BRAT representation exported from the JSON format.
+
+# Visualize data in BRAT
+We also exported the !converted! JSON documents into BRAT. 
+The BRAT exports can be found in folder BRAT. 
+In order to visualize the brat-files you can  follow the docker recipe to set up a container.
+
+### 1.) start brat docker-container:  
+```shell script
+docker run --name=brat -d -p 81:80 -v ~/.brat/data:/bratdata -v ~/.brat/config:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=brat@example.com cassj/brat
+```
+
+### 2.) update brat data with corpus:
+```shell script
+sudo rm -rf ~/.brat/data/corpus
+sudo cp -r corpora/BRAT/ ~/.brat/data/corpus
+sudo chmod -R 755 ~/.brat/data/corpus
+sudo chown -R www-data:www-data ~/.brat/data/corpus
+```
+
+### 3.) Open local browser
+Visit [localhost:81](localhost:81) on your local machine to see corpora in BRAT.
+
+# Corpora and details
+Here we describe the corpora, we integrated into this repository.
+
+## Corpora designed for Named Entity Recognition
+
 ### AMIA18
-Conversion looks fine
+
+#### Description:
 ```
 Corpus short name: amia18 
 Publication: Antonio Jimeno Yepes, Andrew MacKinlay, Natalie Gunn, Christine Schieber, Noel Faux, Matthew Downton, Benjamin Goudey, Richard L. Martin, A hybrid approach for automated mutation annotation of the extended human mutation landscape in scientific literature, American Medical Informatics Association (AMIA) Symposium, 2018
 URL:  https://github.com/ibm-aur-nlp/amia-18-mutation-corpus
-Downloaded: 
+Downloaded: 05 Okt 2020 
 Comments: Sets 00, 01, 02, 03 and 04 were used for training and sets 05, 06 and 07 were used as test sets in our study.
 ```
 
@@ -50,8 +109,9 @@ Comments: Sets 00, 01, 02, 03 and 04 were used for training and sets 05, 06 and 
 
 
 ### SETH
+
+#### Description:
 ```
-SETH-master.zip
 Corpus short name: SETH
 Publication: Thomas, P., Rocktäschel, T., Hakenberg, J., Mayer, L., and Leser, U. (2016). SETH detects and normalizes genetic variants in text. Bioinformatics (2016)
 URL: https://github.com/rockt/SETH
@@ -76,6 +136,8 @@ Comments:
 
 
 ### tmVar
+
+#### Description:
 ```Corpus short name: tmVar 
 Publication: Wei C-H, Harris BR, Kao H-Y, Lu Z (2013) tmVar: A text mining approach for extracting sequence variants in biomedical literature, Bioinformatics, 29(11) 1433-1439, doi:10.1093/bioinformatics/btt156. (link)
 URL: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/tmVar.html
@@ -116,6 +178,8 @@ Also seperate sections for title and abstracts
 
 ### Variome
 
+#### Description:
+
 ```Corpus short name: Variome
 Publication: Verspoor K, Jimeno Yepes A, Cavedon L, McIntosh T, Herten-Crabb A, Thomas Z, Plazzer JP. (2013) Annotating the Biomedical Literature for the Human Variome. Database: The Journal of Biological Databases and Curation, 
 URL: https://bitbucket.org/readbiomed/variome-corpus-data
@@ -146,6 +210,8 @@ For instance, in '1619718-05-Discussion-p01' the text '> 60 years' != '> 60 ye
 
 ### Variome 120
 
+#### Description:
+
 ```Corpus short name: Variome
 Publication: https://pubmed.ncbi.nlm.nih.gov/25285203/
 URL: https://github.com/Rostlab/nala/tree/develop/resources/corpora/variome_120
@@ -170,9 +236,13 @@ Comments: In Nala, the authors used Variome120, which is more specific in terms 
 ```
 
 
-## Converted linking corpora
+## Converted normalization corpora
+Corpora designed for the normalization, where the goal is to assign dbSNP-identifiers to individual mutations.
 
 ### Osiris
+
+#### Description:
+
 ```OSIRIScorpusv01.xml
 Corpus short name: Osiris
 Publication: Furlong LI, Dach H, Hofmann-Apitius M, Sanz F. OSIRISv1.2: a named entity recognition system for sequence variants of genes in biomedical literature. BMC Bioinformatics 2008, 9:84.
@@ -198,7 +268,8 @@ Comments:
 
 
 ### Thomas2011
-Ignored this corpus, as the goal was not to provide a full named-entity annotation but rather associate entities with dbSNP ids
+
+#### Description:
 
 ```normalization-variation-corpus.tar.gz
 Corpus short name: Thomas2011
@@ -225,6 +296,9 @@ Comments: Annotates only mutations with dbSNP identifier; Provides no text corpu
 
 
 ### tmVarNorm
+
+#### Description:
+
 ```Corpus short name: tmVarNorm 
 Publication:tmVar 2.0: integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine
 Chih-Hsuan Wei, Lon Phan, Juliana Feltz, Rama Maiti, Tim Hefferon, and Zhiyong Lu
@@ -250,6 +324,9 @@ Comments:
 
 
 ### mutationCoreference corpus
+
+#### Description:
+
 ```Corpus short name:  
 Publication:
 URL: 
@@ -278,6 +355,8 @@ Comments:
 ### Mutationfinder
 Ignored this corpus, as entities are not provided with offset information.
 
+#### Description:
+
 ```MutationFinder-1.1.tar.gz
 Corpus short name: Mutationfinder
 Publication: J. Gregory Caporaso, William A. Baumgartner Jr., David A. Randolph, K. Bretonnel Cohen, and Lawrence Hunter; "MutationFinder: A high-performance system for extracting point mutation mentions from text" Bioinformatics, 2007 23(14):1862-1865; doi:10.1093/bioinformatics/btm235;
@@ -287,6 +366,10 @@ Comments:
 ```
 
 ### Verspoor
+Ignored, as the full-text is not provided due to licence questions.
+
+#### Description:
+
 ```ProteinResidueFullTextCorpus.tar.gz
 Corpus short name: Verspoor 
 Publication: Verspoor KM, Cohn JD, Ravikumar KE, Wall ME (Under Review) Text Mining Improves Prediction of Protein Functional Sites.
@@ -296,6 +379,9 @@ Comments: Text is not provided due to licence issues
 ```
 
 ### Ravikumar
+Ignored, as the corpus is silver standard
+
+#### Description:
 
 ```
 ProteinResidueRelationsSilverCorpus_A1.tar.gz
@@ -314,6 +400,8 @@ Some corpora could not be correctly parsed are therefore not integrated into the
 ### Nagel
 Failed to correctly parse this corpus. The XML seems to be invalid and the standoff-file entities do (often) not match the string in the text.
 
+#### Description:
+
 ```NagelCorpus.tar.gz
 Corpus short name: Nagel
 Publication: Nagel K (2009) Automatic functional annotation of predicted active sites: combining PDB and literature mining. Cambridge, UK: University of Cambridge.
@@ -328,6 +416,8 @@ Comments:
 Interesting corpus. 
 Parsed the JSON with named entities and relations, but the document format is unclear to me. 
 Help highly appreciated.
+
+#### Description:
 ```Corpus short name: Nala / tagtog_IDP4+
 Publication:  Juan Miguel Cejuela, Aleksandar Bojchevski, Carsten Uhlig, Rustem Bekmukhametov, Sanjeev Kumar Karn, Shpend Mahmuti, Ashish Baghudana, Ankit Dubey, Venkata P Satagopam, Burkhard Rost; nala: text mining natural language mutation mentions, Bioinformatics, Volume 33, Issue 12, 15 June 2017, Pages 1852–1858
 URL: https://www.tagtog.net/-corpora/IDP4+ and https://github.com/Rostlab/nala/tree/develop/resources/corpora
@@ -339,6 +429,8 @@ Comments:
 Some corpora we had problems to download.
 
 ### Bronco
+
+#### Description:
 ```
 Corpus short name: Bronco
 Publication: BRONCO: Biomedical entity Relation ONcology COrpus for extracting gene-variant-disease-drug relations DATABASE, 2016 Apr. 
@@ -349,6 +441,7 @@ Comments: Broken URL
 
 ### Open Mutation Miner (OMM)
 
+#### Description:
 ```
 Corpus short name: OMM
 Publications: Naderi, N., and R. Witte, "Automated extraction and semantic analysis of mutation impacts from the biomedical literature", BMC Genomics, vol. 13, no. Suppl 4, pp. S10, 06/2012.
@@ -360,6 +453,7 @@ Comments: Download via Gate
 ```
 
 ### extractor of mutations (EMU)
+#### Description:
 ```
 EMU: Corpus unavailable?
 Publication: Doughty E, Kertesz-Farkas A, Bodenreider O, Thompson G, Adadey A, Peterson T, Kann MG. Toward an automatic method for extracting cancer- and other disease-related point mutations from the biomedical literature. Bioinformatics. 2011 Feb 1;27(3):408-15. doi: 10.1093/bioinformatics/btq667. Epub 2010 Dec 7. PMID: 21138947; PMCID: PMC3031038.
@@ -367,29 +461,6 @@ URL: http://bioinf.umbc.edu/EMU/ftp
 Comments: Broken URL
 ```
 
-
-## Visualize in BRAT
-We also exported the !converted! JSON documents into BRAT. 
-The BRAT exports can be found in folder BRAT. 
-In order to visualize the brat-files you can  follow the docker recipe to set up a container.
-
-### start brat docker-container:  
-```shell script
-docker run --name=brat -d -p 81:80 -v ~/.brat/data:/bratdata -v ~/.brat/config:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=brat@example.com cassj/brat
-```
-### update brat data with corpus:
-```shell script
-sudo rm -rf ~/.brat/data/corpus
-sudo cp -r corpora/BRAT/ ~/.brat/data/corpus
-sudo chmod -R 755 ~/.brat/data/corpus
-sudo chown -R www-data:www-data ~/.brat/data/corpus
-```
-
-### Open browser
-Visit [localhost:81](localhost:81) on your local machine to see BRAT.
-
-## IOB export
-In order to train custom NER-taggers we also export the !converted! JSON as IOB by using spacy as tokenizer.
 
 ## Normalization performance
 We also used SETH to predict dbSNP identifiers for all four entity-linking corpora and report here the results:
