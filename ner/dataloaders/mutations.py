@@ -60,8 +60,8 @@ def convert_brat_to_document(
     }
 
     doc.metadata.update(m)
-
     # add spans
+    doc.annotations.spans.create_layer(name=span_annotation_name)
     span_id_mapping = {}
     for brat_span in dl_to_ld(brat_doc["spans"]):
         locations = dl_to_ld(brat_span["locations"])
@@ -95,6 +95,7 @@ def convert_brat_to_document(
                 label=label,
                 metadata=metadata,
             )
+
         assert (
             brat_span["id"] not in span_id_mapping
         ), f'brat span id "{brat_span["id"]}" already exists'
@@ -102,6 +103,8 @@ def convert_brat_to_document(
         doc.add_annotation(name=span_annotation_name, annotation=span)
 
     # add relations
+    doc.annotations.binary_relations.create_layer(name=relation_annotation_name)
+
     for brat_relation in dl_to_ld(brat_doc["relations"]):
         # strip annotation type identifier from id
         metadata = {"id": brat_relation["id"][1:]}
@@ -120,6 +123,8 @@ def convert_brat_to_document(
         doc.add_annotation(name=relation_annotation_name, annotation=relation)
 
     # add sentence annotations (spans)
+    doc.annotations.spans.create_layer(name="sentences")
+
     for sent_idx, sentence in enumerate(brat_doc["sentences"]):
         start = brat_doc["sentence_offsets"]["start"][sent_idx]
         end = brat_doc["sentence_offsets"]["end"][sent_idx]
@@ -174,7 +179,6 @@ def load_mutations(
                 # "test": data["test"],
             }
         )
-    print(data)
 
     if train_test_split is not None:
         assert len(data) == 1, (

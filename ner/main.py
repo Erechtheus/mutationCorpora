@@ -11,12 +11,14 @@ if __name__ == "__main__":
     parser.add_argument("config", default=None, help="Path to config file.")
     parser.add_argument("--predict", default=False, action="store_true")
     parser.add_argument("--train", default=True, action="store_true")
+    parser.add_argument("--debug", default=False, action="store_true")
+
 
     args = parser.parse_args()
-
+    print(args)
     if args.train:
         run_name, model_dir, model_type = run_training(
-            args.config, final_eval_on_val=True
+            args.config, final_eval_on_val=True, debug=args.debug
         )
 
     if args.predict:

@@ -46,17 +46,20 @@ def prepare_data(config):
     )
 
     # add empty lists for texts without entities
-    for split, data in dataset_loaded.items():
-        for doc in data:
-            entities = doc.span_annotations("entities")
-            if entities is None:
-                doc._annotations["entities"] = []
+    # for split, data in dataset_loaded.items():
+    #     for doc in data:
+
+    #         entities = doc.annotations.spans["entities"]
+    #         if entities is None:
+    #             doc._annotations["entities"] = []
+    #             # doc.annotations.spans.create_layer(name="entities")
 
     train_docs = dataset_loaded["train"]
     val_docs = dataset_loaded["validation"]
 
     wandb.log({"num_train": len(train_docs)})
     wandb.log({"num_val": len(val_docs)})
+
 
     return train_docs, val_docs
 
@@ -74,9 +77,11 @@ def get_task_module(model_name, config):
     else:
         task_module = TransformerTokenClassificationTaskModule(
             tokenizer_name_or_path=model_name,
+            entity_annotation="entities",
             partition_annotation="sentences",
             truncation=True,
             max_window=config["max_window"],
+            show_statistics=True
         )
 
     return task_module
@@ -91,6 +96,7 @@ def finetune_model(
     val_dataloader,
     model_out_name,
     num_epochs=3,
+    debug=False
 ):
     """..."""
     if SPAN_CLASSIFICATION:
@@ -129,7 +135,7 @@ def finetune_model(
     )
 
     trainer = pl.Trainer(
-        fast_dev_run=False,
+        fast_dev_run=debug,
         max_epochs=config.get("num_epochs", num_epochs),
         gpus=GPU,
         enable_checkpointing=True,
@@ -146,13 +152,11 @@ def finetune_model(
 def calculate_results(golds, preds, labels):
     """..."""
     evaluator = Evaluator(true=golds, pred=preds, tags=labels)
-
     # Returns overall metrics and metrics for each tag
     results, results_per_label = evaluator.evaluate()
 
     wandb.log(results)
     wandb.log(results_per_label)
-
 
 def eval_on_dev_set(data, task_module, model_output_dir, run_name):
     """Evaluate the best model on the development set."""
@@ -177,8 +181,6 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         gold = []
 
         if i == 0:
-            print(doc)
-
             out_docs["referenceURL"] = doc.metadata["ref_url"]
             out_docs["version"] = doc.metadata["version"]
             out_docs["bibtex"] = doc.metadata["bibtex"]
@@ -187,10 +189,14 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
 
         ner_pipeline(doc, predict_field="entities")
 
-        predictions = doc.predictions("entities")
+        try:
+            predictions = doc.predictions.spans["entities"]
+        except KeyError:
+            predictions = None
 
         # get the gold annotations and collect them in evaluation format
-        gold_spans = doc.annotations("entities")
+        # gold_spans = doc.annotations("entities")
+        gold_spans = doc.annotations.spans["entities"]
 
 
         for span in gold_spans:
@@ -250,7 +256,7 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         golds=golds, preds=preds, labels=list(set(labels)))
 
 
-def run_training(config, final_eval_on_val=False):
+def run_training(config, final_eval_on_val=False, debug=False):
     pl.seed_everything(42)
 
     wandb.log({"config_file": config})
@@ -309,6 +315,7 @@ def run_training(config, final_eval_on_val=False):
         val_dataloader,
         model_out_name=model_out_name,
         num_epochs=num_epochs,
+        debug=debug
     )
 
     wandb.log({"run_name": run_name, "model_dir": model_dir})
@@ -320,7 +327,7 @@ def run_training(config, final_eval_on_val=False):
             task_module=task_module,
             model_output_dir=model_dir,
             # run_name=run_name
-            run_name="run_07_03_22_11_38",
+            run_name="run_09_03_22_17_04",
         )
     return run_name, model_dir, model_type
 
