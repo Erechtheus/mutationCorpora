@@ -22,18 +22,50 @@ for path in Path(inFolder).rglob('*.json'):
         corpus = json.load(f)
     f.close()
 
+    #### A.) Geerate <BRAT config file>
+    annotationFile = open(outFOlder + folderName + "/" + "annotation.conf", "w")
+    #1.) entities
+    annotationFile.write("[entities]\n")
+    tmpEntities = list(map(lambda x: x["document"]["entities"], corpus["documents"]))
+    for a in sorted(set([item["type"] for sublist in tmpEntities for item in sublist])):
+        annotationFile.write(a)
+        annotationFile.write("\n")
+
+    #2.) relations
+    annotationFile.write("\n[relations]\n")
+    relationArgs = set()
+    for document in corpus["documents"]:
+        entities = document["document"]["entities"]
+        relations = document["document"]["relations"]
+        for relation in relations:
+            arg1 = list(filter(lambda x: x["ID"] == relation["arg1"], entities))
+            arg2 = list(filter(lambda x: x["ID"] == relation["arg2"], entities))
+
+            representaiton = (relation["type"]) + "\tArg1:" + (arg1[0]["type"]) + ", Arg2:" + (arg2[0]["type"])
+            relationArgs.add(representaiton)
+
+    for tmp in relationArgs:
+        annotationFile.write(str(tmp))
+        annotationFile.write("\n")
+
+    annotationFile.write("[events]\n")
+    annotationFile.write("[attributes]\n")
+    annotationFile.close()
+    #### </BRAT config file>
+
+
     for document in corpus["documents"]:
         id = document["document"]["ID"]
         text = document["document"]["text"]
         entities = document["document"]["entities"]
         relations = document["document"]["relations"]
 
-        #1.) Text file
+        #1.) Generate text file (with the document information)
         f = open(outFOlder +folderName  +"/" +id +".txt", "w")
         f.write(text)
         f.close()
 
-        #2.) Annotation file
+        #2.) Generate annotation file (with annotation information)
         f = open(outFOlder + folderName + "/" + id + ".ann", "w")
 
         myCounter = 1
