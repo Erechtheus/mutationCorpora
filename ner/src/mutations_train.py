@@ -18,7 +18,9 @@ from datetime import datetime
 import wandb
 import torch
 
-from my_datasets.mutations import load_mutations
+from dataloaders.mutations import load_mutations
+
+from nervaluate import Evaluator
 
 
 wandb.init(project="mutation_ner")
@@ -38,10 +40,7 @@ def prepare_data(config):
     dataset_loaded = load_mutations(
         url=config["data_url"],
         data_mapping={
-            "train": config["train"],
-            # "test": config["test"],
-        },
-        # conversion_kwargs=dict(head_argument_name="head", tail_argument_name="tail"),
+            "train": config["train"]        },
         download_mode=GenerateMode.FORCE_REDOWNLOAD,
         train_test_split=None,
     )
@@ -55,11 +54,9 @@ def prepare_data(config):
 
     train_docs = dataset_loaded["train"]
     val_docs = dataset_loaded["validation"]
-    # test_docs = dataset_loaded["test"]
 
-    print("train docs: ", len(train_docs))
-    print("val docs: ", len(val_docs))
-    # print("test docs: ", len(test_docs))
+    wandb.log({"num_train": len(train_docs)})
+    wandb.log({"num_val": len(val_docs)})
 
     return train_docs, val_docs
 
@@ -77,9 +74,6 @@ def get_task_module(model_name, config):
     else:
         task_module = TransformerTokenClassificationTaskModule(
             tokenizer_name_or_path=model_name,
-            # max_length=512,
-            # label_to_id=LABEL2ID,
-            # padding="max_length",
             partition_annotation="sentences",
             truncation=True,
             max_window=config["max_window"],
@@ -103,7 +97,6 @@ def finetune_model(
 
         model = TransformerSpanClassificationModel(
             model_name_or_path=model_name,
-            # num_classes=len(task_module.label_to_id),
             t_total=len(train_dataloader) * num_epochs,
             learning_rate=config["learning_rate"],
         )
@@ -111,7 +104,6 @@ def finetune_model(
         model = TransformerTokenClassificationModel(
             model_name_or_path=model_name,
             num_classes=len(task_module.label_to_id),
-            # t_total=len(train_dataloader) * num_epochs,
             learning_rate=config["learning_rate"],
         )
 
@@ -149,11 +141,116 @@ def finetune_model(
     trainer.fit(model, train_dataloader, val_dataloader)
 
     task_module.save_pretrained(model_output_path)
-    # model.save_pretrained(model_output_path)
-    # trainer.save_checkpoint(model_output_path + "model.ckpt")
 
 
-def run_training(config):
+def calculate_results(golds, preds, labels):
+    """..."""
+    evaluator = Evaluator(true=golds, pred=preds, tags=labels)
+
+    # Returns overall metrics and metrics for each tag
+    results, results_per_label = evaluator.evaluate()
+
+    wandb.log(results)
+    wandb.log(results_per_label)
+
+
+def eval_on_dev_set(data, task_module, model_output_dir, run_name):
+    """Evaluate the best model on the development set."""
+    model_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
+
+    if SPAN_CLASSIFICATION:
+
+        ner_model = TransformerSpanClassificationModel.from_pretrained(model_path)
+    else:
+
+        ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
+
+    ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=-1)
+
+    print("\nPredicting ...")
+    golds = []
+    preds = []
+    out_docs = {"documents": []}
+
+    for i, doc in enumerate(data):
+        pred = []
+        gold = []
+
+        if i == 0:
+            print(doc)
+
+            out_docs["referenceURL"] = doc.metadata["ref_url"]
+            out_docs["version"] = doc.metadata["version"]
+            out_docs["bibtex"] = doc.metadata["bibtex"]
+
+        out_doc = {"text": doc.text, "ID": doc.id, "predicted_entities": []}
+
+        ner_pipeline(doc, predict_field="entities")
+
+        predictions = doc.predictions("entities")
+
+        # get the gold annotations and collect them in evaluation format
+        gold_spans = doc.annotations("entities")
+
+
+        for span in gold_spans:
+            gold.append(
+                {
+                    "start": span.start,
+                    "end": span.end,
+                    "label": span.label,
+                }
+            )
+
+        # do the same for the predictions: 1) for evaluation, 2) for output
+        # format
+        if predictions is not None:
+            for entity in predictions:
+                start = entity.start
+                end = entity.end
+                entity_text = doc.text[start:end]
+                label = entity.label
+
+                out_doc["predicted_entities"].append(
+                    {
+                        "begin": start,
+                        "end": end,
+                        "text": entity_text,
+                        "type": label,
+                    }
+                )
+
+                pred.append(
+                    {
+                        "start": start,
+                        "end": end,
+                        "label": label,
+                    }
+                )
+
+        out_docs["documents"].append(out_doc)
+        preds.append(pred)
+        golds.append(gold)
+    # write predictions to file
+    # print(json.dumps(out_docs, indent=2))
+
+    # remove the BIO tags from the labels
+    bio_labels = list(task_module.label_to_id.keys())
+    labels = []
+    for l in bio_labels:
+        if l == "O":
+            continue
+        else:
+            if l.startswith("B-"):
+                labels.append(l.replace("B-", ""))
+            elif l.startswith("I-"):
+                labels.append(l.replace("I-", ""))
+
+    calculate_results(
+        golds=golds, preds=preds, labels=list(set(labels)))
+
+
+def run_training(config, final_eval_on_val=False):
     pl.seed_everything(42)
 
     wandb.log({"config_file": config})
@@ -161,12 +258,13 @@ def run_training(config):
     with open(config, "r") as read_handle:
         config = json.load(read_handle)
 
-    # wandb.config.update(config)
     # set config defaults
     wandb.config.setdefaults(config)
 
+    print(f"\nConfig: {wandb.config}")
+
     t = datetime.now().strftime("%d_%m_%y_%H_%M")
-    model_dir = "./model_output/"
+    model_dir = "model_output/"
     run_name = f"run_{t}/"
     model_output_path = os.path.join(model_dir, run_name)
     model_out_name = "ner-finetuned"
@@ -215,40 +313,16 @@ def run_training(config):
 
     wandb.log({"run_name": run_name, "model_dir": model_dir})
 
+    if final_eval_on_val:
+        # take dev data before encoding
+        eval_on_dev_set(
+            data=val_docs,
+            task_module=task_module,
+            model_output_dir=model_dir,
+            # run_name=run_name
+            run_name="run_07_03_22_11_38",
+        )
     return run_name, model_dir, model_type
-
-    ################### PREDICTION ###############
-    # print("\nPredicting:")
-
-    # if SPAN_CLASSIFICATION:
-    #     ner_taskmodule = TransformerSpanClassificationTaskModule.from_pretrained(
-    #         pretrained_model_name_or_path=model_output_path
-    #     )
-
-    #     ner_model = TransformerSpanClassificationModel.from_pretrained(
-    #         pretrained_model_name_or_path=model_output_path,
-    #     )
-    # else:
-    #     ner_taskmodule = TransformerTokenClassificationTaskModule.from_pretrained(
-    #         checkpoint_callback.best_model_path
-    #     )
-    #     ner_model = TransformerTokenClassificationModel.from_pretrained(
-    #         checkpoint_callback.best_model_path
-    #     )
-
-    # ner_pipeline = Pipeline(model=ner_model, taskmodule=ner_taskmodule, device=-1)
-
-    # for doc in test_docs:
-    #     ner_pipeline(doc, predict_field="entities")
-    #     predictions = doc.predictions("entities")
-    #     if predictions is None:
-    #         continue
-
-    #     print(f"\nText: {doc.text}")
-    #     for entity in predictions:
-    #         entity_text = doc.text[entity.start : entity.end]
-    #         label = entity.label
-    #         print(f"{entity_text} -> {label}")
 
 
 if __name__ == "__main__":

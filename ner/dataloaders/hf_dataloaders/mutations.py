@@ -77,12 +77,17 @@ class Mutations(datasets.GeneratorBasedBuilder):
                             ),
                         }
                     ),
-                    "equivalence_relations": Sequence(
-                        {
-                            "type": Value("string"),
-                            "targets": Sequence(Value("string")),
-                        }
-                    ),
+                    "equivalences": Sequence(Value("string")),
+                    "metadata": Sequence(Value("string")),
+                    "ref_url": Value("string"),
+                    "bibtex": Value("string"),
+                    "version": Value("string"),
+                    # "equivalence_relations": Sequence(
+                    #     {
+                    #         "type": Value("string"),
+                    #         "targets": Sequence(Value("string")),
+                    #     }
+                    # ),
                     "events": Sequence(
                         {
                             "id": Value("string"),
@@ -186,6 +191,16 @@ class Mutations(datasets.GeneratorBasedBuilder):
             )
 
         return span_annos
+
+    @staticmethod
+    def _get_equivalence_annotation(equivalences):
+        """..."""
+        return equivalences
+
+    @staticmethod
+    def _get_metadata_annotation(metadata):
+        """..."""
+        return metadata
 
     @staticmethod
     def _get_event_annotation(annotation_line):
@@ -305,10 +320,11 @@ class Mutations(datasets.GeneratorBasedBuilder):
             "spans": [],
             "events": [],
             "relations": [],
-            "equivalence_relations": [],
+            "equivalences": [],
             "attributions": [],
             "normalizations": [],
             "notes": [],
+            "metadata": [],
         }
 
         # with open(filename) as file:
@@ -329,6 +345,11 @@ class Mutations(datasets.GeneratorBasedBuilder):
         res["relations"] = Mutations._get_relation_annotation(document["relations"])
         # elif ann_type == "*":
         # res["relations"].append(Mutations._get_equivalence_relation_annotation(line))
+        res["equivalences"] = Mutations._get_equivalence_annotation(
+            document["equivalences"]
+        )
+        res["metadata"] = Mutations._get_metadata_annotation(document["metadata"])
+
         # elif ann_type in ["A", "M"]:
         #     res["attributions"].append(Mutations._get_attribute_annotation(line))
         # elif ann_type == "N":
@@ -368,6 +389,10 @@ class Mutations(datasets.GeneratorBasedBuilder):
         with open(filepath, encoding="utf-8") as read_handle:
             data = json.load(read_handle)
 
+        ref_url = data["referenceURL"]
+        version = data["version"]
+        bibtex = data["bibtex"]
+
         for example in data["documents"]:
 
             # print(f"\nDOC ID: {id_}")
@@ -387,6 +412,10 @@ class Mutations(datasets.GeneratorBasedBuilder):
             brat_annotations["file_name"] = filepath
             brat_annotations["sentences"] = sentences
             brat_annotations["sentence_offsets"] = sentence_offsets
+
+            brat_annotations["ref_url"] = ref_url
+            brat_annotations["version"] = version
+            brat_annotations["bibtex"] = bibtex
 
             yield id_, brat_annotations
 

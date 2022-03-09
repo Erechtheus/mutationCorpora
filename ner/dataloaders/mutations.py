@@ -51,8 +51,15 @@ def convert_brat_to_document(
     convert_multi_spans: bool = True,
 ) -> Document:
 
-    # doc = Document(text=brat_doc["context"], doc_id=brat_doc["file_name"])
     doc = Document(text=brat_doc["context"], doc_id=brat_doc["ID"])
+
+    m = {
+        "ref_url": brat_doc["ref_url"],
+        "version": brat_doc["version"],
+        "bibtex": brat_doc["bibtex"],
+    }
+
+    doc.metadata.update(m)
 
     # add spans
     span_id_mapping = {}
@@ -143,7 +150,7 @@ def load_mutations(
 ) -> Dict[str, List[Document]]:
     # This will create a DatasetDict with a single split "train"
     # path = str(HF_DATASETS_ROOT / "mutations.py")
-    path = "my_datasets/my_hf_datasets/mutations.py"
+    path = "dataloaders/hf_dataloaders/mutations.py"
     data: DatasetDict = load_dataset(path=path, **kwargs)  # type: ignore
 
     assert isinstance(data, DatasetDict), (
