@@ -39,8 +39,7 @@ def prepare_data(config):
     """..."""
     dataset_loaded = load_mutations(
         url=config["data_url"],
-        data_mapping={
-            "train": config["train"]        },
+        data_mapping={"train": config["train"]},
         download_mode=GenerateMode.FORCE_REDOWNLOAD,
         train_test_split=None,
     )
@@ -59,7 +58,6 @@ def prepare_data(config):
 
     wandb.log({"num_train": len(train_docs)})
     wandb.log({"num_val": len(val_docs)})
-
 
     return train_docs, val_docs
 
@@ -81,7 +79,7 @@ def get_task_module(model_name, config):
             partition_annotation="sentences",
             truncation=True,
             max_window=config["max_window"],
-            show_statistics=True
+            show_statistics=True,
         )
 
     return task_module
@@ -96,7 +94,7 @@ def finetune_model(
     val_dataloader,
     model_out_name,
     num_epochs=3,
-    debug=False
+    debug=False,
 ):
     """..."""
     if SPAN_CLASSIFICATION:
@@ -158,6 +156,7 @@ def calculate_results(golds, preds, labels):
     wandb.log(results)
     wandb.log(results_per_label)
 
+
 def eval_on_dev_set(data, task_module, model_output_dir, run_name):
     """Evaluate the best model on the development set."""
     model_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
@@ -197,7 +196,6 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         # get the gold annotations and collect them in evaluation format
         # gold_spans = doc.annotations("entities")
         gold_spans = doc.annotations.spans["entities"]
-
 
         for span in gold_spans:
             gold.append(
@@ -252,8 +250,7 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
             elif l.startswith("I-"):
                 labels.append(l.replace("I-", ""))
 
-    calculate_results(
-        golds=golds, preds=preds, labels=list(set(labels)))
+    calculate_results(golds=golds, preds=preds, labels=list(set(labels)))
 
 
 def run_training(config, final_eval_on_val=False, debug=False):
@@ -315,7 +312,7 @@ def run_training(config, final_eval_on_val=False, debug=False):
         val_dataloader,
         model_out_name=model_out_name,
         num_epochs=num_epochs,
-        debug=debug
+        debug=debug,
     )
 
     wandb.log({"run_name": run_name, "model_dir": model_dir})

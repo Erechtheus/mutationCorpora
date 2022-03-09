@@ -13,7 +13,6 @@ if __name__ == "__main__":
     parser.add_argument("--train", default=True, action="store_true")
     parser.add_argument("--debug", default=False, action="store_true")
 
-
     args = parser.parse_args()
     print(args)
     if args.train:
