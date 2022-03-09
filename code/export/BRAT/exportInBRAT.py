@@ -22,12 +22,12 @@ for path in Path(inFolder).rglob('*.json'):
         corpus = json.load(f)
     f.close()
 
-    # config file
+    #### A.) Geerate <BRAT config file>
     annotationFile = open(outFOlder + folderName + "/" + "annotation.conf", "w")
     #1.) entities
     annotationFile.write("[entities]\n")
-    bla = list(map(lambda x: x["document"]["entities"], corpus["documents"]))
-    for a in set([item["type"] for sublist in bla for item in sublist]):
+    tmpEntities = list(map(lambda x: x["document"]["entities"], corpus["documents"]))
+    for a in sorted(set([item["type"] for sublist in tmpEntities for item in sublist])):
         annotationFile.write(a)
         annotationFile.write("\n")
 
@@ -51,6 +51,7 @@ for path in Path(inFolder).rglob('*.json'):
     annotationFile.write("[events]\n")
     annotationFile.write("[attributes]\n")
     annotationFile.close()
+    #### </BRAT config file>
 
 
     for document in corpus["documents"]:
@@ -59,12 +60,12 @@ for path in Path(inFolder).rglob('*.json'):
         entities = document["document"]["entities"]
         relations = document["document"]["relations"]
 
-        #1.) Text file
+        #1.) Generate text file (with the document information)
         f = open(outFOlder +folderName  +"/" +id +".txt", "w")
         f.write(text)
         f.close()
 
-        #2.) Annotation file
+        #2.) Generate annotation file (with annotation information)
         f = open(outFOlder + folderName + "/" + id + ".ann", "w")
 
         myCounter = 1
