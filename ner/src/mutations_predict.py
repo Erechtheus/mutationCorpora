@@ -2,7 +2,7 @@ import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 from torch.utils.data import DataLoader
 import os
-from my_datasets.mutations import load_mutations
+from dataloaders.mutations import load_mutations
 from datasets import GenerateMode, set_caching_enabled
 from pytorch_ie import Document, Pipeline
 from pytorch_lightning.callbacks.early_stopping import EarlyStopping
@@ -35,9 +35,13 @@ def run_prediction(config, run_name, model_output_dir, model_type):
 
     model_output_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
     # taskmodule_config_file = f"./{model_output_dir}/{run_name}/taskmodule_config.json"
-    taskmodule_config_file = os.path.join(model_output_dir, run_name, "taskmodule_config.json")
+    taskmodule_config_file = os.path.join(
+        model_output_dir, run_name, "taskmodule_config.json"
+    )
     # predictions_output = f"./{model_output_dir}/{run_name}/predictions_{run_name}.json"
-    predictions_output = os.path.join(model_output_dir, run_name, f"predictions_{run_name[:-1]}.json")
+    predictions_output = os.path.join(
+        model_output_dir, run_name, f"predictions_{run_name[:-1]}.json"
+    )
 
     with open(taskmodule_config_file) as read_handle:
         taskmodule_config = json.load(read_handle)
@@ -76,9 +80,6 @@ def run_prediction(config, run_name, model_output_dir, model_type):
     else:
         ner_taskmodule = TransformerTokenClassificationTaskModule(
             tokenizer_name_or_path=model_type,
-            # max_length=512,
-            # label_to_id=LABEL2ID,
-            # padding="max_length",
             partition_annotation="sentences",
             label_to_id=taskmodule_config["label_to_id"],
             truncation=True,
@@ -89,7 +90,7 @@ def run_prediction(config, run_name, model_output_dir, model_type):
             model_output_path
         )
 
-    test_dataset = ner_taskmodule.encode(test_docs, encode_target=True)
+    # test_dataset = ner_taskmodule.encode(test_docs, encode_target=True)
 
     ner_pipeline = Pipeline(model=ner_model, taskmodule=ner_taskmodule, device=-1)
 
@@ -135,12 +136,12 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    run_name = "run_25_02_22_12_06"
+    run_name = "run_07_03_22_11_38"
     model_type = "bert-base-cased"
 
     run_prediction(
         config=args.config,
         run_name=run_name,
-        model_output_path=model_output_path,
+        model_output_dir=model_output_dir,
         model_type=model_type,
     )
