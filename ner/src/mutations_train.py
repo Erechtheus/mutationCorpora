@@ -26,7 +26,7 @@ from nervaluate import Evaluator
 wandb.init(project="mutation_ner")
 wandb_logger = WandbLogger(project="mutation_ner")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+print(f"device: {device}")
 if device == "cuda":
     GPU = 1
 else:
@@ -43,15 +43,6 @@ def prepare_data(config):
         download_mode=GenerateMode.FORCE_REDOWNLOAD,
         train_test_split=None,
     )
-
-    # add empty lists for texts without entities
-    # for split, data in dataset_loaded.items():
-    #     for doc in data:
-
-    #         entities = doc.annotations.spans["entities"]
-    #         if entities is None:
-    #             doc._annotations["entities"] = []
-    #             # doc.annotations.spans.create_layer(name="entities")
 
     train_docs = dataset_loaded["train"]
     val_docs = dataset_loaded["validation"]
