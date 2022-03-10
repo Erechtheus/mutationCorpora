@@ -1,15 +1,14 @@
 {
   "batch_size": 8,
   "data_format": "json",
-
   "data_url": "/home/lraithel/mutationCorpora/corpora/json",
   "epochs": 100,
+  "learning_rate": 0.0002,
   "max_window": 100,
   "model": "bert-base-cased",
   "patience": 4,
   "seed": 42,
   "test": "amia-test.json",
   "test_size": 0.1,
-  "train": "amia-train.json",
-  "learning_rate": 0.0002
+  "train": "amia-train.json"
 }

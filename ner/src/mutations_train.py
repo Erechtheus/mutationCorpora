@@ -17,7 +17,8 @@ import json
 from datetime import datetime
 import wandb
 import torch
-
+from tqdm import tqdm
+import pandas as pd
 from dataloaders.mutations import load_mutations
 
 from nervaluate import Evaluator
@@ -144,8 +145,28 @@ def calculate_results(golds, preds, labels):
     # Returns overall metrics and metrics for each tag
     results, results_per_label = evaluator.evaluate()
     print(f"results per label: {results_per_label}")
-    wandb.log(results)
-    wandb.log(results_per_label)
+    print(f"\n\nresults overall: {results}")
+
+    # wandb.log({"overall": results})
+    # wandb.log({"per_label": results_per_label})
+
+    overall_df = pd.DataFrame(results).reindex(["correct", "incorrect", "partial", "missed", "spurious", "actual", "precision", "recall"]).reset_index()
+    wandb.log({"overall_precision_exact": results["exact"]["precision"]})
+    wandb.log({"overall_recall_exact": results["exact"]["recall"]})
+
+    wandb.log({"overall": wandb.Table(dataframe=overall_df)})
+
+    for label, res in results_per_label.items():
+        print(label)
+        wandb.log({f"{label}_precision_exact": res["exact"]["precision"]})
+        wandb.log({f"{label}_recall_exact": res["exact"]["recall"]})
+        wandb.log({f"{label}_f1_exact": res["exact"]["f1"]})
+
+        df = pd.DataFrame(res)
+        df = df.reindex(["correct", "incorrect", "partial", "missed", "spurious", "actual", "precision", "recall", "f1"]).reset_index()
+
+        wandb.log({label: wandb.Table(dataframe=df)})
+
 
 
 def eval_on_dev_set(data, task_module, model_output_dir, run_name):
@@ -156,7 +177,8 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
 
         ner_model = TransformerSpanClassificationModel.from_pretrained(model_path)
     else:
-
+        # this is only to avoid confusion with the transformers warning
+        print(f"Loading model ...")
         ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
 
     ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=-1)
@@ -166,7 +188,7 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
     preds = []
     out_docs = {"documents": []}
 
-    for i, doc in enumerate(data):
+    for i, doc in tqdm(enumerate(data)):
         pred = []
         gold = []
 
