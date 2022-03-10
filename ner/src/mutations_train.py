@@ -122,11 +122,11 @@ def finetune_model(
         mode="max",
         strict=True,
     )
-
+    print(f"GPU: {GPU}")
     trainer = pl.Trainer(
         fast_dev_run=debug,
         max_epochs=config.get("num_epochs", num_epochs),
-        gpus=GPU,
+        gpus=1,
         enable_checkpointing=True,
         callbacks=[early_stop_callback, checkpoint_callback],
         precision=32,
@@ -143,7 +143,7 @@ def calculate_results(golds, preds, labels):
     evaluator = Evaluator(true=golds, pred=preds, tags=labels)
     # Returns overall metrics and metrics for each tag
     results, results_per_label = evaluator.evaluate()
-
+    print(f"results per label: {results_per_label}")
     wandb.log(results)
     wandb.log(results_per_label)
 

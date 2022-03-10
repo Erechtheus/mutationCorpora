@@ -1,7 +1,8 @@
 {
   "batch_size": 8,
   "data_format": "json",
-  "data_url": "/home/lisa/projects/mutationCorpora/corpora/json/",
+
+  "data_url": "/home/lraithel/mutationCorpora/corpora/json",
   "epochs": 100,
   "max_window": 100,
   "model": "bert-base-cased",
