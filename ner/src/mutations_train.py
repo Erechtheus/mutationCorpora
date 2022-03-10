@@ -26,12 +26,7 @@ from nervaluate import Evaluator
 
 wandb.init(project="mutation_ner")
 wandb_logger = WandbLogger(project="mutation_ner")
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"device: {device}")
-if device == "cuda":
-    GPU = 1
-else:
-    GPU = 0
+
 
 SPAN_CLASSIFICATION = False
 
@@ -188,7 +183,9 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         print(f"Loading model ...")
         ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
 
-    ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=-1)
+    device = torch.device(0 if torch.cuda.is_available() else -1)
+
+    ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=device)
 
     print("\nPredicting ...")
     golds = []
