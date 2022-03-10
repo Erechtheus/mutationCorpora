@@ -323,8 +323,8 @@ def run_training(config, final_eval_on_val=False, debug=False):
             data=val_docs,
             task_module=task_module,
             model_output_dir=model_dir,
-            # run_name=run_name
-            run_name="run_09_03_22_17_04",
+            run_name=run_name
+            #run_name="run_09_03_22_17_04",
         )
     return run_name, model_dir, model_type
 
