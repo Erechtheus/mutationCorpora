@@ -1,9 +1,9 @@
 {
   "data_format": "json",
-  "data_url": "/home/lisa/projects/mutationCorpora/corpora/json/",
+  "data_url": "/home/lraithel/mutationCorpora/corpora/json/",
   "model": "bert-base-cased",
-  "test": "seth-test.json",
-  "train": "seth-train.json",
+  "test": "tmvar-test.json",
+  "train": "tmvar-train.json",
   "use_wandb": true,
   "test_size": 0.1,
   "seed": 42,

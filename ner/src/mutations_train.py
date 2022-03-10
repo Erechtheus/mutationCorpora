@@ -147,12 +147,16 @@ def calculate_results(golds, preds, labels):
     print(f"results per label: {results_per_label}")
     print(f"\n\nresults overall: {results}")
 
-    # wandb.log({"overall": results})
-    # wandb.log({"per_label": results_per_label})
+    # calculate f1 score for exact match manually
+    ov_prec = results["exact"]["precision"]
+    ov_rec = results["exact"]["recall"]
+    overall_f1 = 2 * (ov_prec * ov_rec) / (ov_prec + ov_rec)
+    results["exact"]["f1"] = overall_f1
 
-    overall_df = pd.DataFrame(results).reindex(["correct", "incorrect", "partial", "missed", "spurious", "actual", "precision", "recall"]).reset_index()
-    wandb.log({"overall_precision_exact": results["exact"]["precision"]})
-    wandb.log({"overall_recall_exact": results["exact"]["recall"]})
+    overall_df = pd.DataFrame(results).reindex(["correct", "incorrect", "partial", "missed", "spurious", "actual", "precision", "recall", "f1"]).reset_index()
+    wandb.log({"overall_precision_exact": ov_prec})
+    wandb.log({"overall_recall_exact": ov_rec})
+    wandb.log({"overall_f1_exact": results["exact"]["f1"]})
 
     wandb.log({"overall": wandb.Table(dataframe=overall_df)})
 
