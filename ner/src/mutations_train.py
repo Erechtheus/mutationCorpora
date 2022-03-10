@@ -150,7 +150,10 @@ def calculate_results(golds, preds, labels):
     # calculate f1 score for exact match manually
     ov_prec = results["exact"]["precision"]
     ov_rec = results["exact"]["recall"]
-    overall_f1 = 2 * (ov_prec * ov_rec) / (ov_prec + ov_rec)
+    try:
+        overall_f1 = 2 * (ov_prec * ov_rec) / (ov_prec + ov_rec)
+    except ZeroDivisionError:
+        overall_f1 = 0.0
     results["exact"]["f1"] = overall_f1
 
     overall_df = pd.DataFrame(results).reindex(["correct", "incorrect", "partial", "missed", "spurious", "actual", "precision", "recall", "f1"]).reset_index()
