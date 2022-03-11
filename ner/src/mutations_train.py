@@ -183,7 +183,7 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         print(f"Loading model ...")
         ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
 
-    if torch..cuda.is_available():
+    if torch.cuda.is_available():
         device_id = 0
     else:
         device_id = -1
