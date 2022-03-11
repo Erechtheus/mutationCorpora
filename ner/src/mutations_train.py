@@ -157,6 +157,8 @@ def calculate_results(golds, preds, labels):
     wandb.log({"overall_recall_exact": ov_rec})
     wandb.log({"overall_f1_exact": results["exact"]["f1"]})
 
+    print(f"Overall precision: {ov_prec}, recall: {ov_rec}, F1: {overall_f1}\n")
+
     wandb.log({"overall": wandb.Table(dataframe=overall_df)})
 
     for label, res in results_per_label.items():
@@ -170,20 +172,8 @@ def calculate_results(golds, preds, labels):
 
         wandb.log({label: wandb.Table(dataframe=df)})
 
-
-
-def eval_on_dev_set(data, task_module, model_output_dir, run_name):
-    """Evaluate the best model on the development set."""
-    model_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
-
-    if SPAN_CLASSIFICATION:
-
-        ner_model = TransformerSpanClassificationModel.from_pretrained(model_path)
-    else:
-        # this is only to avoid confusion with the transformers warning
-        print(f"Loading model ...")
-        ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
-
+def collect_predictions(ner_model, task_module, data):
+    """..."""
     if torch..cuda.is_available():
         device_id = 0
     else:
@@ -256,6 +246,28 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         out_docs["documents"].append(out_doc)
         preds.append(pred)
         golds.append(gold)
+
+    return golds, preds
+
+
+def eval_on_dev_set(data, task_module, model_output_dir, run_name):
+    """Evaluate the best model on the development set."""
+    model_path = os.path.join(model_output_dir, run_name, "ner-finetuned.ckpt")
+
+    if SPAN_CLASSIFICATION:
+
+        ner_model = TransformerSpanClassificationModel.from_pretrained(model_path)
+    else:
+        # this is only to avoid confusion with the transformers warning
+        print(f"Loading model from checkpoint {model_path}")
+        ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
+
+        ner_model_2 = TransformerTokenClassificationModel.from_pretrained(model_path)
+
+    golds, preds = collect_predictions(ner_model=ner_model, task_module=task_module, data=data)
+    golds_2, preds_2 = collect_predictions(ner_model=ner_model_2, task_module=task_module, data=data)
+
+
     # write predictions to file
     # print(json.dumps(out_docs, indent=2))
 
@@ -271,7 +283,12 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
             elif l.startswith("I-"):
                 labels.append(l.replace("I-", ""))
 
+    print("\nFrom checkpoint results: \n")
     calculate_results(golds=golds, preds=preds, labels=list(set(labels)))
+
+    print("\n\nFrom pretrained results: \n")
+    calculate_results(golds=golds_2, preds=preds_2, labels=list(set(labels)))
+
 
 
 def run_training(config, final_eval_on_val=False, debug=False):
