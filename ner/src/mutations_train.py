@@ -183,9 +183,12 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         print(f"Loading model ...")
         ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
 
-    device = torch.device(0 if torch.cuda.is_available() else -1)
+    if torch..cuda.is_available():
+        device_id = 0
+    else:
+        device_id = -1
 
-    ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=device)
+    ner_pipeline = Pipeline(model=ner_model, taskmodule=task_module, device=device_id)
 
     print("\nPredicting ...")
     golds = []
