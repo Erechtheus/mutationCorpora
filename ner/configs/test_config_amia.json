@@ -5,7 +5,7 @@
   "epochs": 100,
   "learning_rate": 0.0002,
   "max_window": 100,
-  "model": "bert-base-cased",
+  "model_type": "bert-base-cased",
   "patience": 4,
   "seed": 42,
   "test": "amia-test.json",

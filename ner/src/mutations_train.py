@@ -23,7 +23,7 @@ from dataloaders.mutations import load_mutations
 
 from nervaluate import Evaluator
 
-
+wandb.finish()
 wandb.init(project="mutation_ner")
 wandb_logger = WandbLogger(project="mutation_ner")
 
@@ -49,11 +49,11 @@ def prepare_data(config):
     return train_docs, val_docs
 
 
-def get_task_module(model_name, config):
+def get_task_module(model_type, config):
     """..."""
     if SPAN_CLASSIFICATION:
         task_module = TransformerSpanClassificationTaskModule(
-            tokenizer_name_or_path=model_name,
+            tokenizer_name_or_path=model_type,
             max_length=config["max_window"],
             padding="max_length",
             single_sentence=True,
@@ -61,7 +61,7 @@ def get_task_module(model_name, config):
         )
     else:
         task_module = TransformerTokenClassificationTaskModule(
-            tokenizer_name_or_path=model_name,
+            tokenizer_name_or_path=model_type,
             entity_annotation="entities",
             partition_annotation="sentences",
             truncation=True,
@@ -73,27 +73,27 @@ def get_task_module(model_name, config):
 
 
 def finetune_model(
-    model_name,
+    model_type,
     model_output_path,
     config,
     task_module,
     train_dataloader,
     val_dataloader,
     model_out_name,
-    num_epochs=3,
+    num_epochs=100,
     debug=False,
 ):
     """..."""
     if SPAN_CLASSIFICATION:
 
         model = TransformerSpanClassificationModel(
-            model_name_or_path=model_name,
+            model_name_or_path=model_type,
             t_total=len(train_dataloader) * num_epochs,
             learning_rate=config["learning_rate"],
         )
     else:
         model = TransformerTokenClassificationModel(
-            model_name_or_path=model_name,
+            model_name_or_path=model_type,
             num_classes=len(task_module.label_to_id),
             learning_rate=config["learning_rate"],
         )
@@ -139,6 +139,7 @@ def calculate_results(golds, preds, labels):
     evaluator = Evaluator(true=golds, pred=preds, tags=labels)
     # Returns overall metrics and metrics for each tag
     results, results_per_label = evaluator.evaluate()
+
     print(f"results per label: {results_per_label}")
     print(f"\n\nresults overall: {results}")
 
