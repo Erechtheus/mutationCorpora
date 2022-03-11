@@ -174,7 +174,7 @@ def calculate_results(golds, preds, labels):
 
 def collect_predictions(ner_model, task_module, data):
     """..."""
-    if torch..cuda.is_available():
+    if torch.cuda.is_available():
         device_id = 0
     else:
         device_id = -1
@@ -309,7 +309,7 @@ def run_training(config, final_eval_on_val=False, debug=False):
     run_name = f"run_{t}/"
     model_output_path = os.path.join(model_dir, run_name)
     model_out_name = "ner-finetuned"
-    model_type = wandb.config["model"]
+    model_type = wandb.config["model_name"]
     num_epochs = wandb.config["epochs"]
     batch_size = wandb.config["batch_size"]
 
