@@ -1,15 +1,14 @@
 {
+  "batch_size": 8,
   "data_format": "json",
   "data_url": "/home/lraithel/mutationCorpora/corpora/json/",
-  "model": "bert-base-cased",
-  "test": "seth-test.json",
-  "train": "seth-train.json",
-  "use_wandb": true,
-  "test_size": 0.1,
-  "seed": 42,
-  "epochs": 2,
-  "patience": 4,
-  "batch_size": 8,
+  "epochs": 100,
+  "learning_rate": 0.002,
   "max_window": 200,
-  "learning_rate": 0.002
+  "model_type": "bert-base-cased",
+  "patience": 4,
+  "seed": 42,
+  "test": "seth-test.json",
+  "test_size": 0.1,
+  "train": "seth-train.json"
 }
