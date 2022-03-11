@@ -118,7 +118,7 @@ def finetune_model(
         mode="max",
         strict=True,
     )
-    print(f"GPU: {GPU}")
+
     trainer = pl.Trainer(
         fast_dev_run=debug,
         max_epochs=config.get("num_epochs", num_epochs),
