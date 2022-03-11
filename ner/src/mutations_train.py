@@ -259,17 +259,10 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
         ner_model = TransformerSpanClassificationModel.from_pretrained(model_path)
     else:
         # this is only to avoid confusion with the transformers warning
-        print(f"Loading model from checkpoint {model_path}")
+        print(f"Loading model from checkpoint {model_path}. Ignore the following warning!")
         ner_model = TransformerTokenClassificationModel.load_from_checkpoint(model_path)
 
-        ner_model_2 = TransformerTokenClassificationModel.from_pretrained(model_path)
-
     golds, preds = collect_predictions(ner_model=ner_model, task_module=task_module, data=data)
-    golds_2, preds_2 = collect_predictions(ner_model=ner_model_2, task_module=task_module, data=data)
-
-
-    # write predictions to file
-    # print(json.dumps(out_docs, indent=2))
 
     # remove the BIO tags from the labels
     bio_labels = list(task_module.label_to_id.keys())
@@ -283,12 +276,7 @@ def eval_on_dev_set(data, task_module, model_output_dir, run_name):
             elif l.startswith("I-"):
                 labels.append(l.replace("I-", ""))
 
-    print("\nFrom checkpoint results: \n")
     calculate_results(golds=golds, preds=preds, labels=list(set(labels)))
-
-    print("\n\nFrom pretrained results: \n")
-    calculate_results(golds=golds_2, preds=preds_2, labels=list(set(labels)))
-
 
 
 def run_training(config, final_eval_on_val=False, debug=False):
