@@ -1,4 +1,4 @@
-PMID	Text Begin	Text End	Text	Gene	DNA/Protein/SNP	Mutation Type	Variation(wt|LOC|mt)	Disease	etc
+PMID	Text Begin	Text End	Text	Gene	DNA/Protein/SNP	Mutation Type	Variation(wt|LOC|mt)	Disease etc
 7798298			(CAG to CAT)	APC	Protein	SUB	Q|1096|H	BREAST CARCINOMA  	
 7798298			(AGC to ATC)	APC	Protein	SUB	S|1081|I	BREAST CARCINOMA  	
 8710380			 CCG to CTG 	P53	Protein	SUB	P|82|L	BREAST NEOPLASMS	
