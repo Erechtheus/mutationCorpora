@@ -1,0 +1,404 @@
+PMICID	Type	Start	End	Text	Gene	Protein/Gene	TypeOfVar	Mutation	HGVS	Disease	Drug	Cell line
+PMC2777185	Var	5884	5889	F129L	MEK1	Protein	SUB	F|129|L	p.F129L	Melanoma	azd6244|ci-1040|arylamine	A375
+PMC2777185	Var	11510	11515	P124S	MEK1	Protein	SUB	P|124|S	p.P124S	Melanoma|cardio-facio-cutaneous (CFC) syndrome	plx4720	A375
+PMC2777185	Var	1240	1244	Q56P	MEK1	Protein	SUB	Q|56|P	p.Q56P	Melanoma|cardio-facio-cutaneous (CFC) syndrome	plx4720	A375
+PMC2777185	Var	5891	5896	V211D	MEK1	Protein	SUB	V|211|D	p.V211D	Melanoma	azd6244|ci-1040|arylamine	A375
+PMC2777185	Var	10895	10900	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	azd6244|mek inhibitor|plx4720	A375
+PMC2777185	Var	7352	7356	D67N	MEK1	Protein	SUB	D|67|N	p.D67N	Cardio-facio-cutaneous syndrome|CFC syndrome|somatic cancer	ci-1040	-
+PMC2777185	Var	6043	6048	E120D	MEK1	Protein	SUB	E|120|D	p.E120D	Melanoma	-	-
+PMC2777185	Var	7637	7642	E368K	MEK1	Protein	SUB	E|368|K	p.E368K	-	-	-
+PMC2777185	Var	6050	6055	F133L	MEK1	Protein	SUB	F|133|L	p.F133L	Melanoma	-	-
+PMC2777185	Var	5877	5882	G128D	MEK1	Protein	SUB	G|128|D	p.G128D	Melanoma	arylamine	-
+PMC2777185	Var	7619	7624	G328R	MEK1	Protein	SUB	G|328|R	p.G328R	-	-	-
+PMC2777185	Var	6036	6041	H119P	MEK1	Protein	SUB	H|119|P	p.H119P	Melanoma	-	-
+PMC2777185	Var	6015	6020	I103N	MEK1	Protein	SUB	I|103|N	p.I103N	Melanoma	azd6244|ci-1040	-
+PMC2777185	Var	6029	6034	I111N	MEK1	Protein	SUB	I|111|N	p.I111N	Melanoma	-	-
+PMC2777185	Var	5862	5866	I99T	MEK1	Protein	SUB	I|99|T	p.I99T	Melanoma	arylamine	-
+PMC2777185	Var	6022	6027	K104N	MEK1	Protein	SUB	K|104|N	p.K104N	Melanoma	-	-
+PMC2777185	Var	8534	8539	L115P	MEK1	Protein	SUB	L|115|P	p.L115P	Melanoma	azd6244|ci-1040|arylamine	-
+PMC2777185	Var	8534	8541	L115P/R	MEK1	Protein	SUB	L|115|R	p.L115R	Melanoma	arylamine	-
+PMC2777185	Var	5902	5907	L215P	MEK1	Protein	SUB	L|215|P	p.L215P	Melanoma	arylamine	-
+PMC2777185	Var	1102	1107	P124L	MEK1	Protein	SUB	P|124|L	p.P124L	Melanoma|cardio-facio-cutaneous (CFC) syndrome	azd6244|mek inhibitor	-
+PMC2777185	Var	11519	11524	P124Q	MEK1	Protein	SUB	P|124|Q	p.P124Q	Melanoma	-	-
+PMC2777185	Var	7626	7631	P326L	MEK1	Protein	SUB	P|326|L	p.P326L	-	-	-
+PMC2777185	Var	7187	7191	T55P	MEK1	Protein	SUB	T|55|P	p.T55P	Melanoma|cardio-facio-cutaneous (CFC) syndrome	-	-
+PMC2798468	Var	19092	19097	S194A	RalA	Protein	SUB	S|194|A	p.S194A	pancreatic cancer	-	T3M4|MIA PaCa-2|HPAC|AsPC-1|CFPac-1|Capan-1|SW1990|Panc-1|CFPAC-1|PANC-1
+PMC2798468	Var	30078	30083	S194D	RalA	Protein	SUB	S|194|D	p.S194D	pancreatic cancer	-	T3M4
+PMC2798468	Var	14762	14766	E37G	Ras	Protein	SUB	E|37|G	p.E37G	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	13716	13720	G12V	Ras	Protein	SUB	G|12|V	p.G12V	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	11835	11840	K162R	AURKA	Protein	SUB	K|162|R	p.K162R	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	11845	11850	T288D	AURKA	Protein	SUB	T|288|D	p.T288D	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	14747	14751	T35S	Ras	Protein	SUB	T|35|S	p.T35S	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	14781	14785	Y40C	Ras	Protein	SUB	Y|40|C	p.Y40C	pancreatic cancer	-	HEK-TtH
+PMC2798468	Var	39819	39823	D49E	RalA	Protein	SUB	D|49|E	p.D49E	pancreatic cancer	-	-
+PMC2798468	Var	32632	32636	D49N	RalA	Protein	SUB	D|49|N	p.D49N	pancreatic cancer	-	-
+PMC2798468	Var	18680	18684	G23V	RalA	Protein	SUB	G|23|V	p.G23V	bladder cancer	-	-
+PMC2798468	Var	46143	46148	K126R	AURKA	Protein	SUB	K|126|R	p.K126R	(pancreatic cancer)	-	-
+PMC2798468	Var	39518	39522	Q72L	RalA	Protein	SUB	Q|72|L	p.Q72L	pancreatic cancer	-	-
+PMC2798468	Var	4496	4501	S183A	RalA	Protein	SUB	S|183|A	p.S183A	bladder cancer	-	-
+PMC2818631	Var	1238	1242	G12V	K-Ras	Protein	SUB	G|12|V	p.G12V	pancreatic cancer	lapatinib	T3M4
+PMC2837563	Var	1013	1022	Leu 19Phe	K-Ras	Protein	SUB	L|19|F	p.L19F	colorectal cancer	-	NIH3T3
+PMC2837563	Var	1059	1069	Arg 164Gln	K-Ras	Protein	SUB	R|164|Q	p.R164Q	colorectal cancer	-	NIH3T3
+PMC2837563	Var	11795	11799	G12C	K-Ras	DNA	SUB	G|12|C	c.12G>C	colorectal cancer|adenocarcinomas	-	-
+PMC2837563	Var	16350	16355	G 57T	K-Ras	DNA	SUB	G|57|T	c.57G>T	colorectal cancer	-	-
+PMC2837563	Var	11826	11831	A146T	K-Ras	Protein	SUB	A|146|T	p.A146T	colorectal cancer	-	-
+PMC2837563	Var	11789	11793	G12D	K-Ras	Protein	SUB	G|12|D	p.G12D	colorectal cancer|adenocarcinomas	-	-
+PMC2837563	Var	11783	11787	G12V	K-Ras	Protein	SUB	G|12|V	p.G12V	colorectal cancer|adenocarcinomas	-	-
+PMC2837563	Var	11801	11805	G13D	K-Ras	Protein	SUB	G|13|D	p.G13D	colorectal cancer	-	-
+PMC2837563	Var	11819	11824	K117N	K-Ras	Protein	SUB	K|117|N	p.K117N	colorectal cancer	-	-
+PMC2837563	Var	11807	11811	Q61H	K-Ras	Protein	SUB	Q|61|H	p.Q61H	colorectal cancer|adenocarcinomas	-	-
+PMC2837563	Var	39217	39222	V599E	B-Raf	Protein	SUB	V|599|E	p.V599E	colorectal cancer	-	-
+PMC2837563	Var	16382	16387	V600E	B-Raf	Protein	SUB	V|600|E	p.V600E	melanomas	panitumumab|cetuximab	-
+PMC2842125	Var	24942	24947	K364R	SHP2	Protein	SUB	K|364|R	p.K364R	-	-	HEK293
+PMC2842125	Var	24980	24985	K364S	SHP2	Protein	SUB	K|364|S	p.K364S	-	-	HEK293
+PMC2842125	Var	17027	17031	D61Y	SHP2	Protein	SUB	D|61|Y	p.D61Y	juvenile myelomonocytic leukemia|JMML|(leukemias)	GM-CSF|II-B08	Eco-Phoenix 
+PMC2842125	Var	47212	47221	181 (G>T)	SHP2	DNA	SUB	G|181|T	c.181G>T	-	-	Eco-Phoenix
+PMC2842125	Var	47199	47208	226 (G>A)	SHP2	DNA	SUB	G|226|A	c.226G>A	-	-	Eco-Phoenix
+PMC2842125	Var	17011	17015	E76K	SHP2	Protein	SUB	E|76|K	p.E76K	juvenile myelomonocytic leukemia|JMML|(leukemias)	GM-CSF|II-B08	Eco-Phoenix
+PMC2842125	Var	17017	17021	D61V	SHP2	Protein	SUB	D|61|V	p.D61V	juvenile myelomonocytic leukemia|JMML|(leukemias)	GM-CSF	-
+PMC2854434	Var	1202	1207	V617F	JAK2	Protein	SUB	V|617|F	p.V617F	myeloproliferative neoplasms|MPN|myelofibrosis	incb16562	UKE-1|SET-2
+PMC2854434	Var	15817	15822	K539L	JAK2	Protein	SUB	K|539|L	p.K539L	myeloproliferative neoplasms|MPN|polycythemia vera|Thrombocytosis	INCB16562	Ba/F3-EPOR
+PMC2854434	Var	18850	18855	W515L	MPL	Protein	SUB	W|515|L	p.W515L	Thrombocytosis|leukocytosis|extramedullary hematopoeisis|myelofibrosis	INCB16562|INCB18424	Ba/F3
+PMC2854434	Var	4379	4387	MPLS505N	MPL	Protein	SUB	W|505|N	p.W505N	Thrombocytosis|primary myelofibrosis	-	-
+PMC2854434	Var	4345	4353	MPLW515A	MPL	Protein	SUB	W|515|A	p.W515A	Thrombocytosis|primary myelofibrosis	-	-
+PMC2854434	Var	4335	4343	MPLW515K	MPL	Protein	SUB	W|515|K	p.W515K	Thrombocytosis|primary myelofibrosis	-	-
+PMC2876068	Var	10406	10411	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	plx4032|rg7204	M249|M229|M233|M255|M308|M263|SKMEL28|M238|M262
+PMC2876068	Var	11039	11043	Q61L	NRAS	Protein	SUB	Q|61|L	p.Q61L	Melanoma	plx4032|az628	M202|M207|M257
+PMC2882923	Var	7262	7266	D14N	mfVII	Protein	SUB	D|14|N	p.D14N	breast cancer	verteporfin|VP|visudyne	-
+PMC2882923	Var	3033	3038	K341A	mfVII	Protein	SUB	K|341|A	p.K341A	breast cancer	verteporfin|visudyne	-
+PMC2888392	Var	12236	12241	K210R	NPM-ALK	Protein	SUB	K|210|R	p.K210R	anaplastic large cell lymphomas	-	GP293
+PMC2888392	Var	1438	1443	Y343F	NPM-ALK	Protein	SUB	Y|343|F	p.Y343F	anaplastic large cell lymphomas	-	GP293
+PMC2888392	Var	17541	17546	C445S	SHP1	Protein	SUB	C|445|S	p.C445S	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|138|F	p.Y138F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|152|F	p.Y152F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|156|F	p.Y156F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|191|F	p.Y191F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|419|F	p.Y419F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|567|F	p.Y567F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|644|F	p.Y644F	anaplastic large cell lymphomas	-	-
+PMC2888392	Var	6807	6946	Tyr ??Phe mutants of NPM-ALK (i.e. site-directed mutagenesis of Tyr 138Tyr 152Tyr 156Tyr 191Tyr 419Tyr 567Tyr 644and Tyr 664)	NPM-ALK	Protein	SUB	Y|664|F	p.Y664F	anaplastic large cell lymphomas	-	-
+PMC2892953	Var	11884	11889	A572V	JAK3	Protein	SUB	A|572|V	p.A572V	leukemias	cyt387	CMK
+PMC2892953	Var	10428	10433	V617F	JAK2	Protein	SUB	V|617|F	p.V617F	myeloproliferative neoplasms|MPN|myelofibrosis	cyt387	Ba/F3|32D|EPOR|HEL
+PMC2892953	Var	11743	11748	T315I	BCR-ABL	Protein	SUB	T|315|I	p.T315I	chronic myeloid leukemias	cyt387	Ba/F3
+PMC2892953	Var	20907	20912	V614F	JAK2	Protein	SUB	V|614|F	p.V614F	myelofibrosis	cyt387	Ba/F3
+PMC2907921	Var	30637	30642	F313S	RXRA	Protein	SUB	F|313|S	p.F313S	(breast cancer)|(liver cancer)|(thyroid tumor)|(prostatic tumor)	sulindac	-
+PMC2907921	Var	30643	30648	R316E	RXRA	Protein	SUB	R|316|E	p.R316E	(breast cancer)|(liver cancer)|(thyroid tumor)|(prostatic tumor)	sulindac	-
+XPMC2912428	Var	1622	1626	S45A	SAv	Protein	SUB	S|45|A	p.S45A	lymphomas	biotin	-
+XPMC2912428	Var	2035	2039	Y43A	SAv	Protein	SUB	Y|43|A	p.Y43A	lymphomas	biotin	-
+PMC2916062	Var	624	629	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	thyroid cancers		OCUT1|SW1736
+PMC2916062	Var	10916	10922	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	thyroid cancers		OCUT1|BCPAP|K1|SW1736
+PMC2916062	Var	640	646	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	thyroid cancers		OCUT1
+PMC2920012	Var	7521	7526	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	glutamax|(erlotinib|gefitinib|bms-690514)	H1975
+PMC2920012	Var	1175	1180	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	glutamax|(erlotinib|gefitinib|bms-690514)	H1975
+PMC2920012	Var	7396	7401	R175H	p53	Protein	SUB	R|175|H	p.R175H	lung cancer	glutamax|(erlotinib|gefitinib|bms-690514)	H1299
+PMC2931825	Var	13829	13834	L248V	ABL1	Protein	SUB	L|248|V	p.L248V	Leukemia	imatinib	K562
+PMC2931825	Var	13839	13844	T315I	ABL1	Protein	SUB	T|315|I	p.T315I	Leukemia	imatinib	K562
+PMC2931825	Var	14063	14068	E255K	ABL1	Protein	SUB	E|255|K	p.E255K	Leukemia|Myelogenous Chronic BCR-ABL Positive	imatinib	-
+PMC2931825	Var	20919	20924	E255V	ABL1	Protein	SUB	E|255|V	p.E255V	Leukemia|Myelogenous Chronic BCR-ABL Positive	imatinib	-
+PMC2951214	Var	1162	1167	V617F	JAK2	Protein	SUB	V|617|F	p.V617F	myeloproliferative neoplasms|MPN	G6	Ba/F3-EpoR|HEL
+PMC2967069	Var	18334	18350	c.6033_6034delTT	BRCA2	DNA	DEL	|6033_6034|TT	c.6033_6034TTdel	breast cancer|ovarian cancers	(docetaxel)	-
+PMC2967069	Var	18389	18405	p.ser2012GlnfsX5	BRCA2	Protein	FS	S|2012|Q|5	p.ser2012GlnfsX5	breast cancer|ovarian cancers	docetaxel	-
+PMC2980857	Var	10510	10515	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	gefitinib|erlotinib	H3255|H1975|PC-9
+PMC2993303	Var	1026	1031	G388R	FGFR4	Protein	SUB	G|388|R	p.G388R	breast cancer	-	MDA-453
+PMC2993303	Var	10850	10855	Y367C	FGFR4	Protein	SUB	Y|367|C	p.Y367C	breast cancer	-	MDA-453
+PMC2993303	Var	21605	21610	G385R	FGFR4	Protein	SUB	G|385|R	p.G385R	breast cancer	-	-
+PMC2993303	Var	10748	10753	N535K	FGFR4	Protein	SUB	N|535|K	p.N535K	rhabdomyosarcomas	-	-
+PMC2993303	Var	10758	10763	V550L	FGFR4	Protein	SUB	V|550|L	p.V550L	rhabdomyosarcomas	-	-
+PMC2993419	Var	4165	4169	E13K	IL-13	Protein	SUB	E|13|K	p.E13K	brain tumor	hIL-13-PE|Cintredekin Besudotox|exotoxin	-
+PMC2993419	Var	4762	4767	Y124D	IL-4	Protein	SUB	Y|124|D	p.Y124D	infiltrative brain tumor	exotoxin	-
+PMC3004370	Var	18129	18135	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	colorectal cancer	-	HCT116
+PMC3004370	Var	7549	7554	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	colorectal cancer	-	-
+PMC3019212	Var	8483	8489	D93del	NAMPT	Protein	DEL	|93|D	p.93Ddel	melanomas	inhibitors of nicotinamide	HCT-116|NYH|HEK293T
+PMC3019212	Var	10826	10831	H191R	NAMPT	Protein	SUB	H|191|R	p.H191R	melanomas	inhibitors of nicotinamide|2GVJ |apo866|CHS-828	HCT-116|NYH
+PMC3019212	Var	17293	17298	K342R	NAMPT	Protein	SUB	K|342|R	p.K342R	melanomas	inhibitors of nicotinamide|apo866	HCT-116|HEK293T
+PMC3019212	Var	17921	17926	Q388R	NAMPT	Protein	SUB	Q|388|R	p.Q388R	-	inhibitors of nicotinamide|apo866	HCT-116|HEK293T
+PMC3019212	Var	17239	17247	1025A->G	NAMPT	DNA	SUB	A|1025|G	c.1025A>G	-	apo866|CHS-828|(inhibitors of nicotinamide)	-
+PMC3019212	Var	17123	17130	903G->A	NAMPT	DNA	SUB	G|903|A	c.903G>A	-	(inhibitors of nicotinamide)	-
+PMC3019212	Var	38366	38371	G217R	NAMPT	Protein	SUB	G|217|R	p.G217R	-	chs-828	-
+PMC3019212	Var	17191	17201	rs11553095	NAMPT	SNP	SNP	rs11553095	rs11553095	-	apo866|CHS-828|(inhibitors of nicotinamide)	-
+PMC3029752	Var	17019	17024	L585R	SI	Protein	SUB	L|585|R	p.L585R	lung cancer|non-small-cell lung cancer|NSCLC	egfr-inhibitor|gefitinib|erlotinib 	H3255
+PMC3029752	Var	10010	10015	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer|non-small-cell lung cancer|NSCLC		H1975|H441|PC14|H3255
+PMC3029752	Var	10016	10021	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer|non-small-cell lung cancer|NSCLC		H1975|H441|PC14|H3255
+PMC3029752	Var	18965	18970	T315L	Bcr-Abl	Protein	SUB	T|315|L	p.T315L	-	imatinib	-
+PMC3059327	Var	21575	21579	S62A	MYC	Protein	SUB	S|62|A	p.S62A	Hepatocellular carcinoma	statins	-
+PMC3059327	Var	21591	21595	T58A	MYC	Protein	SUB	T|58|A	p.T58A	Hepatocellular carcinoma	statins	-
+PMC3059742	Var	11922	11927	G464V	B-Raf	Protein	SUB	G|464|V	p.G464V	ovarian cancer	pazopanib	MDA-MB-231
+PMC3059742	Var	9609	9613	G13D	K-Ras	Protein	SUB	G|13|D	p.G13D	breast cancer	pazopanib	-
+PMC3059742	Var	23885	23890	G469V	B-Raf	Protein	SUB	G|469|V	p.G469V	ovarian cancer|breast cancer|lung cancer	pazopanib	-
+PMC3059742	Var	12016	12021	V600E	B-Raf	Protein	SUB	V|600|E	p.V600E	Melanoma	pazopanib	-
+PMC3061393	Var	13589	13593	G12C	KRAS	Protein	SUB	G|12|C	p.G12C	lung cancer	transfection reagent|cetuximab	H23|H1792|H358|H441
+PMC3061393	Var	13639	13643	G12V	KRAS	Protein	SUB	G|12|V	p.G12V	lung cancer|adenocarcinomas	transfection reagent	H23|H1792|H358|H441
+PMC3073446	Var	12383	12389	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	thyroid cancers	plx4720	8505c
+PMC3073446	Var	9785	9790	R248G	TP53	Protein	SUB	R|248|G	p.R248G	thyroid cancers	plx4720	8505c
+PMC3073446	Var	11589	11594	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	thyroid cancers|melanoma|colorectal	plx4720|brdu	8505c
+PMC3073446	Var	3229	3235	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	-	(plx4620)	-
+PMC3086384	Var	12854	12873	codon 273 (CGT>TGT)	p53	DNA	SUB	R|273|C	c.273R>C	Adenocarcinoma	IPMC	-
+PMC3086384	Var	13844	13853	(GGT>GTT;	KRAS	Protein	SUB	G|12|V	p.G12V	Adenocarcinoma	IPMC	-
+PMC3094321	Var	20438	20443	T877A	AR	Protein	SUB	T|877|A	p.T877A	prostate cancers	-	LNCaP
+PMC3094321	Var	20988	21002	His 874 to Tyr	AR	Protein	SUB	H|874|Y	p.H874Y	prostate cancers	-	22Rv1|22RV1
+XPMC3126314	Var	1249	1253	M51R	VSV	Protein	SUB	M|51|R	p.M51R	glioblastoma multiforme|GBM	paraformaldehyde|dmso	-
+XPMC3139710	Var	6884	6889	P151S	p53	Protein	SUB	P|151|S	p.P151S	oral cancer	peitc	SCC-4
+PMC3139710	Var	6786	6791	R273H	p53	Protein	SUB	R|273|H	p.R273H	Breast Cancer	peitc	MDA-MB-468
+PMC3139710	Var	6751	6756	R280K	p53	Protein	SUB	R|280|K	p.R280K	Breast Cancer	peitc	MDA-MB-231
+PMC3139710	Var	13065	13070	G245C	p53	DNA	SUB	G|245|C	c.245G>C	lung cancer|non-small cell lung cancer|NSCLC	PEITC|phenethyl isothiocyanate|cyclohexylmethyl	H596|BL21
+PMC3139710	Var	8790	8795	R175H	p53	Protein	SUB	R|175|H	p.R175H	lung cancer|colon cancer|breast cancer	peitc	H1299
+PMC3139710	Var	6818	6823	P274L	p53	Protein	SUB	P|274|L	p.P274L	prostate cancer	peitc	DU145
+PMC3139710	Var	6824	6829	V223F	p53	Protein	SUB	V|223|F	p.V223F	prostate cancer	peitc	DU145
+PMC3166102	Var	18138	18142	Q61K	NRAS	Protein	SUB	Q|61|K	p.Q61K	B-Cell lymphoma|B-cell leukemia|lymphomas	methylcellulose	SU-DHL-6
+PMC3172114	Var	12620	12625	S392A	p53	Protein	SUB	S|392|A	p.S392A	(chronic myeloid leukemias)|(CML)	-	Hep3B
+PMC3180880	Var	13252	13274	12 (Glycine to Leucine	KRAS	Protein	SUB	G|12|L	p.G12L	adenocarcinomas	-	A99
+PMC3180880	Var	13337	13361	127 (Serine to Threonine	TP53	Protein	SUB	S|127|T	p.S127T	adenocarcinomas	-	A99
+PMC3194764	Var	13087	13091	W34A	PIN1	Protein	SUB	W|34|A	p.W34A	renal cell carcinoma	-	ACHN
+PMC3194764	Var	3670	3674	G12V	H-Ras	Protein	SUB	G|12|V	p.G12V	-	-	-
+PMC3195480	Var	25749	25753	Q61H	KRAS	Protein	SUB	Q|61|H	p.Q61H	lung cancer	- 	H460|H2347
+PMC3195480	Var	21020	21024	G12D	KRAS	Protein	SUB	G|12|D	p.G12D	adenocarcinomas	-	-
+PMC3195480	Var	32597	32601	G12V	RAS	Protein	SUB	G|12|V	p.G12V	(adenocarcinomas)|(lung cancers)	-	-
+PMC3208270	Var	16472	16478	Y1230C	MET	Protein	SUB	Y|1230|C	p.Y1230C	non-small cell lung cancer|NSCLC|lung cancer|gastric carcinomas	pha-665752|pf-2341066|crizotinib	SNU638
+PMC3208270	Var	10721	10727	Y1230H	MET	Protein	SUB	Y|1230|H	p.Y1230H	non-small cell lung cancer|NSCLC|lung cancer|gastric carcinomas	pha-665752|pf-2341066|crizotinib	EBC1|SNU638|MKN45
+PMC3208270	Var	21989	21994	T315I	ABL	Protein	SUB	T|315|I	p.T315I	leukemias	imatinib	-
+PMC3208270	Var	21919	21924	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer|leukemias	imatinib	-
+PMC3218300	Var	20429	20433	Q61R	N-RAS	Protein	SUB	Q|61|R	p.Q61R	Melanoma	(riluzole)	1205Lu|A2058|UACC903|UACC930
+PMC3218300	Var	14115	14120	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	riluzole|plx4720|sorafenib|plx4032	1205Lu|A2058|UACC903|UACC930
+XPMC3276307	Var	17013	17018	R513C	CCK;CD22;CO;II;SDS	Protein	SUB	R|513|C	p.R513C	hairy cell leukemia	-	-
+XPMC3276307	Var	17023	17028	Y600C	CCK;CD22;CO;II;SDS	Protein	SUB	Y|600|C	p.Y600C	hairy cell leukemia	-	-
+PMC3336038	Var	5742	5747	E548S	BLT(Drug)	Protein	SUB	E|548|S	p.E548S	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5749	5754	K590S	BLT(Drug)	Protein	SUB	K|590|S	p.K590S	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5763	5768	Q332S	BLT(Drug)	Protein	SUB	Q|332|S	p.Q332S	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5770	5775	R313A	BLT(Drug)	Protein	SUB	R|313|A	p.R313A	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5756	5761	R432G	BLT(Drug)	Protein	SUB	R|432|G	p.R432G	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5735	5740	R467A	BLT(Drug)	Protein	SUB	R|467|A	p.R467A	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5721	5726	R490A	BLT(Drug)	Protein	SUB	R|490|A	p.R490A	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3336038	Var	5728	5733	R513A	BLT(Drug)	Protein	SUB	R|513|A	p.R513A	hematologic malignancies	isopropyl-b-D-thiogalactopyranoside|IPTG	-
+PMC3361568	Var	10711	10715	G12D	K-Ras	Protein	SUB	G|12|D	p.G12D	pancreatic ductal adenocarcinomas|PDAC|adenocarcinomas|ovarian cancers|colonic cancers	everolimus|rapalog	PANC-1
+PMC3366694	Var	11872	11877	R175H	p53	Protein	SUB	R|175|H	p.R175H	ovarian carcinomas|pancreatic adenocarcinoma	NSC319726	TOV112D
+PMC3366694	Var	11892	11897	R248W	p53	Protein	SUB	R|248|W	p.R248W	ovarian carcinomas	NSC319726	OVCAR3
+PMC3366694	Var	14856	14861	R273W	p53	Protein	SUB	R|273|W	p.R273W	-	NSC319726	MDAMB468
+PMC3366694	Var	13423	13428	R172H	p53	Protein	SUB	R|172|H	p.R172H	-	NSC319726	-
+PMC3366694	Var	1399	1404	R273H	p53	Protein	SUB	R|273|H	p.R273H	-	NSC319726	-
+PMC3380575	Var	25032	25037	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	-	-
+PMC3386822	Var	10011	10016	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	Adenocarcinoma|lung cancer	erlotinib	-
+PMC3386822	Var	2679	2684	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	Adenocarcinoma|lung cancer	anti-egfr	-
+PMC3393714	Var	2223	2228	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Uveal melanoma|melanomas	AZD8055|Selumetinib|AZD6244|ARRY-142886	OCM1A|OCM3
+PMC3393714	Var	6952	6957	Q209P	GNAQ	Protein	SUB	Q|209|P	p.Q209P	Uveal melanoma|melanomas	AZD8055|Selumetinib|AZD6244|ARRY-142886	Mel270
+PMC3393714	Var	2215	2221	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	Uveal melanoma|melanomas	-	-
+PMC3393714	Var	41548	41552	E17K	AKT1	Protein	SUB	E|17|K	p.E17K	Uveal melanoma|melanomas	(AZD8055|Selumetinib|AZD6244|ARRY-142886)	-
+PMC3393714	Var	41690	41695	E542Q	PIK3CA	Protein	SUB	E|542|Q	p.E542Q	Uveal melanoma|melanomas	(AZD8055|Selumetinib|AZD6244|ARRY-142886)	-
+PMC3393714	Var	41622	41628	Q1367H	AKT1	Protein	SUB	Q|1367|H	p.Q1367H	Uveal melanoma|melanomas	(AZD8055|Selumetinib|AZD6244|ARRY-142886)	-
+PMC3393714	Var	6933	6938	Q209L	GNAQ	Protein	SUB	Q|209|L	p.Q209L	Uveal melanoma|melanomas	AZD8055|Selumetinib|AZD6244|ARRY-142886	-
+PMC3393714	Var	41132	41136	Q61K	NRAS	Protein	SUB	Q|61|K	p.Q61K	cutaneous melanoma|melanomas	AZD8055|Selumetinib	-
+PMC3393714	Var	41164	41168	Q61R	NRAS	Protein	SUB	Q|61|R	p.Q61R	cutaneous melanoma|melanomas	AZD8055|Selumetinib	-
+PMC3393714	Var	41670	41677	S1465fs*3	AKT1	Protein	FS	S|1465||	p.S1465fs*3	Uveal melanoma|melanomas	(AZD8055|Selumetinib|AZD6244|ARRY-142886)	-
+PMC3408577	Var	19726	19731	L620M	AXL	Protein	SUB	L|620|M	p.L620M	lung cancer	xl-880	HCC827
+PMC3408577	Var	17384	17389	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	erlotinib	H3255
+PMC3408577	Var	4168	4173	T854A	EGFR	DNA	SUB	T|854|A	c.854T>A	lung cancer	erlotinib	-
+PMC3408577	Var	4154	4159	D761Y	EGFR	Protein	SUB	D|761|Y	p.D761Y	lung cancer	erlotinib	-
+PMC3408577	Var	18479	18484	K567R	AXL	Protein	SUB	K|567|R	p.K567R	lung cancer	xl-880|erlotinib	-
+PMC3408577	Var	4161	4166	L474S	EGFR	Protein	SUB	L|474|S	p.L474S	lung cancer	erlotinib	-
+PMC3408577	Var	10853	10858	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	erlotinib|XL-880	-
+PMC3411163	Var	12359	12364	R248Q	p53	Protein	SUB	R|248|Q	p.R248Q	leukemia	MMS	MOLT4|MOLT-4|MCF7
+PMC3411163	Var	13817	13822	D259G	p53	Protein	SUB	D|259|G	p.D259G	leukemia	-	Jurkat
+PMC3411163	Var	13824	13829	S260A	p53	Protein	SUB	S|260|A	p.S260A	leukemia	-	Jurkat
+PMC3411163	Var	13810	13815	T256K	p53	Protein	SUB	T|256|K	p.T256K	breast cancer	-	Jurkat
+PMC3411163	Var	12373	12378	R273H	p53	Protein	SUB	R|273|H	p.R273H	colon cancer|CC	-	HT29
+PMC3411163	Var	16218	16223	E125A	MPG	Protein	SUB	E|125|A	p.E125A	breast cancer|lung cancer|colon cancer	-	H1299
+PMC3411163	Var	16228	16233	Y162A	MPG	Protein	SUB	Y|162|A	p.Y162A	breast cancer|lung cancer|colon cancer	-	H1299
+PMC3411163	Var	12380	12385	A266E	p53	Protein	SUB	A|266|E	p.A266E	-	-	-
+PMC3411163	Var	12397	12402	E285K	p53	Protein	SUB	E|285|K	p.E285K	breast cancer	-	-
+PMC3411163	Var	12366	12371	R273C	p53	Protein	SUB	R|273|C	p.R273C	-	-	-
+PMC3411163	Var	12387	12392	R280K	p53	Protein	SUB	R|280|K	p.R280K	breast cancer	-	-
+PMC3432074	Var	2308	2312	G12D	KRAS	Protein	SUB	G|12|D	p.G12D	pancreatic cancer	mek inhibitor	-
+PMC3432074	Var	19405	19411	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	breast cancer	(mek inhibitor)	-
+PMC3439374	Var	9827	9831	E88G	Hsp90	Protein	SUB	E|88|G	p.E88G	(breast cancer)	geldanamycin	-
+PMC3439374	Var	9969	9973	L34I	Hsp90	Protein	SUB	L|34|I	p.L34I	(breast cancer)	radicicol	-
+PMC3439374	Var	9836	9840	N92L	Hsp90	Protein	SUB	N|92|L	p.N92L	(breast cancer)	geldanamycin	-
+PMC3439496	Var	12382	12386	G12V	Kras	Protein	SUB	G|12|V	p.G12V	colorectal cancer	Hu-r-¥âGBP	SW620|SW480
+PMC3439496	Var	12456	12460	G13D	Kras	Protein	SUB	G|13|D	p.G13D	colorectal cancer	Hu-r-¥âGBP	LoVo|HCT116|DLD1
+PMC3439496	Var	19902	19908	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	colorectal cancer	mek inhibitor|Hu-r-¥âGBP	HCT116
+PMC3439496	Var	19981	19986	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	colorectal cancer	-	DLD1
+PMC3452345	Var	12968	12972	E13K	IL13	Protein	SUB	E|13|K	p.E13K	glioblastoma multiforme|GBM|gliomas	TQM13|IL13	G48a MG|G26-H2
+PMC3452345	Var	5603	5608	K105A	IL13	Protein	SUB	K|105|A	p.K105A	glioblastoma multiforme|GBM|gliomas	TQM13|IL13	G48a MG|G26-H2
+PMC3452345	Var	4872	4910	lysine-to-arginine mutation at the 105	IL13	Protein	SUB	K|105|R	p.K105R	glioblastoma multiforme|GBM|gliomas	TQM13|IL13	G48a MG|G26-H2
+PMC3452345	Var	5230	5234	R66D	IL13	Protein	SUB	R|66|D	p.R66D	glioblastoma multiforme|GBM|gliomas	TQM13|IL13	G48a MG|G26-H2
+PMC3452345	Var	5235	5239	S69D	IL13	Protein	SUB	S|69|D	p.S69D	glioblastoma multiforme|GBM|gliomas	TQM13|IL13	G48a MG|G26-H2
+PMC3465283	Var	7498	7503	N375S	Met	Protein	SUB	N|375|S	p.N375S	non-small-cell lung cancer|NSCLC|lung cancer	Triflorcas	H2122
+PMC3465283	Var	17835	17840	E255K	Abl-1	Protein	SUB	E|255|K	p.E255K	-	Triflorcas	H1437|H2122|MKN45|BT474|COST|GTL-16|Kelly
+PMC3465283	Var	17845	17850	T315I	Abl-1	Protein	SUB	T|315|I	p.T315I	-	Triflorcas	H1437|H2122|MKN45|BT474|COST|GTL-16|Kelly
+PMC3465283	Var	7508	7513	R988C	Met	Protein	SUB	R|988|C	p.R988C	non-small-cell lung cancer|NSCLC|lung cancer	Triflorcas	H1437
+PMC3469746	Var	14853	14858	R175H	p53	Protein	SUB	R|175|H	p.R175H	B-cell malignancies	nutlin	H929
+PMC3469746	Var	14863	14868	R248Q	p53	Protein	SUB	R|248|Q	p.R248Q	B-cell malignancies	nutlin	H929
+PMC3504066	Var	5061	5066	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	gefitinib|V1801|anti-EGFR	H1975
+PMC3504066	Var	23218	23223	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	gefitinib|V1801	H1975
+PMC3515409	Var	32417	32421	G12D	KRAS	Protein	SUB	G|12|D	p.G12D	lung cancer|adenocarcinomas	-	-
+PMC3535655	Var	21746	21751	Y641F	Ezh2	Protein	SUB	Y|641|F	p.Y641F	diffused large B-cell lymphomas|DLBCL|lymphomas	EI1|(HMTs)	WSU-DLCL2
+PMC3535655	Var	13176	13181	Y641N	Ezh2	Protein	SUB	Y|641|N	p.Y641N	diffused large B-cell lymphomas|DLBCL|lymphomas	EI1|(HMTs)	SU-DHL6|Karpas422
+PMC3535655	Var	3013	3018	A677G	Ezh2	Protein	SUB	A|677|G	p.A677G	diffused large B-cell lymphomas|DLBCL|lymphomas	(histone methyltransferase)|(HMTs)	-
+PMC3535655	Var	2824	2957	These mutations lead to the change of tyrosine (Y) 641 to phenylalanine (F)serine (S)asparagine (N)histidine (H)cysteine (C),	Ezh2	Protein	SUB	Y|641|C	p.Y641C	diffused large B-cell lymphomas|DLBCL|lymphomas	(HMTs)	-
+PMC3535655	Var	2824	2957	These mutations lead to the change of tyrosine (Y) 641 to phenylalanine (F)serine (S)asparagine (N)histidine (H)cysteine (C),	Ezh2	Protein	SUB	Y|641|H	p.Y641H	diffused large B-cell lymphomas|DLBCL|lymphomas	(HMTs)	-
+PMC3535655	Var	2824	2957	These mutations lead to the change of tyrosine (Y) 641 to phenylalanine (F)serine (S)asparagine (N)histidine (H)cysteine (C),	Ezh2	Protein	SUB	Y|641|S	p.Y641S	diffused large B-cell lymphomas|DLBCL|lymphomas	(HMTs)	-
+PMC3538328	Var	12474	12483	E167GfsX3	CEBPA	Protein	FS	E|167|G|3	p.E167Gfs	leukemias	-	-
+PMC3538328	Var	14808	14812	H24A	CEBPA	Protein	SUB	H|24|A	p.H24A	leukemias	-	-
+PMC3538328	Var	8270	8276	H24Afs	CEBPA	Protein	FS	H|24|A|	p.H24Afs	leukemias	-	-
+PMC3538328	Var	12451	12457	I68Lfs	CEBPA	Protein	FS	I|68|L|	p.I68Lfs	leukemias	-	-
+PMC3538328	Var	14799	14803	P23Q	CEBPA	Protein	SUB	P|23|Q	p.P23Q	leukemias	-	-
+PMC3538328	Var	14134	14140	P23Qfs	CEBPA	Protein	FS	P|23|Q|	p.P23Qfs	leukemias	-	-
+PMC3538328	Var	14468	14473	R300L	CEBPA	Protein	SUB	R|300|L	p.R300L	leukemias	-	-
+PMC3556943	Var	13248	13253	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	colorectal cancer|CRC|melanoma|thyroid cancer	ibuprofen|aspirin	HT29
+PMC3556943	Var	8083	8088	L106P	FKBP	Protein	SUB	L|106|P	p.L106P	-	(ibuprofen)	-
+PMC3561207	Var	10310	10315	T315I	Bcr-Abl	Protein	SUB	T|315|I	p.T315I	Philadelphia positive leukemias|Ph (+) leukemias|leukemias	Imatinib|nilotinib|dasatinib|ag490	Ba/F3
+PMC3561207	Var	15592	15597	V617F	JAK2	Protein	SUB	V|617|F	p.V617F	(Philadelphia positive leukemias)|(Ph (+) leukemias)|(leukemias)	Imatinib|nilotinib|dasatinib|ag490	Ba/F3
+PMC3561207	Var	3600	3605	C464Y	Bcr-Abl	Protein	SUB	C|464|Y	p.C464Y	(Philadelphia positive leukemias)|(Ph (+) leukemias)|(leukemias)	GNF-2|myristate	-
+PMC3561207	Var	3749	3754	E505K	Bcr-Abl	Protein	SUB	E|505|K	p.E505K	(Philadelphia positive leukemias)|(Ph (+) leukemias)|(leukemias)	myristate|nilotinib|imatinib	-
+PMC3561207	Var	3607	3612	P465S	Bcr-Abl	Protein	SUB	P|465|S	p.P465S	(Philadelphia positive leukemias)|(Ph (+) leukemias)|(leukemias)	GNF-2|myristate	-
+PMC3561207	Var	3617	3622	V506L	Bcr-Abl	Protein	SUB	V|506|L	p.V506L	(Philadelphia positive leukemias)|(Ph (+) leukemias)|(leukemias)	GNF-2|myristate	-
+XPMC3561511	Var	1013	1017	M51R	SDS	Protein	SUB	M|51|R	p.M51R	Melanoma	paraformaldehyde	RPMI 7951|SK Mel5|SK Mel3|SK Mel2|SK Mel 24|SK Mel 28
+PMC3576842	Var	15852	15865	del E746_A750	EGFR	Protein	DEL	|746_750|	p.746_750del	non-small cell lung cancer|NSCLC	pkc412|bibw2992|wz4002	NCI-H820
+PMC3576842	Var	10103	10108	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	pkc412|cep-701|wz4002|bibw2992	NCI-H1975
+PMC3576842	Var	10094	10099	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	pkc412|cep-701|bibw2992|wz4002|pf00299804|ci-1033|hki-272|gefitinib	NCI-H1975
+PMC3576842	Var	3047	3052	T315I	BCR-ABL	Protein	SUB	T|315|I	p.T315I	chronic myeloid leukemias	(gefitinib|erlotinib)	-
+PMC3576842	Var	26356	26361	T709M	EGFR	Protein	SUB	T|709|M	p.T709M	-	pkc412|cep-701|wz4002|bibw2992	-
+PMC3582139	Var	1634	1639	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	plx4720|vemurafenib	SM1|SM1WT1
+PMC3582139	Var	28992	28998	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	Melanoma	-	-
+PMC3593920	Var	6372	6377	D549G	BRAF	Protein	SUB	D|549|G	p.D549G	Melanoma	-	-
+PMC3593920	Var	6379	6384	D594N	BRAF	Protein	SUB	D|594|N	p.D594N	Melanoma	-	-
+PMC3593920	Var	6591	6595	G13D	NRAS	Protein	SUB	G|13|D	p.G13D	Melanoma	-	-
+PMC3593920	Var	6365	6370	G469E	BRAF	Protein	SUB	G|469|E	p.G469E	Melanoma	-	-
+PMC3595355	Var	22582	22586	G12D	KRAS	Protein	SUB	G|12|D	p.G12D	Melanoma	-	WM3670|WM3629
+PMC3595355	Var	16245	16254	c.3870G>A	NF1	DNA	SUB	G|3870|A	c.3870G>A	Melanoma	-	WM3670|A375
+PMC3595355	Var	16259	16268	c.6921G>A	NF1	DNA	SUB	G|6921|A	c.6921G>A	Melanoma	-	WM3670|A375
+PMC3595355	Var	22904	22909	D594G	BRAF	Protein	SUB	D|594|G	p.D594G	Melanoma	-	-
+PMC3595355	Var	10274	10279	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	vemurafenib|plx4032	-
+PMC3598078	Var	12346	12350	D91R	hTRM9L	Protein	SUB	D|91|R	p.D91R	(breast carcinoma)|(colorectal carcinoma)|(cervix carcinoma)|(testicular carcinoma)	5-foa	SW620 
+PMC3598078	Var	12355	12360	I108N	hTRM9L	Protein	SUB	I|108|N	p.I108N	(breast carcinoma)|(colorectal carcinoma)|(cervix carcinoma)|(testicular carcinoma)	5-foa	SW620 
+PMC3598078	Var	12984	12989	R410E	hTRM9L	Protein	SUB	R|410|E	p.R410E	(breast carcinoma)|(colorectal carcinoma)|(cervix carcinoma)|(testicular carcinoma)	5-foa	SW620 
+PMC3636434	Var	1329	1334	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	belinostat|17-dmag|gefitinib|erlotinib	H820|H1975
+PMC3636434	Var	2496	2501	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	gefitinib	-
+PMC3638050	Var	1005	1010	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	malignant astrocytoma|MA|melanoma	plx4720|plx4032|gsk2118436|sorafenib	DBTRG-05MG|AM-38|NMC-G1|KG-1-C
+PMC3638050	Var	4574	4580	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	malignant astrocytoma|MA|melanoma	(plx4720)	-
+PMC3651754	Var	25932	25936	E17K	AKT	Protein	SUB	E|17|K	p.E17K	glioblastomas|GBM	erlotinib	-
+PMC3651754	Var	25916	25922	S2215Y	mTOR	Protein	SUB	S|2215|Y	p.S2215Y	glioblastomas|GBM	erlotinib	-
+PMC3653905	Var	5704	5773	EGFR mutant human lung adenocarcinoma cell lines PC-9 (del E746_A750)	EGFR	Protein	DEL	|746_750|	p.746_750del	adenocarcinomas	mTOR inhibitor|temsirolimus|everolimus	-
+PMC3653905	Var	2103	2108	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	gefitinib|erlotinib	-
+PMC3653905	Var	20409	20414	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	(mTOR inhibitor|temsirolimus|everolimus)	-
+PMC3672953	Var	27714	27720	F1174L	ALK	Protein	SUB	F|1174|L	p.F1174L	neuroblastoma	-	-
+PMC3674414	Var	0	1	Del746-750	EGFR	Protein	DEL	|746_750|	p.746_750del	lung cancer	pqip|IGF-1R TKI|OSI-906	NSCLC cell lines 
+PMC3674414	Var	11976	11981	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	pqip|IGF-1R TKI|OSI-906	NSCLC cell lines 
+PMC3676084	Var	31529	31536	A11712G	VSV-rp30	DNA	SUB	A|11712|G	c.11712A>G	Melanoma	-	-
+PMC3676084	Var	31542	31549	C11736T	VSV-rp30	DNA	SUB	C|11736|T	c.11736C>T	Melanoma	-	-
+PMC3676084	Var	10782	10788	C1772T	VSV-rp30	DNA	SUB	C|1772|T	c.1772C>T	Melanoma	-	-
+PMC3676084	Var	31521	31527	G7693T	VSV-rp30	DNA	SUB	G|7693|T	c.7693G>T	Melanoma	-	-
+PMC3676084	Var	32369	32374	D223Y	VSV-rp30	Protein	SUB	D|223|Y	p.D223Y	Melanoma	-	-
+PMC3676084	Var	32175	32180	S126L	VSV-rp30	Protein	SUB	S|126|L	p.S126L	glioblastoma|gliomas	-	-
+PMC3676084	Var	21335	21340	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	-	-
+PMC3676084	Var	21344	21349	V600K	BRAF	Protein	SUB	V|600|K	p.V600K	Melanoma	-	-
+PMC3681504	Var	10059	10064	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	vemurafenib|imatinib	451Lu-R
+PMC3688691	Var	7750	7759	Asp820Ala	KIT	Protein	SUB	D|820|A	p.D820A	Gastrointestinal Stromal Tumor	-	GIST48
+PMC3688691	Var	12301	12310	Val560Asp	KIT	Protein	SUB	V|560|D	p.V560D	Gastrointestinal Stromal Tumor|chronic myeloid leukemia	dasatinib|nilotinib	GIST48
+PMC3688691	Var	5936	5952	Val555_Leu576del	KIT	Protein	DEL	|555_576|	p.555_576del	Gastrointestinal Stromal Tumor	nilotinib|dasatinib|sorafenib|imatinib	-
+PMC3688691	Var	4812	4828	Trp557_Lys558del	KIT	Protein	DEL	|557_558|	p.557_558del	Gastrointestinal Stromal Tumor|chronic myeloid leukemia	Sorafenib 	-
+PMC3688691	Var	5909	5931	Ala502_Tyr503insAlaTyr	KIT	Protein	INS	|502_503|A,Y	p.A502_Y503insAY	Gastrointestinal Stromal Tumor	imatinib|nilotinib	-
+PMC3688691	Var	4662	4671	Asp816Val	KIT	Protein	SUB	D|816|V	p.D816V	Gastrointestinal Stromal Tumor|chronic myeloid leukemia	-	-
+PMC3688691	Var	12347	12356	Asp820Gly	KIT	Protein	SUB	D|820|G	p.D820G	Gastrointestinal Stromal Tumor	nilotinib	-
+PMC3688691	Var	20485	20494	Asp842Val	PDGFRA	Protein	SUB	D|842|V	p.D842V	Gastrointestinal Stromal Tumor	dasatinib	-
+PMC3688691	Var	12361	12370	Asn822Lys	KIT	Protein	SUB	N|822|K	p.N822K	Gastrointestinal Stromal Tumor	-	-
+PMC3688691	Var	12329	12338	Thr670Ile	KIT	Protein	SUB	T|670|I	p.T670I	Gastrointestinal Stromal Tumor|chronic myeloid leukemia	Sorafenib 	-
+PMC3688691	Var	12315	12324	Val654Ala	KIT	Protein	SUB	V|654|A	p.V654A	Gastrointestinal Stromal Tumor	nilotinib	-
+PMC3688791	Var	5561	5570	Tyr591His	FLT3	Protein	SUB	Y|591|H	p.Y591H	acute myeloid leukemias	-	MV4-11
+PMC3688791	Var	5367	5376	Tyr599Phe	FLT3	Protein	SUB	Y|599|F	p.Y599F	acute myeloid leukemias	-	MOLM-14|MOLM-13
+PMC3688791	Var	5624	5633	Asp835Glu	FLT3	Protein	SUB	D|835|E	p.D835E	acute myeloid leukemias	-	KOCL-48
+PMC3688791	Var	2678	2753	insertion of a glycine and a serine between amino acids 840 and 841 of FLT3	FLT3	Protein	INS	|840_841|GS	p.840_841insGS	acute myeloid leukemias	-	-
+PMC3694361	Var	3577	3582	K642E	KIT	Protein	SUB	K|642|E	p.K642E	Gastrointestinal Stromal Tumor	-	GIST882
+PMC3694361	Var	3847	3852	D820A	KIT	Protein	SUB	D|820|A	p.D820A	Gastrointestinal Stromal Tumor	-	GIST48
+PMC3694361	Var	3768	3773	V560D	KIT	Protein	SUB	V|560|D	p.V560D	Gastrointestinal Stromal Tumor	-	GIST48
+PMC3695051	Var	10273	10277	Q61K	NRAS	Protein	SUB	Q|61|K	p.Q61K	Melanoma	plx4720	WM793
+PMC3695051	Var	10151	10156	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	vemurafenib|plx4720	WM793
+PMC3695051	Var	7445	7449	G12V	HRAS	Protein	SUB	G|12|V	p.G12V	melanoma	plx4720	-
+PMC3701070	Var	17780	17785	V600K	BRAF	Protein	SUB	V|600|K	p.V600K	(Skin Lesions)|(melanomas)	dabrafenib|gsk2118436	YUMAC
+PMC3701070	Var	17757	17762	V600D	BRAF	Protein	SUB	V|600|D	p.V600D	(Skin Lesions)|(melanomas)	dabrafenib|gsk2118436	WM-115
+PMC3701070	Var	15441	15446	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	dabrafenib|mek inhibitor|trametinib	A375P|SK-MEL-28
+PMC3701070	Var	2956	2962	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	Melanoma	(dabrafenib|BRAF inhibitor)	-
+PMC3701070	Var	5327	5332	Y340D	CRAF	Protein	SUB	Y|340|D	p.Y340D	(Skin Lesions)|(melanomas)	(dabrafenib|BRAF inhibitor)	-
+PMC3701070	Var	5333	5338	Y341D	CRAF	Protein	SUB	Y|341|D	p.Y341D	(Skin Lesions)|(melanomas)	(dabrafenib|BRAF inhibitor)	-
+PMC3709972	Var	32338	32344	L1601P	NOTCH1	Protein	SUB	L|1601|P	p.L1601P	Osteosarcoma	thapsigargin	U2OS|MOLT4|KOPTK1
+PMC3709972	Var	25928	25934	R1549Q	EGF	Protein	SUB	R|1549|Q	p.R1549Q	squamous cell carcinomas	thapsigargin	-
+PMC3709972	Var	28568	28573	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	vemurafenib	-
+PMC3716998	Var	18055	18059	G12S	KRAS	Protein	SUB	G|12|S	p.G12S	lung cancer	(gefitinib)	-
+PMC3716998	Var	24962	24967	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	gefitinib	-
+PMC3716998	Var	18064	18068	Q61H	KRAS	Protein	SUB	Q|61|H	p.Q61H	lung cancer	(gefitinib)	-
+PMC3717159	Var	24265	24271	D1228N	MET	Protein	SUB	D|1228|N	p.D1228N	-	ly2801653	-
+PMC3717159	Var	14077	14083	L1195V	MET	Protein	SUB	L|1195|V	p.L1195V	-	ly2801653	-
+PMC3717159	Var	24027	24033	M1131T	MET	Protein	SUB	M|1131|T	p.M1131T	-	ly2801653	-
+PMC3717159	Var	24273	24279	M1250T	MET	Protein	SUB	M|1250|T	p.M1250T	-	ly2801653	-
+PMC3717159	Var	23787	23793	S1040P	MET	Protein	SUB	S|1040|P	p.S1040P	-	ly2801653	-
+PMC3717159	Var	14032	14038	V1092I	MET	Protein	SUB	V|1092|I	p.V1092I	-	ly2801653	-
+PMC3717159	Var	24838	24844	V1220I	MET	Protein	SUB	V|1220|I	p.V1220I	-	ly2801653	-
+PMC3728309	Var	1294	1299	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	nvp-lde225|plx4032	UACC 257|LOX IMVI
+PMC3728309	Var	23915	23919	Q61R	NRAS	Protein	SUB	Q|61|R	p.Q61R	Melanoma	(NVP-LDE225)	-
+PMC3730045	Var	960	964	G13D	KRAS	Protein	SUB	G|13|D	p.G13D	breast cancer|BC	flavopiridol|(FPD)|sorafenib|(SFN)	MDA-MB-231
+PMC3730045	Var	974	979	G464V	BRAF	Protein	SUB	G|464|V	p.G464V	Breast Cancer	flavopiridol|(FPD)|sorafenib|(SFN)	MDA-MB-231
+PMC3730045	Var	5225	5230	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	-	sorafenib|(SFN)	-
+PMC3730369	Var	762	775	E746-A750 del	EGFR	Protein	DEL	|746_750|	p.746_750del	lung cancer	Iressa|gefitinib|morpholino-[124I]IPQA	H1299
+PMC3730369	Var	12849	12854	L858R	EGFR	Protein	SUB	L|858|R	p.L858R	lung cancer	gefitinib|morpholino-[124I]IPQA	H1299
+PMC3730369	Var	26975	27000	L747-S752 del EGFR mutant	EGFR	Protein	DEL	|747_752|	p.747_752del	nonsmall cell lung cancer|NSCLC	Iressa|gefitinib|morpholino-[124I]IPQA	-
+PMC3730369	Var	24740	24744	G12D	Kras	Protein	SUB	G|12|D	p.G12D	pancreatic cancer	Iressa|gefitinib|morpholino-[124I]IPQA	-
+PMC3730369	Var	6515	6520	T790 M	EGFR	Protein	SUB	T|790|M	p.T790M	lung cancer	gefitinib	-
+PMC3756952	Var	24727	24732	T315I	Bcr-Abl	Protein	SUB	T|315|I	p.T315I	Chronic myeloid leukemia	dcc-2036|nilotinib	EOL-1|BaF3
+PMC3756952	Var	10550	10555	T674I	FIP1L1-PDGFRA	Protein	SUB	T|674|I	p.T674I	Chronic myeloid leukemia|CML|hypereosinophilic syndromes|HES	imatinib|dcc-2036|nilotinib|sorafenib	BaF3
+PMC3756952	Var	24539	24544	D842V	FIP1L1-PDGFRA	Protein	SUB	D|842|V	p.D842V	(Chronic myeloid leukemia)|(CML)|(hypereosinophilic syndromes)|(HES)	imatinib	-
+PMC3756952	Var	24573	24578	L629P	FIP1L1-PDGFRA	Protein	SUB	L|629|P	p.L629P	(Chronic myeloid leukemia)|(CML)|(hypereosinophilic syndromes)|(HES)	imatinib	-
+PMC3756952	Var	24563	24568	S601P	FIP1L1-PDGFRA	Protein	SUB	S|601|P	p.S601P	(Chronic myeloid leukemia)|(CML)|(hypereosinophilic syndromes)|(HES)	imatinib	-
+PMC3784531	Var	2741	2746	D814V	KIT	Protein	SUB	D|814|V	p.D814V	acute myeloid leukemias	imatinib|NSC23766|EHop-016|ipa-3|monothioglycerol	Kasumi-1
+PMC3784531	Var	32202	32207	D816V	KIT	Protein	SUB	D|816|V	p.D816V	systemic mastocytosis	NSC23766|EHop-016	Kasumi-1
+PMC3784531	Var	32192	32197	V560G	KIT	Protein	SUB	V|560|G	p.V560G	systemic mastocytosis	monothioglycerol	HMC1
+PMC3784531	Var	22404	22409	K299R	Pak	Protein	SUB	K|299|R	p.K299R	acute?myeloid?leukemia|AML	ipa-3	-
+PMC3784531	Var	34850	34855	T423E	PAK1	Protein	SUB	T|423|E	p.T423E	-	(EHop-016)	-
+PMC3789171	Var	26289	26293	Q61H	KRAS	Protein	SUB	Q|61|H	p.Q61H	lung cancer	(atorvastatin|iressa|gefitinib)	H460
+PMC3789171	Var	26320	26324	G12R	KRAS	Protein	SUB	G|12|R	p.G12R	lung cancer	(atorvastatin|iressa|gefitinib)	H157
+PMC3789171	Var	26330	26335	G251C	PTEN	Protein	SUB	G|251|C	p.G251C	lung cancer	(atorvastatin|iressa|gefitinib)	H157
+PMC3789171	Var	26431	26435	G12V	KRAS	Protein	SUB	G|12|V	p.G12V	lung cancer	iressa|gefitinib|(atorvastatin)	Calu3
+PMC3789171	Var	26271	26275	G12C	KRAS	Protein	SUB	G|12|C	p.G12C	lung cancer	(atorvastatin|iressa|gefitinib)	Calu1
+PMC3789171	Var	12914	12919	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	lung cancer	atorvastatin|iressa|gefitinib	A549|Calu1|H460
+PMC3789171	Var	26252	26256	G12S	KRAS	Protein	SUB	G|12|S	p.G12S	lung cancer	(atorvastatin|iressa|gefitinib)	A549
+PMC3827685	Var	11153	11159	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	breast cancer	ly294002|disulfiram|(DSF)|DSF-Cu	MDA-MB-231|T47D|BT20
+PMC3827685	Var	1245	1250	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	breast cancer	ly294002|disulfiram|(DSF)|DSF-Cu	MDA-MB-231|MCF7
+PMC3827685	Var	11143	11148	P539R	PIK3CA	Protein	SUB	P|539|R	p.P539R	breast cancer	DSF-Cu	BT20
+PMC3836589	Var	18983	18991	c.*19T>C	PIK3CA	DNA	SUB	T|*19|C	c.*19T>C	colorectal cancer	saracatinib	-
+PMC3836589	Var	21338	21343	E542K	PIK3CA	Protein	SUB	E|542|K	p.E542K	colorectal cancer	saracatinib	-
+PMC3836589	Var	21348	21353	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	colorectal cancer	saracatinib	-
+PMC3836589	Var	21441	21447	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	colorectal cancer	saracatinib	-
+PMC3850695	Var	13618	13623	E542K	PIK3CA	Protein	SUB	E|542|K	p.E542K	Gastric Cancer|GC	AZD5363	HGC27
+PMC3850695	Var	13625	13630	E545D	PIK3CA	Protein	SUB	E|545|D	p.E545D	(Gastric Cancer)|(GC)	-	-
+PMC3850695	Var	13632	13637	E545K	PIK3CA	Protein	SUB	E|545|K	p.E545K	(Gastric Cancer)|(GC)	-	-
+PMC3850695	Var	13647	13653	H1047L	PIK3CA	Protein	SUB	H|1047|L	p.H1047L	(Gastric Cancer)|(GC)	-	-
+PMC3850695	Var	13639	13645	H1047R	PIK3CA	Protein	SUB	H|1047|R	p.H1047R	(Gastric Cancer)|(GC)	azd5363	-
+PMC3858560	Var	6277	6282	G395A	IDH1	DNA	SUB	G|395|A	c.395G>A	Astrocytoma	(5-azacytidine)	-
+PMC3858560	Var	10013	10018	R132H	IDH1	Protein	SUB	R|132|H	p.R132H	astrocytomas	5-azacytidine	-
+PMC3930354	Var	1001	1006	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	azd6244|vemurafenib	M14|M288|SK-MEL28
+PMC3930354	Var	15439	15445	T1799A	BRAF	DNA	SUB	T|1799|A	c.1799T>A	Melanoma	vemurafenib	-
+PMC3934165	Var	1885	1890	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	plx4720|dabrafenib|mek inhibitor|vemurafenib	MEL624
+PMC3935617	Var	3371	3376	G129R	PTEN	Protein	SUB	G|129|R	p.G129R	glioblastoma|breast cancer	-	-
+PMC3935617	Var	3344	3349	G302R	PTEN-Long	Protein	SUB	G|302|R	p.G302R	glioblastoma|breast cancer	-	-
+PMC3951107	Var	10156	10160	G12D	Kras	Protein	SUB	G|12|D	p.G12D	colonic tumors	PF-04691502	-
+PMC3963828	Var	15026	15031	K250R	FOXP3	Protein	SUB	K|250|R	p.K250R	-	mg132|garcinol	HEK 293T
+PMC3963828	Var	15032	15037	K252R	FOXP3	Protein	SUB	K|252|R	p.K252R	-	mg132|garcinol	HEK 293T
+PMC3963828	Var	28240	28245	K227R	FOXP3	Protein	SUB	K|227|R	p.K227R	-	(Ex-527)	-
+PMC3963828	Var	27466	27471	K268R	FOXP3	Protein	SUB	K|268|R	p.K268R	-	Ex-527	-
+PMC3963828	Var	18065	18069	K31R	FOXP3	Protein	SUB	K|31|R	p.K31R	-	garcinol	-
+PMC3969270	Var	10886	10891	R273H	p53	Protein	SUB	R|273|H	p.R273H	-	-	MDA-MB468|H1299
+PMC3969270	Var	10870	10875	R175H	p53	Protein	SUB	R|175|H	p.R175H	-	-	H1299|SK-BR3
+PMC3969270	Var	10877	10882	R248Q	p53	Protein	SUB	R|248|Q	p.R248Q	-	-	H1299
+PMC3969270	Var	10224	10229	R172H	p53	Protein	SUB	R|172|H	p.R172H	-	-	-
+PMC3969270	Var	1966	1971	R270H	p53	Protein	SUB	R|270|H	p.R270H	-	-	-
+PMC3975259	Var	10878	10883	D835Y	FLT3	Protein	SUB	D|835|Y	p.D835Y	acute myeloid leukemias	pkc412|ac220|G-749	BaF3
+PMC3975259	Var	14089	14094	F691L	FLT3	Protein	SUB	F|691|L	p.F691L	acute myeloid leukemias	pkc412|ac220|G-749	BaF3
+PMC3975259	Var	14035	14040	N676D	FLT3	Protein	SUB	N|676|D	p.N676D	acute myeloid leukemias	pkc412|ac220|G-749	BaF3
+PMC4120472	Var	15338	15343	V600E	BRAF	Protein	SUB	V|600|E	p.V600E	Melanoma	mek inhibitor|plx4720	WM35|A375
+PMC4134510	Var	3881	3886	E255V	Bcr-Abl	Protein	SUB	E|255|V	p.E255V	Chronic Myelogenous Leukemia	GNF-6|GNF-7	BA/F3
+PMC4134510	Var	533	538	F317L	Bcr-Abl	Protein	SUB	F|317|L	p.F317L	Chronic Myelogenous Leukemia	GNF-6|GNF-7	BA/F3
+PMC4134510	Var	519	524	G250E	Bcr-Abl	Protein	SUB	G|250|E	p.G250E	Chronic Myelogenous Leukemia	GNF-6|GNF-7	BA/F3
+PMC4134510	Var	5002	5007	M351T	Bcr-Abl	Protein	SUB	M|351|T	p.M351T	Chronic Myelogenous Leukemia	GNF-6|GNF-7	BA/F3
+PMC4134510	Var	10327	10332	T315I	Bcr-Abl	Protein	SUB	T|315|I	p.T315I	Chronic Myelogenous Leukemia	GNF-6|GNF-7|GNF-8|imatinib	BA/F3
+PMC4134510	Var	6907	6912	G697R	FLT3	Protein	SUB	G|697|R	p.G697R	(chronic myeloid leukemia)|(CML)	su5614|pkc412	-
+PMC4134510	Var	6961	6966	T341M	c-SRC	Protein	SUB	T|341|M	p.T341M	(chronic myeloid leukemia)|(CML)	imatinib	-
+PMC4134510	Var	7012	7017	T681I	PDGFR	Protein	SUB	T|681|I	p.T681I	(chronic myeloid leukemia)|(CML)	imatinib	-
+PMC4134510	Var	6823	6828	T790M	EGFR	Protein	SUB	T|790|M	p.T790M	(chronic myeloid leukemia)|(CML)	erlotinib|imatinib	-
+PMC4134510	Var	7081	7086	V561M	FGFR1	Protein	SUB	V|561|M	p.V561M	(chronic myeloid leukemia)|(CML)	-	-

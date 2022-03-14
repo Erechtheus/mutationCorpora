@@ -1,0 +1,64 @@
+﻿Adenocarcinoma
+Astrocytoma
+B-Cell lymphoma
+B-cell leukemia
+B-cell malignancies
+Breast Cancer
+CRC
+Cardio-facio-cutaneous syndrome
+Chronic Myelogenous Leukemia
+Chronic myeloid leukemia
+DLBCL
+Gastric Cancer
+Gastrointestinal Stromal Tumor
+Hepatocellular carcinoma
+Leukemia
+Myelogenous Chronic BCR-ABL Positive
+Osteosarcoma
+Ph + leukemias
+Skin Lesions
+Thrombocytosis
+Uveal melanoma
+acute myeloid leukemias
+anaplastic large cell lymphomas
+bladder cancer
+brain tumor
+cervix carcinoma
+colon cancer
+cutaneous melanoma
+diffused large B-cell lymphomas
+extramedullary hematopoeisis
+glioblastoma
+glioblastoma multiforme
+gliomas
+hairy cell leukemia
+hematologic malignancies
+hypereosinophilic syndromes
+infiltrative brain tumor
+juvenile myelomonocytic leukemia
+leukocytosis
+liver cancer
+lung cancer
+lymphomas
+malignant astrocytoma
+melanoma
+myelofibrosis
+myeloproliferative neoplasms
+neuroblastoma
+non-small cell lung cancer
+oral cancer
+ovarian cancer
+pancreatic adenocarcinoma
+pancreatic cancer
+pancreatic ductal adenocarcinomas
+polycythemia vera
+primary myelofibrosis
+prostate cancer
+prostatic tumor
+renal cell carcinoma
+rhabdomyosarcomas
+somatic cancer
+squamous cell carcinomas
+systemic mastocytosis
+testicular carcinoma
+thyroid cancer
