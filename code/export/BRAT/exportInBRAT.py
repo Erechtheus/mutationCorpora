@@ -1,6 +1,7 @@
 import json
 import os
 from pathlib import Path
+from palettable.colorbrewer.qualitative import Dark2_7
 
 inFolder="../../../corpora/json/"
 outFOlder="../../../corpora/BRAT/"
@@ -22,7 +23,7 @@ for path in Path(inFolder).rglob('*.json'):
         corpus = json.load(f)
     f.close()
 
-    #### A.) Geerate <BRAT config file>
+    #### A.) <Generate BRAT config ("annotation.conf") file>
     annotationFile = open(outFOlder + folderName + "/" + "annotation.conf", "w")
     #1.) entities
     annotationFile.write("[entities]\n")
@@ -51,7 +52,21 @@ for path in Path(inFolder).rglob('*.json'):
     annotationFile.write("[events]\n")
     annotationFile.write("[attributes]\n")
     annotationFile.close()
-    #### </BRAT config file>
+    ####  </Generate BRAT config ("annotation.conf") file>
+
+    #### B.) <Generate BRAT config ("visual.conf") file>
+    annotationFile = open(outFOlder + folderName + "/" + "visual.conf", "w")
+    annotationFile.write("[labels]")
+    annotationFile.write("\n")
+    annotationFile.write("[drawing]")
+    annotationFile.write("\n")
+    tmpEntities  = sorted(set([item["type"] for sublist in tmpEntities for item in sublist]))
+    for i in range(len(tmpEntities)):
+        annotationFile.write(tmpEntities[i])
+        annotationFile.write("\tbgColor:")
+        annotationFile.write(Dark2_7.hex_colors[i%Dark2_7.number])
+        annotationFile.write("\n")
+    annotationFile.close()
 
 
     for document in corpus["documents"]:
