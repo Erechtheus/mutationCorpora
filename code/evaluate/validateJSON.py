@@ -1,21 +1,33 @@
 from jsonschema import validate
 
 schema = {
-    "description": "An entity",
-    "type" : "object",
-    "properties" : {
-        "ID" : {"type" : "string"},
-        "type" : {"type" : "string"},
-        "begin" : {"type" : "number"},
-        "end" : {"type" :"number"},
-        "text" : {"type" : "string"},
+    "description" : "List of named entities",
+    "type": "array",
+    "items": {
+        "description": "Instance of named entity",
+        "type" : "object",
+        "properties" : {
+            "ID" : {"type" : "string"},
+            "type" : {"type" : "string"},
+            "begin" : {"type" : "number"},
+            "end" : {"type" :"number"},
+            "text" : {"type" : "string"},
+        }
     }
 }
 
-validate(instance={
+validate(instance=[{
                         "ID": "T4",
                         "type": "DNA_Mutation",
                         "begin": 1114,
                         "end": 1122,
                         "text": "mutation"
-                    }, schema=schema)
+                    },
+                    {
+                        "ID": "T6",
+                        "type": "DNA_Mutation",
+                        "begin": 137,
+                        "end": 146,
+                        "text": "Mutations"
+                    }
+], schema=schema)
