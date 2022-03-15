@@ -1,15 +1,17 @@
 from jsonschema import validate
 
-schema = {
-    "description" : "List of named entities",
-    "type": "array",
-    "minItems": 0,
-    "prefixItems" : {
-        "ID" : {"type" : "string"},
-        "type" : {"type" : "string"},
-        "begin" : {"type" : "number"},
-        "end" : {"type" :"number"},
-        "text" : {"type" : "string"},
+entitySchema = {
+    "entities" : {
+        "description" : "List of named entities",
+        "type": "array",
+        "minItems": 0,
+        "prefixItems" : {
+            "ID" : {"type" : "string"},
+            "type" : {"type" : "string"},
+            "begin" : {"type" : "number"},
+            "end" : {"type" :"number"},
+            "text" : {"type" : "string"},
+        }
     }
 }
 entities = [{
@@ -28,4 +30,5 @@ entities = [{
                     }
 ]
 
-validate(instance=entities, schema=schema)
+#validate(instance=entities, schema=schema)
+validate(instance={"entities" : entities}, schema=entitySchema)
