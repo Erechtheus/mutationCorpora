@@ -29,6 +29,20 @@ relationSchema = {
     }
 }
 
+equivalenceSchema = {
+    "equivalences": {
+        "description": "List of equivalences",
+        "type": "array",
+        "minItems": 0,
+        "prefixItems": {
+            "ID": {"type": "string"},
+            "type": {"type": "string"},
+            "arg1": {"type": "number"},
+            "arg2": {"type": "number"}
+        }
+    }
+}
+
 entities = { "entities" :
     [{
                         "ID": "T4",
@@ -64,5 +78,23 @@ relations = {
                 ]
 }
 
+equivalences = {
+"equivalences": [
+                    {
+                        "ID": "E0",
+                        "type": "alias",
+                        "arg1": "T9",
+                        "arg2": "T24"
+                    },
+                    {
+                        "ID": "E1",
+                        "type": "alias",
+                        "arg1": "T1",
+                        "arg2": "T20"
+                    }
+    ]
+}
+
 validate(instance=entities, schema=entitySchema)
 validate(instance=relations, schema=relationSchema)
+validate(instance=equivalences, schema=equivalenceSchema)
