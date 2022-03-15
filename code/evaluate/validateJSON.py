@@ -10,11 +10,27 @@ entitySchema = {
             "type" : {"type" : "string"},
             "begin" : {"type" : "number"},
             "end" : {"type" :"number"},
-            "text" : {"type" : "string"},
+            "text" : {"type" : "string"}
         }
     }
 }
-entities = [{
+
+relationSchema = {
+    "relations" : {
+        "description" : "List of relations",
+        "type": "array",
+        "minItems": 0,
+        "prefixItems" : {
+            "ID" : {"type" : "string"},
+            "type" : {"type" : "string"},
+            "arg1" : {"type" : "number"},
+            "arg2" : {"type" :"number"}
+        }
+    }
+}
+
+entities = { "entities" :
+    [{
                         "ID": "T4",
                         "type": "DNA_Mutation",
                         "begin": 1114,
@@ -29,6 +45,24 @@ entities = [{
                         "text": "Mutations"
                     }
 ]
+}
 
-#validate(instance=entities, schema=schema)
-validate(instance={"entities" : entities}, schema=entitySchema)
+relations = {
+"relations": [
+                    {
+                        "ID": "R3",
+                        "type": "Has_Mutation",
+                        "arg1": "T1",
+                        "arg2": "T6"
+                    },
+                    {
+                        "ID": "R1",
+                        "type": "Has_Mutation",
+                        "arg1": "T2",
+                        "arg2": "T3"
+                    }
+                ]
+}
+
+validate(instance=entities, schema=entitySchema)
+validate(instance=relations, schema=relationSchema)
