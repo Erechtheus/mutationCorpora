@@ -12,8 +12,7 @@ schema = {
         "text" : {"type" : "string"},
     }
 }
-
-validate(instance=[{
+entities = [{
                         "ID": "T4",
                         "type": "DNA_Mutation",
                         "begin": 1114,
@@ -27,4 +26,6 @@ validate(instance=[{
                         "end": 146,
                         "text": "Mutations"
                     }
-], schema=schema)
+]
+
+validate(instance=entities, schema=schema)
