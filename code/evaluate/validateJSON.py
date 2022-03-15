@@ -4,16 +4,12 @@ schema = {
     "description" : "List of named entities",
     "type": "array",
     "minItems": 0,
-    "items": {
-        "description": "Instance of named entity",
-        "type" : "object",
-        "properties" : {
-            "ID" : {"type" : "string"},
-            "type" : {"type" : "string"},
-            "begin" : {"type" : "number"},
-            "end" : {"type" :"number"},
-            "text" : {"type" : "string"},
-        }
+    "prefixItems" : {
+        "ID" : {"type" : "string"},
+        "type" : {"type" : "string"},
+        "begin" : {"type" : "number"},
+        "end" : {"type" :"number"},
+        "text" : {"type" : "string"},
     }
 }
 
