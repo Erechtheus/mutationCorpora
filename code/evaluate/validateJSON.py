@@ -3,6 +3,7 @@ from jsonschema import validate
 schema = {
     "description" : "List of named entities",
     "type": "array",
+    "minItems": 0,
     "items": {
         "description": "Instance of named entity",
         "type" : "object",
