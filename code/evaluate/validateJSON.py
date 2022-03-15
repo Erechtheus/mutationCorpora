@@ -43,11 +43,23 @@ equivalenceSchema = {
     }
 }
 
-entities = { "entities" :
-    [{
+documentSchema = {
+  "title": "Document",
+  "description": "A simple document",
+  "type": "object",
+  "properties": {
+      "ID" : {"type": "string"},
+      "text" : {"type": "string"},
+      "entities" : entitySchema["entities"],
+      "relations" : relationSchema["relations"],
+      "equivalences" : equivalenceSchema["equivalences"]
+  }
+}
+
+entities = [{
                         "ID": "T4",
                         "type": "DNA_Mutation",
-                        "begin": 1114,
+                        "begin": "1114",
                         "end": 1122,
                         "text": "mutation"
                     },
@@ -59,10 +71,9 @@ entities = { "entities" :
                         "text": "Mutations"
                     }
 ]
-}
 
-relations = {
-"relations": [
+
+relations = [
                     {
                         "ID": "R3",
                         "type": "Has_Mutation",
@@ -76,10 +87,9 @@ relations = {
                         "arg2": "T3"
                     }
                 ]
-}
 
-equivalences = {
-"equivalences": [
+
+equivalences =  [
                     {
                         "ID": "E0",
                         "type": "alias",
@@ -93,8 +103,17 @@ equivalences = {
                         "arg2": "T20"
                     }
     ]
+
+
+document = {
+    "ID": "21412012",
+    "text": "Clinical",
+    "entities" : entities,
+    "relations" : relations,
+    "equivalences":equivalences
 }
 
-validate(instance=entities, schema=entitySchema)
-validate(instance=relations, schema=relationSchema)
-validate(instance=equivalences, schema=equivalenceSchema)
+validate(instance={"entitie" : entities}, schema=entitySchema)
+validate(instance={"relations": relations}, schema=relationSchema)
+validate(instance={"equivalences":equivalences}, schema=equivalenceSchema)
+validate(instance=document, schema=documentSchema)
