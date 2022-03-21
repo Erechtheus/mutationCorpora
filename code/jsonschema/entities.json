@@ -1,0 +1,24 @@
+{
+  "title" : "entities",
+    "description": "Field to put all entities",
+    "type": "object",
+    "properties": {
+        "entities": {
+            "title" : "entity",
+            "description": "List of named entities",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "ID": {"type": "string"},
+                    "type": {"type": "string"},
+                    "begin": {"type": "number"},
+                    "end": {"type": "number"},
+                    "text": {"type": "string"}
+                },
+                "required": ["ID", "type", "begin", "end", "text"]
+            }
+        }
+    },
+    "required": ["entities"]
+}
