@@ -1,7 +1,7 @@
 from jsonschema import validate
 import json
 
-f = open('code/jsonschema/entity.json')
+f = open('code/jsonschema/entities.json')
 newSchema = json.load(f)
 f.close()
 

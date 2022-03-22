@@ -1,21 +1,30 @@
 {
+  "title": "Documents",
+  "description": "List of documents",
+  "type": "array",
+  "items": {
     "title": "Document",
-    "description": "A simple document",
+    "description": "A single document",
     "type": "object",
     "properties": {
-        "ID": {"type": "string"},
-        "text": {"type": "string"},
-        "entities": {
-            "$ref": "file:code/jsonschema/entity.json"
-        },
-        "relations": {
-            "$ref": "file:code/jsonschema/relation.json"
-        }
+      "ID": {
+        "type": "string"
+      },
+      "text": {
+        "type": "string"
+      },
+      "entities": {
+        "$ref": "file:code/jsonschema/entity.json"
+      },
+      "relations": {
+        "$ref": "file:code/jsonschema/relation.json"
+      }
     },
     "required": [
-        "ID",
-        "text",
-        "entities",
-        "relations"
+      "ID",
+      "text",
+      "entities",
+      "relations"
     ]
+  }
 }

@@ -1,31 +1,9 @@
 from jsonschema import validate
+import json
 
-schema = {
-    "title": "Documents",
-    "description": "Final corpus representation with entities, relations, and equivalences",
-    "type": "object",
-    "properties": {
-        "referenceURL": {
-            "title": "URL",
-            "description": "URL-refenences ",
-            "type": "string"
-        },
-        "version": {
-            "title": "Version",
-            "description": "Version Number (starts with V1.0)",
-            "type": "string"
-        },
-        "bibtex": {
-            "title": "Bibtex",
-            "description": "Citation in Bibtex format",
-            "type": "string"
-        },
-        "documents": {
-            "$ref": "file:code/jsonschema/document.json"
-        }
-    },
-    "required": ["referenceURL", "version", "bibtex"]
-}
+f = open('code/jsonschema/corpus.json')
+corpusSchema = json.load(f)
+f.close()
 
 # We dissalow missing entity text
 validate(instance={
@@ -34,4 +12,4 @@ validate(instance={
     "bibtex": "dsds",
     "documents" : []
 },
-         schema=schema)
+         schema=corpusSchema)

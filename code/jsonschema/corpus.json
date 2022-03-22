@@ -1,0 +1,26 @@
+{
+    "title": "Documents",
+    "description": "Final corpus representation with entities, relations, and equivalences",
+    "type": "object",
+    "properties": {
+        "referenceURL": {
+            "title": "URL",
+            "description": "URL-references ",
+            "type": "string"
+        },
+        "version": {
+            "title": "Version",
+            "description": "Version Number (starts with V1.0)",
+            "type": "string"
+        },
+        "bibtex": {
+            "title": "Bibtex",
+            "description": "Citation in Bibtex format",
+            "type": "string"
+        },
+        "documents": {
+            "$ref": "file:code/jsonschema/document.json"
+        }
+    },
+    "required": ["referenceURL", "version", "bibtex"]
+}

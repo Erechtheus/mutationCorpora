@@ -37,7 +37,7 @@ document = {
 }
 
 # We dissalow missing text
-validate(instance=document,
+validate(instance=[document],
          schema=documentSchema)
 
 document = {
@@ -50,7 +50,7 @@ document = {
 }
 
 # We dissalow missing entity text
-validate(instance=document,
+validate(instance=[document],
          schema=documentSchema)
 
 
