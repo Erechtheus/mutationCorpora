@@ -1,4 +1,6 @@
 from jsonschema import validate
+import json
+
 
 
 documentSchema = {
@@ -23,6 +25,10 @@ documentSchema = {
         "relations"
     ]
 }
+
+f = open('code/jsonschema/document.json')
+documentSchema = json.load(f)
+f.close()
 
 entities = [
     {
