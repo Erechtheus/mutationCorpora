@@ -1,7 +1,7 @@
 from jsonschema import validate
 import json
 
-f = open('code/jsonschema/entities.json')
+f = open('code/jsonschema/entity.json')
 newSchema = json.load(f)
 f.close()
 
@@ -27,15 +27,15 @@ entities = [
 
 
 #We allow empty entities array
-validate(instance={"entities": []}, schema=newSchema)
+validate(instance=[], schema=newSchema)
 #We allow filled entities array
-validate(instance={"entities": entities}, schema=newSchema)
+validate(instance=entities, schema=newSchema)
 
 #We dissalow missing text
-validate(instance = {"entities" : [{"ID": "T4", "type": "DNA_Mutation", "begin": 1114,"end": 1122,"ipsum": "mutation"}]}, schema=newSchema)
+validate(instance =  [{"ID": "T4", "type": "DNA_Mutation", "begin": 1114,"end": 1122,"ipsum": "mutation"}], schema=newSchema)
 
-#We dissalow wrong type (i.e. string instread of integer)
-validate(instance = {"entities" : [{"ID": "T4", "type": "DNA_Mutation", "begin": "1114","end": 1122,"text": "mutation"}]}, schema=newSchema)
+#We dissalow wrong type (i.e. string instead of integer)
+validate(instance =  [{"ID": "T4", "type": "DNA_Mutation", "begin": "1114","end": 1122,"text": "mutation"}], schema=newSchema)
 
 #We require entities as input
-validate(instance = {}, schema=newSchema)
+#validate(instance = {}, schema=newSchema)

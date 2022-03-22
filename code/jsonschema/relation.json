@@ -1,6 +1,6 @@
 {
-  "title": "equivalence",
-  "description": "List of equivalences",
+  "title": "relation",
+  "description": "List of relations",
   "type": "array",
   "items": {
     "type": "object",
