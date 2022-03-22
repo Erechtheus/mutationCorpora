@@ -5,15 +5,14 @@ f = open('code/jsonschema/entities.json')
 newSchema = json.load(f)
 f.close()
 
-#https://pypi.org/project/jsonschema2md/
 
 entities = [
     {
-    "ID": "T4",
-    "type": "DNA_Mutation",
-    "begin": 1114,
-    "end": 1122,
-    "text": "mutation"
+        "ID": "T4",
+        "type": "DNA_Mutation",
+        "begin": 1114,
+        "end": 1122,
+        "text": "mutation"
     },
     {
         "ID": "T6",

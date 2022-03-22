@@ -1,0 +1,45 @@
+{
+  "title": "relations",
+  "description": "Field to put all binary relations",
+  "type": "object",
+  "properties": {
+    "relations": {
+      "title": "relation",
+      "description": "List of relations",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ID": {
+            "title": "ID",
+            "description": "Unique relation identifier",
+            "type": "string"
+          },
+          "type": {
+            "title" : "Type",
+            "description" : "Relation type (by original corpus)",
+            "type": "string"
+          },
+          "arg1": {
+            "title" : "arg1",
+            "description" : "Argument 1 (binary relation)",
+            "type": "string"
+          },
+          "arg2": {
+            "title" : "End",
+            "description" : "Argument 2 (binary relation)",
+            "type": "string"
+          }        },
+        "required": [
+          "ID",
+          "type",
+          "arg1",
+          "arg2"
+        ]
+      }
+    }
+  },
+  "required": [
+    "relations"
+  ]
+}
