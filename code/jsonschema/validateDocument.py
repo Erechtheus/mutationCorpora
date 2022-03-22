@@ -3,29 +3,6 @@ import json
 
 
 
-documentSchema = {
-    "title": "Document",
-    "description": "A simple document",
-    "type": "object",
-    "properties": {
-        "ID": {"type": "string"},
-        "text": {"type": "string"},
-        "entities": {
-            "$ref": "file:code/jsonschema/entity.json"
-        },
-        "relations": {
-            "$ref": "file:code/jsonschema/relation.json"
-        }
-        #      "metadata"
-    },
-    "required": [
-        "ID",
-        "text",
-        "entities",
-        "relations"
-    ]
-}
-
 f = open('code/jsonschema/document.json')
 documentSchema = json.load(f)
 f.close()
@@ -37,13 +14,6 @@ entities = [
         "begin": 1114,
         "end": 1122,
         "text": "mutation"
-    },
-    {
-        "ID": "T6",
-        "type": "DNA_Mutation",
-        "begin": 137,
-        "end": 146,
-        "text": "Mutations"
     }
 ]
 
@@ -53,12 +23,6 @@ relations = [
         "type": "Has_Mutation",
         "arg1": "T1",
         "arg2": "T6"
-    },
-    {
-        "ID": "R1",
-        "type": "Has_Mutation",
-        "arg1": "T2",
-        "arg2": "T3"
     }
 ]
 
