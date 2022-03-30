@@ -1,7 +1,7 @@
 from jsonschema import validate
 import json
 
-f = open('code/jsonschema/corpus.json')
+f = open('code/jsonschema/schema/corpus.json')
 corpusSchema = json.load(f)
 f.close()
 

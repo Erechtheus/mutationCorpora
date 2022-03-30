@@ -1,12 +1,12 @@
 from jsonschema import validate
 import json
 
-f = open('code/jsonschema/relations.json')
+f = open('code/jsonschema/schema/relations.json')
 newSchema = json.load(f)
 f.close()
 
 relations = [
-                    {
+    {
                         "ID": "R3",
                         "type": "Has_Mutation",
                         "arg1": "T1",

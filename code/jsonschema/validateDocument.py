@@ -3,7 +3,7 @@ import json
 
 
 
-f = open('code/jsonschema/document.json')
+f = open('code/jsonschema/schema/document.json')
 documentSchema = json.load(f)
 f.close()
 
@@ -36,7 +36,6 @@ document = {
     "relations" : relations
 }
 
-# We dissalow missing text
 validate(instance=[document],
          schema=documentSchema)
 
